@@ -1,0 +1,148 @@
+/**
+ * Haryana Tools - Blog JavaScript Handler
+ * Handles rendering of both the blog list feed (with Load More pagination) and single blog post views.
+ */
+
+import { API } from './api.js';
+
+document.addEventListener('DOMContentLoaded', async () => {
+    const container = document.getElementById('blog-list-container');
+    if (!container) return;
+
+    try {
+        const urlParams = new URLSearchParams(window.location.search);
+        const slug = urlParams.get('slug');
+
+        if (slug) {
+            // --- Render Single Blog Post ---
+            const post = await API.getBlog(slug);
+            
+            if (!post) {
+                container.innerHTML = `<div class="alert alert-warning text-center my-5">Blog post "${slug}" could not be found.</div>`;
+                return;
+            }
+
+            const singleImage = post.image || post.Image || post.FeaturedImage || post.featuredImage;
+            const singleTitle = post.title || post.Title || 'Untitled Post';
+            const singleAuthor = post.author || post.Author || 'Admin';
+            const singleCategory = post.category || post.Category || 'General';
+            const singleMarkdown = post.markdownFile || post.MarkdownFile || 'N/A';
+
+            container.innerHTML = `
+                <article class="single-blog py-3">
+                    <nav aria-label="breadcrumb" class="mb-4">
+                        <ol class="breadcrumb">
+                            <li class="breadcrumb-item"><a href="blog.html" class="text-decoration-none">Blog Feed</a></li>
+                            <li class="breadcrumb-item active text-truncate" aria-current="page" style="max-width: 300px;">${singleTitle}</li>
+                        </ol>
+                    </nav>
+                    <h1 class="fw-bold text-dark mb-3">${singleTitle}</h1>
+                    <p class="text-muted mb-4"><i class="bi bi-person-circle me-1"></i> By ${singleAuthor} &bull; <span class="badge bg-secondary ms-1">${singleCategory}</span></p>
+                    
+                    ${singleImage ? `
+                        <div class="my-4">
+                            <img src="${singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
+                        </div>
+                    ` : ''}
+
+                    <div class="blog-content mt-4 text-secondary lh-lg">
+                        <p>Markdown file reference: <code>${singleMarkdown}</code></p>
+                    </div>
+                </article>
+            `;
+        } else {
+            // --- Render Blog List Feed with "Load More" Pagination ---
+            const responseData = await API.getBlogs();
+            
+            let allBlogs = [];
+            if (Array.isArray(responseData)) {
+                allBlogs = responseData;
+            } else if (responseData && Array.isArray(responseData.blogs)) {
+                allBlogs = responseData.blogs;
+            } else if (responseData) {
+                allBlogs = [responseData];
+            }
+            
+            if (allBlogs.length === 0) {
+                container.innerHTML = `<div class="col-12 text-center py-5"><p class="text-muted">No blog posts found.</p></div>`;
+                return;
+            }
+
+            // Setup Pagination Variables
+            let currentLimit = 0;
+            const postsPerPage = 6;
+
+            // Rebuild container structure to host grid and pagination footer cleanly
+            container.innerHTML = `
+                <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4" id="blog-grid"></div>
+                <div id="pagination-placeholder" class="d-flex justify-content-center mt-5"></div>
+            `;
+
+            const grid = document.getElementById('blog-grid');
+            const paginationPlaceholder = document.getElementById('pagination-placeholder');
+
+            // Helper function to append the next batch of blogs
+            const loadNextBatch = () => {
+                const nextLimit = currentLimit + postsPerPage;
+                const batch = allBlogs.slice(currentLimit, nextLimit);
+
+                const html = batch.map(post => {
+                    const imageUrl = post.image || post.Image || post.FeaturedImage || post.featuredImage || 'https://via.placeholder.com/400x200';
+                    const postTitle = post.title || post.Title || 'Untitled Post';
+                    const postSlug = post.slug || post.Slug || '#';
+                    const postExcerpt = post.excerpt || post.Excerpt || post.MetaDescription || 'Read our in-depth guide on workshop tools and equipment...';
+                    const postCategory = post.category || post.Category || 'General';
+                    const postDate = post.date || post.Date || 'Recent Guide';
+
+                    return `
+                        <div class="col">
+                            <div class="card h-100 shadow-sm border-0 rounded-3 overflow-hidden">
+                                <div class="position-relative bg-light" style="height: 200px; overflow: hidden;">
+                                    <img src="${imageUrl}" alt="${postTitle}" class="w-100 h-100 object-fit-cover">
+                                    <span class="badge bg-dark bg-opacity-75 position-absolute top-0 start-0 m-3 px-2.5 py-1.5 small">${postCategory}</span>
+                                </div>
+                                <div class="card-body d-flex flex-column p-4">
+                                    <div class="text-muted small mb-2">
+                                        <i class="bi bi-calendar3 me-1"></i> ${postDate}
+                                    </div>
+                                    <h5 class="card-title fw-bold text-dark mb-2">
+                                        <a href="blog.html?slug=${postSlug}" class="text-dark text-decoration-none stretched-link">
+                                            ${postTitle}
+                                        </a>
+                                    </h5>
+                                    <p class="card-text text-muted small flex-grow-1 mb-4">
+                                        ${postExcerpt}
+                                    </p>
+                                    <div class="d-flex align-items-center justify-content-between pt-3 border-top mt-auto">
+                                        <span class="text-primary fw-semibold small">Read Full Article &rarr;</span>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    `;
+                }).join('');
+
+                grid.insertAdjacentHTML('beforeend', html);
+                currentLimit += batch.length;
+
+                // Render or remove Load More button based on remaining items
+                if (currentLimit < allBlogs.length) {
+                    paginationPlaceholder.innerHTML = `
+                        <button id="load-more-btn" class="btn btn-outline-primary px-4 py-2 rounded-pill fw-semibold shadow-sm">
+                            Load More Articles (${allBlogs.length - currentLimit} remaining)
+                        </button>
+                    `;
+                    document.getElementById('load-more-btn').addEventListener('click', loadNextBatch);
+                } else {
+                    paginationPlaceholder.innerHTML = '<p class="text-muted small text-center italic">You have viewed all blog posts.</p>';
+                }
+            };
+
+            // Initialize first batch
+            loadNextBatch();
+        }
+    } catch (err) {
+        console.error("Critical error rendering blog:", err);
+        container.innerHTML = `<div class="col-12"><div class="alert alert-danger text-center">An unexpected error occurred: ${err.message}</div></div>`;
+    }
+});

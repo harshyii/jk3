@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    
+    <title>Product Details - StoreName</title>
+    <div id="head-placeholder"></div>
+    <link rel="stylesheet" href="/src/css/bootstrap.min.css">
+    <link rel="stylesheet" href="/src/css/app.css">
+</head>
+<body>
+    
+    <!-- Header / Navbar -->
+    <div id="header-placeholder"></div>
+    
+    <!-- Breadcrumb -->
+    <div id="breadcrumb-placeholder"></div>
+    
+
+    <main id="main-content" class="container py-5">
+        <section id="product-detail-container" class="row g-5 align-items-start">
+            <!-- Product Gallery Column -->
+            <!-- Product Gallery Column inside product.html -->
+<div class="col-lg-6">
+    <div class="card border-0 shadow-sm p-3 bg-white rounded">
+        <!-- Main Featured Image -->
+        <img id="product-image" src="" alt="Product Image" class="img-fluid rounded w-100 mb-3" style="max-height: 400px; object-fit: contain;">
+        
+        <!-- Thumbnail Gallery Strip for up to 8 images -->
+        <div id="product-thumbnails" class="d-flex gap-2 overflow-auto py-2">
+            <!-- Dynamic thumbnails injected here -->
+        </div>
+    </div>
+</div>
+            
+            <!-- Product Info Column -->
+            <div class="col-lg-6">
+                <span id="product-category" class="badge bg-secondary mb-2">Category</span>
+                <h1 id="product-title" class="fw-bold mb-3">Loading...</h1>
+                <h3 id="product-price" class="text-primary fw-semibold fs-3 mb-4">₹0</h3>
+                
+                <div class="product-description-wrapper mb-4">
+                    <h5>Description</h5>
+                    <div id="product-description" class="text-muted"></div>
+                </div>
+
+                <!-- Specifications Table -->
+                <div class="table-responsive mb-4">
+                    <table class="table table-striped table-bordered text-sm" id="product-specs">
+                        <!-- Dynamic specs injected here -->
+                    </table>
+                </div>
+                
+                <div class="purchase-actions d-grid gap-2">
+                    <button id="add-to-cart-btn" class="btn btn-primary btn-lg shadow-sm">Add to Cart</button>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer -->
+        <!-- Scripts -->
+    <script src="../js/layout.js" type="module"></script>
+
+
+    <!-- Toasts and Modals -->
+    <div id="toast-placeholder"></div>
+    <!--<div id="modal-placeholder"></div> -->
+<!-- Bootstrap 5 JS Bundle -->
+    <script src="../js/bootstrap.bundle.min.js"></script>
+    
+    <!-- Script Integration -->
+    <script src="../js/product.js" type="module"></script>
+</body>
+</html>

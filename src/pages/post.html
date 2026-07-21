@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog Post - Haryana Tools</title>
+    <link href="/src/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/src/css/app.css" rel="stylesheet">
+   
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <div id="header-placeholder"></div>
+
+    <main id="main-content" class="container my-5">
+        <!-- Breadcrumb container -->
+        <div id="breadcrumb-placeholder"></div>
+
+        <article id="blog-detail-container" class="mt-4">
+            <h1 id="blog-title" class="mb-3"></h1>
+            <div id="blog-meta" class="text-muted mb-4"></div>
+            <div id="blog-image-container" class="mb-4"></div>
+            
+            <!-- Target Div Section for Content -->
+            <div id="blog-content" class="blog-body-content"></div>
+        </article>
+    </main>
+
+    <!-- Embedded Content Storage (Bypasses fetch CORS errors completely) -->
+    <script type="text/template" id="content-air-compressor-buying-guide">
+        <div class="blog-content">
+            <img src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?q=80&w=1400&auto=format&fit=crop" class="img-fluid rounded shadow-sm mb-3" alt="Air Compressor">
+            <span class="badge bg-warning text-dark mb-2">Buying Guide</span>
+            <h1>Air Compressor Buying Guide: How to Choose the Right Air Compressor</h1>
+            <p>An air compressor is one of the most useful machines in workshops, garages, construction sites and manufacturing industries. It powers pneumatic tools, inflates tyres, sprays paint and supports countless industrial applications. Choosing the right compressor depends on pressure, airflow, tank capacity and intended usage. This guide explains everything you should know before buying.</p>
+            <hr>
+            <h2>What is an Air Compressor?</h2>
+            <p>An air compressor converts electrical or engine power into compressed air stored inside a pressure tank. This compressed air is then supplied to pneumatic tools whenever required.</p>
+            <div class="alert alert-warning py-2">
+                <strong>Common Applications</strong>
+                <ul class="mb-0 mt-2">
+                    <li>Tyre Inflation</li>
+                    <li>Painting & Spray Guns</li>
+                    <li>Impact Wrenches</li>
+                    <li>Air Nailers</li>
+                    <li>Air Blowers</li>
+                    <li>Industrial Automation</li>
+                    <li>Cleaning Machinery</li>
+                </ul>
+            </div>
+            <hr>
+            <h2>Types of Air Compressors</h2>
+            <div class="row g-3">
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5>Piston Compressor</h5>
+                            <p class="mb-0">Affordable and ideal for garages, workshops and general maintenance work.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5>Oil-Free Compressor</h5>
+                            <p class="mb-0">Low maintenance and suitable for painting, dental, laboratory and food applications.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="card h-100">
+                        <div class="card-body">
+                            <h5>Screw Compressor</h5>
+                            <p class="mb-0">Continuous-duty industrial compressor designed for factories and heavy production.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </script>
+
+    <!-- Footer -->
+    <div id="footer-placeholder"></div>
+
+    <!-- Script Integration -->
+    <script src="../js/post-detail.js" type="module"></script>
+    <script src="../js/layout.js" type="module"></script>
+</body>
+</html>

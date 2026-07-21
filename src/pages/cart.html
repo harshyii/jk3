@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Shopping Cart - StoreName</title>
+    <!-- CSS Dependencies -->
+    <link href="/src/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/src/css/app.css" rel="stylesheet"> <!-- Custom stylesheet fallback -->
+</head>
+<body>
+
+    <!-- Header / Navbar Placeholder -->
+    <div id="header-placeholder"></div>
+    
+    <main id="main-content" class="container py-5 cart-page">
+        <h1 class="mb-4 fw-bold">Your Shopping Cart</h1>
+
+        <section id="cart-section" class="row">
+            <!-- Left Column: Cart Items List / Empty State -->
+            <div class="col-lg-8 mb-4">
+                <div id="cart-items" class="cart-items-list">
+                    <!-- Dynamic Cart Items or Empty State injected here by cart.js -->
+                </div>
+            </div>
+
+            <!-- Right Column: Cart Summary -->
+            <div class="col-lg-4">
+                <div id="cart-summary" class="card shadow-sm p-4 border-0 bg-light">
+                    <h3 class="h4 mb-3 fw-semibold">Order Summary</h3>
+                    <div class="d-flex justify-content-between mb-3">
+                        <span class="text-muted">Total:</span>
+                        <span id="cart-total" class="fw-bold fs-5">$0.00</span>
+                    </div>
+                    <button id="checkout-btn" class="btn btn-primary w-100 py-2">Proceed to Checkout</button>
+                </div>
+            </div>
+        </section>
+
+        <!-- Recommended Products Section (Shown when empty or additional upsell) -->
+        <section id="recommendations-section" class="mt-5 pt-4 border-top">
+            <h3 class="h4 mb-4 fw-semibold">You Might Also Like</h3>
+            <div id="recommended-products" class="row row-cols-1 row-cols-md-3 g-4">
+                <!-- Recommended items injected dynamically by cart.js -->
+            </div>
+        </section>
+    </main>
+
+    <!-- Footer Placeholder -->
+    <div id="footer-placeholder"></div>
+
+    <!-- Toasts and Modals Placeholder -->
+    <div id="toast-placeholder"></div>
+
+    <!-- Script Integration -->
+    <script src="../js/cart.js" type="module"></script>
+    <script src="../js/layout.js" type="module"></script>
+</body>
+</html>

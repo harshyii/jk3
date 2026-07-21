@@ -1,0 +1,32 @@
+<!-- partials/filters.html -->
+<aside class="filter-sidebar">
+    <h3>Filters</h3>
+    <form id="filter-form">
+        <!-- Price Filter -->
+        <div class="filter-group">
+            <label for="price-range">Max Price: $<span id="price-value">100</span></label>
+            <input type="range" id="price-range" min="0" max="500" value="100">
+        </div>
+
+        <!-- Sort Filter -->
+        <div class="filter-group">
+            <label for="sort-select">Sort By:</label>
+            <select id="sort-select">
+                <option value="default">Featured</option>
+                <option value="price-asc">Price: Low to High</option>
+                <option value="price-desc">Price: High to Low</option>
+                <option value="newest">Newest</option>
+            </select>
+        </div>
+
+        <!-- Category Checkboxes -->
+        <div class="filter-group">
+            <h4>Categories</h4>
+            <div id="filter-category-list">
+                <!-- Checkboxes dynamically populated by filters.js or category.js -->
+            </div>
+        </div>
+
+        <button type="submit" id="apply-filters-btn">Apply Filters</button>
+    </form>
+</aside>

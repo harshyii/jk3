@@ -1,0 +1,10 @@
+# Allow all crawlers
+User-agent: *
+
+# Sitemap location
+Sitemap: https://www.yourdomain.com/sitemap.xml
+
+# Paths to disallow (Optional: adjust based on your specific needs)
+Disallow: /checkout
+Disallow: /cart
+Disallow: /api/

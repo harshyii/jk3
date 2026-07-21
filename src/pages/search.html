@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <div id="head-placeholder"></div>
+    <title>Search Results - StoreName</title>
+</head>
+<body>
+
+    <!-- Header / Navbar -->
+    <div id="header-placeholder"></div>
+    
+    <!-- Mega Menu -->
+    <!-- #include virtual="partials/mega-menu.html" -->
+
+    <main id="main-content">
+        <section id="search-results-header">
+            <h1>Search Results</h1>
+            <p>Showing results for: <strong id="search-query-display">...</strong></p>
+        </section>
+
+        <div class="search-layout">
+            <!-- Optional: Include filters if applicable to search results -->
+            <!-- #include virtual="partials/filters.html" -->
+
+            <!-- Search Results Grid: Target for search.js -->
+            <section id="search-results-container">
+                <div id="product-grid" class="grid-container">
+                    <!-- Product cards injected here by search.js -->
+                </div>
+            </section>
+        </div>
+
+        <!-- Pagination -->
+        <!-- #include virtual="partials/pagination.html" -->
+    </main>
+
+    <!-- Footer -->
+    <div id="footer-placeholder"></div>
+
+    <!-- Toasts and Modals -->
+    <div id="toast-placeholder"></div>
+    <div id="modal-placeholder"></div>
+
+    <!-- Script Integration -->
+    <script src="../js/search.js" type="module"></script>
+    <script src="../js/layout.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "name": "haryana-tools-web",
+  "version": "1.0.0",
+  "description": "Production-ready industrial e-commerce catalog for JK Enterprises",
+  "main": "build.js",
+  "scripts": {
+    "build": "node build/build.js && node build/search.js && node build/seo.js && node build/sitemap.js"
+  },
+  "keywords": [
+    "e-commerce",
+    "static-site",
+    "industrial",
+    "haryana-tools"
+  ],
+  "author": "JK Enterprises",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.3.6",
+    "xlsx": "^0.18.5"
+  },
+  "devDependencies": {
+    "browser-sync": "^3.0.2"
+  }
+}

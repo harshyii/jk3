@@ -3,11 +3,8 @@
  * Fetches static JSON files from the build output directory
  */
 
-// Use a version string to bust cache when you rebuild your data
-const CACHE_VERSION = 'v1.0'; 
-
-// Adjusted base URL to look outside src/pages/ into your build/dist directory structure
-const BASE_URL = '././dist/data'; // Adjust if your folder nesting differs (e.g., './dist/data')
+const CACHE_VERSION = 'v1.1'; // Increment this to force-bust old localStorage caches
+const BASE_URL = './src/data'; // Make sure this does NOT say dist/data
 
 export const API = {
     /**
@@ -42,7 +39,6 @@ export const API = {
     },
 
     // --- Product Methods ---
-    // --- Product Methods ---
     async getCatalog() {
         return await this.fetchData('catalog.json');
     },
@@ -58,17 +54,12 @@ export const API = {
         return await this.fetchData(`products/${cleanSlug}.json`);
     },
 
-    async getProduct(slug) {
-        return await this.fetchData(`products/${slug}.json`);
-    },
-
     // --- Blog Methods ---
     async getBlogs() {
         return await this.fetchData('blogs.json');
     },
 
     async getBlog(slug) {
-        // Now unified to use fetchData for proper path resolution and caching
         return await this.fetchData(`blogs/${slug}.json`);
     },
 

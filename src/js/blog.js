@@ -29,7 +29,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleMarkdown = post.markdownFile || post.MarkdownFile || 'N/A';
 
             container.innerHTML = `
-                <article class="single-blog py-3">
+                <article class="single-blog py-3 w-100">
                     <nav aria-label="breadcrumb" class="mb-4">
                         <ol class="breadcrumb">
                             <li class="breadcrumb-item"><a href="blog.html" class="text-decoration-none">Blog Feed</a></li>
@@ -72,13 +72,11 @@ document.addEventListener('DOMContentLoaded', async () => {
             let currentLimit = 0;
             const postsPerPage = 6;
 
-            // Rebuild container structure to host grid and pagination footer cleanly
+            // Cleanly render the grid structure without double nesting rows
             container.innerHTML = `
-        <div class="col-12">
-            <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4" id="blog-grid"></div>
-            <div id="pagination-placeholder" class="d-flex justify-content-center mt-5"></div>
-        </div>
-    `;
+                <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 w-100 m-0" id="blog-grid"></div>
+                <div id="pagination-placeholder" class="d-flex justify-content-center mt-5 w-100"></div>
+            `;
 
             const grid = document.getElementById('blog-grid');
             const paginationPlaceholder = document.getElementById('pagination-placeholder');

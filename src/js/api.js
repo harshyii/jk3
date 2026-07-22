@@ -4,7 +4,7 @@
  */
 
 const CACHE_VERSION = 'v1.1'; // Increment this to force-bust old localStorage caches
-const BASE_URL = './src/data'; // Make sure this does NOT say dist/data
+const BASE_URL = '/dist/data'; // Make sure this does NOT say dist/data
 
 export const API = {
     /**

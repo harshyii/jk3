@@ -1,6 +1,6 @@
 document.addEventListener('DOMContentLoaded', async () => {
     try {
-        const response = await fetch('dist/catalog.json');
+        const response = await fetch('dist/data/catalog.json');
         if (!response.ok) throw new Error('Failed to load product catalog');
         const products = await response.json();
 
@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         // Also fetch and render blogs if the blog-grid container exists
         try {
-            const blogResponse = await fetch('dist/blogs.json');
+            const blogResponse = await fetch('dist/data/blogs.json');
             if (blogResponse.ok) {
                 const blogs = await blogResponse.json();
                 renderBlogs(blogs);

@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         
         // Also fetch and render blogs if the blog-grid container exists
         try {
-            const blogResponse = await fetch('src/dist/data/blogs.json');
+            const blogResponse = await fetch('/dist/data/blogs.json');
             if (blogResponse.ok) {
                 const blogs = await blogResponse.json();
                 renderBlogs(blogs);

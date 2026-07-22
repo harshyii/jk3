@@ -7,18 +7,18 @@ export const Layout = {
         console.log("🚀 Layout script initialized!");
 
         const partials = [
-            { id: 'head-placeholder', file: '../partials/head.html' },
-            { id: 'header-placeholder', file: '../partials/header.html' },
-            { id: 'navbar-placeholder', file: '../partials/navbar.html' },
-            { id: 'mega-menu-placeholder', file: '../partials/mega-menu.html' },
-            { id: 'breadcrumb-placeholder', file: '../partials/breadcrumb.html' },
-            { id: 'filters-placeholder', file: '../partials/filters.html' },
-            { id: 'footer-placeholder', file: '../partials/footer.html' },
-            { id: 'toast-placeholder', file: '../partials/toast.html' },
-            { id: 'modal-placeholder', file: '../partials/modal.html' },
-            { id: 'pagination-placeholder', file: '../partials/pagination.html' },
-            { id: 'product-card-placeholder', file: '../partials/product-card.html' },
-            { id: 'offcanvas-placeholder', file: '../partials/offcanvas.html' }
+            { id: 'head-placeholder', file: './partials/head.html' },
+            { id: 'header-placeholder', file: './partials/header.html' },
+            { id: 'navbar-placeholder', file: './partials/navbar.html' },
+            { id: 'mega-menu-placeholder', file: './partials/mega-menu.html' },
+            { id: 'breadcrumb-placeholder', file: './partials/breadcrumb.html' },
+            { id: 'filters-placeholder', file: './partials/filters.html' },
+            { id: 'footer-placeholder', file: './partials/footer.html' },
+            { id: 'toast-placeholder', file: './partials/toast.html' },
+            { id: 'modal-placeholder', file: './partials/modal.html' },
+            { id: 'pagination-placeholder', file: './partials/pagination.html' },
+            { id: 'product-card-placeholder', file: './partials/product-card.html' },
+            { id: 'offcanvas-placeholder', file: './partials/offcanvas.html' }
         ];
 
         for (const partial of partials) {

@@ -7,7 +7,7 @@
 const CACHE_VERSION = 'v1.0'; 
 
 // Adjusted base URL to look outside src/pages/ into your build/dist directory structure
-const BASE_URL = '../../dist/data'; // Adjust if your folder nesting differs (e.g., '../dist/data')
+const BASE_URL = '././dist/data'; // Adjust if your folder nesting differs (e.g., './dist/data')
 
 export const API = {
     /**

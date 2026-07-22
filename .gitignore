@@ -13,3 +13,4 @@ build/
 !dist/
 !dist/data/
 !dist/data/blogs
+!src/data/blogs

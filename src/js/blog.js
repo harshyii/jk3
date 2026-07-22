@@ -1,6 +1,5 @@
 /**
  * Haryana Tools - Blog JavaScript Handler
- * Handles rendering of both the blog list feed (with Load More pagination) and single blog post views.
  */
 
 import { API } from './api.js';
@@ -26,8 +25,44 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleTitle = post.title || post.Title || 'Untitled Post';
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
-            const singleMarkdown = post.markdownFile || post.MarkdownFile || 'N/A';
+            
+            // Extract the filename (e.g., how-to-choose-angle-grinder.md)
+            let mdFileName = post.markdownFile || post.MarkdownFile || `${slug}.md`;
+            if (mdFileName.includes('/')) {
+                mdFileName = mdFileName.split('/').pop();
+            }
 
+            // 1. Fetch the actual .md file content
+            let markdownContent = '';
+            try {
+                let mdResponse = await fetch(`/src/data/blogs/${mdFileName}`);
+                if (!mdResponse.ok) {
+                    // Fallback check in dist folder if src fetch fails
+                    mdResponse = await fetch(`/dist/data/blogs/${mdFileName}`);
+                }
+
+                if (mdResponse.ok) {
+                    markdownContent = await mdResponse.text();
+                } else {
+                    markdownContent = '### Content Unavailable\nSorry, the body content for this blog post could not be loaded.';
+                }
+            } catch (fetchErr) {
+                console.error('Error fetching markdown file:', fetchErr);
+                markdownContent = '### Error\nFailed to load post content.';
+            }
+
+            // 2. Parse Markdown to HTML
+            let renderedHtml = markdownContent;
+            try {
+                // Dynamically load the 'marked' parser library
+                const { marked } = await import('https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js');
+                renderedHtml = marked.parse(markdownContent);
+            } catch (parseErr) {
+                console.warn('Marked library failed to load, falling back to basic formatting:', parseErr);
+                renderedHtml = markdownContent.replace(/\n\n/g, '<br><br>');
+            }
+
+            // 3. Render HTML to Container
             container.innerHTML = `
                 <article class="single-blog py-3 w-100">
                     <nav aria-label="breadcrumb" class="mb-4">
@@ -36,22 +71,26 @@ document.addEventListener('DOMContentLoaded', async () => {
                             <li class="breadcrumb-item active text-truncate" aria-current="page" style="max-width: 300px;">${singleTitle}</li>
                         </ol>
                     </nav>
+
                     <h1 class="fw-bold text-dark mb-3">${singleTitle}</h1>
-                    <p class="text-muted mb-4"><i class="bi bi-person-circle me-1"></i> By ${singleAuthor} &bull; <span class="badge bg-secondary ms-1">${singleCategory}</span></p>
+                    <p class="text-muted mb-4">
+                        <i class="bi bi-person-circle me-1"></i> By ${singleAuthor} &bull; 
+                        <span class="badge bg-secondary ms-1">${singleCategory}</span>
+                    </p>
                     
                     ${singleImage ? `
                         <div class="my-4">
-                            <img src="${singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
+                            <img src="${singleImage.startsWith('/') ? singleImage : '/' + singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
                         </div>
                     ` : ''}
 
-                    <div class="blog-content mt-4 text-secondary lh-lg">
-                        <p>Markdown file reference: <code>${singleMarkdown}</code></p>
+                    <div class="blog-content mt-4 text-secondary lh-lg fs-5">
+                        ${renderedHtml}
                     </div>
                 </article>
             `;
         } else {
-            // --- Render Blog List Feed with "Load More" Pagination ---
+            // --- Render Blog List Feed ---
             const responseData = await API.getBlogs();
             
             let allBlogs = [];
@@ -68,11 +107,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            // Setup Pagination Variables
             let currentLimit = 0;
             const postsPerPage = 6;
 
-            // Cleanly render the grid structure without double nesting rows
             container.innerHTML = `
                 <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 w-100 m-0" id="blog-grid"></div>
                 <div id="pagination-placeholder" class="d-flex justify-content-center mt-5 w-100"></div>
@@ -81,7 +118,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             const grid = document.getElementById('blog-grid');
             const paginationPlaceholder = document.getElementById('pagination-placeholder');
 
-            // Helper function to append the next batch of blogs
             const loadNextBatch = () => {
                 const nextLimit = currentLimit + postsPerPage;
                 const batch = allBlogs.slice(currentLimit, nextLimit);
@@ -98,7 +134,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                         <div class="col">
                             <div class="card h-100 shadow-sm border-0 rounded-3 overflow-hidden">
                                 <div class="position-relative bg-light" style="height: 200px; overflow: hidden;">
-                                    <img src="${imageUrl}" alt="${postTitle}" class="w-100 h-100 object-fit-cover">
+                                    <img src="${imageUrl.startsWith('/') || imageUrl.startsWith('http') ? imageUrl : '/' + imageUrl}" alt="${postTitle}" class="w-100 h-100 object-fit-cover">
                                     <span class="badge bg-dark bg-opacity-75 position-absolute top-0 start-0 m-3 px-2.5 py-1.5 small">${postCategory}</span>
                                 </div>
                                 <div class="card-body d-flex flex-column p-4">
@@ -125,7 +161,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 grid.insertAdjacentHTML('beforeend', html);
                 currentLimit += batch.length;
 
-                // Render or remove Load More button based on remaining items
                 if (currentLimit < allBlogs.length) {
                     paginationPlaceholder.innerHTML = `
                         <button id="load-more-btn" class="btn btn-outline-primary px-4 py-2 rounded-pill fw-semibold shadow-sm">
@@ -138,7 +173,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 }
             };
 
-            // Initialize first batch
             loadNextBatch();
         }
     } catch (err) {

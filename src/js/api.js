@@ -3,7 +3,7 @@
  * Fetches static JSON files from the build output directory
  */
 
-const CACHE_VERSION = 'v1.1'; // Increment this to force-bust old localStorage caches
+const CACHE_VERSION = 'v1.2'; // Increment this to force-bust old localStorage caches
 const BASE_URL = '/dist/data'; // Make sure this does NOT say dist/data
 
 export const API = {

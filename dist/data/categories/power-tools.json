@@ -1,0 +1,1430 @@
+{
+  "name": "power-tools",
+  "slug": "power-tools",
+  "products": [
+    {
+      "slug": "eastman-12v-drill-driver-kit-all-in-one-power-set-2-batteries-28nm-torque-24-piece-accessory-dual-speed-screwdriver-home-diy",
+      "name": "EASTMAN 12V Drill Driver Kit All in One Power Set 2 Batteries 28Nm Torque 24 Piece Accessory Dual Speed Screwdriver Home DIY",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4027,
+      "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-drill-10-mm-12-v",
+      "name": "EASTMAN DRILL 10 MM 12 V",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3646,
+      "image": "https://m.media-amazon.com/images/I/51r7aJBNNiL._SY300_SX300_QL70_FMwebp_.jpg"
+    },
+    {
+      "slug": "eastman-brushless-rotary-hammer-500w-lithium-battery-22mm-chuck-1400rpm-no-load-speed-4700bpm-impact-energy-comfort-grip-free-socket-drilling",
+      "name": "Eastman Brushless Rotary Hammer 500W Lithium Battery 22mm chuck 1400RPM No Load Speed 4700BPM impact Energy Comfort Grip Free Socket Drilling",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 11164,
+      "image": "https://m.media-amazon.com/images/I/41eBx+2loYL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-13mm-brushless-impact-drill-torque-800w-power-driver-80nm-26250-bpm-variable-speed-kit-fast-charger-bmc-carry-case",
+      "name": "EASTMAN 13mm Brushless Impact Drill Torque 800W Power Driver 80Nm 26250 BPM Variable Speed Kit Fast Charger BMC Carry Case",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7571,
+      "image": "https://m.media-amazon.com/images/I/51KS6jV9I3L._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-ecag-100-brushless-angle-grinder-100mm-18v-40ah-battery-kit-800w-cut-off-polisher-variable-speed-bmc-box-metalworking",
+      "name": "EASTMAN ECAG 100 Brushless Angle Grinder 100mm 18V 4.0Ah Battery Kit 800W Cut Off Polisher Variable Speed BMC Box Metalworking",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8562,
+      "image": "https://m.media-amazon.com/images/I/51zORwNDXbL._SL1080_.jpg"
+    },
+    {
+      "slug": "eastman-jrsdrive-impact-wrench-600w-power-2200rpm-no-load-speed-1-2inch-drive-torque-500-nm-fast-charger-battery-socket",
+      "name": "Eastman Jrsdrive Impact Wrench 600W Power 2200RPM no load speed 1 2inch Drive Torque 500 Nm Fast Charger Battery Socket",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 10254,
+      "image": "https://m.media-amazon.com/images/I/51NQ7XhEA3L._SL1024_.jpg"
+    },
+    {
+      "slug": "impact-wrench-350w-280nm-18v-2a-battery",
+      "name": "IMPACT WRENCH 350W 280NM 18V 2A Battery",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8990,
+      "image": "https://m.media-amazon.com/images/I/61j5aRCVHVL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-impact-wrench-1-2-inch-450w-torque-gun-280-nm-max-includes-4-sockets-1900-rpm-speed-ideal-car-tyre-changing-diy",
+      "name": "EASTMAN Impact Wrench 1 2 Inch 450W Torque Gun 280 Nm Max Includes 4 Sockets 1900 RPM Speed Ideal Car Tyre Changing DIY",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 5134,
+      "image": "https://m.media-amazon.com/images/I/41WEXeogIKL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-220v-air-impact-wrench-350w-power-9000-rpm-no-load-speed-1220-nm-torque-1-2-inch-chuck-size-electrical-tools-electrician-max-working-68-949-10mm-hose",
+      "name": "Eastman 220V Air Impact Wrench 350W Power 9000 RPM no load speed 1220 nm Torque 1 2 inch Chuck size electrical tools electrician Max Working 68 949 10mm Hose",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 10292,
+      "image": "https://m.media-amazon.com/images/I/514TQb6cqbL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-jrs-drive-utility-handy-vacuum-cleaner-40w-suction-long-battery-life-usb-charging-mini-sofa-car-cleaning-ecv528n",
+      "name": "Eastman JRS Drive Utility Handy Vacuum Cleaner 40W Suction Long Battery Life USB Charging Mini Sofa Car Cleaning ECV528N",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1175,
+      "image": "https://m.media-amazon.com/images/I/51357rFyr8L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-jrsdrive-utility-handheld-carhome-pet-hair-vacuum-cleaner-40w-8v-voltage-suction-black-colour-long-battery-life-versatile-cleaning-ecv590n",
+      "name": "Eastman JRSDrive Utility Handheld CarHome Pet Hair Vacuum Cleaner 40W 8V Voltage Suction Black Colour Long Battery Life Versatile Cleaning ECV590N",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 992,
+      "image": "https://m.media-amazon.com/images/I/61aXi+WztvL.SS125_PKplay-button-mb-image-grid-small_.jpg"
+    },
+    {
+      "slug": "eastman-ecvb588n-utility-vacuum-cleaner-blower-11000-pa-suction-brushless-bldc-motor-hepa-filter-8000mah-battery-handheld-car-home",
+      "name": "Eastman ECVB588N Utility Vacuum Cleaner Blower 11000 PA Suction Brushless BLDC Motor HEPA Filter 8000mAh Battery Handheld Car Home",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1842,
+      "image": "https://m.media-amazon.com/images/I/51Ac8NV-PcL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-680-watt-disc-dia-100mm-10500-rpm-grinding-wheel-guard-use",
+      "name": "Eastman Angle Grinder 680 Watt Disc Dia 100Mm 10500 Rpm Grinding Wheel Guard use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2496,
+      "image": "https://m.media-amazon.com/images/I/51V+-5hTqaL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-850w-angle-grinder-100mm-disc-11000-rpm-tail-handle-194-kg-cutting-grinding-polishing-edg-100t",
+      "name": "Eastman 850W Angle Grinder 100mm Disc 11000 RPM Tail Handle 1.94 kg Cutting Grinding Polishing EDG 100T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2739,
+      "image": "https://m.media-amazon.com/images/I/41OKtPaA+rL._SL1000_.jpg"
+    },
+    {
+      "slug": "angle-grinder-100mm-pb-gear-box",
+      "name": "ANGLE GRINDER 100MM PB GEAR BOX",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3070,
+      "image": "https://m.media-amazon.com/images/I/61HqHO+9SoL._SX522_.jpg"
+    },
+    {
+      "slug": "eastman-850w-angle-grinder-100mm-disc-11000-rpm-tail-handle-194-kg-cutting-grinding-polishing-edg-100t",
+      "name": "Eastman 850W Angle Grinder 100mm Disc 11000 RPM Tail Handle 1.94 kg Cutting Grinding Polishing EDG 100T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2739,
+      "image": "https://m.media-amazon.com/images/I/41OKtPaA+rL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-100mm-1100w-cutter-11000-rpm-side-switch-free-carbon-set-metal-cutting-polishing-grinding",
+      "name": "EASTMAN Angle Grinder 100mm 1100W Cutter 11000 RPM Side Switch Free Carbon Set Metal Cutting Polishing Grinding",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2993,
+      "image": "https://m.media-amazon.com/images/I/41zPlXKu+EL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-1100-watts-100mm-wheel-dia-11000-rpm-double-lock-spindle-system-use",
+      "name": "Eastman Angle Grinder 1100 Watts 100mm Wheel Dia 11000 Rpm Double Lock Spindle System Use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3110,
+      "image": "https://m.media-amazon.com/images/I/51vNN8atMbL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-1100-watts-100mm-wheel-dia-11000-rpm-double-lock-spindle-system-use",
+      "name": "Eastman Angle Grinder 1100 Watts 100mm Wheel Dia 11000 Rpm Double Lock Spindle System Use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3110,
+      "image": "https://m.media-amazon.com/images/I/51vNN8atMbL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-125mm-1350w-cutter-3000-9000-rpm-rear-handle-free-carbon-set-metal-cutting-polishing-grinding",
+      "name": "EASTMAN Angle Grinder 125mm 1350W Cutter 3000 9000 RPM Rear Handle Free Carbon Set Metal Cutting Polishing Grinding",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4303,
+      "image": "https://m.media-amazon.com/images/I/41MTy9CYbgL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-125mm-1350w-cutter-3000-9000-rpm-rear-handle-free-carbon-set-metal-cutting-polishing-grinding",
+      "name": "EASTMAN Angle Grinder 125mm 1350W Cutter 3000 9000 RPM Rear Handle Free Carbon Set Metal Cutting Polishing Grinding",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4303,
+      "image": "https://m.media-amazon.com/images/I/41MTy9CYbgL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-angle-grinder-2200w-wall-cutter-outer-dia-80-mm-speed-blade-lock-button-fan-cooled-motor-light-weight-design-comfortable-grip-in-blue-color",
+      "name": "EASTMAN Angle Grinder 2200W wall cutter Outer Dia 80 mm Speed Blade Lock Button fan Cooled Motor Light weight design comfortable Grip in blue color",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7659,
+      "image": "https://m.media-amazon.com/images/I/31jRtmS+yWL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-die-grinder-025mm",
+      "name": "EASTMAN  DIE GRINDER 025MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4743,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/Amazon_gallery_images_2_7cfa74c2-3846-4f5b-837a-0a2272aa2427_1078x1078.jpg?v=1755949361"
+    },
+    {
+      "slug": "eastman-cut-off-ecm-355a-speed-3800-rpm-metal-cutter-chop-saw-solid-rigid-base-aluminium-gear-housing-free-carbon-set",
+      "name": "Eastman Cut Off ECM 355A Speed 3800 RPM Metal Cutter Chop Saw Solid Rigid Base Aluminium Gear Housing Free Carbon Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8457,
+      "image": "https://m.media-amazon.com/images/I/41IcfYjVpwL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-cut-off-ecm-355a-speed-3800-rpm-metal-cutter-chop-saw-solid-rigid-base-aluminium-gear-housing-free-carbon-set",
+      "name": "Eastman Cut Off ECM 355A Speed 3800 RPM Metal Cutter Chop Saw Solid Rigid Base Aluminium Gear Housing Free Carbon Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8457,
+      "image": "https://m.media-amazon.com/images/I/41IcfYjVpwL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-ehd-26n-rotary-hammer-drill-sds-plus-800-w-26-mm-drilling-capacity-0-5500-bpm-1300-rpm-reversible-switch-bmc-box-free-carbon-set-bits-6-8-10-blue",
+      "name": "EASTMAN EHD 26N Rotary Hammer Drill SDS Plus 800 W 26 mm Drilling Capacity 0 5500 BPM 1300 RPM Reversible Switch BMC Box Free Carbon Set Bits 6 8 10 Blue",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4849,
+      "image": "https://m.media-amazon.com/images/I/71ln1GZTKDL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-20mm-rotary-hammer-drill-500w-sds-plus-drilling-5000-bpm-impact-rate-1200-rpm-speed-includes-bmc-box-free-bits-carbon-set",
+      "name": "EASTMAN 20mm Rotary Hammer Drill 500W SDS Plus Drilling 5000 BPM Impact Rate 1200 RPM Speed Includes BMC Box Free Bits Carbon Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4297,
+      "image": "https://m.media-amazon.com/images/I/41kAa1YgpoL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-ehd-26n-rotary-hammer-drill-sds-plus-800-w-26-mm-drilling-capacity-0-5500-bpm-1300-rpm-reversible-switch-bmc-box-free-carbon-set-bits-6-8-10-blue",
+      "name": "EASTMAN EHD 26N Rotary Hammer Drill SDS Plus 800 W 26 mm Drilling Capacity 0 5500 BPM 1300 RPM Reversible Switch BMC Box Free Carbon Set Bits 6 8 10 Blue",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4849,
+      "image": "https://m.media-amazon.com/images/I/71ln1GZTKDL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-ehd-26n-rotary-hammer-drill-sds-plus-800-w-26-mm-drilling-capacity-0-5500-bpm-1300-rpm-reversible-switch-bmc-box-free-carbon-set-bits-6-8-10-blue",
+      "name": "EASTMAN EHD 26N Rotary Hammer Drill SDS Plus 800 W 26 mm Drilling Capacity 0 5500 BPM 1300 RPM Reversible Switch BMC Box Free Carbon Set Bits 6 8 10 Blue",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4849,
+      "image": "https://m.media-amazon.com/images/I/71ln1GZTKDL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-ehd-26n-rotary-hammer-drill-sds-plus-800-w-26-mm-drilling-capacity-0-5500-bpm-1300-rpm-reversible-switch-bmc-box-free-carbon-set-bits-6-8-10-blue",
+      "name": "EASTMAN EHD 26N Rotary Hammer Drill SDS Plus 800 W 26 mm Drilling Capacity 0 5500 BPM 1300 RPM Reversible Switch BMC Box Free Carbon Set Bits 6 8 10 Blue",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4849,
+      "image": "https://m.media-amazon.com/images/I/71ln1GZTKDL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-demolition-hammer-1100w-concrete-breaker-11j-torque-4900-bpm-impact-rate-63kg-class-chipping-includes-flat-pointed-chisels-steel-case",
+      "name": "EASTMAN Demolition Hammer 1100W Concrete Breaker 11J Torque 4900 BPM Impact Rate 6.3Kg Class Chipping Includes Flat Pointed Chisels + Steel Case",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7445,
+      "image": "https://m.media-amazon.com/images/I/51Rx2fJPWIL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-demolition-hammer-1100w-concrete-breaker-11j-torque-4900-bpm-impact-rate-63kg-class-chipping-includes-flat-pointed-chisels-steel-case",
+      "name": "EASTMAN Demolition Hammer 1100W Concrete Breaker 11J Torque 4900 BPM Impact Rate 6.3Kg Class Chipping Includes Flat Pointed Chisels + Steel Case",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7445,
+      "image": "https://m.media-amazon.com/images/I/51Rx2fJPWIL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-demolition-hammer-11kg-1500w-concrete-breaker-21j-impact-energy-900-1890-bpm-bmc-box-free-pointed-bit",
+      "name": "EASTMAN Demolition Hammer 11kg 1500W Concrete Breaker 21J Impact Energy 900 1890 BPM BMC Box Free Pointed Bit",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 18550,
+      "image": "https://m.media-amazon.com/images/I/41M+BQcLp0L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-demolition-hammer-1100w-concrete-breaker-11j-torque-4900-bpm-impact-rate-63kg-class-chipping-includes-flat-pointed-chisels-steel-case",
+      "name": "EASTMAN Demolition Hammer 1100W Concrete Breaker 11J Torque 4900 BPM Impact Rate 6.3Kg Class Chipping Includes Flat Pointed Chisels + Steel Case",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7445,
+      "image": "https://m.media-amazon.com/images/I/51Rx2fJPWIL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "blower-600w-variable-speed",
+      "name": "BLOWER 600W VARIABLE SPEED",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2369,
+      "image": "https://m.media-amazon.com/images/I/61pSzsBLuML._SL1254_.jpg"
+    },
+    {
+      "slug": "blower-600w-variable-speed-new-model",
+      "name": "BLOWER 600W VARIABLE SPEED New Model",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2084,
+      "image": "https://m.media-amazon.com/images/I/61mM-yllwjL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-keyless-skrew-driver",
+      "name": "Eastman Keyless Skrew Driver",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2264,
+      "image": "https://m.media-amazon.com/images/I/41nrEC7QdmL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-drill-screw-driver-set-10mm-capacity-2500-rpm-500w-input-power-bmc-box-carbon-home-use",
+      "name": "Eastman Drill Screw Driver set 10mm Capacity 2500 Rpm 500W input power Bmc Box Carbon Home Use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4411,
+      "image": "https://m.media-amazon.com/images/I/31RUf73U6vL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-epd-010a-drill-10mm-chuck-450w-power-variable-speed-reversible-motor-3-free-bits-carbon-set-wood-metal-diy-home-repair",
+      "name": "EASTMAN EPD 010A Drill 10mm Chuck 450W Power Variable Speed Reversible Motor 3 Free Bits Carbon Set Wood Metal DIY Home Repair",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2564,
+      "image": "https://m.media-amazon.com/images/I/41j4pKseV-L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-epd-010a-drill-10mm-chuck-450w-power-variable-speed-reversible-motor-3-free-bits-carbon-set-wood-metal-diy-home-repair",
+      "name": "EASTMAN EPD 010A Drill 10mm Chuck 450W Power Variable Speed Reversible Motor 3 Free Bits Carbon Set Wood Metal DIY Home Repair",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2564,
+      "image": "https://m.media-amazon.com/images/I/41j4pKseV-L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-eid-013-impact-drill-13mm-chuck-600w-power-variable-speed-reversible-hammer-3-free-bits-carbon-set-concrete-wood-metal",
+      "name": "EASTMAN EID 013 Impact Drill 13mm Chuck 600W Power Variable Speed Reversible Hammer 3 Free Bits Carbon Set Concrete Wood Metal",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3104,
+      "image": "https://m.media-amazon.com/images/I/41762lvLx1L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-111-piece-multifunctional-set-13mm-drill-2800-rpm-motor-ideal-diy-home-repairs-workshop-tasks-drilling-sanding-cutting-more",
+      "name": "Eastman 111 Piece Multifunctional Set 13mm Drill 2800 RPM Motor Ideal DIY Home Repairs Workshop Tasks Drilling Sanding Cutting More",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4510,
+      "image": "https://m.media-amazon.com/images/I/51VJwHmQpyL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "circular-saw-185mm",
+      "name": "CIRCULAR SAW 185mm",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 6854,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/WhatsApp_Image_2026-05-02_at_16.35.29_1_1253x1253.jpg?v=1777720645"
+    },
+    {
+      "slug": "eastman-eep-082n-hand-planer-600w-82mm-cutting-width-speed-15000-rpm-woodworking-power-smoothing-surfacing-includes-free-extra-carbon-brush-set",
+      "name": "Eastman EEP 082N Hand Planer 600W 82mm Cutting Width Speed 15000 RPM Woodworking Power Smoothing Surfacing Includes Free Extra Carbon Brush Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3928,
+      "image": "https://m.media-amazon.com/images/I/51eckxaDapL.SS125_PKplay-button-mb-image-grid-small_.jpg"
+    },
+    {
+      "slug": "eastman-jig-saw-600-watt-strokes-per-min-500-3000-cutting-depth-25-mm-blue-black-ejs-60",
+      "name": "Eastman Jig Saw 600 Watt Strokes Per Min. 500 3000 Cutting Depth 25 Mm Blue Black EJS 60",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4305,
+      "image": "https://m.media-amazon.com/images/I/411iPMfa0ZL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-wood-trimmer-600w-220v-30000-rpm-woodworking-trimming-engraving-carving",
+      "name": "Eastman Wood Trimmer 600W 220V 30000 RPM Woodworking Trimming Engraving Carving",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3532,
+      "image": "https://m.media-amazon.com/images/I/51MhaoqNBDL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-router-eer-812n-speed-21000-rpm-woodworking-dual-bit-capacity-precision-grooving-edging",
+      "name": "Eastman Router EER 812N Speed 21000 RPM Woodworking Dual Bit Capacity Precision Grooving Edging",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 5558,
+      "image": "https://m.media-amazon.com/images/I/41pPMYb9k0L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-polisher-180mm-1350w-buffer-variable-speed-1000-3000-rpm-free-carbon-set-car-detailing-marble-floor-polishing",
+      "name": "EASTMAN Polisher 180mm 1350W Buffer Variable Speed 1000 3000 RPM Free Carbon Set Car Detailing Marble Floor Polishing",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 5882,
+      "image": "https://m.media-amazon.com/images/I/51Q6uoeZL8L._SL1080_.jpg"
+    },
+    {
+      "slug": "eastman-concrete-needle-vibrator-15-meter-faxible-rod-950-watt-4000-rpm-220-240-110v-vibration-frequency-230-hz-eev",
+      "name": "Eastman Concrete Needle Vibrator 1.5 Meter Faxible Rod 950 Watt 4000 Rpm 220 240 110V Vibration Frequency 230 Hz EEV",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4335,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/Rachet_Gallery_Image_1_1080x1080.jpg?v=1755949464"
+    },
+    {
+      "slug": "gasoline-brush-cutter-4-stroke-back-pack-type",
+      "name": "GASOLINE BRUSH CUTTER 4 STROKE BACK PACK TYPE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 15922,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EBCGX4-35BG_b7d5dd99-3e93-4d65-b34a-7bd484ae1c89_1400x1400.jpg?v=1755949348"
+    },
+    {
+      "slug": "gasoline-brush-cutter-4-stroke-side-pack",
+      "name": "GASOLINE BRUSH CUTTER 4 STROKE SIDE PACK",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 15896,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EBCGX4-35Ba_9ff173dc-9bc9-4e11-916e-5fe70750d153_1400x1400.jpg?v=1755949097"
+    },
+    {
+      "slug": "gasoline-brush-cutter-4-stroke-back-pack-type",
+      "name": "GASOLINE BRUSH CUTTER 4 STROKE BACK PACK TYPE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 14526,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EBCGX4-35BG_b7d5dd99-3e93-4d65-b34a-7bd484ae1c89_1400x1400.jpg?v=1755949348"
+    },
+    {
+      "slug": "gasoline-brush-cutter-4-stroke-side-pack-shoulder-type",
+      "name": "GASOLINE BRUSH CUTTER 4 STROKE SIDE PACK SHOULDER TYPE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 13703,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EBCGX4-35Ba_9ff173dc-9bc9-4e11-916e-5fe70750d153_1400x1400.jpg?v=1755949097"
+    },
+    {
+      "slug": "eastman-epcs-5822en2-gasoline-chain-saw-58cc-engine-560mm-bar-length-11000-rpm-speed-woodcutting-chainsaw-home-use",
+      "name": "EASTMAN EPCS 5822EN2 Gasoline Chain Saw 58cc Engine 560mm Bar Length 11000 RPM Speed Woodcutting Chainsaw Home Use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8460,
+      "image": "https://m.media-amazon.com/images/I/51OETWWCY9L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-epcs-5822en2-gasoline-chain-saw-58cc-engine-560mm-bar-length-11000-rpm-speed-woodcutting-chainsaw-home-use",
+      "name": "EASTMAN EPCS 5822EN2 Gasoline Chain Saw 58cc Engine 560mm Bar Length 11000 RPM Speed Woodcutting Chainsaw Home Use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8460,
+      "image": "https://m.media-amazon.com/images/I/51OETWWCY9L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "chain-saw-1600w-400mm",
+      "name": "CHAIN SAW 1600w 400mm",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 5920,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/Gemini_Generated_Image_v6s0unv6s0unv6s0_1400x1400.png?v=1775046659"
+    },
+    {
+      "slug": "heat-gun",
+      "name": "HEAT GUN",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2030,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EHG-8610Aa_e1af79d5-d570-45f2-b4d2-493837848241_994x994.jpg?v=1755949352"
+    },
+    {
+      "slug": "heat-gun-temperature-control",
+      "name": "HEAT GUN TEMPERATURE CONTROL",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1646,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ChatGPT_Image_Mar_27_2026_11_04_48_AM_1022x1022.png?v=1774593044"
+    },
+    {
+      "slug": "eastman-1600w-130-bar-induction-pressure-car-washer-water-pump-65-l-min-flow-washing-bike-home-cleaning",
+      "name": "Eastman 1600W 130 Bar Induction Pressure Car Washer Water Pump 6.5 L Min Flow Washing Bike Home Cleaning",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7905,
+      "image": "https://m.media-amazon.com/images/I/51i4gDSo+yL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-2000w-200-bar-induction-pressure-car-washer-water-pump-75-l-min-flow-washing-bike-home-cleaning",
+      "name": "Eastman 2000W 200 Bar Induction Pressure Car Washer Water Pump 7.5 L Min Flow Washing Bike Home Cleaning",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 11407,
+      "image": "https://m.media-amazon.com/images/I/51XU92xlkXL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-pressure-washer-2300-watt-max-135-bar-discharge-rate-580-l-h-eipw-23100",
+      "name": "Eastman Pressure Washer 2300 Watt Max 135 Bar Discharge Rate 580 L H EIPW 23100",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 20644,
+      "image": "https://m.media-amazon.com/images/I/41jSy4NpApL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-pressure-washer-2300-watt-max-135-bar-discharge-rate-580-l-h-eipw-23100",
+      "name": "Eastman Pressure Washer 2300 Watt Max 135 Bar Discharge Rate 580 L H EIPW 23100",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 20644,
+      "image": "https://m.media-amazon.com/images/I/41jSy4NpApL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "marble-cutter-110-a",
+      "name": "MARBLE CUTTER 110 A",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3728,
+      "image": "https://m.media-amazon.com/images/I/61EORdrobcL._SX679_.jpg"
+    },
+    {
+      "slug": "eastman-marble-saw-wood-cutter-1300-watt-12000-rpm-110mm-blade-dia-tile-bevel-depth-adjustable-free-carbon-set",
+      "name": "Eastman Marble Saw Wood Cutter 1300 Watt 12000 Rpm 110mm Blade Dia Tile Bevel Depth Adjustable Free Carbon Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3089,
+      "image": "https://m.media-amazon.com/images/I/41zcBfeAV6L._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-marble-saw-wood-cutter-13000-rpm-1700-watt-125-mm-disc-dia-tile-bevel-depth-adjustable",
+      "name": "Eastman Marble Saw Wood Cutter 13000 Rpm 1700 Watt 125 Mm Disc Dia Tile Bevel Depth Adjustable",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3739,
+      "image": "https://m.media-amazon.com/images/I/71bkg0gapsL._SL1254_.jpg"
+    },
+    {
+      "slug": "eastman-marble-saw-wood-cutter-1680-watt-12000-rpm-125mm-blade-dia-tile-bevel-depth-adjustable-free-carbon-set",
+      "name": "Eastman Marble Saw Wood Cutter 1680 Watt 12000 Rpm 125mm Blade Dia Tile Bevel Depth Adjustable Free Carbon Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3975,
+      "image": "https://m.media-amazon.com/images/I/51lBKQzYUDL.SS125_PKplay-button-mb-image-grid-small_.jpg"
+    },
+    {
+      "slug": "eastman-marble-saw-wood-cutter-1680-watt-12000-rpm-125mm-blade-dia-tile-bevel-depth-adjustable-free-carbon-set",
+      "name": "Eastman Marble Saw Wood Cutter 1680 Watt 12000 Rpm 125mm Blade Dia Tile Bevel Depth Adjustable Free Carbon Set",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3975,
+      "image": "https://m.media-amazon.com/images/I/51lBKQzYUDL.SS125_PKplay-button-mb-image-grid-small_.jpg"
+    },
+    {
+      "slug": "functional-saw-125mm-tilted-plate",
+      "name": "FUNCTIONAL SAW 125MM TILTED PLATE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4442,
+      "image": "https://m.media-amazon.com/images/I/71bkg0gapsL._SL1254_.jpg"
+    },
+    {
+      "slug": "magnetic-core-drill-broach-cutter-38-mm-emcd",
+      "name": "MAGNETIC CORE DRILL BROACH CUTTER 38 MM EMCD",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 31320,
+      "image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+    },
+    {
+      "slug": "magnetic-core-drill-broach-cutter-50-mm-emcd",
+      "name": "MAGNETIC CORE DRILL BROACH CUTTER 50 MM EMCD",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 49590,
+      "image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+    },
+    {
+      "slug": "oil-free-air-compressor-30l",
+      "name": "OIL FREE AIR COMPRESSOR 30L",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 14434,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/WhatsApp_Image_2025-02-05_at_12.46.37_PM-Photoroom_1274x1274.png?v=1755949087"
+    },
+    {
+      "slug": "oil-free-air-compressor-50l",
+      "name": "OIL FREE AIR COMPRESSOR 50L",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 18062,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/WhatsApp_Image_2025-02-05_at_12.46.37_PM-Photoroom_1274x1274.png?v=1755949087"
+    },
+    {
+      "slug": "eastman-air-compressor-12v-car-tyre-inflator-100-psi-pressure-pump-led-light-20l-min-flow-cars-bikes-inflatables",
+      "name": "EASTMAN Air Compressor 12V Car Tyre Inflator 100 PSI Pressure Pump LED Light 20L Min Flow Cars Bikes Inflatables",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1481,
+      "image": "https://m.media-amazon.com/images/I/51hwGO9CFcL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-double-cylinder-air-compressor-12v-150-psi-tyre-inflator-pump-60l-min-flow-led-light-battery-alligator-clamps-suvs-trucks-cars",
+      "name": "EASTMAN Double Cylinder Air Compressor 12V 150 PSI Tyre Inflator Pump 60L Min Flow LED Light Battery Alligator Clamps SUVs Trucks Cars",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3562,
+      "image": "https://m.media-amazon.com/images/I/41UjUkDa7qL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "handy-vacumm-cleaner-blower-800w",
+      "name": "HANDY VACUMM CLEANER BLOWER 800W",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 3838,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/Amazon_gallery_images_3_87a74b7f-31fb-46d9-8279-94fce815d034_1078x1078.jpg?v=1755949403"
+    },
+    {
+      "slug": "vaccum-cleaner-wet-dry-blow",
+      "name": "VACCUM CLEANER WET DRY BLOW",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 9789,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EVC-030a_fabf550f-3455-4d38-abc4-b2e46a88c8ae_500x500.jpg?v=1755949406"
+    },
+    {
+      "slug": "eastman-vacuum-cleaner-capacity-15-litre-suction-20-kpa-1000-watt-wet-dry-blowing-stainless-steel-drum-evc-015",
+      "name": "Eastman Vacuum Cleaner Capacity 15 Litre Suction 20 Kpa 1000 Watt Wet Dry Blowing Stainless Steel Drum EVC 015",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 16816,
+      "image": "https://m.media-amazon.com/images/I/41lfukLqCXL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "vacuum-cleaner-1000w-30l-dry-wet",
+      "name": "VACUUM CLEANER 1000W 30L DRY WET",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 23490,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EVC-030a_fabf550f-3455-4d38-abc4-b2e46a88c8ae_500x500.jpg?v=1755949406"
+    },
+    {
+      "slug": "vacuum-cleaner-60l-dry-wet",
+      "name": "VACUUM CLEANER 60L DRY WET",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 50112,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EVC-060a_8d5c76de-ed10-41d4-8305-11f20f881854_994x994.jpg?v=1755949401"
+    },
+    {
+      "slug": "eastman-pneumatic-paint-spray-gun-gravity-feed-sprayer-600ml-cup-3-4-bar-operating-pressure-ideal-automotive-furniture-metal-painting-1-inch-air-inlet",
+      "name": "EASTMAN Pneumatic Paint Spray Gun Gravity Feed Sprayer 600ml Cup 3 4 Bar Operating Pressure Ideal Automotive Furniture Metal Painting 1 Inch Air Inlet",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1407,
+      "image": "https://m.media-amazon.com/images/I/517f2pS3POL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-paint-spray-gun-400w-hvlp-sprayer-800ml-cup-18mm-26mm-nozzles-adjustable-air-pressure-automotive-furniture-wall-painting-free-viscosity-epsg-850",
+      "name": "Eastman Paint Spray Gun 400W HVLP Sprayer 800ml Cup 1.8mm 2.6mm Nozzles Adjustable Air Pressure Automotive Furniture Wall Painting Free Viscosity EPSG 850",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2260,
+      "image": "https://m.media-amazon.com/images/I/41ykD8nwAyL._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-paint-spray-gun-400w-hvlp-sprayer-800ml-cup-18mm-26mm-nozzles-adjustable-air-pressure-automotive-furniture-wall-painting-free-viscosity-epsg-850",
+      "name": "Eastman Paint Spray Gun 400W HVLP Sprayer 800ml Cup 1.8mm 2.6mm Nozzles Adjustable Air Pressure Automotive Furniture Wall Painting Free Viscosity EPSG 850",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2260,
+      "image": "https://m.media-amazon.com/images/I/41ykD8nwAyL._SL1000_.jpg"
+    },
+    {
+      "slug": "paint-mixer-16mm-120mm-rod",
+      "name": "PAINT MIXER 16MM 120MM ROD",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4824,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EPM-16a_fb8db001-8905-4787-a025-d265a4110336_994x994.jpg?v=1755949089"
+    },
+    {
+      "slug": "eastman-eawsi-200-arc-welding-200a-inverter-welder-igbt-technology-lightweight-4kg-fan-cooled-set-cables-mask-brush",
+      "name": "Eastman EAWSI 200 Arc Welding 200A Inverter Welder IGBT Technology Lightweight 4kg Fan Cooled Set Cables Mask Brush",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8385,
+      "image": "https://m.media-amazon.com/images/I/51-2+aNe7ZL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-eawsi-250-arc-welding-250a-inverter-welder-igbt-technology-lightweight-4kg-fan-cooled-kit-accessories",
+      "name": "EASTMAN EAWSI 250 Arc Welding 250A Inverter Welder IGBT Technology Lightweight 4kg Fan Cooled Kit Accessories",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 10353,
+      "image": "https://m.media-amazon.com/images/I/41oPNLVzQyL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-ecag-100-brushless-angle-grinder-100mm-18v-40ah-battery-kit-800w-cut-off-polisher-variable-speed-bmc-box-metalworking",
+      "name": "EASTMAN ECAG 100 Brushless Angle Grinder 100mm 18V 4.0Ah Battery Kit 800W Cut Off Polisher Variable Speed BMC Box Metalworking",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8562,
+      "image": "https://m.media-amazon.com/images/I/41IzDBBT2HL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "kit-hammer-drill-22mm-18v-2-batteries",
+      "name": "KIT HAMMER DRILL 22MM 18V 2 BATTERIES",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 18532,
+      "image": "https://m.media-amazon.com/images/I/71Db8zQfzJL._SX679_.jpg"
+    },
+    {
+      "slug": "eastman-13mm-brushless-impact-drill-torque-800w-power-driver-80nm-26250-bpm-variable-speed-kit-fast-charger-bmc-carry-case",
+      "name": "EASTMAN 13mm Brushless Impact Drill Torque 800W Power Driver 80Nm 26250 BPM Variable Speed Kit Fast Charger BMC Carry Case",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 7571,
+      "image": "https://m.media-amazon.com/images/I/61A93xQ1ltL.SS125_PKplay-button-mb-image-grid-small_.jpg"
+    },
+    {
+      "slug": "kit-impact-wrench-350w-18v-2-batteries",
+      "name": "KIT IMPACT WRENCH 350W 18V 2 BATTERIES",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 12111,
+      "image": "https://m.media-amazon.com/images/I/71D0YSTlYrL._SX679_.jpg"
+    },
+    {
+      "slug": "kit-impact-wrench-600w-18v-2-batteries",
+      "name": "KIT IMPACT WRENCH 600W 18V 2 BATTERIES",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 17044,
+      "image": "https://m.media-amazon.com/images/I/51NQ7XhEA3L._SL1024_.jpg"
+    },
+    {
+      "slug": "eastman-double-end-magnetic-bit-set-1-pkt-contain-10-bitspcs-ph2-l65-mm-material-s2-chamber-finish-mirror-copper-e-2256",
+      "name": "Eastman Double End Magnetic Bit Set 1 Pkt. Contain 10 Bitspcs Ph2 L65 Mm Material S2 Chamber Finish Mirror Copper E 2256",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 296,
+      "image": "https://m.media-amazon.com/images/I/31BoD6yGVyL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-double-end-magnetic-bit-set-1-pkt-contain-10-bitspcs-ph2-l65-mm-material-s2-chamber-finish-mirror-copper-e-2256",
+      "name": "Eastman Double End Magnetic Bit Set 1 Pkt. Contain 10 Bitspcs Ph2 L65 Mm Material S2 Chamber Finish Mirror Copper E 2256",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 296,
+      "image": "https://m.media-amazon.com/images/I/31BoD6yGVyL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-double-end-magnetic-bit-set-1-pkt-contain-10-bitspcs-ph2-l65-mm-material-s2-chamber-finish-mirror-copper-e-2256",
+      "name": "Eastman Double End Magnetic Bit Set 1 Pkt. Contain 10 Bitspcs Ph2 L65 Mm Material S2 Chamber Finish Mirror Copper E 2256",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 296,
+      "image": "https://m.media-amazon.com/images/I/31BoD6yGVyL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-double-end-magnetic-bit-set-1-pkt-contain-10-bitspcs-ph2-l65-mm-material-s2-chamber-finish-mirror-copper-e-2256",
+      "name": "Eastman Double End Magnetic Bit Set 1 Pkt. Contain 10 Bitspcs Ph2 L65 Mm Material S2 Chamber Finish Mirror Copper E 2256",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 296,
+      "image": "https://m.media-amazon.com/images/I/31BoD6yGVyL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "eastman-12-inch-chain-saw-bracket-attachment-converts-4-5-angle-grinder-into-chainsaw-300mm-guide-bar-lightweight-1kg-diy-wood-cutting-includes-handle",
+      "name": "EASTMAN 12 Inch Chain Saw Bracket Attachment Converts 4 5 Angle Grinder into Chainsaw 300mm Guide Bar Lightweight 1kg DIY Wood Cutting Includes Handle",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1020,
+      "image": "https://m.media-amazon.com/images/I/510KOyZjl7L._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-12-inch-chain-saw-bracket-attachment-converts-4-5-angle-grinder-into-chainsaw-300mm-guide-bar-lightweight-1kg-diy-wood-cutting-includes-handle",
+      "name": "EASTMAN 12 Inch Chain Saw Bracket Attachment Converts 4 5 Angle Grinder into Chainsaw 300mm Guide Bar Lightweight 1kg DIY Wood Cutting Includes Handle",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1020,
+      "image": "https://m.media-amazon.com/images/I/510KOyZjl7L._SL1000_.jpg"
+    },
+    {
+      "slug": "eastman-12-inch-chain-saw-bracket-attachment-converts-4-5-angle-grinder-into-chainsaw-300mm-guide-bar-lightweight-1kg-diy-wood-cutting-includes-handle",
+      "name": "EASTMAN 12 Inch Chain Saw Bracket Attachment Converts 4 5 Angle Grinder into Chainsaw 300mm Guide Bar Lightweight 1kg DIY Wood Cutting Includes Handle",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1020,
+      "image": "https://m.media-amazon.com/images/I/510KOyZjl7L._SL1000_.jpg"
+    },
+    {
+      "slug": "chisel-bit-16kg-hammer-400x30mm-flat",
+      "name": "CHISEL BIT 16KG HAMMER 400X30MM FLAT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 441,
+      "image": "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-16kg-hammer-400x30mm-pointed",
+      "name": "CHISEL BIT 16KG HAMMER 400X30MM POINTED",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 441,
+      "image": "https://m.media-amazon.com/images/I/61vYJslM4CL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-11kg-hammer-sds-max-400x18mm-flat",
+      "name": "CHISEL BIT 11KG HAMMER SDS MAX 400X18MM FLAT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 251,
+      "image": "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-11kg-hammer-sds-max-400x18mm-pointed",
+      "name": "CHISEL BIT 11KG HAMMER SDS MAX 400X18MM POINTED",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 251,
+      "image": "https://m.media-amazon.com/images/I/61vYJslM4CL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-5kg-hammer-400x17mm-pointed",
+      "name": "CHISEL BIT 5KG HAMMER 400X17MM POINTED",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 206,
+      "image": "https://m.media-amazon.com/images/I/61vYJslM4CL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-5kg-hammer-400x17mm-flat",
+      "name": "CHISEL BIT 5KG HAMMER 400X17MM FLAT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 206,
+      "image": "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-5kg-hammer-280x17mm-flat",
+      "name": "CHISEL BIT 5KG HAMMER 280X17MM FLAT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 143,
+      "image": "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg"
+    },
+    {
+      "slug": "chisel-bit-5kg-hammer-280x17mm-pointed",
+      "name": "CHISEL BIT 5KG HAMMER 280X17MM POINTED",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 143,
+      "image": "https://m.media-amazon.com/images/I/61vYJslM4CL._SL1500_.jpg"
+    },
+    {
+      "slug": "cutting-wheel-107mm-regular-green",
+      "name": "CUTTING WHEEL 107MM REGULAR GREEN",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
+    },
+    {
+      "slug": "cutting-wheel-107mm-green-double-net-jrsdrive-platinum",
+      "name": "CUTTING WHEEL 107MM GREEN DOUBLE NET JRSDRIVE PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
+    },
+    {
+      "slug": "cutting-wheel-107mm-red-platinum",
+      "name": "CUTTING WHEEL 107MM RED PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 22,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW180N_1d56e6f9-0bb4-40e7-be70-acd43647ee1e_1400x1400.jpg?v=1755949224"
+    },
+    {
+      "slug": "cutting-wheel-125mm-red-platinum",
+      "name": "CUTTING WHEEL 125MM RED PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW180N_1d56e6f9-0bb4-40e7-be70-acd43647ee1e_1400x1400.jpg?v=1755949224"
+    },
+    {
+      "slug": "cutting-wheel-180-mm-red-platinumseries",
+      "name": "CUTTING WHEEL 180 MM RED PLATINUMSERIES",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 59,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW180N_1d56e6f9-0bb4-40e7-be70-acd43647ee1e_1400x1400.jpg?v=1755949224"
+    },
+    {
+      "slug": "cutting-wheel-355-mm-green-double-net",
+      "name": "CUTTING WHEEL 355 mm GREEN DOUBLE NET",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 156,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
+    },
+    {
+      "slug": "cutting-wheel-355mm-black-single-net",
+      "name": "CUTTING WHEEL 355MM BLACK SINGLE NET",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 138,
+      "image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+    },
+    {
+      "slug": "cutting-wheel-355mm-green-single-net",
+      "name": "CUTTING WHEEL 355MM GREEN SINGLE NET",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 144,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
+    },
+    {
+      "slug": "cutting-wheel-355mm-green-single-net-jrsdrive-platinum",
+      "name": "CUTTING WHEEL 355MM GREEN SINGLE NET JRSDRIVE PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 156,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
+    },
+    {
+      "slug": "eastman-zero-chip-blade-110x8x14x20mm-ultra-precision-diamond-smooth-free-cutting-tiles-granite-marble-glass",
+      "name": "Eastman Zero Chip Blade 110x8x1.4x20mm Ultra Precision Diamond Smooth Free Cutting Tiles Granite Marble Glass",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1350,
+      "image": "https://m.media-amazon.com/images/I/41QQoyrwvlL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "diamond-cup-wheel-100-mm-segment-type",
+      "name": "DIAMOND CUP WHEEL 100 MM SEGMENT TYPE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 180,
+      "image": "https://stoneshopsupply.com/cdn/shop/products/cpwhl4_1024x1024.jpg?v=1487432844"
+    },
+    {
+      "slug": "diamond-cup-wheel-80-mm-rim-type",
+      "name": "DIAMOND CUP WHEEL 80 MM RIM TYPE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 119,
+      "image": "https://stoneshopsupply.com/cdn/shop/products/contcpwhl_1024x1024.jpg?v=1487432844"
+    },
+    {
+      "slug": "diamond-cup-wheel-80-mm-segment-type",
+      "name": "DIAMOND CUP WHEEL 80 MM SEGMENT TYPE",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 119,
+      "image": "https://stoneshopsupply.com/cdn/shop/products/cpwhl4_1024x1024.jpg?v=1487432844"
+    },
+    {
+      "slug": "diamond-saw-blade-110x10mm",
+      "name": "DIAMOND SAW BLADE 110X10MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 119,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+    },
+    {
+      "slug": "diamond-saw-blade-125-x10mm",
+      "name": "DIAMOND SAW BLADE 125 X10MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 148,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+    },
+    {
+      "slug": "diamond-saw-blade-rim-type-110x10-mm",
+      "name": "DIAMOND SAW BLADE RIM TYPE 110X10 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 114,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+    },
+    {
+      "slug": "diamond-saw-blade-super-thin-turbo-105x10x14",
+      "name": "DIAMOND SAW BLADE SUPER THIN TURBO 105X10X1.4",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 150,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+    },
+    {
+      "slug": "diamond-saw-blade-turbo-green-110x8x16-20mm",
+      "name": "DIAMOND SAW BLADE TURBO GREEN 110X8X16 20MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 120,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+    },
+    {
+      "slug": "diamond-saw-blade-9-cut-110x10mm",
+      "name": "DIAMOND SAW BLADE 9 CUT 110X10MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 114,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+    },
+    {
+      "slug": "digital-clampmeter-e-dcm-266",
+      "name": "DIGITAL CLAMPMETER E DCM 266",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 922,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EDCM-266a_52134fa6-b2b2-4057-8289-1ee6cfac1571_994x994.jpg?v=1772702385"
+    },
+    {
+      "slug": "digital-multimeter-e-dm-81",
+      "name": "DIGITAL MULTIMETER E DM 81",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 922,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/04NovEastmanProduct81_7f0369a3-86bf-476c-8b38-bcd87e4cb3d0_1078x1078.jpg?v=1755949317"
+    },
+    {
+      "slug": "drill-chuck-10mm",
+      "name": "DRILL CHUCK 10MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 152,
+      "image": "https://m.media-amazon.com/images/I/61V0sYoQgQL._SX679_.jpg"
+    },
+    {
+      "slug": "drill-chuck-13mm",
+      "name": "DRILL CHUCK 13MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 176,
+      "image": "https://m.media-amazon.com/images/I/61V0sYoQgQL._SX679_.jpg"
+    },
+    {
+      "slug": "flap-disc-100-x120g",
+      "name": "FLAP DISC 100 X120G",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 34,
+      "image": "https://m.media-amazon.com/images/I/81LnEcV6nuL._SL1500_.jpg"
+    },
+    {
+      "slug": "flap-disc-100-x60g",
+      "name": "FLAP DISC 100 X60G",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 34,
+      "image": "https://m.media-amazon.com/images/I/81LnEcV6nuL._SL1500_.jpg"
+    },
+    {
+      "slug": "flap-disc-100-x80g",
+      "name": "FLAP DISC 100 X80G",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 34,
+      "image": "https://m.media-amazon.com/images/I/81LnEcV6nuL._SL1500_.jpg"
+    },
+    {
+      "slug": "flex-grinding-disc-100x3x16mm-gc-120-grit-platinum",
+      "name": "FLEX GRINDING DISC 100X3X16MM GC 120 GRIT PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg"
+    },
+    {
+      "slug": "flex-grinding-disc-100x3x16mm-gc-46-grit-platinum",
+      "name": "FLEX GRINDING DISC 100X3X16MM GC 46 GRIT PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg"
+    },
+    {
+      "slug": "flex-grinding-disc-100x3x16mm-gc-60-grit-platinum",
+      "name": "FLEX GRINDING DISC 100X3X16MM GC 60 GRIT PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg"
+    },
+    {
+      "slug": "grinding-wheel-black-regular-100-x-6-16-mm",
+      "name": "GRINDING WHEEL BLACK REGULAR 100 x 6 16 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 26,
+      "image": "https://m.media-amazon.com/images/I/71Jq0US9aHL._SL1500_.jpg"
+    },
+    {
+      "slug": "grinding-wheel-black-regular-125-x-6-22-mm",
+      "name": "GRINDING WHEEL BLACK REGULAR 125 x 6 22 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 44,
+      "image": "https://m.media-amazon.com/images/I/71Jq0US9aHL._SL1500_.jpg"
+    },
+    {
+      "slug": "grinding-wheel-black-regular-180x67x22mm",
+      "name": "GRINDING WHEEL BLACK REGULAR 180X6.7X22MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 100,
+      "image": "https://m.media-amazon.com/images/I/71Jq0US9aHL._SL1500_.jpg"
+    },
+    {
+      "slug": "grinding-wheel-green-25-net100x6x16mm-platinum",
+      "name": "GRINDING WHEEL GREEN 2.5 NET100X6X16MM PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 32,
+      "image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+    },
+    {
+      "slug": "grinding-wheel-green-25-net125x6x22mm-platinum",
+      "name": "GRINDING WHEEL GREEN 2.5 NET125X6X22MM PLATINUM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 48,
+      "image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+    },
+    {
+      "slug": "magnetic-nut-runner-865-mm",
+      "name": "MAGNETIC NUT RUNNER 865 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 138,
+      "image": "https://m.media-amazon.com/images/I/711PyKO+N+L._SX679_.jpg"
+    },
+    {
+      "slug": "planner-blade-set-82mm-hss",
+      "name": "PLANNER BLADE SET 82mm HSS",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 171,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EPB82HSS_a024378c-6c06-421c-88a9-651d18571cca_1400x1400.jpg?v=1755949209"
+    },
+    {
+      "slug": "planner-blade-set-82mm-tct",
+      "name": "PLANNER BLADE SET 82mm TCT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 327,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/EPB82TCT_54a522ab-3cdd-4980-b7e1-4b6e7a1dd35a_1400x1400.jpg?v=1755949208"
+    },
+    {
+      "slug": "polishing-pad-225mm-super-buff",
+      "name": "POLISHING PAD 225MM SUPER BUFF",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 483,
+      "image": "https://m.media-amazon.com/images/I/419uDNUGNrL._SL1080_.jpg"
+    },
+    {
+      "slug": "saw-chain-16-full-chisel",
+      "name": "SAW CHAIN 16 FULL CHISEL",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 544,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/Gemini_Generated_Image_v6s0unv6s0unv6s0_1400x1400.png?v=1775046659"
+    },
+    {
+      "slug": "eastman-epcs-5822en2-gasoline-chain-saw-58cc-engine-560mm-bar-length-11000-rpm-speed-woodcutting-chainsaw-home-use",
+      "name": "EASTMAN EPCS 5822EN2 Gasoline Chain Saw 58cc Engine 560mm Bar Length 11000 RPM Speed Woodcutting Chainsaw Home Use",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 8460,
+      "image": "https://m.media-amazon.com/images/I/51OETWWCY9L._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "riviter-conversion-connector",
+      "name": "RIVITER CONVERSION CONNECTOR",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 1088,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/ERCC-175a_a87412a8-e7be-4611-94a3-1215002a17f0_994x994.jpg?v=1755949098"
+    },
+    {
+      "slug": "eastman-concrete-needle-vibrator-15-meter-faxible-rod-950-watt-4000-rpm-220-240-110v-vibration-frequency-230-hz-eev",
+      "name": "Eastman Concrete Needle Vibrator 1.5 Meter Faxible Rod 950 Watt 4000 Rpm 220 240 110V Vibration Frequency 230 Hz EEV",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 4335,
+      "image": "https://m.media-amazon.com/images/I/51iyDjJb9ZL._SX38_SY50_CR,0,0,38,50_.jpg"
+    },
+    {
+      "slug": "rod-vibrator-30-m",
+      "name": "ROD VIBRATOR 3.0 M",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 2600,
+      "image": "https://m.media-amazon.com/images/I/51JthONtksL._SX679_.jpg"
+    },
+    {
+      "slug": "sand-paper-velcro-125mm-100-grit",
+      "name": "SAND PAPER VELCRO 125MM 100 GRIT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 6,
+      "image": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg"
+    },
+    {
+      "slug": "sand-paper-velcro-125mm-120-grit",
+      "name": "SAND PAPER VELCRO 125MM 120 GRIT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 6,
+      "image": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg"
+    },
+    {
+      "slug": "sand-paper-velcro-125mm-46-grit",
+      "name": "SAND PAPER VELCRO 125MM 46 GRIT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 6,
+      "image": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg"
+    },
+    {
+      "slug": "sand-paper-velcro-125mm-60-grit",
+      "name": "SAND PAPER VELCRO 125MM 60 GRIT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 6,
+      "image": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg"
+    },
+    {
+      "slug": "sand-paper-velcro-125mm-80-grit",
+      "name": "SAND PAPER VELCRO 125MM 80 GRIT",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 6,
+      "image": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-10x100x160-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 10X100X160 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 76,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-10x50x110-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 10X50X110 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 74,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-12x100x160-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 12X100X160 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 90,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-12x150x210-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 12X150X210 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 105,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-12x250x310-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 12X250X310 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 124,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-14x100x160-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 14X100X160 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 130,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-14x250x310-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 14X250X310 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 190,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-16x100x160-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 16X100X160 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 159,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-16x250x310-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 16X250x310 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 232,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-18x250x310-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 18X250X310 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 280,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-5x50x110-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 5X50X110 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 53,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-65x50x110-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 6.5X50X110 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 58,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-6x100x160-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 6X100X160 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 59,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-6x50x110-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 6X50X110 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 54,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-8x100x160-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 8X100X160 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 68,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "sds-flat-single-tip-double-flute-drill-bit-8x50x110-mm",
+      "name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 8X50X110 MM",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 65,
+      "image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+    },
+    {
+      "slug": "tct-blade-4-x30t",
+      "name": "TCT BLADE 4 X30T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 155,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-4-x40t",
+      "name": "TCT BLADE 4 X40T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 176,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-5-x-30t",
+      "name": "TCT BLADE 5 X 30T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 180,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-5-x-40t",
+      "name": "TCT BLADE 5 X 40T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 195,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-7-x-40t",
+      "name": "TCT BLADE 7 X 40T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 387,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-7-x-60t",
+      "name": "TCT BLADE 7 X 60T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 402,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-8-x-40t",
+      "name": "TCT BLADE 8 X 40T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 473,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-8x-60t",
+      "name": "TCT BLADE 8X 60T",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 568,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    },
+    {
+      "slug": "tct-blade-10-x-60t-250mm",
+      "name": "TCT BLADE 10 X 60T 250mm",
+      "brand": "Eastman",
+      "category": "power-tools",
+      "price": 710,
+      "image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+    }
+  ]
+}

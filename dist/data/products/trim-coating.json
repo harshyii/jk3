@@ -1,0 +1,31 @@
+{
+  "ProductID": "JKE-COT012",
+  "SKU": "-COT012",
+  "Name": "Trim coating",
+  "ItemName": "Lilac Air Freshener Mist",
+  "Slug": "trim-coating",
+  "Category": "automotive",
+  "Subcategory": "COATINGS",
+  "Brand": "Foxcare",
+  "Images": [
+    "https://m.media-amazon.com/images/I/71FBT5Sn6+L._SX522_.jpg",
+    "https://m.media-amazon.com/images/I/61e58bAXcRL._SY500_.jpg",
+    "https://m.media-amazon.com/images/I/719061xRnxL._SY500_.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/71FBT5Sn6+L._SX522_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 50,
+  "Unit": "ml",
+  "MRP": 1999,
+  "Discount": -10,
+  "SalePrice": 2208,
+  "Supplier": "Foxcare",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

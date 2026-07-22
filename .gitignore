@@ -1,10 +1,14 @@
 # Dependencies
 node_modules/
 
-# Build Output
+# Build Output (Ignore root level data/ and build/ folders)
 data/
 build/
 
 # Environment / Local variables
 .env
 .DS_Store
+
+# Explicitly allow dist/ and dist/data/ to be tracked
+!dist/
+!dist/data/

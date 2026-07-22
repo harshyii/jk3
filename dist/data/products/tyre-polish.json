@@ -1,0 +1,31 @@
+{
+  "ProductID": "JKE-POL004",
+  "SKU": "-POL004",
+  "Name": "Tyre Polish",
+  "ItemName": "Tyre Gloss 500ml",
+  "Slug": "tyre-polish",
+  "Category": "automotive",
+  "Subcategory": "Polishes",
+  "Brand": "Foxcare",
+  "Images": [
+    "https://www.foxcare.in/cdn/shop/products/es.jpg?v=1676542116",
+    "https://www.foxcare.in/cdn/shop/products/IMG1_d8e0df9a-182a-4097-8d7d-8380c6c32aba.jpg?v=1676542116",
+    "https://www.foxcare.in/cdn/shop/products/IMG2_c647483f-c386-4bb1-872b-cb776343ed73.jpg?v=1676542116"
+  ],
+  "Image": "https://www.foxcare.in/cdn/shop/products/es.jpg?v=1676542116",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 200,
+  "Unit": "ml",
+  "MRP": 299,
+  "Discount": 67,
+  "SalePrice": 98,
+  "Supplier": "Foxcare",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

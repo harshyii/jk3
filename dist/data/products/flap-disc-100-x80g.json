@@ -1,0 +1,33 @@
+{
+  "ProductID": "FAPEFD00010080",
+  "SKU": "EFD00010080",
+  "Name": "FLAP DISC 100 X80G",
+  "ItemName": "Grinding Wheel 125mm Black",
+  "Slug": "flap-disc-100-x80g",
+  "Category": "power-tools",
+  "Subcategory": "Power Accessories",
+  "Brand": "Eastman",
+  "Images": [
+    "https://m.media-amazon.com/images/I/81LnEcV6nuL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71dElbnN4yL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71gKy1PrFfL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81njTQD5VoL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81MXTcBM7FL._SL1486_.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/81LnEcV6nuL._SL1500_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 200,
+  "Unit": "PC",
+  "MRP": 64,
+  "Discount": 47,
+  "SalePrice": 34,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

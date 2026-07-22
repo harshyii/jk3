@@ -1,0 +1,29 @@
+{
+  "ProductID": "FDASMR00025",
+  "SKU": "E-2066S-MALLET",
+  "Name": "SPARE MALLET 25 E 2066S",
+  "ItemName": "Spare Mallet 25mm",
+  "Slug": "spare-mallet-25-e-2066s",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://www.eastmanshop.com/cdn/shop/files/spare_mallets_2_600x600.jpg?v=1755949328"
+  ],
+  "Image": "https://www.eastmanshop.com/cdn/shop/files/spare_mallets_2_600x600.jpg?v=1755949328",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 56,
+  "Discount": 23,
+  "SalePrice": 43,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

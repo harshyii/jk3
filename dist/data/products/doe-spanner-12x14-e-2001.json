@@ -1,0 +1,32 @@
+{
+  "ProductID": "FSVD1023100876",
+  "SKU": "E-2001-12X14",
+  "Name": "DOE SPANNER 12X14 E 2001",
+  "ItemName": "Double Open End Spanner 12x14mm",
+  "Slug": "doe-spanner-12x14-e-2001",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51HPV8VluzS._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71QGKSa+RWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51MNtljnxML.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 46,
+  "Discount": 22,
+  "SalePrice": 36,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

@@ -1,0 +1,32 @@
+{
+  "ProductID": "KIT-E2001-06W",
+  "SKU": "E-2001-PCS",
+  "Name": "DOE WW S O 06 PCS E 2001",
+  "ItemName": "DOE WW S/O 06 PCS E-2001",
+  "Slug": "doe-ww-s-o-06-pcs-e-2001",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://m.media-amazon.com/images/I/61Y5u7nXP-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/31geJnGmX7L.jpg",
+    "https://m.media-amazon.com/images/I/61Y5u7nXP-L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51MNtljnxML.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/61Y5u7nXP-L._SL1500_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 336,
+  "Discount": 26,
+  "SalePrice": 250,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

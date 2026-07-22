@@ -1,0 +1,32 @@
+{
+  "ProductID": "FSVD1023100912",
+  "SKU": "E-2001-5/16X7/16",
+  "Name": "DOE SPANNER 5 16X7 16 E 2001",
+  "ItemName": "DOE SPANNER 5/16X7/16 E-2001",
+  "Slug": "doe-spanner-5-16x7-16-e-2001",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51HPV8VluzS._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71QGKSa+RWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51MNtljnxML.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 69,
+  "Discount": 23,
+  "SalePrice": 53,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

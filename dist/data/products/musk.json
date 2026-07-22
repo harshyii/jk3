@@ -1,0 +1,29 @@
+{
+  "ProductID": "JKE-WPF001",
+  "SKU": "-WPF001",
+  "Name": "MUSK",
+  "ItemName": "Carnauba Liquid Wax Polish 500ml",
+  "Slug": "musk",
+  "Category": "automotive",
+  "Subcategory": "WOOD PERFUME",
+  "Brand": "Foxcare",
+  "Images": [
+    "https://www.foxcare.in/cdn/shop/products/1.jpg?v=1676623311"
+  ],
+  "Image": "https://www.foxcare.in/cdn/shop/products/1.jpg?v=1676623311",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 50,
+  "Unit": "gm",
+  "MRP": 399,
+  "Discount": 46,
+  "SalePrice": 216,
+  "Supplier": "Foxcare",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

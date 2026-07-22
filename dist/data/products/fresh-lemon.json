@@ -1,0 +1,29 @@
+{
+  "ProductID": "JKE-CPF002",
+  "SKU": "-CPF002",
+  "Name": "FRESH LEMON",
+  "ItemName": "Microfiber Cloth 40×40cm 350 GSM",
+  "Slug": "fresh-lemon",
+  "Category": "automotive",
+  "Subcategory": "CAR PERFUME (GEL)",
+  "Brand": "Foxcare",
+  "Images": [
+    "https://www.foxcare.in/cdn/shop/files/1_7860e957-507d-4924-8a68-141edf4d2866.jpg?v=1766302442"
+  ],
+  "Image": "https://www.foxcare.in/cdn/shop/files/1_7860e957-507d-4924-8a68-141edf4d2866.jpg?v=1766302442",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 100,
+  "Unit": "gm",
+  "MRP": 399,
+  "Discount": 57,
+  "SalePrice": 173,
+  "Supplier": "Foxcare",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

@@ -1,0 +1,29 @@
+{
+  "ProductID": "KIT- L & T W/O FOAM",
+  "SKU": ")-BAG",
+  "Name": "KIT L T",
+  "ItemName": "L & T Tool Kit",
+  "Slug": "kit-l-t",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+  ],
+  "Image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 325,
+  "Discount": 25,
+  "SalePrice": 243,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

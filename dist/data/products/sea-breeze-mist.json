@@ -1,0 +1,29 @@
+{
+  "ProductID": "JKE-AFR006",
+  "SKU": "-AFR006",
+  "Name": "SEA BREEZE Mist",
+  "ItemName": "All Purpose Cleaner & Degreaser Spray",
+  "Slug": "sea-breeze-mist",
+  "Category": "automotive",
+  "Subcategory": "fresheners",
+  "Brand": "Foxcare",
+  "Images": [
+    "https://www.foxcare.in/cdn/shop/files/sb.jpg?v=1685182040"
+  ],
+  "Image": "https://www.foxcare.in/cdn/shop/files/sb.jpg?v=1685182040",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 200,
+  "Unit": "ml",
+  "MRP": 499,
+  "Discount": 61,
+  "SalePrice": 195,
+  "Supplier": "Foxcare",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

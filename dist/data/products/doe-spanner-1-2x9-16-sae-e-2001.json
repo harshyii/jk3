@@ -1,0 +1,32 @@
+{
+  "ProductID": "FSVD1023100881",
+  "SKU": "E-2001-SAE",
+  "Name": "DOE SPANNER 1 2X9 16 SAE E 2001",
+  "ItemName": "DOE SPANNER 1/2X9/16 SAE E-2001",
+  "Slug": "doe-spanner-1-2x9-16-sae-e-2001",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51HPV8VluzS._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/71QGKSa+RWL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/51MNtljnxML.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 145,
+  "Discount": 26,
+  "SalePrice": 108,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

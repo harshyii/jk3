@@ -2,7 +2,7 @@
 node_modules/
 
 # Build Output
-dist/
+data/
 build/
 
 # Environment / Local variables

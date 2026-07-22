@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const products = await response.json();
 
         renderFeaturedProducts(products);
-        
+        <base href="/jk3/"></base>
         // Also fetch and render blogs if the blog-grid container exists
         try {
             const blogResponse = await fetch('dist/data/blogs.json');

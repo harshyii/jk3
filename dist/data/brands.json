@@ -1,8 +1,16 @@
 [
   {
+    "name": "Samsung",
+    "slug": "samsung",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
     "name": "Eastman",
     "slug": "eastman",
     "count": 1157,
-    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg"
+    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
+    "featured": false
   }
 ]

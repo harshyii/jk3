@@ -1,0 +1,12 @@
+[
+  {
+    "code": "SAVE10",
+    "discountType": "percentage",
+    "discountValue": 0,
+    "minimumSpend": 0,
+    "usageLimit": null,
+    "startDate": "",
+    "expiryDate": "",
+    "active": false
+  }
+]

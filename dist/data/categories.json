@@ -1,14 +1,23 @@
 [
   {
+    "name": "Electronics",
+    "slug": "electronics",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
     "name": "power-tools",
     "slug": "power-tools",
     "count": 178,
-    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg"
+    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
+    "featured": false
   },
   {
     "name": "hand-tools",
     "slug": "hand-tools",
     "count": 979,
-    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336"
+    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336",
+    "featured": false
   }
 ]

@@ -1,0 +1,17 @@
+{
+  "site_name": {
+    "value": "JK Enterprises",
+    "group": "general",
+    "description": "Website main title"
+  },
+  "currency_symbol": {
+    "value": "INR",
+    "group": "localization",
+    "description": "Primary currency indicator"
+  },
+  "support_email": {
+    "value": "care@haryana.tools",
+    "group": "contact",
+    "description": "Customer service email"
+  }
+}

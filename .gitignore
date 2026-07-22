@@ -12,5 +12,6 @@ build/
 # Explicitly allow dist/ and dist/data/ to be tracked
 !dist/
 !dist/data/
-!dist/data/blogs
-!src/data/blogs
+!dist/data/blogs/
+!src/data/
+!src/data/blogs/

@@ -26,29 +26,40 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
             
-            // Extract the filename (e.g., how-to-choose-angle-grinder.md)
-            let mdFileName = post.markdownFile || post.MarkdownFile || `${slug}.md`;
-            if (mdFileName.includes('/')) {
-                mdFileName = mdFileName.split('/').pop();
+            // Extract the filename or full relative path from the post metadata
+            let mdFileSource = post.markdownFile || post.MarkdownFile || post.file || post.File || `${slug}.md`;
+            
+            // Normalize path variants (e.g. if json has "src/data/blogs/file.md" or just "file.md")
+            let cleanRelativePath = mdFileSource.replace(/^\/+/, '');
+            if (!cleanRelativePath.startsWith('src/') && !cleanRelativePath.startsWith('dist/')) {
+                cleanRelativePath = `src/data/blogs/${cleanRelativePath}`;
             }
 
-            // 1. Fetch the actual .md file content
+            // 1. Fetch the actual .md file content trying multiple potential web roots
             let markdownContent = '';
-            try {
-                let mdResponse = await fetch(`/src/data/blogs/${mdFileName}`);
-                if (!mdResponse.ok) {
-                    // Fallback check in dist folder if src fetch fails
-                    mdResponse = await fetch(`/dist/data/blogs/${mdFileName}`);
-                }
+            const pathsToTry = [
+                `/${cleanRelativePath}`,
+                `/${cleanRelativePath.replace('src/', 'dist/')}`,
+                `./${cleanRelativePath}`,
+                `../${cleanRelativePath}`,
+                `data/blogs/${cleanRelativePath.split('/').pop()}`,
+                `./data/blogs/${cleanRelativePath.split('/').pop()}`
+            ];
 
-                if (mdResponse.ok) {
-                    markdownContent = await mdResponse.text();
-                } else {
-                    markdownContent = '### Content Unavailable\nSorry, the body content for this blog post could not be loaded.';
+            let mdResponse = null;
+            for (const pathOption of pathsToTry) {
+                try {
+                    mdResponse = await fetch(pathOption);
+                    if (mdResponse.ok) break;
+                } catch (e) {
+                    // Try next path option
                 }
-            } catch (fetchErr) {
-                console.error('Error fetching markdown file:', fetchErr);
-                markdownContent = '### Error\nFailed to load post content.';
+            }
+
+            if (mdResponse && mdResponse.ok) {
+                markdownContent = await mdResponse.text();
+            } else {
+                markdownContent = `### Content Unavailable\nSorry, the markdown file for **${slug}** could not be loaded from the server path.`;
             }
 
             // 2. Parse Markdown to HTML
@@ -56,6 +67,13 @@ document.addEventListener('DOMContentLoaded', async () => {
             try {
                 // Dynamically load the 'marked' parser library
                 const { marked } = await import('https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js');
+                
+                marked.setOptions({
+                    headerIds: true,
+                    mangle: false,
+                    gfm: true
+                });
+
                 renderedHtml = marked.parse(markdownContent);
             } catch (parseErr) {
                 console.warn('Marked library failed to load, falling back to basic formatting:', parseErr);
@@ -80,7 +98,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     
                     ${singleImage ? `
                         <div class="my-4">
-                            <img src="${singleImage.startsWith('/') ? singleImage : '/' + singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
+                            <img src="${singleImage.startsWith('/') || singleImage.startsWith('http') ? singleImage : '/' + singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
                         </div>
                     ` : ''}
 

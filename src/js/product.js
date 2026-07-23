@@ -19,7 +19,8 @@ document.addEventListener('DOMContentLoaded', async () => {
         if (!sku) {
             throw new Error('No valid product SKU or slug specified.');
         }
-
+        
+        sku = sku.toUpperCase();
         // Fetch specific product JSON file by SKU
         const response = await fetch(`dist/data/products/${sku}.json`);
         if (!response.ok) throw new Error('Product not found');
@@ -193,7 +194,7 @@ function renderRelatedProducts(currentProduct, catalog) {
                         </div>
                 </a>
                 <div class="card-body d-flex flex-column p-3">
-                    <span class="text-lowercase text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>
+                    <span class="text-case text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>
                     <h5 class="card-title fs-6 mb-2">
                         <a href="product.html?sku=${product.sku}" class="text-dark text-decoration-none stretched-link">
                             ${escapeHtml(product.name)}

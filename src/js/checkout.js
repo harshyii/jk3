@@ -221,7 +221,7 @@ const Checkout = {
 
         let summaryCard = container.closest('.card');
         if (summaryCard) {
-            let summaryHeader = summaryCard.querySelector('h5') || summaryCard.querySelector('h5');
+            let summaryHeader = summaryCard.querySelector('h5');
             if (summaryHeader) {
                 summaryHeader.className = 'h5 fw-bold mb-3 border-bottom pb-2 text-dark d-flex justify-content-between align-items-center';
                 summaryHeader.innerHTML = `
@@ -324,7 +324,7 @@ const Checkout = {
 
                 this.safeShowToast('Processing your order securely...', 'info');
 
-                const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyhxs13n-042usHoCU48cI-Y-Pzyg4SWdFWa0RnqC3S8_Ho6_lL7X35bRf-9Y8eAEkWnw/exec';
+                const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyoaezPkHnSTJMbGD2yW5wMOypGIj6XPtWGLRDJ_X7BVDaM3eB3EyvlV4_0lUrkPtlkJw/exec';
 
                 try {
                     await fetch(GOOGLE_SHEET_WEB_APP_URL, {

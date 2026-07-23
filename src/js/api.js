@@ -44,15 +44,18 @@ export const API = {
     },
 
     async getProduct(sku) {
-        // Automatically sanitize and slugify the incoming slug (lowercases and replaces spaces with hyphens)
-        const cleanSlug = sku
-            
-            .trim()
-            .replace(/[^\w\s-]/g, '')
-            .replace(/[\s_-]+/g, '-');
-            
-        return await this.fetchData(`products/${cleanSlug}.json`);
-    },
+    if (!sku) throw new Error('No SKU provided');
+    
+    // Properly sanitize, strip special characters, and lowercase the SKU for the filename path
+    const cleanSku = sku
+        .toString()
+        .trim()
+        .toLowerCase()
+        .replace(/[^\w\s-]/g, '')
+        .replace(/[\s_-]+/g, '-');
+        
+    return await this.fetchData(`products/${cleanSku}.json`);
+}
 
     // --- Blog Methods ---
     async getBlogs() {

@@ -1,0 +1,29 @@
+{
+  "ProductID": "KITHOME9",
+  "SKU": "PCS-7",
+  "Name": "HOME KIT 7 PCS",
+  "ItemName": "HOME TOOL KIT 7 PCS",
+  "Slug": "home-kit-7-pcs",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+  ],
+  "Image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 2004,
+  "Discount": 26,
+  "SalePrice": 1492,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "https://www.haryana.tools/product/PCS-7",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

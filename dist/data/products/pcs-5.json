@@ -1,0 +1,29 @@
+{
+  "ProductID": "KITHOME5",
+  "SKU": "PCS-5",
+  "Name": "HOME KIT 5 PCS",
+  "ItemName": "HOME TOOL KIT 5 PCS",
+  "Slug": "home-kit-5-pcs",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+  ],
+  "Image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 1052,
+  "Discount": 26,
+  "SalePrice": 782,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "https://www.haryana.tools/product/PCS-5",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

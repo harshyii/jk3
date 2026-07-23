@@ -1,0 +1,33 @@
+{
+  "ProductID": "FPTECD0000010E",
+  "SKU": "ECD010E",
+  "Name": "EASTMAN DRILL 10 MM 12 V",
+  "ItemName": "Cordless Drill 10mm 12V",
+  "Slug": "eastman-drill-10-mm-12-v",
+  "Category": "power-tools",
+  "Subcategory": "Power",
+  "Brand": "Eastman",
+  "Images": [
+    "https://m.media-amazon.com/images/I/51r7aJBNNiL._SY300_SX300_QL70_FMwebp_.jpg",
+    "https://m.media-amazon.com/images/I/71Ygbsot+0L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/71+omjY4d4L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/71RH-OERjpL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/71GQi4Ic94L._SX679_.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/51r7aJBNNiL._SY300_SX300_QL70_FMwebp_.jpg",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "MRP": 7200,
+  "Discount": 49,
+  "SalePrice": 3646,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "https://www.haryana.tools/product/ECD010E",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

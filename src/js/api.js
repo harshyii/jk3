@@ -43,9 +43,9 @@ export const API = {
         return await this.fetchData('catalog.json');
     },
 
-    async getProduct(slug) {
+    async getProduct(sku) {
         // Automatically sanitize and slugify the incoming slug (lowercases and replaces spaces with hyphens)
-        const cleanSlug = slug
+        const cleanSlug = sku
             .toLowerCase()
             .trim()
             .replace(/[^\w\s-]/g, '')

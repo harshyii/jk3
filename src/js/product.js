@@ -1,203 +1,291 @@
-/**
- * Haryana Tools - Product Detail Controller
- * Manages gallery, technical specs, and dynamic page content.
- */
+document.addEventListener('DOMContentLoaded', async () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    let sku = urlParams.get('sku') || urlParams.get('id');
+    const slug = urlParams.get('slug');
 
-import { API } from './api.js';
-import { UI } from './ui.js';
-import { Utils } from './utils.js';
-
-const Product = {
-    async init() {
-        const container = document.getElementById('main-content') || document.getElementById('product-detail-container');
-        
-        // 1. Extract slug from query parameters (e.g., product.html?slug=heavy-duty-drill)
-        const urlParams = new URLSearchParams(window.location.search);
-        let slug = urlParams.get('slug');
-
-        // 2. Fallback: Check pathname if query param is missing (e.g., /product/slug routing)
-        if (!slug) {
-            const pathParts = window.location.pathname.split('/').filter(Boolean);
-            let lastPart = pathParts[pathParts.length - 1];
-            if (lastPart && lastPart !== 'product.html' && lastPart !== 'product') {
-                slug = lastPart;
+    try {
+        // If we only have a slug, load catalog.json to find the matching SKU first
+        if (!sku && slug) {
+            const catalogRes = await fetch('dist/data/catalog.json');
+            if (catalogRes.ok) {
+                const catalog = await catalogRes.json();
+                const matchedProduct = catalog.find(p => p.slug === slug);
+                if (matchedProduct) {
+                    sku = matchedProduct.sku;
+                }
             }
         }
 
-        // Diagnostic check: If still no slug, notify instead of hard-redirecting
-        if (!slug) {
-            console.warn("Product Init Warning: No product slug was found in the URL parameters.");
-            if (container) {
-                container.innerHTML = `
-                    <div class="container py-5 text-center">
-                        <div class="alert alert-warning shadow-sm p-4 d-inline-block">
-                            <h4>No Product Selected</h4>
-                            <p class="text-muted">Please select a valid product from the catalog.</p>
-                            <a href="index.html" class="btn btn-primary btn-sm mt-2">Back to Home</a>
-                        </div>
-                    </div>
-                `;
-            }
-            return;
+        if (!sku) {
+            throw new Error('No valid product SKU or slug specified.');
         }
 
-        if (typeof UI?.setLoading === 'function') UI.setLoading(true);
+        // Fetch specific product JSON file by SKU
+        const response = await fetch(`dist/data/products/${sku}.json`);
+        if (!response.ok) throw new Error('Product not found');
+        const product = await response.json();
+
+        renderProductDetails(product);
         
-        const data = await API.getProduct(slug);
-        
-        if (data) {
-            this.render(data);
-            if (typeof UI?.setPageMeta === 'function') {
-                UI.setPageMeta(data.Name, [
-                    { text: 'Home', url: '/' },
-                    { text: data.Category, url: `/category/${Utils.slugify ? Utils.slugify(data.Category) : data.Category}` },
-                    { text: data.Name, url: '#' }
-                ]);
+        // Fetch catalog to find related/similar products in the same category
+        try {
+            const catalogRes = await fetch('dist/data/catalog.json');
+            if (catalogRes.ok) {
+                const catalog = await catalogRes.json();
+                renderRelatedProducts(product, catalog);
             }
-        } else {
-            // Graceful error handling on screen instead of a broken 404 redirect loop
-            if (container) {
-                container.innerHTML = `
-                    <div class="container py-5 text-center">
-                        <div class="alert alert-danger shadow-sm p-4 d-inline-block">
-                            <h4>Product Not Found</h4>
-                            <p class="text-muted">The product "${slug}" could not be located in our database.</p>
-                            <a href="index.html" class="btn btn-primary btn-sm mt-2">Back to Home</a>
-                        </div>
-                    </div>
-                `;
-            }
-        }
-        
-        if (typeof UI?.setLoading === 'function') UI.setLoading(false);
-    },
-
-    render(p) {
-        // 1. Basic Info & Title
-        const titleEl = document.getElementById('product-title') || document.getElementById('product-name');
-        if (titleEl) titleEl.textContent = p.Name || p.title || 'Product Details';
-
-        // 2. Pricing & Savings Calculations
-        const priceEl = document.getElementById('product-price');
-        if (priceEl) {
-            const salePrice = p.SalePrice || p.Price || 0;
-            const mrp = p.MRP || 0;
-            const discount = p.Discount || 0;
-            
-            priceEl.innerHTML = `
-                <span class="text-dark fw-bold fs-2">₹${salePrice.toLocaleString()}</span>
-                ${mrp > salePrice ? `<span class="text-muted text-decoration-line-through fs-5 ms-3">₹${mrp.toLocaleString()}</span>` : ''}
-                ${discount > 0 ? `<span class="badge bg-danger ms-2 fs-6">${discount}% OFF</span>` : ''}
-            `;
+        } catch (catErr) {
+            console.warn('Could not load related products:', catErr);
         }
 
-        // 3. Category & Brand Badges
-        const categoryEl = document.getElementById('product-category');
-        if (categoryEl) {
-            categoryEl.innerHTML = `
-                <span class="badge bg-secondary me-2">${p.Category || 'Tools'}</span>
-                ${p.Brand ? `<span class="badge bg-info text-dark">Brand: ${p.Brand}</span>` : ''}
-            `;
-        }
+    } catch (error) {
+        console.error('Error loading product details:', error);
+        showError('The product you are looking for does not exist or has been removed.');
+    }
+});
 
-        // 4. Stock Availability Badge
-        const stockEl = document.getElementById('product-stock') || document.createElement('div');
-        stockEl.id = 'product-stock';
-        const stockQty = p.StockQuantity !== undefined ? p.StockQuantity : 5;
-        stockEl.innerHTML = `
-            <p class="mb-3">
-                <span class="badge ${stockQty > 0 ? 'bg-success' : 'bg-danger'}">
-                    ${stockQty > 0 ? `In Stock (${stockQty} ${p.Unit || 'PC'} available)` : 'Out of Stock'}
-                </span>
-            </p>
+function renderProductDetails(product) {
+    // Update Document Title for SEO
+    document.title = `${product.Name} - Haryana Tools`;
+
+    // Breadcrumbs
+    const breadcrumbContainer = document.getElementById('product-breadcrumb');
+    if (breadcrumbContainer) {
+        breadcrumbContainer.innerHTML = `
+            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            ${product.Category ? `<li class="breadcrumb-item"><a href="category.html?slug=${slugify(product.Category)}">${escapeHtml(product.Category)}</a></li>` : ''}
+            <li class="breadcrumb-item active" aria-current="page">${escapeHtml(product.Name)}</li>
         `;
-        // Insert stock badge right after price if container exists
-        if (priceEl && !document.getElementById('product-stock')) {
-            priceEl.parentNode.insertBefore(stockEl, priceEl.nextSibling);
-        }
+    }
 
-        // 5. Rich Description & Detailed Info Tabs/Sections
-        const descEl = document.getElementById('product-description');
-        if (descEl) {
-            let contentHtml = '';
-            if (p.Description) contentHtml += `<p class="lead fs-6">${p.Description}</p>`;
-            if (p.DetailedInfo) contentHtml += `<div class="mt-3 text-muted">${p.DetailedInfo}</div>`;
-            if (!contentHtml) contentHtml = `<p class="text-muted">No description available for this item.</p>`;
-            
-            descEl.innerHTML = contentHtml;
-        }
-
-        // 6. Gallery Images Setup
-       // Inside your render(p) method:
+    // Main Product Information
+    setTextContent('product-title', product.Name);
+    setTextContent('product-sku', product.SKU);
+    setTextContent('product-brand', product.Brand || 'General');
+    setTextContent('product-category', product.Category || 'Uncategorized');
+    setTextContent('product-stock', product.StockQuantity > 0 ? `In Stock (${product.StockQuantity} ${product.Unit || 'Units'})` : 'Out of Stock');
     
-    // 1. Collect all valid image URLs from the product object (handles 'Images' array or fallback fields)
-    const images = (p.Images && p.Images.length > 0) 
-        ? p.Images.filter(img => img && typeof img === 'string' && img.startsWith('http')) 
-        : [p.Image, p.FeaturedImage].filter(Boolean);
-
-    const mainImageEl = document.getElementById('product-image');
-    const thumbnailsContainer = document.getElementById('product-thumbnails');
-
-    if (images.length > 0) {
-        // Set default main image to the first one (Featured Image)
-        if (mainImageEl) {
-            mainImageEl.src = images[0];
-            mainImageEl.alt = p.Name || 'Product Image';
-        }
-
-        // Render thumbnail strip if container exists
-        if (thumbnailsContainer) {
-            if (images.length > 1) {
-                thumbnailsContainer.innerHTML = images.map((imgUrl, index) => `
-                    <img src="${imgUrl}" alt="Thumbnail ${index + 1}" 
-                         class="thumbnail-item rounded border ${index === 0 ? 'border-primary border-2' : 'border-light'}" 
-                         style="width: 70px; height: 70px; object-fit: cover; cursor: pointer; transition: all 0.2s;"
-                         data-full="${imgUrl}"
-                    />
-                `).join('');
-
-                // Add click event listeners to thumbnails to switch the main image on the fly
-                thumbnailsContainer.querySelectorAll('.thumbnail-item').forEach(thumb => {
-                    thumb.addEventListener('click', (e) => {
-                        // Update main image source
-                        if (mainImageEl) mainImageEl.src = e.target.getAttribute('data-full');
-                        
-                        // Highlight active border styling
-                        thumbnailsContainer.querySelectorAll('.thumbnail-item').forEach(t => t.classList.replace('border-primary', 'border-light'));
-                        e.target.classList.replace('border-light', 'border-primary');
-                        e.target.classList.add('border-2');
-                    });
-                });
-                thumbnailsContainer.style.display = 'flex';
-            } else {
-                thumbnailsContainer.style.display = 'none'; // Hide strip if only 1 image exists
-            }
-        }
-    } else if (mainImageEl) {
-        mainImageEl.style.display = 'none';
-        if (thumbnailsContainer) thumbnailsContainer.style.display = 'none';
+    const stockBadge = document.getElementById('product-stock');
+    if (stockBadge) {
+        stockBadge.className = product.StockQuantity > 0 ? 'badge bg-success' : 'badge bg-danger';
     }
 
-        // 7. Render Extra Metadata Specifications Table (Model, Country, SKU, etc.)
-        const specsContainer = document.getElementById('product-specs');
-        if (specsContainer) {
-            const specs = {
-                "SKU": p.SKU,
-                "Model Number": p.Model,
-                "Brand": p.Brand,
-                "Country of Origin": p.Country,
-                "Supplier": p.Supplier,
-                "Unit": p.Unit
-            };
+    // Pricing
+    const priceEl = document.getElementById('product-price');
+    const mrpEl = document.getElementById('product-mrp');
+    const discountEl = document.getElementById('product-discount');
 
-            const specsHtml = Object.entries(specs)
-                .filter(([_, val]) => val) // Only show keys that have values
-                .map(([key, val]) => `<tr><th class="w-50 text-secondary">${key}</th><td>${val}</td></tr>`)
-                .join('');
-            
-            specsContainer.innerHTML = specsHtml || `<tr><td colspan="2" class="text-muted">No additional specifications.</td></tr>`;
+    if (priceEl) priceEl.textContent = `₹${Number(product.SalePrice || product.MRP || 0).toLocaleString('en-IN')}`;
+    if (mrpEl && product.MRP && product.MRP > (product.SalePrice || 0)) {
+        mrpEl.textContent = `₹${Number(product.MRP).toLocaleString('en-IN')}`;
+        mrpEl.style.display = 'inline';
+    } else if (mrpEl) {
+        mrpEl.style.display = 'none';
+    }
+
+    if (discountEl && product.Discount && product.Discount > 0) {
+        discountEl.textContent = `${product.Discount}% OFF`;
+        discountEl.style.display = 'inline-block';
+    } else if (discountEl) {
+        discountEl.style.display = 'none';
+    }
+
+    // Descriptions & Specs
+    const descEl = document.getElementById('product-description');
+    if (descEl) {
+        descEl.innerHTML = product.Description || product.DetailedInfo || '<p class="text-muted">No description available for this product.</p>';
+    }
+
+    // Additional specifications table if available
+    renderSpecifications(product);
+
+    // Images & Gallery
+    renderImageGallery(product.Images || [product.Image], product.Name);
+
+    // Initialize Add to Cart / Quantity controls
+    initActionButtons(product);
+}
+
+function renderImageGallery(images, productName) {
+    const mainImageEl = document.getElementById('main-product-image');
+    const thumbnailContainer = document.getElementById('product-thumbnails');
+
+    const validImages = images.filter(img => img && typeof img === 'string');
+    const primaryImg = validImages.length > 0 ? validImages[0] : 'src/images/placeholder.jpg';
+
+    if (mainImageEl) {
+        mainImageEl.src = primaryImg;
+        mainImageEl.alt = productName;
+    }
+
+    if (thumbnailContainer) {
+        if (validImages.length > 1) {
+            thumbnailContainer.innerHTML = validImages.map((img, idx) => `
+                <div class="p-1 border rounded cursor-pointer thumb-item ${idx === 0 ? 'border-primary' : ''}" style="width: 70px; height: 70px;" onclick="changeMainImage('${img}', this)">
+                    <img src="${img}" alt="" class="w-100 h-100 object-fit-contain">
+                </div>
+            `).join('');
+            thumbnailContainer.style.display = 'flex';
+        } else {
+            thumbnailContainer.style.display = 'none';
         }
     }
+}
+
+// Global helper for gallery thumbnail switches
+window.changeMainImage = function(src, thumbElement) {
+    const mainImageEl = document.getElementById('main-product-image');
+    if (mainImageEl) mainImageEl.src = src;
+
+    document.querySelectorAll('.thumb-item').forEach(el => el.classList.remove('border-primary'));
+    if (thumbElement) thumbElement.classList.add('border-primary');
 };
 
-document.addEventListener('DOMContentLoaded', () => Product.init());
+function renderSpecifications(product) {
+    const specsContainer = document.getElementById('product-specs-table');
+    if (!specsContainer) return;
+
+    const specs = [
+        { label: 'SKU', value: product.SKU },
+        { label: 'Brand', value: product.Brand },
+        { label: 'Model Number', value: product.Model },
+        { label: 'Category', value: product.Category },
+        { label: 'Subcategory', value: product.Subcategory },
+        { label: 'Country of Origin', value: product.Country },
+        { label: 'Unit', value: product.Unit }
+    ].filter(s => s.value);
+
+    specsContainer.innerHTML = specs.map(s => `
+        <tr>
+            <th class="w-25 text-muted">${escapeHtml(s.label)}</th>
+            <td>${escapeHtml(s.value)}</td>
+        </tr>
+    `).join('');
+}
+
+function renderRelatedProducts(currentProduct, catalog) {
+    const container = document.getElementById('related-products-grid');
+    if (!container) return;
+
+    // Filter products matching the same category, excluding the current SKU
+    const related = catalog.filter(p => 
+        p.sku !== currentProduct.SKU && 
+        p.category && currentProduct.category && 
+        p.category.toLowerCase() === currentProduct.category.toLowerCase()
+    ).slice(0, 4);
+
+    if (related.length === 0) {
+        const section = document.getElementById('related-products-section');
+        if (section) section.style.display = 'none';
+        return;
+    }
+
+    container.innerHTML = related.map(product => `
+        <div class="col-6 col-md-3 mb-4">
+            <div class="card h-100 product-card shadow-sm border-0">
+                <a href="product.html?sku=${product.sku}" class="text-decoration-none">
+                    <div class="product-img-wrapper position-relative overflow-hidden" style="height: 160px; background-color: #f8f9fa;">
+                        <img src="${product.image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(product.name)}" class="w-100 h-100 object-fit-contain p-2">
+                    </div>
+                </a>
+                <div class="card-body d-flex flex-column p-3">
+                    <span class="text-uppercase text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>
+                    <h5 class="card-title fs-6 mb-2">
+                        <a href="product.html?sku=${product.sku}" class="text-dark text-decoration-none stretched-link">
+                            ${escapeHtml(product.name)}
+                        </a>
+                    </h5>
+                    <div class="mt-auto d-flex align-items-center justify-content-between pt-2">
+                        <span class="fw-bold text-primary">₹${Number(product.price).toLocaleString('en-IN')}</span>
+                        <a href="product.html?sku=${product.sku}" class="btn btn-sm btn-outline-primary position-relative z-1">View</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    `).join('');
+}
+
+function initActionButtons(product) {
+    const buyBtn = document.getElementById('buy-now-btn');
+    const cartBtn = document.getElementById('add-to-cart-btn');
+    const qtyInput = document.getElementById('product-quantity');
+
+    if (buyBtn) {
+        buyBtn.addEventListener('click', () => {
+            const qty = qtyInput ? parseInt(qtyInput.value) || 1 : 1;
+            addToCartAction(product, qty);
+            window.location.href = 'checkout.html';
+        });
+    }
+
+    if (cartBtn) {
+        cartBtn.addEventListener('click', () => {
+            const qty = qtyInput ? parseInt(qtyInput.value) || 1 : 1;
+            addToCartAction(product, qty);
+            showToast('Success', `${product.Name} added to your cart!`, 'success');
+        });
+    }
+}
+
+function addToCartAction(product, quantity) {
+    let cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
+    const existingIndex = cart.findIndex(item => item.sku === product.SKU);
+
+    if (existingIndex > -1) {
+        cart[existingIndex].quantity += quantity;
+    } else {
+        cart.push({
+            sku: product.SKU,
+            name: product.Name,
+            price: product.SalePrice || product.MRP || 0,
+            image: product.Image || '',
+            quantity: quantity,
+            unit: product.Unit || 'PC'
+        });
+    }
+
+    localStorage.setItem('ht_cart', JSON.stringify(cart));
+    updateCartCountBadge();
+}
+
+function updateCartCountBadge() {
+    const cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
+    const totalItems = cart.reduce((sum, item) => sum + item.quantity, 0);
+    document.querySelectorAll('.cart-count-badge').forEach(badge => {
+        badge.textContent = totalItems;
+        badge.style.display = totalItems > 0 ? 'inline-block' : 'none';
+    });
+}
+
+function setTextContent(elementId, text) {
+    const el = document.getElementById(elementId);
+    if (el) el.textContent = text;
+}
+
+function showError(message) {
+    const mainContainer = document.querySelector('main') || document.body;
+    mainContainer.innerHTML = `
+        <div class="container py-5 text-center">
+            <div class="alert alert-warning shadow-sm p-4 d-inline-block mx-auto" style="max-width: 500px;">
+                <h4 class="alert-heading fw-bold mb-2">Notice</h4>
+                <p class="text-muted mb-3">${escapeHtml(message)}</p>
+                <a href="index.html" class="btn btn-primary">Return to Home</a>
+            </div>
+        </div>
+    `;
+}
+
+function slugify(text) {
+    if (!text) return '';
+    return text.toString().toLowerCase().trim().replace(/[^\w\s-]/g, '').replace(/[\s_-]+/g, '-');
+}
+
+function escapeHtml(str) {
+    if (!str) return '';
+    return str.toString()
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;');
+}

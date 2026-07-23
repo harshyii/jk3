@@ -1,0 +1,29 @@
+{
+  "ProductID": "FINST/000HR150",
+  "SKU": "FILE-ROUND",
+  "Name": "N SPARKING HALF ROUND FILE",
+  "ItemName": "Non-Sparking Half Round File",
+  "Slug": "n-sparking-half-round-file",
+  "Category": "hand-tools",
+  "Subcategory": "Hand Tool",
+  "Brand": "Eastman",
+  "Images": [
+    "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+  ],
+  "Image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
+  "Description": "",
+  "DetailedInfo": "",
+  "StockQuantity": 1,
+  "Unit": "pc",
+  "MRP": 11111,
+  "Discount": 26,
+  "SalePrice": 8263,
+  "Supplier": "Eastman",
+  "LastUpdated": "24/03/2026",
+  "ProductURL": "https://www.haryana.tools/product/FILE-ROUND",
+  "Model": "",
+  "Country": "",
+  "ASIN": "",
+  "SearchKeywords": "",
+  "VideoURL": ""
+}

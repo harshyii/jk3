@@ -16,7 +16,6 @@ export const Layout = {
             { id: 'footer-placeholder', file: 'src/partials/footer.html' },
             { id: 'toast-placeholder', file: 'src/partials/toast.html' },
             { id: 'modal-placeholder', file: 'src/partials/modal.html' },
-            
             { id: 'product-card-placeholder', file: 'src/partials/product-card.html' },
             { id: 'offcanvas-placeholder', file: 'src/partials/offcanvas.html' }
         ];
@@ -27,7 +26,15 @@ export const Layout = {
                 try {
                     const response = await fetch(partial.file);
                     if (response.ok) {
-                        element.innerHTML = await response.text();
+                        let htmlContent = await response.text();
+                        
+                        // Dynamically swap out restricted container classes for fluid full-width wrappers in partials
+                        htmlContent = htmlContent
+                            .replace(/class="([^"]*\b)container(\b[^"]*)"/g, 'class="$1container-fluid$2"')
+                            .replace(/class="([^"]*\b)container-md(\b[^"]*)"/g, 'class="$1container-fluid$2"')
+                            .replace(/class="([^"]*\b)container-lg(\b[^"]*)"/g, 'class="$1container-fluid$2"');
+
+                        element.innerHTML = htmlContent;
                     }
                 } catch (e) {
                     // Ignore missing partials silently

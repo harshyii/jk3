@@ -1,6 +1,6 @@
 /**
  * Haryana Tools - Checkout Controller
- * Optimizes layout spacing, tightens columns, and fixes visual gaps.
+ * Fixes layout spacing, removes the giant side gap, and aligns components correctly.
  */
 
 import { API } from './api.js';
@@ -41,18 +41,12 @@ const Checkout = {
     },
 
     injectStyles() {
-        if (document.getElementById('ht-checkout-custom-styles')) return;
+        if (document.getElementById('ht-checkout-layout-fix')) return;
         const styleEl = document.createElement('style');
-        styleEl.id = 'ht-checkout-custom-styles';
+        styleEl.id = 'ht-checkout-layout-fix';
         styleEl.innerHTML = `
-            .container.py-4, .container.my-5, .container {
-                max-width: 1000px !important;
-            }
-            .row {
-                justify-content: center !important;
-            }
             #checkout-items-list {
-                max-height: 260px;
+                max-height: 240px;
                 overflow-y: auto;
                 padding-right: 4px;
             }
@@ -62,6 +56,12 @@ const Checkout = {
             #checkout-items-list::-webkit-scrollbar-thumb {
                 background: #cbd5e1;
                 border-radius: 4px;
+            }
+            main.container {
+                max-width: 1200px !important;
+                width: 100% !important;
+                margin-left: auto !important;
+                margin-right: auto !important;
             }
         `;
         document.head.appendChild(styleEl);
@@ -144,7 +144,7 @@ const Checkout = {
                     <div class="d-flex align-items-center">
                         <i class="bi bi-info-circle-fill text-warning fs-5 me-2"></i>
                         <div>
-                            <strong>Cash on Delivery (COD) Fee:</strong> A 5% handling surcharge (${Utils.formatCurrency ? Utils.formatCurrency(codSurcharge) : '₹' + codSurcharge}) applies to COD orders.
+                            <strong>COD Fee:</strong> A 5% handling surcharge (${Utils.formatCurrency ? Utils.formatCurrency(codSurcharge) : '₹' + codSurcharge}) applies.
                         </div>
                     </div>
                 </div>
@@ -154,11 +154,11 @@ const Checkout = {
             const upiString = `upi://pay?pa=${this.upiID}&pn=Haryana%20Tools&am=${currentAmount}&cu=INR`;
 
             paymentExtraContainer.innerHTML = `
-                <div class="text-center p-3 bg-white rounded-3 border shadow-sm">
+                <div class="text-center p-3 bg-white rounded-3 border shadow-sm mt-3">
                     <div class="badge bg-success-subtle text-success border border-success-subtle mb-2 px-3 py-1 rounded-pill fw-semibold">Instant UPI Payment</div>
-                    <p class="fw-bold mb-1 text-dark">Scan & Pay via any UPI App</p>
-                    <p class="small text-muted mb-2">Payee VPA: <strong class="text-dark">${this.upiID}</strong></p>
-                    <div id="qrcode-container" class="d-flex justify-content-center my-3 bg-light p-3 rounded-3 border" style="min-height: 160px; align-items: center; justify-content: center;"></div>
+                    <p class="fw-bold mb-1 text-dark small">Scan & Pay via any UPI App</p>
+                    <p class="text-muted mb-2" style="font-size: 0.8rem;">Payee VPA: <strong class="text-dark">${this.upiID}</strong></p>
+                    <div id="qrcode-container" class="d-flex justify-content-center my-2 bg-light p-2 rounded-3 border" style="min-height: 150px; align-items: center; justify-content: center;"></div>
                     <a href="${upiString}" class="btn btn-sm btn-success w-100 py-2 fw-bold shadow-sm">
                         <i class="bi bi-phone me-1"></i> Open in Mobile UPI App
                     </a>
@@ -175,8 +175,8 @@ const Checkout = {
                         if (typeof window.QRCode === 'function') {
                             new window.QRCode(qrBox, {
                                 text: upiString,
-                                width: 150,
-                                height: 150,
+                                width: 140,
+                                height: 140,
                                 colorDark: "#000000",
                                 colorLight: "#ffffff",
                                 correctLevel: window.QRCode.CorrectLevel ? window.QRCode.CorrectLevel.H : 1
@@ -187,8 +187,8 @@ const Checkout = {
                     } else {
                         qrBox.innerHTML = `
                             <div class="text-danger small p-2">
-                                <p class="mb-1 fw-bold">QR Library missing in HTML header.</p>
-                                <a href="${upiString}" class="btn btn-outline-success btn-sm mt-1">Click to Pay ₹${currentAmount}</a>
+                                <p class="mb-1 fw-bold">QR Library missing.</p>
+                                <a href="${upiString}" class="btn btn-outline-success btn-sm mt-1">Pay ₹${currentAmount}</a>
                             </div>
                         `;
                     }
@@ -206,9 +206,9 @@ const Checkout = {
 
         if (this.cart.length === 0) {
             container.innerHTML = `
-                <div class="text-center py-4">
-                    <div class="fs-2 mb-2 text-muted">🛒</div>
-                    <p class="text-muted small mb-3">Your cart is currently empty.</p>
+                <div class="text-center py-3">
+                    <div class="fs-3 mb-1 text-muted">🛒</div>
+                    <p class="text-muted small mb-2">Your cart is currently empty.</p>
                     <a href="index.html" class="btn btn-sm btn-outline-primary px-3 fw-bold">Browse Catalog</a>
                 </div>
             `;
@@ -219,17 +219,12 @@ const Checkout = {
 
         let summaryCard = container.closest('.card');
         if (summaryCard) {
-            let summaryHeader = summaryCard.querySelector('.order-summary-title');
-            if (!summaryHeader) {
-                summaryHeader = summaryCard.querySelector('h4');
-                if (summaryHeader) {
-                    summaryHeader.className = 'h5 fw-bold mb-3 border-bottom pb-3 d-flex justify-content-between align-items-center order-summary-title text-dark';
-                }
-            }
+            let summaryHeader = summaryCard.querySelector('h4') || summaryCard.querySelector('h5');
             if (summaryHeader) {
+                summaryHeader.className = 'h5 fw-bold mb-3 border-bottom pb-2 text-dark d-flex justify-content-between align-items-center';
                 summaryHeader.innerHTML = `
                     <span>Order Summary</span>
-                    <span class="badge bg-primary rounded-pill px-3 py-2 fw-semibold" style="font-size: 0.8rem;">${totalItemsCount} ${totalItemsCount === 1 ? 'Item' : 'Items'}</span>
+                    <span class="badge bg-primary rounded-pill px-2 py-1 fw-semibold" style="font-size: 0.75rem;">${totalItemsCount} ${totalItemsCount === 1 ? 'Item' : 'Items'}</span>
                 `;
             }
         }
@@ -241,13 +236,13 @@ const Checkout = {
             const itemName = item.name || item.Name || 'Industrial Product';
 
             return `
-                <div class="d-flex align-items-center mb-3 pb-3 border-bottom position-relative">
-                    <div class="flex-shrink-0 bg-light rounded-2 border p-1 me-3" style="width: 48px; height: 48px; display: flex; align-items: center; justify-content: center;">
+                <div class="d-flex align-items-center mb-2 pb-2 border-bottom position-relative">
+                    <div class="flex-shrink-0 bg-light rounded-1 border p-1 me-2" style="width: 45px; height: 45px; display: flex; align-items: center; justify-content: center;">
                         <img src="${itemImage}" alt="${itemName}" style="max-width: 100%; max-height: 100%; object-fit: contain;" onerror="this.src='src/images/placeholder.jpg'">
                     </div>
-                    <div class="flex-grow-1 overflow-hidden pe-2">
-                        <h6 class="mb-1 text-truncate small fw-bold text-dark" title="${itemName}" style="font-size: 0.82rem;">${itemName}</h6>
-                        <div class="d-flex justify-content-between align-items-center">
+                    <div class="flex-grow-1 overflow-hidden pe-1">
+                        <h6 class="mb-0 text-truncate fw-bold text-dark" title="${itemName}" style="font-size: 0.82rem;">${itemName}</h6>
+                        <div class="d-flex justify-content-between align-items-center mt-1">
                             <span class="text-muted" style="font-size: 0.75rem;">Qty: <strong class="text-dark">${itemQty}</strong></span>
                             <span class="text-primary fw-semibold" style="font-size: 0.82rem;">${Utils.formatCurrency ? Utils.formatCurrency(itemPrice * itemQty) : '₹' + (itemPrice * itemQty)}</span>
                         </div>
@@ -275,16 +270,16 @@ const Checkout = {
                     this.appliedDiscount = Math.round(this.subtotal * 0.10);
                     this.couponCode = codeInput;
                     if (msgEl) {
-                        msgEl.className = 'small mt-2 mb-0 text-success fw-semibold d-block';
-                        msgEl.textContent = '✅ Coupon applied successfully: 10% discount added!';
+                        msgEl.className = 'small mt-1 mb-0 text-success fw-semibold d-block';
+                        msgEl.textContent = '✅ 10% discount applied!';
                     }
                     this.safeShowToast('Coupon applied successfully!', 'success');
                 } else {
                     this.appliedDiscount = 0;
                     this.couponCode = '';
                     if (msgEl) {
-                        msgEl.className = 'small mt-2 mb-0 text-danger fw-semibold d-block';
-                        msgEl.textContent = '❌ Invalid coupon code. Try "HARYANA10".';
+                        msgEl.className = 'small mt-1 mb-0 text-danger fw-semibold d-block';
+                        msgEl.textContent = '❌ Invalid code. Try "HARYANA10".';
                     }
                     this.safeShowToast('Invalid coupon code.', 'error');
                 }

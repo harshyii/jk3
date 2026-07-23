@@ -22,9 +22,17 @@
             <!-- Product Gallery Column inside product.html -->
 <div class="col-lg-6">
     <div class="card border-0 shadow-sm p-3 bg-white rounded">
-        <!-- Main Featured Image -->
-        <img id="product-image" src="" alt="Product Image" class="img-fluid rounded w-100 mb-3" style="max-height: 400px; object-fit: contain;">
-        
+        <div class="product-gallery">
+    <!-- Main Image Display -->
+    <div class="main-image-container">
+        <img id="main-product-image" src="" alt="Product Image" class="main-img">
+    </div>
+
+    <!-- Thumbnails Container -->
+    <div id="thumbnail-container" class="thumbnail-list">
+        <!-- Thumbnails will be injected here dynamically -->
+    </div>
+</div>
         <!-- Thumbnail Gallery Strip for up to 8 images -->
         <div id="product-thumbnails" class="d-flex gap-2 overflow-auto py-2">
             <!-- Dynamic thumbnails injected here -->

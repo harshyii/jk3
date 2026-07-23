@@ -110,20 +110,23 @@ function renderImageGallery(images, productName) {
     const mainImageEl = document.getElementById('main-product-image');
     const thumbnailContainer = document.getElementById('product-thumbnails');
 
-    // Filter out non-string or video elements if they shouldn't be treated as standard image thumbnails
-    const validImages = (images || []).filter(img => img && typeof img === 'string' && img.startsWith('http'));
+    const validImages = (images || []).filter(img => img && typeof img === 'string');
     const primaryImg = validImages.length > 0 ? validImages[0] : 'src/images/placeholder.jpg';
 
     if (mainImageEl) {
         mainImageEl.src = primaryImg;
         mainImageEl.alt = productName;
+        // Fallback if external image fails to load
+        mainImageEl.onerror = function() {
+            this.src = 'src/images/placeholder.jpg';
+        };
     }
 
     if (thumbnailContainer) {
         if (validImages.length > 1) {
             thumbnailContainer.innerHTML = validImages.map((img, idx) => `
                 <div class="p-1 border rounded cursor-pointer thumb-item ${idx === 0 ? 'border-primary' : ''}" style="width: 70px; height: 70px;" onclick="changeMainImage('${img}', this)">
-                    <img src="${img}" alt="" class="w-100 h-100 object-fit-contain">
+                    <img src="${img}" alt="" class="w-100 h-100 object-fit-contain" onerror="this.src='src/images/placeholder.jpg'">
                 </div>
             `).join('');
             thumbnailContainer.style.display = 'flex';
@@ -186,8 +189,8 @@ function renderRelatedProducts(currentProduct, catalog) {
             <div class="card h-100 product-card shadow-sm border-0">
                 <a href="product.html?sku=${product.sku}" class="text-decoration-none">
                     <div class="product-img-wrapper position-relative overflow-hidden" style="height: 160px; background-color: #f8f9fa;">
-                        <img src="${product.image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(product.name)}" class="w-100 h-100 object-fit-contain p-2">
-                    </div>
+                       <img src="${product.image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(product.name)}" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='src/images/placeholder.jpg'">
+                        </div>
                 </a>
                 <div class="card-body d-flex flex-column p-3">
                     <span class="text-uppercase text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>

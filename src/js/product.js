@@ -4,12 +4,12 @@ document.addEventListener('DOMContentLoaded', async () => {
     const slug = urlParams.get('slug');
 
     try {
-        // If we only have a slug, load catalog.json to find the matching SKU first
+        // If we only have a slug, load catalog.json to find the matching SKU first (case-insensitive)
         if (!sku && slug) {
             const catalogRes = await fetch('dist/data/catalog.json');
             if (catalogRes.ok) {
                 const catalog = await catalogRes.json();
-                const matchedProduct = catalog.find(p => p.slug === slug);
+                const matchedProduct = catalog.find(p => p.slug && p.slug.toLowerCase() === slug.toLowerCase());
                 if (matchedProduct) {
                     sku = matchedProduct.sku;
                 }
@@ -20,7 +20,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             throw new Error('No valid product SKU or slug specified.');
         }
         
-        sku = sku.tolowerCase();
+        // Fixed typo and standardized SKU search query to lowercase
+        sku = sku.toLowerCase();
+
         // Fetch specific product JSON file by SKU
         const response = await fetch(`dist/data/products/${sku}.json`);
         if (!response.ok) throw new Error('Product not found');
@@ -175,8 +177,8 @@ function renderRelatedProducts(currentProduct, catalog) {
     // Filter products matching the same category, excluding the current SKU
     const related = catalog.filter(p => 
         p.sku !== currentProduct.SKU && 
-        p.category && currentProduct.category && 
-        p.category.toLowerCase() === currentProduct.category.toLowerCase()
+        p.category && currentProduct.Category && 
+        p.category.toLowerCase() === currentProduct.Category.toLowerCase()
     ).slice(0, 4);
 
     if (related.length === 0) {
@@ -190,8 +192,8 @@ function renderRelatedProducts(currentProduct, catalog) {
             <div class="card h-100 product-card shadow-sm border-0">
                 <a href="product.html?sku=${product.sku}" class="text-decoration-none">
                     <div class="product-img-wrapper position-relative overflow-hidden" style="height: 160px; background-color: #f8f9fa;">
-                       <img src="${product.image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(product.name)}" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='src/images/placeholder.jpg'">
-                        </div>
+                         <img src="${product.image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(product.name)}" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='src/images/placeholder.jpg'">
+                         </div>
                 </a>
                 <div class="card-body d-flex flex-column p-3">
                     <span class="text-case text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>
@@ -235,14 +237,12 @@ function initActionButtons(product) {
             } else if (typeof window.showToast === 'function') {
                 window.showToast('Success', message, 'success');
             } else {
-                // Fallback custom bootstrap-styled temporary toast if none exists
                 showFallbackToast(message);
             }
         });
     }
 }
 
-// Fallback toast so you instantly get visual confirmation if global Toast isn't loaded
 function showFallbackToast(message) {
     let toastContainer = document.getElementById('fallback-toast-container');
     if (!toastContainer) {
@@ -287,7 +287,6 @@ function renderCartItems() {
     const container = document.getElementById('cart-items-container');
     if (!container) return;
 
-    // Must match the key used on the product page!
     const cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
 
     if (cart.length === 0) {
@@ -316,9 +315,7 @@ function renderCartItems() {
     `).join('');
 }
 
-// Call this on DOMContentLoaded inside your cart page script
 document.addEventListener('DOMContentLoaded', renderCartItems);
-
 
 function updateCartCountBadge() {
     const cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');

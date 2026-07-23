@@ -33,8 +33,22 @@ function renderFeaturedProducts(products) {
     const container = document.getElementById('product-grid');
     if (!container) return;
 
-    // Take the first 8 products as featured items
-    const featured = products.slice(0, 8);
+    // --- SORT / SELECT PRODUCTS ---
+    // Option A: Explicitly look for a featured flag first, or fallback to the latest/newest items
+    let featured = products.filter(p => p.featured === true || p.Featured === true);
+
+    // If no products are explicitly marked as featured, sort by date or use the first 8 items
+    if (featured.length === 0) {
+        // Try sorting by date/id if available, otherwise fallback to slice
+        featured = [...products].sort((a, b) => {
+            const dateA = new Date(a.date || a.createdAt || a.Date || 0);
+            const dateB = new Date(b.date || b.createdAt || b.Date || 0);
+            return dateB - dateA; // Latest products first
+        }).slice(0, 8);
+    } else {
+        // Limit to 8 featured items max
+        featured = featured.slice(0, 8);
+    }
 
     if (featured.length === 0) {
         container.innerHTML = '<p class="text-center text-muted">No products available at the moment.</p>';
@@ -154,7 +168,14 @@ function renderBlogs(blogs) {
     const container = document.getElementById('blog-grid');
     if (!container) return;
 
-    const latestBlogs = blogs.slice(0, 3);
+    // Duplicate array before sorting to avoid unexpected side effects
+    const sortedBlogs = [...blogs].sort((a, b) => {
+        const dateA = new Date(a.date || a.Date || 0);
+        const dateB = new Date(b.date || b.Date || 0);
+        return dateB - dateA; // Latest/newest date first
+    });
+
+    const latestBlogs = sortedBlogs.slice(0, 3);
 
     if (latestBlogs.length === 0) {
         container.innerHTML = '<p class="text-center text-muted">No blog posts available.</p>';

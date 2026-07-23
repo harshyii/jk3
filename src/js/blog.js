@@ -130,6 +130,13 @@ document.addEventListener('DOMContentLoaded', async () => {
                 allBlogs = [responseData];
             }
             
+            // --- SORT BLOGS: LATEST TO OLDEST ---
+            allBlogs.sort((a, b) => {
+                const dateA = new Date(a.date || a.Date || 0);
+                const dateB = new Date(b.date || b.Date || 0);
+                return dateB - dateA; // Newest/latest first
+            });
+            
             if (allBlogs.length === 0) {
                 container.innerHTML = `<div class="col-12 text-center py-5"><p class="text-muted">No blog posts found.</p></div>`;
                 return;

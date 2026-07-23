@@ -193,7 +193,7 @@ function renderRelatedProducts(currentProduct, catalog) {
                         </div>
                 </a>
                 <div class="card-body d-flex flex-column p-3">
-                    <span class="text-uppercase text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>
+                    <span class="text-lowercase text-muted small mb-1">${escapeHtml(product.brand || 'General')}</span>
                     <h5 class="card-title fs-6 mb-2">
                         <a href="product.html?sku=${product.sku}" class="text-dark text-decoration-none stretched-link">
                             ${escapeHtml(product.name)}

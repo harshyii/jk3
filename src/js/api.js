@@ -50,7 +50,7 @@ export const API = {
             .trim()
             .replace(/[^\w\s-]/g, '')
             .replace(/[\s_-]+/g, '-');
-
+            
         return await this.fetchData(`products/${cleanSlug}.json`);
     },
 

@@ -13,5 +13,7 @@ build/
 !dist/
 !dist/data/
 !dist/data/blogs/
+!dist/data/products/
+!dist/data/brands/
 !src/data/
 !src/data/blogs/

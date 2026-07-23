@@ -4,6 +4,14 @@
 
 import { API } from './api.js';
 
+// Helper function to safely extract an image URL string from either a string or an object
+function resolveImageUrl(img) {
+    if (!img) return 'https://via.placeholder.com/400x200';
+    if (typeof img === 'string') return img;
+    // If it's an object, try common properties like url, src, or path
+    return img.url || img.src || img.path || 'https://via.placeholder.com/400x200';
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     const container = document.getElementById('blog-list-container');
     if (!container) return;
@@ -21,7 +29,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            const singleImage = post.image || post.Image || post.FeaturedImage || post.featuredImage;
+            const rawImage = post.image || post.Image || post.FeaturedImage || post.featuredImage;
+            const singleImage = resolveImageUrl(rawImage);
+            
             const singleTitle = post.title || post.Title || 'Untitled Post';
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
@@ -143,7 +153,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const pagePosts = allBlogs.slice(start, end);
 
                 grid.innerHTML = pagePosts.map(post => {
-                    const imageUrl = post.image || post.Image || post.FeaturedImage || post.featuredImage || 'https://via.placeholder.com/400x200';
+                    const rawImage = post.image || post.Image || post.FeaturedImage || post.featuredImage;
+                    const imageUrl = resolveImageUrl(rawImage);
+                    
                     const postTitle = post.title || post.Title || 'Untitled Post';
                     const postSlug = post.slug || post.Slug || '#';
                     const postExcerpt = post.excerpt || post.Excerpt || post.MetaDescription || 'Read our in-depth guide on workshop tools and equipment...';
@@ -192,7 +204,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                     return;
                 }
 
-                // Inject the nav and list structure directly via JS to avoid race conditions
                 paginationPlaceholder.innerHTML = `
                     <nav aria-label="Pagination" class="pagination-wrapper">
                         <ul id="pagination-container" class="pagination"></ul>
@@ -239,6 +250,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     });
                 });
             };
+            
             // Initial page load
             renderPage(1);
         }

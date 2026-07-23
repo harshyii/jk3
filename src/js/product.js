@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             throw new Error('No valid product SKU or slug specified.');
         }
         
-        sku = sku.toUpperCase();
+        sku = sku.tolowerCase();
         // Fetch specific product JSON file by SKU
         const response = await fetch(`dist/data/products/${sku}.json`);
         if (!response.ok) throw new Error('Product not found');

@@ -1,6 +1,6 @@
 /**
  * Haryana Tools - Checkout Controller
- * Fixes layout spacing, removes the giant side gap, and aligns components correctly.
+ * Fully converted to match cart.js keys, localStorage fallback (ht_cart and cart), and data structures.
  */
 
 import { API } from './api.js';
@@ -46,9 +46,11 @@ const Checkout = {
         styleEl.id = 'ht-checkout-layout-fix';
         styleEl.innerHTML = `
             #checkout-items-list {
-                max-height: 240px;
+                max-height: 1200px;
+                width: 100%
+                margin-left: auto
                 overflow-y: auto;
-                padding-right: 4px;
+                margin-right: auto
             }
             #checkout-items-list::-webkit-scrollbar {
                 width: 4px;
@@ -219,7 +221,7 @@ const Checkout = {
 
         let summaryCard = container.closest('.card');
         if (summaryCard) {
-            let summaryHeader = summaryCard.querySelector('h4') || summaryCard.querySelector('h5');
+            let summaryHeader = summaryCard.querySelector('h5') || summaryCard.querySelector('h5');
             if (summaryHeader) {
                 summaryHeader.className = 'h5 fw-bold mb-3 border-bottom pb-2 text-dark d-flex justify-content-between align-items-center';
                 summaryHeader.innerHTML = `
@@ -318,6 +320,7 @@ const Checkout = {
                 const existingOrders = JSON.parse(localStorage.getItem('ht_orders') || localStorage.getItem('orders') || '[]');
                 existingOrders.push(orderData);
                 localStorage.setItem('ht_orders', JSON.stringify(existingOrders));
+                localStorage.setItem('orders', JSON.stringify(existingOrders));
 
                 this.safeShowToast('Processing your order securely...', 'info');
 

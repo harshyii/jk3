@@ -157,7 +157,7 @@ aside h3, .sidebar-filters h3 {
     border: 1px solid var(--border-color);
     border-radius: 8px;
     overflow: hidden;
-    max-width: 250px;
+   
     display: flex;
     flex-direction: column;
     transition: transform 0.2s, box-shadow 0.2s;
@@ -237,19 +237,7 @@ aside h3, .sidebar-filters h3 {
     color: var(--text-muted);
 }
 
-/* Main Image Details View Container */
-.main-image-container {
-    width: 100%;
-    max-width: 450px;
-    margin: 0 auto;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background: #fff;
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    overflow: hidden;
-}
+
 
 .main-img {
     width: 100%;
@@ -367,3 +355,7 @@ footer {
     }
 }
 
+main.container{
+    max-width:1600px !important;
+    width:100% !important;
+}

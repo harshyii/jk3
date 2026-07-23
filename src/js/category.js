@@ -17,43 +17,52 @@ const Category = {
         const urlParams = Utils.getQueryParams();
         const categorySlug = urlParams.get('slug'); // e.g., ?slug=power-tools
 
-        UI.setLoading(true);
-        const catalog = await API.getCatalog();
-        
-        // Store all products
-        this.allProducts = catalog || [];
+        if (UI && typeof UI.setLoading === 'function') {
+            UI.setLoading(true);
+        }
 
-        // If a category slug is specified in URL, pre-filter by it
-        if (categorySlug) {
-            this.allProducts = this.allProducts.filter(p => Utils.slugify(p.Category || p.category || '') === categorySlug);
-            const titleEl = document.getElementById('category-title');
-            if (titleEl && this.allProducts.length > 0) {
-                titleEl.textContent = this.allProducts[0].Category || this.allProducts[0].category || 'Category Products';
+        try {
+            const catalog = await API.getCatalog();
+            
+            // Store all products
+            this.allProducts = catalog || [];
+
+            // If a category slug is specified in URL, pre-filter by it
+            if (categorySlug) {
+                this.allProducts = this.allProducts.filter(p => Utils.slugify(p.Category || p.category || '') === categorySlug);
+                const titleEl = document.getElementById('category-title');
+                if (titleEl && this.allProducts.length > 0) {
+                    titleEl.textContent = this.allProducts[0].Category || this.allProducts[0].category || 'Category Products';
+                }
+            }
+
+            // Initial setup for filtered pool
+            this.filteredProducts = [...this.allProducts];
+            this.handleSearchAndFilter();
+
+            // Bind Search Listener
+            const searchInput = document.getElementById('search-input');
+            if (searchInput) {
+                searchInput.addEventListener('input', () => {
+                    this.currentPage = 1;
+                    this.handleSearchAndFilter();
+                });
+            }
+
+            // Bind Sort Listener
+            const sortSelect = document.getElementById('sort-select');
+            if (sortSelect) {
+                sortSelect.addEventListener('change', (e) => {
+                    this.sortProducts(e.target.value);
+                });
+            }
+        } catch (err) {
+            console.error('❌ Error initializing category controller:', err);
+        } finally {
+            if (UI && typeof UI.setLoading === 'function') {
+                UI.setLoading(false);
             }
         }
-
-        // Initial setup for filtered pool
-        this.filteredProducts = [...this.allProducts];
-        this.handleSearchAndFilter();
-
-        // Bind Search Listener
-        const searchInput = document.getElementById('search-input');
-        if (searchInput) {
-            searchInput.addEventListener('input', () => {
-                this.currentPage = 1;
-                this.handleSearchAndFilter();
-            });
-        }
-
-        // Bind Sort Listener
-        const sortSelect = document.getElementById('sort-select');
-        if (sortSelect) {
-            sortSelect.addEventListener('change', (e) => {
-                this.sortProducts(e.target.value);
-            });
-        }
-
-        UI.setLoading(false);
     },
 
     getRandomItems(arr, count) {
@@ -118,18 +127,18 @@ const Category = {
         }
 
         container.innerHTML = pageProducts.map(p => `
-    <a href="product.html?sku=${p.sku}" class="product-card">
-        <div class="product-img-container">
-            <img src="${p.image}" alt="${p.name}">
-        </div>
-        <div class="product-info">
-            <h5 class="card-title">${p.name}</h5>
-            <div class="product-meta">
-                <span class="product-price">₹${p.price}</span>
-            </div>
-        </div>
-    </a>
-`).join('');
+            <a href="product.html?sku=${p.sku || p.SKU || ''}" class="product-card">
+                <div class="product-img-container">
+                    <img src="${p.image || p.Image || 'src/images/placeholder.jpg'}" alt="${p.name || p.Title || p.title || 'Product'}" onerror="this.src='src/images/placeholder.jpg'">
+                </div>
+                <div class="product-info">
+                    <h5 class="card-title">${p.name || p.Title || p.title || 'Product Name'}</h5>
+                    <div class="product-meta">
+                        <span class="product-price">${Utils.formatCurrency ? Utils.formatCurrency(p.price || p.Price || 0) : '₹' + (p.price || p.Price || 0)}</span>
+                    </div>
+                </div>
+            </a>
+        `).join('');
     },
 
     sortProducts(criteria) {

@@ -28,9 +28,24 @@ document.addEventListener('DOMContentLoaded', async () => {
         // --- NORMALIZE SKU TO LOWERCASE FOR FILE PATH ---
         sku = sku.toLowerCase().trim();
 
-        // Fetch specific product JSON file by SKU
-        const response = await fetch(`dist/data/products/${sku}.json`);
-        if (!response.ok) throw new Error('Product not found');
+        // Fetch specific product JSON file by SKU with fallback mechanisms
+        let response = await fetch(`dist/data/products/${sku}.json`);
+        
+        if (!response.ok) {
+            // Fallback: If direct lowercase file fetch fails, look up the exact filename/SKU case from catalog.json
+            const catalogRes = await fetch('dist/data/catalog.json');
+            if (catalogRes.ok) {
+                const catalog = await catalogRes.json();
+                const matchedProduct = catalog.find(p => (p.sku || p.SKU || '').toLowerCase().trim() === sku);
+                if (matchedProduct) {
+                    const catalogSku = matchedProduct.sku || matchedProduct.SKU;
+                    // Try fetching with catalog SKU or lowercased version if different
+                    response = await fetch(`dist/data/products/${catalogSku}.toLowerCase().json`) || await fetch(`dist/data/products/${catalogSku}.json`);
+                }
+            }
+        }
+
+        if (!response || !response.ok) throw new Error('Product not found');
         const product = await response.json();
 
         renderProductDetails(product);

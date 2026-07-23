@@ -110,7 +110,8 @@ function renderImageGallery(images, productName) {
     const mainImageEl = document.getElementById('main-product-image');
     const thumbnailContainer = document.getElementById('product-thumbnails');
 
-    const validImages = images.filter(img => img && typeof img === 'string');
+    // Filter out non-string or video elements if they shouldn't be treated as standard image thumbnails
+    const validImages = (images || []).filter(img => img && typeof img === 'string' && img.startsWith('http'));
     const primaryImg = validImages.length > 0 ? validImages[0] : 'src/images/placeholder.jpg';
 
     if (mainImageEl) {

@@ -74,27 +74,33 @@ function renderBlogs(blogs) {
         return;
     }
 
-    container.innerHTML = latestBlogs.map(blog => `
-        <div class="col-md-4 mb-4">
-            <div class="card h-100 shadow-sm border-0">
-                <div style="height: 160px; background-color: #f8f9fa; overflow: hidden;">
-                    <img src="${blog.image || blog.FeaturedImage || 'src/images/placeholder.jpg'}" alt="${escapeHtml(blog.title || blog.Title)}" class="w-100 h-100 object-fit-cover">
-                </div>
-                <div class="card-body d-flex flex-column p-3">
-                    <small class="text-muted mb-1">${escapeHtml(blog.date || blog.Date)} &bull; ${escapeHtml(blog.category || blog.Category)}</small>
-                    <h5 class="card-title fs-6 fw-bold mb-2">
-                        <a href="blog.html?slug=${blog.slug || blog.Slug}" class="text-dark text-decoration-none stretched-link">
-                            ${escapeHtml(blog.title || blog.Title)}
-                        </a>
-                    </h5>
-                    <p class="card-text text-muted small mb-3">${escapeHtml(blog.excerpt || blog.MetaDescription || '')}</p>
-                    <div class="mt-auto">
-                        <a href="blog.html?slug=${blog.slug || blog.Slug}" class="text-decoration-none fw-semibold small position-relative z-1">Read More <i class="bi bi-arrow-right"></i></a>
+    container.innerHTML = latestBlogs.map(blog => {
+        // Fallback check: if date looks like a number/SKU, use a default readable format or category instead
+        let rawDate = blog.date || blog.Date || '';
+        let displayDate = (rawDate && isNaN(rawDate)) ? rawDate : 'Recent Guide';
+
+        return `
+            <div class="col-md-4 mb-4">
+                <div class="card h-100 shadow-sm border-0">
+                    <div style="height: 160px; background-color: #f8f9fa; overflow: hidden;">
+                        <img src="${blog.image || blog.FeaturedImage || 'src/images/placeholder.jpg'}" alt="${escapeHtml(blog.title || blog.Title)}" class="w-100 h-100 object-fit-cover">
+                    </div>
+                    <div class="card-body d-flex flex-column p-3">
+                        <small class="text-muted mb-1">${escapeHtml(displayDate)} &bull; ${escapeHtml(blog.category || blog.Category || 'General')}</small>
+                        <h5 class="card-title fs-6 fw-bold mb-2">
+                            <a href="blog.html?slug=${blog.slug || blog.Slug}" class="text-dark text-decoration-none stretched-link">
+                                ${escapeHtml(blog.title || blog.Title)}
+                            </a>
+                        </h5>
+                        <p class="card-text text-muted small mb-3">${escapeHtml(blog.excerpt || blog.MetaDescription || '')}</p>
+                        <div class="mt-auto">
+                            <a href="blog.html?slug=${blog.slug || blog.Slug}" class="text-decoration-none fw-semibold small position-relative z-1">Read More <i class="bi bi-arrow-right"></i></a>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-    `).join('');
+        `;
+    }).join('');
 }
 
 function initializeSearch(products) {

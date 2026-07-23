@@ -226,9 +226,39 @@ function initActionButtons(product) {
         cartBtn.addEventListener('click', () => {
             const qty = qtyInput ? parseInt(qtyInput.value) || 1 : 1;
             addToCartAction(product, qty);
-            showToast('Success', `${product.Name} added to your cart!`, 'success');
+            
+            // Trigger visual feedback safely
+            const message = `${product.Name} added to your cart!`;
+            if (window.UI && typeof window.UI.showToast === 'function') {
+                window.UI.showToast(message, 'success');
+            } else if (typeof window.showToast === 'function') {
+                window.showToast('Success', message, 'success');
+            } else {
+                // Fallback custom bootstrap-styled temporary toast if none exists
+                showFallbackToast(message);
+            }
         });
     }
+}
+
+// Fallback toast so you instantly get visual confirmation if global Toast isn't loaded
+function showFallbackToast(message) {
+    let toastContainer = document.getElementById('fallback-toast-container');
+    if (!toastContainer) {
+        toastContainer = document.createElement('div');
+        toastContainer.id = 'fallback-toast-container';
+        toastContainer.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 9999;';
+        document.body.appendChild(toastContainer);
+    }
+    
+    const toast = document.createElement('div');
+    toast.className = 'alert alert-success shadow-sm py-2 px-3 mb-2 animate-fade';
+    toast.innerHTML = `🌿 ${escapeHtml(message)}`;
+    toastContainer.appendChild(toast);
+    
+    setTimeout(() => {
+        toast.remove();
+    }, 3000);
 }
 
 function addToCartAction(product, quantity) {
@@ -251,6 +281,43 @@ function addToCartAction(product, quantity) {
     localStorage.setItem('ht_cart', JSON.stringify(cart));
     updateCartCountBadge();
 }
+
+function renderCartItems() {
+    const container = document.getElementById('cart-items-container');
+    if (!container) return;
+
+    // Must match the key used on the product page!
+    const cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
+
+    if (cart.length === 0) {
+        container.innerHTML = '<p class="text-muted">Your cart is empty.</p>';
+        return;
+    }
+
+    container.innerHTML = cart.map(item => `
+        <div class="card mb-3 p-3 shadow-sm border-0">
+            <div class="row align-items-center">
+                <div class="col-md-2">
+                    <img src="${item.image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(item.name)}" class="img-fluid rounded object-fit-contain" style="height: 70px;" onerror="this.src='src/images/placeholder.jpg'">
+                </div>
+                <div class="col-md-4">
+                    <h5 class="fs-6 mb-1">${escapeHtml(item.name)}</h5>
+                    <small class="text-muted">SKU: ${item.sku}</small>
+                </div>
+                <div class="col-md-3">
+                    <span class="fw-bold">Qty: ${item.quantity}</span>
+                </div>
+                <div class="col-md-3 text-end">
+                    <span class="text-primary fw-bold">₹${(item.price * item.quantity).toLocaleString('en-IN')}</span>
+                </div>
+            </div>
+        </div>
+    `).join('');
+}
+
+// Call this on DOMContentLoaded inside your cart page script
+document.addEventListener('DOMContentLoaded', renderCartItems);
+
 
 function updateCartCountBadge() {
     const cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');

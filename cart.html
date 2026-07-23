@@ -9,32 +9,29 @@
     <link href="src/css/app.css" rel="stylesheet"> <!-- Custom stylesheet fallback -->
 </head>
 <body>
-
+<div id="header-placeholder"></div>
     <!-- Header / Navbar Placeholder -->
-    <div id="header-placeholder"></div>
-    
-    <main id="main-content" class="container py-5 cart-page">
-        <h1 class="mb-4 fw-bold">Your Shopping Cart</h1>
-
-        <section id="cart-section" class="row">
-            <!-- Left Column: Cart Items List / Empty State -->
-            <div class="col-lg-8 mb-4">
-                <div id="cart-items" class="cart-items-list">
-                    <!-- Dynamic Cart Items or Empty State injected here by cart.js -->
+    <div class="container py-5">
+    <h1 class="mb-4 fw-bold">Your Shopping Cart</h1>
+    <div class="row">
+        <!-- Left Column for Cart Items -->
+        <div class="col-lg-8 mb-4" id="cart-items">
+            <!-- JS will populate items here -->
+        </div>
+        
+        <!-- Right Column for Order Summary -->
+        <div class="col-lg-4">
+            <div class="card shadow-sm border-0 p-4">
+                <h4 class="fw-bold mb-3">Order Summary</h4>
+                <div class="d-flex justify-content-between mb-3">
+                    <span class="text-muted">Total:</span>
+                    <span class="fw-bold fs-5 text-dark" id="cart-total">₹0</span>
                 </div>
+                <button id="checkout-btn" class="btn btn-primary w-100 py-2 fw-bold">Proceed to Checkout</button>
             </div>
-
-            <!-- Right Column: Cart Summary -->
-            <div class="col-lg-4">
-                <div id="cart-summary" class="card shadow-sm p-4 border-0 bg-light">
-                    <h3 class="h4 mb-3 fw-semibold">Order Summary</h3>
-                    <div class="d-flex justify-content-between mb-3">
-                        <span class="text-muted">Total:</span>
-                        <span id="cart-total" class="fw-bold fs-5">$0.00</span>
-                    </div>
-                    <button id="checkout-btn" class="btn btn-primary w-100 py-2">Proceed to Checkout</button>
-                </div>
-            </div>
+        </div>
+    </div>
+</div>
         </section>
 
         <!-- Recommended Products Section (Shown when empty or additional upsell) -->

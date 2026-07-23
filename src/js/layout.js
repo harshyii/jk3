@@ -16,7 +16,7 @@ export const Layout = {
             { id: 'footer-placeholder', file: 'src/partials/footer.html' },
             { id: 'toast-placeholder', file: 'src/partials/toast.html' },
             { id: 'modal-placeholder', file: 'src/partials/modal.html' },
-            { id: 'pagination-placeholder', file: 'src/partials/pagination.html' },
+            
             { id: 'product-card-placeholder', file: 'src/partials/product-card.html' },
             { id: 'offcanvas-placeholder', file: 'src/partials/offcanvas.html' }
         ];

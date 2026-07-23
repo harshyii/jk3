@@ -262,11 +262,11 @@ aside h3, .sidebar-filters h3 {
 /* Blog Grid & Cards */
 .blog-grid, .content-grid {
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     gap: 24px;
     width: 100%;
     max-width: 1200px;
-    margin: 20px auto 0 auto;
+    margin: 20px auto 12 auto;
 }
 
 .blog-post-card, .content-grid > div {
@@ -357,7 +357,7 @@ footer {
 /* Responsive Layout Breakpoints */
 @media (max-width: 992px) {
     .content-grid, .blog-grid {
-        grid-template-columns: repeat(2, 1fr);
+        grid-template-columns: repeat(4, 1fr);
     }
 }
 
@@ -366,3 +366,4 @@ footer {
         grid-template-columns: 1fr;
     }
 }
+

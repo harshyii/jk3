@@ -1,3 +1,8 @@
+/**
+ * Haryana Tools - Home Page Controller
+ * Manages product catalog grid rendering, search handling, and direct add-to-cart functionality.
+ */
+
 document.addEventListener('DOMContentLoaded', async () => {
     try {
         const response = await fetch('dist/data/catalog.json');
@@ -5,6 +10,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         const products = await response.json();
 
         renderFeaturedProducts(products);
+        initHomeAddToCart(products);
         
         // Also fetch and render blogs if the blog-grid container exists
         try {
@@ -37,30 +43,111 @@ function renderFeaturedProducts(products) {
 
     container.innerHTML = featured.map(product => {
         const productSku = product.sku || product.SKU || '';
+        const productName = product.name || product.Name || '';
+        const productImg = product.image || product.Image || 'src/images/placeholder.jpg';
+        const productPrice = product.price || product.SalePrice || product.MRP || 0;
+        const productUnit = product.unit || product.Unit || 'PC';
+        const productBrand = product.brand || product.Brand || 'General';
+
         return `
             <div class="col-6 col-md-4 col-lg-3 mb-4">
-                <div class="card h-100 product-card shadow-sm border-0">
+                <div class="card h-100 product-card shadow-sm border-0 d-flex flex-column">
                     <a href="product.html?sku=${productSku}" class="text-decoration-none">
                         <div class="product-img-wrapper position-relative overflow-hidden" style="height: 200px; background-color: #f8f9fa;">
-                            <img src="${product.image || product.Image || 'src/images/placeholder.jpg'}" alt="${escapeHtml(product.name || product.Name)}" class="w-100 h-100 object-fit-contain p-3">
+                            <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-3">
                         </div>
                     </a>
                     <div class="card-body d-flex flex-column p-3">
-                        <span class="text-uppercase text-muted small mb-1">${escapeHtml(product.brand || product.Brand || 'General')}</span>
+                        <span class="text-uppercase text-muted small mb-1">${escapeHtml(productBrand)}</span>
                         <h5 class="card-title fs-6 mb-2">
                             <a href="product.html?sku=${productSku}" class="text-dark text-decoration-none stretched-link">
-                                ${escapeHtml(product.name || product.Name)}
+                                ${escapeHtml(productName)}
                             </a>
                         </h5>
-                        <div class="mt-auto d-flex align-items-center justify-content-between pt-2">
-                            <span class="fw-bold text-primary">₹${Number(product.price || product.SalePrice || product.MRP || 0).toLocaleString('en-IN')}</span>
-                            <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-primary position-relative z-1">View</a>
+                        <div class="mt-auto pt-2">
+                            <span class="fw-bold text-primary d-block mb-2">₹${Number(productPrice).toLocaleString('en-IN')}</span>
+                            <div class="d-flex gap-2 position-relative z-1">
+                                <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-primary w-50">View</a>
+                                <button class="btn btn-sm btn-primary w-50 home-add-to-cart-btn" 
+                                        data-sku="${productSku}"
+                                        data-name="${escapeHtml(productName)}"
+                                        data-price="${productPrice}"
+                                        data-image="${productImg}"
+                                        data-unit="${productUnit}">
+                                    Add
+                                </button>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         `;
     }).join('');
+}
+
+function initHomeAddToCart(products) {
+    const productGrid = document.getElementById('product-grid');
+    if (!productGrid) return;
+
+    productGrid.addEventListener('click', (e) => {
+        const addBtn = e.target.closest('.home-add-to-cart-btn');
+        if (!addBtn) return;
+
+        const sku = addBtn.dataset.sku;
+        const name = addBtn.dataset.name;
+        const price = parseFloat(addBtn.dataset.price) || 0;
+        const image = addBtn.dataset.image;
+        const unit = addBtn.dataset.unit || 'PC';
+
+        let cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
+        const existingIndex = cart.findIndex(item => item.sku === sku);
+
+        if (existingIndex > -1) {
+            cart[existingIndex].quantity = (cart[existingIndex].quantity || cart[existingIndex].qty || 1) + 1;
+            if (cart[existingIndex].qty) cart[existingIndex].qty = cart[existingIndex].quantity;
+        } else {
+            cart.push({
+                sku: sku,
+                name: name,
+                price: price,
+                image: image,
+                quantity: 1,
+                unit: unit
+            });
+        }
+
+        localStorage.setItem('ht_cart', JSON.stringify(cart));
+        window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
+
+        // Visual feedback
+        const message = `${name} added to your cart!`;
+        if (window.UI && typeof window.UI.showToast === 'function') {
+            window.UI.showToast(message, 'success');
+        } else if (typeof window.showToast === 'function') {
+            window.showToast('Success', message, 'success');
+        } else {
+            showFallbackToast(message);
+        }
+    });
+}
+
+function showFallbackToast(message) {
+    let toastContainer = document.getElementById('fallback-toast-container');
+    if (!toastContainer) {
+        toastContainer = document.createElement('div');
+        toastContainer.id = 'fallback-toast-container';
+        toastContainer.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 9999;';
+        document.body.appendChild(toastContainer);
+    }
+    
+    const toast = document.createElement('div');
+    toast.className = 'alert alert-success shadow-sm py-2 px-3 mb-2 animate-fade';
+    toast.innerHTML = `🌿 ${escapeHtml(message)}`;
+    toastContainer.appendChild(toast);
+    
+    setTimeout(() => {
+        toast.remove();
+    }, 3000);
 }
 
 function renderBlogs(blogs) {
@@ -75,7 +162,6 @@ function renderBlogs(blogs) {
     }
 
     container.innerHTML = latestBlogs.map(blog => {
-        // Fallback check: if date looks like a number/SKU, use a default readable format or category instead
         let rawDate = blog.date || blog.Date || '';
         let displayDate = (rawDate && isNaN(rawDate)) ? rawDate : 'Recent Guide';
 

@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 </article>
             `;
         } else {
-            // --- Render Blog List Feed ---
+            // --- Render Blog List Feed with Proper Page Number Pagination ---
             const responseData = await API.getBlogs();
             
             let allBlogs = [];
@@ -125,8 +125,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            let currentLimit = 0;
             const postsPerPage = 6;
+            let currentPage = 1;
 
             container.innerHTML = `
                 <div class="row row-cols-1 row-cols-md-2 row-cols-xl-3 g-4 w-100 m-0" id="blog-grid"></div>
@@ -136,11 +136,13 @@ document.addEventListener('DOMContentLoaded', async () => {
             const grid = document.getElementById('blog-grid');
             const paginationPlaceholder = document.getElementById('pagination-placeholder');
 
-            const loadNextBatch = () => {
-                const nextLimit = currentLimit + postsPerPage;
-                const batch = allBlogs.slice(currentLimit, nextLimit);
+            const renderPage = (page) => {
+                currentPage = page;
+                const start = (currentPage - 1) * postsPerPage;
+                const end = start + postsPerPage;
+                const pagePosts = allBlogs.slice(start, end);
 
-                const html = batch.map(post => {
+                grid.innerHTML = pagePosts.map(post => {
                     const imageUrl = post.image || post.Image || post.FeaturedImage || post.featuredImage || 'https://via.placeholder.com/400x200';
                     const postTitle = post.title || post.Title || 'Untitled Post';
                     const postSlug = post.slug || post.Slug || '#';
@@ -176,22 +178,69 @@ document.addEventListener('DOMContentLoaded', async () => {
                     `;
                 }).join('');
 
-                grid.insertAdjacentHTML('beforeend', html);
-                currentLimit += batch.length;
-
-                if (currentLimit < allBlogs.length) {
-                    paginationPlaceholder.innerHTML = `
-                        <button id="load-more-btn" class="btn btn-outline-primary px-4 py-2 rounded-pill fw-semibold shadow-sm">
-                            Load More Articles (${allBlogs.length - currentLimit} remaining)
-                        </button>
-                    `;
-                    document.getElementById('load-more-btn').addEventListener('click', loadNextBatch);
-                } else {
-                    paginationPlaceholder.innerHTML = '<p class="text-muted small text-center italic">You have viewed all blog posts.</p>';
-                }
+                renderPaginationControls();
+                window.scrollTo({ top: 0, behavior: 'smooth' });
             };
 
-            loadNextBatch();
+            const renderPaginationControls = () => {
+                let paginationPlaceholder = document.getElementById('pagination-placeholder');
+                if (!paginationPlaceholder) return;
+
+                const totalPages = Math.ceil(allBlogs.length / postsPerPage);
+                if (totalPages <= 1) {
+                    paginationPlaceholder.innerHTML = '';
+                    return;
+                }
+
+                // Inject the nav and list structure directly via JS to avoid race conditions
+                paginationPlaceholder.innerHTML = `
+                    <nav aria-label="Pagination" class="pagination-wrapper">
+                        <ul id="pagination-container" class="pagination"></ul>
+                    </nav>
+                `;
+
+                const paginationContainer = document.getElementById('pagination-container');
+                if (!paginationContainer) return;
+
+                let html = '';
+
+                // Previous Button
+                html += `
+                    <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
+                        <button class="page-link" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">Previous</button>
+                    </li>
+                `;
+
+                // Page Number Buttons
+                for (let i = 1; i <= totalPages; i++) {
+                    html += `
+                        <li class="page-item ${i === currentPage ? 'active' : ''}">
+                            <button class="page-link" data-page="${i}">${i}</button>
+                        </li>
+                    `;
+                }
+
+                // Next Button
+                html += `
+                    <li class="page-item ${currentPage === totalPages ? 'disabled' : ''}">
+                        <button class="page-link" ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">Next</button>
+                    </li>
+                `;
+
+                paginationContainer.innerHTML = html;
+
+                // Event listener for clicks
+                paginationContainer.querySelectorAll('button.page-link').forEach(button => {
+                    button.addEventListener('click', (e) => {
+                        const targetPage = parseInt(e.target.getAttribute('data-page'));
+                        if (!isNaN(targetPage) && targetPage >= 1 && targetPage <= totalPages) {
+                            renderPage(targetPage);
+                        }
+                    });
+                });
+            };
+            // Initial page load
+            renderPage(1);
         }
     } catch (err) {
         console.error("Critical error rendering blog:", err);

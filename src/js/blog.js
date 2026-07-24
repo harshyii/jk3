@@ -4,7 +4,7 @@
 
 import { API } from './api.js';
 
-// Robustly resolve image URLs (handles absolute HTTP links, relative paths, etc.)
+// Robustly resolve image URLs
 function resolveImageUrl(img) {
     if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') {
@@ -17,32 +17,32 @@ function resolveImageUrl(img) {
     return img.url || img.src || img.path || 'https://picsum.photos/400/200';
 }
 
-// Safely format date string to avoid timezone shifts or 1970 Epoch fallbacks
+// Bulletproof date formatter that avoids 1970 UTC epoch shifts
 function formatPostDate(rawDate) {
     if (!rawDate) return 'Recent Guide';
     
-    // If it's a numeric timestamp or string of digits
-    if (typeof rawDate === 'number' || /^\d+$/.test(String(rawDate).trim())) {
-        const numVal = Number(rawDate);
+    const dateStr = String(rawDate).trim();
+
+    // Handle timestamp numbers or string digits
+    if (/^\d+$/.test(dateStr)) {
+        const numVal = Number(dateStr);
         const parsedDate = new Date(numVal > 10000000000 ? numVal : numVal * 1000);
         return !isNaN(parsedDate.getTime()) 
             ? parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) 
-            : String(rawDate);
+            : dateStr;
     }
 
-    // Clean up string dates (e.g. "2026-06-14")
-    const dateStr = String(rawDate).trim();
-    // Match standard YYYY-MM-DD pattern to parse safely in local time components
+    // Safely parse YYYY-MM-DD using local components to avoid timezone offset bugs
     const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})$/);
     if (match) {
         const [, year, month, day] = match;
-        const parsedDate = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+        const parsedDate = new Date(parseInt(year, 10), parseInt(month, 10) - 1, parseInt(day, 10));
         if (!isNaN(parsedDate.getTime())) {
             return parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
         }
     }
 
-    // Generic fallback parse
+    // Fallback standard parse
     const fallbackDate = new Date(dateStr);
     return !isNaN(fallbackDate.getTime()) 
         ? fallbackDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) 
@@ -74,7 +74,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleCategory = post.Category || post.category || 'General';
             
             let mdFileSource = post.MarkdownFile || post.markdownFile || post.file || post.File || `${slug}.md`;
-            
             let cleanRelativePath = mdFileSource.replace(/^\/+/, '');
             if (!cleanRelativePath.startsWith('src/') && !cleanRelativePath.startsWith('dist/')) {
                 cleanRelativePath = `src/data/blogs/${cleanRelativePath}`;
@@ -110,16 +109,9 @@ document.addEventListener('DOMContentLoaded', async () => {
             let renderedHtml = markdownContent;
             try {
                 const { marked } = await import('https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js');
-                
-                marked.setOptions({
-                    headerIds: true,
-                    mangle: false,
-                    gfm: true
-                });
-
+                marked.setOptions({ headerIds: true, mangle: false, gfm: true });
                 renderedHtml = marked.parse(markdownContent);
             } catch (parseErr) {
-                console.warn('Marked library failed to load, falling back to basic formatting:', parseErr);
                 renderedHtml = markdownContent.replace(/\n\n/g, '<br><br>');
             }
 
@@ -161,10 +153,11 @@ document.addEventListener('DOMContentLoaded', async () => {
                 allBlogs = [responseData];
             }
             
+            // Sort safely using string comparison or split parts if timestamps are absent
             allBlogs.sort((a, b) => {
-                const dateA = new Date(a.Date || a.date || 0);
-                const dateB = new Date(b.Date || b.date || 0);
-                return dateB - dateA;
+                const dateA = String(a.Date || a.date || '');
+                const dateB = String(b.Date || b.date || '');
+                return dateB.localeCompare(dateA);
             });
             
             if (allBlogs.length === 0) {
@@ -181,7 +174,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             `;
 
             const grid = document.getElementById('blog-grid');
-            const paginationPlaceholder = document.getElementById('pagination-placeholder');
 
             const renderPage = (page) => {
                 currentPage = page;
@@ -251,9 +243,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const paginationContainer = document.getElementById('pagination-container');
                 if (!paginationContainer) return;
 
-                let html = '';
-
-                html += `
+                let html = `
                     <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
                         <button class="page-link" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">Previous</button>
                     </li>
@@ -277,7 +267,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                 paginationContainer.querySelectorAll('button.page-link').forEach(button => {
                     button.addEventListener('click', (e) => {
-                        const targetPage = parseInt(e.target.getAttribute('data-page'));
+                        const targetPage = parseInt(e.target.getAttribute('data-page'), 10);
                         if (!isNaN(targetPage) && targetPage >= 1 && targetPage <= totalPages) {
                             renderPage(targetPage);
                         }

@@ -6,10 +6,9 @@ import { API } from './api.js';
 
 // Helper function to safely extract an image URL string from either a string or an object
 function resolveImageUrl(img) {
-    if (!img) return 'https://via.placeholder.com/400x200';
+    if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') return img;
-    // If it's an object, try common properties like url, src, or path
-    return img.url || img.src || img.path || 'https://via.placeholder.com/400x200';
+    return img.url || img.src || img.path || 'https://picsum.photos/400/200';
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -29,23 +28,20 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            const rawImage = post.image || post.Image || post.FeaturedImage || post.featuredImage;
+            const rawImage = post.FeaturedImage || post.featuredImage || post.image || post.Image;
             const singleImage = resolveImageUrl(rawImage);
             
-            const singleTitle = post.title || post.Title || 'Untitled Post';
-            const singleAuthor = post.author || post.Author || 'Admin';
-            const singleCategory = post.category || post.Category || 'General';
+            const singleTitle = post.Title || post.title || 'Untitled Post';
+            const singleAuthor = post.Author || post.author || 'Admin';
+            const singleCategory = post.Category || post.category || 'General';
             
-            // Extract the filename or full relative path from the post metadata
-            let mdFileSource = post.markdownFile || post.MarkdownFile || post.file || post.File || `${slug}.md`;
+            let mdFileSource = post.MarkdownFile || post.markdownFile || post.file || post.File || `${slug}.md`;
             
-            // Normalize path variants (e.g. if json has "src/data/blogs/file.md" or just "file.md")
             let cleanRelativePath = mdFileSource.replace(/^\/+/, '');
             if (!cleanRelativePath.startsWith('src/') && !cleanRelativePath.startsWith('dist/')) {
                 cleanRelativePath = `src/data/blogs/${cleanRelativePath}`;
             }
 
-            // 1. Fetch the actual .md file content trying multiple potential web roots
             let markdownContent = '';
             const pathsToTry = [
                 `/${cleanRelativePath}`,
@@ -72,10 +68,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                 markdownContent = `### Content Unavailable\nSorry, the markdown file for **${slug}** could not be loaded from the server path.`;
             }
 
-            // 2. Parse Markdown to HTML
             let renderedHtml = markdownContent;
             try {
-                // Dynamically load the 'marked' parser library
                 const { marked } = await import('https://cdn.jsdelivr.net/npm/marked/lib/marked.esm.js');
                 
                 marked.setOptions({
@@ -90,7 +84,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 renderedHtml = markdownContent.replace(/\n\n/g, '<br><br>');
             }
 
-            // 3. Render HTML to Container
             container.innerHTML = `
                 <article class="single-blog py-3 w-100">
                     <nav aria-label="breadcrumb" class="mb-4">
@@ -118,7 +111,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 </article>
             `;
         } else {
-            // --- Render Blog List Feed with Proper Page Number Pagination ---
             const responseData = await API.getBlogs();
             
             let allBlogs = [];
@@ -130,11 +122,10 @@ document.addEventListener('DOMContentLoaded', async () => {
                 allBlogs = [responseData];
             }
             
-            // --- SORT BLOGS: LATEST TO OLDEST ---
             allBlogs.sort((a, b) => {
-                const dateA = new Date(a.date || a.Date || 0);
-                const dateB = new Date(b.date || b.Date || 0);
-                return dateB - dateA; // Newest/latest first
+                const dateA = new Date(a.Date || a.date || 0);
+                const dateB = new Date(b.Date || b.date || 0);
+                return dateB - dateA;
             });
             
             if (allBlogs.length === 0) {
@@ -160,14 +151,24 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const pagePosts = allBlogs.slice(start, end);
 
                 grid.innerHTML = pagePosts.map(post => {
-                    const rawImage = post.image || post.Image || post.FeaturedImage || post.featuredImage;
+                    const rawImage = post.FeaturedImage || post.featuredImage || post.image || post.Image;
                     const imageUrl = resolveImageUrl(rawImage);
                     
-                    const postTitle = post.title || post.Title || 'Untitled Post';
-                    const postSlug = post.slug || post.Slug || '#';
-                    const postExcerpt = post.excerpt || post.Excerpt || post.MetaDescription || 'Read our in-depth guide on workshop tools and equipment...';
-                    const postCategory = post.category || post.Category || 'General';
-                    const postDate = post.date || post.Date || 'Recent Guide';
+                    const postTitle = post.Title || post.title || 'Untitled Post';
+                    const postSlug = post.Slug || post.slug || '#';
+                    const postExcerpt = post.MetaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
+                    const postCategory = post.Category || post.category || 'General';
+                    
+                    const rawDate = post.Date || post.date;
+                    let postDate = 'Recent Guide';
+                    if (rawDate) {
+                        const parsedDate = new Date(rawDate);
+                        if (!isNaN(parsedDate)) {
+                            postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                        } else {
+                            postDate = rawDate;
+                        }
+                    }
 
                     return `
                         <div class="col">
@@ -222,14 +223,12 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                 let html = '';
 
-                // Previous Button
                 html += `
                     <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
                         <button class="page-link" ${currentPage === 1 ? 'disabled' : ''} data-page="${currentPage - 1}">Previous</button>
                     </li>
                 `;
 
-                // Page Number Buttons
                 for (let i = 1; i <= totalPages; i++) {
                     html += `
                         <li class="page-item ${i === currentPage ? 'active' : ''}">
@@ -238,7 +237,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                     `;
                 }
 
-                // Next Button
                 html += `
                     <li class="page-item ${currentPage === totalPages ? 'disabled' : ''}">
                         <button class="page-link" ${currentPage === totalPages ? 'disabled' : ''} data-page="${currentPage + 1}">Next</button>
@@ -247,7 +245,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                 paginationContainer.innerHTML = html;
 
-                // Event listener for clicks
                 paginationContainer.querySelectorAll('button.page-link').forEach(button => {
                     button.addEventListener('click', (e) => {
                         const targetPage = parseInt(e.target.getAttribute('data-page'));
@@ -258,7 +255,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 });
             };
             
-            // Initial page load
             renderPage(1);
         }
     } catch (err) {

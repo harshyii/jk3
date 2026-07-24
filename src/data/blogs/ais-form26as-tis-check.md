@@ -2,11 +2,11 @@
 
 <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="How to Check AIS, Form 26AS & TIS Before Filing Income Tax Return">
+alt="How to Check AIS, Form 26AS & TIS Before Filing [Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Return">
 
-<span class="badge bg-success mb-2">Income Tax Guide</span>
+<span class="badge bg-success mb-2">[Income Tax](blog.html?id=late-filing-penalty-itr) Guide</span>
 
-<h1>How to Check AIS, Form 26AS & TIS Before Filing Your Income Tax Return</h1>
+<h1>How to Check AIS, Form 26AS & TIS Before Filing Your [Income Tax](blog.html?id=managed-service-provider-income-tax-portal) Return</h1>
 
 <p>Before submitting your Income Tax Return (ITR), one of the most important steps is verifying your financial information using <strong>Annual Information Statement (AIS)</strong>, <strong>Form 26AS</strong>, and <strong>Taxpayer Information Summary (TIS)</strong>. These three reports help taxpayers reconcile income, taxes deducted, investments, and high-value financial transactions before filing an accurate return.</p>
 

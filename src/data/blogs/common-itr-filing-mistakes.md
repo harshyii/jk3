@@ -2,9 +2,9 @@
 
 <img src="https://images.unsplash.com/photo-1554224154-26032ffc0d07?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Common Income Tax Return Filing Mistakes in India">
+alt="Common [Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Return Filing Mistakes in India">
 
-<span class="badge bg-warning text-dark mb-2">Income Tax Guide</span>
+<span class="badge bg-warning text-dark mb-2">[Income Tax](blog.html?id=managed-service-provider-income-tax-portal) Guide</span>
 
 <h1>15 Common ITR Filing Mistakes That Delay Your Refund or Trigger Tax Notices</h1>
 
@@ -512,7 +512,7 @@ Before submitting your Income Tax Return, ensure that you have verified:
 
 <li><a href="blog.html?id=ais-form26as-tis-check">How to Check AIS, Form 26AS & TIS Before Filing ITR</a></li>
 
-<li><a href="blog.html?id=late-filing-penalty-itr">Late Filing Penalty for Income Tax Return Explained</a></li>
+<li><a href="blog.html?id=late-filing-penalty-itr">[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)</a></li>
 
 <li><a href="blog.html?id=itr-filing-deadline-ay-2026-27">Latest ITR Filing Deadline Updates</a></li>
 

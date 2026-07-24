@@ -2,11 +2,11 @@
 
 <img src="https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Freelancer filing Income Tax Return online in India">
+alt="Freelancer filing [Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Return online in India">
 
-<span class="badge bg-success mb-2">Income Tax Guide</span>
+<span class="badge bg-success mb-2">[Income Tax](blog.html?id=late-filing-penalty-itr) Guide</span>
 
-<h1>Income Tax Return Guide for Freelancers and Professionals in India (AY 2026-27)</h1>
+<h1>[Income Tax](blog.html?id=managed-service-provider-income-tax-portal) Return Guide for Freelancers and Professionals in India (AY 2026-27)</h1>
 
 <p>Freelancing has become one of the fastest-growing career choices in India. Software developers, graphic designers, content writers, digital marketers, YouTubers, consultants, architects, photographers, trainers, and many other professionals now earn income independently instead of through traditional employment.</p>
 

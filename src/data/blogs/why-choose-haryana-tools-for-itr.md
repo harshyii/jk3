@@ -2,9 +2,9 @@
 
 <img src="https://images.unsplash.com/photo-1554224154-26032ffc0d07?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Online Income Tax Return Filing Assistance by Haryana.Tools">
+alt="Online [Income Tax](blog.html?id=best-online-itr-filing-service) Return Filing Assistance by Haryana.Tools">
 
-<span class="badge bg-success mb-2">Income Tax Services</span>
+<span class="badge bg-success mb-2">[Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Services</span>
 
 <h1>Why Choose Haryana.Tools for Online ITR Filing Assistance?</h1>
 
@@ -436,7 +436,7 @@ Before beginning your Income Tax Return, keep these documents ready whenever app
 
 <li><a href="blog.html?id=ais-form26as-tis-check">How to Check AIS, Form 26AS & TIS Before Filing ITR</a></li>
 
-<li><a href="blog.html?id=late-filing-penalty-itr">Late Filing Penalty for Income Tax Return Explained</a></li>
+<li><a href="blog.html?id=late-filing-penalty-itr">[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)</a></li>
 
 </ul>
 

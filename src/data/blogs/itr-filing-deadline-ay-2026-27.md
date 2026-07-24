@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Income Tax Return Filing Deadline AY 2026-27">
+alt="[Income Tax](blog.html?id=managed-service-provider-income-tax-portal) Return Filing Deadline AY 2026-27">
 
 <span class="badge bg-success mb-2">Income Tax</span>
 
@@ -725,13 +725,13 @@ Avoid these common mistakes before clicking <strong>Submit</strong>.
 
 <a class="list-group-item list-group-item-action" href="blog.html?id=late-filing-penalty-itr">
 
-Late Filing Penalty for Income Tax Return Explained
+[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)
 
 </a>
 
 <a class="list-group-item list-group-item-action" href="blog.html?id=how-to-file-itr-online">
 
-Step-by-Step Guide to File Income Tax Return Online
+[Step-by-Step Guide to File Income Tax Return Online](blog.html?id=how-to-file-itr-online)
 
 </a>
 

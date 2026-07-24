@@ -2,7 +2,7 @@
 
 <img src="https://images.unsplash.com/photo-1516321318423-f06f85e504b3?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Income Tax e-Filing Portal Managed Service Provider and Portal Performance">
+alt="[Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) e-Filing Portal Managed Service Provider and Portal Performance">
 
 <span class="badge bg-warning text-dark mb-2">Income Tax News</span>
 
@@ -1004,11 +1004,11 @@ ITR Filing Deadline AY 2026-27: Latest Updates
 </a>
 
 <a href="blog.html?id=late-filing-penalty-itr" class="list-group-item list-group-item-action">
-Late Filing Penalty for Income Tax Return Explained
+[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)
 </a>
 
 <a href="blog.html?id=how-to-file-itr-online" class="list-group-item list-group-item-action">
-Step-by-Step Guide to File Income Tax Return Online
+[Step-by-Step Guide to File Income Tax Return Online](blog.html?id=how-to-file-itr-online)
 </a>
 
 <a href="blog.html?id=ais-form26as-tis-check" class="list-group-item list-group-item-action">

@@ -2,9 +2,9 @@
 
 <img src="https://images.unsplash.com/photo-1554224155-8d04cb21cd6c?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Income Tax Refund Delay Guide">
+alt="[Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Refund Delay Guide">
 
-<span class="badge bg-success mb-2">Income Tax</span>
+<span class="badge bg-success mb-2">[Income Tax](blog.html?id=managed-service-provider-income-tax-portal)</span>
 
 <h1>Why Is My Income Tax Refund Delayed? Common Reasons & How to Get Your Refund Faster (AY 2026-27)</h1>
 
@@ -1006,7 +1006,7 @@ How to Check AIS, Form 26AS & TIS Before Filing
 
 <a href="blog.html?id=late-filing-penalty-itr" class="list-group-item list-group-item-action">
 
-Late Filing Penalty for Income Tax Return Explained
+[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)
 
 </a>
 

@@ -2,9 +2,9 @@
 
 <img src="https://images.unsplash.com/photo-1554224155-6726b3ff858f?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Income Tax Notice under Section 143(1) Explained">
+alt="[Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Notice under Section 143(1) Explained">
 
-<span class="badge bg-warning text-dark mb-2">Income Tax Guide</span>
+<span class="badge bg-warning text-dark mb-2">[Income Tax](blog.html?id=managed-service-provider-income-tax-portal) Guide</span>
 
 <h1>Received an Income Tax Notice Under Section 143(1)? Here's What It Means and What You Should Do</h1>
 
@@ -893,7 +893,7 @@ Our team assists in reviewing tax documents and identifying common filing mistak
 
 <li><a href="blog.html?id=ais-form26as-tis-check">How to Check AIS, Form 26AS & TIS Before Filing ITR</a></li>
 
-<li><a href="blog.html?id=late-filing-penalty-itr">Late Filing Penalty for Income Tax Return Explained</a></li>
+<li><a href="blog.html?id=late-filing-penalty-itr">[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)</a></li>
 
 <li><a href="blog.html?id=best-online-itr-filing-service">Best Online ITR Filing Assistance in India</a></li>
 

@@ -2,9 +2,9 @@
 
 <img src="https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?w=1400&auto=format&fit=crop&q=80"
 class="img-fluid rounded shadow-sm mb-3"
-alt="How to File Income Tax Return Online in India">
+alt="How to File [Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Return Online in India">
 
-<span class="badge bg-success mb-2">Income Tax Guide</span>
+<span class="badge bg-success mb-2">[Income Tax](blog.html?id=managed-service-provider-income-tax-portal) Guide</span>
 
 <h1>How to File Income Tax Return (ITR) Online in India – Complete Step-by-Step Guide (AY 2026-27)</h1>
 
@@ -990,7 +990,7 @@ ITR Filing Deadline AY 2026-27: Latest Updates
 </a>
 
 <a class="list-group-item list-group-item-action" href="blog.html?id=late-filing-penalty-itr">
-Late Filing Penalty for Income Tax Return Explained
+[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)
 </a>
 
 <a class="list-group-item list-group-item-action" href="blog.html?id=ais-form26as-tis-check">

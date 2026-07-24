@@ -2,13 +2,13 @@
 
 <img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1400&auto=format&fit=crop"
 class="img-fluid rounded shadow-sm mb-3"
-alt="Small Business Income Tax Return Filing Guide">
+alt="Small Business [Income Tax](blog.html?id=itr-filing-deadline-ay-2026-27) Return Filing Guide">
 
 <span class="badge bg-success mb-2">Business Tax Guide</span>
 
 <h1>ITR Filing Guide for Small Businesses and MSMEs in India (AY 2026-27)</h1>
 
-<p>Running a small business involves much more than selling products or providing services. Every proprietor, trader, retailer, manufacturer, distributor, freelancer and MSME owner must also comply with Income Tax laws. Filing your Income Tax Return (ITR) on time helps avoid penalties, improves financial credibility and keeps your business compliant with government regulations.</p>
+<p>Running a small business involves much more than selling products or providing services. Every proprietor, trader, retailer, manufacturer, distributor, freelancer and MSME owner must also comply with [Income Tax](blog.html?id=managed-service-provider-income-tax-portal) laws. Filing your Income Tax Return (ITR) on time helps avoid penalties, improves financial credibility and keeps your business compliant with government regulations.</p>
 
 <p>Whether you operate a hardware shop, power tools dealership, solar business, automobile workshop, trading company, retail outlet or service-based enterprise, understanding the ITR filing process is essential. This guide explains everything small business owners should know before filing Income Tax Returns for Assessment Year (AY) 2026-27.</p>
 
@@ -612,7 +612,7 @@ Many of these mistakes can result in notices, refund delays or additional clarif
 
 <li><a href="blog.html?id=common-itr-filing-mistakes">15 Common ITR Filing Mistakes That Delay Your Refund</a></li>
 
-<li><a href="blog.html?id=late-filing-penalty-itr">Late Filing Penalty for Income Tax Return Explained</a></li>
+<li><a href="blog.html?id=late-filing-penalty-itr">[Late Filing Penalty for Income Tax Return Explained](blog.html?id=late-filing-penalty-itr)</a></li>
 
 </ul>
 

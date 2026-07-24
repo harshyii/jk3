@@ -4,7 +4,7 @@
 
 import { API } from './api.js';
 
-// Helper function to safely extract an image URL string from either a string or an object
+// Helper function to safely extract an image URL string from either a string, an object, or an absolute link
 function resolveImageUrl(img) {
     if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') return img;
@@ -28,6 +28,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
+            // Explicitly checking FeaturedImage first to match your JSON keys
             const rawImage = post.FeaturedImage || post.featuredImage || post.image || post.Image;
             const singleImage = resolveImageUrl(rawImage);
             
@@ -101,7 +102,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     
                     ${singleImage ? `
                         <div class="my-4">
-                            <img src="${singleImage.startsWith('/') || singleImage.startsWith('http') ? singleImage : '/' + singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
+                            <img src="${singleImage.startsWith('http') || singleImage.startsWith('/') ? singleImage : '/' + singleImage}" alt="${singleTitle}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
                         </div>
                     ` : ''}
 
@@ -122,6 +123,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 allBlogs = [responseData];
             }
             
+            // Sort blogs by Date descending (newest first)
             allBlogs.sort((a, b) => {
                 const dateA = new Date(a.Date || a.date || 0);
                 const dateB = new Date(b.Date || b.date || 0);
@@ -151,6 +153,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const pagePosts = allBlogs.slice(start, end);
 
                 grid.innerHTML = pagePosts.map(post => {
+                    // Pulling FeaturedImage first as provided in your JSON layout schema
                     const rawImage = post.FeaturedImage || post.featuredImage || post.image || post.Image;
                     const imageUrl = resolveImageUrl(rawImage);
                     
@@ -159,22 +162,26 @@ document.addEventListener('DOMContentLoaded', async () => {
                     const postExcerpt = post.MetaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
                     const postCategory = post.Category || post.category || 'General';
                     
+                    // Fixed Date parsing logic to prevent displaying numbers/timestamps
                     const rawDate = post.Date || post.date;
                     let postDate = 'Recent Guide';
                     if (rawDate) {
                         const parsedDate = new Date(rawDate);
-                        if (!isNaN(parsedDate)) {
+                        if (!isNaN(parsedDate.getTime())) {
                             postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
                         } else {
                             postDate = rawDate;
                         }
                     }
 
+                    // Checks if URL is absolute (like Unsplash) or relative and formats source securely
+                    const finalImageSrc = imageUrl.startsWith('http') || imageUrl.startsWith('/') ? imageUrl : '/' + imageUrl;
+
                     return `
                         <div class="col">
                             <div class="card h-100 shadow-sm border-0 rounded-3 overflow-hidden">
                                 <div class="position-relative bg-light" style="height: 200px; overflow: hidden;">
-                                    <img src="${imageUrl.startsWith('/') || imageUrl.startsWith('http') ? imageUrl : '/' + imageUrl}" alt="${postTitle}" class="w-100 h-100 object-fit-cover">
+                                    <img src="${finalImageSrc}" alt="${postTitle}" class="w-100 h-100 object-fit-cover">
                                     <span class="badge bg-dark bg-opacity-75 position-absolute top-0 start-0 m-3 px-2.5 py-1.5 small">${postCategory}</span>
                                 </div>
                                 <div class="card-body d-flex flex-column p-4">

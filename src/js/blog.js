@@ -4,8 +4,9 @@
 
 import { API } from './api.js';
 
-// Robustly resolve image URLs
-function resolveImageUrl(img) {
+// Robustly resolve image URLs supporting all possible property variations
+function resolveImageUrl(post) {
+    const img = post.FeaturedImage || post.featuredImage || post.image || post.Image || post.thumbnail;
     if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') {
         const trimmed = img.trim();
@@ -17,13 +18,13 @@ function resolveImageUrl(img) {
     return img.url || img.src || img.path || 'https://picsum.photos/400/200';
 }
 
-// Bulletproof date formatter that avoids 1970 UTC epoch shifts
+// Universal date parser supporting YYYY-MM-DD, timestamps, and localized strings without 1970 fallback
 function formatPostDate(rawDate) {
     if (!rawDate) return 'Recent Guide';
     
     const dateStr = String(rawDate).trim();
 
-    // Handle timestamp numbers or string digits
+    // Timestamp numbers or digits string
     if (/^\d+$/.test(dateStr)) {
         const numVal = Number(dateStr);
         const parsedDate = new Date(numVal > 10000000000 ? numVal : numVal * 1000);
@@ -32,7 +33,7 @@ function formatPostDate(rawDate) {
             : dateStr;
     }
 
-    // Safely parse YYYY-MM-DD using local components to avoid timezone offset bugs
+    // YYYY-MM-DD match
     const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})$/);
     if (match) {
         const [, year, month, day] = match;
@@ -42,7 +43,7 @@ function formatPostDate(rawDate) {
         }
     }
 
-    // Fallback standard parse
+    // General fallback parse
     const fallbackDate = new Date(dateStr);
     return !isNaN(fallbackDate.getTime()) 
         ? fallbackDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) 
@@ -66,9 +67,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            const rawImage = post.FeaturedImage || post.featuredImage || post.image || post.Image;
-            const singleImage = resolveImageUrl(rawImage);
-            
+            const singleImage = resolveImageUrl(post);
             const singleTitle = post.Title || post.title || 'Untitled Post';
             const singleAuthor = post.Author || post.author || 'Admin';
             const singleCategory = post.Category || post.category || 'General';
@@ -96,7 +95,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     mdResponse = await fetch(pathOption);
                     if (mdResponse.ok) break;
                 } catch (e) {
-                    // Try next path option
+                    // Try next path
                 }
             }
 
@@ -153,7 +152,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 allBlogs = [responseData];
             }
             
-            // Sort safely using string comparison or split parts if timestamps are absent
+            // Sort safely using whichever date key exists
             allBlogs.sort((a, b) => {
                 const dateA = String(a.Date || a.date || '');
                 const dateB = String(b.Date || b.date || '');
@@ -182,12 +181,11 @@ document.addEventListener('DOMContentLoaded', async () => {
                 const pagePosts = allBlogs.slice(start, end);
 
                 grid.innerHTML = pagePosts.map(post => {
-                    const rawImage = post.FeaturedImage || post.featuredImage || post.image || post.Image;
-                    const imageUrl = resolveImageUrl(rawImage);
+                    const imageUrl = resolveImageUrl(post);
                     
                     const postTitle = post.Title || post.title || 'Untitled Post';
                     const postSlug = post.Slug || post.slug || '#';
-                    const postExcerpt = post.MetaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
+                    const postExcerpt = post.MetaDescription || post.metaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
                     const postCategory = post.Category || post.category || 'General';
                     
                     const postDate = formatPostDate(post.Date || post.date);

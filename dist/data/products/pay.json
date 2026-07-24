@@ -1,0 +1,29 @@
+{
+  "ProductID": "ACC013",
+  "SKU": "PAY",
+  "Name": "Payroll",
+  "ItemName": "Payroll Management",
+  "Slug": "payroll",
+  "Category": "Accounting Services",
+  "Subcategory": "Accounting",
+  "Brand": "JK Enterprises",
+  "Images": [
+    "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "Image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "Description": "Professional Payroll service by qualified Chartered Accountant.",
+  "DetailedInfo": "End-to-end payroll with document verification, filing, compliance support and expert guidance.",
+  "StockQuantity": 9999,
+  "Unit": "Service",
+  "MRP": 3600,
+  "Discount": 20,
+  "SalePrice": 3000,
+  "Supplier": "JK Enterprises",
+  "LastUpdated": "24/07/2026",
+  "ProductURL": "https://www.haryana.tools/product/PAY",
+  "Model": "",
+  "Country": "India",
+  "ASIN": "",
+  "SearchKeywords": "payroll, CA services, chartered accountant, online payroll, tax consultant, accounting services",
+  "VideoURL": ""
+}

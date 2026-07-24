@@ -1,0 +1,29 @@
+{
+  "ProductID": "ACC016",
+  "SKU": "SHOP",
+  "Name": "Shop Act",
+  "ItemName": "Shop & Establishment Registration",
+  "Slug": "shop-act",
+  "Category": "Accounting Services",
+  "Subcategory": "Registration",
+  "Brand": "JK Enterprises",
+  "Images": [
+    "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "Image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "Description": "Professional Shop Act service by qualified Chartered Accountant.",
+  "DetailedInfo": "End-to-end shop act with document verification, filing, compliance support and expert guidance.",
+  "StockQuantity": 9999,
+  "Unit": "Service",
+  "MRP": 2400,
+  "Discount": 20,
+  "SalePrice": 2000,
+  "Supplier": "JK Enterprises",
+  "LastUpdated": "24/07/2026",
+  "ProductURL": "https://www.haryana.tools/product/SHOP",
+  "Model": "",
+  "Country": "India",
+  "ASIN": "",
+  "SearchKeywords": "shop act, CA services, chartered accountant, online shop act, tax consultant, accounting services",
+  "VideoURL": ""
+}

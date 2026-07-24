@@ -1,0 +1,212 @@
+{
+  "name": "Accounting Services",
+  "slug": "accounting-services",
+  "parentCategory": "",
+  "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "featured": false,
+  "sortOrder": 0,
+  "seoTitle": "",
+  "metaDescription": "",
+  "products": [
+    {
+      "sku": "ITR1",
+      "slug": "itr-1-filing",
+      "name": "ITR-1 Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 1000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/ITR1"
+    },
+    {
+      "sku": "ITR2",
+      "slug": "itr-2-filing",
+      "name": "ITR-2 Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 2500,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/ITR2"
+    },
+    {
+      "sku": "ITR3",
+      "slug": "itr-3-filing",
+      "name": "ITR-3 Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 5000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/ITR3"
+    },
+    {
+      "sku": "ITR4",
+      "slug": "itr-4-filing",
+      "name": "ITR-4 Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/ITR4"
+    },
+    {
+      "sku": "ITRU",
+      "slug": "itr-u-filing",
+      "name": "ITR-U Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 4000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/ITRU"
+    },
+    {
+      "sku": "GSTREG",
+      "slug": "gst-registration",
+      "name": "GST Registration",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/GSTREG"
+    },
+    {
+      "sku": "GSTR1",
+      "slug": "gstr-1-filing",
+      "name": "GSTR-1 Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 1000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/GSTR1"
+    },
+    {
+      "sku": "GST3B",
+      "slug": "gstr-3b-filing",
+      "name": "GSTR-3B Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 1000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/GST3B"
+    },
+    {
+      "sku": "GSTM",
+      "slug": "monthly-gst",
+      "name": "Monthly GST",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/GSTM"
+    },
+    {
+      "sku": "GSTQ",
+      "slug": "quarterly-gst",
+      "name": "Quarterly GST",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 4500,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/GSTQ"
+    },
+    {
+      "sku": "TDS",
+      "slug": "tds-filing",
+      "name": "TDS Filing",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/TDS"
+    },
+    {
+      "sku": "BOOK",
+      "slug": "bookkeeping",
+      "name": "Bookkeeping",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 5000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/BOOK"
+    },
+    {
+      "sku": "PAY",
+      "slug": "payroll",
+      "name": "Payroll",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/PAY"
+    },
+    {
+      "sku": "AUDIT",
+      "slug": "audit",
+      "name": "Audit",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 20000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/AUDIT"
+    },
+    {
+      "sku": "MSME",
+      "slug": "msme-registration",
+      "name": "MSME Registration",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 1000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/MSME"
+    },
+    {
+      "sku": "SHOP",
+      "slug": "shop-act",
+      "name": "Shop Act",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 2000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/SHOP"
+    },
+    {
+      "sku": "FSSAI",
+      "slug": "fssai-license",
+      "name": "FSSAI License",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 3000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/FSSAI"
+    },
+    {
+      "sku": "LLP",
+      "slug": "llp-registration",
+      "name": "LLP Registration",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 9000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/LLP"
+    },
+    {
+      "sku": "PVT",
+      "slug": "pvt-ltd-registration",
+      "name": "Pvt Ltd Registration",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 15000,
+      "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/PVT"
+    },
+    {
+      "sku": "CONS",
+      "slug": "ca-consultation",
+      "name": "CA Consultation",
+      "brand": "JK Enterprises",
+      "category": "Accounting Services",
+      "price": 1000,
+      "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "productUrl": "https://www.haryana.tools/product/CONS"
+    }
+  ]
+}

@@ -2,15 +2,15 @@
   {
     "name": "Eastman",
     "slug": "eastman",
-    "count": 1157,
-    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
+    "count": 979,
+    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336",
     "featured": false
   },
   {
     "name": "JRS Drive",
     "slug": "jrs-drive",
-    "count": 0,
-    "image": "",
+    "count": 178,
+    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
     "featured": false
   },
   {
@@ -23,8 +23,8 @@
   {
     "name": "Tata Solar",
     "slug": "tata-solar",
-    "count": 0,
-    "image": "",
+    "count": 3,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
@@ -149,29 +149,29 @@
   {
     "name": "Loom Solar",
     "slug": "loom-solar",
-    "count": 0,
-    "image": "",
+    "count": 12,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
     "name": "Adani Solar",
     "slug": "adani-solar",
-    "count": 0,
-    "image": "",
+    "count": 3,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
     "name": "Luminous",
     "slug": "luminous",
-    "count": 0,
-    "image": "",
+    "count": 3,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
     "name": "UTL",
     "slug": "utl",
-    "count": 0,
-    "image": "",
+    "count": 3,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
@@ -193,6 +193,13 @@
     "slug": "shakti",
     "count": 0,
     "image": "",
+    "featured": false
+  },
+  {
+    "name": "JK Enterprises",
+    "slug": "jk-enterprises",
+    "count": 20,
+    "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   }
 ]

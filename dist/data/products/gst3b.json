@@ -1,0 +1,29 @@
+{
+  "ProductID": "ACC008",
+  "SKU": "GST3B",
+  "Name": "GSTR-3B Filing",
+  "ItemName": "GSTR-3B Return Filing",
+  "Slug": "gstr-3b-filing",
+  "Category": "Accounting Services",
+  "Subcategory": "GST",
+  "Brand": "JK Enterprises",
+  "Images": [
+    "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "Image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "Description": "Professional GSTR-3B Filing service by qualified Chartered Accountant.",
+  "DetailedInfo": "End-to-end gstr-3b filing with document verification, filing, compliance support and expert guidance.",
+  "StockQuantity": 9999,
+  "Unit": "Service",
+  "MRP": 1200,
+  "Discount": 20,
+  "SalePrice": 1000,
+  "Supplier": "JK Enterprises",
+  "LastUpdated": "24/07/2026",
+  "ProductURL": "https://www.haryana.tools/product/GST3B",
+  "Model": "",
+  "Country": "India",
+  "ASIN": "",
+  "SearchKeywords": "gstr-3b filing, CA services, chartered accountant, online gstr-3b filing, tax consultant, accounting services",
+  "VideoURL": ""
+}

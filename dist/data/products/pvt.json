@@ -1,0 +1,29 @@
+{
+  "ProductID": "ACC019",
+  "SKU": "PVT",
+  "Name": "Pvt Ltd Registration",
+  "ItemName": "Private Limited Company Registration",
+  "Slug": "pvt-ltd-registration",
+  "Category": "Accounting Services",
+  "Subcategory": "Company Registration",
+  "Brand": "JK Enterprises",
+  "Images": [
+    "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "Image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "Description": "Professional Pvt Ltd Registration service by qualified Chartered Accountant.",
+  "DetailedInfo": "End-to-end pvt ltd registration with document verification, filing, compliance support and expert guidance.",
+  "StockQuantity": 9999,
+  "Unit": "Service",
+  "MRP": 18000,
+  "Discount": 20,
+  "SalePrice": 15000,
+  "Supplier": "JK Enterprises",
+  "LastUpdated": "24/07/2026",
+  "ProductURL": "https://www.haryana.tools/product/PVT",
+  "Model": "",
+  "Country": "India",
+  "ASIN": "",
+  "SearchKeywords": "pvt ltd registration, CA services, chartered accountant, online pvt ltd registration, tax consultant, accounting services",
+  "VideoURL": ""
+}

@@ -61,7 +61,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleTitle = post.title || post.Title || 'Untitled Post';
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
-            const singleImage = post.FeaturedImage || post.featuredImage || post.image || post.Image || 'default.jpg';
+            const singleImage = post.FeaturedImage || post.featuredImage || post.image || post.Image || '404.webp';
             
             let rawDate = post.date || post.Date || '';
             let displayDate = rawDate ? rawDate : 'Recent Guide';
@@ -184,7 +184,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 grid.innerHTML = pagePosts.map(blog => {
                     const rawDate = blog.date || blog.Date || '';
                     const displayDate = rawDate ? rawDate : 'Recent Guide';
-                    const blogImage = blog.FeaturedImage || blog.featuredImage || blog.image || blog.Image || 'default.jpg';
+                    const blogImage = blog.FeaturedImage || blog.featuredImage || blog.image || blog.Image || '404.webp';
                     const blogTitle = blog.title || blog.Title || 'Untitled Post';
                     const blogSlug = blog.slug || blog.Slug || '#';
                     const blogExcerpt = blog.excerpt || blog.MetaDescription || blog.metaDescription || '';

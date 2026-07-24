@@ -129,13 +129,13 @@ const Category = {
         container.innerHTML = pageProducts.map(p => {
             const productSku = p.sku || p.SKU || p.Id || p.id || '';
             const productName = p.name || p.Title || p.title || 'Product Name';
-            const productImg = p.image || p.Image || 'default.jpg';
+            const productImg = p.image || p.Image || '404.webp';
             const productPrice = p.price || p.Price || p.SalePrice || 0;
 
             return `
                 <div class="product-card" data-sku="${productSku}">
                     <div class="product-img-container product-clickable" data-sku="${productSku}" style="cursor: pointer;">
-                        <img src="${productImg}" alt="${productName}" onerror="this.src='default.jpg'">
+                        <img src="${productImg}" alt="${productName}" onerror="this.src='404.webp'">
                     </div>
                     <div class="product-info">
                         <h5 class="card-title product-clickable" data-sku="${productSku}" style="cursor: pointer;">${productName}</h5>
@@ -185,7 +185,7 @@ const Category = {
                     slug: productData.slug || productData.Slug || '',
                     name: productData.name || productData.Title || productData.title || productData.Name || 'Product',
                     price: parseFloat(productData.price || productData.Price || productData.SalePrice || 0),
-                    image: productData.image || productData.Image || 'default.jpg',
+                    image: productData.image || productData.Image || '404.webp',
                     quantity: 1,
                     unit: productData.unit || 'PC'
                 };

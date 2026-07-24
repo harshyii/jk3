@@ -57,7 +57,7 @@ const CartPage = {
             <div class="card mb-3 shadow-sm border-0 p-3" style="width: 100% !important; max-width: 100% !important;">
                 <div class="row align-items-center g-3">
                     <div class="col-4 col-md-2 text-center">
-                        <img src="${item.image || item.Image || 'default.jpg'}" alt="${item.name || item.Name}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='default.jpg'">
+                        <img src="${item.image || item.Image || '404.webp'}" alt="${item.name || item.Name}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='404.webp'">
                     </div>
                     <div class="col-8 col-md-4">
                         <h5 class="h6 fw-bold mb-1">${item.name || item.Name}</h5>
@@ -187,7 +187,7 @@ const CartPage = {
             recommendationContainer.innerHTML = recommendations.map(p => `
                 <div class="col">
                     <div class="card h-100 shadow-sm border-0 d-flex flex-column">
-                        <img src="${p.image || p.Image || 'default.jpg'}" class="card-img-top p-3" alt="${p.name || p.Name}" style="height: 160px; object-fit: contain;" onerror="this.src='default.jpg'">
+                        <img src="${p.image || p.Image || '404.webp'}" class="card-img-top p-3" alt="${p.name || p.Name}" style="height: 160px; object-fit: contain;" onerror="this.src='404.webp'">
                         <div class="card-body d-flex flex-column">
                             <h6 class="card-title text-truncate fw-bold">${p.name || p.Name}</h6>
                             <p class="text-primary fw-semibold mb-3">${Utils.formatCurrency ? Utils.formatCurrency(p.price || p.SalePrice || 0) : '₹' + (p.price || 0)}</p>
@@ -198,7 +198,7 @@ const CartPage = {
                                         data-slug="${p.slug || p.Slug}" 
                                         data-name="${p.name || p.Name}" 
                                         data-price="${p.price || p.SalePrice || 0}" 
-                                        data-image="${p.image || p.Image || 'default.jpg'}">
+                                        data-image="${p.image || p.Image || '404.webp'}">
                                     Add
                                 </button>
                             </div>

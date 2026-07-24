@@ -58,7 +58,7 @@ function renderFeaturedProducts(products) {
     container.innerHTML = featured.map(product => {
         const productSku = product.sku || product.SKU || '';
         const productName = product.name || product.Name || '';
-        const productImg = product.image || product.Image || 'default.jpg';
+        const productImg = product.image || product.Image || '404.webp';
         const productPrice = product.price || product.SalePrice || product.MRP || 0;
         const productUnit = product.unit || product.Unit || 'PC';
         const productBrand = product.brand || product.Brand || 'General';
@@ -190,7 +190,7 @@ function renderBlogs(blogs) {
             <div class="col-md-4 mb-4">
                 <div class="card h-100 shadow-sm border-0">
                     <div style="height: 160px; background-color: #f8f9fa; overflow: hidden;">
-                        <img src="${blog.image || blog.FeaturedImage || 'default.jpg'}" alt="${escapeHtml(blog.title || blog.Title)}" class="w-100 h-100 object-fit-cover">
+                        <img src="${blog.image || blog.FeaturedImage || '404.webp'}" alt="${escapeHtml(blog.title || blog.Title)}" class="w-100 h-100 object-fit-cover">
                     </div>
                     <div class="card-body d-flex flex-column p-3">
                         <small class="text-muted mb-1">${escapeHtml(displayDate)} &bull; ${escapeHtml(blog.category || blog.Category || 'General')}</small>
@@ -245,7 +245,7 @@ function initializeSearch(products) {
         searchResults.innerHTML = matches.map(p => {
             const productSku = p.sku || p.SKU || '';
             const productName = p.name || p.Name || '';
-            const productImg = p.image || p.Image || 'default.jpg';
+            const productImg = p.image || p.Image || '404.webp';
             const productPrice = p.price || p.SalePrice || p.MRP || 0;
 
             return `

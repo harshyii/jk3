@@ -148,13 +148,13 @@ function renderImageGallery(images, productName) {
     const thumbnailContainer = document.getElementById('product-thumbnails');
 
     const validImages = (images || []).filter(img => img && typeof img === 'string');
-    const primaryImg = validImages.length > 0 ? validImages[0] : 'default.jpg';
+    const primaryImg = validImages.length > 0 ? validImages[0] : '404.webp';
 
     if (mainImageEl) {
         mainImageEl.src = primaryImg;
         mainImageEl.alt = productName;
         mainImageEl.onerror = function() {
-            this.src = 'default.jpg';
+            this.src = '404.webp';
         };
     }
 
@@ -162,7 +162,7 @@ function renderImageGallery(images, productName) {
         if (validImages.length > 1) {
             thumbnailContainer.innerHTML = validImages.map((img, idx) => `
                 <div class="p-1 border rounded cursor-pointer thumb-item ${idx === 0 ? 'border-primary' : ''}" style="width: 70px; height: 70px;" onclick="changeMainImage('${img}', this)">
-                    <img src="${img}" alt="" class="w-100 h-100 object-fit-contain" onerror="this.src='default.jpg'">
+                    <img src="${img}" alt="" class="w-100 h-100 object-fit-contain" onerror="this.src='404.webp'">
                 </div>
             `).join('');
             thumbnailContainer.style.display = 'flex';
@@ -228,7 +228,7 @@ function renderRelatedProducts(currentProduct, catalog) {
     container.innerHTML = related.map(product => {
         const productSku = product.sku || product.SKU || '';
         const productName = product.name || product.Name || '';
-        const productImg = product.image || product.Image || 'default.jpg';
+        const productImg = product.image || product.Image || '404.webp';
         const productPrice = product.price || product.SalePrice || product.MRP || 0;
         const productBrand = product.brand || product.Brand || 'General';
 
@@ -237,7 +237,7 @@ function renderRelatedProducts(currentProduct, catalog) {
                 <div class="card h-100 product-card shadow-sm border-0">
                     <a href="product.html?sku=${productSku}" class="text-decoration-none">
                         <div class="product-img-wrapper position-relative overflow-hidden" style="height: 160px; background-color: #f8f9fa;">
-                             <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='default.jpg'">
+                             <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='404.webp'">
                              </div>
                     </a>
                     <div class="card-body d-flex flex-column p-3">
@@ -348,7 +348,7 @@ function renderCartItems() {
         <div class="card mb-3 p-3 shadow-sm border-0">
             <div class="row align-items-center">
                 <div class="col-md-2">
-                    <img src="${item.image || 'default.jpg'}" alt="${escapeHtml(item.name)}" class="img-fluid rounded object-fit-contain" style="height: 70px;" onerror="this.src='default.jpg'">
+                    <img src="${item.image || '404.webp'}" alt="${escapeHtml(item.name)}" class="img-fluid rounded object-fit-contain" style="height: 70px;" onerror="this.src='404.webp'">
                 </div>
                 <div class="col-md-4">
                     <h5 class="fs-6 mb-1">${escapeHtml(item.name)}</h5>

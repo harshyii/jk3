@@ -4,20 +4,49 @@
 
 import { API } from './api.js';
 
-// Helper function to robustly resolve image URLs (handles absolute HTTP links, relative paths, etc.)
+// Robustly resolve image URLs (handles absolute HTTP links, relative paths, etc.)
 function resolveImageUrl(img) {
     if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') {
         const trimmed = img.trim();
-        if (trimmed.startsWith('http://') || trimmed.startsWith('https://') || trimmed.startsWith('//')) {
-            return trimmed;
-        }
-        if (trimmed.startsWith('/')) {
+        if (trimmed.startsWith('http://') || trimmed.startsWith('https://') || trimmed.startsWith('//') || trimmed.startsWith('/')) {
             return trimmed;
         }
         return '/' + trimmed;
     }
     return img.url || img.src || img.path || 'https://picsum.photos/400/200';
+}
+
+// Safely format date string to avoid timezone shifts or 1970 Epoch fallbacks
+function formatPostDate(rawDate) {
+    if (!rawDate) return 'Recent Guide';
+    
+    // If it's a numeric timestamp or string of digits
+    if (typeof rawDate === 'number' || /^\d+$/.test(String(rawDate).trim())) {
+        const numVal = Number(rawDate);
+        const parsedDate = new Date(numVal > 10000000000 ? numVal : numVal * 1000);
+        return !isNaN(parsedDate.getTime()) 
+            ? parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) 
+            : String(rawDate);
+    }
+
+    // Clean up string dates (e.g. "2026-06-14")
+    const dateStr = String(rawDate).trim();
+    // Match standard YYYY-MM-DD pattern to parse safely in local time components
+    const match = dateStr.match(/^(\d{4})-(\d{2})-(\d{2})$/);
+    if (match) {
+        const [, year, month, day] = match;
+        const parsedDate = new Date(parseInt(year), parseInt(month) - 1, parseInt(day));
+        if (!isNaN(parsedDate.getTime())) {
+            return parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+        }
+    }
+
+    // Generic fallback parse
+    const fallbackDate = new Date(dateStr);
+    return !isNaN(fallbackDate.getTime()) 
+        ? fallbackDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' }) 
+        : dateStr;
 }
 
 document.addEventListener('DOMContentLoaded', async () => {
@@ -169,28 +198,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     const postExcerpt = post.MetaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
                     const postCategory = post.Category || post.category || 'General';
                     
-                    const rawDate = post.Date || post.date;
-                    let postDate = 'Recent Guide';
-                    if (rawDate) {
-                        if (typeof rawDate === 'number' || /^\d+$/.test(rawDate)) {
-                            const numVal = Number(rawDate);
-                            const parsedDate = new Date(numVal > 10000000000 ? numVal : numVal * 1000);
-                            if (!isNaN(parsedDate.getTime())) {
-                                postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-                            } else {
-                                postDate = rawDate;
-                            }
-                        } else {
-                            // Fix for server/production environments where Safari/some engines fail to parse "YYYY-MM-DD" directly via new Date() without time
-                            const normalizedDateStr = String(rawDate).includes('T') ? rawDate : `${rawDate}T00:00:00`;
-                            const parsedDate = new Date(normalizedDateStr);
-                            if (!isNaN(parsedDate.getTime())) {
-                                postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
-                            } else {
-                                postDate = rawDate;
-                            }
-                        }
-                    }
+                    const postDate = formatPostDate(post.Date || post.date);
 
                     return `
                         <div class="col">

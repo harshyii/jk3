@@ -24,7 +24,7 @@ const Category = {
         try {
             const catalog = await API.getCatalog();
             
-            // Store all products
+            // Store all products safely
             this.allProducts = catalog || [];
 
             // If a category slug is specified in URL, pre-filter by it
@@ -76,7 +76,6 @@ const Category = {
         
         if (text.includes(query)) return true;
 
-        // Typo / incomplete word tolerance (e.g., "dril" matching "drill")
         let qIndex = 0;
         for (let i = 0; i < text.length; i++) {
             if (text[i] === query[qIndex]) {
@@ -93,13 +92,11 @@ const Category = {
         const titleEl = document.getElementById('category-title');
 
         if (searchTerm === '') {
-            // No search yet: show random selection of items as recommendations
             this.filteredProducts = this.getRandomItems(this.allProducts, Math.min(this.pageSize, this.allProducts.length));
             if (titleEl && !Utils.getQueryParams().get('slug')) {
                 titleEl.textContent = 'Featured Recommendations';
             }
         } else {
-            // Search query entered: apply fuzzy match across name, title, and SKU
             this.filteredProducts = this.allProducts.filter(p => {
                 const name = p.name || p.Title || p.title || '';
                 const sku = p.sku || p.SKU || p.Id || p.id || '';
@@ -129,20 +126,20 @@ const Category = {
         container.innerHTML = pageProducts.map(p => {
             const productSku = p.sku || p.SKU || p.Id || p.id || '';
             const productName = p.name || p.Title || p.title || 'Product Name';
-            const productImg = p.image || p.Image || '404.webp';
+            const productImg = p.image || p.Image || 'src/images/placeholder.jpg';
             const productPrice = p.price || p.Price || p.SalePrice || 0;
 
             return `
                 <div class="product-card" data-sku="${productSku}">
                     <div class="product-img-container product-clickable" data-sku="${productSku}" style="cursor: pointer;">
-                        <img src="${productImg}" alt="${productName}" onerror="this.src='404.webp'">
+                        <img src="${productImg}" alt="${productName}" onerror="this.src='src/images/placeholder.jpg'">
                     </div>
                     <div class="product-info">
                         <h5 class="card-title product-clickable" data-sku="${productSku}" style="cursor: pointer;">${productName}</h5>
                         <div class="product-meta">
                             <span class="product-price">${Utils.formatCurrency ? Utils.formatCurrency(productPrice) : '₹' + productPrice}</span>
                         </div>
-                        <button class="btn btn-sm btn-primary add-to-cart-btn mt-2" data-sku="${productSku}">
+                        <button type="button" class="btn btn-sm btn-primary add-to-cart-btn mt-2" data-sku="${productSku}">
                             <i class="fas fa-cart-plus"></i> Add to Cart
                         </button>
                     </div>
@@ -157,7 +154,7 @@ const Category = {
         const container = document.getElementById('product-grid');
         if (!container) return;
 
-        // Handle clicks on product image or title to navigate safely
+        // Handle navigation clicks safely
         container.querySelectorAll('.product-clickable').forEach(el => {
             el.addEventListener('click', (e) => {
                 const sku = e.currentTarget.getAttribute('data-sku');
@@ -170,11 +167,10 @@ const Category = {
         // Handle Add to Cart shortcut clicks
         container.querySelectorAll('.add-to-cart-btn').forEach(btn => {
             btn.addEventListener('click', (e) => {
-                e.stopPropagation(); // Prevent triggering card navigation
+                e.stopPropagation(); 
                 const sku = e.currentTarget.getAttribute('data-sku');
                 
-                // Find matching product from loaded catalog
-                const productData = this.allProducts.find(p => (p.sku || p.SKU || p.Id || p.id) === sku);
+                const productData = this.allProducts.find(p => String(p.sku || p.SKU || p.Id || p.id) === String(sku));
                 if (!productData) {
                     console.error('Product data not found for SKU:', sku);
                     return;
@@ -185,28 +181,34 @@ const Category = {
                     slug: productData.slug || productData.Slug || '',
                     name: productData.name || productData.Title || productData.title || productData.Name || 'Product',
                     price: parseFloat(productData.price || productData.Price || productData.SalePrice || 0),
-                    image: productData.image || productData.Image || '404.webp',
+                    image: productData.image || productData.Image || 'src/images/placeholder.jpg',
                     quantity: 1,
                     unit: productData.unit || 'PC'
                 };
 
-                // Retrieve and modify cart matching cart.js logic
-                let cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
-                const existingIndex = cart.findIndex(item => (item.sku === cartItem.sku) || (item.slug === cartItem.slug));
+                let cart = [];
+                try {
+                    cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
+                } catch (err) {
+                    cart = [];
+                }
+
+                const existingIndex = cart.findIndex(item => String(item.sku) === String(cartItem.sku) || (item.slug && item.slug === cartItem.slug));
 
                 if (existingIndex > -1) {
-                    cart[existingIndex].quantity = (cart[existingIndex].quantity || cart[existingIndex].qty || 1) + 1;
-                    if (cart[existingIndex].qty) cart[existingIndex].qty = cart[existingIndex].quantity;
+                    const currentQty = Number(cart[existingIndex].quantity || cart[existingIndex].qty || 1);
+                    cart[existingIndex].quantity = currentQty + 1;
+                    if (cart[existingIndex].qty !== undefined) {
+                        cart[existingIndex].qty = cart[existingIndex].quantity;
+                    }
                 } else {
                     cart.push(cartItem);
                 }
 
                 localStorage.setItem('ht_cart', JSON.stringify(cart));
-                
-                // Broadcast sync event so header badges update immediately
                 window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
 
-                // Update cart badge visually if present
+                // Update badge if present
                 const badge = document.getElementById('cart-counter');
                 if (badge) {
                     const totalItems = cart.reduce((sum, item) => sum + (Number(item.quantity || item.qty) || 1), 0);
@@ -214,10 +216,12 @@ const Category = {
                     badge.style.display = totalItems > 0 ? 'inline-block' : 'none';
                 }
 
+                // Safe notification handler (won't crash if UI.showToast is missing on server)
                 if (UI && typeof UI.showToast === 'function') {
                     UI.showToast('Product added to cart successfully!', 'success');
                 } else {
-                    alert('Product added to cart!');
+                    // Fallback visual indicator element if toast fails
+                    console.log('Product added to cart successfully!');
                 }
             });
         });

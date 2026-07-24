@@ -21,7 +21,7 @@ export const SearchModule = {
             const [productsData, blogsData] = await Promise.all([
                 API.getProducts ? API.getProducts() : fetch('/dist/data/catalog.json').then(res => res.json()).catch(() => []),
                 API.getBlogs ? API.getBlogs() : fetch('/dist/data/blogs.json').then(res => res.json()).catch(() => [])
-        ]);
+            ]);
 
             this.products = Array.isArray(productsData) ? productsData : (productsData.products || []);
             this.blogs = Array.isArray(blogsData) ? blogsData : (blogsData.blogs || []);
@@ -158,8 +158,10 @@ export const SearchModule = {
             html += `<div class="dropdown-divider"></div>`;
             html += `<h6 class="dropdown-header text-uppercase text-muted fs-7">Guides & Blogs</h6>`;
             matchedBlogs.forEach(b => {
+                const blogImg = b.image || b.Image || b.thumbnail || b.Thumbnail || 'https://via.placeholder.com/40';
                 html += `
-                    <a class="dropdown-item py-2 text-truncate" href="blog.html?slug=${b.slug || b.Slug}">
+                    <a class="dropdown-item d-flex align-items-center gap-2 py-2" href="blog.html?slug=${b.slug || b.Slug}">
+                        <img src="${blogImg}" style="width: 30px; height: 30px; object-fit: cover;" alt="">
                         <div class="fw-medium text-dark text-truncate fs-7">${b.title || b.Title}</div>
                     </a>
                 `;
@@ -236,15 +238,21 @@ export const SearchModule = {
 
         if (filteredBlogs.length > 0) {
             outputHtml += `<div class="col-12 mt-4 mb-3"><h3 class="h5 border-bottom pb-2">Industry Guides & Blogs (${filteredBlogs.length})</h3></div>`;
-            outputHtml += filteredBlogs.map(b => `
-                <div class="card h-100 shadow-sm border-0" style="width: 100%;">
-                    <div class="card-body d-flex flex-column">
-                        <h5 class="card-title text-dark fs-6">${b.title || b.Title}</h5>
-                        <p class="card-text text-muted small flex-grow-1">${b.summary || b.Summary || ''}</p>
-                        <a href="blog.html?slug=${b.slug || b.Slug}" class="btn btn-sm btn-dark w-100 mt-auto">Read Guide</a>
+            outputHtml += filteredBlogs.map(b => {
+                const blogImg = b.image || b.Image || b.thumbnail || b.Thumbnail || 'https://via.placeholder.com/300';
+                return `
+                    <div class="card h-100 shadow-sm border-0" style="width: 100%;">
+                        <div class="card-img-top-wrapper bg-light" style="height: 160px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
+                            <img src="${blogImg}" class="w-100 h-100" alt="${b.title || b.Title}" style="object-fit: cover;" onerror="this.src='https://via.placeholder.com/300'">
+                        </div>
+                        <div class="card-body d-flex flex-column">
+                            <h5 class="card-title text-dark fs-6">${b.title || b.Title}</h5>
+                            <p class="card-text text-muted small flex-grow-1">${b.summary || b.Summary || ''}</p>
+                            <a href="blog.html?slug=${b.slug || b.Slug}" class="btn btn-sm btn-dark w-100 mt-auto">Read Guide</a>
+                        </div>
                     </div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
         }
 
         resultsContainer.innerHTML = outputHtml;

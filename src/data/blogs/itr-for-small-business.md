@@ -1,0 +1,1306 @@
+<div class="blog-content">
+
+<img src="https://images.unsplash.com/photo-1521791136064-7986c2920216?q=80&w=1400&auto=format&fit=crop"
+class="img-fluid rounded shadow-sm mb-3"
+alt="Small Business Income Tax Return Filing Guide">
+
+<span class="badge bg-success mb-2">Business Tax Guide</span>
+
+<h1>ITR Filing Guide for Small Businesses and MSMEs in India (AY 2026-27)</h1>
+
+<p>Running a small business involves much more than selling products or providing services. Every proprietor, trader, retailer, manufacturer, distributor, freelancer and MSME owner must also comply with Income Tax laws. Filing your Income Tax Return (ITR) on time helps avoid penalties, improves financial credibility and keeps your business compliant with government regulations.</p>
+
+<p>Whether you operate a hardware shop, power tools dealership, solar business, automobile workshop, trading company, retail outlet or service-based enterprise, understanding the ITR filing process is essential. This guide explains everything small business owners should know before filing Income Tax Returns for Assessment Year (AY) 2026-27.</p>
+
+<div class="alert alert-primary">
+
+<strong>Need Help Filing Your Business ITR?</strong>
+
+<p class="mb-0 mt-2">
+Haryana.Tools provides online assistance for preparing and filing Income Tax Returns for proprietorships, traders, retailers, MSMEs, professionals and businesses across India. We also help review documents, verify AIS/Form 26AS, identify common filing mistakes and assist throughout the filing process.
+</p>
+
+</div>
+
+<hr>
+
+<h2>Who Should Read This Guide?</h2>
+
+<div class="row g-3">
+
+<div class="col-md-6">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Business Owners</h5>
+
+<ul class="mb-0">
+
+<li>Retail Shops</li>
+
+<li>Wholesale Traders</li>
+
+<li>Hardware Dealers</li>
+
+<li>Power Tool Suppliers</li>
+
+<li>Solar Equipment Dealers</li>
+
+<li>Medical Shops</li>
+
+<li>Manufacturers</li>
+
+<li>Distributors</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-6">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Professionals & Service Providers</h5>
+
+<ul class="mb-0">
+
+<li>Freelancers</li>
+
+<li>Consultants</li>
+
+<li>Engineers</li>
+
+<li>Architects</li>
+
+<li>Designers</li>
+
+<li>Repair Workshops</li>
+
+<li>Contractors</li>
+
+<li>Commission Agents</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<h2>Why Filing ITR is Important for Small Businesses</h2>
+
+<p>Many small business owners believe that filing Income Tax Returns is necessary only when taxes are payable. In reality, filing your return has several long-term financial and legal benefits even if your business has earned a low profit or suffered a loss.</p>
+
+<div class="table-responsive">
+
+<table class="table table-bordered">
+
+<thead class="table-dark">
+
+<tr>
+
+<th>Benefit</th>
+
+<th>Why It Matters</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Legal Compliance</td>
+
+<td>Complies with Income Tax Act requirements.</td>
+
+</tr>
+
+<tr>
+
+<td>Business Loans</td>
+
+<td>Banks usually ask for 2–3 years of ITRs.</td>
+
+</tr>
+
+<tr>
+
+<td>Credit Score</td>
+
+<td>Improves financial credibility.</td>
+
+</tr>
+
+<tr>
+
+<td>Government Tenders</td>
+
+<td>Many tenders require previous ITR acknowledgements.</td>
+
+</tr>
+
+<tr>
+
+<td>Visa Applications</td>
+
+<td>Embassies often request Income Tax Returns.</td>
+
+</tr>
+
+<tr>
+
+<td>Carry Forward Losses</td>
+
+<td>Eligible business losses can often be carried forward if returns are filed within applicable timelines.</td>
+
+</tr>
+
+<tr>
+
+<td>Business Growth</td>
+
+<td>Financial records become more organized.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>Who Needs to File Business Income Tax Returns?</h2>
+
+<p>Different businesses fall under different tax categories depending on their constitution and annual turnover.</p>
+
+<div class="alert alert-warning">
+
+<strong>Common Business Categories</strong>
+
+<ul class="mt-2 mb-0">
+
+<li>Proprietorship Businesses</li>
+
+<li>Partnership Firms</li>
+
+<li>Limited Liability Partnerships (LLPs)</li>
+
+<li>Private Limited Companies</li>
+
+<li>One Person Companies (OPCs)</li>
+
+<li>Professionals</li>
+
+<li>Commission Agents</li>
+
+<li>Manufacturers</li>
+
+<li>Retail Traders</li>
+
+<li>Wholesalers</li>
+
+</ul>
+
+</div>
+
+<p>The applicable ITR form depends on the nature of your business, turnover, books of accounts, presumptive taxation eligibility and other factors.</p>
+
+<hr>
+
+<h2>Business Documents Required Before Filing ITR</h2>
+
+<p>Keeping all business records ready before filing significantly reduces errors and speeds up the filing process.</p>
+
+<div class="row g-3">
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Business Records</h5>
+
+<ul class="mb-0">
+
+<li>Sales Register</li>
+
+<li>Purchase Register</li>
+
+<li>Expense Ledger</li>
+
+<li>Stock Records</li>
+
+<li>GST Reports</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Banking Documents</h5>
+
+<ul class="mb-0">
+
+<li>Bank Statements</li>
+
+<li>Loan Statements</li>
+
+<li>Interest Certificates</li>
+
+<li>Cash Book</li>
+
+<li>Payment Records</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Tax Documents</h5>
+
+<ul class="mb-0">
+
+<li>PAN</li>
+
+<li>Aadhaar</li>
+
+<li>GST Returns</li>
+
+<li>AIS</li>
+
+<li>Form 26AS</li>
+
+<li>TIS</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<h2>Understanding Business Income</h2>
+
+<p>Business income includes profits earned from trading, manufacturing, professional services, commission, consultancy, retail activities and similar commercial operations.</p>
+
+<div class="table-responsive">
+
+<table class="table table-striped">
+
+<thead>
+
+<tr>
+
+<th>Income Type</th>
+
+<th>Example</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Trading Income</td>
+
+<td>Buying and selling products</td>
+
+</tr>
+
+<tr>
+
+<td>Professional Income</td>
+
+<td>Architects, Doctors, Consultants</td>
+
+</tr>
+
+<tr>
+
+<td>Manufacturing Income</td>
+
+<td>Production and sale of goods</td>
+
+</tr>
+
+<tr>
+
+<td>Commission Income</td>
+
+<td>Brokerage or agency commission</td>
+
+</tr>
+
+<tr>
+
+<td>Service Income</td>
+
+<td>Repair, installation and maintenance services</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>Common Business Expenses That May Be Deductible</h2>
+
+<p>Eligible business expenses generally reduce taxable profit when they are incurred wholly and exclusively for business purposes and are properly documented.</p>
+
+<div class="table-responsive">
+
+<table class="table table-bordered">
+
+<thead class="table-light">
+
+<tr>
+
+<th>Expense</th>
+
+<th>Typical Example</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Shop Rent</td>
+
+<td>Monthly office or showroom rent</td>
+
+</tr>
+
+<tr>
+
+<td>Employee Salary</td>
+
+<td>Staff wages and incentives</td>
+
+</tr>
+
+<tr>
+
+<td>Electricity</td>
+
+<td>Office and workshop electricity bills</td>
+
+</tr>
+
+<tr>
+
+<td>Internet</td>
+
+<td>Broadband and business mobile expenses</td>
+
+</tr>
+
+<tr>
+
+<td>Vehicle Expenses</td>
+
+<td>Fuel and maintenance for business use</td>
+
+</tr>
+
+<tr>
+
+<td>Interest</td>
+
+<td>Business loan or working capital interest</td>
+
+</tr>
+
+<tr>
+
+<td>Repairs</td>
+
+<td>Office and equipment repairs</td>
+
+</tr>
+
+<tr>
+
+<td>Office Expenses</td>
+
+<td>Printing, stationery and consumables</td>
+
+</tr>
+
+<tr>
+
+<td>Marketing</td>
+
+<td>Advertising and promotions</td>
+
+</tr>
+
+<tr>
+
+<td>Software</td>
+
+<td>Accounting or business software subscriptions</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="alert alert-info">
+
+Always maintain proper invoices, payment proofs and accounting records to support business expenses. Tax treatment depends on applicable law and individual circumstances.
+
+</div>
+
+<hr>
+
+<h2>Business Losses Are Not Always Bad</h2>
+
+<p>Many new businesses and expanding MSMEs experience losses during their initial years due to investments in inventory, rent, salaries, machinery or marketing. Filing an Income Tax Return remains important because, subject to the Income Tax Act, eligible losses may be carried forward to future years if applicable conditions are satisfied.</p>
+
+<div class="row g-3">
+
+<div class="col-md-6">
+
+<div class="card">
+
+<div class="card-body">
+
+<h5>Possible Reasons for Losses</h5>
+
+<ul class="mb-0">
+
+<li>Business Expansion</li>
+
+<li>Inventory Investment</li>
+
+<li>New Machinery</li>
+
+<li>Market Competition</li>
+
+<li>Higher Operating Costs</li>
+
+<li>Loan Interest</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-6">
+
+<div class="card">
+
+<div class="card-body">
+
+<h5>Benefits of Filing Even with Losses</h5>
+
+<ul class="mb-0">
+
+<li>Better financial records</li>
+
+<li>Supports future funding applications</li>
+
+<li>Helps maintain tax compliance</li>
+
+<li>May preserve eligible loss carry-forward benefits</li>
+
+<li>Builds business credibility</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<h2>Common Mistakes Made by Small Business Owners</h2>
+
+<div class="list-group">
+
+<div class="list-group-item">❌ Not reconciling sales with GST returns.</div>
+
+<div class="list-group-item">❌ Ignoring AIS and Form 26AS before filing.</div>
+
+<div class="list-group-item">❌ Mixing personal and business expenses.</div>
+
+<div class="list-group-item">❌ Missing invoices for important purchases.</div>
+
+<div class="list-group-item">❌ Not maintaining stock records.</div>
+
+<div class="list-group-item">❌ Filing at the last minute.</div>
+
+<div class="list-group-item">❌ Forgetting bank interest or other taxable income.</div>
+
+<div class="list-group-item">❌ Choosing an incorrect ITR form.</div>
+
+</div>
+
+<p class="mt-3">
+Many of these mistakes can result in notices, refund delays or additional clarification requests. Reviewing records before filing can help reduce these issues.
+</p>
+
+<hr>
+
+<h2>Related Guides</h2>
+
+<ul>
+
+<li><a href="blog.html?id=how-to-file-itr-online">Step-by-Step Guide to File Income Tax Return Online</a></li>
+
+<li><a href="blog.html?id=ais-form26as-tis-check">How to Check AIS, Form 26AS & TIS Before Filing ITR</a></li>
+
+<li><a href="blog.html?id=common-itr-filing-mistakes">15 Common ITR Filing Mistakes That Delay Your Refund</a></li>
+
+<li><a href="blog.html?id=late-filing-penalty-itr">Late Filing Penalty for Income Tax Return Explained</a></li>
+
+</ul>
+
+<hr>
+
+<p><strong>Part 2 continues with:</strong></p>
+
+<ul>
+
+<li>Choosing the correct ITR form</li>
+
+<li>Presumptive taxation (Sections 44AD, 44ADA and related provisions)</li>
+
+<li>Business audit basics</li>
+
+<li>GST reconciliation tips</li>
+
+<li>Balance Sheet & Profit & Loss preparation</li>
+
+<li>Depreciation overview</li>
+
+<li>Business ITR filing checklist</li>
+
+<li>Frequently Asked Questions</li>
+
+<li>Why choose Haryana.Tools for ITR filing assistance</li>
+
+</ul>
+
+</div>
+<hr>
+
+<h2>Choosing the Correct ITR Form for Your Business</h2>
+
+<p>Selecting the correct Income Tax Return (ITR) form is one of the most important steps in filing your return. Filing the wrong form may result in the return being treated as defective or requiring correction. The applicable form depends on factors such as the nature of your business, income sources and eligibility under the Income Tax Act.</p>
+
+<div class="table-responsive">
+
+<table class="table table-bordered">
+
+<thead class="table-dark">
+
+<tr>
+
+<th>ITR Form</th>
+
+<th>Generally Used By</th>
+
+<th>Remarks</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>ITR-3</td>
+
+<td>Individuals and HUFs having income from business or profession</td>
+
+<td>Suitable where regular books of accounts are maintained or presumptive scheme is not applicable.</td>
+
+</tr>
+
+<tr>
+
+<td>ITR-4 (Sugam)</td>
+
+<td>Eligible small businesses and professionals opting for the presumptive taxation scheme, subject to prescribed conditions</td>
+
+<td>Simplified return for eligible taxpayers.</td>
+
+</tr>
+
+<tr>
+
+<td>ITR-5</td>
+
+<td>Partnership Firms, LLPs and certain other entities</td>
+
+<td>Not applicable to companies.</td>
+
+</tr>
+
+<tr>
+
+<td>ITR-6</td>
+
+<td>Companies (other than those claiming exemption under specific provisions)</td>
+
+<td>Filed electronically.</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="alert alert-warning">
+
+The correct ITR form depends on your specific circumstances. If you are unsure, seek professional guidance before filing your return.
+
+</div>
+
+<hr>
+
+<h2>What is Presumptive Taxation?</h2>
+
+<p>Presumptive taxation is a simplified taxation scheme available to certain eligible businesses and professionals under the Income Tax Act. Instead of maintaining detailed books of accounts and calculating actual profits, eligible taxpayers may declare income at prescribed rates, subject to applicable conditions.</p>
+
+<div class="row g-3">
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Less Paperwork</h5>
+
+<p class="mb-0">
+
+Reduced bookkeeping requirements for eligible taxpayers.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Simplified Filing</h5>
+
+<p class="mb-0">
+
+Easier return preparation for qualifying businesses.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Time Saving</h5>
+
+<p class="mb-0">
+
+Suitable for many small businesses meeting prescribed conditions.
+
+</p>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<p class="mt-3">
+
+Eligibility, turnover limits and reporting requirements are prescribed under the Income Tax Act and may change over time. Always verify the latest rules before opting for any presumptive taxation scheme.
+
+</p>
+
+<hr>
+
+<h2>Reconciling GST with Income Tax Records</h2>
+
+<p>If your business is registered under GST, it is important that your turnover, purchases and other financial records are properly reconciled before filing your Income Tax Return.</p>
+
+<div class="table-responsive">
+
+<table class="table table-striped">
+
+<thead>
+
+<tr>
+
+<th>Document</th>
+
+<th>Should Match</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>GST Returns</td>
+
+<td>Business Sales</td>
+
+</tr>
+
+<tr>
+
+<td>Sales Register</td>
+
+<td>Invoices Issued</td>
+
+</tr>
+
+<tr>
+
+<td>Purchase Register</td>
+
+<td>Purchase Bills</td>
+
+</tr>
+
+<tr>
+
+<td>Bank Statement</td>
+
+<td>Business Receipts</td>
+
+</tr>
+
+<tr>
+
+<td>Books of Accounts</td>
+
+<td>Profit & Loss Statement</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<div class="alert alert-info">
+
+Differences between GST returns, books of accounts and Income Tax records may require explanation. Reconciling records before filing helps reduce the likelihood of errors.
+
+</div>
+
+<hr>
+
+<h2>Understanding Profit &amp; Loss Statement</h2>
+
+<p>The Profit &amp; Loss (P&amp;L) statement summarizes the income earned and expenses incurred during the financial year. It helps determine the business profit or loss before tax.</p>
+
+<div class="table-responsive">
+
+<table class="table table-bordered">
+
+<thead class="table-light">
+
+<tr>
+
+<th>Income</th>
+
+<th>Expenses</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Sales Revenue</td>
+
+<td>Purchases</td>
+
+</tr>
+
+<tr>
+
+<td>Service Income</td>
+
+<td>Salary & Wages</td>
+
+</tr>
+
+<tr>
+
+<td>Commission</td>
+
+<td>Rent</td>
+
+</tr>
+
+<tr>
+
+<td>Other Business Income</td>
+
+<td>Electricity</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>Interest</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>Repairs</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>Marketing</td>
+
+</tr>
+
+<tr>
+
+<td></td>
+
+<td>Miscellaneous Expenses</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<hr>
+
+<h2>What is a Balance Sheet?</h2>
+
+<p>A balance sheet shows the financial position of a business at the end of the financial year. It includes assets, liabilities and owner's capital.</p>
+
+<div class="row g-3">
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Assets</h5>
+
+<ul class="mb-0">
+
+<li>Cash</li>
+
+<li>Bank Balance</li>
+
+<li>Inventory</li>
+
+<li>Furniture</li>
+
+<li>Machinery</li>
+
+<li>Computers</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Liabilities</h5>
+
+<ul class="mb-0">
+
+<li>Business Loans</li>
+
+<li>Outstanding Expenses</li>
+
+<li>Creditors</li>
+
+<li>Taxes Payable</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+<div class="col-md-4">
+
+<div class="card h-100">
+
+<div class="card-body">
+
+<h5>Capital</h5>
+
+<ul class="mb-0">
+
+<li>Owner Investment</li>
+
+<li>Current Year Profit</li>
+
+<li>Drawings</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<h2>Depreciation on Business Assets</h2>
+
+<p>Businesses often purchase long-term assets such as computers, furniture, machinery and equipment. These assets generally provide benefits over multiple years, and tax laws contain provisions regarding depreciation and its treatment.</p>
+
+<div class="table-responsive">
+
+<table class="table table-bordered">
+
+<thead class="table-dark">
+
+<tr>
+
+<th>Asset</th>
+
+<th>Example</th>
+
+</tr>
+
+</thead>
+
+<tbody>
+
+<tr>
+
+<td>Furniture</td>
+
+<td>Office Tables & Chairs</td>
+
+</tr>
+
+<tr>
+
+<td>Computers</td>
+
+<td>Laptops & Desktop PCs</td>
+
+</tr>
+
+<tr>
+
+<td>Machinery</td>
+
+<td>Industrial Equipment</td>
+
+</tr>
+
+<tr>
+
+<td>Electrical Equipment</td>
+
+<td>UPS, Printers</td>
+
+</tr>
+
+<tr>
+
+<td>Vehicles</td>
+
+<td>Business Delivery Vehicle</td>
+
+</tr>
+
+</tbody>
+
+</table>
+
+</div>
+
+<p>
+
+The depreciation rate applicable to an asset depends on the relevant provisions of the Income Tax Act. Professional advice is recommended when preparing business accounts.
+
+</p>
+
+<hr>
+
+<h2>Business ITR Filing Checklist</h2>
+
+<div class="alert alert-success">
+
+<strong>Before submitting your return, verify that you have:</strong>
+
+<ul class="mt-3 mb-0">
+
+<li>✔ PAN and Aadhaar details</li>
+
+<li>✔ Correct ITR form selected</li>
+
+<li>✔ Bank account verified</li>
+
+<li>✔ Profit &amp; Loss statement prepared</li>
+
+<li>✔ Balance Sheet prepared (where applicable)</li>
+
+<li>✔ GST records reconciled</li>
+
+<li>✔ AIS reviewed</li>
+
+<li>✔ Form 26AS verified</li>
+
+<li>✔ TIS reviewed</li>
+
+<li>✔ Loan interest records checked</li>
+
+<li>✔ Business expenses supported by invoices</li>
+
+<li>✔ Stock records updated</li>
+
+<li>✔ Return verified after submission</li>
+
+</ul>
+
+</div>
+
+<hr>
+
+<h2>Frequently Asked Questions</h2>
+
+<div class="accordion" id="faq">
+
+<div class="accordion-item">
+
+<h2 class="accordion-header">
+
+<button class="accordion-button" data-bs-toggle="collapse" data-bs-target="#faq1">
+
+Can I file an ITR even if my business has incurred a loss?
+
+</button>
+
+</h2>
+
+<div id="faq1" class="accordion-collapse collapse show">
+
+<div class="accordion-body">
+
+Yes. Filing your return may help maintain compliance and, subject to the Income Tax Act, eligible business losses may be carried forward if applicable conditions are met.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<h2 class="accordion-header">
+
+<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#faq2">
+
+Do I need GST registration to file an Income Tax Return?
+
+</button>
+
+</h2>
+
+<div id="faq2" class="accordion-collapse collapse">
+
+<div class="accordion-body">
+
+No. GST registration and Income Tax Return filing are separate legal compliances. Whether GST registration is required depends on applicable GST laws.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<h2 class="accordion-header">
+
+<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#faq3">
+
+Can Haryana.Tools help me file my business ITR?
+
+</button>
+
+</h2>
+
+<div id="faq3" class="accordion-collapse collapse">
+
+<div class="accordion-body">
+
+Yes. Haryana.Tools provides online assistance for preparing and filing Income Tax Returns, reviewing financial documents, checking AIS, Form 26AS and TIS, identifying common filing issues and helping businesses complete the filing process. Where required, assistance can be coordinated with qualified tax professionals.
+
+</div>
+
+</div>
+
+</div>
+
+<div class="accordion-item">
+
+<h2 class="accordion-header">
+
+<button class="accordion-button collapsed" data-bs-toggle="collapse" data-bs-target="#faq4">
+
+When should I start preparing my business accounts?
+
+</button>
+
+</h2>
+
+<div id="faq4" class="accordion-collapse collapse">
+
+<div class="accordion-body">
+
+Ideally, maintain your books throughout the financial year and begin reviewing your records well before the filing due date. Early preparation provides time to identify discrepancies and gather missing documents.
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+<hr>
+
+<div class="bg-dark text-white rounded p-4 text-center">
+
+<h2 class="mb-3">Need Help Filing Your Business Income Tax Return?</h2>
+
+<p class="mb-3">
+
+Haryana.Tools provides online Income Tax Return filing assistance for proprietorships, traders, wholesalers, retailers, MSMEs, professionals, freelancers and growing businesses across India. We help organize financial records, review AIS, Form 26AS and TIS, identify common filing mistakes and assist you throughout the filing process for a smoother experience.
+
+</p>
+
+<p class="mb-4">
+
+Whether you run a hardware store, power tools dealership, solar business, manufacturing unit, repair workshop or service company, our team can help simplify the ITR filing process while ensuring your documentation is well prepared.
+
+</p>
+
+<a href="contact.html" class="btn btn-warning btn-lg">
+
+Get Business ITR Filing Assistance
+
+</a>
+
+</div>
+
+</div>

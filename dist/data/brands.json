@@ -1,16 +1,198 @@
 [
   {
-    "name": "Samsung",
-    "slug": "samsung",
+    "name": "Eastman",
+    "slug": "eastman",
+    "count": 1157,
+    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
+    "featured": false
+  },
+  {
+    "name": "JRS Drive",
+    "slug": "jrs-drive",
     "count": 0,
     "image": "",
     "featured": false
   },
   {
-    "name": "Eastman",
-    "slug": "eastman",
-    "count": 1157,
-    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
+    "name": "INGCO ",
+    "slug": "ingco",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Tata Solar",
+    "slug": "tata-solar",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Camron Pro",
+    "slug": "camron-pro",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "TORQUE MASTER",
+    "slug": "torque-master",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Taparia ",
+    "slug": "taparia",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "STANLEY ",
+    "slug": "stanley",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Carbiforce",
+    "slug": "carbiforce",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Delta UPS",
+    "slug": "delta-ups",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "powertuff ",
+    "slug": "powertuff",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "OMXE",
+    "slug": "omxe",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "MultiTec  ",
+    "slug": "multitec",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Metaldur  ",
+    "slug": "metaldur",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "MAC MASTER",
+    "slug": "mac-master",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "9JackTools",
+    "slug": "9jacktools",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "BOSCH ",
+    "slug": "bosch",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Xcel",
+    "slug": "xcel",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Xtra Power",
+    "slug": "xtra-power",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "KENBROOK ",
+    "slug": "kenbrook",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "KINEE SOLAR",
+    "slug": "kinee-solar",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Loom Solar",
+    "slug": "loom-solar",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Adani Solar",
+    "slug": "adani-solar",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Luminous",
+    "slug": "luminous",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "UTL",
+    "slug": "utl",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Fujiyama",
+    "slug": "fujiyama",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "ukava",
+    "slug": "ukava",
+    "count": 0,
+    "image": "",
+    "featured": false
+  },
+  {
+    "name": "Shakti",
+    "slug": "shakti",
+    "count": 0,
+    "image": "",
     "featured": false
   }
 ]

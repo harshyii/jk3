@@ -1,23 +1,177 @@
 [
   {
-    "name": "Electronics",
-    "slug": "electronics",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "power-tools",
+    "name": "Power Tools",
     "slug": "power-tools",
     "count": 178,
-    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
+    "image": "https://images.unsplash.com/photo-1645651964715-d200ce0939cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Hand Tools",
+    "slug": "hand-tools",
+    "count": 979,
+    "image": "https://images.unsplash.com/photo-1617048530929-0edab8608369?q=80&w=1173&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Solar Products",
+    "slug": "solar-products",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Industrial Tools",
+    "slug": "industrial-tools",
+    "count": 0,
+    "image": "https://plus.unsplash.com/premium_photo-1723478480754-436a04e21412?q=80&w=1059&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Welding Equipment",
+    "slug": "welding-equipment",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1508465818649-14a170138405?q=80&w=979&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Automotive Tools",
+    "slug": "automotive-tools",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1530046339160-ce3e530c7d2f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Car Care",
+    "slug": "car-care",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?q=80&w=1031&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Safety Equipment",
+    "slug": "safety-equipment",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1674558346964-e7196a409880?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Measuring Tools",
+    "slug": "measuring-tools",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1559647746-9b2f216d2dc3?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
-    "name": "hand-tools",
-    "slug": "hand-tools",
-    "count": 979,
-    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336",
+    "name": "Abrasives",
+    "slug": "abrasives",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1564182872950-978e194a05cd?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
+  },
+  {
+    "name": "Cutting Tools",
+    "slug": "cutting-tools",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1738162837672-de9d735a9b90?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Tool Accessories",
+    "slug": "tool-accessories",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1776947242128-cade9ec29ab0?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Fasteners",
+    "slug": "fasteners",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1763888450676-f0f7a3987917?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "Air Tools",
+    "slug": "air-tools",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1566527379347-e5e3c8d905e1?q=80&w=1182&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "Water Pumps",
+    "slug": "water-pumps",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1698031610511-c7a35d121b17?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Generators",
+    "slug": "generators",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1707498633827-936bb448b513?q=80&w=1150&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "UPS & Inverters",
+    "slug": "ups-inverters",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1650785652040-5a2fc88ce902?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Batteries",
+    "slug": "batteries",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1681263810102-ee12f623a5f3?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Electrical Supplies",
+    "slug": "electrical-supplies",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1553873002-785d775854c9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "Cleaning Equipment",
+    "slug": "cleaning-equipment",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "Garden Tools",
+    "slug": "garden-tools",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1621460248083-6271cc4437a8?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "Hardware",
+    "slug": "hardware",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "Ladders & Material Handling",
+    "slug": "ladders-material-handling",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1584986152939-01133e0d31a2?q=80&w=1074&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": false
+  },
+  {
+    "name": "Income Tax Services",
+    "slug": "income-tax-services",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
+  },
+  {
+    "name": "GST Services",
+    "slug": "gst-services",
+    "count": 0,
+    "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "featured": true
   }
 ]

@@ -1,6 +1,11 @@
 {
   "name": "Eastman",
   "slug": "eastman",
+  "logo": "",
+  "featured": false,
+  "description": "",
+  "seoTitle": "",
+  "metaDescription": "",
   "products": [
     {
       "sku": "ECD10NK",

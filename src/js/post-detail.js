@@ -39,12 +39,7 @@ const PostDetail = {
                 `;
             }
 
-            const imageContainer = document.getElementById('blog-image-container');
-            if (imageContainer && post.FeaturedImage) {
-                imageContainer.innerHTML = `
-                    <img src="${post.FeaturedImage}" alt="${post.Title}" class="img-fluid rounded w-100" style="max-height: 400px; object-fit: cover;">
-                `;
-            }
+           
 
             // 3. Inject content directly from the embedded script template element
             const contentEl = document.getElementById('blog-content');

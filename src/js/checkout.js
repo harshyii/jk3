@@ -234,13 +234,13 @@ const Checkout = {
         container.innerHTML = this.cart.map(item => {
             const itemPrice = parseFloat(item.price || item.SalePrice || item.MRP || 0);
             const itemQty = parseInt(item.quantity || item.qty || 1, 10);
-            const itemImage = item.image || item.Image || 'src/images/placeholder.jpg';
+            const itemImage = item.image || item.Image || 'default.jpg';
             const itemName = item.name || item.Name || 'Industrial Product';
 
             return `
                 <div class="d-flex align-items-center mb-2 pb-2 border-bottom position-relative">
                     <div class="flex-shrink-0 bg-light rounded-1 border p-1 me-2" style="width: 45px; height: 45px; display: flex; align-items: center; justify-content: center;">
-                        <img src="${itemImage}" alt="${itemName}" style="max-width: 100%; max-height: 100%; object-fit: contain;" onerror="this.src='src/images/placeholder.jpg'">
+                        <img src="${itemImage}" alt="${itemName}" style="max-width: 100%; max-height: 100%; object-fit: contain;" onerror="this.src='default.jpg'">
                     </div>
                     <div class="flex-grow-1 overflow-hidden pe-1">
                         <h6 class="mb-0 text-truncate fw-bold text-dark" title="${itemName}" style="font-size: 0.82rem;">${itemName}</h6>

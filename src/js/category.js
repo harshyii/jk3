@@ -1,6 +1,6 @@
 /**
  * Haryana Tools - Category Controller
- * Manages product grid, filtering, sorting, and pagination.
+ * Manages product grid, filtering, sorting, pagination, and cart shortcuts.
  */
 
 import { API } from './api.js';
@@ -102,7 +102,7 @@ const Category = {
             // Search query entered: apply fuzzy match across name, title, and SKU
             this.filteredProducts = this.allProducts.filter(p => {
                 const name = p.name || p.Title || p.title || '';
-                const sku = p.sku || p.SKU || '';
+                const sku = p.sku || p.SKU || p.Id || p.id || '';
                 return this.fuzzyMatch(searchTerm, name) || this.fuzzyMatch(searchTerm, sku);
             });
 
@@ -126,19 +126,101 @@ const Category = {
             return;
         }
 
-        container.innerHTML = pageProducts.map(p => `
-            <a href="product.html?sku=${p.sku || p.SKU || ''}" class="product-card">
-                <div class="product-img-container">
-                    <img src="${p.image || p.Image || 'src/images/placeholder.jpg'}" alt="${p.name || p.Title || p.title || 'Product'}" onerror="this.src='src/images/placeholder.jpg'">
-                </div>
-                <div class="product-info">
-                    <h5 class="card-title">${p.name || p.Title || p.title || 'Product Name'}</h5>
-                    <div class="product-meta">
-                        <span class="product-price">${Utils.formatCurrency ? Utils.formatCurrency(p.price || p.Price || 0) : '₹' + (p.price || p.Price || 0)}</span>
+        container.innerHTML = pageProducts.map(p => {
+            const productSku = p.sku || p.SKU || p.Id || p.id || '';
+            const productName = p.name || p.Title || p.title || 'Product Name';
+            const productImg = p.image || p.Image || 'default.jpg';
+            const productPrice = p.price || p.Price || p.SalePrice || 0;
+
+            return `
+                <div class="product-card" data-sku="${productSku}">
+                    <div class="product-img-container product-clickable" data-sku="${productSku}" style="cursor: pointer;">
+                        <img src="${productImg}" alt="${productName}" onerror="this.src='default.jpg'">
+                    </div>
+                    <div class="product-info">
+                        <h5 class="card-title product-clickable" data-sku="${productSku}" style="cursor: pointer;">${productName}</h5>
+                        <div class="product-meta">
+                            <span class="product-price">${Utils.formatCurrency ? Utils.formatCurrency(productPrice) : '₹' + productPrice}</span>
+                        </div>
+                        <button class="btn btn-sm btn-primary add-to-cart-btn mt-2" data-sku="${productSku}">
+                            <i class="fas fa-cart-plus"></i> Add to Cart
+                        </button>
                     </div>
                 </div>
-            </a>
-        `).join('');
+            `;
+        }).join('');
+
+        this.bindCardEvents();
+    },
+
+    bindCardEvents() {
+        const container = document.getElementById('product-grid');
+        if (!container) return;
+
+        // Handle clicks on product image or title to navigate safely
+        container.querySelectorAll('.product-clickable').forEach(el => {
+            el.addEventListener('click', (e) => {
+                const sku = e.currentTarget.getAttribute('data-sku');
+                if (sku) {
+                    window.location.href = `product.html?sku=${encodeURIComponent(sku)}`;
+                }
+            });
+        });
+
+        // Handle Add to Cart shortcut clicks
+        container.querySelectorAll('.add-to-cart-btn').forEach(btn => {
+            btn.addEventListener('click', (e) => {
+                e.stopPropagation(); // Prevent triggering card navigation
+                const sku = e.currentTarget.getAttribute('data-sku');
+                
+                // Find matching product from loaded catalog
+                const productData = this.allProducts.find(p => (p.sku || p.SKU || p.Id || p.id) === sku);
+                if (!productData) {
+                    console.error('Product data not found for SKU:', sku);
+                    return;
+                }
+
+                const cartItem = {
+                    sku: sku,
+                    slug: productData.slug || productData.Slug || '',
+                    name: productData.name || productData.Title || productData.title || productData.Name || 'Product',
+                    price: parseFloat(productData.price || productData.Price || productData.SalePrice || 0),
+                    image: productData.image || productData.Image || 'default.jpg',
+                    quantity: 1,
+                    unit: productData.unit || 'PC'
+                };
+
+                // Retrieve and modify cart matching cart.js logic
+                let cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
+                const existingIndex = cart.findIndex(item => (item.sku === cartItem.sku) || (item.slug === cartItem.slug));
+
+                if (existingIndex > -1) {
+                    cart[existingIndex].quantity = (cart[existingIndex].quantity || cart[existingIndex].qty || 1) + 1;
+                    if (cart[existingIndex].qty) cart[existingIndex].qty = cart[existingIndex].quantity;
+                } else {
+                    cart.push(cartItem);
+                }
+
+                localStorage.setItem('ht_cart', JSON.stringify(cart));
+                
+                // Broadcast sync event so header badges update immediately
+                window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
+
+                // Update cart badge visually if present
+                const badge = document.getElementById('cart-counter');
+                if (badge) {
+                    const totalItems = cart.reduce((sum, item) => sum + (Number(item.quantity || item.qty) || 1), 0);
+                    badge.textContent = totalItems;
+                    badge.style.display = totalItems > 0 ? 'inline-block' : 'none';
+                }
+
+                if (UI && typeof UI.showToast === 'function') {
+                    UI.showToast('Product added to cart successfully!', 'success');
+                } else {
+                    alert('Product added to cart!');
+                }
+            });
+        });
     },
 
     sortProducts(criteria) {

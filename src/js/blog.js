@@ -23,7 +23,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         const urlParams = new URLSearchParams(window.location.search);
         const slug = urlParams.get('slug');
 
-        // Fetch data using the exact same API source method that home.js successfully relies on
         let responseData;
         try {
             const directFetch = await fetch('dist/data/blogs.json');
@@ -45,7 +44,6 @@ document.addEventListener('DOMContentLoaded', async () => {
             allBlogs = [responseData];
         }
 
-        // Safe sort identical to home.js
         allBlogs.sort((a, b) => {
             const dateA = new Date(a.date || a.Date || 0);
             const dateB = new Date(b.date || b.Date || 0);
@@ -53,7 +51,6 @@ document.addEventListener('DOMContentLoaded', async () => {
         });
 
         if (slug) {
-            // --- Single Blog Post View ---
             const post = allBlogs.find(p => (p.slug === slug || p.Slug === slug)) || await API.getBlog(slug);
             
             if (!post) {
@@ -64,10 +61,10 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleTitle = post.title || post.Title || 'Untitled Post';
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
-            const singleImage = post.image || post.FeaturedImage || post.featuredImage || 'src/images/placeholder.jpg';
+            const singleImage = post.FeaturedImage || post.featuredImage || post.image || post.Image || 'src/images/placeholder.jpg';
             
             let rawDate = post.date || post.Date || '';
-            let displayDate = (rawDate && isNaN(rawDate)) ? rawDate : 'Recent Guide';
+            let displayDate = rawDate ? rawDate : 'Recent Guide';
 
             let mdFileSource = post.markdownFile || post.MarkdownFile || post.file || `${slug}.md`;
             let cleanRelativePath = mdFileSource.replace(/^\/+/, '');
@@ -91,9 +88,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 try {
                     mdResponse = await fetch(pathOption);
                     if (mdResponse.ok) break;
-                } catch (e) {
-                    // Try next path
-                }
+                } catch (e) {}
             }
 
             if (mdResponse && mdResponse.ok) {
@@ -139,7 +134,6 @@ document.addEventListener('DOMContentLoaded', async () => {
                 </article>
             `;
         } else {
-            // --- Blog Feed View ---
             if (allBlogs.length === 0) {
                 container.innerHTML = `<div class="col-12 text-center py-5"><p class="text-muted">No blog posts found.</p></div>`;
                 return;
@@ -163,8 +157,8 @@ document.addEventListener('DOMContentLoaded', async () => {
 
                 grid.innerHTML = pagePosts.map(blog => {
                     const rawDate = blog.date || blog.Date || '';
-                    const displayDate = (rawDate && isNaN(rawDate)) ? rawDate : 'Recent Guide';
-                    const blogImage = blog.image || blog.FeaturedImage || 'src/images/placeholder.jpg'
+                    const displayDate = rawDate ? rawDate : 'Recent Guide';
+                    const blogImage = blog.FeaturedImage || blog.featuredImage || blog.image || blog.Image || 'src/images/placeholder.jpg';
                     const blogTitle = blog.title || blog.Title || 'Untitled Post';
                     const blogSlug = blog.slug || blog.Slug || '#';
                     const blogExcerpt = blog.excerpt || blog.MetaDescription || blog.metaDescription || '';

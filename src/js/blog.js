@@ -9,8 +9,7 @@ function resolveImageUrl(img) {
     if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') {
         const trimmed = img.trim();
-        // If it's already an absolute URL (like Unsplash), return it directly without prefixing a slash
-        if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) {
+        if (trimmed.startsWith('http://') || trimmed.startsWith('https://') || trimmed.startsWith('//')) {
             return trimmed;
         }
         if (trimmed.startsWith('/')) {
@@ -59,7 +58,8 @@ document.addEventListener('DOMContentLoaded', async () => {
                 `./${cleanRelativePath}`,
                 `../${cleanRelativePath}`,
                 `data/blogs/${cleanRelativePath.split('/').pop()}`,
-                `./data/blogs/${cleanRelativePath.split('/').pop()}`
+                `./data/blogs/${cleanRelativePath.split('/').pop()}`,
+                `./src/data/blogs/${cleanRelativePath.split('/').pop()}`
             ];
 
             let mdResponse = null;
@@ -169,15 +169,11 @@ document.addEventListener('DOMContentLoaded', async () => {
                     const postExcerpt = post.MetaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
                     const postCategory = post.Category || post.category || 'General';
                     
-                    // Fixed date formatting to prevent showing serial numbers or timestamp digits
                     const rawDate = post.Date || post.date;
                     let postDate = 'Recent Guide';
                     if (rawDate) {
-                        // Check if it's a pure number string (like epoch or stringified ID)
                         if (typeof rawDate === 'number' || /^\d+$/.test(rawDate)) {
-                            // If it's a Unix timestamp or just a number, treat appropriately or format fallback
                             const numVal = Number(rawDate);
-                            // If it's a reasonable epoch timestamp (seconds or milliseconds)
                             const parsedDate = new Date(numVal > 10000000000 ? numVal : numVal * 1000);
                             if (!isNaN(parsedDate.getTime())) {
                                 postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
@@ -185,7 +181,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                                 postDate = rawDate;
                             }
                         } else {
-                            const parsedDate = new Date(rawDate);
+                            // Fix for server/production environments where Safari/some engines fail to parse "YYYY-MM-DD" directly via new Date() without time
+                            const normalizedDateStr = String(rawDate).includes('T') ? rawDate : `${rawDate}T00:00:00`;
+                            const parsedDate = new Date(normalizedDateStr);
                             if (!isNaN(parsedDate.getTime())) {
                                 postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
                             } else {

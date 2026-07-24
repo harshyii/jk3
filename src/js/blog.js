@@ -106,6 +106,32 @@ document.addEventListener('DOMContentLoaded', async () => {
                 renderedHtml = markdownContent.replace(/\n\n/g, '<br><br>');
             }
 
+            // --- Robust Duplicate Image Check & Removal ---
+            if (singleImage) {
+                const tempDiv = document.createElement('div');
+                tempDiv.innerHTML = renderedHtml;
+                const firstImg = tempDiv.querySelector('img');
+                
+                if (firstImg) {
+                    const firstImgSrc = firstImg.getAttribute('src') || '';
+                    
+                    // Extract file names (e.g., "tax.jpg" from paths) to safely match regardless of folder prefixes
+                    const getFileName = (url) => url.split('/').pop().split('?')[0].toLowerCase();
+                    const singleImageFileName = getFileName(singleImage);
+                    const firstImgFileName = getFileName(firstImgSrc);
+
+                    if (singleImageFileName && firstImgFileName && singleImageFileName === firstImgFileName) {
+                        const parentP = firstImg.closest('p');
+                        if (parentP) {
+                            parentP.remove();
+                        } else {
+                            firstImg.remove();
+                        }
+                        renderedHtml = tempDiv.innerHTML;
+                    }
+                }
+            }
+
             container.innerHTML = `
                 <article class="single-blog py-3 w-100">
                     <nav aria-label="breadcrumb" class="mb-4">

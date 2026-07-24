@@ -23,9 +23,38 @@ document.addEventListener('DOMContentLoaded', async () => {
         const urlParams = new URLSearchParams(window.location.search);
         const slug = urlParams.get('slug');
 
+        // Fetch data using the exact same API source method that home.js successfully relies on
+        let responseData;
+        try {
+            const directFetch = await fetch('dist/data/blogs.json');
+            if (directFetch.ok) {
+                responseData = await directFetch.json();
+            } else {
+                responseData = await API.getBlogs();
+            }
+        } catch (e) {
+            responseData = await API.getBlogs();
+        }
+
+        let allBlogs = [];
+        if (Array.isArray(responseData)) {
+            allBlogs = responseData;
+        } else if (responseData && Array.isArray(responseData.blogs)) {
+            allBlogs = responseData.blogs;
+        } else if (responseData) {
+            allBlogs = [responseData];
+        }
+
+        // Safe sort identical to home.js
+        allBlogs.sort((a, b) => {
+            const dateA = new Date(a.date || a.Date || 0);
+            const dateB = new Date(b.date || b.Date || 0);
+            return dateB - dateA;
+        });
+
         if (slug) {
             // --- Single Blog Post View ---
-            const post = await API.getBlog(slug);
+            const post = allBlogs.find(p => (p.slug === slug || p.Slug === slug)) || await API.getBlog(slug);
             
             if (!post) {
                 container.innerHTML = `<div class="alert alert-warning text-center my-5">Blog post "${escapeHtml(slug)}" could not be found.</div>`;
@@ -51,7 +80,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                 `/${cleanRelativePath}`,
                 `/${cleanRelativePath.replace('src/', 'dist/')}`,
                 `./${cleanRelativePath}`,
+                `../${cleanRelativePath}`,
                 `data/blogs/${cleanRelativePath.split('/').pop()}`,
+                `./data/blogs/${cleanRelativePath.split('/').pop()}`,
                 `./src/data/blogs/${cleanRelativePath.split('/').pop()}`
             ];
 
@@ -61,7 +92,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                     mdResponse = await fetch(pathOption);
                     if (mdResponse.ok) break;
                 } catch (e) {
-                    // Try next path option
+                    // Try next path
                 }
             }
 
@@ -108,25 +139,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 </article>
             `;
         } else {
-            // --- Blog Feed View (Grid matching homepage logic) ---
-            const responseData = await API.getBlogs();
-            
-            let allBlogs = [];
-            if (Array.isArray(responseData)) {
-                allBlogs = responseData;
-            } else if (responseData && Array.isArray(responseData.blogs)) {
-                allBlogs = responseData.blogs;
-            } else if (responseData) {
-                allBlogs = [responseData];
-            }
-            
-            // Safe sort matching home.js style
-            allBlogs.sort((a, b) => {
-                const dateA = new Date(a.date || a.Date || 0);
-                const dateB = new Date(b.date || b.Date || 0);
-                return dateB - dateA;
-            });
-            
+            // --- Blog Feed View ---
             if (allBlogs.length === 0) {
                 container.innerHTML = `<div class="col-12 text-center py-5"><p class="text-muted">No blog posts found.</p></div>`;
                 return;

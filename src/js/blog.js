@@ -9,7 +9,11 @@ function resolveImageUrl(img) {
     if (!img) return 'https://picsum.photos/400/200';
     if (typeof img === 'string') {
         const trimmed = img.trim();
-        if (trimmed.startsWith('http://') || trimmed.startsWith('https://') || trimmed.startsWith('/')) {
+        // If it's already an absolute URL (like Unsplash), return it directly without prefixing a slash
+        if (trimmed.startsWith('http://') || trimmed.startsWith('https://')) {
+            return trimmed;
+        }
+        if (trimmed.startsWith('/')) {
             return trimmed;
         }
         return '/' + trimmed;
@@ -165,14 +169,28 @@ document.addEventListener('DOMContentLoaded', async () => {
                     const postExcerpt = post.MetaDescription || post.excerpt || post.Excerpt || 'Read our in-depth guide on workshop tools and equipment...';
                     const postCategory = post.Category || post.category || 'General';
                     
+                    // Fixed date formatting to prevent showing serial numbers or timestamp digits
                     const rawDate = post.Date || post.date;
                     let postDate = 'Recent Guide';
                     if (rawDate) {
-                        const parsedDate = new Date(rawDate);
-                        if (!isNaN(parsedDate.getTime())) {
-                            postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                        // Check if it's a pure number string (like epoch or stringified ID)
+                        if (typeof rawDate === 'number' || /^\d+$/.test(rawDate)) {
+                            // If it's a Unix timestamp or just a number, treat appropriately or format fallback
+                            const numVal = Number(rawDate);
+                            // If it's a reasonable epoch timestamp (seconds or milliseconds)
+                            const parsedDate = new Date(numVal > 10000000000 ? numVal : numVal * 1000);
+                            if (!isNaN(parsedDate.getTime())) {
+                                postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                            } else {
+                                postDate = rawDate;
+                            }
                         } else {
-                            postDate = rawDate;
+                            const parsedDate = new Date(rawDate);
+                            if (!isNaN(parsedDate.getTime())) {
+                                postDate = parsedDate.toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+                            } else {
+                                postDate = rawDate;
+                            }
                         }
                     }
 

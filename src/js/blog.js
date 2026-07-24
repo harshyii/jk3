@@ -164,7 +164,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 grid.innerHTML = pagePosts.map(blog => {
                     const rawDate = blog.date || blog.Date || '';
                     const displayDate = (rawDate && isNaN(rawDate)) ? rawDate : 'Recent Guide';
-                    const blogImage = blog.image || blog.FeaturedImage || blog.featuredImage || 'src/images/placeholder.jpg';
+                    const blogImage = blog.image || blog.FeaturedImage || 'src/images/placeholder.jpg'
                     const blogTitle = blog.title || blog.Title || 'Untitled Post';
                     const blogSlug = blog.slug || blog.Slug || '#';
                     const blogExcerpt = blog.excerpt || blog.MetaDescription || blog.metaDescription || '';

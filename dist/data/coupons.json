@@ -2,11 +2,11 @@
   {
     "code": "SAVE5",
     "discountType": "percentage",
-    "discountValue": 0,
-    "minimumSpend": 0,
+    "discountValue": 5,
+    "minimumSpend": 200,
     "usageLimit": null,
     "startDate": "",
     "expiryDate": "",
-    "active": false
+    "active": true
   }
 ]

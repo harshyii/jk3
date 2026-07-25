@@ -1,0 +1,32 @@
+# Industrial Hardware, Solar & Professional Services Hub
+
+> A comprehensive platform providing industrial power tools, hand tools, solar energy products, safety equipment, and local business/tax compliance services across Haryana (including Pehowa, Karnal, Kaithal, and Assandh).
+
+## Core Resources
+
+- [Home](https://yourdomain.com/): Main entry point for products, industrial categories, and local services.
+- [Search Index](https://yourdomain.com/search.html): Fast-lookup directory for searchable parts, tools, and blogs.
+- [Coupons & Offers](https://yourdomain.com/dist/data/coupons.json): Active promotions and commercial discounts.
+
+## Categories
+
+- [Power Tools](https://yourdomain.com/category.html?cat=power-tools): Professional drills, heavy-duty grinders, and construction equipment.
+- [Solar Products](https://yourdomain.com/category.html?cat=solar-products): Sustainable energy solutions, solar panels, and inverters from leading brands like Luminous and Eastman.
+- [Safety Equipment](https://yourdomain.com/category.html?cat=safety-equipment): Industrial protective gear and workplace safety supplies.
+- [Accounting & Tax Services](https://yourdomain.com/category.html?cat=accounting-services): Local business compliance, income tax filing (ITR), and advisory services.
+
+## Featured Brands
+
+- [Bosch](https://yourdomain.com/brand.html?brand=bosch): Professional-grade power tools and industrial accessories.
+- [Eastman](https://yourdomain.com/brand.html?brand=eastman): Hand tools, hardware, and solar solutions.
+- [Luminous](https://yourdomain.com/brand.html?brand=luminous): Solar inverters, batteries, and backup power systems.
+
+## Products & Inventory
+
+- [Hardware Catalog Overview](https://yourdomain.com/product.html): Comprehensive inventory tracking professional spanners, wrenches, sockets, and hardware parts (including part lines such as `e-2001` and `e-2201`).
+
+## Regional Blogs & Buying Guides
+
+- [Pehowa Guides](https://yourdomain.com/blog.html?loc=pehowa): Localized insights on industrial tools and tax filing services in Pehowa, Haryana.
+- [Karnal & Kaithal Insights](https://yourdomain.com/blog.html?loc=karnal-kaithal): Expert purchasing guides for solar installations and commercial hardware.
+- [Assandh Services](https://yourdomain.com/blog.html?loc=assandh): Regional business updates, tool selection tips, and compliance guides.

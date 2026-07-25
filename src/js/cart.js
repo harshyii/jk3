@@ -1,47 +1,4 @@
-/**
- * Haryana Tools - Cart Page Controller
- * Manages cart listing, quantity adjustments, item deletion, totals, cross-tab synchronization, and recommendations.
- */
-
-import { API } from './api.js';
-import { Utils } from './utils.js';
-
-const CartPage = {
-    async init() {
-        console.log("🛒 Cart Page Controller Initialized");
-        this.renderCart();
-        this.bindEvents();
-        this.loadRecommendations();
-    },
-
-    getCart() {
-        return JSON.parse(localStorage.getItem('ht_cart') || '[]');
-    },
-
-    saveCart(cart) {
-        localStorage.setItem('ht_cart', JSON.stringify(cart));
-        this.updateCartBadge();
-        
-        // Broadcast custom event so other components or tabs stay in real-time sync
-        window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
-    },
-
-    renderCart() {
-        const cartContainer = document.getElementById('cart-items');
-        const cartTotalEl = document.getElementById('cart-total');
-        const checkoutBtn = document.getElementById('checkout-btn');
-        
-        if (!cartContainer) return;
-
-        const cart = this.getCart();
-        this.updateCartBadge();
-
-        if (cart.length === 0) {
-            cartContainer.innerHTML = `
-                <div class="text-center py-5 bg-white rounded shadow-sm border-0 w-100">
-                    <div class="mb-3 fs-1 text-muted">🛒</div>
-                    <h4 class="fw-bold text-dark">Your cart is empty</h4>
-                    <p class="text-muted mb-4">Looks like you haven't added any tools to your cart yet.</p>
+import{API}from'./api.js';import{Utils}from'./utils.js';const CartPage={async init(){console.log("🛒 Cart Page Controller Initialized");this.renderCart();this.bindEvents();this.loadRecommendations();},getCart(){return JSON.parse(localStorage.getItem('ht_cart')||'[]');},saveCart(cart){localStorage.setItem('ht_cart',JSON.stringify(cart));this.updateCartBadge();window.dispatchEvent(new CustomEvent('cartUpdated',{detail:cart}));},renderCart(){const cartContainer=document.getElementById('cart-items');const cartTotalEl=document.getElementById('cart-total');const checkoutBtn=document.getElementById('checkout-btn');if(!cartContainer)return;const cart=this.getCart();this.updateCartBadge();if(cart.length===0){cartContainer.innerHTML=`<div class="text-center py-5 bg-white rounded shadow-sm border-0 w-100"><div class="mb-3 fs-1 text-muted">🛒</div><h4 class="fw-bold text-dark">Your cart is empty</h4><p class="text-muted mb-4">Looks like you haven't added any tools to your cart yet.</p>
                     <a href="index.html" class="btn btn-primary px-4 fw-bold">Start Shopping</a>
                 </div>
             `;
@@ -222,4 +179,4 @@ const CartPage = {
     }
 };
 
-document.addEventListener('DOMContentLoaded', () => CartPage.init());
+document.addEventListener('DOMContentLoaded'

@@ -1,12 +1,6 @@
 {
   "name": "Solar Products",
   "slug": "solar-products",
-  "parentCategory": "Solar",
-  "image": "https://images.unsplash.com/photo-1668097613572-40b7c11c8727?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "featured": true,
-  "sortOrder": 3,
-  "seoTitle": "Solar Products Online | Haryana.Tools",
-  "metaDescription": "Explore solar panels, inverters, batteries, solar accessories and renewable energy solutions.",
   "products": [
     {
       "sku": "LONG2",
@@ -14,9 +8,9 @@
       "name": "Solar Ongrid 2KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 145000,
+      "price": 166750,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG2"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
     },
     {
       "sku": "LONG3",
@@ -24,9 +18,9 @@
       "name": "Solar Ongrid 3KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 180000,
+      "price": 207000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG3"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
     },
     {
       "sku": "LONG5",
@@ -34,9 +28,9 @@
       "name": "Solar Ongrid 5KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 278000,
+      "price": 319700,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG5"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
     },
     {
       "sku": "LONG73",
@@ -44,9 +38,9 @@
       "name": "Solar Ongrid 7.5KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 400000,
+      "price": 460000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG73"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG73"
     },
     {
       "sku": "LONG103",
@@ -54,9 +48,9 @@
       "name": "Solar Ongrid 10KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 600000,
+      "price": 690000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG103"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG103"
     },
     {
       "sku": "LONG203",
@@ -64,9 +58,9 @@
       "name": "Solar Ongrid 20KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 1200000,
+      "price": 1380000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG203"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG203"
     },
     {
       "sku": "LOFF1",
@@ -74,9 +68,9 @@
       "name": "Solar Offgrid 1KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 42000,
+      "price": 48300,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LOFF1"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF1"
     },
     {
       "sku": "LOFF2",
@@ -84,9 +78,9 @@
       "name": "Solar Offgrid 2KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 78000,
+      "price": 89700,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LOFF2"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF2"
     },
     {
       "sku": "LOFF5",
@@ -94,9 +88,9 @@
       "name": "Solar Offgrid 5KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 259990,
+      "price": 298989,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LOFF5"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF5"
     },
     {
       "sku": "LOFF73",
@@ -104,9 +98,9 @@
       "name": "Solar Offgrid 7.5KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 489000,
+      "price": 562350,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LOFF73"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF73"
     },
     {
       "sku": "LOFF103",
@@ -114,9 +108,9 @@
       "name": "Solar Offgrid 10KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 899690,
+      "price": 1034644,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LOFF103"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF103"
     },
     {
       "sku": "LOFF1103",
@@ -124,9 +118,9 @@
       "name": "Solar Offgrid 110KW",
       "brand": "Loom Solar",
       "category": "Solar Products",
-      "price": 1789990,
+      "price": 2058489,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LOFF1103"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF1103"
     },
     {
       "sku": "LONG2",
@@ -134,9 +128,9 @@
       "name": "Solar Ongrid 2KW",
       "brand": "luminous",
       "category": "Solar Products",
-      "price": 145000,
+      "price": 166750,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG2"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
     },
     {
       "sku": "LONG3",
@@ -144,9 +138,9 @@
       "name": "Solar Ongrid 3KW",
       "brand": "luminous",
       "category": "Solar Products",
-      "price": 180000,
+      "price": 207000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG3"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
     },
     {
       "sku": "LONG5",
@@ -154,9 +148,9 @@
       "name": "Solar Ongrid 5KW",
       "brand": "luminous",
       "category": "Solar Products",
-      "price": 278000,
+      "price": 319700,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG5"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
     },
     {
       "sku": "LONG2",
@@ -164,9 +158,9 @@
       "name": "Solar Ongrid 2KW",
       "brand": "utl",
       "category": "Solar Products",
-      "price": 145000,
+      "price": 166750,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG2"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
     },
     {
       "sku": "LONG3",
@@ -174,9 +168,9 @@
       "name": "Solar Ongrid 3KW",
       "brand": "utl",
       "category": "Solar Products",
-      "price": 180000,
+      "price": 207000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG3"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
     },
     {
       "sku": "LONG5",
@@ -184,9 +178,9 @@
       "name": "Solar Ongrid 5KW",
       "brand": "utl",
       "category": "Solar Products",
-      "price": 278000,
+      "price": 319700,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG5"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
     },
     {
       "sku": "LONG2",
@@ -194,9 +188,9 @@
       "name": "Solar Ongrid 2KW",
       "brand": "Tata Solar",
       "category": "Solar Products",
-      "price": 145000,
+      "price": 166750,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG2"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
     },
     {
       "sku": "LONG3",
@@ -204,9 +198,9 @@
       "name": "Solar Ongrid 3KW",
       "brand": "Tata Solar",
       "category": "Solar Products",
-      "price": 180000,
+      "price": 207000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG3"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
     },
     {
       "sku": "LONG5",
@@ -214,9 +208,9 @@
       "name": "Solar Ongrid 5KW",
       "brand": "Tata Solar",
       "category": "Solar Products",
-      "price": 278000,
+      "price": 319700,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG5"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
     },
     {
       "sku": "LONG2",
@@ -224,9 +218,9 @@
       "name": "Solar Ongrid 2KW",
       "brand": "Adani Solar",
       "category": "Solar Products",
-      "price": 145000,
+      "price": 166750,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG2"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
     },
     {
       "sku": "LONG3",
@@ -234,9 +228,9 @@
       "name": "Solar Ongrid 3KW",
       "brand": "Adani Solar",
       "category": "Solar Products",
-      "price": 180000,
+      "price": 207000,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG3"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
     },
     {
       "sku": "LONG5",
@@ -244,9 +238,9 @@
       "name": "Solar Ongrid 5KW",
       "brand": "Adani Solar",
       "category": "Solar Products",
-      "price": 278000,
+      "price": 319700,
       "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product/LONG5"
+      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
     }
   ]
 }

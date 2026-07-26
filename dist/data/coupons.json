@@ -1,12 +1,1 @@
-[
-  {
-    "code": "SAVE5",
-    "discountType": "percentage",
-    "discountValue": 5,
-    "minimumSpend": 200,
-    "usageLimit": null,
-    "startDate": "",
-    "expiryDate": "",
-    "active": true
-  }
-]
+[]

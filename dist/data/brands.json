@@ -1,12 +1,5 @@
 [
   {
-    "name": "Eastman",
-    "slug": "eastman",
-    "count": 979,
-    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336",
-    "featured": false
-  },
-  {
     "name": "JRS Drive",
     "slug": "jrs-drive",
     "count": 178,
@@ -14,136 +7,10 @@
     "featured": false
   },
   {
-    "name": "INGCO ",
-    "slug": "ingco",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Tata Solar",
-    "slug": "tata-solar",
-    "count": 3,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "featured": false
-  },
-  {
-    "name": "Camron Pro",
-    "slug": "camron-pro",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "TORQUE MASTER",
-    "slug": "torque-master",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Taparia ",
-    "slug": "taparia",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "STANLEY ",
-    "slug": "stanley",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Carbiforce",
-    "slug": "carbiforce",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Delta UPS",
-    "slug": "delta-ups",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "powertuff ",
-    "slug": "powertuff",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "OMXE",
-    "slug": "omxe",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "MultiTec  ",
-    "slug": "multitec",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Metaldur  ",
-    "slug": "metaldur",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "MAC MASTER",
-    "slug": "mac-master",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "9JackTools",
-    "slug": "9jacktools",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "BOSCH ",
-    "slug": "bosch",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Xcel",
-    "slug": "xcel",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Xtra Power",
-    "slug": "xtra-power",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "KENBROOK ",
-    "slug": "kenbrook",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "KINEE SOLAR",
-    "slug": "kinee-solar",
-    "count": 0,
-    "image": "",
+    "name": "Eastman",
+    "slug": "eastman",
+    "count": 979,
+    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336",
     "featured": false
   },
   {
@@ -154,45 +21,31 @@
     "featured": false
   },
   {
-    "name": "Adani Solar",
-    "slug": "adani-solar",
-    "count": 3,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "featured": false
-  },
-  {
-    "name": "Luminous",
+    "name": "luminous",
     "slug": "luminous",
     "count": 3,
     "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
-    "name": "UTL",
+    "name": "utl",
     "slug": "utl",
     "count": 3,
     "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
-    "name": "Fujiyama",
-    "slug": "fujiyama",
-    "count": 0,
-    "image": "",
+    "name": "Tata Solar",
+    "slug": "tata-solar",
+    "count": 3,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {
-    "name": "ukava",
-    "slug": "ukava",
-    "count": 0,
-    "image": "",
-    "featured": false
-  },
-  {
-    "name": "Shakti",
-    "slug": "shakti",
-    "count": 0,
-    "image": "",
+    "name": "Adani Solar",
+    "slug": "adani-solar",
+    "count": 3,
+    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": false
   },
   {

@@ -1,17 +1,127 @@
 {
-  "site_name": {
-    "value": "JK Enterprises",
-    "group": "general",
-    "description": "Website main title"
+  "site_title": {
+    "value": "Haryana.Tools - Power Tools, Hand Tools & Solar Solutions",
+    "group": "General",
+    "description": "The main website title displayed in browser tabs and search engine results."
+  },
+  "site_tagline": {
+    "value": "Your Ultimate Industrial & Workshop Equipment Partner",
+    "group": "General",
+    "description": "Short catchy tagline describing the platform's core offering."
+  },
+  "contact_email": {
+    "value": "support@haryana.tools",
+    "group": "Contact",
+    "description": "Primary customer support and business inquiry email address."
+  },
+  "contact_phone": {
+    "value": -9876543119,
+    "group": "Contact",
+    "description": "Official helpline and customer service telephone number."
+  },
+  "office_address": {
+    "value": "Industrial Area, Pehowa, Haryana, India",
+    "group": "Contact",
+    "description": "Physical headquarters or registered office location."
   },
   "currency_symbol": {
-    "value": "INR",
-    "group": "localization",
-    "description": "Primary currency indicator"
+    "value": "₹",
+    "group": "Localization",
+    "description": "Default currency symbol used across product listings and pricing."
   },
-  "support_email": {
-    "value": "care@haryana.tools",
-    "group": "contact",
-    "description": "Customer service email"
+  "currency_code": {
+    "value": "INR",
+    "group": "Localization",
+    "description": "ISO standard currency code for financial calculations and transactions."
+  },
+  "tax_rate_gst": {
+    "value": 18,
+    "group": "Tax",
+    "description": "Default Goods and Services Tax (GST) percentage applied to applicable items."
+  },
+  "maintenance_mode": {
+    "value": false,
+    "group": "System",
+    "description": "Flag to toggle the website into maintenance mode (true/false)."
+  },
+  "items_per_page": {
+    "value": 24,
+    "group": "Display",
+    "description": "Number of product listings displayed per page in catalog and search views."
+  },
+  "seo_meta_keywords": {
+    "value": "power tools, hand tools, solar panels, car care products, haryana tools",
+    "group": "SEO",
+    "description": "Default comma-separated keywords for search engine optimization."
+  },
+  "google_analytics_id": {
+    "value": "G-HARYANATOOLS",
+    "group": "Analytics",
+    "description": "Tracking ID for Google Analytics traffic and user behavior monitoring."
+  },
+  "facebook_pixel_id": {
+    "value": 123456789012345,
+    "group": "Analytics",
+    "description": "Tracking pixel ID for Facebook ad campaigns and conversion tracking."
+  },
+  "free_shipping_threshold": {
+    "value": 5000,
+    "group": "Shipping",
+    "description": "Minimum order value in INR required to qualify for free delivery."
+  },
+  "standard_shipping_fee": {
+    "value": 150,
+    "group": "Shipping",
+    "description": "Default flat shipping fee applied to orders below the free shipping threshold."
+  },
+  "cod_enabled": {
+    "value": true,
+    "group": "Checkout",
+    "description": "Flag enabling or disabling Cash on Delivery as a payment option."
+  },
+  "max_cod_amount": {
+    "value": 25000,
+    "group": "Checkout",
+    "description": "Maximum cart order value allowed for Cash on Delivery transactions."
+  },
+  "social_facebook": {
+    "value": "https://facebook.com/haryana.tools",
+    "group": "Social",
+    "description": "Official Facebook page link for brand engagement and updates."
+  },
+  "social_instagram": {
+    "value": "https://instagram.com/haryana.tools",
+    "group": "Social",
+    "description": "Official Instagram handle link for product showcases and reels."
+  },
+  "social_linkedin": {
+    "value": "https://linkedin.com/company/haryana-tools",
+    "group": "Social",
+    "description": "Official LinkedIn company profile for B2B networking and hiring."
+  },
+  "social_twitter": {
+    "value": "https://twitter.com/haryana_tools",
+    "group": "Social",
+    "description": "Official Twitter/X handle link for company announcements and support."
+  },
+  "social_youtube": {
+    "value": "https://youtube.com/@haryana-tools",
+    "group": "Social",
+    "description": "Official YouTube channel link for product demonstrations and video tutorials."
+  },
+  "invoice_prefix": {
+    "value": "HT-2026-",
+    "group": "Billing",
+    "description": "Prefix code added to the beginning of all generated customer invoice numbers."
+  },
+  "return_window_days": {
+    "value": 7,
+    "group": "Policy",
+    "description": "Number of days allowed for customers to request product returns or replacements."
+  },
+  "low_stock_threshold": {
+    "value": 5,
+    "group": "Inventory",
+    "description": "Stock quantity level that triggers low inventory email notifications to admins."
   }
 }

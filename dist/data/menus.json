@@ -1,11 +1,699 @@
 {
-  "header": [
+  "Main Menu": [
     {
-      "label": "",
-      "url": "#",
+      "label": "Home",
+      "url": "/",
       "target": "_self",
-      "parentItem": "",
-      "sortOrder": 0
+      "parentItem": "(None)",
+      "sortOrder": 1
+    },
+    {
+      "label": "Power Tools",
+      "url": "/power-tools",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 2
+    },
+    {
+      "label": "Hand Tools",
+      "url": "/hand-tools",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 3
+    },
+    {
+      "label": "Car Care Products",
+      "url": "/car-care-products",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 4
+    },
+    {
+      "label": "Solar Panels & Systems",
+      "url": "/solar-panels-systems",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 5
+    },
+    {
+      "label": "Brands",
+      "url": "/brands",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 6
+    },
+    {
+      "label": "Cordless Tools",
+      "url": "/cordless-tools",
+      "target": "_self",
+      "parentItem": "Power Tools",
+      "sortOrder": 1
+    },
+    {
+      "label": "Cutting & Abrasive Tools",
+      "url": "/cutting-abrasive-tools",
+      "target": "_self",
+      "parentItem": "Power Tools",
+      "sortOrder": 2
+    },
+    {
+      "label": "Workshop Equipment",
+      "url": "/workshop-equipment",
+      "target": "_self",
+      "parentItem": "Hand Tools",
+      "sortOrder": 1
+    },
+    {
+      "label": "Solar Inverters & Batteries",
+      "url": "/solar-inverters-batteries",
+      "target": "_self",
+      "parentItem": "Solar Panels & Systems",
+      "sortOrder": 1
+    },
+    {
+      "label": "Bosch",
+      "url": "/brand/bosch",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 1
+    },
+    {
+      "label": "INGCO",
+      "url": "/brand/ingco",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 2
+    },
+    {
+      "label": "Makita",
+      "url": "/brand/makita",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 3
+    },
+    {
+      "label": "DeWalt",
+      "url": "/brand/dewalt",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 4
+    },
+    {
+      "label": "Stanley",
+      "url": "/brand/stanley",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 5
+    },
+    {
+      "label": "Taparia",
+      "url": "/brand/taparia",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 6
+    },
+    {
+      "label": "Tata Solar",
+      "url": "/brand/tata-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 7
+    },
+    {
+      "label": "Adani Solar",
+      "url": "/brand/adani-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 8
+    },
+    {
+      "label": "Luminous",
+      "url": "/brand/luminous",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 9
+    },
+    {
+      "label": "WaveX",
+      "url": "/brand/wavex",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 10
+    },
+    {
+      "label": "Milwaukee",
+      "url": "/brand/milwaukee",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 11
+    },
+    {
+      "label": "Dongcheng",
+      "url": "/brand/dongcheng",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 12
+    },
+    {
+      "label": "Ryobi",
+      "url": "/brand/ryobi",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 13
+    },
+    {
+      "label": "SKIL",
+      "url": "/brand/skil",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 14
+    },
+    {
+      "label": "Stihl",
+      "url": "/brand/stihl",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 15
+    },
+    {
+      "label": "Groz",
+      "url": "/brand/groz",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 16
+    },
+    {
+      "label": "CUMI",
+      "url": "/brand/cumi",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 17
+    },
+    {
+      "label": "Sonax",
+      "url": "/brand/sonax",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 18
+    },
+    {
+      "label": "Loom Solar",
+      "url": "/brand/loom-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 19
+    },
+    {
+      "label": "Microtek",
+      "url": "/brand/microtek",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 20
+    },
+    {
+      "label": "Eastman",
+      "url": "/brand/eastman",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 21
+    },
+    {
+      "label": "Xtra Power",
+      "url": "/brand/xtra-power",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 22
+    },
+    {
+      "label": "Hilti",
+      "url": "/brand/hilti",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 23
+    },
+    {
+      "label": "Festool",
+      "url": "/brand/festool",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 24
+    },
+    {
+      "label": "Dremel",
+      "url": "/brand/dremel",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 25
+    },
+    {
+      "label": "Freemans",
+      "url": "/brand/freemans",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 26
+    },
+    {
+      "label": "Waaree Solar",
+      "url": "/brand/waaree-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 27
+    },
+    {
+      "label": "Vikram Solar",
+      "url": "/brand/vikram-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 28
+    },
+    {
+      "label": "Exide Solar",
+      "url": "/brand/exide-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 29
+    },
+    {
+      "label": "UTL",
+      "url": "/brand/utl",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 30
+    },
+    {
+      "label": "Metabo",
+      "url": "/brand/metabo",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 31
+    },
+    {
+      "label": "Black + Decker",
+      "url": "/brand/black-decker",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 32
+    },
+    {
+      "label": "HiKOKI",
+      "url": "/brand/hikoki",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 33
+    },
+    {
+      "label": "Formula 1",
+      "url": "/brand/formula-1",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 34
+    },
+    {
+      "label": "3M Auto",
+      "url": "/brand/3m-auto",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 35
+    },
+    {
+      "label": "Meguiar's",
+      "url": "/brand/meguiars",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 36
+    },
+    {
+      "label": "Turtle Wax",
+      "url": "/brand/turtle-wax",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 37
+    },
+    {
+      "label": "Kenbrook",
+      "url": "/brand/kenbrook",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 38
+    },
+    {
+      "label": "Fujiyama",
+      "url": "/brand/fujiyama",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 39
+    },
+    {
+      "label": "Shakti",
+      "url": "/brand/shakti",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 40
+    },
+    {
+      "label": "JRS Drive",
+      "url": "/brand/jrs-drive",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 41
+    },
+    {
+      "label": "Camron Pro",
+      "url": "/brand/camron-pro",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 42
+    },
+    {
+      "label": "Torque Master",
+      "url": "/brand/torque-master",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 43
+    },
+    {
+      "label": "Carbiforce",
+      "url": "/brand/carbiforce",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 44
+    },
+    {
+      "label": "Delta UPS",
+      "url": "/brand/delta-ups",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 45
+    },
+    {
+      "label": "Powertuff",
+      "url": "/brand/powertuff",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 46
+    },
+    {
+      "label": "OMXE",
+      "url": "/brand/omxe",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 47
+    },
+    {
+      "label": "MultiTec",
+      "url": "/brand/multitec",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 48
+    },
+    {
+      "label": "Metaldur",
+      "url": "/brand/metaldur",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 49
+    },
+    {
+      "label": "Mac Master",
+      "url": "/brand/mac-master",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 50
+    },
+    {
+      "label": "9JackTools",
+      "url": "/brand/9jacktools",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 51
+    },
+    {
+      "label": "Xcel",
+      "url": "/brand/xcel",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 52
+    },
+    {
+      "label": "Kinee Solar",
+      "url": "/brand/kinee-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 53
+    },
+    {
+      "label": "Ukava",
+      "url": "/brand/ukava",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 54
+    },
+    {
+      "label": "DCA",
+      "url": "/brand/dca",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 55
+    },
+    {
+      "label": "Chemical Guys",
+      "url": "/brand/chemical-guys",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 56
+    },
+    {
+      "label": "Waxpol",
+      "url": "/brand/waxpol",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 57
+    },
+    {
+      "label": "Mothers",
+      "url": "/brand/mothers",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 58
+    },
+    {
+      "label": "ShineXpro",
+      "url": "/brand/shinexpro",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 59
+    },
+    {
+      "label": "Goldi Solar",
+      "url": "/brand/goldi-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 60
+    },
+    {
+      "label": "Premier Energies",
+      "url": "/brand/premier-energies",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 61
+    },
+    {
+      "label": "Havells",
+      "url": "/brand/havells",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 62
+    },
+    {
+      "label": "Servotech",
+      "url": "/brand/servotech",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 63
+    },
+    {
+      "label": "Su-Kam",
+      "url": "/brand/su-kam",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 64
+    },
+    {
+      "label": "Krost",
+      "url": "/brand/krost",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 65
+    },
+    {
+      "label": "Fischer",
+      "url": "/brand/fischer",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 66
+    },
+    {
+      "label": "Fein",
+      "url": "/brand/fein",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 67
+    },
+    {
+      "label": "Atlas Copco",
+      "url": "/brand/atlas-copco",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 68
+    },
+    {
+      "label": "Starrett",
+      "url": "/brand/starrett",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 69
+    },
+    {
+      "label": "Kennedy",
+      "url": "/brand/kennedy",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 70
+    },
+    {
+      "label": "JK Files",
+      "url": "/brand/jk-files",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 71
+    },
+    {
+      "label": "KPT Industries",
+      "url": "/brand/kpt-industries",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 72
+    },
+    {
+      "label": "Endico",
+      "url": "/brand/endico",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 73
+    },
+    {
+      "label": "Ralliwolf",
+      "url": "/brand/ralliwolf",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 74
+    },
+    {
+      "label": "ReNew",
+      "url": "/brand/renew-power",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 75
+    },
+    {
+      "label": "Panasonic Solar",
+      "url": "/brand/panasonic-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 76
+    },
+    {
+      "label": "Amaron Solar",
+      "url": "/brand/amaron-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 77
+    },
+    {
+      "label": "Saatvik Solar",
+      "url": "/brand/saatvik-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 78
+    },
+    {
+      "label": "RenewSys",
+      "url": "/brand/renewsys",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 79
+    },
+    {
+      "label": "Patanjali Solar",
+      "url": "/brand/patanjali-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 80
+    },
+    {
+      "label": "Solis Solar",
+      "url": "/brand/solis-solar",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 81
+    },
+    {
+      "label": "Eibenstock",
+      "url": "/brand/eibenstock",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 82
+    },
+    {
+      "label": "Echo",
+      "url": "/brand/echo",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 83
+    },
+    {
+      "label": "SKIL",
+      "url": "/brand/skil",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 84
+    },
+    {
+      "label": "Stihl",
+      "url": "/brand/stihl",
+      "target": "_self",
+      "parentItem": "Brands",
+      "sortOrder": 85
+    }
+  ],
+  "Footer Menu": [
+    {
+      "label": "About Us",
+      "url": "/about-us",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 1
+    },
+    {
+      "label": "Contact Us",
+      "url": "/contact-us",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 2
+    },
+    {
+      "label": "Privacy Policy",
+      "url": "/privacy-policy",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 3
+    },
+    {
+      "label": "Terms & Conditions",
+      "url": "/terms-conditions",
+      "target": "_self",
+      "parentItem": "(None)",
+      "sortOrder": 4
     }
   ]
 }

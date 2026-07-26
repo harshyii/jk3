@@ -21,23 +21,32 @@
     <main id="main-content" class="catalog-layout">
         <!-- Sidebar Filters -->
         <aside id="sidebar-filters">
-            <h3>Filters</h3>
-            <div class="filter-group">
-                <label for="category-filter">Category</label>
-                <select id="category-filter">
-                    <option value="">All Categories</option>
-                </select>
-            </div>
-            <div class="filter-group">
-                <label for="sort-select">Sort By</label>
-                <select id="sort-select">
-                    <option value="default">Featured</option>
-                    <option value="price-low">Price: Low to High</option>
-                    <option value="price-high">Price: High to Low</option>
-                    <option value="name">Name: A to Z</option>
-                </select>
-            </div>
-        </aside>
+    <h3>Filters</h3>
+    <div class="filter-group mb-3">
+        <label for="category-filter" class="form-label fw-bold">Category</label>
+        <select id="category-filter" class="form-select">
+            <option value="">All Categories</option>
+        </select>
+    </div>
+    
+    <!-- Add Brands Filter Dropdown -->
+    <div class="filter-group mb-3">
+        <label for="brand-filter" class="form-label fw-bold">Brand</label>
+        <select id="brand-filter" class="form-select">
+            <option value="">All Brands</option>
+        </select>
+    </div>
+
+    <div class="filter-group mb-3">
+        <label for="sort-select" class="form-label fw-bold">Sort By</label>
+        <select id="sort-select" class="form-select">
+            <option value="default">Featured</option>
+            <option value="price-low">Price: Low to High</option>
+            <option value="price-high">Price: High to Low</option>
+            <option value="name">Name: A to Z</option>
+        </select>
+    </div>
+</aside>
 
         <section id="category-products">
             <h1 id="category-title">All Products</h1>

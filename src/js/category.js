@@ -6,11 +6,12 @@ const Category = {
     allProducts: [],
     filteredProducts: [],
     currentPage: 1,
-    pageSize: 18,
+    pageSize: 12,
 
     async init() {
         const urlParams = Utils.getQueryParams();
         const categorySlug = urlParams.get('slug');
+        const brandSlug = urlParams.get('brand');
 
         if (UI && typeof UI.setLoading === 'function') {
             UI.setLoading(true);
@@ -20,6 +21,10 @@ const Category = {
             const catalog = await API.getCatalog();
             this.allProducts = catalog || [];
 
+            // Populate filters dynamically and set initial select states
+            this.loadFilters(categorySlug, brandSlug);
+
+            // Filter by Category Slug if present
             if (categorySlug) {
                 this.allProducts = this.allProducts.filter(p => Utils.slugify(p.Category || p.category || '') === categorySlug);
                 const titleEl = document.getElementById('category-title');
@@ -28,9 +33,19 @@ const Category = {
                 }
             }
 
+            // Filter by Brand Slug if present
+            if (brandSlug) {
+                this.allProducts = this.allProducts.filter(p => Utils.slugify(p.brand || p.Brand || '') === brandSlug);
+                const titleEl = document.getElementById('category-title');
+                if (titleEl && !categorySlug && this.allProducts.length > 0) {
+                    titleEl.textContent = `Brand: ${this.allProducts[0].brand || this.allProducts[0].Brand}`;
+                }
+            }
+
             this.filteredProducts = [...this.allProducts];
             this.handleSearchAndFilter();
 
+            // Setup Search Listener
             const searchInput = document.getElementById('search-input');
             if (searchInput) {
                 searchInput.addEventListener('input', () => {
@@ -39,6 +54,7 @@ const Category = {
                 });
             }
 
+            // Setup Sort Listener
             const sortSelect = document.getElementById('sort-select');
             if (sortSelect) {
                 sortSelect.addEventListener('change', (e) => {
@@ -46,6 +62,15 @@ const Category = {
                     this.sortProducts(e.target.value);
                 });
             }
+
+            // Setup Clear Filters Button Listener
+            const clearBtn = document.getElementById('clear-filters-btn');
+            if (clearBtn) {
+                clearBtn.addEventListener('click', () => {
+                    window.location.href = 'category.html';
+                });
+            }
+
         } catch (err) {
             console.error('❌ Error initializing category controller:', err);
             this.showToast('Failed to load category products.', 'error');
@@ -56,9 +81,52 @@ const Category = {
         }
     },
 
-    getRandomItems(arr, count) {
-        const shuffled = [...arr].sort(() => 0.5 - Math.random());
-        return shuffled.slice(0, count);
+    loadFilters(currentCategorySlug, currentBrandSlug) {
+        const categorySelect = document.getElementById('category-filter');
+        const brandSelect = document.getElementById('brand-filter');
+
+        // Extract complete unique lists from full database catalog (not just filtered results)
+        API.getCatalog().then(catalog => {
+            const fullCatalog = catalog || [];
+
+            // Populate Categories
+            if (categorySelect) {
+                const uniqueCategories = [...new Set(fullCatalog.map(p => p.Category || p.category).filter(Boolean))].sort();
+                let catOptions = '<option value="">All Categories</option>';
+                uniqueCategories.forEach(cat => {
+                    const slug = Utils.slugify(cat);
+                    const isSelected = slug === currentCategorySlug ? 'selected' : '';
+                    catOptions += `<option value="${slug}" ${isSelected}>${cat}</option>`;
+                });
+                categorySelect.innerHTML = catOptions;
+
+                categorySelect.addEventListener('change', (e) => {
+                    const slug = e.target.value;
+                    const params = new URLSearchParams(window.location.search);
+                    if (slug) params.set('slug', slug); else params.delete('slug');
+                    window.location.href = `category.html?${params.toString()}`;
+                });
+            }
+
+            // Populate Brands
+            if (brandSelect) {
+                const uniqueBrands = [...new Set(fullCatalog.map(p => p.brand || p.Brand).filter(Boolean))].sort();
+                let brandOptions = '<option value="">All Brands</option>';
+                uniqueBrands.forEach(brand => {
+                    const slug = Utils.slugify(brand);
+                    const isSelected = slug === currentBrandSlug ? 'selected' : '';
+                    brandOptions += `<option value="${slug}" ${isSelected}>${brand}</option>`;
+                });
+                brandSelect.innerHTML = brandOptions;
+
+                brandSelect.addEventListener('change', (e) => {
+                    const slug = e.target.value;
+                    const params = new URLSearchParams(window.location.search);
+                    if (slug) params.set('brand', slug); else params.delete('brand');
+                    window.location.href = `category.html?${params.toString()}`;
+                });
+            }
+        });
     },
 
     fuzzyMatch(query, text) {
@@ -67,9 +135,7 @@ const Category = {
         if (text.includes(query)) return true;
         let qIndex = 0;
         for (let i = 0; i < text.length; i++) {
-            if (text[i] === query[qIndex]) {
-                qIndex++;
-            }
+            if (text[i] === query[qIndex]) qIndex++;
             if (qIndex === query.length) return true;
         }
         return false;
@@ -78,22 +144,15 @@ const Category = {
     handleSearchAndFilter() {
         const searchInput = document.getElementById('search-input');
         const searchTerm = searchInput ? searchInput.value.trim() : '';
-        const titleEl = document.getElementById('category-title');
 
-        if (searchTerm === '') {
-            this.filteredProducts = [...this.allProducts];
-            if (titleEl && !Utils.getQueryParams().get('slug')) {
-                titleEl.textContent = 'Featured Recommendations';
-            }
-        } else {
+        if (searchTerm !== '') {
             this.filteredProducts = this.allProducts.filter(p => {
                 const name = p.name || p.Title || p.title || '';
                 const sku = p.sku || p.SKU || p.Id || p.id || '';
                 return this.fuzzyMatch(searchTerm, name) || this.fuzzyMatch(searchTerm, sku);
             });
-            if (titleEl) {
-                titleEl.textContent = `Search results for "${searchTerm}"`;
-            }
+        } else {
+            this.filteredProducts = [...this.allProducts];
         }
         this.render();
     },
@@ -106,7 +165,7 @@ const Category = {
         if (!container) return;
 
         if (pageProducts.length === 0) {
-            container.innerHTML = '<p class="text-center w-100 py-5 text-muted">No matching products found.</p>';
+            container.innerHTML = '<div class="col-12 text-center py-5 text-muted">No matching products found.</div>';
             const paginationContainer = document.getElementById('pagination-container');
             if (paginationContainer) paginationContainer.innerHTML = '';
             return;
@@ -119,18 +178,20 @@ const Category = {
             const productPrice = p.price || p.Price || p.SalePrice || 0;
 
             return `
-                <div class="product-card" data-sku="${productSku}">
-                    <div class="product-img-container product-clickable" data-sku="${productSku}" style="cursor: pointer;">
-                        <img src="${productImg}" alt="${productName}" onerror="this.src='404.webp'">
-                    </div>
-                    <div class="product-info">
-                        <h5 class="card-title product-clickable" data-sku="${productSku}" style="cursor: pointer;">${productName}</h5>
-                        <div class="product-meta">
-                            <span class="product-price">${Utils.formatCurrency ? Utils.formatCurrency(productPrice) : '₹' + productPrice}</span>
+                <div class="col">
+                    <div class="card h-100 shadow-sm product-card border-0">
+                        <div class="product-img-container product-clickable text-center p-3 bg-white rounded-top" data-sku="${productSku}" style="cursor: pointer; height: 180px; display: flex; align-items: center; justify-content: center;">
+                            <img src="${productImg}" alt="${productName}" class="img-fluid" style="max-height: 100%; object-fit: contain;" onerror="this.src='404.webp'">
                         </div>
-                        <button type="button" class="btn btn-sm btn-primary add-to-cart-btn mt-2" data-sku="${productSku}">
-                            <i class="fas fa-cart-plus"></i> Add to Cart
-                        </button>
+                        <div class="card-body d-flex flex-column product-info bg-light rounded-bottom">
+                            <h5 class="card-title fs-6 product-clickable text-dark text-truncate" title="${productName}" data-sku="${productSku}" style="cursor: pointer;">${productName}</h5>
+                            <div class="product-meta mt-auto mb-2">
+                                <span class="product-price fw-bold text-primary fs-5">${Utils.formatCurrency ? Utils.formatCurrency(productPrice) : '₹' + productPrice}</span>
+                            </div>
+                            <button type="button" class="btn btn-sm btn-primary add-to-cart-btn w-100" data-sku="${productSku}">
+                                <i class="fas fa-cart-plus me-1"></i> Add to Cart
+                            </button>
+                        </div>
                     </div>
                 </div>
             `;
@@ -142,26 +203,14 @@ const Category = {
 
     renderPagination() {
         let paginationContainer = document.getElementById('pagination-container');
-        
-        if (!paginationContainer) {
-            const productGrid = document.getElementById('product-grid');
-            if (productGrid) {
-                paginationContainer = document.createElement('div');
-                paginationContainer.id = 'pagination-container';
-                productGrid.parentNode.insertBefore(paginationContainer, productGrid.nextSibling);
-            } else {
-                return;
-            }
-        }
+        if (!paginationContainer) return;
 
         const totalPages = Math.ceil(this.filteredProducts.length / this.pageSize);
-
         if (totalPages <= 1) {
             paginationContainer.innerHTML = '';
             return;
         }
 
-        // Helper function to generate page number buttons intelligently
         const getPageNumbers = (current, total) => {
             const delta = 2;
             const range = [];
@@ -170,21 +219,14 @@ const Category = {
 
             range.push(1);
             for (let i = current - delta; i <= current + delta; i++) {
-                if (i < total && i > 1) {
-                    range.push(i);
-                }
+                if (i < total && i > 1) range.push(i);
             }
-            if (total > 1) {
-                range.push(total);
-            }
+            if (total > 1) range.push(total);
 
             for (let i of range) {
                 if (l) {
-                    if (i - l === 2) {
-                        rangeWithDots.push(l + 1);
-                    } else if (i - l !== 1) {
-                        rangeWithDots.push('...');
-                    }
+                    if (i - l === 2) rangeWithDots.push(l + 1);
+                    else if (i - l !== 1) rangeWithDots.push('...');
                 }
                 rangeWithDots.push(i);
                 l = i;
@@ -195,36 +237,24 @@ const Category = {
         const pages = getPageNumbers(this.currentPage, totalPages);
 
         let paginationHTML = `
-            <nav aria-label="Product Catalog Navigation">
-                <ul class="pagination justify-content-center my-4 shadow-sm">
+            <nav aria-label="Page navigation" class="mt-4">
+                <ul class="pagination justify-content-center shadow-sm">
                     <li class="page-item ${this.currentPage === 1 ? 'disabled' : ''}">
-                        <a class="page-link rounded-start-pill px-3" href="#" data-page="${this.currentPage - 1}">
-                            <i class="fas fa-chevron-left small me-1"></i> Prev
-                        </a>
+                        <a class="page-link" href="#" data-page="${this.currentPage - 1}">Prev</a>
                     </li>
         `;
 
         pages.forEach(page => {
             if (page === '...') {
-                paginationHTML += `
-                    <li class="page-item disabled d-none d-sm-inline-block">
-                        <span class="page-link border-0 bg-transparent text-muted px-2">...</span>
-                    </li>
-                `;
+                paginationHTML += `<li class="page-item disabled"><span class="page-link border-0 bg-transparent">...</span></li>`;
             } else {
-                paginationHTML += `
-                    <li class="page-item ${this.currentPage === page ? 'active' : ''}">
-                        <a class="page-link px-3" href="#" data-page="${page}">${page}</a>
-                    </li>
-                `;
+                paginationHTML += `<li class="page-item ${this.currentPage === page ? 'active' : ''}"><a class="page-link" href="#" data-page="${page}">${page}</a></li>`;
             }
         });
 
         paginationHTML += `
                     <li class="page-item ${this.currentPage === totalPages ? 'disabled' : ''}">
-                        <a class="page-link rounded-end-pill px-3" href="#" data-page="${this.currentPage + 1}">
-                            Next <i class="fas fa-chevron-right small ms-1"></i>
-                        </a>
+                        <a class="page-link" href="#" data-page="${this.currentPage + 1}">Next</a>
                     </li>
                 </ul>
             </nav>
@@ -232,7 +262,6 @@ const Category = {
 
         paginationContainer.innerHTML = paginationHTML;
 
-        // Bind click events to the pagination items
         paginationContainer.querySelectorAll('.page-link').forEach(link => {
             link.addEventListener('click', (e) => {
                 e.preventDefault();
@@ -266,13 +295,11 @@ const Category = {
                 const productData = this.allProducts.find(p => String(p.sku || p.SKU || p.Id || p.id) === String(sku));
 
                 if (!productData) {
-                    console.error('Product data not found for SKU:', sku);
                     this.showToast('Could not add product to cart.', 'error');
                     return;
                 }
 
                 const productName = productData.name || productData.Title || productData.title || productData.Name || 'Product';
-
                 const cartItem = {
                     sku: sku,
                     slug: productData.slug || productData.Slug || '',
@@ -290,14 +317,9 @@ const Category = {
                     cart = [];
                 }
 
-                const existingIndex = cart.findIndex(item => String(item.sku) === String(cartItem.sku) || (item.slug && item.slug === cartItem.slug));
-
+                const existingIndex = cart.findIndex(item => String(item.sku) === String(cartItem.sku));
                 if (existingIndex > -1) {
-                    const currentQty = Number(cart[existingIndex].quantity || cart[existingIndex].qty || 1);
-                    cart[existingIndex].quantity = currentQty + 1;
-                    if (cart[existingIndex].qty !== undefined) {
-                        cart[existingIndex].qty = cart[existingIndex].quantity;
-                    }
+                    cart[existingIndex].quantity = Number(cart[existingIndex].quantity || 1) + 1;
                 } else {
                     cart.push(cartItem);
                 }
@@ -307,13 +329,12 @@ const Category = {
 
                 const badge = document.getElementById('cart-counter');
                 if (badge) {
-                    const totalItems = cart.reduce((sum, item) => sum + (Number(item.quantity || item.qty) || 1), 0);
+                    const totalItems = cart.reduce((sum, item) => sum + Number(item.quantity || 1), 0);
                     badge.textContent = totalItems;
                     badge.style.display = totalItems > 0 ? 'inline-block' : 'none';
                 }
 
-                const message = `${productName} added to your cart!`;
-                this.showToast(message, 'success');
+                this.showToast(`${productName} added to your cart!`, 'success');
             });
         });
     },
@@ -340,24 +361,16 @@ const Category = {
 
         const toastEl = document.createElement('div');
         toastEl.className = `alert ${type === 'error' ? 'alert-danger' : 'alert-success'} shadow py-2 px-3 m-0 d-flex align-items-center justify-content-between`;
-        toastEl.style.cssText = 'pointer-events: auto; min-width: 280px; animation: fadeIn 0.3s ease-in-out; background-color: #198754; color: #fff; border-radius: 4px;';
-        if (type === 'error') {
-            toastEl.style.backgroundColor = '#dc3545';
-        }
+        toastEl.style.cssText = 'pointer-events: auto; min-width: 280px; background-color: #198754; color: #fff; border-radius: 4px;';
+        if (type === 'error') toastEl.style.backgroundColor = '#dc3545';
 
-        toastEl.innerHTML = `
-            <span>🌿 ${message}</span>
-            <a href="cart.html" class="ms-3 text-decoration-underline fw-bold text-white" style="white-space: nowrap;">View Cart</a>
-        `;
-
+        toastEl.innerHTML = `<span>🌿 ${message}</span><a href="cart.html" class="ms-3 text-decoration-underline fw-bold text-white">View Cart</a>`;
         toastContainer.appendChild(toastEl);
 
         setTimeout(() => {
             toastEl.style.opacity = '0';
             toastEl.style.transition = 'opacity 0.3s ease';
-            setTimeout(() => {
-                toastEl.remove();
-            }, 300);
+            setTimeout(() => toastEl.remove(), 300);
         }, 3500);
     }
 };

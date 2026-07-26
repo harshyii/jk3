@@ -4,7 +4,7 @@
     "discountType": "percentage",
     "discountValue": 20,
     "targetType": "brand",
-    "targetValue": "Nike, Puma, Drive ",
+    "targetValue": "Nike, Puma",
     "minimumSpend": 0,
     "maxDiscount": 50,
     "expiryDate": "2026-08-31",

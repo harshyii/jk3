@@ -66,48 +66,71 @@ const Checkout = {
             return sum + (price * qty);
         }, 0);
 
-        const effectiveSubtotal = Math.max(0, this.subtotal - this.appliedDiscount);
-        
-        if (effectiveSubtotal > 5000) {
+        // Standard Shipping Rule: Free if subtotal > 5000, otherwise ₹150 if items exist
+        if (this.subtotal > 5000) {
             this.shippingCost = 0;
         } else {
-            this.shippingCost = effectiveSubtotal > 0 ? 150 : 0;
+            this.shippingCost = this.subtotal > 0 ? 150 : 0;
         }
 
         this.updateFinalTotal();
     },
 
     updateFinalTotal() {
-    const paymentMethod = document.querySelector('input[name="paymentMethod"]:checked')?.value || 'COD';
-    let surcharge = 0;
+        const paymentMethod = document.querySelector('input[name="paymentMethod"]:checked')?.value || 'COD';
+        let surcharge = 0;
+        
+        const effectiveSubtotal = Math.max(0, this.subtotal - this.appliedDiscount);
+
+        if (paymentMethod === 'COD') {
+            surcharge = Math.round(effectiveSubtotal * 0.05);
+        }
+
+        // Final total accurately adds the exact calculated shipping cost
+        this.finalAmount = effectiveSubtotal + this.shippingCost + surcharge;
+
+        // Update Subtotal element (raw subtotal before discount)
+        const subtotalEl = document.getElementById('checkout-subtotal');
+        if (subtotalEl) {
+            subtotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(this.subtotal) : '₹' + this.subtotal;
+        }
+
+        // Update Discount Row visibility & amount
+        const discountRow = document.getElementById('discount-row');
+        const discountEl = document.getElementById('checkout-discount');
+        const couponCodeEl = document.getElementById('applied-coupon-code');
+        
+        if (discountRow && discountEl) {
+            if (this.appliedDiscount > 0) {
+                discountRow.style.display = 'flex';
+                discountEl.textContent = `-₹${this.appliedDiscount}`;
+                if (couponCodeEl) couponCodeEl.textContent = this.couponCode;
+            } else {
+                discountRow.style.display = 'none';
+            }
+        }
+
+        // Update Shipping element text dynamically so it matches the math
+        const shippingEl = document.getElementById('checkout-shipping');
+        if (shippingEl) {
+            if (this.shippingCost === 0) {
+                shippingEl.className = 'text-success fw-semibold';
+                shippingEl.textContent = 'FREE';
+            } else {
+                shippingEl.className = 'text-dark fw-semibold';
+                shippingEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(this.shippingCost) : '₹' + this.shippingCost;
+            }
+        }
+
+        // Update Final Total element
+        const finalTotalEl = document.getElementById('final-total');
+        if (finalTotalEl) {
+            finalTotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(this.finalAmount) : '₹' + this.finalAmount;
+        }
+
+        this.handlePaymentMethodChange(paymentMethod, surcharge);
+    },
     
-    // Ensure effective subtotal correctly subtracts the applied discount
-    const effectiveSubtotal = Math.max(0, this.subtotal - this.appliedDiscount);
-
-    if (paymentMethod === 'COD') {
-        surcharge = Math.round(effectiveSubtotal * 0.05);
-    }
-
-    this.finalAmount = effectiveSubtotal + this.shippingCost + surcharge;
-
-    // Update subtotal element to reflect the discounted amount (or show discount breakdown)
-    const subtotalEl = document.getElementById('checkout-subtotal');
-    if (subtotalEl) {
-        subtotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(effectiveSubtotal) : '₹' + effectiveSubtotal;
-    }
-
-    const shippingEl = document.getElementById('checkout-shipping');
-    if (shippingEl) {
-        shippingEl.textContent = this.shippingCost === 0 ? 'FREE' : (Utils.formatCurrency ? Utils.formatCurrency(this.shippingCost) : '₹' + this.shippingCost);
-    }
-
-    const finalTotalEl = document.getElementById('final-total');
-    if (finalTotalEl) {
-        finalTotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(this.finalAmount) : '₹' + this.finalAmount;
-    }
-
-    this.handlePaymentMethodChange(paymentMethod, surcharge);
-},
 
     handlePaymentMethodChange(method, codSurcharge) {
         let paymentExtraContainer = document.getElementById('payment-extra-container');

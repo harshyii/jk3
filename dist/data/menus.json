@@ -4,42 +4,42 @@
       "label": "Home",
       "url": "/",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 1
     },
     {
       "label": "Power Tools",
       "url": "/power-tools",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 2
     },
     {
       "label": "Hand Tools",
       "url": "/hand-tools",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 3
     },
     {
       "label": "Car Care Products",
       "url": "/car-care-products",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 4
     },
     {
       "label": "Solar Panels & Systems",
       "url": "/solar-panels-systems",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 5
     },
     {
       "label": "Brands",
       "url": "/brands",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 6
     },
     {
@@ -671,28 +671,28 @@
       "label": "About Us",
       "url": "/about-us",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 1
     },
     {
       "label": "Contact Us",
       "url": "/contact-us",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 2
     },
     {
       "label": "Privacy Policy",
       "url": "/privacy-policy",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 3
     },
     {
       "label": "Terms & Conditions",
       "url": "/terms-conditions",
       "target": "_self",
-      "parentItem": "(None)",
+      "parentItem": "",
       "sortOrder": 4
     }
   ]

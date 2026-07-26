@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "code": "SUMMER20",
+    "discountType": "percentage",
+    "discountValue": 0,
+    "minimumSpend": 0,
+    "usageLimit": null,
+    "startDate": "",
+    "expiryDate": "",
+    "active": true
+  },
+  {
+    "code": "FLAT50",
+    "discountType": "percentage",
+    "discountValue": 0,
+    "minimumSpend": 0,
+    "usageLimit": null,
+    "startDate": "",
+    "expiryDate": "",
+    "active": true
+  },
+  {
+    "code": "SHOE10",
+    "discountType": "percentage",
+    "discountValue": 0,
+    "minimumSpend": 0,
+    "usageLimit": null,
+    "startDate": "",
+    "expiryDate": "",
+    "active": true
+  }
+]

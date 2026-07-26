@@ -1,6 +1,11 @@
 {
-  "name": "utl",
+  "name": "UTL",
   "slug": "utl",
+  "logo": "https://www.upsinverter.com/wp-content/uploads/2020/10/BANNER1.png",
+  "featured": true,
+  "description": "Browse UTL solar inverters, batteries, UPS systems and rooftop solar products.",
+  "seoTitle": "UTL Solar Products | Haryana.Tools",
+  "metaDescription": "Find UTL solar inverters, batteries and power backup solutions.",
   "products": [
     {
       "sku": "LONG2",

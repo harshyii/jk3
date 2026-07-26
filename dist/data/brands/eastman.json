@@ -1,6 +1,11 @@
 {
   "name": "Eastman",
   "slug": "eastman",
+  "logo": "https://www.eastmanshop.com/cdn/shop/files/EASTMAN_LOGO_2_d03dc81a-227c-4cb6-a832-13cea09fe67b_1968x500.webp?v=1781506228",
+  "featured": true,
+  "description": "Explore Eastman power tools, hand tools, automotive tools, workshop equipment and industrial products available at Haryana.Tools.",
+  "seoTitle": "Eastman Tools & Equipment Online | Haryana.Tools",
+  "metaDescription": "Browse Eastman power tools, hand tools, workshop equipment and industrial tools with specifications and competitive pricing at Haryana.Tools.",
   "products": [
     {
       "sku": "2225B-24",

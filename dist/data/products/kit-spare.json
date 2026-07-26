@@ -5,7 +5,8 @@
   "ItemName": "Grease Bucket Spare Kit",
   "Slug": "grease-buckets-spare-kit",
   "Category": "hand-tools",
-  "Subcategory": "Hand Tool",
+  "Subcategory1": "Hand Tool",
+  "Subcategory2": "",
   "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/512tczGsfRL._SX522_.jpg",

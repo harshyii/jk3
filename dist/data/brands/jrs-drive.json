@@ -1,6 +1,11 @@
 {
   "name": "JRS Drive",
   "slug": "jrs-drive",
+  "logo": "https://jrsdrive.com/wp-content/uploads/2023/09/new-l.jpg",
+  "featured": false,
+  "description": "Discover JRS Drive industrial tools, accessories and workshop products available through Haryana.Tools.",
+  "seoTitle": "JRS Drive Tools Online | Haryana.Tools",
+  "metaDescription": "Find JRS Drive industrial tools, accessories and workshop products with specifications and buying guidance.",
   "products": [
     {
       "sku": "ECD10NK",

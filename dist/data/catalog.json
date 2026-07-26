@@ -12008,5 +12008,775 @@
     "price": 1000,
     "image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "productUrl": "https://www.haryana.tools/product.html?sku=CONS"
+  },
+  {
+    "sku": "PW-CS-185",
+    "slug": "7-circular-saw",
+    "name": "7\" CIRCULAR SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-185"
+  },
+  {
+    "sku": "PW-CS-186",
+    "slug": "7-circular-saw",
+    "name": "7\" CIRCULAR SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-186"
+  },
+  {
+    "sku": "PW-CS-300",
+    "slug": "12-circular-saw",
+    "name": "12\" CIRCULAR SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-300"
+  },
+  {
+    "sku": "PW-CS-350",
+    "slug": "14-circular-saw",
+    "name": "14\" CIRCULAR SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-350"
+  },
+  {
+    "sku": "PW-CM-614",
+    "slug": "cut-off-machine",
+    "name": "CUT OFF MACHINE",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CM-614"
+  },
+  {
+    "sku": "PW-CM-615",
+    "slug": "cut-off-machine",
+    "name": "CUT OFF MACHINE",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CM-615"
+  },
+  {
+    "sku": "PW-CD-12",
+    "slug": "12v-screw-driver",
+    "name": "12V SCREW DRIVER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CD-12"
+  },
+  {
+    "sku": "PW-CD-21",
+    "slug": "21v-screw-driver-metal-chuck-with-accessories",
+    "name": "21V SCREW DRIVER METAL CHUCK WITH\r\r\nACCESSORIES",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CD-21"
+  },
+  {
+    "sku": "PW-DK-21",
+    "slug": "21v-screw-driver-kit",
+    "name": "21V SCREW DRIVER KIT",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DK-21"
+  },
+  {
+    "sku": "PW-SG-550",
+    "slug": "paint-spryer",
+    "name": "PAINT SPRYER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-SG-550"
+  },
+  {
+    "sku": "PW-AG-1050",
+    "slug": "4-angle-grinder",
+    "name": "4\" ANGLE GRINDER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-AG-1050"
+  },
+  {
+    "sku": "PW-AG-1060",
+    "slug": "4-angle-grinder",
+    "name": "4\" ANGLE GRINDER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-AG-1060"
+  },
+  {
+    "sku": "PW-AG-150",
+    "slug": "5-angle-grinder",
+    "name": "5\" ANGLE GRINDER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-AG-150"
+  },
+  {
+    "sku": "PW-MC-125",
+    "slug": "5-marble-cutter",
+    "name": "5\" MARBLE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-125"
+  },
+  {
+    "sku": "PW-MC-125W",
+    "slug": "5-marble-cutter-wood-cutter",
+    "name": "5\" MARBLE CUTTER (WOOD CUTTER)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-125W"
+  },
+  {
+    "sku": "PW-MC-100",
+    "slug": "4-marble-cutter",
+    "name": "4\" MARBLE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-100"
+  },
+  {
+    "sku": "PW-MC-101",
+    "slug": "4-marble-cutter",
+    "name": "4\" MARBLE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-101"
+  },
+  {
+    "sku": "PW-MC-102",
+    "slug": "4-marble-cutter",
+    "name": "4\" MARBLE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-102"
+  },
+  {
+    "sku": "PW-MC-103",
+    "slug": "5-marble-cutter",
+    "name": "5\" MARBLE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-103"
+  },
+  {
+    "sku": "PW-MC-104",
+    "slug": "5-marble-cutter",
+    "name": "5\" MARBLE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MC-104"
+  },
+  {
+    "sku": "PW-WC-130",
+    "slug": "5-marble-cutter-with-big-attachment",
+    "name": "5\" MARBLE CUTTER WITH BIG\r\r\nATTACHMENT",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-WC-130"
+  },
+  {
+    "sku": "PW-VB-2400",
+    "slug": "electric-vibrator-with-3mtr-shaft-50mm",
+    "name": "ELECTRIC VIBRATOR\r\r\nWITH 3Mtr. SHAFT (50mm)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-VB-2400"
+  },
+  {
+    "sku": "PW-VB-2200",
+    "slug": "electric-vibrator-with-15mtr-shaft",
+    "name": "ELECTRIC VIBRATOR WITH\r\r\n1.5Mtr SHAFT",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-VB-2200"
+  },
+  {
+    "sku": "PW-VB-1650",
+    "slug": "electric-vibrator-with-15mtr-shaft-bmc-packing",
+    "name": "ELECTRIC VIBRATOR WITH 1.5Mtr SHAFT\r\r\nBMC PACKING",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-VB-1650"
+  },
+  {
+    "sku": "PW-TM-13",
+    "slug": "tile-paving-machine",
+    "name": "TILE PAVING MACHINE",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-TM-13"
+  },
+  {
+    "sku": "PW-MS-250",
+    "slug": "10-miter-saw",
+    "name": "10\" MITER SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MS-250"
+  },
+  {
+    "sku": "PW-MS-251",
+    "slug": "10-miter-saw",
+    "name": "10\" MITER SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MS-251"
+  },
+  {
+    "sku": "PW-MS-255",
+    "slug": "10-sliding-miter-saw",
+    "name": "10\" SLIDING MITER SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MS-255"
+  },
+  {
+    "sku": "PW-MS-300",
+    "slug": "12-miter-saw",
+    "name": "12\" MITER SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MS-300"
+  },
+  {
+    "sku": "PW-DS-1050",
+    "slug": "dry-wall-sander",
+    "name": "DRY WALL SANDER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DS-1050"
+  },
+  {
+    "sku": "PW-DS-1150",
+    "slug": "dry-wall-sander",
+    "name": "DRY WALL SANDER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DS-1150"
+  },
+  {
+    "sku": "PW-JS-710",
+    "slug": "jig-saw",
+    "name": "JIG SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-JS-710"
+  },
+  {
+    "sku": "PW-JS-850",
+    "slug": "jig-saw",
+    "name": "JIG SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-JS-850"
+  },
+  {
+    "sku": "PW-CC-1600",
+    "slug": "16-concrete-cutter",
+    "name": "16\" CONCRETE CUTTER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CC-1600"
+  },
+  {
+    "sku": "PW-DH-450",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-450"
+  },
+  {
+    "sku": "PW-DH-700",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-700"
+  },
+  {
+    "sku": "PW-DH-750",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-750"
+  },
+  {
+    "sku": "PW-DH-800",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-800"
+  },
+  {
+    "sku": "PW-DH-900",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-900"
+  },
+  {
+    "sku": "PW-DH-1850",
+    "slug": "demolition-hammer-3-26",
+    "name": "DEMOLITION HAMMER (3-26)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-1850"
+  },
+  {
+    "sku": "PW-DH-1900",
+    "slug": "demolition-hammer-3-26",
+    "name": "DEMOLITION HAMMER (3-26)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-1900"
+  },
+  {
+    "sku": "PW-DH-1100",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-1100"
+  },
+  {
+    "sku": "PW-DH-1150",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-1150"
+  },
+  {
+    "sku": "PW-DH-2300",
+    "slug": "demolition-hammer",
+    "name": "DEMOLITION HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DH-2300"
+  },
+  {
+    "sku": "PW-EB-40",
+    "slug": "electric-blower",
+    "name": "ELECTRIC BLOWER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-EB-40"
+  },
+  {
+    "sku": "PW-EB-60",
+    "slug": "electric-blower-with-attachments",
+    "name": "ELECTRIC BLOWER WITH ATTACHMENTS",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-EB-60"
+  },
+  {
+    "sku": "PW-EB-80",
+    "slug": "electric-blower",
+    "name": "ELECTRIC BLOWER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-EB-80"
+  },
+  {
+    "sku": "PW-WS-150",
+    "slug": "6-electric-sander",
+    "name": "6\" ELECTRIC SANDER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-WS-150"
+  },
+  {
+    "sku": "PW-PM-1200",
+    "slug": "mixer-drill-variable-speed",
+    "name": "MIXER DRILL (VARIABLE SPEED)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-PM-1200"
+  },
+  {
+    "sku": "PW-CS-6518",
+    "slug": "petrol-chain-saw",
+    "name": "PETROL CHAIN SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-6518"
+  },
+  {
+    "sku": "PW-CS-6519",
+    "slug": "petrol-chain-saw-metal-starter",
+    "name": "PETROL CHAIN SAW (METAL STARTER)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-6519"
+  },
+  {
+    "sku": "PW-CS-6818",
+    "slug": "petrol-chain-saw",
+    "name": "PETROL CHAIN SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-6818"
+  },
+  {
+    "sku": "PW-CS-6822",
+    "slug": "petrol-chain-saw",
+    "name": "PETROL CHAIN SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-6822"
+  },
+  {
+    "sku": "PW-CS-7522",
+    "slug": "petrol-chain-saw",
+    "name": "PETROL CHAIN SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-7522"
+  },
+  {
+    "sku": "PW-CS-8222",
+    "slug": "petrol-chain-saw",
+    "name": "PETROL CHAIN SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-8222"
+  },
+  {
+    "sku": "PW-CS-5016",
+    "slug": "electric-chain-saw",
+    "name": "ELECTRIC CHAIN SAW",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CS-5016"
+  },
+  {
+    "sku": "PW-ER-12",
+    "slug": "electric-wrench",
+    "name": "ELECTRIC WRENCH",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-ER-12"
+  },
+  {
+    "sku": "PW-BS-2S",
+    "slug": "brush-cutter-2-stroke",
+    "name": "BRUSH CUTTER (2 STROKE)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-BS-2S"
+  },
+  {
+    "sku": "PW-BS-4S",
+    "slug": "brush-cutter-4-stroke",
+    "name": "BRUSH CUTTER (4 STROKE)",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-BS-4S"
+  },
+  {
+    "sku": "PW-RH-2200",
+    "slug": "electric-router-12mm",
+    "name": "ELECTRIC ROUTER 12MM",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-RH-2200"
+  },
+  {
+    "sku": "PW-WM-250",
+    "slug": "welding-machine",
+    "name": "WELDING MACHINE",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-WM-250"
+  },
+  {
+    "sku": "PW-DM-1200",
+    "slug": "13mm-drill-machine",
+    "name": "13MM DRILL MACHINE",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DM-1200"
+  },
+  {
+    "sku": "PW-DM-1300",
+    "slug": "13mm-drill-machine-with-metal-gear-box",
+    "name": "13MM DRILL MACHINE WITH METAL GEAR\r\r\nBOX",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-DM-1300"
+  },
+  {
+    "sku": "PW-RH-3000",
+    "slug": "28mm-rotary-hammer",
+    "name": "28mm ROTARY HAMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-RH-3000"
+  },
+  {
+    "sku": "PW-CD-250",
+    "slug": "core-drill-machine",
+    "name": "CORE DRILL MACHINE",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CD-250"
+  },
+  {
+    "sku": "PW-MD-1750",
+    "slug": "magnatic-drill",
+    "name": "MAGNATIC DRILL",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-MD-1750"
+  },
+  {
+    "sku": "PW-TC-600",
+    "slug": "2-manual-tile-cutter-with-laser-light",
+    "name": "2' MANUAL TILE CUTTER WITH LASER\r\r\nLIGHT",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-TC-600"
+  },
+  {
+    "sku": "PW-TC-1200",
+    "slug": "4-manual-tile-cutter-with-laser-light",
+    "name": "4' MANUAL TILE CUTTER WITH LASER\r\r\nLIGHT",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-TC-1200"
+  },
+  {
+    "sku": "PW-EA-5000",
+    "slug": "earth-auger",
+    "name": "EARTH AUGER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-EA-5000"
+  },
+  {
+    "sku": "PW-EP-1386",
+    "slug": "electric-planer",
+    "name": "ELECTRIC PLANER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-EP-1386"
+  },
+  {
+    "sku": "PW-EP-1387",
+    "slug": "electric-planer",
+    "name": "ELECTRIC PLANER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-EP-1387"
+  },
+  {
+    "sku": "PW-AS-16",
+    "slug": "agriculture-spryer-16l",
+    "name": "AGRICULTURE SPRYER 16L",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-AS-16"
+  },
+  {
+    "sku": "PW-AS-20",
+    "slug": "agriculture-spryer-20l",
+    "name": "AGRICULTURE SPRYER 20L",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-AS-20"
+  },
+  {
+    "sku": "PW-ST-1400",
+    "slug": "ship-trimmer",
+    "name": "SHIP TRIMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-ST-1400"
+  },
+  {
+    "sku": "PW-HG-2200",
+    "slug": "heat-gun",
+    "name": "HEAT GUN",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-HG-2200"
+  },
+  {
+    "sku": "PW-TM-850",
+    "slug": "trimmer",
+    "name": "TRIMMER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-TM-850"
+  },
+  {
+    "sku": "PW-CW-2500",
+    "slug": "pressure-washer",
+    "name": "PRESSURE WASHER",
+    "brand": "",
+    "category": "",
+    "price": 0,
+    "image": "",
+    "productUrl": "https://www.haryana.tools/product.html?sku=PW-CW-2500"
   }
 ]

@@ -4,6 +4,7 @@
   "Author": "JK Enterprises",
   "Date": "2026-07-24",
   "Category": "Income Tax",
+  "Subcategory": "Business Tax",
   "Tags": [
     "business itr",
     "msme"
@@ -11,7 +12,7 @@
   "MarkdownFile": "itr-for-small-business.md",
   "FeaturedImage": "https://images.unsplash.com/photo-1521791136064-7986c2920216?w=1200",
   "RelatedProducts": [],
-  "SEOTitle": "Small Business ITR Guide",
-  "MetaDescription": "Small Business ITR Guide | Learn how small businesses can prepare financial records, claim deductions, and file Income Tax Returns accurately while remaining tax compliant.",
+  "SEOTitle": "ITR Filing Guide for Small Businesses and MSMEs",
+  "MetaDescription": "Everything MSMEs should know before filing business income tax returns.",
   "CanonicalURL": "https://www.haryana.tools/blog.html?id=itr-for-small-business"
 }

@@ -1,6 +1,11 @@
 {
-  "name": "luminous",
+  "name": "Luminous",
   "slug": "luminous",
+  "logo": "https://lumprodsta.blob.core.windows.net/prodcontainer/assets/icons/LuminousLogoBlue.webp",
+  "featured": true,
+  "description": "Explore Luminous inverters, batteries, UPS systems and solar products.",
+  "seoTitle": "Luminous Inverters & Solar | Haryana.Tools",
+  "metaDescription": "Shop Luminous inverters, batteries, UPS and solar solutions.",
   "products": [
     {
       "sku": "LONG2",

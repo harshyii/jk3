@@ -1,48 +1,95 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brand Catalog - Haryana Tools</title>
     
-    <title>Brand Products - StoreName</title>
+    <!-- Bootstrap CSS -->
     <link href="src/css/bootstrap.min.css" rel="stylesheet">
-    <div id="head-placeholder"></div>
+    <!-- Bootstrap Icons -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css" rel="stylesheet">
+    
+    <!-- Custom Layout & Pagination Styles -->
+    <style>
+        .catalog-layout {
+            display: block;
+            margin-top: 1.5rem;
+            margin-bottom: 3rem;
+        }
+        #brand-products {
+            width: 100%;
+        }
+        /* Strict card image containment */
+        .card.product-card, .card {
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            border: 1px solid #e2e8f0;
+            border-radius: 8px;
+            transition: transform 0.2s ease, box-shadow 0.2s ease;
+        }
+        .card.product-card:hover {
+            transform: translateY(-3px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05);
+        }
+        .product-img-container {
+            width: 100%;
+            height: 150px;
+            background: #f8fafc;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+            padding: 10px;
+            border-top-left-radius: 8px;
+            border-top-right-radius: 8px;
+        }
+        .product-img-container img {
+            max-width: 100%;
+            max-height: 130px;
+            object-fit: contain;
+        }
+        /* Pagination custom wrapper for center alignment */
+        .pagination-container {
+            display: flex;
+            justify-content: center;
+        }
+    </style>
 </head>
 <body>
 
-    <!-- Header / Navbar -->
-     <div id="header-placeholder"></div>
+    <!-- Header / Navbar Placeholder -->
+    <div id="header-placeholder"></div>
     
-    
-    <!-- Mega Menu -->
-    <!-- #include virtual="partials/mega-menu.html" -->
-    
-    <!-- Breadcrumb -->
+    <!-- Breadcrumb Placeholder -->
     <div id="breadcrumb-placeholder"></div>
 
-    <main id="main-content" class="catalog-layout">
-        <!-- Sidebar Filters -->
-        <!-- #include virtual="partials/filters.html" -->
-
+    <main id="main-content" class="container catalog-layout">
         <section id="brand-products">
-            <h1 id="brand-title">Brand Name</h1>
+            <div class="d-flex justify-content-between align-items-center mb-4 pb-2 border-bottom">
+                <h1 id="brand-title" class="h3 fw-bold text-dark mb-0">Products</h1>
+                <span id="product-count-badge" class="badge bg-secondary rounded-pill px-3 py-2 fw-semibold">0 Items</span>
+            </div>
             
-            <!-- Product Grid: Target for brand.js -->
-            <div id="product-grid" class="grid-container">
-                <!-- Product cards injected here -->
+            <!-- Product Grid -->
+            <div id="brand-product-grid" class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-3">
+                <!-- Cards injected dynamically here -->
             </div>
 
-            <!-- Pagination -->
-            <!-- #include virtual="partials/pagination.html" -->
+            <!-- Pagination Placeholder -->
+            <div id="pagination-placeholder" class="mt-4 pagination-container">
+                <!-- Bootstrap Pagination will be injected here via brand.js -->
+            </div>
         </section>
     </main>
- 
-    <!-- Footer -->
+   
+    <!-- Footer Placeholder -->
     <div id="footer-placeholder"></div>
 
-    <!-- Toasts and Modals -->
-  
-
     <!-- Script Integration -->
-    <script src="src/js/brand.js" type="module"></script>
-    <script src="src/js/layout.js" type="module"></script>
+    <script src="src/js/brand.js?v=20260726" type="module"></script>
+    <script src="src/js/layout.js?v=20260726" type="module"></script>
 </body>
 </html>

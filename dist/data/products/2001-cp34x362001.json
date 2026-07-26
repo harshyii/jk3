@@ -5,7 +5,8 @@
   "ItemName": "DOE CRV M/F C/P:34X362001 2001",
   "Slug": "doe-crv-m-f-c-p34x362001-2001",
   "Category": "hand-tools",
-  "Subcategory": "Hand Tool",
+  "Subcategory1": "Hand Tool",
+  "Subcategory2": "",
   "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",

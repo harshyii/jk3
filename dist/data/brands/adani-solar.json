@@ -1,6 +1,11 @@
 {
   "name": "Adani Solar",
   "slug": "adani-solar",
+  "logo": "https://www.adanisolar.com/-/media/project/adanisolar/common/logosolar.png",
+  "featured": true,
+  "description": "Discover Adani Solar photovoltaic modules and solar energy products.",
+  "seoTitle": "Adani Solar Panels | Haryana.Tools",
+  "metaDescription": "Browse Adani Solar panels and renewable energy solutions online.",
   "products": [
     {
       "sku": "LONG2",

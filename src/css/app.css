@@ -361,3 +361,24 @@ main.container{
 }
 
 
+/* Force strict image sizing on product cards */
+.grid-container .card img, 
+.grid-container .product-card img,
+.product-img-container img, 
+.product-img-wrapper img {
+    width: auto !important;
+    max-width: 100% !important;
+    height: 140px !important; /* Makes images compact and neat */
+    object-fit: contain !important;
+    display: block !important;
+    margin: 0 auto !important;
+}
+
+/* Ensure the product card height is uniform and compact */
+.grid-container .card, 
+.grid-container .product-card {
+    height: 280px !important;
+    display: flex !important;
+    flex-direction: column !important;
+    justify-content: space-between !important;
+}

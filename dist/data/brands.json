@@ -1,51 +1,583 @@
 [
   {
-    "name": "JRS Drive",
-    "slug": "jrs-drive",
-    "count": 178,
-    "image": "https://m.media-amazon.com/images/I/516vXNNvCCL._SL1000_.jpg",
-    "featured": false
-  },
-  {
     "name": "Eastman",
     "slug": "eastman",
     "count": 979,
-    "image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949336",
+    "image": "https://www.eastmanshop.com/cdn/shop/files/EASTMAN_LOGO_2_d03dc81a-227c-4cb6-a832-13cea09fe67b_1968x500.webp?v=1781506228",
+    "featured": true
+  },
+  {
+    "name": "JRS Drive",
+    "slug": "jrs-drive",
+    "count": 178,
+    "image": "https://jrsdrive.com/wp-content/uploads/2023/09/new-l.jpg",
+    "featured": false
+  },
+  {
+    "name": "INGCO",
+    "slug": "ingco",
+    "count": 0,
+    "image": "https://www.ingco.com/dist/static/logo.60e47430.png",
+    "featured": true
+  },
+  {
+    "name": "Tata Solar",
+    "slug": "tata-solar",
+    "count": 3,
+    "image": "https://www.tatapowersolar.com/wp-content/themes/tpsolar/assets/images/tata-power-solar-logo.jpg",
+    "featured": true
+  },
+  {
+    "name": "Camron Pro",
+    "slug": "camron-pro",
+    "count": 0,
+    "image": "https://static.wixstatic.com/media/e97088_d0c8e8ddda36461cace1e6ccadfc8b7f~mv2.jpg/v1/fill/w_374,h_110,al_c,q_80,usm_0.66_1.00_0.01,enc_avif,quality_auto/Camron%20Logo_edited.jpg",
+    "featured": false
+  },
+  {
+    "name": "TORQUE MASTER",
+    "slug": "torque-master",
+    "count": 0,
+    "image": "https://www.torquemaster.in/images/logo.jpg",
+    "featured": false
+  },
+  {
+    "name": "Taparia",
+    "slug": "taparia",
+    "count": 0,
+    "image": "https://www.tapariatools.com/images/logo_demo.png",
+    "featured": true
+  },
+  {
+    "name": "STANLEY",
+    "slug": "stanley",
+    "count": 0,
+    "image": "https://www.stanleytools.com/sites/g/files/xnuzat941/files/stanley%402x.png",
+    "featured": true
+  },
+  {
+    "name": "Carbiforce",
+    "slug": "carbiforce",
+    "count": 0,
+    "image": "https://carbiforce.com/_next/image?url=%2FCarbiforce%20-%20Logo%20White.png&w=640&q=75",
+    "featured": false
+  },
+  {
+    "name": "Delta UPS",
+    "slug": "delta-ups",
+    "count": 0,
+    "image": "https://deltaelectronicsindia.com/images/logo.svg",
+    "featured": false
+  },
+  {
+    "name": "powertuff",
+    "slug": "powertuff",
+    "count": 0,
+    "image": "https://blr1.vultrobjects.com/images/trademark/6750521/imageshrine/b573bdf40fcdf3d2a780325f401d59c1.jpg",
+    "featured": false
+  },
+  {
+    "name": "OMXE",
+    "slug": "omxe",
+    "count": 0,
+    "image": "https://cdn.moglix.com/p/wRFsFYPvSIT9Z-xxlarge.jpg",
+    "featured": false
+  },
+  {
+    "name": "MultiTec",
+    "slug": "multitec",
+    "count": 0,
+    "image": "https://www.multitec.in/images/logo@2x.png",
+    "featured": false
+  },
+  {
+    "name": "Metaldur",
+    "slug": "metaldur",
+    "count": 0,
+    "image": "https://metaldur.in/assets/images/metaldur-white.png",
+    "featured": false
+  },
+  {
+    "name": "MAC MASTER",
+    "slug": "mac-master",
+    "count": 0,
+    "image": "https://images1.mcmaster.com/init/gfx/MastheadLogo.svg?ver=1783591692",
+    "featured": false
+  },
+  {
+    "name": "9JackTools",
+    "slug": "9jacktools",
+    "count": 0,
+    "image": "https://5.imimg.com/data5/ANDROID/Default/2022/12/DB/NL/LN/159455181/product-jpeg-500x500.jpg",
+    "featured": false
+  },
+  {
+    "name": "BOSCH",
+    "slug": "bosch",
+    "count": 0,
+    "image": "https://images.seeklogo.com/logo-png/2/2/bosch-logo-png_seeklogo-21523.png",
+    "featured": true
+  },
+  {
+    "name": "Xcel",
+    "slug": "xcel",
+    "count": 0,
+    "image": "(None)",
+    "featured": false
+  },
+  {
+    "name": "Xtra Power",
+    "slug": "xtra-power",
+    "count": 0,
+    "image": "https://xtrapowertools.com/site-img/logo/header-logo.png",
+    "featured": true
+  },
+  {
+    "name": "KENBROOK",
+    "slug": "kenbrook",
+    "count": 0,
+    "image": "https://kenbrooksolar.com/wp-content/uploads/Kenbrook-Solar-Registered-Logo.png",
+    "featured": false
+  },
+  {
+    "name": "KINEE SOLAR",
+    "slug": "kinee-solar",
+    "count": 0,
+    "image": "https://www.kinee.net/uploads/46681/logo1.png",
     "featured": false
   },
   {
     "name": "Loom Solar",
     "slug": "loom-solar",
     "count": 12,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "featured": false
-  },
-  {
-    "name": "luminous",
-    "slug": "luminous",
-    "count": 3,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "featured": false
-  },
-  {
-    "name": "utl",
-    "slug": "utl",
-    "count": 3,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "featured": false
-  },
-  {
-    "name": "Tata Solar",
-    "slug": "tata-solar",
-    "count": 3,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-    "featured": false
+    "image": "https://www.loomsolar.com/cdn/shop/files/Loom_logo_f50a89a5-291b-4c15-9a87-303dc061554e_140x@2x.png?v=1752208604",
+    "featured": true
   },
   {
     "name": "Adani Solar",
     "slug": "adani-solar",
     "count": 3,
-    "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "image": "https://www.adanisolar.com/-/media/project/adanisolar/common/logosolar.png",
+    "featured": true
+  },
+  {
+    "name": "Luminous",
+    "slug": "luminous",
+    "count": 3,
+    "image": "https://lumprodsta.blob.core.windows.net/prodcontainer/assets/icons/LuminousLogoBlue.webp",
+    "featured": true
+  },
+  {
+    "name": "UTL",
+    "slug": "utl",
+    "count": 3,
+    "image": "https://www.upsinverter.com/wp-content/uploads/2020/10/BANNER1.png",
+    "featured": true
+  },
+  {
+    "name": "Fujiyama",
+    "slug": "fujiyama",
+    "count": 0,
+    "image": "https://www.fujiyamautlsolar.com/wp-content/uploads/2026/07/fujinew-1536x487.png",
+    "featured": true
+  },
+  {
+    "name": "ukava",
+    "slug": "ukava",
+    "count": 0,
+    "image": "(None)",
+    "featured": false
+  },
+  {
+    "name": "Shakti",
+    "slug": "shakti",
+    "count": 0,
+    "image": "https://shaktipumps.com/wp-content/uploads/2025/03/logo-shakti-pumps.webp",
+    "featured": false
+  },
+  {
+    "name": "Formula 1",
+    "slug": "formula-1",
+    "count": 0,
+    "image": "https://formula1wax.com/cdn/shop/files/Formula_1_Logo_simplified.png?v=1711723097&width=270",
+    "featured": true
+  },
+  {
+    "name": "3M Auto",
+    "slug": "3m-auto",
+    "count": 0,
+    "image": "https://www.3mindia.in/3m_theme_assets/themes/3MTheme/assets/images/unicorn/Logo_mobile.png",
+    "featured": true
+  },
+  {
+    "name": "Meguiar's",
+    "slug": "meguiars",
+    "count": 0,
+    "image": "https://www.meguiars.com/themes/custom/meg/logo.png",
+    "featured": true
+  },
+  {
+    "name": "Turtle Wax",
+    "slug": "turtle-wax",
+    "count": 0,
+    "image": "https://turtlewax.in/cdn/shop/files/turtle-wax-logo_6ec84b4e-6cde-4eb5-8e63-9054c95af401_png.png?v=1699528518&width=135",
+    "featured": true
+  },
+  {
+    "name": "Makita",
+    "slug": "makita",
+    "count": 0,
+    "image": "https://makita.in/wp-content/themes/Makita/img/logo.jpg",
+    "featured": true
+  },
+  {
+    "name": "DeWalt",
+    "slug": "dewalt",
+    "count": 0,
+    "image": "https://www.dewalt.com/_next/image?url=https%3A%2F%2Fbynder.sbdinc.com%2Ftransform%2F1d28105f-0bcc-4c55-816c-bbb190fbdf02%2FDW_Y-ON-B_LMB1%3Fio%3Dtransform%253Afit%252Cwidth%253A256%26format%3Dwebp%26quality%3D75&w=256&q=75",
+    "featured": true
+  },
+  {
+    "name": "Hilti",
+    "slug": "hilti",
+    "count": 0,
+    "image": "https://www.hilti.in/static/ui/assets/images/hilti-logo.svg",
+    "featured": false
+  },
+  {
+    "name": "HiKOKI",
+    "slug": "hikoki",
+    "count": 0,
+    "image": "https://hikoki-powertools.in/common/images/common/logo/logo.png",
+    "featured": false
+  },
+  {
+    "name": "Black + Decker",
+    "slug": "black-decker",
+    "count": 0,
+    "image": "https://www.blackanddecker.com/cdn/shop/t/182/assets/Logo-Grey.svg?v=146770065678055879911727771188",
+    "featured": true
+  },
+  {
+    "name": "JK Files & Engineering",
+    "slug": "jk-files",
+    "count": 0,
+    "image": "https://jksuperdrive.com/wp-content/uploads/2021/06/JK-Maini-Logo-Updated.png",
+    "featured": false
+  },
+  {
+    "name": "KPT Industries",
+    "slug": "kpt-industries",
+    "count": 0,
+    "image": "https://www.kpt.co.in/logo-full.svg",
+    "featured": false
+  },
+  {
+    "name": "Endico",
+    "slug": "endico",
+    "count": 0,
+    "image": "https://www.endicopowertools.com/public/img/logo.png",
+    "featured": false
+  },
+  {
+    "name": "Ralliwolf",
+    "slug": "ralliwolf",
+    "count": 0,
+    "image": "https://ralliwolf.com/wp-content/themes/ralliwolf/images/logo.png",
+    "featured": false
+  },
+  {
+    "name": "Waaree Solar",
+    "slug": "waaree-solar",
+    "count": 0,
+    "image": "https://www.waaree.com/_next/image/?url=%2Fupload%2Fmedia%2Fimage_1_1_1749036191.png&w=256&q=85",
+    "featured": true
+  },
+  {
+    "name": "Vikram Solar",
+    "slug": "vikram-solar",
+    "count": 0,
+    "image": "https://www.vikramsolar.com/wp-content/uploads/2022/04/cropped-logo-1.png.webp",
+    "featured": true
+  },
+  {
+    "name": "ReNew Power",
+    "slug": "renew-power",
+    "count": 0,
+    "image": "https://dg4e57nn4fnta.cloudfront.net/logos/ReNew_White-nospace.svg",
+    "featured": false
+  },
+  {
+    "name": "Panasonic Solar",
+    "slug": "panasonic-solar",
+    "count": 0,
+    "image": "https://d32zxht0g2dn3w.cloudfront.net/s3fs-public/2023-12/logo%201.png",
+    "featured": false
+  },
+  {
+    "name": "Exide Solar",
+    "slug": "exide-solar",
+    "count": 0,
+    "image": "https://docs.exideindustries.com/images/logo.png",
+    "featured": true
+  },
+  {
+    "name": "Amaron Solar",
+    "slug": "amaron-solar",
+    "count": 0,
+    "image": "https://amaron-prod-images.s3.ap-south-1.amazonaws.com/s3fs-public/Amaron_Logo_0.jpg",
+    "featured": false
+  },
+  {
+    "name": "Milwaukee",
+    "slug": "milwaukee",
+    "count": 0,
+    "image": "https://vectorseek.com/wp-content/uploads/2023/04/Milwaukee-Tool-Logo-Vector.jpg",
+    "featured": true
+  },
+  {
+    "name": "Dongcheng",
+    "slug": "dongcheng",
+    "count": 0,
+    "image": "https://www.dongchengtool.com/_nuxt/img/logo.c0f8da1.png",
+    "featured": true
+  },
+  {
+    "name": "DCA",
+    "slug": "dca",
+    "count": 0,
+    "image": "https://www.dcatools.com/_nuxt/img/logo.3519305.png",
+    "featured": false
+  },
+  {
+    "name": "Festool",
+    "slug": "festool",
+    "count": 0,
+    "image": "https://assets.cdn.festool.io/festool-logo.min.svg",
+    "featured": false
+  },
+  {
+    "name": "Dremel",
+    "slug": "dremel",
+    "count": 0,
+    "image": "https://www.dremel.com/images/dremel_w340-png--16fe15ef3de449c0a6662896569f4483.png?imgWidth=340&imgHeight=111&scale=1",
+    "featured": false
+  },
+  {
+    "name": "Groz",
+    "slug": "groz",
+    "count": 0,
+    "image": "https://groz-tools.com/media/logo/stores/2/logo.png",
+    "featured": true
+  },
+  {
+    "name": "Freemans",
+    "slug": "freemans",
+    "count": 0,
+    "image": "https://www.freemansgroup.com/wp-content/uploads/2026/04/FREEMANS-LOGO-28th-april-1.jpg",
+    "featured": false
+  },
+  {
+    "name": "CUMI",
+    "slug": "cumi",
+    "count": 0,
+    "image": "https://www.cumi-murugappa.com/abrasives/wp-content/themes/cumi/images/logo.png",
+    "featured": true
+  },
+  {
+    "name": "WaveX",
+    "slug": "wavex",
+    "count": 0,
+    "image": "https://wavex.in/cdn/shop/files/wavex_auto_care_logo.png?format=webp&height=331&v=1774253426",
+    "featured": true
+  },
+  {
+    "name": "Sonax",
+    "slug": "sonax",
+    "count": 0,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.Cb3xoLYLZWPahEtUenm6OAHaCo?r=0&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "featured": true
+  },
+  {
+    "name": "Chemical Guys",
+    "slug": "chemical-guys",
+    "count": 0,
+    "image": "https://www.chemicalguys.com/cdn/shop/files/chemical-guys-logo.svg?v=1682352461&width=352",
+    "featured": false
+  },
+  {
+    "name": "Waxpol",
+    "slug": "waxpol",
+    "count": 0,
+    "image": "https://www.waxpol.com/images/logo.jpg",
+    "featured": false
+  },
+  {
+    "name": "Mothers",
+    "slug": "mothers",
+    "count": 0,
+    "image": "https://cdn.shopify.com/s/files/1/0268/2352/4429/t/12/assets/33ebad748be1--img-logo-mothers-classic.png?v=1579901803",
+    "featured": false
+  },
+  {
+    "name": "ShineXpro",
+    "slug": "shinexpro",
+    "count": 0,
+    "image": "https://shinexpro.in/cdn/shop/files/SXP_Logo_3png_file_180x.png?v=1619420596",
+    "featured": false
+  },
+  {
+    "name": "Goldi Solar",
+    "slug": "goldi-solar",
+    "count": 0,
+    "image": "https://goldisolar.com/wp-content/uploads/2022/04/Goldi-Solar-Logo_white.svg",
+    "featured": true
+  },
+  {
+    "name": "Premier Energies",
+    "slug": "premier-energies",
+    "count": 0,
+    "image": "https://www.premierenergies.com/static/media/premier-energies.b1bb2f7bbecd36942cfa.png",
+    "featured": false
+  },
+  {
+    "name": "Microtek",
+    "slug": "microtek",
+    "count": 0,
+    "image": "https://www.microtek.in/img/logo.svg",
+    "featured": true
+  },
+  {
+    "name": "Havells",
+    "slug": "havells",
+    "count": 0,
+    "image": "https://havells.com/media/logo/stores/1/Havells_Logo.svg",
+    "featured": true
+  },
+  {
+    "name": "Servotech",
+    "slug": "servotech",
+    "count": 0,
+    "image": "https://www.servotech.in/_next/image?url=https%3A%2F%2Fwww.servotech.in%2Fblog%2Fwp-content%2Fuploads%2F2023%2F04%2Flogo.png&w=256&q=75",
+    "featured": false
+  },
+  {
+    "name": "Su-Kam",
+    "slug": "su-kam",
+    "count": 0,
+    "image": "https://www.su-kam.com/wp-content/uploads/2024/06/Untitled-design.png",
+    "featured": false
+  },
+  {
+    "name": "Ryobi",
+    "slug": "ryobi",
+    "count": 0,
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Ryobi_company_logo.svg/250px-Ryobi_company_logo.svg.png",
+    "featured": true
+  },
+  {
+    "name": "Krost",
+    "slug": "krost",
+    "count": 0,
+    "image": "https://atozshop.co.in/wp-content/uploads/2026/06/LOGO-01-755x218.webp",
+    "featured": false
+  },
+  {
+    "name": "Fischer",
+    "slug": "fischer",
+    "count": 0,
+    "image": "https://media.fischer.group/v7/_media-prod_/national/samples/logos/logo-footer.png?h=30&func=bound",
+    "featured": false
+  },
+  {
+    "name": "Fein",
+    "slug": "fein",
+    "count": 0,
+    "image": "https://fein.com/_assets/5b177ecb5a6853f1f7888e098b205f4e/Images/main/layout/logo.svg",
+    "featured": false
+  },
+  {
+    "name": "Atlas Copco",
+    "slug": "atlas-copco",
+    "count": 0,
+    "image": "https://www.atlascopco.com/etc.clientlibs/settings/wcm/designs/accommons/design-system/clientlib-assets/resources/icons/logo.svg",
+    "featured": false
+  },
+  {
+    "name": "Saatvik Green Energy",
+    "slug": "saatvik-solar",
+    "count": 0,
+    "image": "https://saatvikgroup.com/wp-content/uploads/2026/06/web-banner-02-3-scaled.png",
+    "featured": false
+  },
+  {
+    "name": "RenewSys",
+    "slug": "renewsys",
+    "count": 0,
+    "image": "f7d549_792ca485cfa042429d37c4a6ba3b2a29~mv2_d_3004_1496_s_2.png (185×80) (wixstatic.com)",
+    "featured": false
+  },
+  {
+    "name": "Patanjali Solar",
+    "slug": "patanjali-solar",
+    "count": 0,
+    "image": "https://kenbrooksolar.com/wp-content/uploads/Patanjali-Solar-Panels-System-Inverter-Pumps-All-Products-Price-List.jpg",
+    "featured": false
+  },
+  {
+    "name": "SKIL",
+    "slug": "skil",
+    "count": 0,
+    "image": "https://www.skil.com/cdn/shop/files/skil-logo.svg?v=1750635650&width=150",
+    "featured": true
+  },
+  {
+    "name": "Metabo",
+    "slug": "metabo",
+    "count": 0,
+    "image": "https://be.prod.metabo.com/Global/Metabo-Logo/Metabo-Logo-2_green-on-transparent/Metabo-Logo-2_C_green-on-transparent_no-claim_no-copyright.png",
+    "featured": false
+  },
+  {
+    "name": "Stihl",
+    "slug": "stihl",
+    "count": 0,
+    "image": "https://www.stihl.in/content/experience-fragments/stihl/in/en/main_navigation/master/_jcr_content/root/mainnav/logo.coreimg.svg/1686828280355/stihl-logo.svg",
+    "featured": true
+  },
+  {
+    "name": "Echo",
+    "slug": "echo",
+    "count": 0,
+    "image": "https://www.echo-india.com/_nuxt/img/c6d89ae.svg",
+    "featured": false
+  },
+  {
+    "name": "Eibenstock",
+    "slug": "eibenstock",
+    "count": 0,
+    "image": "https://www.eibenstock.com/templates/eibenstock-2023/img/logo.png",
+    "featured": false
+  },
+  {
+    "name": "Starrett",
+    "slug": "starrett",
+    "count": 0,
+    "image": "https://www.starrett.com/images/default-source/logos/starrett-logo-red.png?sfvrsn=1f2ac5db_3",
+    "featured": false
+  },
+  {
+    "name": "Kennedy",
+    "slug": "kennedy",
+    "count": 0,
+    "image": "https://static-content.cromwell.co.uk/content/images/brands/kennedy/KENNEDY_RGB_Master-Red.webp",
+    "featured": false
+  },
+  {
+    "name": "Solis Solar",
+    "slug": "solis-solar",
+    "count": 0,
+    "image": "https://cmsdata.solisinverters.com/uploads/image/5bdc25d94070b.png",
     "featured": false
   },
   {

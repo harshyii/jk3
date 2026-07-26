@@ -5,7 +5,8 @@
   "ItemName": "DOE CRV M/F C/P:3/4x7/8",
   "Slug": "doe-crv-m-f-c-p3-4x7-8",
   "Category": "hand-tools",
-  "Subcategory": "Hand Tool",
+  "Subcategory1": "Hand Tool",
+  "Subcategory2": "",
   "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",

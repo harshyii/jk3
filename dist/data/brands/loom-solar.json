@@ -1,6 +1,11 @@
 {
   "name": "Loom Solar",
   "slug": "loom-solar",
+  "logo": "https://www.loomsolar.com/cdn/shop/files/Loom_logo_f50a89a5-291b-4c15-9a87-303dc061554e_140x@2x.png?v=1752208604",
+  "featured": true,
+  "description": "Shop Loom Solar panels, lithium batteries, inverters and rooftop solar solutions.",
+  "seoTitle": "Loom Solar Products | Haryana.Tools",
+  "metaDescription": "Explore Loom Solar panels, batteries and rooftop solar systems.",
   "products": [
     {
       "sku": "LONG2",

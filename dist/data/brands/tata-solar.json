@@ -1,6 +1,11 @@
 {
   "name": "Tata Solar",
   "slug": "tata-solar",
+  "logo": "https://www.tatapowersolar.com/wp-content/themes/tpsolar/assets/images/tata-power-solar-logo.jpg",
+  "featured": true,
+  "description": "Explore Tata Solar panels, rooftop solar solutions and renewable energy products at Haryana.Tools.",
+  "seoTitle": "Tata Solar Panels & Solutions | Haryana.Tools",
+  "metaDescription": "Discover Tata Solar panels, rooftop solar systems and solar solutions for residential and commercial applications.",
   "products": [
     {
       "sku": "LONG2",

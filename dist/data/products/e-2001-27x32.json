@@ -5,7 +5,8 @@
   "ItemName": "DOE SPANNER 27X32 E-2001",
   "Slug": "doe-spanner-27x32-e-2001",
   "Category": "hand-tools",
-  "Subcategory": "Hand Tool",
+  "Subcategory1": "Hand Tool",
+  "Subcategory2": "",
   "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/51wl1csrU0L._SL1500_.jpg",

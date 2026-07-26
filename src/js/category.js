@@ -6,7 +6,7 @@ const Category = {
     allProducts: [],
     filteredProducts: [],
     currentPage: 1,
-    pageSize: 20,
+    pageSize: 18,
 
     async init() {
         const urlParams = Utils.getQueryParams();
@@ -42,6 +42,7 @@ const Category = {
             const sortSelect = document.getElementById('sort-select');
             if (sortSelect) {
                 sortSelect.addEventListener('change', (e) => {
+                    this.currentPage = 1;
                     this.sortProducts(e.target.value);
                 });
             }
@@ -80,7 +81,7 @@ const Category = {
         const titleEl = document.getElementById('category-title');
 
         if (searchTerm === '') {
-            this.filteredProducts = this.getRandomItems(this.allProducts, Math.min(this.pageSize, this.allProducts.length));
+            this.filteredProducts = [...this.allProducts];
             if (titleEl && !Utils.getQueryParams().get('slug')) {
                 titleEl.textContent = 'Featured Recommendations';
             }
@@ -106,6 +107,8 @@ const Category = {
 
         if (pageProducts.length === 0) {
             container.innerHTML = '<p class="text-center w-100 py-5 text-muted">No matching products found.</p>';
+            const paginationContainer = document.getElementById('pagination-container');
+            if (paginationContainer) paginationContainer.innerHTML = '';
             return;
         }
 
@@ -134,6 +137,113 @@ const Category = {
         }).join('');
 
         this.bindCardEvents();
+        this.renderPagination();
+    },
+
+    renderPagination() {
+        let paginationContainer = document.getElementById('pagination-container');
+        
+        if (!paginationContainer) {
+            const productGrid = document.getElementById('product-grid');
+            if (productGrid) {
+                paginationContainer = document.createElement('div');
+                paginationContainer.id = 'pagination-container';
+                productGrid.parentNode.insertBefore(paginationContainer, productGrid.nextSibling);
+            } else {
+                return;
+            }
+        }
+
+        const totalPages = Math.ceil(this.filteredProducts.length / this.pageSize);
+
+        if (totalPages <= 1) {
+            paginationContainer.innerHTML = '';
+            return;
+        }
+
+        // Helper function to generate page number buttons intelligently
+        const getPageNumbers = (current, total) => {
+            const delta = 2;
+            const range = [];
+            const rangeWithDots = [];
+            let l;
+
+            range.push(1);
+            for (let i = current - delta; i <= current + delta; i++) {
+                if (i < total && i > 1) {
+                    range.push(i);
+                }
+            }
+            if (total > 1) {
+                range.push(total);
+            }
+
+            for (let i of range) {
+                if (l) {
+                    if (i - l === 2) {
+                        rangeWithDots.push(l + 1);
+                    } else if (i - l !== 1) {
+                        rangeWithDots.push('...');
+                    }
+                }
+                rangeWithDots.push(i);
+                l = i;
+            }
+            return rangeWithDots;
+        };
+
+        const pages = getPageNumbers(this.currentPage, totalPages);
+
+        let paginationHTML = `
+            <nav aria-label="Product Catalog Navigation">
+                <ul class="pagination justify-content-center my-4 shadow-sm">
+                    <li class="page-item ${this.currentPage === 1 ? 'disabled' : ''}">
+                        <a class="page-link rounded-start-pill px-3" href="#" data-page="${this.currentPage - 1}">
+                            <i class="fas fa-chevron-left small me-1"></i> Prev
+                        </a>
+                    </li>
+        `;
+
+        pages.forEach(page => {
+            if (page === '...') {
+                paginationHTML += `
+                    <li class="page-item disabled d-none d-sm-inline-block">
+                        <span class="page-link border-0 bg-transparent text-muted px-2">...</span>
+                    </li>
+                `;
+            } else {
+                paginationHTML += `
+                    <li class="page-item ${this.currentPage === page ? 'active' : ''}">
+                        <a class="page-link px-3" href="#" data-page="${page}">${page}</a>
+                    </li>
+                `;
+            }
+        });
+
+        paginationHTML += `
+                    <li class="page-item ${this.currentPage === totalPages ? 'disabled' : ''}">
+                        <a class="page-link rounded-end-pill px-3" href="#" data-page="${this.currentPage + 1}">
+                            Next <i class="fas fa-chevron-right small ms-1"></i>
+                        </a>
+                    </li>
+                </ul>
+            </nav>
+        `;
+
+        paginationContainer.innerHTML = paginationHTML;
+
+        // Bind click events to the pagination items
+        paginationContainer.querySelectorAll('.page-link').forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const selectedPage = parseInt(e.currentTarget.getAttribute('data-page'));
+                if (selectedPage && selectedPage >= 1 && selectedPage <= totalPages && selectedPage !== this.currentPage) {
+                    this.currentPage = selectedPage;
+                    this.render();
+                    window.scrollTo({ top: 0, behavior: 'smooth' });
+                }
+            });
+        });
     },
 
     bindCardEvents() {
@@ -220,7 +330,6 @@ const Category = {
     },
 
     showToast(message, type = 'success') {
-        // Direct absolute fallback injection to bypass layout/partial loading asynchronous race conditions entirely
         let toastContainer = document.getElementById('global-toast-layer');
         if (!toastContainer) {
             toastContainer = document.createElement('div');

@@ -258,6 +258,10 @@ const Checkout = {
                 
                 if (!codeInput) {
                     this.safeShowToast('Please enter a coupon code.', 'error');
+                    if (msgEl) {
+                        msgEl.className = 'small mb-3 text-danger';
+                        msgEl.textContent = 'Please enter a coupon code.';
+                    }
                     return;
                 }
 
@@ -281,32 +285,62 @@ const Checkout = {
                     }
 
                     let calculatedDiscount = 0;
+                    let eligibleSubtotal = this.subtotal;
+
+                    // 1. Check Target Type constraints (e.g., specific brands, categories, or items)
+                    if (foundCoupon.targetType && foundCoupon.targetType !== 'all' && foundCoupon.targetValue && foundCoupon.targetValue !== '*') {
+                        const targetValues = foundCoupon.targetValue.split(',').map(v => v.trim().toLowerCase());
+                        
+                        eligibleSubtotal = this.cart.reduce((sum, item) => {
+                            const itemBrand = (item.brand || item.Brand || '').toLowerCase();
+                            const itemCategory = (item.category || item.Category || '').toLowerCase();
+                            const itemName = (item.name || item.Name || '').toLowerCase();
+                            
+                            const isMatch = targetValues.some(val => 
+                                itemBrand.includes(val) || itemCategory.includes(val) || itemName.includes(val)
+                            );
+
+                            if (isMatch) {
+                                const price = parseFloat(item.price || item.SalePrice || item.MRP || 0);
+                                const qty = parseInt(item.quantity || item.qty || 1, 10);
+                                return sum + (price * qty);
+                            }
+                            return sum;
+                        }, 0);
+
+                        if (eligibleSubtotal <= 0) {
+                            throw new Error(`This coupon is only valid for specific eligible products (${foundCoupon.targetValue}).`);
+                        }
+                    }
+
+                    // 2. Calculate discount based on eligible items
                     if (foundCoupon.discountType === 'percentage') {
-                        calculatedDiscount = Math.round(this.subtotal * ((foundCoupon.discountValue || 0) / 100));
+                        calculatedDiscount = Math.round(eligibleSubtotal * ((foundCoupon.discountValue || 0) / 100));
                     } else {
                         calculatedDiscount = parseFloat(foundCoupon.discountValue || 0);
+                    }
+
+                    // 3. Enforce Max Discount Cap if specified
+                    if (foundCoupon.maxDiscount !== null && foundCoupon.maxDiscount !== undefined && foundCoupon.maxDiscount > 0) {
+                        calculatedDiscount = Math.min(calculatedDiscount, parseFloat(foundCoupon.maxDiscount));
                     }
 
                     this.appliedDiscount = Math.min(this.subtotal, calculatedDiscount);
                     this.couponCode = foundCoupon.code;
 
+                    this.updateFinalTotal();
+                    this.safeShowToast(`Coupon "${foundCoupon.code}" applied successfully!`, 'success');
                     if (msgEl) {
-                        msgEl.className = 'small mt-1 mb-0 text-success fw-semibold d-block';
-                        msgEl.textContent = `✅ Coupon "${foundCoupon.code}" applied successfully!`;
+                        msgEl.className = 'small mb-3 text-success fw-semibold';
+                        msgEl.textContent = `✓ Coupon "${foundCoupon.code}" applied successfully!`;
                     }
-                    this.safeShowToast('Coupon applied successfully!', 'success');
-
                 } catch (err) {
-                    this.appliedDiscount = 0;
-                    this.couponCode = '';
+                    this.safeShowToast(err.message, 'error');
                     if (msgEl) {
-                        msgEl.className = 'small mt-1 mb-0 text-danger fw-semibold d-block';
-                        msgEl.textContent = `❌ ${err.message || 'Invalid coupon code.'}`;
+                        msgEl.className = 'small mb-3 text-danger fw-semibold';
+                        msgEl.textContent = err.message;
                     }
-                    this.safeShowToast(err.message || 'Invalid coupon code.', 'error');
                 }
-
-                this.calculateTotals();
             });
         }
 

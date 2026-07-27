@@ -1,30 +1,28 @@
 {
+  "title": "TCT BLADE 5 X 30T",
+  "brand": "JRS Drive",
+  "current_price": 207,
+  "mrp": 344,
+  "product_url": "https://www.haryana.tools/product.html?sku=ETB12530",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg",
+  "specifications": {},
   "ProductID": "FAPETB00012530",
   "SKU": "ETB12530",
   "Name": "TCT BLADE 5 X 30T",
-  "ItemName": "TCT Blade 125mm 30T",
   "Slug": "tct-blade-5-x-30t",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 200,
   "Unit": "PC",
-  "MRP": 344,
   "Discount": 39.83,
   "SalePrice": 207,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ETB12530",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

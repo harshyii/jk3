@@ -1,30 +1,28 @@
 {
+  "title": "DEEP HEX SOCKET 16 MM E 2225H",
+  "brand": "Eastman",
+  "current_price": 171,
+  "mrp": 199,
+  "product_url": "https://www.haryana.tools/product.html?sku=2225H-16",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329",
+  "specifications": {},
   "ProductID": "FIDSE2225H0016",
   "SKU": "2225H-16",
   "Name": "DEEP HEX SOCKET 16 MM E 2225H",
-  "ItemName": "Deep Hex Socket 15mm",
   "Slug": "deep-hex-socket-16-mm-e-2225h",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 199,
   "Discount": 14.07,
   "SalePrice": 171,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=2225H-16",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

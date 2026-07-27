@@ -1,32 +1,34 @@
 {
+  "title": "MAGNETIC NUT RUNNER 865 MM",
+  "brand": "JRS Drive",
+  "current_price": 159,
+  "mrp": 264,
+  "product_url": "https://www.haryana.tools/product.html?sku=EMNR865",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/711PyKO+N+L._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/71iqxRL6QWL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/61Knqj-1mPL._SX679_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/711PyKO+N+L._SX679_.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/71iqxRL6QWL._SX679_.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/61Knqj-1mPL._SX679_.jpg",
+  "specifications": {},
   "ProductID": "FAPEMNR0000865",
   "SKU": "EMNR865",
   "Name": "MAGNETIC NUT RUNNER 865 MM",
-  "ItemName": "Gasoline Chain Saw 58cc 22 Inch",
   "Slug": "magnetic-nut-runner-865-mm",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/711PyKO+N+L._SX679_.jpg",
     "https://m.media-amazon.com/images/I/71iqxRL6QWL._SX679_.jpg",
     "https://m.media-amazon.com/images/I/61Knqj-1mPL._SX679_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711PyKO+N+L._SX679_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 100,
   "Unit": "PC",
-  "MRP": 264,
   "Discount": 39.77,
   "SalePrice": 159,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=EMNR865",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

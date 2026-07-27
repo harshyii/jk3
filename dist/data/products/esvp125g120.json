@@ -1,13 +1,28 @@
 {
+  "title": "SAND PAPER VELCRO 125MM 120 GRIT",
+  "brand": "JRS Drive",
+  "current_price": 7,
+  "mrp": 11,
+  "product_url": "https://www.haryana.tools/product.html?sku=ESVP125G120",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg",
+    "https://m.media-amazon.com/images/I/81qfhlVAvhL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51eYrNz3lGL.jpg",
+    "https://m.media-amazon.com/images/I/615NgzZE9lL._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/41KiFKJGySL.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/81qfhlVAvhL._SX679_.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/51eYrNz3lGL.jpg",
+  "image_url_4": "https://m.media-amazon.com/images/I/615NgzZE9lL._SL1000_.jpg",
+  "image_url_5": "https://m.media-amazon.com/images/I/41KiFKJGySL.jpg",
+  "specifications": {},
   "ProductID": "FAPESVP125G120",
   "SKU": "ESVP125G120",
   "Name": "SAND PAPER VELCRO 125MM 120 GRIT",
-  "ItemName": "SDS Drill Bit 10×50×110mm",
   "Slug": "sand-paper-velcro-125mm-120-grit",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg",
     "https://m.media-amazon.com/images/I/81qfhlVAvhL._SX679_.jpg",
@@ -16,19 +31,10 @@
     "https://m.media-amazon.com/images/I/41KiFKJGySL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415KLQZWMCL.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1200,
   "Unit": "PC",
-  "MRP": 11,
   "Discount": 36.36,
   "SalePrice": 7,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ESVP125G120",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

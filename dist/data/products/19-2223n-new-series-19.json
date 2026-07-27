@@ -1,30 +1,28 @@
 {
+  "title": "1 2 impact hex socket 19 mm",
+  "brand": "Eastman",
+  "current_price": 138,
+  "mrp": 159,
+  "product_url": "https://www.haryana.tools/product.html?sku=19-(2223N- New Series)-19",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/FIIDS2223N1032_Deep_Impact_Hex_Socket_Set_5e435fec-d3ec-4c54-a082-74fc0d6569b7_1400x1400.jpg?v=1755949148"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/FIIDS2223N1032_Deep_Impact_Hex_Socket_Set_5e435fec-d3ec-4c54-a082-74fc0d6569b7_1400x1400.jpg?v=1755949148",
+  "specifications": {},
   "ProductID": "FIIS2223N00019",
   "SKU": "19-(2223N- New Series)-19",
   "Name": "1 2 impact hex socket 19 mm",
-  "ItemName": "1/2\" Impact Socket 19mm",
   "Slug": "1-2-impact-hex-socket-19-mm",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/FIIDS2223N1032_Deep_Impact_Hex_Socket_Set_5e435fec-d3ec-4c54-a082-74fc0d6569b7_1400x1400.jpg?v=1755949148"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/FIIDS2223N1032_Deep_Impact_Hex_Socket_Set_5e435fec-d3ec-4c54-a082-74fc0d6569b7_1400x1400.jpg?v=1755949148",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 159,
   "Discount": 13.21,
   "SalePrice": 138,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=19-(2223N- New Series)-19",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

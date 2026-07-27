@@ -1,30 +1,28 @@
 {
+  "title": "TCT BLADE 8 X 40T",
+  "brand": "JRS Drive",
+  "current_price": 544,
+  "mrp": 906,
+  "product_url": "https://www.haryana.tools/product.html?sku=ETB20040",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg",
+  "specifications": {},
   "ProductID": "FAPETB00020040",
   "SKU": "ETB20040",
   "Name": "TCT BLADE 8 X 40T",
-  "ItemName": "TCT Blade 200mm 40T",
   "Slug": "tct-blade-8-x-40t",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 50,
   "Unit": "PC",
-  "MRP": 906,
   "Discount": 39.96,
   "SalePrice": 544,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ETB20040",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

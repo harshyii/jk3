@@ -1,13 +1,26 @@
 {
+  "title": "COMBINATION SPANNER ELLIPTICAL 09MM E 2004",
+  "brand": "Eastman",
+  "current_price": 63,
+  "mrp": 73,
+  "product_url": "https://www.haryana.tools/product.html?sku=E-2004-09MM",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/51vXTbN3Y1S._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/41J8ALLlweS._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/31gHh5alATL.jpg",
+    "https://m.media-amazon.com/images/I/71zhTbJBPLL._SL1500_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/51vXTbN3Y1S._SX679_.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/41J8ALLlweS._SX679_.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/31gHh5alATL.jpg",
+  "image_url_4": "https://m.media-amazon.com/images/I/71zhTbJBPLL._SL1500_.jpg",
+  "specifications": {},
   "ProductID": "FSVC2015100004",
   "SKU": "E-2004-09MM",
   "Name": "COMBINATION SPANNER ELLIPTICAL 09MM E 2004",
-  "ItemName": "Combination Spanner 9mm",
   "Slug": "combination-spanner-elliptical-09mm-e-2004",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/51vXTbN3Y1S._SX679_.jpg",
     "https://m.media-amazon.com/images/I/41J8ALLlweS._SX679_.jpg",
@@ -15,19 +28,10 @@
     "https://m.media-amazon.com/images/I/71zhTbJBPLL._SL1500_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51vXTbN3Y1S._SX679_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 73,
   "Discount": 13.7,
   "SalePrice": 63,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=E-2004-09MM",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

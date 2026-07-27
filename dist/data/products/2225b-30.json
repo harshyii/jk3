@@ -1,30 +1,28 @@
 {
+  "title": "DEEP BI HEX SOCKET 30 MM E 2225B",
+  "brand": "Eastman",
+  "current_price": 428,
+  "mrp": 499,
+  "product_url": "https://www.haryana.tools/product.html?sku=2225B-30",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949338"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949338",
+  "specifications": {},
   "ProductID": "FIDSE2225BH030",
   "SKU": "2225B-30",
   "Name": "DEEP BI HEX SOCKET 30 MM E 2225B",
-  "ItemName": "Deep Bi-Hex Socket 30mm",
   "Slug": "deep-bi-hex-socket-30-mm-e-2225b",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949338"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/13pt_454x414.jpg?v=1755949338",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 499,
   "Discount": 14.23,
   "SalePrice": 428,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=2225B-30",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

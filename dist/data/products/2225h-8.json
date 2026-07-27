@@ -1,30 +1,28 @@
 {
+  "title": "DEEP HEX SOCKET 8 MM E 2225H",
+  "brand": "Eastman",
+  "current_price": 213,
+  "mrp": 248,
+  "product_url": "https://www.haryana.tools/product.html?sku=2225H-8",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329",
+  "specifications": {},
   "ProductID": "FIDSE2225H0008",
   "SKU": "2225H-8",
   "Name": "DEEP HEX SOCKET 8 MM E 2225H",
-  "ItemName": "Deep Hex Socket 8mm",
   "Slug": "deep-hex-socket-8-mm-e-2225h",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/6pt_445x417.jpg?v=1755949329",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 248,
   "Discount": 14.11,
   "SalePrice": 213,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=2225H-8",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

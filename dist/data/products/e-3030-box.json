@@ -1,32 +1,34 @@
 {
+  "title": "PLUMBER BOX E 3030",
+  "brand": "Eastman",
+  "current_price": 648,
+  "mrp": 756,
+  "product_url": "https://www.haryana.tools/product.html?sku=E-3030-BOX",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/02_3_600x600.jpg?v=1755949440",
+    "https://www.eastmanshop.com/cdn/shop/files/06_1_9005f531-605b-4366-9367-7174856b07f0_600x600.jpg?v=1755949440",
+    "https://www.eastmanshop.com/cdn/shop/files/01_1_2_038d29a3-319e-4176-95ee-b125690775d2_600x600.jpg?v=1755949441"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/02_3_600x600.jpg?v=1755949440",
+  "image_url_2": "https://www.eastmanshop.com/cdn/shop/files/06_1_9005f531-605b-4366-9367-7174856b07f0_600x600.jpg?v=1755949440",
+  "image_url_3": "https://www.eastmanshop.com/cdn/shop/files/01_1_2_038d29a3-319e-4176-95ee-b125690775d2_600x600.jpg?v=1755949441",
+  "specifications": {},
   "ProductID": "FDPTBPC0001",
   "SKU": "E-3030-BOX",
   "Name": "PLUMBER BOX E 3030",
-  "ItemName": "Plumber Tool Box",
   "Slug": "plumber-box-e-3030",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/02_3_600x600.jpg?v=1755949440",
     "https://www.eastmanshop.com/cdn/shop/files/06_1_9005f531-605b-4366-9367-7174856b07f0_600x600.jpg?v=1755949440",
     "https://www.eastmanshop.com/cdn/shop/files/01_1_2_038d29a3-319e-4176-95ee-b125690775d2_600x600.jpg?v=1755949441"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/02_3_600x600.jpg?v=1755949440",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 756,
   "Discount": 14.29,
   "SalePrice": 648,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=E-3030-BOX",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

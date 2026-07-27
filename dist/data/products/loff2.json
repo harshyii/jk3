@@ -1,30 +1,32 @@
 {
+  "title": "Solar Offgrid 2KW",
+  "brand": "Loom Solar",
+  "current_price": 89700,
+  "mrp": 160000,
+  "product_url": "https://www.haryana.tools/product.html?sku=LOFF2",
+  "description": "Solar Offgrid 2KW complete solar solution for residential and commercial installations with high-quality components, professional installation support and warranty.",
+  "image_urls": [
+    "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "image_url_1": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "specifications": {},
   "ProductID": "LOFF2",
   "SKU": "LOFF2",
   "Name": "Solar Offgrid 2KW",
-  "ItemName": "Loom Solar Solar Offgrid 2KW",
   "Slug": "solar-offgrid-2kw",
   "Category": "Solar Products",
-  "Subcategory1": "",
   "Subcategory2": "with battery",
-  "Brand": "Loom Solar",
   "Images": [
     "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   ],
   "Image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "Description": "Solar Offgrid 2KW complete solar solution for residential and commercial installations with high-quality components, professional installation support and warranty.",
   "DetailedInfo": "Includes premium solar panels, inverter, mounting structure, accessories and installation guidance. Suitable for efficient power generation with reliable performance.",
   "StockQuantity": 1,
   "Unit": "kit",
-  "MRP": 160000,
   "Discount": 43.94,
   "SalePrice": 89700,
   "Supplier": "Loom Solar",
   "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=LOFF2",
-  "Model": "",
   "Country": "India",
-  "ASIN": "",
-  "SearchKeywords": "2KW off grid solar system, solar battery system, standalone solar system, off grid solar plant, home solar backup",
-  "VideoURL": ""
+  "SearchKeywords": "2KW off grid solar system, solar battery system, standalone solar system, off grid solar plant, home solar backup"
 }

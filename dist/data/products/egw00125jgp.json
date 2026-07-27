@@ -1,30 +1,28 @@
 {
+  "title": "GRINDING WHEEL GREEN 2.5 NET125X6X22MM PLATINUM",
+  "brand": "JRS Drive",
+  "current_price": 56,
+  "mrp": 91,
+  "product_url": "https://www.haryana.tools/product.html?sku=EGW00125JGP",
+  "image_urls": [
+    "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+  ],
+  "image_url_1": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
+  "specifications": {},
   "ProductID": "FAPEGW00125JGP",
   "SKU": "EGW00125JGP",
   "Name": "GRINDING WHEEL GREEN 2.5 NET125X6X22MM PLATINUM",
-  "ItemName": "Professional Electric Saw Chain 16 Inch",
   "Slug": "grinding-wheel-green-25-net125x6x22mm-platinum",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
   ],
   "Image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 150,
   "Unit": "PC",
-  "MRP": 91,
   "Discount": 38.46,
   "SalePrice": 56,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=EGW00125JGP",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

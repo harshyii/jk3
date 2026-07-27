@@ -1,30 +1,28 @@
 {
+  "title": "DIAMOND SAW BLADE 110X10MM",
+  "brand": "JRS Drive",
+  "current_price": 137,
+  "mrp": 227,
+  "product_url": "https://www.haryana.tools/product.html?sku=EMB110N",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219",
+  "specifications": {},
   "ProductID": "FAPEMB0000110N",
   "SKU": "EMB110N",
   "Name": "DIAMOND SAW BLADE 110X10MM",
-  "ItemName": "Diamond Saw Blade 9 Cut 110mm",
   "Slug": "diamond-saw-blade-110x10mm",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/ETB100T_b_b3f369cd-1659-48e1-acd4-4d5c45dfe8cc_1400x1400.jpg?v=1755949219",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 200,
   "Unit": "PC",
-  "MRP": 227,
   "Discount": 39.65,
   "SalePrice": 137,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=EMB110N",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

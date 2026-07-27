@@ -1,30 +1,33 @@
 {
+  "title": "Monthly GST",
+  "brand": "JK Enterprises",
+  "current_price": 2000,
+  "mrp": 3999,
+  "product_url": "https://www.haryana.tools/product.html?sku=GSTM",
+  "description": "Professional Monthly GST service by qualified Chartered Accountant.",
+  "image_urls": [
+    "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "image_url_1": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "specifications": {},
   "ProductID": "ACC009",
   "SKU": "GSTM",
   "Name": "Monthly GST",
-  "ItemName": "Monthly GST Return Filing",
   "Slug": "monthly-gst",
   "Category": "Accounting Services",
   "Subcategory1": "GST",
   "Subcategory2": "Services",
-  "Brand": "JK Enterprises",
   "Images": [
     "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   ],
   "Image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "Description": "Professional Monthly GST service by qualified Chartered Accountant.",
   "DetailedInfo": "End-to-end monthly gst with document verification, filing, compliance support and expert guidance.",
   "StockQuantity": 9999,
   "Unit": "Service",
-  "MRP": 3999,
   "Discount": 49.99,
   "SalePrice": 2000,
   "Supplier": "JK Enterprises",
   "LastUpdated": "24/07/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=GSTM",
-  "Model": "",
   "Country": "India",
-  "ASIN": "",
-  "SearchKeywords": "monthly gst, CA services, chartered accountant, online monthly gst, tax consultant, accounting services",
-  "VideoURL": ""
+  "SearchKeywords": "monthly gst, CA services, chartered accountant, online monthly gst, tax consultant, accounting services"
 }

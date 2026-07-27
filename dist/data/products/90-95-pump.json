@@ -1,30 +1,28 @@
 {
+  "title": "PLASTIC DRUM NUT BARREL PUMP 90 95MM",
+  "brand": "Eastman",
+  "current_price": 1870,
+  "mrp": 2187,
+  "product_url": "https://www.haryana.tools/product.html?sku=90-95-PUMP",
+  "image_urls": [
+    "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
+  ],
+  "image_url_1": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
+  "specifications": {},
   "ProductID": "FDBPPDNUT90",
   "SKU": "90-95-PUMP",
   "Name": "PLASTIC DRUM NUT BARREL PUMP 90 95MM",
-  "ItemName": "Plastic Drum Nut for Barrel Pump 90–95mm",
   "Slug": "plastic-drum-nut-barrel-pump-90-95mm",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w"
   ],
   "Image": "https://unsplash.com/photos/a-bunch-of-tools-hanging-up-on-a-wall-2Qlj2Gaft7w",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 2187,
   "Discount": 14.49,
   "SalePrice": 1870,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=90-95-PUMP",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

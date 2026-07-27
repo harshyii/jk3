@@ -1,31 +1,28 @@
 {
+  "title": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 12X100X160 MM",
+  "brand": "JRS Drive",
+  "current_price": 104,
+  "mrp": 172,
+  "product_url": "https://www.haryana.tools/product.html?sku=ESDB0012160",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167",
+  "specifications": {},
   "ProductID": "FAPESDB0012160",
   "SKU": "ESDB0012160",
   "Name": "SDS FLAT SINGLE TIP DOUBLE FLUTE DRILL BIT 12X100X160 MM",
-  "ItemName": "SDS Drill Bit 16×100×160mm",
   "Slug": "sds-flat-single-tip-double-flute-drill-bit-12x100x160-mm",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
-    "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167",
     "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/FAPESDB0006110_SDS_FLAT_DRILL_BIT_5d0163af-deda-433a-86d9-be15bf7ab224_1400x1400.jpg?v=1755949167",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 10,
   "Unit": "PC",
-  "MRP": 172,
   "Discount": 39.53,
   "SalePrice": 104,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ESDB0012160",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

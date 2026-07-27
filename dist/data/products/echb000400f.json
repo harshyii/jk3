@@ -1,13 +1,26 @@
 {
+  "title": "CHISEL BIT 11KG HAMMER SDS MAX 400X18MM FLAT",
+  "brand": "JRS Drive",
+  "current_price": 289,
+  "mrp": 440,
+  "product_url": "https://www.haryana.tools/product.html?sku=ECHB000400F",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/91DEwrStkQL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/81J6k2x-0IL._SL1500_.jpg",
+    "https://m.media-amazon.com/images/I/41e1mZ09TXL._SL1024_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/91DEwrStkQL._SL1500_.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/81J6k2x-0IL._SL1500_.jpg",
+  "image_url_4": "https://m.media-amazon.com/images/I/41e1mZ09TXL._SL1024_.jpg",
+  "specifications": {},
   "ProductID": "FAPECHB000400F",
   "SKU": "ECHB000400F",
   "Name": "CHISEL BIT 11KG HAMMER SDS MAX 400X18MM FLAT",
-  "ItemName": "Chisel Bit 5kg 280×17mm Pointed",
   "Slug": "chisel-bit-11kg-hammer-sds-max-400x18mm-flat",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg",
     "https://m.media-amazon.com/images/I/91DEwrStkQL._SL1500_.jpg",
@@ -15,19 +28,10 @@
     "https://m.media-amazon.com/images/I/41e1mZ09TXL._SL1024_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91Fo-jUpyhL._SL1500_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 25,
   "Unit": "PC",
-  "MRP": 440,
   "Discount": 34.32,
   "SalePrice": 289,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ECHB000400F",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

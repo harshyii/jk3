@@ -1,30 +1,28 @@
 {
+  "title": "TCT BLADE 10 X 60T 250mm",
+  "brand": "JRS Drive",
+  "current_price": 817,
+  "mrp": 1359,
+  "product_url": "https://www.haryana.tools/product.html?sku=ETB25060",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg",
+  "specifications": {},
   "ProductID": "FAPETB00025060",
   "SKU": "ETB25060",
   "Name": "TCT BLADE 10 X 60T 250mm",
-  "ItemName": "TCT Blade 250mm 60T",
   "Slug": "tct-blade-10-x-60t-250mm",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7145k7dueXL._SL1500_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 30,
   "Unit": "PC",
-  "MRP": 1359,
   "Discount": 39.88,
   "SalePrice": 817,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ETB25060",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

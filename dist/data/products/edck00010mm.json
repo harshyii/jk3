@@ -1,30 +1,28 @@
 {
+  "title": "DRILL CHUCK 10MM",
+  "brand": "JRS Drive",
+  "current_price": 175,
+  "mrp": 289,
+  "product_url": "https://www.haryana.tools/product.html?sku=EDCK00010MM",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/61V0sYoQgQL._SX679_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/61V0sYoQgQL._SX679_.jpg",
+  "specifications": {},
   "ProductID": "FAPEDCK00010MM",
   "SKU": "EDCK00010MM",
   "Name": "DRILL CHUCK 10MM",
-  "ItemName": "Flex Grinding Disc 100mm 120 Grit",
   "Slug": "drill-chuck-10mm",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/61V0sYoQgQL._SX679_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61V0sYoQgQL._SX679_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 50,
   "Unit": "PC",
-  "MRP": 289,
   "Discount": 39.45,
   "SalePrice": 175,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=EDCK00010MM",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

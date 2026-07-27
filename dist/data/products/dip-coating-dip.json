@@ -1,30 +1,28 @@
 {
+  "title": "ADJ WRENCH 12 INCH BCP GREEN DIP COATING",
+  "brand": "Eastman",
+  "current_price": 582,
+  "mrp": 679,
+  "product_url": "https://www.haryana.tools/product.html?sku=DIP-COATING-DIP",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/1_29_9_600x600.jpg?v=1755949471"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/1_29_9_600x600.jpg?v=1755949471",
+  "specifications": {},
   "ProductID": "FDAWCPDC012",
   "SKU": "DIP-COATING-DIP",
   "Name": "ADJ WRENCH 12 INCH BCP GREEN DIP COATING",
-  "ItemName": "Adjustable Wrench 12\" Green Grip",
   "Slug": "adj-wrench-12-inch-bcp-green-dip-coating",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/1_29_9_600x600.jpg?v=1755949471"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/1_29_9_600x600.jpg?v=1755949471",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 679,
   "Discount": 14.29,
   "SalePrice": 582,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=DIP-COATING-DIP",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

@@ -1,30 +1,28 @@
 {
+  "title": "CUTTING WHEEL 355MM GREEN SINGLE NET",
+  "brand": "JRS Drive",
+  "current_price": 166,
+  "mrp": 275,
+  "product_url": "https://www.haryana.tools/product.html?sku=ECW000355AG",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220",
+  "specifications": {},
   "ProductID": "FAPECW000355AG",
   "SKU": "ECW000355AG",
   "Name": "CUTTING WHEEL 355MM GREEN SINGLE NET",
-  "ItemName": "Diamond Cup Wheel 80mm Segment Type",
   "Slug": "cutting-wheel-355mm-green-single-net",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/ERCW107JP_e5573b89-94e3-4a69-a7d5-c99a00517b8c_1400x1400.jpg?v=1755949220",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 25,
   "Unit": "PC",
-  "MRP": 275,
   "Discount": 39.64,
   "SalePrice": 166,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ECW000355AG",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

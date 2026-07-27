@@ -1,31 +1,31 @@
 {
+  "title": "Eastman ALLEN KEY SET BLACK COLOUR CHAMPHERED HERADS XTRA LONG 1.5 2 2.5 3 4 5 6 8 10 Mm KE EAK 2406",
+  "brand": "Eastman",
+  "current_price": 575,
+  "mrp": 672,
+  "product_url": "https://www.haryana.tools/product.html?sku=E-2406",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/2_27_17_600x600.jpg?v=1755949419",
+    "https://www.eastmanshop.com/cdn/shop/files/tools2_0000s_0001_26_add26a4d-2eff-41e6-b6f0-c7307a6471a0_600x600.jpg?v=1755949419"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/2_27_17_600x600.jpg?v=1755949419",
+  "image_url_2": "https://www.eastmanshop.com/cdn/shop/files/tools2_0000s_0001_26_add26a4d-2eff-41e6-b6f0-c7307a6471a0_600x600.jpg?v=1755949419",
+  "specifications": {},
   "ProductID": "KIT-E2406-08D",
   "SKU": "E-2406",
   "Name": "Eastman ALLEN KEY SET BLACK COLOUR CHAMPHERED HERADS XTRA LONG 1.5 2 2.5 3 4 5 6 8 10 Mm KE EAK 2406",
-  "ItemName": "Extra Long Allen Key Set 9 Pcs Metric",
   "Slug": "eastman-allen-key-set-black-colour-champhered-herads-xtra-long-15-2-25-3-4-5-6-8-10-mm-ke-eak-2406",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/2_27_17_600x600.jpg?v=1755949419",
     "https://www.eastmanshop.com/cdn/shop/files/tools2_0000s_0001_26_add26a4d-2eff-41e6-b6f0-c7307a6471a0_600x600.jpg?v=1755949419"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/2_27_17_600x600.jpg?v=1755949419",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 672,
   "Discount": 14.43,
   "SalePrice": 575,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=E-2406",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

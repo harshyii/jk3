@@ -1,32 +1,34 @@
 {
+  "title": "ROD VIBRATOR 3.0 M",
+  "brand": "JRS Drive",
+  "current_price": 2990,
+  "mrp": 4981,
+  "product_url": "https://www.haryana.tools/product.html?sku=EEVR003",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/51JthONtksL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/51LDfcXv2NL._SX679_.jpg",
+    "https://m.media-amazon.com/images/I/31VZvNYssNL._SX679_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/51JthONtksL._SX679_.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/51LDfcXv2NL._SX679_.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/31VZvNYssNL._SX679_.jpg",
+  "specifications": {},
   "ProductID": "FAPEEVR0000003",
   "SKU": "EEVR003",
   "Name": "ROD VIBRATOR 3.0 M",
-  "ItemName": "Velcro Sanding Disc 125mm 80 Grit",
   "Slug": "rod-vibrator-30-m",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/51JthONtksL._SX679_.jpg",
     "https://m.media-amazon.com/images/I/51LDfcXv2NL._SX679_.jpg",
     "https://m.media-amazon.com/images/I/31VZvNYssNL._SX679_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51JthONtksL._SX679_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 5,
   "Unit": "PC",
-  "MRP": 4981,
   "Discount": 39.97,
   "SalePrice": 2990,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=EEVR003",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

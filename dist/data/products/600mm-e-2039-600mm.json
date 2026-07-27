@@ -1,30 +1,28 @@
 {
+  "title": "BOLT CUTTER 24 600MM E 2039",
+  "brand": "Eastman",
+  "current_price": 2047,
+  "mrp": 2393,
+  "product_url": "https://www.haryana.tools/product.html?sku=600MM-E-2039-600MM",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/51eSY8SFWOL._SL1254_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/51eSY8SFWOL._SL1254_.jpg",
+  "specifications": {},
   "ProductID": "FIEBCCRMO00024",
   "SKU": "600MM-E-2039-600MM",
   "Name": "BOLT CUTTER 24 600MM E 2039",
-  "ItemName": "Bolt Cutter 24\" (600mm)",
   "Slug": "bolt-cutter-24-600mm-e-2039",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/51eSY8SFWOL._SL1254_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51eSY8SFWOL._SL1254_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 2393,
   "Discount": 14.46,
   "SalePrice": 2047,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=600MM-E-2039-600MM",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

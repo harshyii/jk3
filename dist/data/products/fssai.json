@@ -1,30 +1,33 @@
 {
+  "title": "FSSAI License",
+  "brand": "JK Enterprises",
+  "current_price": 3000,
+  "mrp": 5999,
+  "product_url": "https://www.haryana.tools/product.html?sku=FSSAI",
+  "description": "Professional FSSAI License service by qualified Chartered Accountant.",
+  "image_urls": [
+    "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "image_url_1": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "specifications": {},
   "ProductID": "ACC017",
   "SKU": "FSSAI",
   "Name": "FSSAI License",
-  "ItemName": "FSSAI Registration",
   "Slug": "fssai-license",
   "Category": "Accounting Services",
   "Subcategory1": "Registration",
   "Subcategory2": "Services",
-  "Brand": "JK Enterprises",
   "Images": [
     "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   ],
   "Image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "Description": "Professional FSSAI License service by qualified Chartered Accountant.",
   "DetailedInfo": "End-to-end fssai license with document verification, filing, compliance support and expert guidance.",
   "StockQuantity": 9999,
   "Unit": "Service",
-  "MRP": 5999,
   "Discount": 49.99,
   "SalePrice": 3000,
   "Supplier": "JK Enterprises",
   "LastUpdated": "24/07/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=FSSAI",
-  "Model": "",
   "Country": "India",
-  "ASIN": "",
-  "SearchKeywords": "fssai license, CA services, chartered accountant, online fssai license, tax consultant, accounting services",
-  "VideoURL": ""
+  "SearchKeywords": "fssai license, CA services, chartered accountant, online fssai license, tax consultant, accounting services"
 }

@@ -1,13 +1,28 @@
 {
+  "title": "CHISEL OCTAGANAL 12 X 16 150 ECH 2038",
+  "brand": "Eastman",
+  "current_price": 113,
+  "mrp": 132,
+  "product_url": "https://www.haryana.tools/product.html?sku=ECH-2038-150",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg",
+    "https://m.media-amazon.com/images/I/21eYLY+subL.jpg",
+    "https://m.media-amazon.com/images/I/31efymeG1SL.jpg",
+    "https://m.media-amazon.com/images/I/31amGclThzL.jpg",
+    "https://m.media-amazon.com/images/I/51obmjKktIL._SX679_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/21eYLY+subL.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/31efymeG1SL.jpg",
+  "image_url_4": "https://m.media-amazon.com/images/I/31amGclThzL.jpg",
+  "image_url_5": "https://m.media-amazon.com/images/I/51obmjKktIL._SX679_.jpg",
+  "specifications": {},
   "ProductID": "FDCHOG12150",
   "SKU": "ECH-2038-150",
   "Name": "CHISEL OCTAGANAL 12 X 16 150 ECH 2038",
-  "ItemName": "Octagonal Chisel 12 x 16 x 150mm",
   "Slug": "chisel-octaganal-12-x-16-150-ech-2038",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg",
     "https://m.media-amazon.com/images/I/21eYLY+subL.jpg",
@@ -16,19 +31,10 @@
     "https://m.media-amazon.com/images/I/51obmjKktIL._SX679_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 132,
   "Discount": 14.39,
   "SalePrice": 113,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ECH-2038-150",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

@@ -1,13 +1,26 @@
 {
+  "title": "COMBINATION PLIER CRV AUTO BLACK HEAD POLISH 8",
+  "brand": "Eastman",
+  "current_price": 202,
+  "mrp": 233,
+  "product_url": "https://www.haryana.tools/product.html?sku=8-POLISH",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image1_1078x1078.jpg?v=1755949479",
+    "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image3_290ec564-4858-4e7a-8800-91c241372b7d_1078x1078.jpg?v=1755949479",
+    "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image4_2abfe3d9-db18-48bb-8422-0466566b7078_1078x1078.jpg?v=1755949479",
+    "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image5_947310b7-a8f5-448b-8fc4-96e27702837d_1078x1078.jpg?v=1755949479"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image1_1078x1078.jpg?v=1755949479",
+  "image_url_2": "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image3_290ec564-4858-4e7a-8800-91c241372b7d_1078x1078.jpg?v=1755949479",
+  "image_url_3": "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image4_2abfe3d9-db18-48bb-8422-0466566b7078_1078x1078.jpg?v=1755949479",
+  "image_url_4": "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image5_947310b7-a8f5-448b-8fc4-96e27702837d_1078x1078.jpg?v=1755949479",
+  "specifications": {},
   "ProductID": "FDCPHPBCV08",
   "SKU": "8-POLISH",
   "Name": "COMBINATION PLIER CRV AUTO BLACK HEAD POLISH 8",
-  "ItemName": "Combination Plier 8\"",
   "Slug": "combination-plier-crv-auto-black-head-polish-8",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image1_1078x1078.jpg?v=1755949479",
     "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image3_290ec564-4858-4e7a-8800-91c241372b7d_1078x1078.jpg?v=1755949479",
@@ -15,19 +28,10 @@
     "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image5_947310b7-a8f5-448b-8fc4-96e27702837d_1078x1078.jpg?v=1755949479"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/Red_Complier_Gallergy_image1_1078x1078.jpg?v=1755949479",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 233,
   "Discount": 13.3,
   "SalePrice": 202,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=8-POLISH",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

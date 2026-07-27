@@ -1,30 +1,33 @@
 {
+  "title": "ITR-U Filing",
+  "brand": "JK Enterprises",
+  "current_price": 4000,
+  "mrp": 7999,
+  "product_url": "https://www.haryana.tools/product.html?sku=ITRU",
+  "description": "Professional ITR-U Filing service by qualified Chartered Accountant.",
+  "image_urls": [
+    "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "image_url_1": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "specifications": {},
   "ProductID": "ACC005",
   "SKU": "ITRU",
   "Name": "ITR-U Filing",
-  "ItemName": "ITR-U Updated Return Filing",
   "Slug": "itr-u-filing",
   "Category": "Accounting Services",
   "Subcategory1": "Income Tax",
   "Subcategory2": "Services",
-  "Brand": "JK Enterprises",
   "Images": [
     "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   ],
   "Image": "https://images.unsplash.com/photo-1598432439250-0330f9130e14?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "Description": "Professional ITR-U Filing service by qualified Chartered Accountant.",
   "DetailedInfo": "End-to-end itr-u filing with document verification, filing, compliance support and expert guidance.",
   "StockQuantity": 9999,
   "Unit": "Service",
-  "MRP": 7999,
   "Discount": 49.99,
   "SalePrice": 4000,
   "Supplier": "JK Enterprises",
   "LastUpdated": "24/07/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=ITRU",
-  "Model": "",
   "Country": "India",
-  "ASIN": "",
-  "SearchKeywords": "itr-u filing, CA services, chartered accountant, online itr-u filing, tax consultant, accounting services",
-  "VideoURL": ""
+  "SearchKeywords": "itr-u filing, CA services, chartered accountant, online itr-u filing, tax consultant, accounting services"
 }

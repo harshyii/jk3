@@ -1,32 +1,34 @@
 {
+  "title": "KIT IMPACT WRENCH 600W 18V 2 BATTERIES",
+  "brand": "JRS Drive",
+  "current_price": 19601,
+  "mrp": 33600,
+  "product_url": "https://www.haryana.tools/product.html?sku=KITECIW0600",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/51NQ7XhEA3L._SL1024_.jpg",
+    "https://m.media-amazon.com/images/I/61E36Y8KJgL._SL1000_.jpg",
+    "https://m.media-amazon.com/images/I/71+7NOVCGJL._SL1500_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/51NQ7XhEA3L._SL1024_.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/61E36Y8KJgL._SL1000_.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/71+7NOVCGJL._SL1500_.jpg",
+  "specifications": {},
   "ProductID": "FPTKITECIW0600",
   "SKU": "KITECIW0600",
   "Name": "KIT IMPACT WRENCH 600W 18V 2 BATTERIES",
-  "ItemName": "Cordless Impact Wrench Kit 600W 18V",
   "Slug": "kit-impact-wrench-600w-18v-2-batteries",
   "Category": "power-tools",
   "Subcategory1": "Power",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/51NQ7XhEA3L._SL1024_.jpg",
     "https://m.media-amazon.com/images/I/61E36Y8KJgL._SL1000_.jpg",
     "https://m.media-amazon.com/images/I/71+7NOVCGJL._SL1500_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NQ7XhEA3L._SL1024_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "PC",
-  "MRP": 33600,
   "Discount": 41.66,
   "SalePrice": 19601,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=KITECIW0600",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

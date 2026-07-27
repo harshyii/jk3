@@ -1,30 +1,33 @@
 {
+  "title": "Quarterly GST",
+  "brand": "JK Enterprises",
+  "current_price": 4500,
+  "mrp": 8999,
+  "product_url": "https://www.haryana.tools/product.html?sku=GSTQ",
+  "description": "Professional Quarterly GST service by qualified Chartered Accountant.",
+  "image_urls": [
+    "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  ],
+  "image_url_1": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+  "specifications": {},
   "ProductID": "ACC010",
   "SKU": "GSTQ",
   "Name": "Quarterly GST",
-  "ItemName": "Quarterly GST Return Filing",
   "Slug": "quarterly-gst",
   "Category": "Accounting Services",
   "Subcategory1": "GST",
   "Subcategory2": "Services",
-  "Brand": "JK Enterprises",
   "Images": [
     "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
   ],
   "Image": "https://images.unsplash.com/photo-1586486855514-8c633cc6fd38?q=80&w=1169&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-  "Description": "Professional Quarterly GST service by qualified Chartered Accountant.",
   "DetailedInfo": "End-to-end quarterly gst with document verification, filing, compliance support and expert guidance.",
   "StockQuantity": 9999,
   "Unit": "Service",
-  "MRP": 8999,
   "Discount": 49.99,
   "SalePrice": 4500,
   "Supplier": "JK Enterprises",
   "LastUpdated": "24/07/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=GSTQ",
-  "Model": "",
   "Country": "India",
-  "ASIN": "",
-  "SearchKeywords": "quarterly gst, CA services, chartered accountant, online quarterly gst, tax consultant, accounting services",
-  "VideoURL": ""
+  "SearchKeywords": "quarterly gst, CA services, chartered accountant, online quarterly gst, tax consultant, accounting services"
 }

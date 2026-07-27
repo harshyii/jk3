@@ -1,31 +1,31 @@
 {
+  "title": "FLEX GRINDING DISC 100X3X16MM GC 46 GRIT PLATINUM",
+  "brand": "JRS Drive",
+  "current_price": 37,
+  "mrp": 59,
+  "product_url": "https://www.haryana.tools/product.html?sku=EFDGC446JGP",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg",
+    "https://m.media-amazon.com/images/I/51vn8No4rWL._SL1280_.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/51vn8No4rWL._SL1280_.jpg",
+  "specifications": {},
   "ProductID": "FAPEFDGC446JGP",
   "SKU": "EFDGC446JGP",
   "Name": "FLEX GRINDING DISC 100X3X16MM GC 46 GRIT PLATINUM",
-  "ItemName": "Grinding Wheel 100mm Green Platinum",
   "Slug": "flex-grinding-disc-100x3x16mm-gc-46-grit-platinum",
   "Category": "power-tools",
   "Subcategory1": "Power Accessories",
-  "Subcategory2": "",
-  "Brand": "JRS Drive",
   "Images": [
     "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg",
     "https://m.media-amazon.com/images/I/51vn8No4rWL._SL1280_.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61G79qwHZnL._SL1280_.jpg",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 300,
   "Unit": "PC",
-  "MRP": 59,
   "Discount": 37.29,
   "SalePrice": 37,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=EFDGC446JGP",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

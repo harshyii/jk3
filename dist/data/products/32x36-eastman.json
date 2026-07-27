@@ -1,31 +1,31 @@
 {
+  "title": "RING SPANNER RECESSED PANEL CRV STEEL CHROME PLATED SHALLOW OFFSET EASTMAN 32X36MM",
+  "brand": "Eastman",
+  "current_price": 620,
+  "mrp": 723,
+  "product_url": "https://www.haryana.tools/product.html?sku=32X36-EASTMAN:",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/E-2007e_1001x1001.jpg?v=1755949493",
+    "https://www.eastmanshop.com/cdn/shop/files/E-2007d_994x994.jpg?v=1755949494"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/E-2007e_1001x1001.jpg?v=1755949493",
+  "image_url_2": "https://www.eastmanshop.com/cdn/shop/files/E-2007d_994x994.jpg?v=1755949494",
+  "specifications": {},
   "ProductID": "FSVR1122101412",
   "SKU": "32X36-EASTMAN:",
   "Name": "RING SPANNER RECESSED PANEL CRV STEEL CHROME PLATED SHALLOW OFFSET EASTMAN 32X36MM",
-  "ItemName": "Ring Spanner 32x36mm",
   "Slug": "ring-spanner-recessed-panel-crv-steel-chrome-plated-shallow-offset-eastman-32x36mm",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/E-2007e_1001x1001.jpg?v=1755949493",
     "https://www.eastmanshop.com/cdn/shop/files/E-2007d_994x994.jpg?v=1755949494"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/E-2007e_1001x1001.jpg?v=1755949493",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 723,
   "Discount": 14.25,
   "SalePrice": 620,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=32X36-EASTMAN:",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

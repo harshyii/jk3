@@ -1,30 +1,28 @@
 {
+  "title": "HEX SOCKET 3 4 X 38 MM E 2221",
+  "brand": "Eastman",
+  "current_price": 442,
+  "mrp": 516,
+  "product_url": "https://www.haryana.tools/product.html?sku=38-E-2221-38",
+  "image_urls": [
+    "https://www.eastmanshop.com/cdn/shop/files/MINIQKCT5DM70-xxlarge_a4e8a26c-e453-4169-bf2d-ed00149ae293_798x798.webp?v=1755949273"
+  ],
+  "image_url_1": "https://www.eastmanshop.com/cdn/shop/files/MINIQKCT5DM70-xxlarge_a4e8a26c-e453-4169-bf2d-ed00149ae293_798x798.webp?v=1755949273",
+  "specifications": {},
   "ProductID": "FDS3/4CV038",
   "SKU": "38-E-2221-38",
   "Name": "HEX SOCKET 3 4 X 38 MM E 2221",
-  "ItemName": "Hex Socket 3/4\" x 38mm",
   "Slug": "hex-socket-3-4-x-38-mm-e-2221",
   "Category": "hand-tools",
   "Subcategory1": "Hand Tool",
-  "Subcategory2": "",
-  "Brand": "Eastman",
   "Images": [
     "https://www.eastmanshop.com/cdn/shop/files/MINIQKCT5DM70-xxlarge_a4e8a26c-e453-4169-bf2d-ed00149ae293_798x798.webp?v=1755949273"
   ],
   "Image": "https://www.eastmanshop.com/cdn/shop/files/MINIQKCT5DM70-xxlarge_a4e8a26c-e453-4169-bf2d-ed00149ae293_798x798.webp?v=1755949273",
-  "Description": "",
-  "DetailedInfo": "",
   "StockQuantity": 1,
   "Unit": "pc",
-  "MRP": 516,
   "Discount": 14.34,
   "SalePrice": 442,
   "Supplier": "Eastman",
-  "LastUpdated": "24/03/2026",
-  "ProductURL": "https://www.haryana.tools/product.html?sku=38-E-2221-38",
-  "Model": "",
-  "Country": "",
-  "ASIN": "",
-  "SearchKeywords": "",
-  "VideoURL": ""
+  "LastUpdated": "24/03/2026"
 }

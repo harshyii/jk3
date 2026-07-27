@@ -20,6 +20,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         sku = sku.toLowerCase().trim();
+        
+        // Load reviews immediately for this SKU on page load
+        loadAndRenderComments(sku);
+
         let response = await fetch(`dist/data/products/${sku}.json`);
 
         if (!response.ok) {
@@ -38,7 +42,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const product = await response.json();
         renderProductDetails(product);
-        loadAndRenderComments(sku);
 
         try {
             const catalogRes = await fetch('dist/data/catalog.json');
@@ -314,12 +317,28 @@ function updateCartCountBadge() {
     });
 }
 
-function loadAndRenderComments(sku) {
+async function loadAndRenderComments(sku) {
     const container = document.getElementById('comments-list-container');
     if (!container) return;
 
-    const storageKey = `ht_comments_${sku}`;
-    const comments = JSON.parse(localStorage.getItem(storageKey) || '[]');
+    container.innerHTML = '<p class="text-muted fst-italic">Loading reviews from server...</p>';
+
+    let comments = [];
+
+    try {
+        // Fetch global reviews from your Google Apps Script Web App URL
+        const response = await fetch(GOOGLE_SCRIPT_URL);
+        if (response.ok) {
+            const allReviews = await response.json();
+            // Filter reviews matching this specific product SKU
+            comments = allReviews.filter(r => r.sku === sku);
+        }
+    } catch (err) {
+        console.warn('Could not fetch remote reviews, falling back to local cache.', err);
+        // Fallback to local storage if offline/error
+        const storageKey = `ht_comments_${sku}`;
+        comments = JSON.parse(localStorage.getItem(storageKey) || '[]');
+    }
 
     if (comments.length === 0) {
         container.innerHTML = '<p class="text-muted fst-italic">No reviews yet. Be the first to share your feedback!</p>';
@@ -369,7 +388,7 @@ function escapeHtml(str) {
 }
 
 // Replace this with your actual Google Apps Script Web App URL
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbw0U2IiTNxbWAXbwvHi6HjiRdR4_nbh5iRB-1MF_NqMqW5hUJ4Y_syQrl-mQxHe-0ntKA/exec';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwRBzAd9OGyiZ4brBkxrppIazLIpSBczgii5NdGLIweGzRqlnuluz7oWL89xsJW5adm_Q/exec';
 
 document.addEventListener('submit', async (e) => {
     if (e.target && e.target.id === 'anonymous-comment-form') {
@@ -400,19 +419,19 @@ document.addEventListener('submit', async (e) => {
             author: authorInput || 'Anonymous Buyer',
             rating: ratingInput,
             text: textInput,
-            website_trap: trapInput // Bot blocker
+            website_trap: trapInput
         };
 
         try {
             // Send data to Google Sheet via Google Apps Script
             await fetch(GOOGLE_SCRIPT_URL, {
                 method: 'POST',
-                mode: 'no-cors', // Required for Google Apps Script endpoints from client-side JS
+                mode: 'no-cors',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify(payload)
             });
 
-            // Optimistically show it immediately on the page using local storage cache for that session
+            // Cache and show immediately so it persists across refreshes for this user
             const newComment = {
                 author: payload.author,
                 rating: parseInt(payload.rating),

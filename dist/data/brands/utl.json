@@ -8,34 +8,24 @@
   "metaDescription": "Find UTL solar inverters, batteries and power backup solutions.",
   "products": [
     {
-      "sku": "LONG2",
-      "slug": "solar-ongrid-2kw",
-      "name": "Solar Ongrid 2KW",
-      "brand": "utl",
-      "category": "Solar Products",
-      "price": 166750,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
+      "sku": "JKE-IIYDSUSLHBJTGOBS",
+      "slug": "utl-solar-2kw-combo-with-1200-watt-solar-panel-solar-battery-2kva-gamma-solar-inverter",
+      "name": "UTL Solar 2kW Combo with 1200 Watt Solar Panel, Solar Battery & 2kVA Gamma+ Solar Inverter",
+      "brand": "Utl",
+      "category": "Power Tools",
+      "price": "₹12,278.00",
+      "image": "https://m.media-amazon.com/images/I/41jJnYWCO3L.jpg | https://m.media-amazon.com/images/I/41jJnYWCO3L.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Solar-Combo-Battery-Inverter/dp/B09RK8S382/ref=sr_1_67"
     },
     {
-      "sku": "LONG3",
-      "slug": "solar-ongrid-3kw",
-      "name": "Solar Ongrid 3KW",
-      "brand": "utl",
-      "category": "Solar Products",
-      "price": 207000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
-    },
-    {
-      "sku": "LONG5",
-      "slug": "solar-ongrid-5kw",
-      "name": "Solar Ongrid 5KW",
-      "brand": "utl",
-      "category": "Solar Products",
-      "price": 319700,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
+      "sku": "JKE-IIYDSUSLIJIEMR2S",
+      "slug": "utl-r-mppt-solar-management-unit-40a-12v24v-solar-charge-controller-for-inverter-converts-normal-inverter-into-solar-inverter-automatic-solar-priority-system",
+      "name": "UTL r-MPPT Solar Management Unit 40A 12V/24V | Solar Charge Controller for Inverter | Converts Normal Inverter into Solar Inverter | Automatic Solar Priority System",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": "₹6,253.00",
+      "image": "https://m.media-amazon.com/images/I/51KxjL07G-L.jpg | https://m.media-amazon.com/images/I/31xbwVS6PtL.jpg | https://m.media-amazon.com/images/I/41jnpF8c1hL.jpg | https://m.media-amazon.com/images/I/410HUS7KxvL.jpg | https://m.media-amazon.com/images/I/51lX+rqSEcL.jpg | https://m.media-amazon.com/images/I/41+VxDhb8iL.jpg | https://m.media-amazon.com/images/I/41Fs8LUYSDL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-24V-Automatic-Charge-Controller/dp/B09RKBPFGR/ref=sr_1_236"
     }
   ]
 }

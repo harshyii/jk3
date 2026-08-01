@@ -1,0 +1,16 @@
+{
+  "name": "Square D",
+  "slug": "square-d",
+  "products": [
+    {
+      "sku": "JKE-IIYDAN2JIFDFSNSL",
+      "slug": "square-d-qo2100",
+      "name": "Square D - QO2100",
+      "brand": "Square D",
+      "category": "Measuring & Layout",
+      "price": "₹27,748.00",
+      "image": "https://m.media-amazon.com/images/I/31rMLXkpApL.jpg | https://m.media-amazon.com/images/I/31rMLXkpApL.jpg",
+      "productUrl": "https://www.amazon.in/Square-D-QO-2100-QO2100/dp/B007IAFY6K/ref=sr_1_98"
+    }
+  ]
+}

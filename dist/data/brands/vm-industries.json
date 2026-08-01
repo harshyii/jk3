@@ -1,0 +1,16 @@
+{
+  "name": "Vm Industries",
+  "slug": "vm-industries",
+  "products": [
+    {
+      "sku": "JKE-IIYDSNKILBGEMV2W",
+      "slug": "xtra-power-chain-saw-xpg-cs18",
+      "name": "Xtra Power Chain Saw - XPG -CS18",
+      "brand": "Vm Industries",
+      "category": "Power Tools",
+      "price": "₹11,500.00",
+      "image": "https://m.media-amazon.com/images/I/31xoqUqkyvS.jpg | https://m.media-amazon.com/images/I/31xoqUqkyvS.jpg",
+      "productUrl": "https://www.amazon.in/Xtra-Power-Chain-Saw-CS18/dp/B095HXLFWV/ref=sr_1_252"
+    }
+  ]
+}

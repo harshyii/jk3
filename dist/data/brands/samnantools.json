@@ -1,0 +1,26 @@
+{
+  "name": "Samnantools",
+  "slug": "samnantools",
+  "products": [
+    {
+      "sku": "JKE-IIYEGNSSGVFUQS2I",
+      "slug": "endico-router-sleeve-router-bit-holder-for-endico8mm",
+      "name": "Endico Router Sleeve | Router bit holder for endico|8MM",
+      "brand": "Samnantools",
+      "category": "Power Tools",
+      "price": "₹290.00",
+      "image": "https://m.media-amazon.com/images/I/31Rysq0w84L.jpg | https://m.media-amazon.com/images/I/21d6scJjmRL.jpg | https://m.media-amazon.com/images/I/21FAoXl1EiL.jpg",
+      "productUrl": "https://www.amazon.in/Samnantools-Endico-Router-Sleeve-holder/dp/B0C6R5KHKH/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-IIYEINKIGNFEIVSR",
+      "slug": "endico-router-handle-for-para8as8-modelsendico-spare-parts",
+      "name": "Endico Router handle For Para8,As8 Models|Endico Spare Parts",
+      "brand": "Samnantools",
+      "category": "Power Tools",
+      "price": "₹290.00",
+      "image": "https://m.media-amazon.com/images/I/4180UL4anyL.jpg | https://m.media-amazon.com/images/I/31rq0ZacHkL.jpg",
+      "productUrl": "https://www.amazon.in/Samnantools-Endico-Router-handle-Models/dp/B0D5H3JDVQ/ref=sr_1_27"
+    }
+  ]
+}

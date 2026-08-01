@@ -1,0 +1,26 @@
+{
+  "name": "Vigil",
+  "slug": "vigil",
+  "products": [
+    {
+      "sku": "JKE-IIYEIQRVLFJUYN2Z",
+      "slug": "vigil-100-led-solar-lights-3-modes-waterproof-ip65-motion-sensor-for-home-garden-balcony-pool-pathway-garage-outdoor",
+      "name": "VIGIL 100 LED Solar Lights, 3 Modes, Waterproof IP65, Motion Sensor, for Home, Garden, Balcony, Pool, Pathway, Garage, Outdoor",
+      "brand": "Vigil",
+      "category": "Safety & PPE",
+      "price": "₹390.00",
+      "image": "https://m.media-amazon.com/images/I/41GdNim6ZBS.jpg | https://m.media-amazon.com/images/I/41GdNim6ZBS.jpg | https://m.media-amazon.com/images/I/41IRyxGyJIS.jpg | https://m.media-amazon.com/images/I/518P0ZYYo5S.jpg | https://m.media-amazon.com/images/I/61Ey6a-oSTL.jpg | https://m.media-amazon.com/images/I/51tOD678ReS.jpg | https://m.media-amazon.com/images/I/41WARZW5ScL.jpg | https://m.media-amazon.com/images/I/510Aio1mwJL.jpg",
+      "productUrl": "https://www.amazon.in/Lights-Waterproof-Balcony-Pathway-Outdoor/dp/B0DB5YSL7Y/ref=sr_1_98"
+    },
+    {
+      "sku": "JKE-IIYEIQRVLFJEERSI",
+      "slug": "vigil-100-led-solar-lights-3-modes-ip65-waterproof-motion-sensor-for-outdoor-garden-balcony-swimming-pool-pathway-fencing",
+      "name": "VIGIL 100 LED Solar Lights, 3 Modes, IP65 Waterproof, Motion Sensor, for Outdoor Garden, Balcony, Swimming Pool, Pathway, Fencing",
+      "brand": "Vigil",
+      "category": "General Hardware",
+      "price": "₹390.00",
+      "image": "https://m.media-amazon.com/images/I/41GdNim6ZBS.jpg | https://m.media-amazon.com/images/I/41GdNim6ZBS.jpg | https://m.media-amazon.com/images/I/41IRyxGyJIS.jpg | https://m.media-amazon.com/images/I/518P0ZYYo5S.jpg | https://m.media-amazon.com/images/I/51tOD678ReS.jpg | https://m.media-amazon.com/images/I/510Aio1mwJL.jpg | https://m.media-amazon.com/images/I/51iaoq6y3WL.jpg | https://m.media-amazon.com/images/I/519TG923-BL.jpg",
+      "productUrl": "https://www.amazon.in/Waterproof-Outdoor-Balcony-Swimming-Pathway/dp/B0DB5YRBFH/ref=sr_1_106"
+    }
+  ]
+}

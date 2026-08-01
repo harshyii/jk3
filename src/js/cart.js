@@ -1,6 +1,15 @@
 import { API } from './api.js';
 import { Utils } from './utils.js';
 
+// Helper function to safely parse prices like '₹340.00' or '₹1,139' into clean numbers
+const parseNumericPrice = (value) => {
+    if (value === undefined || value === null) return 0;
+    if (typeof value === 'number') return isNaN(value) ? 0 : value;
+    const cleanStr = value.toString().replace(/[^0-9.]/g, '');
+    const parsed = parseFloat(cleanStr);
+    return isNaN(parsed) ? 0 : parsed;
+};
+
 const CartPage = {
     async init() {
         console.log("🛒 Cart Page Controller Initialized");
@@ -44,35 +53,51 @@ const CartPage = {
 
         if (checkoutBtn) checkoutBtn.disabled = false;
 
-        cartContainer.innerHTML = cart.map((item, index) => `
-            <div class="card mb-3 shadow-sm border-0 p-3" style="width: 100% !important; max-width: 100% !important;">
-                <div class="row align-items-center g-3">
-                    <div class="col-4 col-md-2 text-center">
-                        <img src="${item.image || item.Image || '404.webp'}" alt="${item.name || item.Name}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='404.webp'">
-                    </div>
-                    <div class="col-8 col-md-4">
-                        <h5 class="h6 fw-bold mb-1">${item.name || item.Name}</h5>
-                        <small class="text-muted d-block mb-1">SKU: ${item.sku || item.SKU || 'N/A'}</small>
-                        <span class="text-primary fw-semibold">${Utils.formatCurrency ? Utils.formatCurrency(item.price || item.SalePrice || 0) : '₹' + (item.price || 0)}</span>
-                    </div>
-                    <div class="col-6 col-md-3">
-                        <div class="input-group input-group-sm" style="max-width: 110px;">
-                            <button class="btn btn-outline-secondary qty-decrease" data-index="${index}">-</button>
-                            <input type="text" class="form-control text-center bg-white" value="${item.quantity || item.qty || 1}" readonly>
-                            <button class="btn btn-outline-secondary qty-increase" data-index="${index}">+</button>
+        cartContainer.innerHTML = cart.map((item, index) => {
+            const rawPrice = item.current_price ?? item["Sale Price"] ?? item.SalePrice ?? item.price ?? item.Price ?? item.MRP ?? 0;
+            const itemPrice = parseNumericPrice(rawPrice);
+            const itemQty = Number(item.quantity || item.qty || 1);
+            const itemTotal = itemPrice * itemQty;
+            const itemName = item.name || item.Name || item.title || item.Title || 'Product';
+            const itemImage = item.image || item.Image || item.image_url_1 || '404.webp';
+            const itemSku = item.sku || item.SKU || 'N/A';
+
+            return `
+                <div class="card mb-3 shadow-sm border-0 p-3" style="width: 100% !important; max-width: 100% !important;">
+                    <div class="row align-items-center g-3">
+                        <div class="col-4 col-md-2 text-center">
+                            <img src="${itemImage}" alt="${itemName}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='404.webp'">
+                        </div>
+                        <div class="col-8 col-md-4">
+                            <h5 class="h6 fw-bold mb-1">${itemName}</h5>
+                            <small class="text-muted d-block mb-1">SKU: ${itemSku}</small>
+                            <span class="text-primary fw-semibold">${Utils.formatCurrency ? Utils.formatCurrency(itemPrice) : '₹' + itemPrice.toLocaleString('en-IN')}</span>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <div class="input-group input-group-sm" style="max-width: 110px;">
+                                <button class="btn btn-outline-secondary qty-decrease" data-index="${index}" type="button">-</button>
+                                <input type="text" class="form-control text-center bg-white" value="${itemQty}" readonly>
+                                <button class="btn btn-outline-secondary qty-increase" data-index="${index}" type="button">+</button>
+                            </div>
+                        </div>
+                        <div class="col-6 col-md-3 text-end">
+                            <span class="fw-bold text-dark d-block mb-1">${Utils.formatCurrency ? Utils.formatCurrency(itemTotal) : '₹' + itemTotal.toLocaleString('en-IN')}</span>
+                            <button class="btn btn-sm btn-link text-danger p-0 text-decoration-none remove-item-btn" data-index="${index}" type="button">Remove</button>
                         </div>
                     </div>
-                    <div class="col-6 col-md-3 text-end">
-                        <span class="fw-bold text-dark d-block mb-1">${Utils.formatCurrency ? Utils.formatCurrency((item.price || item.SalePrice || 0) * (item.quantity || item.qty || 1)) : '₹0.00'}</span>
-                        <button class="btn btn-sm btn-link text-danger p-0 text-decoration-none remove-item-btn" data-index="${index}">Remove</button>
-                    </div>
                 </div>
-            </div>
-        `).join('');
+            `;
+        }).join('');
 
-        const total = cart.reduce((sum, item) => sum + ((item.price || item.SalePrice || 0) * (item.quantity || item.qty || 1)), 0);
+        const total = cart.reduce((sum, item) => {
+            const rawPrice = item.current_price ?? item["Sale Price"] ?? item.SalePrice ?? item.price ?? item.Price ?? item.MRP ?? 0;
+            const price = parseNumericPrice(rawPrice);
+            const qty = Number(item.quantity || item.qty || 1);
+            return sum + (price * qty);
+        }, 0);
+
         if (cartTotalEl) {
-            cartTotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(total) : '₹' + total;
+            cartTotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(total) : '₹' + total.toLocaleString('en-IN');
         }
     },
 
@@ -80,24 +105,30 @@ const CartPage = {
         const cartContainer = document.getElementById('cart-items');
         if (cartContainer) {
             cartContainer.addEventListener('click', (e) => {
+                const targetBtn = e.target.closest('button');
+                if (!targetBtn) return;
+
                 let cart = this.getCart();
-                const index = e.target.dataset.index;
+                const index = targetBtn.dataset.index;
                 if (index === undefined) return;
 
-                const currentQty = Number(cart[index].quantity || cart[index].qty || 1);
+                const cartIndex = parseInt(index, 10);
+                if (isNaN(cartIndex) || !cart[cartIndex]) return;
 
-                if (e.target.classList.contains('qty-increase')) {
-                    cart[index].quantity = currentQty + 1;
-                    if (cart[index].qty) cart[index].qty = cart[index].quantity;
-                } else if (e.target.classList.contains('qty-decrease')) {
+                const currentQty = Number(cart[cartIndex].quantity || cart[cartIndex].qty || 1);
+
+                if (targetBtn.classList.contains('qty-increase')) {
+                    cart[cartIndex].quantity = currentQty + 1;
+                    if (cart[cartIndex].qty !== undefined) cart[cartIndex].qty = cart[cartIndex].quantity;
+                } else if (targetBtn.classList.contains('qty-decrease')) {
                     if (currentQty > 1) {
-                        cart[index].quantity = currentQty - 1;
-                        if (cart[index].qty) cart[index].qty = cart[index].quantity;
+                        cart[cartIndex].quantity = currentQty - 1;
+                        if (cart[cartIndex].qty !== undefined) cart[cartIndex].qty = cart[cartIndex].quantity;
                     } else {
-                        cart.splice(index, 1);
+                        cart.splice(cartIndex, 1);
                     }
-                } else if (e.target.classList.contains('remove-item-btn')) {
-                    cart.splice(index, 1);
+                } else if (targetBtn.classList.contains('remove-item-btn')) {
+                    cart.splice(cartIndex, 1);
                 }
 
                 this.saveCart(cart);
@@ -111,22 +142,24 @@ const CartPage = {
                 const addBtn = e.target.closest('.add-to-cart-btn');
                 if (!addBtn) return;
 
+                const rawPrice = addBtn.dataset.price;
                 const product = {
                     sku: addBtn.dataset.sku || addBtn.dataset.slug,
                     slug: addBtn.dataset.slug,
                     name: addBtn.dataset.name,
-                    price: parseFloat(addBtn.dataset.price),
+                    price: parseNumericPrice(rawPrice),
                     image: addBtn.dataset.image,
                     quantity: 1,
                     unit: 'PC'
                 };
 
                 let cart = this.getCart();
-                const existingIndex = cart.findIndex(item => (item.sku === product.sku) || (item.slug === product.slug));
+                const existingIndex = cart.findIndex(item => (String(item.sku) === String(product.sku)) || (item.slug === product.slug));
 
                 if (existingIndex > -1) {
-                    cart[existingIndex].quantity = (cart[existingIndex].quantity || cart[existingIndex].qty || 1) + 1;
-                    if (cart[existingIndex].qty) cart[existingIndex].qty = cart[existingIndex].quantity;
+                    const currentQty = Number(cart[existingIndex].quantity || cart[existingIndex].qty || 1);
+                    cart[existingIndex].quantity = currentQty + 1;
+                    if (cart[existingIndex].qty !== undefined) cart[existingIndex].qty = cart[existingIndex].quantity;
                 } else {
                     cart.push(product);
                 }
@@ -165,35 +198,47 @@ const CartPage = {
 
         try {
             const catalog = await API.getCatalog() || [];
-            const recommendations = catalog.sort(() => 0.5 - Math.random()).slice(0, 3);
+            const recommendations = [...catalog].sort(() => 0.5 - Math.random()).slice(0, 3);
 
             if (recommendations.length === 0) {
                 recommendationContainer.innerHTML = '<p class="text-muted text-center">No recommendations available at the moment.</p>';
                 return;
             }
 
-            recommendationContainer.innerHTML = recommendations.map(p => `
-                <div class="col">
-                    <div class="card h-100 shadow-sm border-0 d-flex flex-column">
-                        <img src="${p.image || p.Image || '404.webp'}" class="card-img-top p-3" alt="${p.name || p.Name}" style="height: 160px; object-fit: contain;" onerror="this.src='404.webp'">
-                        <div class="card-body d-flex flex-column">
-                            <h6 class="card-title text-truncate fw-bold">${p.name || p.Name}</h6>
-                            <p class="text-primary fw-semibold mb-3">${Utils.formatCurrency ? Utils.formatCurrency(p.price || p.SalePrice || 0) : '₹' + (p.price || 0)}</p>
-                            <div class="d-flex gap-2 mt-auto">
-                                <a href="product.html?sku=${p.sku || p.SKU}&slug=${p.slug || p.Slug}" class="btn btn-sm btn-outline-primary w-50">Details</a>
-                                <button class="btn btn-sm btn-primary w-50 add-to-cart-btn" 
-                                        data-sku="${p.sku || p.SKU}"
-                                        data-slug="${p.slug || p.Slug}" 
-                                        data-name="${p.name || p.Name}" 
-                                        data-price="${p.price || p.SalePrice || 0}" 
-                                        data-image="${p.image || p.Image || '404.webp'}">
-                                    Add
-                                </button>
+            recommendationContainer.innerHTML = recommendations.map(p => {
+                const pSku = p.sku || p.SKU || '';
+                const pSlug = p.slug || p.Slug || '';
+                const pName = p.name || p.Name || p.title || p.Title || 'Product';
+                
+                const rawPrice = p.current_price ?? p["Sale Price"] ?? p.SalePrice ?? p.price ?? p.Price ?? p.MRP ?? 0;
+                const pPrice = parseNumericPrice(rawPrice);
+                
+                const pImage = p.image || p.Image || p.image_url_1 || '404.webp';
+
+                return `
+                    <div class="col">
+                        <div class="card h-100 shadow-sm border-0 d-flex flex-column">
+                            <img src="${pImage}" class="card-img-top p-3" alt="${pName}" style="height: 160px; object-fit: contain;" onerror="this.src='404.webp'">
+                            <div class="card-body d-flex flex-column">
+                                <h6 class="card-title text-truncate fw-bold">${pName}</h6>
+                                <p class="text-primary fw-semibold mb-3">${Utils.formatCurrency ? Utils.formatCurrency(pPrice) : '₹' + pPrice.toLocaleString('en-IN')}</p>
+                                <div class="d-flex gap-2 mt-auto">
+                                    <a href="product.html?sku=${encodeURIComponent(pSku)}&slug=${encodeURIComponent(pSlug)}" class="btn btn-sm btn-outline-primary w-50">Details</a>
+                                    <button class="btn btn-sm btn-primary w-50 add-to-cart-btn" 
+                                            data-sku="${pSku}"
+                                            data-slug="${pSlug}" 
+                                            data-name="${pName}" 
+                                            data-price="${rawPrice}" 
+                                            data-image="${pImage}"
+                                            type="button">
+                                        Add
+                                    </button>
+                                </div>
                             </div>
                         </div>
                     </div>
-                </div>
-            `).join('');
+                `;
+            }).join('');
         } catch (err) {
             console.error('❌ Error loading recommendations:', err);
         }

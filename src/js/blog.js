@@ -10,6 +10,49 @@ function escapeHtml(str) {
         .replace(/'/g, '&#039;');
 }
 
+function updateBlogMetaTags(metaInfo) {
+    const title = metaInfo.title ? `${metaInfo.title} - Haryana Tools Blog` : 'Blog - Haryana Tools';
+    const description = metaInfo.description || 'Explore expert guides, industrial tool tips, and industry insights from Haryana Tools.';
+    const currentUrl = window.location.href;
+    
+    let image = metaInfo.image || '404.webp';
+    const absoluteImageUrl = image.startsWith('http') ? image : new URL(image, window.location.origin).href;
+
+    // Update standard title
+    document.title = title;
+
+    // Helper to safely set or create meta tags
+    const setMetaTag = (propertyAttr, attrName, value) => {
+        if (!value) return;
+        let selector = propertyAttr ? `meta[property="${propertyAttr}"]` : `meta[name="${attrName}"]`;
+        let tag = document.querySelector(selector);
+        
+        if (!tag) {
+            tag = document.createElement('meta');
+            if (propertyAttr) tag.setAttribute('property', propertyAttr);
+            if (attrName) tag.setAttribute('name', attrName);
+            document.head.appendChild(tag);
+        }
+        tag.setAttribute('content', value);
+    };
+
+    // Standard SEO Meta
+    setMetaTag(null, 'description', description);
+
+    // Open Graph / Facebook / WhatsApp Meta Tags
+    setMetaTag('og:title', null, title);
+    setMetaTag('og:description', null, description);
+    setMetaTag('og:image', null, absoluteImageUrl);
+    setMetaTag('og:url', null, currentUrl);
+    setMetaTag('og:type', null, metaInfo.isArticle ? 'article' : 'website');
+
+    // Twitter Card Meta Tags
+    setMetaTag(null, 'twitter:card', 'summary_large_image');
+    setMetaTag(null, 'twitter:title', title);
+    setMetaTag(null, 'twitter:description', description);
+    setMetaTag(null, 'twitter:image', absoluteImageUrl);
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
     const container = document.getElementById('blog-list-container');
     if (!container) return;
@@ -56,6 +99,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
             const singleImage = post.FeaturedImage || post.featuredImage || post.image || post.Image || '404.webp';
+            const singleExcerpt = post.excerpt || post.MetaDescription || post.metaDescription || `Read ${singleTitle} on Haryana Tools blog.`;
             let rawDate = post.date || post.Date || '';
             let displayDate = rawDate ? rawDate : 'Recent Guide';
             let mdFileSource = post.markdownFile || post.MarkdownFile || post.file || `${slug}.md`;
@@ -64,6 +108,14 @@ document.addEventListener('DOMContentLoaded', async () => {
             if (!cleanRelativePath.startsWith('src/') && !cleanRelativePath.startsWith('dist/')) {
                 cleanRelativePath = `src/data/blogs/${cleanRelativePath}`;
             }
+
+            // 👉 Set dynamic meta tags for single blog post view
+            updateBlogMetaTags({
+                title: singleTitle,
+                description: singleExcerpt,
+                image: singleImage,
+                isArticle: true
+            });
 
             let markdownContent = '';
             const pathsToTry = [
@@ -119,6 +171,13 @@ document.addEventListener('DOMContentLoaded', async () => {
 
             container.innerHTML = `<article class="single-blog py-3 w-100"><nav aria-label="breadcrumb" class="mb-4"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="blog.html" class="text-decoration-none">Blog Feed</a></li><li class="breadcrumb-item active text-truncate" aria-current="page" style="max-width: 300px;">${escapeHtml(singleTitle)}</li></ol></nav><h1 class="fw-bold text-dark mb-3">${escapeHtml(singleTitle)}</h1><p class="text-muted mb-4"><i class="bi bi-person-circle me-1"></i>By ${escapeHtml(singleAuthor)} &bull; <i class="bi bi-calendar3 ms-2 me-1"></i>${escapeHtml(displayDate)} &bull; <span class="badge bg-secondary ms-1">${escapeHtml(singleCategory)}</span></p>${singleImage ? `<div class="my-4"><img src="${escapeHtml(singleImage)}" alt="${escapeHtml(singleTitle)}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;"></div>` : ''}<div class="blog-content mt-4 text-secondary lh-lg fs-5">${renderedHtml}</div></article>`;
         } else {
+            // 👉 Set default metadata for main blog listing page feed
+            updateBlogMetaTags({
+                title: 'Industrial Tools & Equipment Blog Feed',
+                description: 'Explore expert guides, industrial tool usage tips, and industry updates from Haryana Tools.',
+                isArticle: false
+            });
+
             if (allBlogs.length === 0) {
                 container.innerHTML = `<div class="col-12 text-center py-5"><p class="text-muted">No blog posts found.</p></div>`;
                 return;

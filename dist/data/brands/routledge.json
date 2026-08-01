@@ -1,0 +1,26 @@
+{
+  "name": "Routledge",
+  "slug": "routledge",
+  "products": [
+    {
+      "sku": "JKE-GE4DINBQG43TGNRV",
+      "slug": "solar-domestic-water-heating-the-earthscan-expert-handbook-for-planning-design-and-installation",
+      "name": "Solar Domestic Water Heating: The Earthscan Expert Handbook for Planning, Design and Installation",
+      "brand": "Routledge",
+      "category": "General Hardware",
+      "price": "₹15,322.00",
+      "image": "https://m.media-amazon.com/images/I/512nbdhzfiL.jpg | https://m.media-amazon.com/images/I/512nbdhzfiL.jpg",
+      "productUrl": "https://www.amazon.in/Solar-Domestic-Water-Heating-Installation/dp/1844077365/ref=sr_1_92"
+    },
+    {
+      "sku": "JKE-GE4DINBQG43TCMZW",
+      "slug": "stand-alone-solar-electric-systems-the-earthscan-expert-handbook-on-planning-design-and-installation",
+      "name": "Stand-Alone Solar Electric Systems: The Earthscan Expert Handbook on Planning, Design and Installation",
+      "brand": "Routledge",
+      "category": "General Hardware",
+      "price": "₹18,841.00",
+      "image": "https://m.media-amazon.com/images/I/71bUu6i1VkL.jpg | https://m.media-amazon.com/images/I/41BBSDWkHTL.jpg",
+      "productUrl": "https://www.amazon.in/Stand-Alone-Solar-Electric-Systems-Installation/dp/1844077136/ref=sr_1_80"
+    }
+  ]
+}

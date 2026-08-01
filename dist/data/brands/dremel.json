@@ -6,5 +6,16 @@
   "description": "Discover Dremel rotary tools, multi-tools, precision cutting accessories, and crafting tools.",
   "seoTitle": "Dremel Rotary Tools Online | Haryana.Tools",
   "metaDescription": "Shop Dremel high-precision rotary tools, attachments, and engraving accessories.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDQWKLJA4UUUSI",
+      "slug": "dremel-7350-5-cordless-rotary-tool-kit-includes-4v-li-ion-battery-and-5-rotary-tool-accessories-ideal-for-light-diy-projects-and-precision-work",
+      "name": "Dremel 7350-5 Cordless Rotary Tool Kit, Includes 4V Li-ion Battery and 5 Rotary Tool Accessories - Ideal for Light DIY Projects and Precision Work",
+      "brand": "Dremel",
+      "category": "Power Tools",
+      "price": "₹5,034.42",
+      "image": "https://m.media-amazon.com/images/I/51l3OsiDJCL.jpg | https://m.media-amazon.com/images/I/31j2-IjDzQL.jpg | https://m.media-amazon.com/images/I/311g2JRw9bL.jpg | https://m.media-amazon.com/images/I/41dSBTGf8iL.jpg | https://m.media-amazon.com/images/I/41ruMWQVkQL.jpg | https://m.media-amazon.com/images/I/41NqsMCbeZL.jpg | https://m.media-amazon.com/images/I/51mdZeqngYL.jpg | https://m.media-amazon.com/images/I/5103eh5MDSL.jpg",
+      "productUrl": "https://www.amazon.in/Dremel-7350-5-Cordless-Battery-Accessories/dp/B08YKH9JRH/ref=sr_1_121"
+    }
+  ]
 }

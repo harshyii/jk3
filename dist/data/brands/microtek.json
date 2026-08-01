@@ -6,5 +6,36 @@
   "description": "Shop Microtek solar inverters, solar PCUs, tubular solar batteries, and voltage stabilizers.",
   "seoTitle": "Microtek Solar & Inverters | Haryana.Tools",
   "metaDescription": "Find Microtek solar PCUs, rooftop inverters, and power backup solutions online.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDQNBUGI2VEV2H",
+      "slug": "microtek-iron-polycrystalline-solar-pv-module-for-home-officeshops-50w12v",
+      "name": "MICROTEK Iron Polycrystalline Solar Pv Module for Home, Office&Shops-50W/12V",
+      "brand": "Microtek",
+      "category": "Power Tools",
+      "price": "₹1,899.00",
+      "image": "https://m.media-amazon.com/images/I/61TuWzfZ6BL.jpg | https://m.media-amazon.com/images/I/31GbtiXIgRL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
+      "productUrl": "https://www.amazon.in/MICROTEK-Polycrystalline-Module-Office-Shops-50W/dp/B084425RWG/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYDQNBUGIYUWS22",
+      "slug": "microtek-solar-panel-mtk-75watt-12v",
+      "name": "Microtek Solar Panel MTK 75Watt 12V",
+      "brand": "Microtek",
+      "category": "Power Tools",
+      "price": "₹4,699.00",
+      "image": "https://m.media-amazon.com/images/I/61TuWzfZ6BL.jpg | https://m.media-amazon.com/images/I/31GbtiXIgRL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Solar-Panel-MTK-75Watt/dp/B084421KKZ/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-IIYEGNRSHFFVCR2Z",
+      "slug": "microtek-polycrystalline-solar-pv-module-for-home-office-shops-75w-12vpack-of-2",
+      "name": "Microtek Polycrystalline Solar PV Module for Home, Office & Shops (75W-12V(Pack of 2))",
+      "brand": "Microtek",
+      "category": "Garden & Outdoor",
+      "price": "₹5,599.00",
+      "image": "https://m.media-amazon.com/images/I/519KRrtkp6L.jpg | https://m.media-amazon.com/images/I/41sma4Z7jBL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Polycrystalline-Module-Office-75W-12V/dp/B0C629KQGY/ref=sr_1_58"
+    }
+  ]
 }

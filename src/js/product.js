@@ -1,3 +1,6 @@
+// GOOGLE APPS SCRIPT URL FOR REVIEWS
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwRBzAd9OGyiZ4brBkxrppIazLIpSBczgii5NdGLIweGzRqlnuluz7oWL89xsJW5adm_Q/exec';
+
 document.addEventListener('DOMContentLoaded', async () => {
     const urlParams = new URLSearchParams(window.location.search);
     let sku = urlParams.get('sku') || urlParams.get('id') || urlParams.get('asin');
@@ -21,7 +24,6 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         sku = sku.toLowerCase().trim();
         
-        // Load reviews immediately for this SKU on page load
         loadAndRenderComments(sku);
 
         let response = await fetch(`dist/data/products/${sku}.json`);
@@ -42,7 +44,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
         const product = await response.json();
         renderProductDetails(product);
-
+        
         try {
             const catalogRes = await fetch('dist/data/catalog.json');
             if (catalogRes.ok) {
@@ -58,10 +60,19 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
+function parseNumericPrice(value) {
+    if (value === undefined || value === null) return 0;
+    if (typeof value === 'number') return isNaN(value) ? 0 : value;
+    
+    const cleanStr = value.toString().replace(/[^0-9.]/g, '');
+    const parsed = parseFloat(cleanStr);
+    return isNaN(parsed) ? 0 : parsed;
+}
+
 function renderProductDetails(product) {
     const productName = product.title || product.Name || product.name || 'Product';
     document.title = `${productName} - Haryana Tools`;
-
+    updatePageMetaTags(product);
     const breadcrumbContainer = document.getElementById('product-breadcrumb');
     if (breadcrumbContainer) {
         const categoryName = product.Category || product.category || '';
@@ -74,14 +85,29 @@ function renderProductDetails(product) {
 
     const pSku = product.SKU || product.sku || product.asin || product.ASIN || '';
     const pBrand = product.brand || product.Brand || 'General';
+    const brandSlug = slugify(pBrand);
+
     const pCategory = product.Category || product.category || 'Uncategorized';
+    const categorySlug = slugify(pCategory);
+
     const stockQty = product.StockQuantity !== undefined ? product.StockQuantity : (product.stockQuantity !== undefined ? product.stockQuantity : 10);
     const pUnit = product.Unit || product.unit || 'PC';
 
     setTextContent('product-title', productName);
     setTextContent('product-sku', pSku);
-    setTextContent('product-brand', pBrand);
-    setTextContent('product-category', pCategory);
+    
+    // Make Brand clickable right next to title
+    const brandEl = document.getElementById('product-brand');
+    if (brandEl) {
+        brandEl.innerHTML = `<a href="category.html?brand=${brandSlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(pBrand)}</a>`;
+    }
+
+    // Make Category clickable or viewable
+    const categoryEl = document.getElementById('product-category');
+    if (categoryEl) {
+        categoryEl.innerHTML = `<a href="category.html?slug=${categorySlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(pCategory)}</a>`;
+    }
+
     setTextContent('product-stock', stockQty > 0 ? `In Stock (${stockQty}${pUnit})` : 'Out of Stock');
 
     const stockBadge = document.getElementById('product-stock');
@@ -94,13 +120,18 @@ function renderProductDetails(product) {
     const mrpEl = document.getElementById('product-mrp');
     const discountEl = document.getElementById('product-discount');
     
-    const salePrice = product.current_price || product.SalePrice || product.salePrice || product.price || product.MRP || 0;
-    const mrpPrice = product.mrp || product.MRP || 0;
+    const rawSalePrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.salePrice ?? product.price ?? product.MRP ?? 0;
+    const salePrice = parseNumericPrice(rawSalePrice);
+
+    const rawMrpPrice = product.mrp ?? product["List Price"] ?? product.ListPrice ?? product.MRP ?? 0;
+    const mrpPrice = parseNumericPrice(rawMrpPrice);
+
     const discountPct = product.Discount || product.discount || 0;
 
-    if (priceEl) priceEl.textContent = `₹${Number(salePrice).toLocaleString('en-IN')}`;
-    if (mrpEl && mrpPrice && mrpPrice > salePrice) {
-        mrpEl.textContent = `₹${Number(mrpPrice).toLocaleString('en-IN')}`;
+    if (priceEl) priceEl.textContent = `₹${salePrice.toLocaleString('en-IN')}`;
+    
+    if (mrpEl && mrpPrice > salePrice) {
+        mrpEl.textContent = `₹${mrpPrice.toLocaleString('en-IN')}`;
         mrpEl.style.display = 'inline';
     } else if (mrpEl) {
         mrpEl.style.display = 'none';
@@ -123,6 +154,64 @@ function renderProductDetails(product) {
     const imagesList = product.image_urls || product.Images || product.images || [product.image_url_1 || product.Image || product.image];
     renderImageGallery(imagesList, productName);
     initActionButtons(product);
+
+
+
+    function updatePageMetaTags(product) {
+    const productName = product.title || product.Name || product.name || 'Haryana Tools Product';
+    const rawPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.salePrice ?? product.price ?? product.MRP ?? 0;
+    const salePrice = parseNumericPrice(rawPrice);
+    const productDesc = product.description || product.Description || product.DetailedInfo || `Buy ${productName} at the best price on Haryana Tools.`;
+    
+    // Clean description text from HTML tags for meta description
+    const tempDiv = document.createElement('div');
+    tempDiv.innerHTML = productDesc;
+    const cleanDesc = (tempDiv.textContent || tempDiv.innerText || '').substring(0, 160);
+
+    const imagesList = product.image_urls || product.Images || product.images || [product.image_url_1 || product.Image || product.image];
+    const productImage = imagesList && imagesList.length > 0 ? imagesList[0] : '404.webp';
+    
+    // Make image URL absolute if it's relative (recommended for social sharing crawlers)
+    const absoluteImageUrl = productImage.startsWith('http') ? productImage : new URL(productImage, window.location.origin).href;
+    const currentUrl = window.location.href;
+
+    // Update standard title
+    document.title = `${productName} - ₹${salePrice.toLocaleString('en-IN')} | Haryana Tools`;
+
+    // Helper to safely set or create meta tags
+    const setMetaTag = (propertyAttr, attrName, value) => {
+        if (!value) return;
+        let selector = propertyAttr ? `meta[property="${propertyAttr}"]` : `meta[name="${attrName}"]`;
+        let tag = document.querySelector(selector);
+        
+        if (!tag) {
+            tag = document.createElement('meta');
+            if (propertyAttr) tag.setAttribute('property', propertyAttr);
+            if (attrName) tag.setAttribute('name', attrName);
+            document.head.appendChild(tag);
+        }
+        tag.setAttribute('content', value);
+    };
+
+    // Standard SEO Meta
+    setMetaTag(null, 'description', cleanDesc);
+
+    // Open Graph / Facebook / WhatsApp Meta Tags
+    setMetaTag('og:title', null, `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
+    setMetaTag('og:description', null, cleanDesc);
+    setMetaTag('og:image', null, absoluteImageUrl);
+    setMetaTag('og:url', null, currentUrl);
+    setMetaTag('og:type', null, 'product');
+
+    // Twitter Card Meta Tags
+    setMetaTag(null, 'twitter:card', 'summary_large_image');
+    setMetaTag(null, 'twitter:title', `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
+    setMetaTag(null, 'twitter:description', cleanDesc);
+    setMetaTag(null, 'twitter:image', absoluteImageUrl);
+}
+
+
+
 }
 
 function renderImageGallery(images, productName) {
@@ -162,21 +251,42 @@ function renderSpecifications(product) {
     const specsContainer = document.getElementById('product-specs-table');
     if (!specsContainer) return;
 
+    const brandName = product.brand || product.Brand || 'General';
+    const brandSlug = slugify(brandName);
+
+    const categoryName = product.Category || product.category || 'Uncategorized';
+    const categorySlug = slugify(categoryName);
+
+    const manufacturerName = product.manufacturer || product.Manufacturer || brandName;
+    const manufacturerSlug = slugify(manufacturerName);
+
     let specs = [
         { label: 'ASIN / SKU', value: product.asin || product.SKU || product.sku },
-        { label: 'Brand', value: product.brand || product.Brand },
+        { label: 'Brand', value: `<a href="category.html?brand=${brandSlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(brandName)}</a>`, isHtml: true },
         { label: 'Model Number', value: product.Model || product.model },
-        { label: 'Category', value: product.Category || product.category },
+        { label: 'Category', value: `<a href="category.html?slug=${categorySlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(categoryName)}</a>`, isHtml: true },
         { label: 'Subcategory', value: product.Subcategory || product.subcategory },
+        { label: 'Manufacturer', value: `<a href="category.html?brand=${manufacturerSlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(manufacturerName)}</a>`, isHtml: true },
         { label: 'Country of Origin', value: product.Country || product.country },
         { label: 'Rating', value: product.rating }
-    ].filter(s => s.value);
+    ].filter(s => s.value !== undefined && s.value !== null && s.value !== '');
 
     if (product.specifications && typeof product.specifications === 'object') {
         for (const [key, val] of Object.entries(product.specifications)) {
             if (val !== undefined && val !== null && val !== '') {
                 const formattedLabel = key.replace(/([A-Z])/g, ' $1').replace(/_/g, ' ').replace(/^./, str => str.toUpperCase());
-                specs.push({ label: formattedLabel, value: val });
+                let finalVal = val;
+                const lowerKey = key.toLowerCase();
+
+                if (lowerKey.includes('brand')) {
+                    finalVal = `<a href="category.html?brand=${slugify(val)}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(val)}</a>`;
+                } else if (lowerKey.includes('category')) {
+                    finalVal = `<a href="category.html?slug=${slugify(val)}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(val)}</a>`;
+                } else if (lowerKey.includes('manufacturer')) {
+                    finalVal = `<a href="category.html?brand=${slugify(val)}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(val)}</a>`;
+                }
+
+                specs.push({ label: formattedLabel, value: finalVal, isHtml: true });
             }
         }
     }
@@ -184,7 +294,7 @@ function renderSpecifications(product) {
     specsContainer.innerHTML = specs.map(s => `
         <tr>
             <th class="w-25 text-muted">${escapeHtml(s.label)}</th>
-            <td>${escapeHtml(s.value)}</td>
+            <td>${s.isHtml ? s.value : escapeHtml(s.value)}</td>
         </tr>
     `).join('');
 }
@@ -212,7 +322,10 @@ function renderRelatedProducts(currentProduct, catalog) {
         const productSku = product.sku || product.SKU || product.asin || '';
         const productName = product.name || product.Name || product.title || '';
         const productImg = product.image || product.Image || '404.webp';
-        const productPrice = product.price || product.current_price || product.SalePrice || product.MRP || 0;
+        
+        const rawRelatedPrice = product.price ?? product["Sale Price"] ?? product.current_price ?? product.SalePrice ?? product.MRP ?? 0;
+        const productPrice = parseNumericPrice(rawRelatedPrice);
+        
         const productBrand = product.brand || product.Brand || 'General';
 
         return `
@@ -229,7 +342,7 @@ function renderRelatedProducts(currentProduct, catalog) {
                             <a href="product.html?sku=${productSku}" class="text-dark text-decoration-none stretched-link">${escapeHtml(productName)}</a>
                         </h5>
                         <div class="mt-auto d-flex align-items-center justify-content-between pt-2">
-                            <span class="fw-bold text-primary">₹${Number(productPrice).toLocaleString('en-IN')}</span>
+                            <span class="fw-bold text-primary">₹${productPrice.toLocaleString('en-IN')}</span>
                             <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-primary position-relative z-1">View</a>
                         </div>
                     </div>
@@ -290,6 +403,9 @@ function addToCartAction(product, quantity) {
     const productSku = (product.sku || product.SKU || product.asin || '').toLowerCase().trim();
     const existingIndex = cart.findIndex(item => (item.sku || '').toLowerCase().trim() === productSku);
 
+    const rawCartPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.salePrice ?? product.MRP ?? product.price ?? 0;
+    const itemPrice = parseNumericPrice(rawCartPrice);
+
     if (existingIndex > -1) {
         cart[existingIndex].quantity = (cart[existingIndex].quantity || cart[existingIndex].qty || 1) + quantity;
         if (cart[existingIndex].qty) cart[existingIndex].qty = cart[existingIndex].quantity;
@@ -297,7 +413,7 @@ function addToCartAction(product, quantity) {
         cart.push({
             sku: product.sku || product.SKU || product.asin,
             name: product.title || product.Name || product.name,
-            price: product.current_price || product.SalePrice || product.salePrice || product.MRP || product.price || 0,
+            price: itemPrice,
             image: product.image_url_1 || product.Image || product.image || '',
             quantity: quantity,
             unit: product.Unit || product.unit || 'PC'
@@ -326,16 +442,13 @@ async function loadAndRenderComments(sku) {
     let comments = [];
 
     try {
-        // Fetch global reviews from your Google Apps Script Web App URL
         const response = await fetch(GOOGLE_SCRIPT_URL);
         if (response.ok) {
             const allReviews = await response.json();
-            // Filter reviews matching this specific product SKU
             comments = allReviews.filter(r => r.sku === sku);
         }
     } catch (err) {
         console.warn('Could not fetch remote reviews, falling back to local cache.', err);
-        // Fallback to local storage if offline/error
         const storageKey = `ht_comments_${sku}`;
         comments = JSON.parse(localStorage.getItem(storageKey) || '[]');
     }
@@ -387,9 +500,6 @@ function escapeHtml(str) {
     return str.toString().replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
 }
 
-// Replace this with your actual Google Apps Script Web App URL
-const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwRBzAd9OGyiZ4brBkxrppIazLIpSBczgii5NdGLIweGzRqlnuluz7oWL89xsJW5adm_Q/exec';
-
 document.addEventListener('submit', async (e) => {
     if (e.target && e.target.id === 'anonymous-comment-form') {
         e.preventDefault();
@@ -423,7 +533,6 @@ document.addEventListener('submit', async (e) => {
         };
 
         try {
-            // Send data to Google Sheet via Google Apps Script
             await fetch(GOOGLE_SCRIPT_URL, {
                 method: 'POST',
                 mode: 'no-cors',
@@ -431,7 +540,6 @@ document.addEventListener('submit', async (e) => {
                 body: JSON.stringify(payload)
             });
 
-            // Cache and show immediately so it persists across refreshes for this user
             const newComment = {
                 author: payload.author,
                 rating: parseInt(payload.rating),

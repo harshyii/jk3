@@ -16,6 +16,7 @@ let Brand = {
         try {
             if (!brandSlug) {
                 // No slug provided: Load and render all brands list view with pagination
+                this.updateMetaTags({ name: "Our Brands", description: "Explore all top industrial tool and equipment brands available at Haryana Tools." });
                 await this.renderAllBrands(page, ITEMS_PER_PAGE);
             } else {
                 // Slug provided: Load and render products for that specific brand with pagination
@@ -31,6 +32,49 @@ let Brand = {
                 UI.setLoading(false);
             }
         }
+    },
+
+    updateMetaTags(brandInfo) {
+        const brandName = brandInfo.name || "Brands";
+        const description = brandInfo.description || `Explore products from ${brandName} at Haryana Tools.`;
+        const currentUrl = window.location.href;
+        
+        let image = brandInfo.image || '404.webp';
+        const absoluteImageUrl = image.startsWith('http') ? image : new URL(image, window.location.origin).href;
+
+        // Update standard title
+        document.title = `${brandName} - Haryana Tools`;
+
+        // Helper to safely set or create meta tags
+        const setMetaTag = (propertyAttr, attrName, value) => {
+            if (!value) return;
+            let selector = propertyAttr ? `meta[property="${propertyAttr}"]` : `meta[name="${attrName}"]`;
+            let tag = document.querySelector(selector);
+            
+            if (!tag) {
+                tag = document.createElement('meta');
+                if (propertyAttr) tag.setAttribute('property', propertyAttr);
+                if (attrName) tag.setAttribute('name', attrName);
+                document.head.appendChild(tag);
+            }
+            tag.setAttribute('content', value);
+        };
+
+        // Standard SEO Meta
+        setMetaTag(null, 'description', description);
+
+        // Open Graph / Facebook / WhatsApp Meta Tags
+        setMetaTag('og:title', null, `${brandName} - Haryana Tools`);
+        setMetaTag('og:description', null, description);
+        setMetaTag('og:image', null, absoluteImageUrl);
+        setMetaTag('og:url', null, currentUrl);
+        setMetaTag('og:type', null, 'website');
+
+        // Twitter Card Meta Tags
+        setMetaTag(null, 'twitter:card', 'summary_large_image');
+        setMetaTag(null, 'twitter:title', `${brandName} - Haryana Tools`);
+        setMetaTag(null, 'twitter:description', description);
+        setMetaTag(null, 'twitter:image', absoluteImageUrl);
     },
 
     async renderAllBrands(currentPage, itemsPerPage) {
@@ -106,6 +150,7 @@ let Brand = {
         if (!gridEl) return;
 
         let brandProductsList = [];
+        let brandMetaData = null;
 
         // 1. Try fetching dedicated file from brands/ folder
         try {
@@ -134,24 +179,32 @@ let Brand = {
 
         let allProducts = Array.isArray(brandProductsList) ? brandProductsList : [];
 
-        // 3. Resolve display brand name
+        // 3. Resolve display brand name & metadata
         let displayBrandName = brandSlug;
         if (allProducts.length > 0) {
             let firstItem = allProducts[0];
             displayBrandName = firstItem.Brand || firstItem.brand || firstItem.brandName || brandSlug;
-        } else {
-            try {
-                let metaRes = await fetch('dist/data/brands.json');
-                if (!metaRes.ok) metaRes = await fetch('brands.json');
-                if (metaRes.ok) {
-                    let metaList = await metaRes.json();
-                    let found = metaList.find(b => b.slug === brandSlug);
-                    if (found && found.name) {
-                        displayBrandName = found.name;
-                    }
-                }
-            } catch (metaErr) {}
         }
+
+        try {
+            let metaRes = await fetch('dist/data/brands.json');
+            if (!metaRes.ok) metaRes = await fetch('brands.json');
+            if (metaRes.ok) {
+                let metaList = await metaRes.json();
+                let found = metaList.find(b => b.slug === brandSlug);
+                if (found) {
+                    brandMetaData = found;
+                    if (found.name) displayBrandName = found.name;
+                }
+            }
+        } catch (metaErr) {}
+
+        // Update Meta Tags for social media sharing & SEO
+        this.updateMetaTags({
+            name: displayBrandName,
+            description: `Browse all ${allProducts.length} high-quality industrial tools and hardware products from ${displayBrandName}.`,
+            image: brandMetaData ? brandMetaData.image : (allProducts.length > 0 ? (allProducts[0].image || allProducts[0].Image) : null)
+        });
 
         let titleEl = document.getElementById("brand-title");
         if (titleEl) {
@@ -219,8 +272,6 @@ let Brand = {
         currentPage = parseInt(currentPage) || 1;
         totalPages = parseInt(totalPages) || 1;
 
-        console.log(`Pagination Debug -> Current Page: ${currentPage}, Total Pages: ${totalPages}`);
-
         if (totalPages <= 1) {
             paginationContainer.innerHTML = "";
             return;
@@ -229,36 +280,64 @@ let Brand = {
         let queryParams = Utils.getQueryParams();
         let brandSlug = queryParams.get("slug");
 
-        let html = `<nav aria-label="Brand Catalog Navigation"><ul class="pagination justify-content-center">`;
+        const getPageNumbers = (current, total) => {
+            const delta = 2;
+            const range = [];
+            const rangeWithDots = [];
+            let l;
 
-        // Previous button
-        let prevDisabled = currentPage === 1 ? 'disabled' : '';
+            range.push(1);
+            for (let i = current - delta; i <= current + delta; i++) {
+                if (i < total && i > 1) range.push(i);
+            }
+            if (total > 1) range.push(total);
+
+            for (let i of range) {
+                if (l) {
+                    if (i - l === 2) rangeWithDots.push(l + 1);
+                    else if (i - l !== 1) rangeWithDots.push('...');
+                }
+                rangeWithDots.push(i);
+                l = i;
+            }
+            return rangeWithDots;
+        };
+
+        const pages = getPageNumbers(currentPage, totalPages);
+
         let prevTargetUrl = brandSlug ? `brand.html?slug=${brandSlug}&page=${currentPage - 1}` : `brand.html?page=${currentPage - 1}`;
-        html += `
-            <li class="page-item ${prevDisabled}">
-                <a class="page-link" href="${prevTargetUrl}" ${currentPage === 1 ? 'tabindex="-1" aria-disabled="true"' : ''}>Previous</a>
-            </li>`;
-
-        // Numbered links (Limit output if pages are massive, or show all)
-        for (let i = 1; i <= totalPages; i++) {
-            let activeClass = i === currentPage ? 'active' : '';
-            let pageUrl = brandSlug ? `brand.html?slug=${brandSlug}&page=${i}` : `brand.html?page=${i}`;
-            html += `
-                <li class="page-item ${activeClass}">
-                    <a class="page-link" href="${pageUrl}">${i}</a>
-                </li>`;
-        }
-
-        // Next button
-        let nextDisabled = currentPage === totalPages ? 'disabled' : '';
         let nextTargetUrl = brandSlug ? `brand.html?slug=${brandSlug}&page=${currentPage + 1}` : `brand.html?page=${currentPage + 1}`;
-        html += `
-            <li class="page-item ${nextDisabled}">
-                <a class="page-link" href="${nextTargetUrl}" ${currentPage === totalPages ? 'tabindex="-1" aria-disabled="true"' : ''}>Next</a>
-            </li>`;
 
-        html += `</ul></nav>`;
-        paginationContainer.innerHTML = html;
+        let paginationHTML = `
+            <nav aria-label="Brand Catalog Navigation" class="mt-4">
+                <ul class="pagination justify-content-center shadow-sm">
+                    <li class="page-item ${currentPage === 1 ? 'disabled' : ''}">
+                        <a class="page-link" href="${currentPage === 1 ? '#' : prevTargetUrl}">Prev</a>
+                    </li>
+        `;
+
+        pages.forEach(page => {
+            if (page === '...') {
+                paginationHTML += `<li class="page-item disabled"><span class="page-link border-0 bg-transparent">...</span></li>`;
+            } else {
+                let pageUrl = brandSlug ? `brand.html?slug=${brandSlug}&page=${page}` : `brand.html?page=${page}`;
+                paginationHTML += `
+                    <li class="page-item ${currentPage === page ? 'active' : ''}">
+                        <a class="page-link" href="${pageUrl}">${page}</a>
+                    </li>
+                `;
+            }
+        });
+
+        paginationHTML += `
+                    <li class="page-item ${currentPage === totalPages ? 'disabled' : ''}">
+                        <a class="page-link" href="${currentPage === totalPages ? '#' : nextTargetUrl}">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        `;
+
+        paginationContainer.innerHTML = paginationHTML;
     }
 };
 

@@ -1,0 +1,46 @@
+{
+  "name": "Hillgrove",
+  "slug": "hillgrove",
+  "products": [
+    {
+      "sku": "JKE-IIYDSVSLLBJUUR2I",
+      "slug": "hillgrove-hgcm148m1-8inch-heavy-duty-grip-combination-pilash-hand-tool-lineman-plier-with-wire-cutter-line-tester-and-2in1-screwdriver",
+      "name": "Hillgrove HGCM148M1 8\"inch Heavy Duty Grip Combination Pilash Hand Tool Lineman Plier with Wire Cutter, Line Tester and 2in1 Screwdriver",
+      "brand": "Hillgrove",
+      "category": "Hand Tools",
+      "price": "₹224.00",
+      "image": "https://m.media-amazon.com/images/I/71DcYJO5TwL.jpg | https://m.media-amazon.com/images/I/41CFPEcY0qL.jpg | https://m.media-amazon.com/images/I/417ZZOlR+0L.jpg | https://m.media-amazon.com/images/I/41+qHJUXABL.jpg | https://m.media-amazon.com/images/I/31d4Ckg4FML.jpg | https://m.media-amazon.com/images/I/41CLwb63wmL.jpg | https://m.media-amazon.com/images/I/419E1mMbPiL.jpg | https://m.media-amazon.com/images/I/314nUg229tL.jpg",
+      "productUrl": "https://www.amazon.in/Hillgrove-HGCM148M1-Combination-Lineman-Screwdriver/dp/B09VKXSJGH/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYDSVSLKNDFUR2Q",
+      "slug": "hillgrove-hgcm145m1-combo-of-4pcs-plier-adjustable-wrench-5in1-screwdriver-set-claw-hammer-hand-tools-kit",
+      "name": "Hillgrove HGCM145M1 Combo of 4Pcs- Plier, Adjustable Wrench, 5in1 Screwdriver Set, Claw Hammer Hand Tools Kit",
+      "brand": "Hillgrove",
+      "category": "Hand Tools",
+      "price": "₹539.00",
+      "image": "https://m.media-amazon.com/images/I/71-lbDxZF7L.jpg | https://m.media-amazon.com/images/I/41AQ3XNaKwL.jpg | https://m.media-amazon.com/images/I/41Aas+Y6htL.jpg | https://m.media-amazon.com/images/I/419srEeEvFL.jpg | https://m.media-amazon.com/images/I/41qNa+KxeNL.jpg | https://m.media-amazon.com/images/I/41DxS+a6g9L.jpg | https://m.media-amazon.com/images/I/31EXEXJBlnL.jpg | https://m.media-amazon.com/images/I/41jwEOTongL.jpg",
+      "productUrl": "https://www.amazon.in/Hillgrove-HGCM145M1-Adjustable-Wrench-Screwdriver/dp/B09VKSFZGP/ref=sr_1_283"
+    },
+    {
+      "sku": "JKE-IIYEOTCRGMZUOQ2W",
+      "slug": "hillgrove-hgcm1381m2-all-in-one-electric-10mm-20v-power-drill-electrical-hand-drilling-machine-tool-box-tools-kit-set-for-home",
+      "name": "Hillgrove HGCM1381M2 All in One Electric 10mm 20V Power Drill Electrical Hand Drilling Machine Tool Box Tools Kit Set for Home",
+      "brand": "Hillgrove",
+      "category": "Power Tools",
+      "price": "₹2,471.00",
+      "image": "https://m.media-amazon.com/images/I/81RFO0EELgL.jpg | https://m.media-amazon.com/images/I/41kH5wNeDnL.jpg | https://m.media-amazon.com/images/I/51HgG-2ifLL.jpg | https://m.media-amazon.com/images/I/51c7CJ76WFL.jpg | https://m.media-amazon.com/images/I/51vzvKy8o7L.jpg | https://m.media-amazon.com/images/I/51rzLbiFUwL.jpg | https://m.media-amazon.com/images/I/51t3IJuELFL.jpg | https://m.media-amazon.com/images/I/51lLLvBnAgL.jpg",
+      "productUrl": "https://www.amazon.in/Hillgrove-HGCM1381M2-Electric-Electrical-Drilling/dp/B0GLQ33GCV/ref=sr_1_34"
+    },
+    {
+      "sku": "JKE-IIYEOTCQK4ZTKRRX",
+      "slug": "hillgrove-hgcm1382m2-all-in-one-electric-950w-13mm-power-drill-electrical-hand-drilling-machine-tool-box-tools-kit-set-for-home",
+      "name": "Hillgrove HGCM1382M2 All in One Electric 950W 13mm Power Drill Electrical Hand Drilling Machine Tool Box Tools Kit Set for Home",
+      "brand": "Hillgrove",
+      "category": "Power Tools",
+      "price": "₹2,399.00",
+      "image": "https://m.media-amazon.com/images/I/81-GWkYWcNL.jpg | https://m.media-amazon.com/images/I/41zEwdlr8TL.jpg | https://m.media-amazon.com/images/I/510YA3SQqWL.jpg | https://m.media-amazon.com/images/I/51pezBpk+jL.jpg | https://m.media-amazon.com/images/I/5150gKaJjjL.jpg | https://m.media-amazon.com/images/I/51iEqBH-2NL.jpg | https://m.media-amazon.com/images/I/51znHMmcMeL.jpg | https://m.media-amazon.com/images/I/51hhQPIbFoL.jpg",
+      "productUrl": "https://www.amazon.in/Hillgrove-HGCM1382M2-Electric-Electrical-Drilling/dp/B0GLPW35F7/ref=sr_1_262"
+    }
+  ]
+}

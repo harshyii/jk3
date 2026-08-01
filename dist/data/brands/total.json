@@ -1,0 +1,26 @@
+{
+  "name": "Total",
+  "slug": "total",
+  "products": [
+    {
+      "sku": "JKE-IIYDOUKYIM3UGQSC",
+      "slug": "total-6-inch-diagonal-cutting-plier-160mm-heavy-duty-cr-v-steel-wire-cutter-with-hardened-cutting-edge-anti-rust-finish-comfortable-grip-handle-for-electrician-diy-professional-use",
+      "name": "TOTAL 6 Inch Diagonal Cutting Plier, 160mm Heavy Duty CR-V Steel Wire Cutter with Hardened Cutting Edge, Anti-Rust Finish & Comfortable Grip Handle for Electrician, DIY & Professional Use",
+      "brand": "Total",
+      "category": "Hand Tools",
+      "price": "₹339.00",
+      "image": "https://m.media-amazon.com/images/I/71UtQZu3UmL.jpg | https://m.media-amazon.com/images/I/41cxaEUlsHL.jpg | https://m.media-amazon.com/images/I/51RQdYDFoUL.jpg | https://m.media-amazon.com/images/I/51drgdiGWzL.jpg | https://m.media-amazon.com/images/I/41TzYiW7ODL.jpg | https://m.media-amazon.com/images/I/51bN5beLw5L.jpg | https://m.media-amazon.com/images/I/51iF1yLbCXL.jpg | https://m.media-amazon.com/images/I/51uuwKWKVmL.jpg",
+      "productUrl": "https://www.amazon.in/TOTAL-Anti-Rust-Comfortable-Electrician-Professional/dp/B07QXC7CBB/ref=sr_1_229"
+    },
+    {
+      "sku": "JKE-IIYEOTCQJI3EWNSS",
+      "slug": "total-550w-electric-drill-3300-rpm-10mm-keyless-chuck-100-copper-motor-variable-speed-control-forwardreverse-rotation-and-lock-on-button-for-drilling-wood-and-metal-or-driving-screws",
+      "name": "TOTAL 550W Electric Drill, 3300 RPM, 10mm Keyless Chuck, 100% Copper Motor | Variable Speed Control, Forward/Reverse Rotation and Lock-On Button for Drilling Wood and Metal or Driving Screws",
+      "brand": "Total",
+      "category": "Power Tools",
+      "price": "₹2,699.00",
+      "image": "https://m.media-amazon.com/images/I/71rXkQpu5mL.jpg | https://m.media-amazon.com/images/I/41Cw+prC6bL.jpg | https://m.media-amazon.com/images/I/51Vzz2DFjdL.jpg | https://m.media-amazon.com/images/I/51ACnDgYleL.jpg | https://m.media-amazon.com/images/I/516OyrXh3kL.jpg | https://m.media-amazon.com/images/I/51j9v+H-rjL.jpg | https://m.media-amazon.com/images/I/51FEeLnIcEL.jpg | https://m.media-amazon.com/images/I/519uftyEg9L.jpg",
+      "productUrl": "https://www.amazon.in/TOTAL-Electric-Drill-Keyless-Copper/dp/B0GLPJ6K6R/ref=sr_1_286"
+    }
+  ]
+}

@@ -8,34 +8,24 @@
   "metaDescription": "Shop Luminous inverters, batteries, UPS and solar solutions.",
   "products": [
     {
-      "sku": "LONG2",
-      "slug": "solar-ongrid-2kw",
-      "name": "Solar Ongrid 2KW",
-      "brand": "luminous",
-      "category": "Solar Products",
-      "price": 166750,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
+      "sku": "JKE-IIYEGWKXLBIEYWSC",
+      "slug": "luminous-bis-certified-mono-perc-halfcut-590-watt-24volt-solar-panel-for-home-with-pid-resistance-technology-and-severe-weather-resilience-25-years-warranty-black-pack-of-2",
+      "name": "Luminous BIS Certified Mono Perc Halfcut 590 Watt-24Volt Solar Panel for Home with PID Resistance Technology and Severe Weather Resilience, 25 Years Warranty (Black, Pack of 2)",
+      "brand": "Luminous",
+      "category": "Garden & Outdoor",
+      "price": "₹23,299.00",
+      "image": "https://m.media-amazon.com/images/I/61WNeiOsWBL.jpg | https://m.media-amazon.com/images/I/41piligVkrL.jpg | https://m.media-amazon.com/images/I/51yzqFQqq5L.jpg | https://m.media-amazon.com/images/I/51hF-tJGIuL.jpg | https://m.media-amazon.com/images/I/51CVa2JigKL.jpg | https://m.media-amazon.com/images/I/51AHLt4UztL.jpg | https://m.media-amazon.com/images/I/51Cv3ooSPEL.jpg",
+      "productUrl": "https://www.amazon.in/Luminous-Watt-24Volt-Resistance-Technology-Resilience/dp/B0CYWXPLZB/ref=sr_1_65"
     },
     {
-      "sku": "LONG3",
-      "slug": "solar-ongrid-3kw",
-      "name": "Solar Ongrid 3KW",
-      "brand": "luminous",
-      "category": "Solar Products",
-      "price": 207000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
-    },
-    {
-      "sku": "LONG5",
-      "slug": "solar-ongrid-5kw",
-      "name": "Solar Ongrid 5KW",
-      "brand": "luminous",
-      "category": "Solar Products",
-      "price": 319700,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
+      "sku": "JKE-IIYDQRCEJVJEMMSI",
+      "slug": "luminous-polycrystalline-solar-panel-210wp-12v-high-efficiency-module-with-grade-a-cells-anti-reflective-coating-pid-free-bis-certified-25-year-performance-warranty",
+      "name": "Luminous Polycrystalline Solar Panel 210Wp 12V | High Efficiency Module with Grade A Cells, Anti-Reflective Coating, PID Free | BIS Certified | 25-Year Performance Warranty",
+      "brand": "Luminous",
+      "category": "General Hardware",
+      "price": "₹6,499.00",
+      "image": "https://m.media-amazon.com/images/I/7129MJfk6XL.jpg | https://m.media-amazon.com/images/I/41ef6xRfVfL.jpg | https://m.media-amazon.com/images/I/51MFCDL9SmL.jpg | https://m.media-amazon.com/images/I/51hoNH2oCFL.jpg | https://m.media-amazon.com/images/I/51dAKAoMEQL.jpg | https://m.media-amazon.com/images/I/516cVXAlfVL.jpg | https://m.media-amazon.com/images/I/51d+m15xO8L.jpg | https://m.media-amazon.com/images/I/51EvoxZQELL.jpg",
+      "productUrl": "https://www.amazon.in/Luminous-Crystalline-Solar-Panel-Watt/dp/B08DDMRF2H/ref=sr_1_71"
     }
   ]
 }

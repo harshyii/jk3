@@ -1,0 +1,36 @@
+{
+  "name": "Lnc International",
+  "slug": "lnc-international",
+  "products": [
+    {
+      "sku": "JKE-IIYDQQSXKNMFCUJZ",
+      "slug": "xtra-power-4-inch-marble-cutter-100mm-xpt-412",
+      "name": "Xtra Power 4 inch Marble Cutter 100MM XPT 412",
+      "brand": "Lnc International",
+      "category": "Hand Tools",
+      "price": "₹3,399.00",
+      "image": "https://m.media-amazon.com/images/I/41uAsT386NL.jpg | https://m.media-amazon.com/images/I/41uAsT386NL.jpg",
+      "productUrl": "https://www.amazon.in/Xtra-Power-Marble-Cutter-100MM/dp/B08BWSXQQ9/ref=sr_1_96"
+    },
+    {
+      "sku": "JKE-IIYDQQSXKRBEEQ22",
+      "slug": "xtra-power-angle-grinder-4-inch-100mm-xpt-405",
+      "name": "Xtra Power Angle Grinder (4 inch, 100MM XPT 405)",
+      "brand": "Lnc International",
+      "category": "Power Tools",
+      "price": "₹2,500.00",
+      "image": "https://m.media-amazon.com/images/I/31K24a5v03L.jpg | https://m.media-amazon.com/images/I/31K24a5v03L.jpg",
+      "productUrl": "https://www.amazon.in/LNC-International-Power-Angle-Grinder/dp/B08BWTBBCZ/ref=sr_1_75_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDQQSYGFJTMRCR",
+      "slug": "xtra-power-super-thin-turbo-4-inch-cutting-blade-set-of-20pc-for-cutting-microcrystalline-stone-tile-brick-and-ceramic",
+      "name": "Xtra Power Super Thin Turbo 4 inch Cutting Blade (SET OF 20PC) for cutting microcrystalline stone, tile, brick and ceramic",
+      "brand": "Lnc International",
+      "category": "Abrasives & Finishing",
+      "price": "₹2,449.00",
+      "image": "https://m.media-amazon.com/images/I/41mLHdYdgvL.jpg | https://m.media-amazon.com/images/I/41mLHdYdgvL.jpg | https://m.media-amazon.com/images/I/41DMgiQiegL.jpg | https://m.media-amazon.com/images/I/411i4QRimNL.jpg | https://m.media-amazon.com/images/I/51GsAPdGkjL.jpg",
+      "productUrl": "https://www.amazon.in/Power-Cutting-cutting-microcrystalline-ceramic/dp/B08BX1S6DQ/ref=sr_1_45"
+    }
+  ]
+}

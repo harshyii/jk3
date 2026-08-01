@@ -6,5 +6,36 @@
   "description": "Explore Makita professional cordless power tools, outdoor equipment and accessories.",
   "seoTitle": "Makita Power Tools Online | Haryana.Tools",
   "metaDescription": "Shop Makita high-performance cordless and electric power tools with specs.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDCR2GLFHVQM2Z",
+      "slug": "makita-drill-m0600b-10mm-350-watt-blue",
+      "name": "Makita Drill M0600B 10Mm 350 Watt, Blue",
+      "brand": "Makita",
+      "category": "Power Tools",
+      "price": "₹2,199.00",
+      "image": "https://m.media-amazon.com/images/I/51PDqxFD18L.jpg | https://m.media-amazon.com/images/I/31zMltzdwuL.jpg | https://m.media-amazon.com/images/I/71xKg5mXxkL.jpg | https://m.media-amazon.com/images/I/41p-yW8WS7L.jpg | https://m.media-amazon.com/images/I/311M1oq1IFL.jpg | https://m.media-amazon.com/images/I/31nvXp5pJYL.jpg | https://m.media-amazon.com/images/I/31-eN99mjGL.jpg | https://m.media-amazon.com/images/I/31IwN5F0KRL.jpg",
+      "productUrl": "https://www.amazon.in/Makita-M0600B-10mm-drill/dp/B01GFYOX3Y/ref=sr_1_118"
+    },
+    {
+      "sku": "JKE-IIYDCR2GLFHVQNKN",
+      "slug": "makita-m0801bx2-16mm-heavy-duty-hammer-drill-machine-500-watts-blue",
+      "name": "Makita M0801Bx2 16Mm Heavy Duty Hammer Drill Machine., 500 Watts, Blue",
+      "brand": "Makita",
+      "category": "Hand Tools",
+      "price": "₹3,399.00",
+      "image": "https://m.media-amazon.com/images/I/517Z1L03MpL.jpg | https://m.media-amazon.com/images/I/312ByG5RXSL.jpg | https://m.media-amazon.com/images/I/31Zy7ws7e3L.jpg | https://m.media-amazon.com/images/I/41DIxTIHB4L.jpg | https://m.media-amazon.com/images/I/31V-JiHo05L.jpg | https://m.media-amazon.com/images/I/31Tu2HxscfL.jpg | https://m.media-amazon.com/images/I/31wpUUsQQ8L.jpg",
+      "productUrl": "https://www.amazon.in/Makita-M0801B-Heavy-Hammer-Machine/dp/B01GFYOX5M/ref=sr_1_289"
+    },
+    {
+      "sku": "JKE-IIYDOOKLKEYVEWCY",
+      "slug": "makita-m9513b-850w-angle-grinder-100mm",
+      "name": "Makita M9513B 850W Angle Grinder, 100mm",
+      "brand": "Makita",
+      "category": "Power Tools",
+      "price": "₹2,998.00",
+      "image": "https://m.media-amazon.com/images/I/41gN5ycVO+L.jpg | https://m.media-amazon.com/images/I/31lU8WdXEAL.jpg | https://m.media-amazon.com/images/I/61IHx0FQ-ML.jpg | https://m.media-amazon.com/images/I/41hpJa053pL.jpg | https://m.media-amazon.com/images/I/31IjPAWiYkL.jpg | https://m.media-amazon.com/images/I/31Rf6LEPJQL.jpg | https://m.media-amazon.com/images/I/41n8Tck40BL.jpg | https://m.media-amazon.com/images/I/315E1QaLbVL.jpg",
+      "productUrl": "https://www.amazon.in/Makita-M9513B-Angle-Grinder-100mm/dp/B079KQ1RXX/ref=sr_1_252"
+    }
+  ]
 }

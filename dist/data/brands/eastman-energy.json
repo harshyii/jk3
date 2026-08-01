@@ -1,0 +1,36 @@
+{
+  "name": "Eastman Energy",
+  "slug": "eastman-energy",
+  "products": [
+    {
+      "sku": "JKE-IIYEIUSEGVMVOVSU",
+      "slug": "eastman-ebp550w-550w-bi-facial-non-dcr-solar-panel-pack-of-2-suitable-for-homes-offices-shops-10-years-product-warranty-25-years-performance-warranty-20-more-module-efficiency",
+      "name": "Eastman EBP550W - 550W Bi-Facial, Non-DCR Solar Panel (Pack of 2) Suitable for Homes, Offices & Shops | 10 Years Product Warranty | 25 Years Performance Warranty | 20% More Module Efficiency",
+      "brand": "Eastman Energy",
+      "category": "General Hardware",
+      "price": "₹27,505.00",
+      "image": "https://m.media-amazon.com/images/I/51rk2H883DL.jpg | https://m.media-amazon.com/images/I/31kXsAunjtL.jpg | https://m.media-amazon.com/images/I/51Kn4SvkR5L.jpg | https://m.media-amazon.com/images/I/51ItYavfLRL.jpg",
+      "productUrl": "https://www.amazon.in/Eastman-EBP550W-Bi-Facial-Performance-Efficiency/dp/B0DRD5YWVT/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEIUSOKNFFEN2W",
+      "slug": "eastman-emp210w-210w-mono-perc-non-dcr-solar-panel-pack-of-2-suitable-for-home-office-shops-5-years-product-warranty-25-years-performance-warranty-superior-low-light-performance",
+      "name": "Eastman EMP210W - 210W Mono Perc Non-DCR Solar Panel (Pack of 2) Suitable for Home, Office & Shops | 5 Years Product Warranty | 25 Years Performance Warranty | Superior Low Light Performance",
+      "brand": "Eastman Energy",
+      "category": "General Hardware",
+      "price": "₹10,499.00",
+      "image": "https://m.media-amazon.com/images/I/51LMiHVyLIL.jpg | https://m.media-amazon.com/images/I/31R+u4smwJL.jpg | https://m.media-amazon.com/images/I/41cDJBpk1WL.jpg | https://m.media-amazon.com/images/I/41Yh7OwAtJL.jpg | https://m.media-amazon.com/images/I/51x8iA3AI5L.jpg",
+      "productUrl": "https://www.amazon.in/Eastman-EMP210W-Suitable-Warranty-Performance/dp/B0DRNSJR7V/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-IIYEMR2WIY3VIU2E",
+      "slug": "eastman-etc585w-topcon-bi-facial-non-dcr-solar-panel-pack-of-2-1170-w-framed-dual-glass144-cells-half-cut-ip68-rated-bis-certified-30-years-performance-warranty",
+      "name": "Eastman ETC585W Topcon Bi-Facial, Non-DCR Solar Panel | Pack of 2-1170 W | Framed Dual Glass,144 Cells Half-Cut, IP68 Rated, BIS Certified | 30 Years Performance Warranty",
+      "brand": "Eastman Energy",
+      "category": "General Hardware",
+      "price": "₹24,000.00",
+      "image": "https://m.media-amazon.com/images/I/61ngvgVL+DL.jpg | https://m.media-amazon.com/images/I/41L5nBuEmhL.jpg | https://m.media-amazon.com/images/I/41K+DehgpEL.jpg | https://m.media-amazon.com/images/I/51m35q5Z2gL.jpg | https://m.media-amazon.com/images/I/516IHGM2gnL.jpg | https://m.media-amazon.com/images/I/51OAFAI3J-L.jpg",
+      "productUrl": "https://www.amazon.in/Bi-Facial-Half-Cut-Certified-Performance-Warranty/dp/B0FGVF7TSD/ref=sr_1_67"
+    }
+  ]
+}

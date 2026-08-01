@@ -6,5 +6,26 @@
   "description": "Discover Servotech solar inverters, solar PV panels, and green power backup equipment.",
   "seoTitle": "Servotech Solar Systems | Haryana.Tools",
   "metaDescription": "Shop Servotech solar inverters, panels, and renewable energy products online.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYEGTSZKNKDONZX",
+      "slug": "165-watt-polycrystalline-solar-panel-with-mc4-connectorpack-of112v-solar-panel-for-homecommercial-and-industrial-use25-year-performance-warranty-high-efficiency-durable-lightweight",
+      "name": "165 Watt Polycrystalline Solar Panel with MC4 Connector|Pack of1|12V Solar Panel for Home,Commercial, and Industrial Use|25-Year Performance Warranty | High-Efficiency, Durable& Lightweight",
+      "brand": "Servotech",
+      "category": "General Hardware",
+      "price": "₹5,999.00",
+      "image": "https://m.media-amazon.com/images/I/71XzXhtQLmL.jpg | https://m.media-amazon.com/images/I/41thUKTrCUL.jpg | https://m.media-amazon.com/images/I/31-pKYZYAuL.jpg | https://m.media-amazon.com/images/I/41PKb7ccjgL.jpg | https://m.media-amazon.com/images/I/41NrTzEhbJL.jpg | https://m.media-amazon.com/images/I/51ZiVxOjICL.jpg | https://m.media-amazon.com/images/I/41SmfL7xjpL.jpg",
+      "productUrl": "https://www.amazon.in/Servotech-Solar-Panel-Performance-Connector/dp/B0CNYST777/ref=sr_1_53"
+    },
+    {
+      "sku": "JKE-IIYEGTSZKNGTQWRX",
+      "slug": "110-watt-12v-polycrystalline-solar-panel-pack-of-1mc4-connectorhigh-efficiencybattery-chargingsolar-water-heater-25-year-performance-warranty",
+      "name": "110 Watt 12v Polycrystalline Solar Panel |Pack of 1|MC4 Connector|High-Efficiency|Battery Charging|Solar Water Heater |25-Year Performance Warranty",
+      "brand": "Servotech",
+      "category": "Electrical & Wiring",
+      "price": "₹4,999.00",
+      "image": "https://m.media-amazon.com/images/I/71XzXhtQLmL.jpg | https://m.media-amazon.com/images/I/41thUKTrCUL.jpg | https://m.media-amazon.com/images/I/31-pKYZYAuL.jpg | https://m.media-amazon.com/images/I/51aOXGsIXbL.jpg | https://m.media-amazon.com/images/I/41sM9raHnfL.jpg | https://m.media-amazon.com/images/I/41SmfL7xjpL.jpg | https://m.media-amazon.com/images/I/51fFHahrg1L.jpg",
+      "productUrl": "https://www.amazon.in/Servotech-Solar-Panel-Performance-Connector/dp/B0CNYSM8Z7/ref=sr_1_60"
+    }
+  ]
 }

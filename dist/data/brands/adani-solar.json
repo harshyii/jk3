@@ -8,34 +8,14 @@
   "metaDescription": "Browse Adani Solar panels and renewable energy solutions online.",
   "products": [
     {
-      "sku": "LONG2",
-      "slug": "solar-ongrid-2kw",
-      "name": "Solar Ongrid 2KW",
+      "sku": "JKE-IIYEGVRXIZJFSMRR",
+      "slug": "adani-solar-eternal-shine-monofacial-pv-modules-mbb-p-type-perc-half-cut-asm-m10-144-aaa-144-cells-525-watt-peak-for-commercial-and-household-rooftop-with-module-efficiency-2044",
+      "name": "Adani Solar Eternal Shine - Monofacial Pv Modules Mbb P-Type Perc Half-Cut ASM-M10-144-AAA - 144 Cells | 525 Watt Peak for Commercial and Household Rooftop with Module Efficiency(%) 20.44",
       "brand": "Adani Solar",
-      "category": "Solar Products",
-      "price": 166750,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
-    },
-    {
-      "sku": "LONG3",
-      "slug": "solar-ongrid-3kw",
-      "name": "Solar Ongrid 3KW",
-      "brand": "Adani Solar",
-      "category": "Solar Products",
-      "price": 207000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
-    },
-    {
-      "sku": "LONG5",
-      "slug": "solar-ongrid-5kw",
-      "name": "Solar Ongrid 5KW",
-      "brand": "Adani Solar",
-      "category": "Solar Products",
-      "price": 319700,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
+      "category": "Fasteners & Hardware",
+      "price": "₹36,399.00",
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Eternal-Shine-ASM-M10-144-AAA/dp/B0CV7FRY21/ref=sr_1_258"
     }
   ]
 }

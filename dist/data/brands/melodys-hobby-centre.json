@@ -1,0 +1,26 @@
+{
+  "name": "Melody\"S Hobby Centre",
+  "slug": "melodys-hobby-centre",
+  "products": [
+    {
+      "sku": "JKE-IIYDOTRTLFDFCUCO",
+      "slug": "mini-solar-light-panel-for-engineering-project-use-80x40x40-mm-set-of-2-solar-panel",
+      "name": "MINI Solar Light Panel for Engineering Project USE 80X40X40 MM Set of 2 Solar Panel",
+      "brand": "Melody\"S Hobby Centre",
+      "category": "General Hardware",
+      "price": "₹270.00",
+      "image": "https://m.media-amazon.com/images/I/51nbrG17aFL.jpg | https://m.media-amazon.com/images/I/31pO63FFbeL.jpg | https://m.media-amazon.com/images/I/31Vvl3p62TL.jpg | https://m.media-amazon.com/images/I/319KOw3G2GL.jpg | https://m.media-amazon.com/images/I/51dc0t-oPbL.jpg",
+      "productUrl": "https://www.amazon.in/Solar-Light-Engineering-Project-80X40X40/dp/B07N3YFQPN/ref=sr_1_107"
+    },
+    {
+      "sku": "JKE-IIYEIR2UKQ2TSTCG",
+      "slug": "silicon-solar-panel-pv-module-12-v-45-watt-high-efficiency-solar-panels-for-science-projects-diy-electronics-and-energy-applications-design-for-educational-kits-and-experiments",
+      "name": "Silicon Solar Panel PV Module 12 v 4.5 Watt High-Efficiency Solar Panels for Science Projects, DIY Electronics, and Energy Applications | Design for Educational Kits and Experiments.",
+      "brand": "Melody\"S Hobby Centre",
+      "category": "General Hardware",
+      "price": "₹400.00",
+      "image": "https://m.media-amazon.com/images/I/71lzeyJUZiL.jpg | https://m.media-amazon.com/images/I/41j1itQcVmL.jpg | https://m.media-amazon.com/images/I/41ILzQxvFGL.jpg | https://m.media-amazon.com/images/I/31cjWRM4f1L.jpg | https://m.media-amazon.com/images/I/41HGIEbzihL.jpg | https://m.media-amazon.com/images/I/41YEpJmv8pL.jpg | https://m.media-amazon.com/images/I/51yqmbQPpRL.jpg",
+      "productUrl": "https://www.amazon.in/High-Efficiency-Electronics-Applications-Educational-Experiments/dp/B0DGTT59LF/ref=sr_1_13"
+    }
+  ]
+}

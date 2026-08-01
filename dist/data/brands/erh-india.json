@@ -1,0 +1,36 @@
+{
+  "name": "Erh India",
+  "slug": "erh-india",
+  "products": [
+    {
+      "sku": "JKE-IIYDOVSMLEZFSUCH",
+      "slug": "erh-india-solar-panel-6v-60-mah-80x40-x-03-mm-2-leds-1-onoff-wire-connect-with-solar-multicolour",
+      "name": "ERH INDIA Solar Panel 6v -60 Mah, 80x40 X 03 Mm, 2 LEDs, 1 on/Off, Wire Connect with Solar (Multicolour)",
+      "brand": "Erh India",
+      "category": "Electrical & Wiring",
+      "price": "₹383.00",
+      "image": "https://m.media-amazon.com/images/I/31x-R1qktoL.jpg | https://m.media-amazon.com/images/I/31x-R1qktoL.jpg | https://m.media-amazon.com/images/I/31Yff3X5AvL.jpg | https://m.media-amazon.com/images/I/31UOI6PhuhL.jpg | https://m.media-amazon.com/images/I/21se61mkNLL.jpg | https://m.media-amazon.com/images/I/31BPUVRZW6L.jpg",
+      "productUrl": "https://www.amazon.in/ERH-INDIA-Solar-Connect-Multicolour/dp/B07VLY2YPG/ref=sr_1_111"
+    },
+    {
+      "sku": "JKE-IIYDOVSOGNKEIQZX",
+      "slug": "erh-india-6v-100ma-mini-solar-panel-wire-attached-with-solar-for-diy-square-shape-70x70x3-mm",
+      "name": "ERH INDIA 6V 100MA Mini Solar Panel Wire Attached with Solar for DIY Square Shape (70x70x3 mm)",
+      "brand": "Erh India",
+      "category": "Measuring & Layout",
+      "price": "₹259.00",
+      "image": "https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41ZOReH8r4L.jpg | https://m.media-amazon.com/images/I/41atVbI2DrL.jpg | https://m.media-amazon.com/images/I/51uNeZd7-2L.jpg",
+      "productUrl": "https://www.amazon.in/ERH-INDIA-Attached-Square-70x70x3/dp/B07VN3TDC7/ref=sr_1_253"
+    },
+    {
+      "sku": "JKE-IIYEINCNIRFVURCM",
+      "slug": "erh-india-5-pcs-70x70-mm-mini-solar-cell-6v-100mah-square-shape-solar-panel-for-kids-students-solar-activity-school-fair-and-solar-toy-car-diy-kit",
+      "name": "ERH India 5 Pcs 70x70 MM Mini Solar Cell 6V-100mAh Square Shape Solar Panel for Kids, Students, Solar Activity, School Fair and Solar Toy Car DIY Kit",
+      "brand": "Erh India",
+      "category": "Measuring & Layout",
+      "price": "₹289.00",
+      "image": "https://m.media-amazon.com/images/I/517MgOLxGWL.jpg | https://m.media-amazon.com/images/I/517MgOLxGWL.jpg | https://m.media-amazon.com/images/I/41L+DOEbMsL.jpg | https://m.media-amazon.com/images/I/51OgNLVpfOL.jpg | https://m.media-amazon.com/images/I/41d4U9DFneL.jpg",
+      "productUrl": "https://www.amazon.in/India-6V-100mAh-Square-Students-Activity/dp/B0D4MDKZDL/ref=sr_1_161"
+    }
+  ]
+}

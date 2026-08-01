@@ -6,5 +6,36 @@
   "description": "Discover DeWalt heavy-duty power tools, construction equipment and jobsite accessories.",
   "seoTitle": "DeWalt Power Tools India | Haryana.Tools",
   "metaDescription": "Browse DeWalt industrial power tools, drills, and professional hardware.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYEINRTGJGDSWCC",
+      "slug": "dewalt-dwe750t-in750watt-4-100mm-ultra-slim-heavy-duty-angle-grinder-engineered-for-heavy-duty-applications-with-spindle-lock-and-toggle-switch-2-year-manufacturer-warrantyside-handle-included",
+      "name": "DEWALT DWE750T-IN,750Watt, 4\" (100mm) Ultra SLIM Heavy Duty Angle Grinder Engineered For Heavy Duty Applications with Spindle Lock and Toggle Switch, 2 Year Manufacturer Warranty(SIDE HANDLE INCLUDED)",
+      "brand": "Dewalt",
+      "category": "Power Tools",
+      "price": "₹2,599.00",
+      "image": "https://m.media-amazon.com/images/I/61XTsr+5eRL.jpg | https://m.media-amazon.com/images/I/31qRguHGEIL.jpg | https://m.media-amazon.com/images/I/51SY8BkAIoL.jpg | https://m.media-amazon.com/images/I/41MEjqpKxoL.jpg | https://m.media-amazon.com/images/I/31WtDA8Fz0L.jpg | https://m.media-amazon.com/images/I/41K8oD6nfrL.jpg | https://m.media-amazon.com/images/I/51y-moslZHL.jpg | https://m.media-amazon.com/images/I/51yeCP8RqRL.jpg",
+      "productUrl": "https://www.amazon.in/DEWALT-DWE750T-B1-Engineered-Applications-Manufacturer/dp/B0D632L9XB/ref=sr_1_159"
+    },
+    {
+      "sku": "JKE-IIYDQRSUIRMVANJS",
+      "slug": "dewalt-dcs369n-xj-20v-max-li-ion-xr-brushless-cordless-sub-compact-reciprocating-saw-16mm-stroke-length-bare-tool",
+      "name": "DEWALT DCS369N-XJ 20V Max Li-ion XR Brushless Cordless Sub Compact Reciprocating Saw-16mm Stroke Length (Bare Tool)",
+      "brand": "Dewalt",
+      "category": "Power Tools",
+      "price": "₹13,599.00",
+      "image": "https://m.media-amazon.com/images/I/61hkjJJLhhL.jpg | https://m.media-amazon.com/images/I/31Vy+huNKjL.jpg | https://m.media-amazon.com/images/I/71MuSH9W5GL.jpg | https://m.media-amazon.com/images/I/61B7GN5OqaL.jpg | https://m.media-amazon.com/images/I/41CmhFm3QCL.jpg | https://m.media-amazon.com/images/I/61mixHs1CmL.jpg | https://m.media-amazon.com/images/I/41e+z9kDQzL.jpg | https://m.media-amazon.com/images/I/61P5PdbR4GL.jpg",
+      "productUrl": "https://www.amazon.in/DEWALT-DCS369N-XJ-Brushless-Cordless-Reciprocating/dp/B08FTDYP52/ref=sr_1_182"
+    },
+    {
+      "sku": "JKE-IIYDSOKYG5CFORCQ",
+      "slug": "dewalt-dcd708n-xj-reversible-drill-machine-driver-with-brushless-motor-18v-li-ion-sub-compact-series-cordless-1213mm-2-year-warranty-bare-tool",
+      "name": "DEWALT DCD708N-XJ Reversible Drill Machine Driver With Brushless Motor- 18V Li-ion Sub-Compact Series Cordless 1/2\"/13mm, 2 Year Warranty (Bare Tool)",
+      "brand": "Dewalt",
+      "category": "Power Tools",
+      "price": "₹6,699.00",
+      "image": "https://m.media-amazon.com/images/I/71yTUQGrxUL.jpg | https://m.media-amazon.com/images/I/41ZLYpgEcgL.jpg | https://m.media-amazon.com/images/I/61XFCgM266L.jpg | https://m.media-amazon.com/images/I/41QcUEFKZGL.jpg | https://m.media-amazon.com/images/I/61fi46esUAL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/41dXQHbgJRL.jpg | https://m.media-amazon.com/images/I/41jo+Q8hmvL.jpg",
+      "productUrl": "https://www.amazon.in/DEWALT-DCD708N-XJ-Reversible-Brushless-Sub-Compact/dp/B099X7DWDP/ref=sr_1_161"
+    }
+  ]
 }

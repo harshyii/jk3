@@ -2,6 +2,15 @@ import { API } from './api.js';
 import { UI } from './ui.js';
 import { Utils } from './utils.js';
 
+// Helper function to safely parse prices like '₹340.00' or '₹1,139' into clean numbers
+const parseNumericPrice = (value) => {
+    if (value === undefined || value === null) return 0;
+    if (typeof value === 'number') return isNaN(value) ? 0 : value;
+    const cleanStr = value.toString().replace(/[^0-9.]/g, '');
+    const parsed = parseFloat(cleanStr);
+    return isNaN(parsed) ? 0 : parsed;
+};
+
 const Category = {
     allProducts: [],
     filteredProducts: [],
@@ -45,14 +54,24 @@ const Category = {
             this.filteredProducts = [...this.allProducts];
             this.handleSearchAndFilter();
 
-            // Setup Search Listener
-            const searchInput = document.getElementById('search-input');
-            if (searchInput) {
-                searchInput.addEventListener('input', () => {
-                    this.currentPage = 1;
-                    this.handleSearchAndFilter();
-                });
-            }
+            // Setup Global Search Event Delegation (Handles dynamic/header inputs loaded via layout.js seamlessly)
+            let debounceTimer;
+            document.addEventListener('input', (e) => {
+                if (e.target && (e.target.id === 'search-input' || e.target.classList.contains('search-box') || e.target.classList.contains('search-input-field'))) {
+                    const queryValue = e.target.value;
+
+                    // Sync text value across any other search inputs present on screen
+                    document.querySelectorAll('#search-input, .search-box, .search-input-field').forEach(input => {
+                        if (input !== e.target) input.value = queryValue;
+                    });
+
+                    clearTimeout(debounceTimer);
+                    debounceTimer = setTimeout(() => {
+                        this.currentPage = 1;
+                        this.handleSearchAndFilter();
+                    }, 300);
+                }
+            });
 
             // Setup Sort Listener
             const sortSelect = document.getElementById('sort-select');
@@ -85,7 +104,6 @@ const Category = {
         const categorySelect = document.getElementById('category-filter');
         const brandSelect = document.getElementById('brand-filter');
 
-        // Extract complete unique lists from full database catalog (not just filtered results)
         API.getCatalog().then(catalog => {
             const fullCatalog = catalog || [];
 
@@ -129,28 +147,26 @@ const Category = {
         });
     },
 
-    fuzzyMatch(query, text) {
-        query = String(query || '').toLowerCase().trim();
-        text = String(text || '').toLowerCase().trim();
-        if (text.includes(query)) return true;
-        let qIndex = 0;
-        for (let i = 0; i < text.length; i++) {
-            if (text[i] === query[qIndex]) qIndex++;
-            if (qIndex === query.length) return true;
-        }
-        return false;
+    // Multi-term field matching algorithm
+    searchMatch(query, product) {
+        if (!query) return true;
+        const qTerms = query.toLowerCase().split(/\s+/).filter(Boolean);
+
+        const name = String(product.title || product.name || product.Title || product.Name || '').toLowerCase();
+        const sku = String(product.sku || product.SKU || product.Id || product.id || '').toLowerCase();
+        const brand = String(product.brand || product.Brand || '').toLowerCase();
+        const category = String(product.Category || product.category || '').toLowerCase();
+
+        const searchableText = `${name} ${sku} ${brand} ${category}`;
+        return qTerms.every(term => searchableText.includes(term));
     },
 
     handleSearchAndFilter() {
-        const searchInput = document.getElementById('search-input');
-        const searchTerm = searchInput ? searchInput.value.trim() : '';
+        const activeSearchInput = document.querySelector('#search-input') || document.querySelector('.search-box') || document.querySelector('.search-input-field');
+        const searchTerm = activeSearchInput ? activeSearchInput.value.trim() : '';
 
         if (searchTerm !== '') {
-            this.filteredProducts = this.allProducts.filter(p => {
-                const name = p.name || p.Title || p.title || '';
-                const sku = p.sku || p.SKU || p.Id || p.id || '';
-                return this.fuzzyMatch(searchTerm, name) || this.fuzzyMatch(searchTerm, sku);
-            });
+            this.filteredProducts = this.allProducts.filter(p => this.searchMatch(searchTerm, p));
         } else {
             this.filteredProducts = [...this.allProducts];
         }
@@ -160,8 +176,9 @@ const Category = {
     render() {
         const start = (this.currentPage - 1) * this.pageSize;
         const pageProducts = this.filteredProducts.slice(start, start + this.pageSize);
+        
+        // Grab the product grid container safely
         const container = document.getElementById('product-grid');
-
         if (!container) return;
 
         if (pageProducts.length === 0) {
@@ -172,10 +189,12 @@ const Category = {
         }
 
         container.innerHTML = pageProducts.map(p => {
-            const productSku = p.sku || p.SKU || p.Id || p.id || '';
-            const productName = p.name || p.Title || p.title || 'Product Name';
-            const productImg = p.image || p.Image || '404.webp';
-            const productPrice = p.price || p.Price || p.SalePrice || 0;
+            const productSku = p.sku || p.SKU || p.asin || p.ASIN || p.Id || p.id || '';
+            const productName = p.title || p.name || p.Title || p.Name || 'Product Name';
+            const productImg = p.image_url_1 || p.image || p.Image || '404.webp';
+            
+            const rawPrice = p.current_price ?? p["Sale Price"] ?? p.SalePrice ?? p.price ?? p.Price ?? p.MRP ?? 0;
+            const productPrice = parseNumericPrice(rawPrice);
 
             return `
                 <div class="col">
@@ -186,7 +205,7 @@ const Category = {
                         <div class="card-body d-flex flex-column product-info bg-light rounded-bottom">
                             <h5 class="card-title fs-6 product-clickable text-dark text-truncate" title="${productName}" data-sku="${productSku}" style="cursor: pointer;">${productName}</h5>
                             <div class="product-meta mt-auto mb-2">
-                                <span class="product-price fw-bold text-primary fs-5">${Utils.formatCurrency ? Utils.formatCurrency(productPrice) : '₹' + productPrice}</span>
+                                <span class="product-price fw-bold text-primary fs-5">₹${productPrice.toLocaleString('en-IN')}</span>
                             </div>
                             <button type="button" class="btn btn-sm btn-primary add-to-cart-btn w-100" data-sku="${productSku}">
                                 <i class="fas fa-cart-plus me-1"></i> Add to Cart
@@ -292,22 +311,24 @@ const Category = {
             btn.addEventListener('click', (e) => {
                 e.stopPropagation();
                 const sku = e.currentTarget.getAttribute('data-sku');
-                const productData = this.allProducts.find(p => String(p.sku || p.SKU || p.Id || p.id) === String(sku));
+                const productData = this.allProducts.find(p => String(p.sku || p.SKU || p.asin || p.ASIN || p.Id || p.id) === String(sku));
 
                 if (!productData) {
                     this.showToast('Could not add product to cart.', 'error');
                     return;
                 }
 
-                const productName = productData.name || productData.Title || productData.title || productData.Name || 'Product';
+                const productName = productData.title || productData.name || productData.Title || productData.Name || 'Product';
+                const rawPrice = productData.current_price ?? productData["Sale Price"] ?? productData.SalePrice ?? productData.price ?? productData.Price ?? 0;
+                
                 const cartItem = {
                     sku: sku,
                     slug: productData.slug || productData.Slug || '',
                     name: productName,
-                    price: parseFloat(productData.price || productData.Price || productData.SalePrice || 0),
-                    image: productData.image || productData.Image || '404.webp',
+                    price: parseNumericPrice(rawPrice),
+                    image: productData.image_url_1 || productData.image || productData.Image || '404.webp',
                     quantity: 1,
-                    unit: productData.unit || 'PC'
+                    unit: productData.unit || productData.Unit || 'PC'
                 };
 
                 let cart = [];
@@ -340,12 +361,14 @@ const Category = {
     },
 
     sortProducts(criteria) {
+        const getPrice = (p) => parseNumericPrice(p.current_price ?? p["Sale Price"] ?? p.SalePrice ?? p.price ?? p.Price ?? 0);
+        
         if (criteria === 'price-low') {
-            this.filteredProducts.sort((a, b) => (parseFloat(a.price || a.Price || 0) - parseFloat(b.price || b.Price || 0)));
+            this.filteredProducts.sort((a, b) => getPrice(a) - getPrice(b));
         } else if (criteria === 'price-high') {
-            this.filteredProducts.sort((a, b) => (parseFloat(b.price || b.Price || 0) - parseFloat(a.price || a.Price || 0)));
+            this.filteredProducts.sort((a, b) => getPrice(b) - getPrice(a));
         } else if (criteria === 'name') {
-            this.filteredProducts.sort((a, b) => (a.name || a.Title || a.title || '').localeCompare(b.name || b.Title || b.title || ''));
+            this.filteredProducts.sort((a, b) => (a.title || a.name || a.Title || '').localeCompare(b.title || b.name || b.Title || ''));
         }
         this.render();
     },

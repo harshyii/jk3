@@ -1,0 +1,16 @@
+{
+  "name": "Format:Paperback",
+  "slug": "formatpaperback",
+  "products": [
+    {
+      "sku": "JKE-IIYDSOCKJQZVER2I",
+      "slug": "unlock-the-power-to-overcome-inspiration-to-renew-purpose-and-hope",
+      "name": "Unlock the Power to Overcome: Inspiration to Renew Purpose and Hope",
+      "brand": "Format:Paperback",
+      "category": "General Hardware",
+      "price": 0,
+      "image": "https://m.media-amazon.com/images/I/71gUVgNf1HS.jpg | https://m.media-amazon.com/images/I/414WnqvKY+S.jpg | https://m.media-amazon.com/images/I/713I7PXxx9L.jpg",
+      "productUrl": "https://www.amazon.in/Unlock-Power-Overcome-Inspiration-Purpose/dp/B098JL3RGH/ref=sr_1_34"
+    }
+  ]
+}

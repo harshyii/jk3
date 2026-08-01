@@ -1,0 +1,26 @@
+{
+  "name": "Braun",
+  "slug": "braun",
+  "products": [
+    {
+      "sku": "JKE-IIYDANBVGRNFIRKP",
+      "slug": "braun-syncro-shaver-clean-and-renew-refills-6-pack",
+      "name": "Braun Syncro Shaver Clean and Renew Refills -6 Pack",
+      "brand": "Braun",
+      "category": "Adhesives & Chemicals",
+      "price": "₹9,102.18",
+      "image": "https://m.media-amazon.com/images/I/31v5+d-2h-L.jpg | https://m.media-amazon.com/images/I/31v5+d-2h-L.jpg | https://m.media-amazon.com/images/I/410MHp+iiYL.jpg",
+      "productUrl": "https://www.amazon.in/Braun-Syncro-Shaver-Clean-Refills/dp/B00454ZTEO/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYDONKSI5IUOWSN",
+      "slug": "braun-ccr51-clean-renew-cleaning-cartridge-6-piece",
+      "name": "Braun CCR5+1 Clean & Renew Cleaning Cartridge, 6 Piece",
+      "brand": "Braun",
+      "category": "General Hardware",
+      "price": "₹7,950.00",
+      "image": "https://m.media-amazon.com/images/I/61DNf4gdWiL.jpg | https://m.media-amazon.com/images/I/41i2VoPlR9L.jpg | https://m.media-amazon.com/images/I/41tbXopH64L.jpg | https://m.media-amazon.com/images/I/51WmHLMzF8L.jpg | https://m.media-amazon.com/images/I/41zQMFOSKEL.jpg",
+      "productUrl": "https://www.amazon.in/Braun-Clean-Renew-Cleaning-Cartridge/dp/B075RGQGZM/ref=sr_1_4"
+    }
+  ]
+}

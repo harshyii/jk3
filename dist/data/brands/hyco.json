@@ -1,0 +1,26 @@
+{
+  "name": "Hyco",
+  "slug": "hyco",
+  "products": [
+    {
+      "sku": "JKE-IIYEOOCSKJGUGQST",
+      "slug": "hyco-label-maxtra-power-electric-tile-cutter-2700w-corded-electric-125mm-disc-13000-rpm-copper-armature-bevel-and-depth-adjustable-38mm-maximum-cut-depth",
+      "name": "HYCO LABEL MAXTRA Power Electric Tile Cutter, 2700W Corded-Electric, 125mm Disc, 13000 RPM, Copper Armature, Bevel and Depth Adjustable, 38mm Maximum Cut Depth",
+      "brand": "Hyco",
+      "category": "Hand Tools",
+      "price": "₹3,800.00",
+      "image": "https://m.media-amazon.com/images/I/71IGr+a1vFL.jpg | https://m.media-amazon.com/images/I/41Vda55pQBL.jpg | https://m.media-amazon.com/images/I/41C3sUydZxL.jpg | https://m.media-amazon.com/images/I/41sO54-cpkL.jpg | https://m.media-amazon.com/images/I/31zqzEoB2XL.jpg | https://m.media-amazon.com/images/I/41z4stWIUZL.jpg",
+      "productUrl": "https://www.amazon.in/Electric-Corded-Electric-Armature-Adjustable-Maximum/dp/B0G8RRMCBS/ref=sr_1_137"
+    },
+    {
+      "sku": "JKE-IIYEMNC2K5NFCMKW",
+      "slug": "hyco-label-maxtra-power-rotary-drill-machine-10-mm-650w-3000rpm-2-modes-taiwan-made",
+      "name": "HYCO Label Maxtra Power Rotary Drill Machine, 10 mm, 650W, 3000RPM, 2 Modes, Taiwan Made",
+      "brand": "Hyco",
+      "category": "Hand Tools",
+      "price": "₹1,600.00",
+      "image": "https://m.media-amazon.com/images/I/61COzLLYJ-L.jpg | https://m.media-amazon.com/images/I/31EsAukAqWL.jpg | https://m.media-amazon.com/images/I/31q-ZuGfTXL.jpg | https://m.media-amazon.com/images/I/31MYnRA8X-L.jpg | https://m.media-amazon.com/images/I/31WAVBhmVJL.jpg | https://m.media-amazon.com/images/I/41CaxPlnmkL.jpg",
+      "productUrl": "https://www.amazon.in/MAXTRA-Rotary-Machine-3000RPM-Taiwan/dp/B0F4ZWZQ1V/ref=sr_1_71"
+    }
+  ]
+}

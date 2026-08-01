@@ -6,5 +6,266 @@
   "description": "Shop INGCO power tools, hand tools, garden tools, safety equipment and accessories at Haryana.Tools.",
   "seoTitle": "INGCO Tools Online India | Haryana.Tools",
   "metaDescription": "Browse INGCO power tools, hand tools, garden equipment and accessories with product details and specifications.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDSUCEJRNDIWKY",
+      "slug": "ingco-13-in-1-ratchet-screwdriver-set-ingco-style-ratchet-handle-folding-handle-high-auality-ratchet-12-pcs-635-25-mm-screwdriver-bits",
+      "name": "INGCO 13 IN 1 Ratchet Screwdriver Set, INGCO Style Ratchet Handle Folding Handle, High Auality Ratchet 12 Pcs 6.35 * 25 mm Screwdriver Bits",
+      "brand": "Ingco",
+      "category": "Fasteners & Hardware",
+      "price": "₹339.00",
+      "image": "https://m.media-amazon.com/images/I/51Cb2L4QAbL.jpg | https://m.media-amazon.com/images/I/31VbzcfhHML.jpg | https://m.media-amazon.com/images/I/41vW8TLhDWL.jpg | https://m.media-amazon.com/images/I/41RwoCiPdAL.jpg | https://m.media-amazon.com/images/I/41WliNYodSL.jpg | https://m.media-amazon.com/images/I/41bULyC94PL.jpg | https://m.media-amazon.com/images/I/412anay+HAL.jpg | https://m.media-amazon.com/images/I/413DnGpnT3L.jpg",
+      "productUrl": "https://www.amazon.in/Ratchet-Screwdriver-Handle-Folding-Auality/dp/B09PDLZ4YX/ref=sr_1_93"
+    },
+    {
+      "sku": "JKE-IIYDSMKKGUZU2N2T",
+      "slug": "ingco-10-250mm-aviation-snip-htsn0110s",
+      "name": "Ingco 10\" (250MM) Aviation Snip HTSN0110S",
+      "brand": "Ingco",
+      "category": "General Hardware",
+      "price": "₹549.00",
+      "image": "https://m.media-amazon.com/images/I/51ul6Nf--OL.jpg | https://m.media-amazon.com/images/I/31UUZ7Aox5L.jpg | https://m.media-amazon.com/images/I/31MUzWgW7WL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-250MM-Aviation-Snip-HTSN0110S/dp/B091J53M7S/ref=sr_1_233"
+    },
+    {
+      "sku": "JKE-IIYEGTKIJJJUWVS2",
+      "slug": "ingco-4v-electric-cordless-screwdriver-rechargeable-power-drill-driver-set-4-nm-max-torque-240rpm-with-tool-box",
+      "name": "INGCO 4V Electric Cordless Screwdriver, Rechargeable Power Drill Driver Set, 4 N.m Max Torque, 240RPM, With Tool Box",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹969.00",
+      "image": "https://m.media-amazon.com/images/I/81hw0+bD7TL.jpg | https://m.media-amazon.com/images/I/51zjA3MTBWL.jpg | https://m.media-amazon.com/images/I/41srxilCJzL.jpg | https://m.media-amazon.com/images/I/416kJ4RfnFL.jpg | https://m.media-amazon.com/images/I/41WmudV-jVL.jpg | https://m.media-amazon.com/images/I/41DsH2LNUtL.jpg | https://m.media-amazon.com/images/I/51BfOQutEKL.jpg",
+      "productUrl": "https://www.amazon.in/Electric-Cordless-Screwdriver-Rechargeable-Driver/dp/B0CMHJSKVZ/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEIRSUI5DU2URZ",
+      "slug": "ingco-20v-cordless-impact-drill-66nm-brushless-motor-2211-30000-bpm-electric-drill-with-2pcs-battery-and-charger-47-pcs-drill-bits-packed-by-carrying-case",
+      "name": "INGCO 20V Cordless Impact Drill 66NM, Brushless Motor, 22+1+1, 30000 bpm, Electric Drill With 2Pcs Battery And Charger, 47 Pcs Drill Bits, Packed by Carrying Case",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹6,168.00",
+      "image": "https://m.media-amazon.com/images/I/81HluC39I2L.jpg | https://m.media-amazon.com/images/I/51+J+4ifEUL.jpg | https://m.media-amazon.com/images/I/51-WIRrMX7L.jpg | https://m.media-amazon.com/images/I/51v9SHlqLQL.jpg | https://m.media-amazon.com/images/I/513xPJjVLtL.jpg | https://m.media-amazon.com/images/I/51TBGYHS23L.jpg | https://m.media-amazon.com/images/I/51lk4pcb40L.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Machine-Brushless-Battery-Charger/dp/B0DFTGGMR9/ref=sr_1_41"
+    },
+    {
+      "sku": "JKE-IIYEIMSNIZNEYRC2",
+      "slug": "ingco-cordless-drill-machine-for-home-use-with-1-pcs-battery-and-drill-bits-battery-drill-machine-type-c-chargeing",
+      "name": "INGCO Cordless Drill Machine for home use, with 1 pcs Battery and Drill Bits, Battery drill machine Type C chargeing",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹1,619.00",
+      "image": "https://m.media-amazon.com/images/I/81-LNYTZqhL.jpg | https://m.media-amazon.com/images/I/41EhKl9smxL.jpg | https://m.media-amazon.com/images/I/41qxzJZsgFL.jpg | https://m.media-amazon.com/images/I/41Y51Ldz+QL.jpg | https://m.media-amazon.com/images/I/51zVmHa7zFL.jpg | https://m.media-amazon.com/images/I/417BBus79zL.jpg | https://m.media-amazon.com/images/I/4116AjS-7AL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Machine-Batteries-Chargeing/dp/B0D2MFZLDZ/ref=sr_1_284"
+    },
+    {
+      "sku": "JKE-IIYEOSCQGNKFANSO",
+      "slug": "ingco-20v-cordless-brushless-angle-grinder-100mm-900w-m10-3-speed-adjustment-300060009000rpm-with-1pcs-40ah-battery-and-charger-cagli261021",
+      "name": "INGCO 20V Cordless Brushless Angle Grinder 100mm, 900W, M10, 3-Speed Adjustment 3000/6000/9000RPM, With 1Pcs 4.0Ah Battery And Charger CAGLI261021",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹4,949.00",
+      "image": "https://m.media-amazon.com/images/I/71F2PJubHPL.jpg | https://m.media-amazon.com/images/I/51Y3Og21BfL.jpg | https://m.media-amazon.com/images/I/51okDzsErnL.jpg | https://m.media-amazon.com/images/I/51ePWIgIFLL.jpg | https://m.media-amazon.com/images/I/51gSQ7Wbq-L.jpg | https://m.media-amazon.com/images/I/51qP98DeCSL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Brushless-Grinder-Adjustment-CAGLI261021/dp/B0GHP3TP6N/ref=sr_1_166"
+    },
+    {
+      "sku": "JKE-IIYEESZRJAZVOTCZ",
+      "slug": "ingco-mini-grinder-kit-6-adjusting-speed-130w-32mm-collet-min-electric-grinder-set-with-1pcs-flexible-shaft-109pcs-accessories-for-jade-carving-wood-punching-metal-grinding-polishing",
+      "name": "INGCO Mini Grinder Kit, 6 Adjusting Speed |130w | 3.2mm Collet, Min Electric Grinder Set with 1pcs Flexible Shaft & 109pcs Accessories for Jade Carving Wood Punching Metal Grinding Polishing",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹2,211.00",
+      "image": "https://m.media-amazon.com/images/I/81NAhBfuahL.jpg | https://m.media-amazon.com/images/I/51Fgc4HYfPL.jpg | https://m.media-amazon.com/images/I/51FaBaByzgL.jpg | https://m.media-amazon.com/images/I/41VfDu+8jhL.jpg | https://m.media-amazon.com/images/I/51E7-4ozfTL.jpg | https://m.media-amazon.com/images/I/51gCyckVFQL.jpg | https://m.media-amazon.com/images/I/41S0Sko1ERL.jpg | https://m.media-amazon.com/images/I/51rhgMTfmLL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Adjusting-Electric-Accessories-Polishing/dp/B0BK1H3WLY/ref=sr_1_183"
+    },
+    {
+      "sku": "JKE-IIYDSVSYJVGDETSM",
+      "slug": "ingco-impact-drill-680w-0-3000rpm-13mm-power-hammer-drills-variable-speed-corded-drill-machine-frowardreverse-switch-electric-drill-with-depth-gauge-home-improvement-construction-concrete",
+      "name": "INGCO Impact Drill, 680W | 0-3000rpm | 13mm Power Hammer Drills, Variable Speed Corded Drill Machine, Froward/Reverse Switch Electric Drill with Depth Gauge Home Improvement Construction Concrete",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹1,850.00",
+      "image": "https://m.media-amazon.com/images/I/61OhZpEVQrL.jpg | https://m.media-amazon.com/images/I/41-zYgV69lL.jpg | https://m.media-amazon.com/images/I/51hT+ETz54L.jpg | https://m.media-amazon.com/images/I/51hQhicjVGL.jpg | https://m.media-amazon.com/images/I/41otUnT+m+L.jpg | https://m.media-amazon.com/images/I/41YebAGWroL.jpg | https://m.media-amazon.com/images/I/517-xfuEpIL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Drill-Power-Improvement-Construction/dp/B09VXML2NL/ref=sr_1_150"
+    },
+    {
+      "sku": "JKE-IIYEOTCGHBFUERZV",
+      "slug": "ingco-20v-brushless-cordless-3-pcs-combo-kit-impact-drill-angle-grinder-rotary-hammer-40ah-battery-charger-47pcs-accessories-power-tool-set-with-plastic-storage-case",
+      "name": "Ingco 20V Brushless Cordless 3 Pcs Combo Kit, Impact Drill, Angle Grinder, Rotary Hammer, 4.0Ah Battery, Charger & 47Pcs Accessories, Power Tool Set with Plastic Storage Case",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹18,999.00",
+      "image": "https://m.media-amazon.com/images/I/81Ca5QluB+L.jpg | https://m.media-amazon.com/images/I/51N2ljf6XML.jpg | https://m.media-amazon.com/images/I/51alT0F9TrL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Brushless-Cordless-Grinder-Accessories/dp/B0GLF8KBG5/ref=sr_1_100"
+    },
+    {
+      "sku": "JKE-IIYEIQ22IREEMSZY",
+      "slug": "ingco-cordless-screwdriver-rechargeable-power-drill-driver-set-4nm-max-torque-240rpm-srew-gun-for-home-use-with-24-pcs-cr-v-drill-bits",
+      "name": "INGCO Cordless Screwdriver, Rechargeable Power Drill Driver Set, 4N.m Max Torque, 240RPM, Srew Gun for Home Use, with 24 PCS Cr-V Drill Bits",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹1,229.00",
+      "image": "https://m.media-amazon.com/images/I/81h2fuJK4HL.jpg | https://m.media-amazon.com/images/I/51LYfScJ76L.jpg | https://m.media-amazon.com/images/I/41ibTfBaRqL.jpg | https://m.media-amazon.com/images/I/41io49T+AUL.jpg | https://m.media-amazon.com/images/I/51vTd3j+ePL.jpg | https://m.media-amazon.com/images/I/51beYVhSIJL.jpg | https://m.media-amazon.com/images/I/41LPwm0wgjL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Screwdriver-Rechargeable-Driver-Torque/dp/B0DCZDHFK8/ref=sr_1_68"
+    },
+    {
+      "sku": "JKE-IIYEEMSSKRJEUQSH",
+      "slug": "ingco-mf3008-multi-tool-kit-300w-10000-20000rpm-6-speed-control-angle-adjustment-8pcs-accessories",
+      "name": "Ingco MF3008 Multi-Tool Kit, 300W, 10000-20000RPM, 6 Speed Control, Angle Adjustment & 8Pcs Accessories",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹2,614.00",
+      "image": "https://m.media-amazon.com/images/I/71g0okurzAL.jpg | https://m.media-amazon.com/images/I/41VpxYnwfsL.jpg | https://m.media-amazon.com/images/I/41vDrQbHlZL.jpg | https://m.media-amazon.com/images/I/4121WGJ8z8L.jpg | https://m.media-amazon.com/images/I/41nPJ5U24qL.jpg | https://m.media-amazon.com/images/I/51tyBa4KG2L.jpg",
+      "productUrl": "https://www.amazon.in/Oscillating-Ajustment-Multi-Tool-Accessories-Scratching/dp/B0B2RTRJBG/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-IIYEISRWLBLDQTSY",
+      "slug": "ingco-cidli20558-20v-compact-brushless-cordless-impact-drill-55nm-torque-2-speed-13mm-metal-chuck-led-work-light-with-2x-20ah-batteries-charger-47pcs-accessory-kit-carrying-case",
+      "name": "INGCO CIDLI20558 20V Compact Brushless Cordless Impact Drill – 55Nm Torque, 2-Speed, 13mm Metal Chuck, LED Work Light | with 2x 2.0Ah Batteries, Charger, 47pcs Accessory Kit & Carrying Case",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹5,499.00",
+      "image": "https://m.media-amazon.com/images/I/815G9X0xCKL.jpg | https://m.media-amazon.com/images/I/517TUPWZLqL.jpg | https://m.media-amazon.com/images/I/51N6J6I0nDL.jpg",
+      "productUrl": "https://www.amazon.in/CIDLI20558-Compact-Brushless-Cordless-Impact/dp/B0DJ6XV8NX/ref=sr_1_178"
+    },
+    {
+      "sku": "JKE-IIYEESSLLA2VMVSC",
+      "slug": "ingco-20v-battery-pack-20ah-lithium-ion-battery-compatible-with-20v-power-tools-led-battery-power-indicator-charger-not-includedmulticolour",
+      "name": "Ingco 20V Battery Pack, 2.0Ah Lithium-Ion Battery, Compatible With 20V Power Tools, LED Battery Power Indicator, Charger Not Included,Multicolour",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹1,650.00",
+      "image": "https://m.media-amazon.com/images/I/613ebdQWrXL.jpg | https://m.media-amazon.com/images/I/31dCodXqm+L.jpg | https://m.media-amazon.com/images/I/41c3z-GslRL.jpg | https://m.media-amazon.com/images/I/41rTCkYRBgL.jpg | https://m.media-amazon.com/images/I/414VmVUvrqL.jpg | https://m.media-amazon.com/images/I/412oMFd3vnL.jpg | https://m.media-amazon.com/images/I/41uuDR+PXLL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Lithium-ion-Compatible-Indicator-Included/dp/B0BJKX5VVB/ref=sr_1_274"
+    },
+    {
+      "sku": "JKE-IIYEGUKOLJLEYTC2",
+      "slug": "ingco-12v-cordless-drill-cordless-drilling-machine-with-15-battery-and-drill-bit-20nm08-10mm151-torque-multicolor",
+      "name": "INGCO 12V Cordless Drill, Cordless Drilling Machine With 1.5 Battery And Drill Bit, 20Nm,0.8-10Mm,15+1 Torque - Multicolor",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹1,629.00",
+      "image": "https://m.media-amazon.com/images/I/61adw3jYqkL.jpg | https://m.media-amazon.com/images/I/41GiGh4-pdL.jpg | https://m.media-amazon.com/images/I/51KHibjgulL.jpg | https://m.media-amazon.com/images/I/41GyiCokfjL.jpg | https://m.media-amazon.com/images/I/41CI3qPMkiL.jpg | https://m.media-amazon.com/images/I/51EmP9jnE9L.jpg | https://m.media-amazon.com/images/I/51yzh3HXrfL.jpg | https://m.media-amazon.com/images/I/51pZOf2VOgL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Drilling-Machine-Battery-0-8-10Mm/dp/B0CQNZVLLZ/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-IIYEGV2TGFNE2NCG",
+      "slug": "ingco-20v-850nm-lithium-ion-impact-wrench-ciwli2085",
+      "name": "Ingco 20V 850NM Lithium-ion Impact Wrench, CIWLI2085",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹11,879.00",
+      "image": "https://m.media-amazon.com/images/I/81UWlA92smL.jpg | https://m.media-amazon.com/images/I/510zygpXN8L.jpg | https://m.media-amazon.com/images/I/21edDXkQmJL.jpg | https://m.media-amazon.com/images/I/31MFR02XwZL.jpg | https://m.media-amazon.com/images/I/21GJA7dAFZL.jpg | https://m.media-amazon.com/images/I/51uvDGHN0eL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Lithium-ion-Impact-Wrench-CIWLI2085/dp/B0CWS1ZM4F/ref=sr_1_177"
+    },
+    {
+      "sku": "JKE-IIYEIUKEHA4U2WCQ",
+      "slug": "ingco-12-cordless-impact-wrench-kit-400-nm-2-x-20-ah-batteries-10-piece-socket-set-led-work-light-10-piece-screwdriver-bit",
+      "name": "Ingco 1/2\" Cordless Impact Wrench Kit, 400 N.m, 2 x 2.0 Ah Batteries, 10-Piece Socket Set, LED Work Light, 10-Piece Screwdriver bit",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹6,492.00",
+      "image": "https://m.media-amazon.com/images/I/71F2hTuOQ5L.jpg | https://m.media-amazon.com/images/I/51xpZUopvPL.jpg | https://m.media-amazon.com/images/I/41DBo8xhsjL.jpg | https://m.media-amazon.com/images/I/51Y8sJoenlL.jpg | https://m.media-amazon.com/images/I/41Tbqu0SLSL.jpg | https://m.media-amazon.com/images/I/41DIEvWa2cL.jpg | https://m.media-amazon.com/images/I/41FgEY8sgHL.jpg | https://m.media-amazon.com/images/I/31oOj6sHQxL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Batteries-10-Piece-Screwdriver/dp/B0DQD89MXP/ref=sr_1_1"
+    },
+    {
+      "sku": "JKE-IIYEIVRVGZJUWUKZ",
+      "slug": "ingco-12v-lithium-ion-cordless-drill-cdli1218-yellow",
+      "name": "INGCO 12V Lithium-Ion Cordless Drill, CDLI1218, Yellow",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹1,980.00",
+      "image": "https://m.media-amazon.com/images/I/81hM+LmulkL.jpg | https://m.media-amazon.com/images/I/41b5DgYj-sL.jpg | https://m.media-amazon.com/images/I/412QKS0o0bL.jpg | https://m.media-amazon.com/images/I/41AjpMBey8L.jpg | https://m.media-amazon.com/images/I/31VRb-ll88L.jpg | https://m.media-amazon.com/images/I/41j2439q20L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Lithium-Ion-Cordless-CDLI1218-Yellow/dp/B0DV56SKQY/ref=sr_1_294"
+    },
+    {
+      "sku": "JKE-IIYEGWCYJRBTOWKT",
+      "slug": "ingco-20v-cordless-hammer-drill-850rpm-16-in-concrete-sds-plus-chuck-system-led-work-light-battery-rotary-hammer-with-1pcs-20ah-battery-and-charger-packed-by-carrying-case",
+      "name": "INGCO 20V Cordless Hammer Drill, 850RPM, Φ16 in Concrete, SDS plus Chuck System, LED Work Light, Battery Rotary Hammer with 1Pcs 2.0Ah Battery and Charger, Packed by Carrying Case",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹5,999.00",
+      "image": "https://m.media-amazon.com/images/I/71JwbEgItEL.jpg | https://m.media-amazon.com/images/I/51NhkVvQIpL.jpg | https://m.media-amazon.com/images/I/51IKoqziZvL.jpg | https://m.media-amazon.com/images/I/41ydvQgPbWL.jpg | https://m.media-amazon.com/images/I/51FdekCepSL.jpg | https://m.media-amazon.com/images/I/515n5HLoyOL.jpg | https://m.media-amazon.com/images/I/41CabJ02JzL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Machine-Function-Multicolour/dp/B0CXXLC7YS/ref=sr_1_172"
+    },
+    {
+      "sku": "JKE-IIYEESCTLFBVOQ2G",
+      "slug": "ingco-impact-drill-set-680w-0-3000rpm-13mm-power-hammer-drills-variable-speed-corded-drill-machine-forwardreverse-switch-electric-drill-with-3-pcs-masonry-drill-bits-10pcs-screwdriver-bits",
+      "name": "INGCO Impact Drill Set, 680W | 0-3000rpm | 13mm Power Hammer Drills, Variable Speed Corded Drill Machine, Forward/Reverse Switch Electric Drill with 3 pcs Masonry Drill Bits, 10pcs Screwdriver Bits",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹2,533.00",
+      "image": "https://m.media-amazon.com/images/I/81Q4I8mehcL.jpg | https://m.media-amazon.com/images/I/51xOImgdi-L.jpg | https://m.media-amazon.com/images/I/51hT+ETz54L.jpg | https://m.media-amazon.com/images/I/41YebAGWroL.jpg | https://m.media-amazon.com/images/I/517-xfuEpIL.jpg | https://m.media-amazon.com/images/I/51-r8VtP6tL.jpg",
+      "productUrl": "https://www.amazon.in/0-3000rpm-Variable-Machine-Electric-Screwdriver/dp/B0BHSYCWCF/ref=sr_1_125"
+    },
+    {
+      "sku": "JKE-IIYEGM2CGIYVATKE",
+      "slug": "ingco-1500w-corded-hammer-drill-machine-850rpm-32mm-in-concrete-55j-4400bpm-sds-plus-chuck-system-electric-rotary-hammer-heavy-duty-grip-handle-packed-by-carrying-case",
+      "name": "INGCO 1500W Corded Hammer Drill Machine 850RPM, 32mm In Concrete, 5.5J, 4400BPM, SDS Plus Chuck System, Electric Rotary Hammer Heavy Duty Grip Handle, Packed by Carrying Case",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹7,504.00",
+      "image": "https://m.media-amazon.com/images/I/81byxNsGksL.jpg | https://m.media-amazon.com/images/I/417-e1wdaVL.jpg | https://m.media-amazon.com/images/I/51uX1EYRK2L.jpg | https://m.media-amazon.com/images/I/514-lyAq0TL.jpg | https://m.media-amazon.com/images/I/41a8biRMlZL.jpg | https://m.media-amazon.com/images/I/41jUOnN6f+L.jpg | https://m.media-amazon.com/images/I/41DmMrUOrkL.jpg",
+      "productUrl": "https://www.amazon.in/Rotary-Functions-Concrete-Woodworking-Industrial/dp/B0C3B21PMD/ref=sr_1_143"
+    },
+    {
+      "sku": "JKE-IIYEESZRKFDFUSBS",
+      "slug": "ingco-5-pcs-air-tools-set-includes-4m-recoil-hose-air-washing-gun-air-spray-gun-air-tire-inflating-gun-nitto-type-connector-suitable-for-beauty-and-maintenance-of-various-cars-or-handicrafts",
+      "name": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air Washing Gun, Air Spray Gun, Air Tire Inflating Gun, Nitto Type Connector, Suitable for Beauty and Maintenance of Various Cars or Handicrafts",
+      "brand": "Ingco",
+      "category": "Garden & Outdoor",
+      "price": "₹1,899.00",
+      "image": "https://m.media-amazon.com/images/I/71KVK8wERIL.jpg | https://m.media-amazon.com/images/I/41xd1lewyDL.jpg | https://m.media-amazon.com/images/I/41I+u2In8nL.jpg | https://m.media-amazon.com/images/I/41+XtKz97jL.jpg | https://m.media-amazon.com/images/I/411s1bAQFZL.jpg | https://m.media-amazon.com/images/I/41zHwm8hxVL.jpg | https://m.media-amazon.com/images/I/41qMDt7whvL.jpg | https://m.media-amazon.com/images/I/51kMe7gUhSL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Inflating-Connector-Maintenance-Handicrafts/dp/B0BK1QFZH2/ref=sr_1_270"
+    },
+    {
+      "sku": "JKE-IIYEGUZZGFFUYWSY",
+      "slug": "ingco-oscillating-multi-tool-kit-cordless-diy-with-battery-charger-and-8-accessories-for-sanding-grinding-scratching-polishing",
+      "name": "INGCO Oscillating Multi-Tool Kit - Cordless DIY With Battery, Charger, and 8 Accessories for Sanding, Grinding, Scratching, Polishing",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹4,619.00",
+      "image": "https://m.media-amazon.com/images/I/7121ZEj+BiL.jpg | https://m.media-amazon.com/images/I/41IfSTHpUNL.jpg | https://m.media-amazon.com/images/I/51RXQ9l-xQL.jpg | https://m.media-amazon.com/images/I/511F5WkfvbL.jpg | https://m.media-amazon.com/images/I/41TGSt9qMkL.jpg | https://m.media-amazon.com/images/I/41+4mznwOeL.jpg | https://m.media-amazon.com/images/I/51V6V9q4V4L.jpg",
+      "productUrl": "https://www.amazon.in/Oscillating-Multi-Tool-Accessories-Scratching-Polishing/dp/B0CS91KLZX/ref=sr_1_256"
+    },
+    {
+      "sku": "JKE-IIYEOTCGKBCFCR2Q",
+      "slug": "20v-cordless-impact-wrench-126pcs-tool-set-34-drive-max-1900nm-nut-busting-torque-3-speed-with-50ah-battery-4a-charger-sockets-bits-carrying-case",
+      "name": "20V Cordless Impact Wrench 126Pcs Tool Set, 3/4\" Drive, Max 1900Nm Nut-Busting Torque, 3-Speed, with 5.0Ah Battery, 4A Charger, Sockets, Bits & Carrying Case",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹26,154.00",
+      "image": "https://m.media-amazon.com/images/I/81nE+I1NkIL.jpg | https://m.media-amazon.com/images/I/51nD7teuGfL.jpg | https://m.media-amazon.com/images/I/51n0ljbF7VL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Nut-Busting-3-Speed-Battery-Carrying/dp/B0GLFPDQGP/ref=sr_1_301"
+    },
+    {
+      "sku": "JKE-IIYEIV2YHAZUQUKO",
+      "slug": "ingco-20v-cordless-brushless-drill-55nm-2-speed-adjstment-5002000rpm-13mm-metal-chuck-221-torque-settings-led-work-light-electric-drill-with-1pcs-20ah-battery-and-charger-47pcs-drill-bits-set",
+      "name": "INGCO 20V Cordless Brushless Drill 55NM, 2-Speed Adjstment 500/2000RPM, 13mm Metal Chuck, 22+1 Torque settings, LED Work light, Electric Drill With 1Pcs 2.0Ah Battery And Charger, 47Pcs Drill Bits Set",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹3,749.00",
+      "image": "https://m.media-amazon.com/images/I/718wQH5Ji1L.jpg | https://m.media-amazon.com/images/I/51jbxwFLjKL.jpg | https://m.media-amazon.com/images/I/51G7iWfyAzL.jpg | https://m.media-amazon.com/images/I/510IivOBhSL.jpg | https://m.media-amazon.com/images/I/51xvOpylfFL.jpg | https://m.media-amazon.com/images/I/51c6uB85a5L.jpg | https://m.media-amazon.com/images/I/51V8mHu37iL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Brushless-Batteries-Carrying/dp/B0DWX83HQN/ref=sr_1_151"
+    },
+    {
+      "sku": "JKE-IIYEEMSSJJMTOSRX",
+      "slug": "ingco-jig-saw-corded-saw-570w-800-3000rpm-4-step-pendulum-function-5-variable-speed-control-power-saw-with-3pcs-saw-blades-corded-saw",
+      "name": "INGCO Jig Saw, Corded Saw, 570W | 800-3000rpm | 4 Step Pendulum Function | 5 Variable Speed Control Power Saw With 3pcs Saw Blades | Corded Saw",
+      "brand": "Ingco",
+      "category": "Power Tools",
+      "price": "₹2,699.00",
+      "image": "https://m.media-amazon.com/images/I/712YvjvgALL.jpg | https://m.media-amazon.com/images/I/51-+bRVHbGL.jpg | https://m.media-amazon.com/images/I/41Xx3RyrQOL.jpg | https://m.media-amazon.com/images/I/418AUvHcMML.jpg | https://m.media-amazon.com/images/I/51Vb45D0D+L.jpg | https://m.media-amazon.com/images/I/518czDj5yrL.jpg | https://m.media-amazon.com/images/I/515ntBFq2zL.jpg | https://m.media-amazon.com/images/I/41+7Exx02yL.jpg",
+      "productUrl": "https://www.amazon.in/800-3000rpm-Pendulum-Function-Variable-Control/dp/B0B2RJY7J7/ref=sr_1_271"
+    },
+    {
+      "sku": "JKE-IIYDSSSRHE4UYSZW",
+      "slug": "ingco-perfect-power-tools-angle-grinder-ag900285-900-watts-cutting-toolsmarble-cutterwood-cuttertile-cutter-power-toolshand-toolsconstructions-toolsbuilding-toolsmechanical-tools",
+      "name": "INGCO PERFECT POWER TOOLS Angle Grinder AG900285 900 Watts |Cutting tools|Marble cutter|Wood cutter|Tile cutter |Power tools|Hand tools|Constructions Tools|Building tools|Mechanical Tools",
+      "brand": "Ingco",
+      "category": "Hand Tools",
+      "price": "₹3,814.00",
+      "image": "https://m.media-amazon.com/images/I/517agFo1ZcL.jpg | https://m.media-amazon.com/images/I/41OEOTydDTL.jpg | https://m.media-amazon.com/images/I/410IiNNBdpL.jpg | https://m.media-amazon.com/images/I/31gKKTWmAXL.jpg",
+      "productUrl": "https://www.amazon.in/PERFECT-POWER-TOOLS-Constructions-Mechanical/dp/B09JQ99LK6/ref=sr_1_302"
+    }
+  ]
 }

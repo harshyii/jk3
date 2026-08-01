@@ -1,0 +1,36 @@
+{
+  "name": "Ambert",
+  "slug": "ambert",
+  "products": [
+    {
+      "sku": "JKE-IIYDQURTKRFVQU22",
+      "slug": "ambert-fiberglass-mini-solar-panel-wire-attached-solar-square-shape-70x70x3-mm",
+      "name": "ambert fiberglass Mini Solar Panel Wire Attached Solar Square Shape (70X70X3 Mm)",
+      "brand": "Ambert",
+      "category": "Measuring & Layout",
+      "price": "₹142.00",
+      "image": "https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/21oW9aYJDWL.jpg | https://m.media-amazon.com/images/I/41k74h+semL.jpg",
+      "productUrl": "https://www.amazon.in/AMBERT-Solar-Attached-Square-70x70x3/dp/B08R3TKXSZ/ref=sr_1_191"
+    },
+    {
+      "sku": "JKE-IIYDQURTJREEGQ2L",
+      "slug": "ambert-6v-60ma-mini-solar-panel-wire-attached-with-solar-for-diy-square-shape-80x40x3-mm",
+      "name": "AMBERT 6V 60mA Mini Solar Panel Wire Attached with Solar for DIY Square Shape (80x40x3 mm)",
+      "brand": "Ambert",
+      "category": "Measuring & Layout",
+      "price": "₹125.00",
+      "image": "https://m.media-amazon.com/images/I/31-eGSbpy-L.jpg | https://m.media-amazon.com/images/I/31-eGSbpy-L.jpg | https://m.media-amazon.com/images/I/313WqDdquxL.jpg",
+      "productUrl": "https://www.amazon.in/AMBERT-Solar-Attached-Square-80x40x3/dp/B08R3LHCCK/ref=sr_1_172"
+    },
+    {
+      "sku": "JKE-IIYDQURTLBKDOUS2",
+      "slug": "ambert-mini-solar-panel-wire-attached-with-solar-round-shape",
+      "name": "AMBERT Mini Solar Panel Wire Attached with Solar Round Shape",
+      "brand": "Ambert",
+      "category": "Electrical & Wiring",
+      "price": "₹135.00",
+      "image": "https://m.media-amazon.com/images/I/310VSVRrvxL.jpg | https://m.media-amazon.com/images/I/310VSVRrvxL.jpg | https://m.media-amazon.com/images/I/41k74h+semL.jpg",
+      "productUrl": "https://www.amazon.in/AMBERT-Solar-Panel-Attached-Round/dp/B08R3XT7RZ/ref=sr_1_221"
+    }
+  ]
+}

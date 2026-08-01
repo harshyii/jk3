@@ -1,0 +1,36 @@
+{
+  "name": "Sauran",
+  "slug": "sauran",
+  "products": [
+    {
+      "sku": "JKE-IIYDSVZUJRMFANSQ",
+      "slug": "sauran-xtra-power-electric-chain-saw-16-inch-xpt457",
+      "name": "SAURAN Xtra Power Electric Chain Saw 16 Inch XPT457",
+      "brand": "Sauran",
+      "category": "Power Tools",
+      "price": "₹4,611.00",
+      "image": "https://m.media-amazon.com/images/I/21TaZepacXL.jpg | https://m.media-amazon.com/images/I/21TaZepacXL.jpg",
+      "productUrl": "https://www.amazon.in/SAURAN-Power-Electric-Chain-XPT457/dp/B09W4LXP6P/ref=sr_1_90"
+    },
+    {
+      "sku": "JKE-IIYDSWRYINBUOUSX",
+      "slug": "sauran-xtra-power-rotary-hammer-20-mm-capacity-xpt433",
+      "name": "SAURAN Xtra Power Rotary Hammer 20 mm Capacity XPT433",
+      "brand": "Sauran",
+      "category": "Hand Tools",
+      "price": "₹3,000.00",
+      "image": "https://m.media-amazon.com/images/I/51MsEWWvjhS.jpg | https://m.media-amazon.com/images/I/31u6OPk3z2S.jpg",
+      "productUrl": "https://www.amazon.in/SAURAN-Rotary-Hammer-Capacity-XPT433/dp/B09Z8CCGRW/ref=sr_1_83"
+    },
+    {
+      "sku": "JKE-IIYDSWRYIIZUEUSK",
+      "slug": "sauran-xtra-power-gasoline-chain-saw-58-cc-displacement-xpg-cs22",
+      "name": "SAURAN Xtra Power Gasoline Chain Saw 58 CC Displacement XPG-CS22",
+      "brand": "Sauran",
+      "category": "Power Tools",
+      "price": "₹10,500.00",
+      "image": "https://m.media-amazon.com/images/I/31dk+es0wqS.jpg | https://m.media-amazon.com/images/I/31dk+es0wqS.jpg | https://m.media-amazon.com/images/I/31WQOmJP+lS.jpg | https://m.media-amazon.com/images/I/419MIptrRcS.jpg | https://m.media-amazon.com/images/I/31sog5+UG5S.jpg | https://m.media-amazon.com/images/I/31zUBJ8tMES.jpg",
+      "productUrl": "https://www.amazon.in/SAURAN-Power-Gasoline-Displacement-XPG-CS22/dp/B09Z8B3BRJ/ref=sr_1_51"
+    }
+  ]
+}

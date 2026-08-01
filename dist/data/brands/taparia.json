@@ -6,5 +6,466 @@
   "description": "Browse Taparia hand tools including screwdrivers, pliers, spanners, cutters and tool kits.",
   "seoTitle": "Taparia Hand Tools Online | Haryana.Tools",
   "metaDescription": "Shop Taparia hand tools with detailed specifications and competitive prices.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDAUBWGZHVCRBQ",
+      "slug": "taparia-1541-8-pincers-grey",
+      "name": "Taparia 1541-8 Pincers, Grey",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹419.00",
+      "image": "https://m.media-amazon.com/images/I/518uD9gc+GL.jpg | https://m.media-amazon.com/images/I/313bzXH0WAL.jpg | https://m.media-amazon.com/images/I/31phIHpNLrL.jpg | https://m.media-amazon.com/images/I/31KgCczewKL.jpg | https://m.media-amazon.com/images/I/51jWp7sfBTL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1541-8-Pincers/dp/B00P66OQD0/ref=sr_1_208"
+    },
+    {
+      "sku": "JKE-IIYDSOBSJY4E2UZU",
+      "slug": "taparia-1541-8-pincers-grey",
+      "name": "Taparia 1541-8 Pincers, Grey",
+      "brand": "Taparia",
+      "category": "General Hardware",
+      "price": "₹2,999.00",
+      "image": "https://m.media-amazon.com/images/I/31t6FqosfpL.jpg | https://m.media-amazon.com/images/I/21GWrJt5e5L.jpg | https://m.media-amazon.com/images/I/31jBS6oks1L.jpg | https://m.media-amazon.com/images/I/31NymGY75aL.jpg | https://m.media-amazon.com/images/I/21eYtVYRomL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1541-8-Pincers-Driver-Yellow/dp/B0982N8MS4/ref=sr_1_190"
+    },
+    {
+      "sku": "JKE-IIYDSSCOI5HEINBT",
+      "slug": "taparia-1541-8-pincers-grey",
+      "name": "Taparia 1541-8 Pincers, Grey",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹571.00",
+      "image": "https://m.media-amazon.com/images/I/31lfA9vHISL.jpg | https://m.media-amazon.com/images/I/21b0ea2fqoL.jpg | https://m.media-amazon.com/images/I/31jBS6oks1L.jpg | https://m.media-amazon.com/images/I/31NymGY75aL.jpg | https://m.media-amazon.com/images/I/21sUw17K8DL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1541-8-Pincers-Cutting-Octogonal/dp/B09HNGND43/ref=sr_1_189"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZHEIRKT",
+      "slug": "taparia-stillson-type-pipe-wrench-10-inch-1272-10",
+      "name": "Taparia Stillson Type Pipe Wrench 10-Inch (1272-10)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹276.00",
+      "image": "https://m.media-amazon.com/images/I/61vCsZKsYuL.jpg | https://m.media-amazon.com/images/I/31bTrDmonUL.jpg | https://m.media-amazon.com/images/I/41YnKb8lStL.jpg | https://m.media-amazon.com/images/I/216ZYoES3JL.jpg | https://m.media-amazon.com/images/I/315pHLICfML.jpg | https://m.media-amazon.com/images/I/31jUcvpY6-L.jpg | https://m.media-amazon.com/images/I/419dDKIIcgL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1272-Steel-Stillson-Wrench/dp/B00P66NDES/ref=sr_1_194"
+    },
+    {
+      "sku": "JKE-IIYDOSCSHEZVSNS2",
+      "slug": "taparia-1733-steel-square-drive-t-handle-silver-finish",
+      "name": "Taparia 1733 Steel Square Drive T Handle (Silver Finish)",
+      "brand": "Taparia",
+      "category": "Measuring & Layout",
+      "price": "₹317.00",
+      "image": "https://m.media-amazon.com/images/I/51osYYkG6KL.jpg | https://m.media-amazon.com/images/I/21EpX+mqgsL.jpg | https://m.media-amazon.com/images/I/21J65GoMZnL.jpg | https://m.media-amazon.com/images/I/216kamDb0ZL.jpg | https://m.media-amazon.com/images/I/21bjcbidu7L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1733-Square-Handle-Silver/dp/B07HR93Y6Z/ref=sr_1_215"
+    },
+    {
+      "sku": "JKE-IIYDATCHIUYFQWSH",
+      "slug": "taparia-dep-06-double-ended-spanner-set-dep-06-28-x-51-cm",
+      "name": "Taparia DEP 06 Double Ended Spanner Set (DEP-06) ?2.8 x 5.1 cm",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹238.00",
+      "image": "https://m.media-amazon.com/images/I/718K8eRfAEL.jpg | https://m.media-amazon.com/images/I/31Y8zswT+jL.jpg | https://m.media-amazon.com/images/I/6140m0tYeSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41M6HtFr0dL.jpg | https://m.media-amazon.com/images/I/41Z65JRMPuL.jpg | https://m.media-amazon.com/images/I/31A0dFqzkOL.jpg | https://m.media-amazon.com/images/I/31wxaPKdZIL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-DEP-Double-Ended-Spanner/dp/B00LGE0XZG/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYDATCHIUYVKWCB",
+      "slug": "taparia-104-steel-22mm-cutting-edge-octogonal-chisel-blue-and-silver",
+      "name": "Taparia 104 Steel (22mm) Cutting Edge Octogonal Chisel (Blue and Silver)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹229.00",
+      "image": "https://m.media-amazon.com/images/I/61CfuRYatAL.jpg | https://m.media-amazon.com/images/I/31ZhcL6bSzL.jpg | https://m.media-amazon.com/images/I/41rqs3hI3WL.jpg | https://m.media-amazon.com/images/I/41y9n0B1pmL.jpg | https://m.media-amazon.com/images/I/31rtrKSm3DS.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-104-Cutting-Octogonal-Chisel/dp/B00LGE1UXA/ref=sr_1_182"
+    },
+    {
+      "sku": "JKE-IIYDAUKSLFFVSNZS",
+      "slug": "taparia-974-steel-two-in-one-stubby-screw-driver-green-and-silver-1-pc",
+      "name": "Taparia 974 Steel Two in One Stubby Screw Driver (Green and Silver), 1 pc",
+      "brand": "Taparia",
+      "category": "Fasteners & Hardware",
+      "price": "₹109.00",
+      "image": "https://m.media-amazon.com/images/I/61JjS7jEI1L.jpg | https://m.media-amazon.com/images/I/314bjy-4F3L.jpg | https://m.media-amazon.com/images/I/31dWdialspL.jpg | https://m.media-amazon.com/images/I/31JKrckYiIL.jpg | https://m.media-amazon.com/images/I/318JerHAI6L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-974-Stubby-Driver-Silver/dp/B00QRYKY72/ref=sr_1_128"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZIVMUBW",
+      "slug": "taparia-cc-06-cable-cutters-blue-silver-182l-x-54w-centimeters",
+      "name": "Taparia CC-06 Cable Cutters, Blue & Silver, 18.2L x 5.4W Centimeters",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹328.00",
+      "image": "https://m.media-amazon.com/images/I/519Z-xbUT2L.jpg | https://m.media-amazon.com/images/I/311sgZCu0uL.jpg | https://m.media-amazon.com/images/I/31ctTEQtwVL.jpg | https://m.media-amazon.com/images/I/41MF7z2gGSL.jpg | https://m.media-amazon.com/images/I/31xnhYo+3pL.jpg | https://m.media-amazon.com/images/I/31Nxc-43QLL.jpg | https://m.media-amazon.com/images/I/31IhPYGl2nL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-CC-06-Cutter-Silver/dp/B00P66QVP6/ref=sr_1_141"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZIDGNSZ",
+      "slug": "taparia-1641-10-1641n-10-inch-250-mm-curved-jaw-locking-pliers-mole-wrench-vise-vice-grip-silver",
+      "name": "Taparia 1641-10 / 1641N-10 inch 250 mm Curved Jaw Locking Pliers mole Wrench Vise vice Grip, Silver",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹577.00",
+      "image": "https://m.media-amazon.com/images/I/71skrDoBaPL.jpg | https://m.media-amazon.com/images/I/31xaufCZZaL.jpg | https://m.media-amazon.com/images/I/41RiqOCU31L.jpg | https://m.media-amazon.com/images/I/31FSQCfN1iL.jpg | https://m.media-amazon.com/images/I/41o3lOrUr4L.jpg | https://m.media-amazon.com/images/I/31jv8HslUGL.jpg | https://m.media-amazon.com/images/I/415aswa1UkL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1641N-10-Curved-Vice-Plier/dp/B00P66P36Y/ref=sr_1_291"
+    },
+    {
+      "sku": "JKE-IIYDATSCGBCVSWCB",
+      "slug": "taparia-tcs10-metal-cutter-pack-of-1-multicolour",
+      "name": "Taparia TCS10 Metal Cutter (Pack of 1), Multicolour",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹452.00",
+      "image": "https://m.media-amazon.com/images/I/61ScMSMZkGL.jpg | https://m.media-amazon.com/images/I/311pD7xWtDL.jpg | https://m.media-amazon.com/images/I/41omdLd2fvL.jpg | https://m.media-amazon.com/images/I/41H9lbCbYLL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-TCS-10-TCS10-Cutter/dp/B00NB0EYXA/ref=sr_1_99"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZHFUQKL",
+      "slug": "taparia-1420-6-econ-series-long-nose-plier-205l-x-74w-centimeters-green",
+      "name": "Taparia 1420-6 Econ-Series Long Nose Plier, 20.5L x 7.4W Centimeters, Green",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹235.00",
+      "image": "https://m.media-amazon.com/images/I/61beDyacOsL.jpg | https://m.media-amazon.com/images/I/213E9nYwMZL.jpg | https://m.media-amazon.com/images/I/41tDv7Pf1mL.jpg | https://m.media-amazon.com/images/I/31Q-6n+S7LL.jpg | https://m.media-amazon.com/images/I/31h36ET38QL.jpg | https://m.media-amazon.com/images/I/315wRn4d1+L.jpg | https://m.media-amazon.com/images/I/31C1CINEBGL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1420-6-Econ-Plier-Centimeters/dp/B00P66NZAK/ref=sr_1_98"
+    },
+    {
+      "sku": "JKE-IIYDOMZTKQ3EIRCC",
+      "slug": "taparia-bs31-steel-bit-screwdriver-set-multicolour-31-pieces",
+      "name": "Taparia BS31 Steel Bit ScrewDriver Set (Multicolour, 31-Pieces)",
+      "brand": "Taparia",
+      "category": "Measuring & Layout",
+      "price": "₹459.00",
+      "image": "https://m.media-amazon.com/images/I/51F+eLGIWSL.jpg | https://m.media-amazon.com/images/I/31lr9dIUabL.jpg | https://m.media-amazon.com/images/I/41XZnzR2AqL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-BS31-Driver-Multicolour-31-Pieces/dp/B0733T6DDB/ref=sr_1_138"
+    },
+    {
+      "sku": "JKE-IIYEEUCNKNMVCUKW",
+      "slug": "taparia-combination-spanner-set-12pc-wrench-chrome-vanadium-css12",
+      "name": "Taparia Combination Spanner Set 12pc Wrench Chrome Vanadium CSS12",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹640.00",
+      "image": "https://m.media-amazon.com/images/I/71e8eH0vIOL.jpg | https://m.media-amazon.com/images/I/41gfjGhm51L.jpg | https://m.media-amazon.com/images/I/41H0xUOQfCL.jpg | https://m.media-amazon.com/images/I/31iiAXnginL.jpg | https://m.media-amazon.com/images/I/31MpvZ0WJYL.jpg",
+      "productUrl": "https://www.amazon.in/TAPARIA-Combination-Spanner-Wrench-Vanadium/dp/B0BPMSYQQV/ref=sr_1_73"
+    },
+    {
+      "sku": "JKE-IIYDATCHIUYU2USZ",
+      "slug": "taparia-mh-300-machinist-hammer-with-handle-hand-tools-for-professionals-pack-of-1",
+      "name": "Taparia MH 300 Machinist Hammer with Handle Hand Tools for Professionals (Pack of 1)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹250.00",
+      "image": "https://m.media-amazon.com/images/I/51+gHCjynOL.jpg | https://m.media-amazon.com/images/I/21aA7cAiogL.jpg | https://m.media-amazon.com/images/I/411My8ADpXL.jpg | https://m.media-amazon.com/images/I/31bwuiGUUkL.jpg | https://m.media-amazon.com/images/I/416J-SmY1sL.jpg | https://m.media-amazon.com/images/I/21G7AOTkABL.jpg | https://m.media-amazon.com/images/I/21boWflLhYL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-MH-300-Machinist-Hammer/dp/B00LGE1MRY/ref=sr_1_260"
+    },
+    {
+      "sku": "JKE-IIYDASSMJI4USRCR",
+      "slug": "taparia-screw-driver-set-with-bulb-840-neon-silver-and-green",
+      "name": "TAPARIA Screw Driver Set with Bulb - 840 (Neon, Silver and Green)",
+      "brand": "Taparia",
+      "category": "Measuring & Layout",
+      "price": "₹329.00",
+      "image": "https://m.media-amazon.com/images/I/81NuX5ddHkL.jpg | https://m.media-amazon.com/images/I/4128a-DB+5L.jpg | https://m.media-amazon.com/images/I/41LbipTM80L.jpg | https://m.media-amazon.com/images/I/21NlGtL1UBL.jpg | https://m.media-amazon.com/images/I/41FJzjV+hNL.jpg | https://m.media-amazon.com/images/I/41oFxJSc2rL.jpg | https://m.media-amazon.com/images/I/415VVpWwGvL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-840-Screw-Driver-Neon/dp/B00JLJ9IDQ/ref=sr_1_85"
+    },
+    {
+      "sku": "JKE-IIYEIR2UI44TMN2L",
+      "slug": "taparia-block-planer-cbp-110-quality-carpenter-block-planer-180-mm-for-precision-woodworking-cast-iron-body-42-mm-width-blade-with-high-carbon-steel",
+      "name": "Taparia Block Planer CBP 110 – Quality Carpenter block planer (180 mm) for Precision Woodworking, Cast Iron Body, 42 mm width blade with high carbon steel",
+      "brand": "Taparia",
+      "category": "General Hardware",
+      "price": "₹559.00",
+      "image": "https://m.media-amazon.com/images/I/61SYcJ4PeHL.jpg | https://m.media-amazon.com/images/I/415klXQ6hYL.jpg | https://m.media-amazon.com/images/I/41prpZb7fdL.jpg | https://m.media-amazon.com/images/I/41xul5xJL7L.jpg | https://m.media-amazon.com/images/I/413M3DjIJlL.jpg | https://m.media-amazon.com/images/I/41BIT8DMcvL.jpg | https://m.media-amazon.com/images/I/41KGyqrOTEL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-Block-Planer-CBPB-110/dp/B0DGTG967K/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-IIYEIQ2KI42E2TBW",
+      "slug": "taparia-4-pc-screwdrivers-set-712-713-923-924-4-x-flat-screwdrivers-used-for-industrial-application-diy-electrical-carpentary-plumbing-professional-and-home-use",
+      "name": "TAPARIA, 4 PC SCREWDRIVERS SET, (712, 713, 923, 924), 4 x FLAT SCREWDRIVERS. Used for Industrial application, DIY, Electrical, Carpentary, Plumbing, Professional and Home use.",
+      "brand": "Taparia",
+      "category": "Fasteners & Hardware",
+      "price": "₹300.00",
+      "image": "https://m.media-amazon.com/images/I/619nHIBOd9L.jpg | https://m.media-amazon.com/images/I/41AVm6sE-RL.jpg | https://m.media-amazon.com/images/I/21kC+c6UIKL.jpg | https://m.media-amazon.com/images/I/21mtoXgvhGL.jpg | https://m.media-amazon.com/images/I/117DYDCUZlL.jpg | https://m.media-amazon.com/images/I/11yz+Y7mZUL.jpg | https://m.media-amazon.com/images/I/41s7nUhHkML.jpg",
+      "productUrl": "https://www.amazon.in/712-713-923-924-SCREWDRIVERS/dp/B0DCJG4ML6/ref=sr_1_137"
+    },
+    {
+      "sku": "JKE-IIYDATSCGBDTONCZ",
+      "slug": "taparia-alloy-steel-bds-125-steel-bit-driver-kit-green",
+      "name": "Taparia Alloy Steel Bds 125 Steel Bit Driver Kit (Green)",
+      "brand": "Taparia",
+      "category": "Fasteners & Hardware",
+      "price": "₹280.00",
+      "image": "https://m.media-amazon.com/images/I/61yHNWYM2PL.jpg | https://m.media-amazon.com/images/I/31w+9Xl2hJL.jpg | https://m.media-amazon.com/images/I/41O+ySx7IRL.jpg | https://m.media-amazon.com/images/I/31C5nk7ahZL.jpg | https://m.media-amazon.com/images/I/31P-LjByMOL.jpg | https://m.media-amazon.com/images/I/41ozjM7eSaL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-BDS-125-Steel-Driver/dp/B00NB0G74Y/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-IIYEIRZVJI3UUOKY",
+      "slug": "taparia-machinist-hammer-mh-400-400-g-drop-forged-stirking-steel-head-with-hickory-wood-handle-for-professionals-home-and-diy",
+      "name": "Taparia Machinist Hammer - MH 400 (400 g drop forged stirking steel head) with hickory wood handle for Professionals, home and DIY",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹349.00",
+      "image": "https://m.media-amazon.com/images/I/51g8eOGdAOL.jpg | https://m.media-amazon.com/images/I/31GUd8313KL.jpg | https://m.media-amazon.com/images/I/311PqupEmNL.jpg | https://m.media-amazon.com/images/I/41ZuaVqeo+L.jpg | https://m.media-amazon.com/images/I/41pBojQdb1L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-Machinist-Hammer-stirking-Professionals/dp/B0DG5J7J9X/ref=sr_1_158"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZKVGSBY",
+      "slug": "taparia-km9v-allen-key-set-black-hex",
+      "name": "Taparia KM9V Allen Key Set (Black), Hex",
+      "brand": "Taparia",
+      "category": "General Hardware",
+      "price": "₹230.00",
+      "image": "https://m.media-amazon.com/images/I/71ZZ8qc4uTL.jpg | https://m.media-amazon.com/images/I/415DC8AoQtL.jpg | https://m.media-amazon.com/images/I/41QkK8XxHnL.jpg | https://m.media-amazon.com/images/I/41-GwRfNENL.jpg | https://m.media-amazon.com/images/I/41+NcfwMt3L.jpg | https://m.media-amazon.com/images/I/41Qv8b-RKqL.jpg | https://m.media-amazon.com/images/I/41nKEHfIe8L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-KM9V-Allen-Key-Black/dp/B00P66USH8/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYEMSBXGZEDGV2N",
+      "slug": "taparia-dep12hp-12-pc-spanner-set-6x7-to-30x32mm-double-side-open-end-wrench-wall-hanging-high-grade-crv-steel-forged-rust-prevention-coating-professional-mechanic-tool-set-diy-home-professional",
+      "name": "TAPARIA DEP12HP (12 Pc) Spanner Set-6x7 to 30x32mm Double Side Open End Wrench, Wall Hanging-High Grade CrV Steel Forged-Rust Prevention Coating-Professional Mechanic Tool Set-DIY, Home, Professional",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹1,039.00",
+      "image": "https://m.media-amazon.com/images/I/61owNE1i5hL.jpg | https://m.media-amazon.com/images/I/31bJSZkkhqL.jpg | https://m.media-amazon.com/images/I/41TEiw5fA7L.jpg | https://m.media-amazon.com/images/I/41j4tgMWe9L.jpg | https://m.media-amazon.com/images/I/416ulKQhF-L.jpg | https://m.media-amazon.com/images/I/41GMxtcsrdL.jpg | https://m.media-amazon.com/images/I/41EiZTrMT5L.jpg",
+      "productUrl": "https://www.amazon.in/Hanging-High-Forged-Rust-Prevention-Coating-Professional-Professional/dp/B0FH76H3WM/ref=sr_1_268"
+    },
+    {
+      "sku": "JKE-IIYEIRRTGFIFQQ2G",
+      "slug": "taparia-1-pc-riveter-hr-105-used-for-aerospace-automotive-construction-manufacturing-shipbuilding-furniture-industry",
+      "name": "TAPARIA 1 PC RIVETER (HR 105) Used for Aerospace, Automotive, Construction, Manufacturing, Shipbuilding, Furniture Industry",
+      "brand": "Taparia",
+      "category": "Fasteners & Hardware",
+      "price": "₹449.00",
+      "image": "https://m.media-amazon.com/images/I/61NvMO0x8vL.jpg | https://m.media-amazon.com/images/I/31BSe2TDefL.jpg | https://m.media-amazon.com/images/I/31vPcM0oe8L.jpg | https://m.media-amazon.com/images/I/51h6vWnG8aL.jpg | https://m.media-amazon.com/images/I/31wQ-TuXEYL.jpg | https://m.media-amazon.com/images/I/31DRFcQno7L.jpg | https://m.media-amazon.com/images/I/41pTpWYyUAL.jpg",
+      "productUrl": "https://www.amazon.in/HR-105-Construction-Manufacturing-Shipbuilding/dp/B0DF31PXCF/ref=sr_1_109"
+    },
+    {
+      "sku": "JKE-IIYEMSBXHBFFUSZW",
+      "slug": "taparia-dep08hp-8-pc-spanner-set-6x7-to-20x22mm-double-side-open-end-wrench-wall-hanging-high-grade-crv-steel-forged-rust-prevention-coating-professional-mechanic-tool-set-diy-home-professional",
+      "name": "Taparia DEP08HP (8 Pc) Spanner Set-6x7 to 20x22mm Double Side Open End Wrench, Wall Hanging-High Grade CrV Steel Forged-Rust Prevention Coating-Professional Mechanic Tool Set-DIY, Home, Professional",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹429.00",
+      "image": "https://m.media-amazon.com/images/I/61aJ8sygUwL.jpg | https://m.media-amazon.com/images/I/31RiYRSiFfL.jpg | https://m.media-amazon.com/images/I/41DCbJBhW2L.jpg | https://m.media-amazon.com/images/I/41sCwXMeYWL.jpg | https://m.media-amazon.com/images/I/41K3szkCS-L.jpg | https://m.media-amazon.com/images/I/41yJOmUvPgL.jpg | https://m.media-amazon.com/images/I/51RHW-YhCcL.jpg",
+      "productUrl": "https://www.amazon.in/Hanging-High-Forged-Rust-Prevention-Coating-Professional-Professional/dp/B0FH78JZK6/ref=sr_1_121"
+    },
+    {
+      "sku": "JKE-IIYDMWCRK5KDITJZ",
+      "slug": "taparia-1621-8-8-inch-210mm-combination-pliers-high-grade-steel-with-joint-cutter-serrated-jaws-and-insulated-plastic-handles-for-wire-cutting-gripping-and-bending-professional-tool-for-electricians-mechanics-and-diy-repairs",
+      "name": "Taparia 1621-8, 8 Inch (210mm) Combination Pliers - High-Grade Steel with Joint Cutter, Serrated Jaws, and Insulated Plastic Handles for Wire Cutting, Gripping, and Bending - Professional Tool for Electricians, Mechanics, and DIY Repairs",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹248.00",
+      "image": "https://m.media-amazon.com/images/I/61GvDLeKYRL.jpg | https://m.media-amazon.com/images/I/21zS3b7S+dL.jpg | https://m.media-amazon.com/images/I/31nmtUvQCiL.jpg | https://m.media-amazon.com/images/I/31Ibw+M8SmL.jpg | https://m.media-amazon.com/images/I/41gaUebI6rL.jpg | https://m.media-amazon.com/images/I/31-R9PySpML.jpg | https://m.media-amazon.com/images/I/3197pZKQmZL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1621-8-Steel-Combination-Cutter/dp/B06XQWT4M9/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZKVCOCP",
+      "slug": "taparia-ki10v-allen-key-setpack-of-10-hex22-cm",
+      "name": "Taparia Ki10V Allen Key Set(Pack Of 10)-Hex,22 cm",
+      "brand": "Taparia",
+      "category": "General Hardware",
+      "price": "₹240.00",
+      "image": "https://m.media-amazon.com/images/I/71fezyqZw2L.jpg | https://m.media-amazon.com/images/I/41vltPlvU6L.jpg | https://m.media-amazon.com/images/I/41qkAV1-ceL.jpg | https://m.media-amazon.com/images/I/41avQabvWBL.jpg | https://m.media-amazon.com/images/I/41khlosOS3L.jpg | https://m.media-amazon.com/images/I/41yHMcE2inL.jpg | https://m.media-amazon.com/images/I/41VKuMpqhBL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-KI-10V-Finish-Packing/dp/B00P66UQ8O/ref=sr_1_130"
+    },
+    {
+      "sku": "JKE-IIYEIRRVG42FCQRZ",
+      "slug": "taparia-hfjp6-pistol-grip-plastic-handle-6-inch-hacksaw-frame-adjustable-tension-ergonomic-handle-perfect-for-cutting-metal-acrylic-other-material",
+      "name": "TAPARIA HFJP6 - Pistol Grip Plastic Handle 6\" Inch Hacksaw Frame - Adjustable Tension, Ergonomic Handle, Perfect for Cutting Metal, Acrylic & Other Material",
+      "brand": "Taparia",
+      "category": "Power Tools",
+      "price": "₹249.00",
+      "image": "https://m.media-amazon.com/images/I/61Ffmb+FvbL.jpg | https://m.media-amazon.com/images/I/31UEsqKutML.jpg | https://m.media-amazon.com/images/I/318J9Fx6TPL.jpg | https://m.media-amazon.com/images/I/51wKiJC8u-L.jpg | https://m.media-amazon.com/images/I/31ubcUb3VnL.jpg",
+      "productUrl": "https://www.amazon.in/TAPARIA-HFJP6-Adjustable-Ergonomic-Material/dp/B0DF574QB9/ref=sr_1_161"
+    },
+    {
+      "sku": "JKE-IIYEIRRVHEZTCSSI",
+      "slug": "taparia-hfsa12-heavy-duty-12-inch-aluminium-handle-hacksaw-frame-adjustable-tension-ergonomic-handle-perfect-for-cutting-metal-acrylic-other-material",
+      "name": "TAPARIA HFSA12 - Heavy Duty 12\" Inch Aluminium Handle Hacksaw Frame - Adjustable Tension, Ergonomic Handle, Perfect for Cutting Metal, Acrylic & Other Material",
+      "brand": "Taparia",
+      "category": "Power Tools",
+      "price": "₹460.00",
+      "image": "https://m.media-amazon.com/images/I/51bTnYMJK0L.jpg | https://m.media-amazon.com/images/I/31y6ZfMid7L.jpg | https://m.media-amazon.com/images/I/31d3m3MyVOL.jpg | https://m.media-amazon.com/images/I/51AETbtt1OL.jpg | https://m.media-amazon.com/images/I/31X3pTXcRQL.jpg",
+      "productUrl": "https://www.amazon.in/TAPARIA-HFSA12-Aluminium-Adjustable-Ergonomic/dp/B0DF5931JH/ref=sr_1_159"
+    },
+    {
+      "sku": "JKE-IIYEIQSRKYYTMU2M",
+      "slug": "taparia-15mm-gear-wrench-combination-spanner-made-of-chrome-vanadium-steel-combination-ratchet-spanner-crv-steel-mirror-polish-finish-anti-rust-coating",
+      "name": "Taparia 15mm Gear Wrench Combination Spanner made of Chrome Vanadium Steel, Combination Ratchet Spanner, CrV Steel Mirror polish Finish, Anti Rust coating",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹379.00",
+      "image": "https://m.media-amazon.com/images/I/61TrKfUsy5L.jpg | https://m.media-amazon.com/images/I/31eKZYJ8ZKL.jpg | https://m.media-amazon.com/images/I/31d03yk4RGL.jpg | https://m.media-amazon.com/images/I/31fsOWXBiSL.jpg | https://m.media-amazon.com/images/I/31UwWoBGuOL.jpg",
+      "productUrl": "https://www.amazon.in/TAPARIA-Combination-Spanner-Vanadium-Ratchet/dp/B0DBQV16SL/ref=sr_1_302"
+    },
+    {
+      "sku": "JKE-IIYDATCHIUZDMVKH",
+      "slug": "taparia-1276-600mm-stillson-type-pipe-wrench-hand-tools-for-professionals-pack-of-1",
+      "name": "Taparia 1276 600mm Stillson Type Pipe Wrench Hand Tools for Professionals (Pack of 1)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹1,505.00",
+      "image": "https://m.media-amazon.com/images/I/61MkOqLZ-2L.jpg | https://m.media-amazon.com/images/I/21mUjAnX7GL.jpg | https://m.media-amazon.com/images/I/41mzLcRjv2L.jpg | https://m.media-amazon.com/images/I/21BDY8P+XpL.jpg | https://m.media-amazon.com/images/I/31ATX3xZ6aL.jpg | https://m.media-amazon.com/images/I/316scxOSKOL.jpg | https://m.media-amazon.com/images/I/31haaKLE4iL.jpg | https://m.media-amazon.com/images/I/41Zrwjp+tPL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1276-600mm-Stillson-Wrench/dp/B00LGE26UG/ref=sr_1_180"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZMUEWCB",
+      "slug": "taparia-ws06-wire-stripping-plier-green-and-black",
+      "name": "Taparia WS06 Wire Stripping Plier (Green and Black)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹69.00",
+      "image": "https://m.media-amazon.com/images/I/61iFxFA5HSL.jpg | https://m.media-amazon.com/images/I/31Nm6FJguGL.jpg | https://m.media-amazon.com/images/I/31qxR+8VduL.jpg | https://m.media-amazon.com/images/I/31ko2i-6GtL.jpg | https://m.media-amazon.com/images/I/41tPMOiZtZL.jpg | https://m.media-amazon.com/images/I/31C7cq+8PzL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-WS-06-Steel-Stripping/dp/B00P66YBXA/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-IIYEIR2UIYYUOOJT",
+      "slug": "taparia-jack-planer-csp-4-quality-planer250-mm-for-precision-woodworking-good-grade-cast-iron-body-wooden-handle-and-knob-with-brass-screw-50-mm-width-blade-with-high-carbon-steel",
+      "name": "Taparia Jack Planer CSP 4 – Quality Planer(250 mm) for Precision Woodworking, Good-Grade Cast Iron Body, Wooden Handle and knob with Brass screw, 50 mm width blade with high carbon steel",
+      "brand": "Taparia",
+      "category": "Fasteners & Hardware",
+      "price": "₹1,199.00",
+      "image": "https://m.media-amazon.com/images/I/61dHbuqLYwL.jpg | https://m.media-amazon.com/images/I/31tOOs7eNZL.jpg | https://m.media-amazon.com/images/I/41eq7Z5p42L.jpg | https://m.media-amazon.com/images/I/41U5Sn5MLxL.jpg | https://m.media-amazon.com/images/I/41l3s-7B4PL.jpg | https://m.media-amazon.com/images/I/41cu4aN80wL.jpg | https://m.media-amazon.com/images/I/41WxRtjFBBL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-Jack-Planer-CSP-Woodworking/dp/B0DGTF1G93/ref=sr_1_222"
+    },
+    {
+      "sku": "JKE-IIYDATCHIUYVUNSN",
+      "slug": "taparia-1171-8-8-inch-205-mm-adjustable-spanner-forged-chrome-vanadium-steel-with-precision-jaws-and-insulated-grip-26mm-jaw-opening-for-tightening-loosening-and-plumbing-professional-tool-for-mechanics-electricians-and-diy-repairs",
+      "name": "Taparia 1171-8, 8-Inch (205 mm) Adjustable Spanner - Forged Chrome Vanadium Steel with Precision Jaws and Insulated Grip, 26mm Jaw Opening for Tightening, Loosening, and Plumbing - Professional Tool for Mechanics, Electricians, and DIY Repairs",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹291.00",
+      "image": "https://m.media-amazon.com/images/I/613hn-kPSOL.jpg | https://m.media-amazon.com/images/I/21L7Hqm9WuL.jpg | https://m.media-amazon.com/images/I/31eybmZvYiL.jpg | https://m.media-amazon.com/images/I/31Dy9QSOHhL.jpg | https://m.media-amazon.com/images/I/317aZov9oEL.jpg | https://m.media-amazon.com/images/I/51uKmi1aBzL.jpg | https://m.media-amazon.com/images/I/21+NCTwqsUL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1171-8-1171N-8-Adjustable-Spanner/dp/B00LGE1Z6M/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-IIYEOUZVIY4UUMJR",
+      "slug": "taparia-ctr06-crimping-tool-05-to-6mm-capacity-5-point-ratchet-mechanism-non-insulated-terminals-ferrules-ergonomic-handle-for-electricians-technicians",
+      "name": "Taparia CTR06 Crimping Tool - 0.5 to 6mm Capacity, 5-Point Ratchet Mechanism, Non-Insulated Terminals & Ferrules, Ergonomic Handle for Electricians & Technicians",
+      "brand": "Taparia",
+      "category": "Electrical & Wiring",
+      "price": "₹939.00",
+      "image": "https://m.media-amazon.com/images/I/61WZNMp147L.jpg | https://m.media-amazon.com/images/I/31XraaQ2j3L.jpg | https://m.media-amazon.com/images/I/31+n5dePbjL.jpg | https://m.media-amazon.com/images/I/41YXS-n-82L.jpg | https://m.media-amazon.com/images/I/41yjo1h9GoL.jpg | https://m.media-amazon.com/images/I/41EkIRhKTnL.jpg | https://m.media-amazon.com/images/I/41vteOJkT0L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-CTR06-Crimping-Tool-Non-Insulated/dp/B0GS5F9J11/ref=sr_1_286"
+    },
+    {
+      "sku": "JKE-IIYDAUKJJMZVGR2Z",
+      "slug": "taparia-1408-long-needle-nose-mini-plier-silverbrown",
+      "name": "Taparia 1408 Long Needle Nose Mini Plier (Silver,Brown)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹190.00",
+      "image": "https://m.media-amazon.com/images/I/31DjxWHC+pL.jpg | https://m.media-amazon.com/images/I/31DjxWHC+pL.jpg | https://m.media-amazon.com/images/I/411c3bvDY+L.jpg | https://m.media-amazon.com/images/I/51vOTLZHtYL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1408-Long-Needle-Plier/dp/B00QIK3SGY/ref=sr_1_122"
+    },
+    {
+      "sku": "JKE-IIYDAUKJJMZU2NCN",
+      "slug": "taparia-1406-end-cutting-mini-plier-end-cutting-brown",
+      "name": "Taparia 1406 End Cutting Mini Plier (End Cutting) - Brown",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹239.00",
+      "image": "https://m.media-amazon.com/images/I/51iH14gP3zL.jpg | https://m.media-amazon.com/images/I/313QHVBBrzL.jpg | https://m.media-amazon.com/images/I/31YQCm95LFL.jpg | https://m.media-amazon.com/images/I/41yBhPvXzdL.jpg | https://m.media-amazon.com/images/I/41fGYN4-nqL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1406-Cutting-Mini-Plier/dp/B00QIK3M4M/ref=sr_1_290"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZGVUMCH",
+      "slug": "taparia-1172-10-10-inch-255mm-adjustable-spanner-forged-chrome-vanadium-steel-with-precision-jaws-and-insulated-grip-30mm-jaw-opening-for-tightening-loosening-and-plumbing-professional-tool-for-mechanics-electricians-and-diy-repairs",
+      "name": "Taparia 1172-10, 10-Inch (255mm) Adjustable Spanner - Forged Chrome Vanadium Steel with Precision Jaws and Insulated Grip, 30mm Jaw Opening for Tightening, Loosening, and Plumbing - Professional Tool for Mechanics, Electricians, and DIY Repairs",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹398.00",
+      "image": "https://m.media-amazon.com/images/I/612AGnajptL.jpg | https://m.media-amazon.com/images/I/213-aRNVouL.jpg | https://m.media-amazon.com/images/I/31ASo1v0MeL.jpg | https://m.media-amazon.com/images/I/31hsyJWU+QL.jpg | https://m.media-amazon.com/images/I/314Ke+PNCkL.jpg | https://m.media-amazon.com/images/I/31sju5AJaML.jpg | https://m.media-amazon.com/images/I/41mSJQS946L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1172-10-Adjustable-Spanner-Phosphate/dp/B00P66MZ0G/ref=sr_1_94"
+    },
+    {
+      "sku": "JKE-IIYEIRRXHFIDCVCL",
+      "slug": "taparia-deep-impact-socket-iml-12h-12-127mm-square-drive-size-chrome-molybdenum-steel-for-durability-and-long-life-6-point-impact-socket-for-automobile-industrial-construction-professional",
+      "name": "TAPARIA Deep Impact Socket IML 12H, 1/2\" (12.7mm) Square drive size, Chrome-Molybdenum Steel for durability and long life, 6 Point Impact Socket for Automobile, Industrial, Construction, Professional",
+      "brand": "Taparia",
+      "category": "Measuring & Layout",
+      "price": "₹219.00",
+      "image": "https://m.media-amazon.com/images/I/4117C1Lnp5L.jpg | https://m.media-amazon.com/images/I/21ufUpaaKoL.jpg | https://m.media-amazon.com/images/I/21rQPrs3nTL.jpg | https://m.media-amazon.com/images/I/21thq3uoYWL.jpg",
+      "productUrl": "https://www.amazon.in/IML-12H-Chrome-Molybdenum-Construction-Professional/dp/B0DF79P1TK/ref=sr_1_174"
+    },
+    {
+      "sku": "JKE-IIYDAUBWGZLESVKP",
+      "slug": "taparia-mh200-machinist-hammers-with-handle",
+      "name": "Taparia MH200 Machinist Hammers with Handle",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹209.00",
+      "image": "https://m.media-amazon.com/images/I/61cj9e4wbZL.jpg | https://m.media-amazon.com/images/I/21ZXeMIqywL.jpg | https://m.media-amazon.com/images/I/41pBojQdb1L.jpg | https://m.media-amazon.com/images/I/21QwTzqIitL.jpg | https://m.media-amazon.com/images/I/31apYcfJYqL.jpg | https://m.media-amazon.com/images/I/31H1DNRyxdL.jpg | https://m.media-amazon.com/images/I/31MKeBhh0oL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-MH200-Machinist-Hammers-Handle/dp/B00P66VIUO/ref=sr_1_294"
+    },
+    {
+      "sku": "JKE-IIYDAUKSLFEU4NSR",
+      "slug": "taparia-1986-steel-150mm-centre-punch-drift-punch-grey",
+      "name": "Taparia 1986 Steel (150mm) Centre Punch Drift Punch (Grey)",
+      "brand": "Taparia",
+      "category": "Storage & Organization",
+      "price": "₹85.00",
+      "image": "https://m.media-amazon.com/images/I/41WDWP5B+UL.jpg | https://m.media-amazon.com/images/I/21uyLowyZeL.jpg | https://m.media-amazon.com/images/I/31MMHP6R+NL.jpg | https://m.media-amazon.com/images/I/314h4o4kzlL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-1986-Steel-150mm-Centre/dp/B00QRYIN6Q/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-IIYEIR2UINITQWCC",
+      "slug": "taparia-block-planer-cbp-102-quality-carpenter-block-planer-140-mm-for-precision-woodworking-good-grade-cast-iron-body-35-mm-width-blade-with-high-carbon-steel",
+      "name": "Taparia Block Planer CBP 102 – Quality Carpenter block planer (140 mm) for Precision Woodworking, Good Grade Cast Iron Body, 35 mm width blade with high carbon steel",
+      "brand": "Taparia",
+      "category": "General Hardware",
+      "price": "₹464.00",
+      "image": "https://m.media-amazon.com/images/I/61FPT0MAbcL.jpg | https://m.media-amazon.com/images/I/31sY9Y9pHiL.jpg | https://m.media-amazon.com/images/I/41RIEcCgPHL.jpg | https://m.media-amazon.com/images/I/41195Vg+NOL.jpg | https://m.media-amazon.com/images/I/41dm4h5vkeL.jpg | https://m.media-amazon.com/images/I/41d21LJHEjL.jpg | https://m.media-amazon.com/images/I/41wzu5opHvL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-Block-Planer-CBPB-102/dp/B0DGTCQ8XB/ref=sr_1_224"
+    },
+    {
+      "sku": "JKE-IIYDOSCSHEZVSOKW",
+      "slug": "taparia-wcb32-steel-32mm-bevelled-edge-chisel-blue-and-silver",
+      "name": "Taparia WCB32 Steel (32mm) Bevelled Edge Chisel (Blue and Silver)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹299.00",
+      "image": "https://m.media-amazon.com/images/I/61gLj0mWhNL.jpg | https://m.media-amazon.com/images/I/21hJbG5wKIL.jpg | https://m.media-amazon.com/images/I/41IjzFya9oL.jpg | https://m.media-amazon.com/images/I/31H2LJwLmiL.jpg | https://m.media-amazon.com/images/I/21rtoRabu4L.jpg | https://m.media-amazon.com/images/I/31Zit+jYRtL.jpg | https://m.media-amazon.com/images/I/31-2Qrpl3tL.jpg | https://m.media-amazon.com/images/I/3166lWoFgqL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-WCB32-Bevelled-Chisel-Silver/dp/B07HR93Y9V/ref=sr_1_104"
+    },
+    {
+      "sku": "JKE-IIYDOSCSHEZVSOKU",
+      "slug": "taparia-ub-10-steel-19mm-spare-blade-for-utility-knife-blue-and-silver-pack-of-10",
+      "name": "Taparia UB-10 Steel (19mm) Spare Blade for Utility Knife (Blue and Silver, Pack of 10)",
+      "brand": "Taparia",
+      "category": "General Hardware",
+      "price": "₹169.00",
+      "image": "https://m.media-amazon.com/images/I/5100TqxGRsL.jpg | https://m.media-amazon.com/images/I/319d1J0lKXL.jpg | https://m.media-amazon.com/images/I/31rvbSH7r1L.jpg | https://m.media-amazon.com/images/I/31jwhxrMgCL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-UB-10-Steel-Utility-Silver/dp/B07HR93Y9T/ref=sr_1_229"
+    },
+    {
+      "sku": "JKE-IIYDOSCSHE2TCOKE",
+      "slug": "taparia-ws-05-steel-130mm-wire-stripping-plier-green-and-black",
+      "name": "Taparia WS 05 Steel (130mm) Wire Stripping Plier (Green and Black)",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹79.00",
+      "image": "https://m.media-amazon.com/images/I/61oTkOesMeL.jpg | https://m.media-amazon.com/images/I/41bpcbSIXqL.jpg | https://m.media-amazon.com/images/I/41DOI5p1BgL.jpg | https://m.media-amazon.com/images/I/415-2ae3nlL.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-WS-05-Steel-Stripping/dp/B07HR9519D/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-IIYEIRSDIY3DGMSX",
+      "slug": "taparia-impact-socket-imd-60-1-254mm-square-drive-size-chrome-molybdenum-steel-for-durability-and-long-life-6-point-or-hex-impact-socket-for-automobile-industrial-construction-professional",
+      "name": "TAPARIA Impact Socket IMD 60, 1\" (25.4mm) Square drive size, Chrome-Molybdenum Steel for durability and long life, 6 Point or HEX Impact Socket for Automobile, Industrial, Construction, Professional",
+      "brand": "Taparia",
+      "category": "Hand Tools",
+      "price": "₹681.00",
+      "image": "https://m.media-amazon.com/images/I/51bWYGVmnFL.jpg | https://m.media-amazon.com/images/I/31piJHzOV2L.jpg | https://m.media-amazon.com/images/I/31OSRMr1BxL.jpg | https://m.media-amazon.com/images/I/316hw81slVL.jpg | https://m.media-amazon.com/images/I/31uTiAcyrGL.jpg",
+      "productUrl": "https://www.amazon.in/IMD-60-Chrome-Molybdenum-Construction-Professional/dp/B0DFCF632W/ref=sr_1_232"
+    },
+    {
+      "sku": "JKE-IIYDATCHIUZFANCJ",
+      "slug": "taparia-model-802-screwdriver-set-neon-bulb-tester-included-tip-sizes-60x08mm-35x05mm-phillips-0-square-poker-phillips-1-high-grade-steel-blades-with-comfortable-grip-diy-professional-and-industrial-use",
+      "name": "Taparia Model 802 Screwdriver Set | Neon Bulb Tester Included | Tip Sizes: 6.0x0.8mm, 3.5x0.5mm, Phillips 0, Square Poker, Phillips 1 | High-Grade Steel Blades with Comfortable Grip. DIY, Professional and Industrial use",
+      "brand": "Taparia",
+      "category": "Measuring & Layout",
+      "price": "₹200.00",
+      "image": "https://m.media-amazon.com/images/I/71pAcoQkXIL.jpg | https://m.media-amazon.com/images/I/41b9KpZtPsL.jpg | https://m.media-amazon.com/images/I/2102hWKh2JL.jpg | https://m.media-amazon.com/images/I/41rf8DxizlL.jpg | https://m.media-amazon.com/images/I/41aX3mtQRSL.jpg | https://m.media-amazon.com/images/I/41C+l0u7C9L.jpg",
+      "productUrl": "https://www.amazon.in/Taparia-802-Screw-Driver-Neon/dp/B00LGE2P4I/ref=sr_1_52"
+    }
+  ]
 }

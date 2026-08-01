@@ -1,0 +1,66 @@
+{
+  "name": "Amazon Basics",
+  "slug": "amazon-basics",
+  "products": [
+    {
+      "sku": "JKE-IIYDOU2ZINMTEU2X",
+      "slug": "amazon-basics-flexible-ratcheting-wrench-set-metric-5-piece-flex",
+      "name": "amazon basics Flexible Ratcheting Wrench Set - Metric, 5-Piece | Flex",
+      "brand": "Amazon Basics",
+      "category": "Hand Tools",
+      "price": "₹1,321.35",
+      "image": "https://m.media-amazon.com/images/I/81pMrO0xxcL.jpg | https://m.media-amazon.com/images/I/414MWa6c2lL.jpg | https://m.media-amazon.com/images/I/419t21MkYyL.jpg | https://m.media-amazon.com/images/I/41kQ4gKYcPL.jpg | https://m.media-amazon.com/images/I/417Vm4INU6L.jpg | https://m.media-amazon.com/images/I/319BfWUbAWL.jpg | https://m.media-amazon.com/images/I/51oOkcDZUBL.jpg",
+      "productUrl": "https://www.amazon.in/AmazonBasics-Flexible-Ratcheting-Wrench-Set/dp/B07SYCY2SW/ref=sr_1_178"
+    },
+    {
+      "sku": "JKE-IIYDOVRYGQ2FSURY",
+      "slug": "amazon-basics-36-piece-allen-wrenchhex-key-set-inchsae-and-metric",
+      "name": "amazon basics 36-Piece Allen Wrench/Hex Key Set - Inch/SAE and Metric",
+      "brand": "Amazon Basics",
+      "category": "Hand Tools",
+      "price": "₹599.00",
+      "image": "https://m.media-amazon.com/images/I/41+5TM7FppL.jpg",
+      "productUrl": "https://www.amazon.in/AmazonBasics-36-Piece-Allen-Wrench-Hex/dp/B07V844YR8/ref=sr_1_269"
+    },
+    {
+      "sku": "JKE-IIYDOU2WGQ2UQUSZ",
+      "slug": "amazon-basics-12-inch-drive-click-torque-wrench-20-150-ft-lb-271-2035-nm-fixed-square",
+      "name": "amazon basics 1/2-Inch Drive Click Torque Wrench - 20-150 ft.-lb, 27.1-203.5 Nm - Fixed Square",
+      "brand": "Amazon Basics",
+      "category": "Hand Tools",
+      "price": "₹1,895.00",
+      "image": "https://m.media-amazon.com/images/I/31JCLMkT-ML.jpg",
+      "productUrl": "https://www.amazon.in/AmazonBasics-2-Inch-Drive-Torque-Wrench/dp/B07SV45HRY/ref=sr_1_275"
+    },
+    {
+      "sku": "JKE-IIYDOVRYGQZVIMSX",
+      "slug": "amazonbasics-51-piece-precision-screwdriver-bit-set-171-x-97-x-28-cm",
+      "name": "AmazonBasics 51-Piece Precision Screwdriver Bit Set, 17.1 x 9.7 x 2.8 cm",
+      "brand": "Amazon Basics",
+      "category": "Hand Tools",
+      "price": "₹719.00",
+      "image": "https://m.media-amazon.com/images/I/716x1rXVs7L.jpg | https://m.media-amazon.com/images/I/41V23+TSGVL.jpg | https://m.media-amazon.com/images/I/511KWQw8PfL.jpg | https://m.media-amazon.com/images/I/41nr8r0rhVL.jpg | https://m.media-amazon.com/images/I/41vRi36dULL.jpg | https://m.media-amazon.com/images/I/51emrx+mrlL.jpg | https://m.media-amazon.com/images/I/51UQp-jMF+L.jpg",
+      "productUrl": "https://www.amazon.in/AmazonBasics-51-Piece-Precision-Screwdriver-Bit/dp/B07V843T2W/ref=sr_1_274"
+    },
+    {
+      "sku": "JKE-IIYEOWSHLFIEOSZW",
+      "slug": "amazon-basics-labor-saving-13-inch-car-jack-ratchet-wrench-360-forward-reverse-knob-conversion-head-included-curve-handle-car-lift-tool-for-scissors-jack-heat-treated-steel-ratchet-lug-wrench",
+      "name": "Amazon Basics Labor Saving 13 Inch Car Jack Ratchet Wrench| 360° Forward & Reverse Knob| Conversion Head Included | Curve Handle Car Lift Tool For Scissors Jack | Heat-Treated Steel Ratchet Lug Wrench",
+      "brand": "Amazon Basics",
+      "category": "Hand Tools",
+      "price": "₹299.00",
+      "image": "https://m.media-amazon.com/images/I/51Ye4oPJA6L.jpg | https://m.media-amazon.com/images/I/417f4Tcp6vL.jpg | https://m.media-amazon.com/images/I/51gLhfP3ImL.jpg | https://m.media-amazon.com/images/I/41glBXKQk7L.jpg | https://m.media-amazon.com/images/I/51rGVNulhYL.jpg | https://m.media-amazon.com/images/I/51Obv1icY5L.jpg | https://m.media-amazon.com/images/I/41gnsvWuCFL.jpg | https://m.media-amazon.com/images/I/51DqBWSwG8L.jpg",
+      "productUrl": "https://www.amazon.in/Ratchet-Conversion-Included-Scissors-Heat-Treated/dp/B0GZGYPGK6/ref=sr_1_91"
+    },
+    {
+      "sku": "JKE-IIYDOVRTKRDDGTSH",
+      "slug": "amazon-basics-27-piece-magnetic-t-handle-ratchet-wrench-and-screwdriver-set-68-x-37-x-13-inch",
+      "name": "amazon basics 27-Piece Magnetic T-Handle Ratchet Wrench and Screwdriver Set, 6.8 x 3.7 x 1.3 inch",
+      "brand": "Amazon Basics",
+      "category": "Hand Tools",
+      "price": "₹719.00",
+      "image": "https://m.media-amazon.com/images/I/71eT9E4PAoL.jpg | https://m.media-amazon.com/images/I/51UwUQ4mLXL.jpg | https://m.media-amazon.com/images/I/41G4h4IA5QL.jpg | https://m.media-amazon.com/images/I/31IYJ493KdL.jpg | https://m.media-amazon.com/images/I/41SvV0h489L.jpg | https://m.media-amazon.com/images/I/51518KfAdQL.jpg | https://m.media-amazon.com/images/I/21Xo9BNUOCL.jpg",
+      "productUrl": "https://www.amazon.in/AmazonBasics-27-Piece-Magnetic-T-Handle-Screwdriver/dp/B07V3TF3NG/ref=sr_1_124"
+    }
+  ]
+}

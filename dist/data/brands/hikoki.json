@@ -6,5 +6,16 @@
   "description": "Explore HiKOKI (formerly Hitachi) industrial power tools and cutting machinery.",
   "seoTitle": "HiKOKI Power Tools | Haryana.Tools",
   "metaDescription": "Browse HiKOKI professional power tools and workshop equipment online.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYEGRBYGQ2TSSSK",
+      "slug": "hikoki-heavy-duty-corded-angle-grinder-715w-12000-rpm-100mm-disc-dia-16mm-whole-dia-15-kg-horsepower-1000w-double-insulated-body-depressed-center-wheel-wrench-included-pda100m",
+      "name": "HIKOKI Heavy Duty Corded Angle Grinder | 715W | 12000 RPM | 100mm Disc Dia | 16mm Whole Dia | 1.5 KG | Horsepower 1000W | Double Insulated Body | Depressed Center Wheel | Wrench Included | PDA100M",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": "₹3,449.00",
+      "image": "https://m.media-amazon.com/images/I/51wg8OtYPcL.jpg | https://m.media-amazon.com/images/I/310owXILnnL.jpg | https://m.media-amazon.com/images/I/41fX+OpyGJL.jpg | https://m.media-amazon.com/images/I/41YZfAaiecL.jpg | https://m.media-amazon.com/images/I/51vBR34fjyL.jpg | https://m.media-amazon.com/images/I/51iz71ld5wL.jpg | https://m.media-amazon.com/images/I/41AuFsgDgvL.jpg | https://m.media-amazon.com/images/I/41ZEV2Fp1DL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-PDA100MS9Z-Grinder-Depressed-Included/dp/B0CD8459JJ/ref=sr_1_174"
+    }
+  ]
 }

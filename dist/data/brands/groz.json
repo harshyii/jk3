@@ -6,5 +6,26 @@
   "description": "Shop Groz precision engineering hand tools, lubrication equipment, LED work lights, and vices.",
   "seoTitle": "Groz Hand Tools & Equipment | Haryana.Tools",
   "metaDescription": "Browse Groz industrial hand tools, fluid handling equipment, and workshop accessories.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDOQ2SIZGVSVCO",
+      "slug": "groz-27-pcs-12-inch-socket-tool-kit-for-mechanics-professionals-diys-chrome-vanadium-3x-durable-sockets-kitskth1-227ug",
+      "name": "Groz 27 pcs 1/2 inch Socket Tool Kit for Mechanics, Professionals, DIYs | Chrome Vanadium| 3X Durable Sockets| KIT/SKT/H/1-2/27/UG",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": "₹8,564.88",
+      "image": "https://m.media-amazon.com/images/I/51hJLt4aQZL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-KIT-SKT-H1-2-27/dp/B07CRFMYTN/ref=sr_1_288"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RJRBEQMZX",
+      "slug": "groz-42-pc-14-inch-socket-tool-kit-for-mechanics-professionals-diy-enthusiasts-etc-chrome-vanadium-3x-durable-sockets-kitskth1-442ug",
+      "name": "Groz 42 pc 1/4 inch Socket Tool Kit for Mechanics, Professionals, DIY Enthusiasts, etc. | Chrome Vanadium| 3X Durable Sockets | KIT/SKT/H/1-4/42/UG",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": "₹5,406.00",
+      "image": "https://m.media-amazon.com/images/I/51hJLt4aQZL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-KIT-SKT-H1-4-42/dp/B07CQLBH37/ref=sr_1_274"
+    }
+  ]
 }

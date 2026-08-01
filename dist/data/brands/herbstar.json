@@ -1,0 +1,46 @@
+{
+  "name": "Herbstar",
+  "slug": "herbstar",
+  "products": [
+    {
+      "sku": "JKE-IIYEMOKMGIZFGUKR",
+      "slug": "extra-power-capsules-for-men-ayurvedic-extra-time-tablets-with-shilajit-ashwagandha-safed-musli-gokshura-long-lasting-strength-timing-stamina-booster-60-veg-caps",
+      "name": "Extra Power Capsules for Men | Ayurvedic Extra Time Tablets With Shilajit, Ashwagandha, Safed Musli & Gokshura | Long-Lasting Strength, Timing, Stamina Booster 60 Veg Caps",
+      "brand": "Herbstar",
+      "category": "Measuring & Layout",
+      "price": "₹749.00",
+      "image": "https://m.media-amazon.com/images/I/61Tja4Of0lL.jpg | https://m.media-amazon.com/images/I/41xLukUllNL.jpg | https://m.media-amazon.com/images/I/41MsStlqQ6L.jpg | https://m.media-amazon.com/images/I/41WvVo+MFBL.jpg | https://m.media-amazon.com/images/I/41g8eAULuWL.jpg | https://m.media-amazon.com/images/I/519ESwf+djL.jpg | https://m.media-amazon.com/images/I/51XYNqvG87L.jpg | https://m.media-amazon.com/images/I/412Z0kfhtUL.jpg",
+      "productUrl": "https://www.amazon.in/Capsules-Ayurvedic-Shilajit-Ashwagandha-Long-Lasting/dp/B0F9L22SQQ/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYEEV2EJVMU2USW",
+      "slug": "xtra-power-oil-increase-energy-level-power-helps-in-muscle-gain-30ml-oil-for-men",
+      "name": "XTRA POWER OIL Increase Energy Level & Power | Helps In Muscle Gain 30Ml Oil For Men",
+      "brand": "Herbstar",
+      "category": "Measuring & Layout",
+      "price": "₹999.00",
+      "image": "https://m.media-amazon.com/images/I/51gNuBtCDeL.jpg | https://m.media-amazon.com/images/I/31jwKf5jbyL.jpg | https://m.media-amazon.com/images/I/318VBAfWY6L.jpg | https://m.media-amazon.com/images/I/317eHAKkLmL.jpg",
+      "productUrl": "https://www.amazon.in/Herbstar-POWER-Increase-Energy-Muscle/dp/B0BWDMYMRV/ref=sr_1_264"
+    },
+    {
+      "sku": "JKE-IIYEQNRZKM2TMURW",
+      "slug": "extra-power-long-time-shilajit-gold-capsules-for-men-ayurvedic-stamina-booster-supplement-safed-musli-timing-support-max-hours-male-wellness-medicine-60-tablets",
+      "name": "Extra Power Long Time Shilajit Gold Capsules for Men | Ayurvedic Stamina Booster Supplement | Safed Musli Timing Support, Max Hours Male Wellness Medicine | 60 Tablets",
+      "brand": "Herbstar",
+      "category": "Garden & Outdoor",
+      "price": "₹749.00",
+      "image": "https://m.media-amazon.com/images/I/61ZRHJ4EzDL.jpg | https://m.media-amazon.com/images/I/41PqL2TfB-L.jpg | https://m.media-amazon.com/images/I/51ePMPnl4UL.jpg | https://m.media-amazon.com/images/I/51Uwym0v5bL.jpg | https://m.media-amazon.com/images/I/51dQvouM-gL.jpg | https://m.media-amazon.com/images/I/51FdEnV1FFL.jpg | https://m.media-amazon.com/images/I/51YgH-YrdJL.jpg | https://m.media-amazon.com/images/I/51kq4B9mTvL.jpg",
+      "productUrl": "https://www.amazon.in/HerbStar-Shilajit-Capsules-Ayurvedic-Supplement/dp/B0H69S56R6/ref=sr_1_215"
+    },
+    {
+      "sku": "JKE-IIYEGUJYGZKDGOCQ",
+      "slug": "xtra-power-helps-to-increase-power-energy-and-strength-60-veg-caps",
+      "name": "Xtra Power Helps to Increase Power energy and Strength (60 veg caps)",
+      "brand": "Herbstar",
+      "category": "General Hardware",
+      "price": "₹999.00",
+      "image": "https://m.media-amazon.com/images/I/61Aokv22dQL.jpg | https://m.media-amazon.com/images/I/41+zsXOKR+L.jpg | https://m.media-amazon.com/images/I/41Wmw5vHrzL.jpg | https://m.media-amazon.com/images/I/514lM80akVL.jpg | https://m.media-amazon.com/images/I/513STpgfAbL.jpg | https://m.media-amazon.com/images/I/51mQWCz8o6L.jpg | https://m.media-amazon.com/images/I/51n9aeI0GbL.jpg",
+      "productUrl": "https://www.amazon.in/Herbstar-Power-Increase-energy-Strength/dp/B0CQ86T38P/ref=sr_1_254"
+    }
+  ]
+}

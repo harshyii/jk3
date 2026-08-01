@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Us & Partnerships | Herbal Store</title>
+    <meta name="description" content="Get in touch with Herbal Store for business partnerships, customer care support, inquiries, and find our store location on the map.">
+    <!-- Bootstrap CSS CDN -->
+    <link href="src/css/bootstrap.min.css" rel="stylesheet">
+    <link href="src/css/app.css" rel="stylesheet">
+    <!-- FontAwesome for icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-light d-flex flex-column min-vh-100">
+
+    <!-- Header & Navigation Partials Integration -->
+    <div id="header-placeholder"></div>
+    <div id="mega-menu-placeholder"></div>
+    <div id="breadcrumb-placeholder"></div>
+
+    <!-- Main Content -->
+    <main class="container-fluid my-5 flex-grow-1">
+        <!-- Page Title -->
+        <div class="text-center mb-5">
+            <h1 class="fw-bold text-dark">Get in Touch With Us</h1>
+            <p class="text-muted">We’d love to hear from you for partnerships, support, or general queries.</p>
+        </div>
+
+        <div class="row g-5 justify-content-center">
+            <!-- Left Column: Partnership & Customer Care Forms -->
+            <div class="col-lg-6">
+                <!-- Partnership Form Card -->
+                <div class="card border-0 shadow-sm p-4 mb-4">
+                    <h3 class="fw-bold text-success mb-3"><i class="fas fa-handshake me-2"></i>Partnership Inquiry</h3>
+                    <p class="text-muted small mb-4">Interested in distributing, collaborating, or supplying products with us? Fill out the form below.</p>
+                    
+                    <form id="partnership-form">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label for="partner-name" class="form-label small fw-bold">Your Name</label>
+                                <input type="text" class="form-control" id="partner-name" required placeholder="John Doe">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="partner-email" class="form-label small fw-bold">Email Address</label>
+                                <input type="email" class="form-control" id="partner-email" required placeholder="john@company.com">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="partner-phone" class="form-label small fw-bold">Phone Number</label>
+                                <input type="tel" class="form-control" id="partner-phone" required placeholder="+91 98765 43210">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="partner-type" class="form-label small fw-bold">Partnership Type</label>
+                                <select class="form-select" id="partner-type" required>
+                                    <option value="">Select Category</option>
+                                    <option value="supplier">Supplier / Vendor</option>
+                                    <option value="distributor">Distributor / Wholesaler</option>
+                                    <option value="affiliate">Affiliate / Marketing</option>
+                                    <option value="other">Other Collaboration</option>
+                                </select>
+                            </div>
+                            <div class="col-12">
+                                <label for="partner-message" class="form-label small fw-bold">Proposal / Message</label>
+                                <textarea class="form-control" id="partner-message" rows="4" required placeholder="Tell us about your proposal..."></textarea>
+                            </div>
+                            <div class="col-12">
+                                <button type="submit" class="btn btn-success w-100 fw-bold py-2">Submit Partnership Request</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+
+                <!-- Customer Care / Support Form Card -->
+                <div class="card border-0 shadow-sm p-4">
+                    <h3 class="fw-bold text-primary mb-3"><i class="fas fa-headset me-2"></i>Customer Care & Support</h3>
+                    <p class="text-muted small mb-4">Have questions regarding your orders, shipping, or returns? Drop us a care ticket.</p>
+                    
+                    <form id="care-form">
+                        <div class="row g-3">
+                            <div class="col-md-6">
+                                <label for="care-name" class="form-label small fw-bold">Full Name</label>
+                                <input type="text" class="form-control" id="care-name" required placeholder="Jane Doe">
+                            </div>
+                            <div class="col-md-6">
+                                <label for="care-order" class="form-label small fw-bold">Order ID (Optional)</label>
+                                <input type="text" class="form-control" id="care-order" placeholder="#HT-10293">
+                            </div>
+                            <div class="col-12">
+                                <label for="care-issue" class="form-label small fw-bold">Issue Subject / Inquiry</label>
+                                <input type="text" class="form-control" id="care-issue" required placeholder="Tracking or Product Question">
+                            </div>
+                            <div class="col-12">
+                                <label for="care-message" class="form-label small fw-bold">Describe Your Issue</label>
+                                <textarea class="form-control" id="care-message" rows="3" required placeholder="Provide details about your query..."></textarea>
+                            </div>
+                            <div class="col-12">
+                                <button type="submit" class="btn btn-outline-primary w-100 fw-bold py-2">Send Support Ticket</button>
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+
+            <!-- Right Column: Info & Map Location -->
+            <div class="col-lg-5">
+                <!-- Contact Details -->
+                <div class="card border-0 shadow-sm p-4 mb-4 bg-white">
+                    <h4 class="fw-bold text-dark mb-4">Contact Information</h4>
+                    <ul class="list-unstyled mb-0 d-flex flex-column gap-3">
+                        <li class="d-flex align-items-start">
+                            <i class="fas fa-map-marker-alt text-success mt-1 me-3 fs-5"></i>
+                            <div>
+                                <strong class="d-block text-dark">Our Headquarters</strong>
+                                <span class="text-muted small">JK Enterprises,<br> Ram Dhari wali gali,<br> Kurukshetra road, Pehowa,<br> Haryana, India - 136128</span>
+                            </div>
+                        </li>
+                        <li class="d-flex align-items-center">
+                            <i class="fas fa-phone-alt text-success me-3 fs-5"></i>
+                            <div>
+                                <strong class="d-block text-dark">Phone Line</strong>
+                                <span class="text-muted small">+91 9050623210</span>
+                            </div>
+                        </li>
+                        <li class="d-flex align-items-center">
+                            <i class="fas fa-envelope text-success me-3 fs-5"></i>
+                            <div>
+                                <strong class="d-block text-dark">Email Support</strong>
+                                <span class="text-muted small">care@haryana.tools <br> partners@haryana.tools</span>
+                            </div>
+                        </li>
+                        <li class="d-flex align-items-center">
+                            <i class="fas fa-clock text-success me-3 fs-5"></i>
+                            <div>
+                                <strong class="d-block text-dark">Working Hours</strong>
+                                <span class="text-muted small">Mon - Sat: 9:00 AM - 7:00 PM</span>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+
+                <!-- Google Map Embed Location -->
+                <div class="card border-0 shadow-sm p-3 bg-white">
+                    <h4 class="fw-bold text-dark mb-3">Our Location</h4>
+                    <div class="ratio ratio-4x3 rounded overflow-hidden shadow-sm">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3455.967917545457!2d76.5877556!3d29.980352!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390e2589df82d247%3A0x5812428d92129198!2sJk%20enterprises!5e0!3m2!1sen!2sin!4v1785255151351!5m2!1sen!2sin" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="strict-origin-when-cross-origin"></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <!-- Global Layout Partials Holders -->
+    <div id="footer-placeholder"></div>
+    <div id="toast-placeholder"></div>
+
+    <!-- Scripts -->
+    <script src="src/js/bootstrap.bundle.min.js" type="module"></script>
+    <script src="src/js/layout.js" type="module"></script>
+    <script src="src/js/contact.js" type="module"></script>
+</body>
+</html>

@@ -1,0 +1,46 @@
+{
+  "name": "Bosch Professional",
+  "slug": "bosch-professional",
+  "products": [
+    {
+      "sku": "JKE-IIYEIMSIK4YU4OCY",
+      "slug": "bosch-250mm-water-pump-pliers-rust-resistant-chrome-vanadium-steel-durable-2k-soft-grip-ideal-for-gripping-turning-suitable-for-pipes-up-to-46mm",
+      "name": "BOSCH 250mm Water Pump Pliers, Rust-Resistant Chrome Vanadium Steel, Durable 2K Soft Grip, Ideal for Gripping & Turning, Suitable for Pipes up to 46mm",
+      "brand": "Bosch Professional",
+      "category": "Hand Tools",
+      "price": "₹1,259.00",
+      "image": "https://m.media-amazon.com/images/I/41J+YMniiUL.jpg | https://m.media-amazon.com/images/I/31JcY7sjbvL.jpg | https://m.media-amazon.com/images/I/41IjeXyzjJL.jpg | https://m.media-amazon.com/images/I/31UhmnYZwKL.jpg",
+      "productUrl": "https://www.amazon.in/Rust-Resistant-Vanadium-Durable-Gripping-Suitable/dp/B0D2HW1N8X/ref=sr_1_118"
+    },
+    {
+      "sku": "JKE-IIYEIMSIKNLUMNJS",
+      "slug": "bosch-professional-vde-stripping-knife-sickle-shaped-hook-blade-s2-steel-ergonomic-soft-grip-with-thumb-rest-finger-hook-for-easy-task",
+      "name": "BOSCH Professional VDE Stripping Knife – Sickle-Shaped Hook Blade, S2 Steel, Ergonomic Soft Grip with Thumb Rest & Finger Hook for Easy Task",
+      "brand": "Bosch Professional",
+      "category": "Storage & Organization",
+      "price": "₹709.00",
+      "image": "https://m.media-amazon.com/images/I/41r2V0RwggL.jpg | https://m.media-amazon.com/images/I/21kDlw3SJUL.jpg",
+      "productUrl": "https://www.amazon.in/BOSCH-Professional-Stripping-Knife-Sickle-Shaped/dp/B0D2HSWF52/ref=sr_1_189"
+    },
+    {
+      "sku": "JKE-IIYDQMKLIRGUMNSO",
+      "slug": "bosch-combination-pliers-180mm-high-quality-chrome-vanadium-with-ergonomic-grip-and-high-leverage-design-blue",
+      "name": "BOSCH Combination Pliers 180mm - High-Quality Chrome Vanadium with Ergonomic Grip and High-Leverage Design - Blue",
+      "brand": "Bosch Professional",
+      "category": "Hand Tools",
+      "price": "₹889.00",
+      "image": "https://m.media-amazon.com/images/I/513Qjg+GSmL.jpg | https://m.media-amazon.com/images/I/31bW611py7L.jpg | https://m.media-amazon.com/images/I/51uefZivZTS.jpg | https://m.media-amazon.com/images/I/31YPF6NPyhL.jpg",
+      "productUrl": "https://www.amazon.in/Bosch-Professional-1600A01TH7-Pliers-Combination/dp/B081KDMF6N/ref=sr_1_164"
+    },
+    {
+      "sku": "JKE-IIYEIMSILIZTOUCH",
+      "slug": "bosch-professional-vde-cable-knife-certified-for-live-work-up-to-1000v-s2-steel-blade-ergonomic-soft-grip-handle-with-thumb-rest-finger-hook-lightweight-0088kg-protective-blade-cap",
+      "name": "BOSCH Professional VDE Cable Knife | Certified for Live Work up to 1000V | S2 Steel Blade | Ergonomic Soft-Grip Handle with Thumb Rest & Finger Hook | Lightweight 0.088kg | Protective Blade Cap",
+      "brand": "Bosch Professional",
+      "category": "Fasteners & Hardware",
+      "price": "₹709.00",
+      "image": "https://m.media-amazon.com/images/I/41R7McBJ8yL.jpg | https://m.media-amazon.com/images/I/21MXPm4pqgL.jpg",
+      "productUrl": "https://www.amazon.in/Professional-Certified-Ergonomic-Lightweight-Protective/dp/B0D2HZ37PG/ref=sr_1_282"
+    }
+  ]
+}

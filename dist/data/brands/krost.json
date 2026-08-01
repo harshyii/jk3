@@ -6,5 +6,16 @@
   "description": "Explore Krost industrial power tools, heat guns, blowers, and workshop accessories.",
   "seoTitle": "Krost Power Tools India | Haryana.Tools",
   "metaDescription": "Browse Krost electric power tools, hand tools, and workshop machinery online.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYEESCMGQZUOWSD",
+      "slug": "krost-cordless-drill-kit-21v37v-max-electric-drill-tool-combo-9-in-1-multi-head-power-with-2pcs-lithium-ion-batteries-and-storage-box-combo-kit-9-tool-kit",
+      "name": "KROST Cordless Drill Kit - 21V(37V MAX) Electric Drill Tool Combo 9-In-1 Multi-Head Power with 2Pcs Lithium-Ion Batteries and Storage Box, Combo Kit 9-Tool (Kit)",
+      "brand": "Krost",
+      "category": "Power Tools",
+      "price": "₹20,599.00",
+      "image": "https://m.media-amazon.com/images/I/61J7URYDpYL.jpg | https://m.media-amazon.com/images/I/41d-+Q17GLL.jpg | https://m.media-amazon.com/images/I/61N2o+VngGL.jpg | https://m.media-amazon.com/images/I/416CFIrmogL.jpg | https://m.media-amazon.com/images/I/4130VeJtL3L.jpg | https://m.media-amazon.com/images/I/41Zg+FHNveL.jpg | https://m.media-amazon.com/images/I/411sjiK4BdL.jpg | https://m.media-amazon.com/images/I/41gazg-n9pL.jpg",
+      "productUrl": "https://www.amazon.in/KROST-Cordless-Drill-Kit-Lithium-Ion/dp/B0BHL43GZC/ref=sr_1_59"
+    }
+  ]
 }

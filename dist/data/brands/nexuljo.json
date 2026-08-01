@@ -1,0 +1,36 @@
+{
+  "name": "Nexuljo",
+  "slug": "nexuljo",
+  "products": [
+    {
+      "sku": "JKE-IIYEMS2KIRITIV2S",
+      "slug": "sam-combo-of-solar-panel-5v-100-mah-70mm70mm01mm-solar-panel-in-square-shape-4-volt-1-ah-rechargeable-battery-and-mini-water-pump",
+      "name": "sam Combo of Solar Panel 5v- 100 mah, 70mm*70mm*01mm, Solar Panel in Square Shape + 4 Volt 1 Ah Rechargeable Battery and mini Water Pump",
+      "brand": "Nexuljo",
+      "category": "Measuring & Layout",
+      "price": "₹289.00",
+      "image": "https://m.media-amazon.com/images/I/71ynmu3wEgL.jpg | https://m.media-amazon.com/images/I/41istDgQnhL.jpg",
+      "productUrl": "https://www.amazon.in/Combo-Solar-Square-Rechargeable-Battery/dp/B0FKJDQ4WR/ref=sr_1_109"
+    },
+    {
+      "sku": "JKE-IIYEOWCWJJBDQNZZ",
+      "slug": "sam-combo-of-12-volt-20-watt-solar-panel-with-12-volt-1200mah-battery-and-12-v-to-qc30-fast-charge-dual-usb-charging-board-step-down-module",
+      "name": "Sam Combo of 12 Volt 20 Watt Solar Panel with 12 Volt 1200Mah Battery and 12 V to QC3.0 Fast Charge Dual USB Charging Board Step-Down Module",
+      "brand": "Nexuljo",
+      "category": "General Hardware",
+      "price": "₹1,599.00",
+      "image": "https://m.media-amazon.com/images/I/71LNFiwlb3L.jpg | https://m.media-amazon.com/images/I/41ORqGs3igL.jpg | https://m.media-amazon.com/images/I/41cjwe+exwL.jpg | https://m.media-amazon.com/images/I/41lfNbC3dwL.jpg | https://m.media-amazon.com/images/I/41cFqkmT54L.jpg",
+      "productUrl": "https://www.amazon.in/1200Mah-Battery-Charge-Charging-Step-Down/dp/B0GXVJB879/ref=sr_1_117"
+    },
+    {
+      "sku": "JKE-IIYEMS2CLIZFCSZX",
+      "slug": "sam-combo-of-solar-panel-5v-100-mah-70mm70mm01mm-solar-panel-in-square-shape-20-pcs-1-watt-led-2-1200-mah-cell-type-c-charging-module",
+      "name": "sam Combo of Solar Panel 5v- 100 mah, 70mm*70mm*01mm, Solar Panel in Square Shape + 20 pcs 1 watt led + 2 * 1200 mah Cell + Type c Charging Module",
+      "brand": "Nexuljo",
+      "category": "Measuring & Layout",
+      "price": "₹299.00",
+      "image": "https://m.media-amazon.com/images/I/218Kg7I5MbL.jpg | https://m.media-amazon.com/images/I/218Kg7I5MbL.jpg",
+      "productUrl": "https://www.amazon.in/Combo-Solar-Square-Charging-Module/dp/B0FKBZ2QK7/ref=sr_1_151"
+    }
+  ]
+}

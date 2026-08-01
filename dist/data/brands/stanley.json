@@ -6,5 +6,336 @@
   "description": "Explore Stanley professional hand tools, storage solutions, measuring tools and accessories.",
   "seoTitle": "Stanley Tools Online India | Haryana.Tools",
   "metaDescription": "Browse Stanley hand tools, storage systems, measuring tools and workshop equipment.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDASKDJFFUOS2R",
+      "slug": "stanley-70-461-8-sturdy-steel-combination-plier-single-color-sleeve-anti-rust-black-phosphate-finish-material-c45-full-body-hardened-used-for-gripping-twisting-bending-and-wire-cutting",
+      "name": "STANLEY 70-461 8'' Sturdy Steel Combination Plier Single Color Sleeve, Anti-Rust, Black Phosphate Finish, Material: C45, Full Body Hardened, Used for Gripping, Twisting, Bending and Wire Cutting",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹299.00",
+      "image": "https://m.media-amazon.com/images/I/61t4N04cMxL.jpg | https://m.media-amazon.com/images/I/31tf8JE+yrL.jpg | https://m.media-amazon.com/images/I/31bUsB2bjRL.jpg | https://m.media-amazon.com/images/I/41QiUc0vMVL.jpg | https://m.media-amazon.com/images/I/31q-nLFEkUL.jpg | https://m.media-amazon.com/images/I/31Qo2Ck1cjL.jpg | https://m.media-amazon.com/images/I/21BiXcJz+TL.jpg | https://m.media-amazon.com/images/I/211wES0thDL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-70-461-Combination-Anti-Rust-Phosphate/dp/B00ICIKGKQ/ref=sr_1_234"
+    },
+    {
+      "sku": "JKE-IIYDATRQKFBUCU2R",
+      "slug": "stanley-70-482-8-sturdy-steel-combination-plier-double-color-sleeve-anti-rust-black-phosphate-finish-material-c45-full-body-hardened-used-for-gripping-twisting-bending-and-wire-cutting",
+      "name": "STANLEY 70-482 8'' Sturdy Steel Combination Plier Double Color Sleeve, Anti-Rust, Black Phosphate Finish, Material: C45, Full Body Hardened, Used for Gripping, Twisting, Bending and Wire Cutting",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹284.00",
+      "image": "https://m.media-amazon.com/images/I/61vo4RdhZSL.jpg | https://m.media-amazon.com/images/I/312rZXw-GdL.jpg | https://m.media-amazon.com/images/I/31POxUFCisL.jpg | https://m.media-amazon.com/images/I/51ZM1ypY-BL.jpg | https://m.media-amazon.com/images/I/51ob34enWoL.jpg | https://m.media-amazon.com/images/I/51Bx+hNucpL.jpg | https://m.media-amazon.com/images/I/31Qo2Ck1cjL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-70-482-Sturdy-Combination-8-Inch/dp/B00N0QCASQ/ref=sr_1_228"
+    },
+    {
+      "sku": "JKE-IIYDATSCGBCDSOCR",
+      "slug": "stanley-71-669-10-in250mm-water-pump-plier-box-joint-curve-steel-used-for-holding-nuts-bolts-and-gripping-irregular-shaped-objects-dinasoansi-compliant",
+      "name": "STANLEY 71-669 10 in.(250mm) Water Pump Plier Box Joint Curve Steel, Used for Holding Nuts & Bolts and Gripping Irregular Shaped Objects, DIN/ASO/ANSI Compliant",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹379.00",
+      "image": "https://m.media-amazon.com/images/I/61bWnaG9DOL.jpg | https://m.media-amazon.com/images/I/21vh9ywUJCL.jpg | https://m.media-amazon.com/images/I/51xxdgCHXsL.jpg | https://m.media-amazon.com/images/I/51EQNXyBLAL.jpg | https://m.media-amazon.com/images/I/61A0qtiiJVL.jpg | https://m.media-amazon.com/images/I/31VqYIX4whL.jpg | https://m.media-amazon.com/images/I/61JxxkGg8TL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-71-669-10-inch-Water-Plier/dp/B00NB0D98Q/ref=sr_1_233"
+    },
+    {
+      "sku": "JKE-IIYDAT2CGVCE4U2R",
+      "slug": "stanley-71-641-10250mm-stilson-type-pipe-wrench-yellow-black",
+      "name": "STANLEY 71-641 10''/250mm Stilson Type Pipe Wrench (Yellow & Black)",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹329.00",
+      "image": "https://m.media-amazon.com/images/I/71dToQZBJhL.jpg | https://m.media-amazon.com/images/I/31MeAbxWTBL.jpg | https://m.media-amazon.com/images/I/41lbHH3LRqL.jpg | https://m.media-amazon.com/images/I/41ylTtBbu4L.jpg | https://m.media-amazon.com/images/I/41qi9HAYYzL.jpg | https://m.media-amazon.com/images/I/31NZCYoriCL.jpg | https://m.media-amazon.com/images/I/41kGyR3Y1SL.jpg | https://m.media-amazon.com/images/I/31LVKf3uY9L.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-71641-Stilson-Type-Wrench/dp/B00OB5DNSQ/ref=sr_1_220"
+    },
+    {
+      "sku": "JKE-IIYDQMSXJA2DSTJU",
+      "slug": "stanley-stmt82672-0-14-37-piece-chrome-compact-socket-set-comes-with-heavy-duty-plastic-case-ideal-for-home-diy-industrial-professional-use-used-for-screwing-tightening-applications-black",
+      "name": "STANLEY STMT82672-0 1/4\" 37-PIECE Chrome Compact Socket Set, Comes with Heavy-Duty Plastic Case, Ideal for Home, DIY, Industrial & Professional Use, Used for Screwing & Tightening Applications, BLACK",
+      "brand": "Stanley",
+      "category": "Fasteners & Hardware",
+      "price": "₹1,719.00",
+      "image": "https://m.media-amazon.com/images/I/41RKhNZVKfL.jpg",
+      "productUrl": "https://www.amazon.in/STMT82672-37-Piece-Heavy-Duty-Industrial-Professional/dp/B082WH49M4/ref=sr_1_223"
+    },
+    {
+      "sku": "JKE-IIYDASKDJFFUSVZS",
+      "slug": "stanley-70-964e-12-piece-combination-spanner-set-with-maxi-drive-system-6mm-to-22mm-chrome-vanadium-steel-anti-slip-design-on-open-end-anti-rust-matt-finish-silver",
+      "name": "STANLEY 70-964E 12-Piece Combination Spanner Set With Maxi-Drive System, 6mm to 22mm, Chrome-Vanadium Steel, Anti-Slip Design on Open End, Anti-Rust, Matt Finish, Silver",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹534.00",
+      "image": "https://m.media-amazon.com/images/I/31S8XxtLFHL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-70-964E-Combination-Spanner-12-Pieces/dp/B00ICIKIW2/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYDATRZKJBU4WCJ",
+      "slug": "stanley-stmt72794-8-14-46-piece-square-drive-metric-socket-bit-set-made-with-double-nickel-chromium-alloy-coated-tip-maxi-drive-design-provides-15-more-torque-than-standard-sockets-black",
+      "name": "STANLEY STMT72794-8 1/4'' 46-PIECE Square Drive Metric Socket & Bit Set, Made with Double Nickel Chromium Alloy Coated Tip, Maxi-Drive™ Design Provides 15% More Torque than Standard Sockets, BLACK",
+      "brand": "Stanley",
+      "category": "Measuring & Layout",
+      "price": "₹2,137.00",
+      "image": "https://m.media-amazon.com/images/I/41dVFhlLQ6L.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-STMT72794-8-12-Metric-Socket-46-Pieces/dp/B00N9RCNXI/ref=sr_1_236"
+    },
+    {
+      "sku": "JKE-IIYDAT2CGVCTMNCH",
+      "slug": "stanley-71-642-12300mm-stilson-type-pipe-wrench-quick-adjustable-jaw-55mm-max-jaw-opening-used-in-plumbing-ideal-for-turning-and-fitting-pipes-of-round-surfaces",
+      "name": "STANLEY 71-642 12''/300mm Stilson Type Pipe Wrench, Quick Adjustable Jaw, 55mm Max. Jaw Opening, Used in Plumbing, Ideal for Turning and Fitting Pipes of Round Surfaces",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹409.00",
+      "image": "https://m.media-amazon.com/images/I/21KBO4PkcpL.jpg",
+      "productUrl": "https://www.amazon.in/71-642-Construction-Heavy-Duty-Applications-Professional/dp/B00OB5E64G/ref=sr_1_278"
+    },
+    {
+      "sku": "JKE-IIYEIOCTKJITOTCC",
+      "slug": "stanley-stht60573-8b-8-pcs-screwdriver-set-with-3-phillips-3-flat-tips-1-square-poker-1-extension-blade-multi-purpose-tool-screwdriver-set-ideal-for-home-diy-professional-fastening-purposes",
+      "name": "STANLEY STHT60573-8B 8 Pcs Screwdriver Set With 3 Phillips & 3 Flat Tips, 1 Square Poker & 1 Extension Blade- Multi-Purpose Tool Screwdriver Set, Ideal for Home, DIY & Professional Fastening Purposes",
+      "brand": "Stanley",
+      "category": "Measuring & Layout",
+      "price": "₹269.00",
+      "image": "https://m.media-amazon.com/images/I/71B2K-DsNAL.jpg | https://m.media-amazon.com/images/I/41qPv-0jCxL.jpg | https://m.media-amazon.com/images/I/41PQcj5kknL.jpg | https://m.media-amazon.com/images/I/41LfJD8JQuL.jpg | https://m.media-amazon.com/images/I/51b4pPmh56L.jpg | https://m.media-amazon.com/images/I/61J3psciJZL.jpg | https://m.media-amazon.com/images/I/31A4fwGRG+L.jpg | https://m.media-amazon.com/images/I/418V2bvLwoL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-STHT60573-8B-Pcs-Screwdriver-Set/dp/B0D8SRQ7LB/ref=sr_1_186"
+    },
+    {
+      "sku": "JKE-IIYDAT2EGJAUKUCN",
+      "slug": "stanley-69-253-metric-hex-key-set-10-pieces-15mm-to-10mm-ansi-certified-made-from-s2-steel-clear-size-marking-folding-plastic-carry-case-anti-corrosion-treatment-black-yellow",
+      "name": "STANLEY 69-253 Metric Hex Key Set (10-Pieces), 1.5mm to 10mm, ANSI Certified, Made From S2 Steel, Clear Size Marking, Folding Plastic Carry Case, Anti-Corrosion Treatment, Black & Yellow",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹300.00",
+      "image": "https://m.media-amazon.com/images/I/71rwVoVgjBL.jpg | https://m.media-amazon.com/images/I/31IzAjbCIYL.jpg | https://m.media-amazon.com/images/I/51zhd+JurOL.jpg | https://m.media-amazon.com/images/I/51NkZQpLh7L.jpg | https://m.media-amazon.com/images/I/61cupx18kSL.jpg | https://m.media-amazon.com/images/I/31UM-hrinYL.jpg | https://m.media-amazon.com/images/I/619E1QldcvL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-69-253-Hex-Key-10-Pieces/dp/B00OD2AEPM/ref=sr_1_263"
+    },
+    {
+      "sku": "JKE-IIYDORSTI4YTISCK",
+      "slug": "stanley-94-347-50mm-metric-2-way-t-handle-hex-key-silver-and-yellow",
+      "name": "STANLEY 94-347 5.0mm Metric 2 Way T Handle Hex Key (Silver and Yellow)",
+      "brand": "Stanley",
+      "category": "General Hardware",
+      "price": "₹359.00",
+      "image": "https://m.media-amazon.com/images/I/61rKxwNKQTL.jpg | https://m.media-amazon.com/images/I/31XrP2JogEL.jpg | https://m.media-amazon.com/images/I/312+l7POhAL.jpg | https://m.media-amazon.com/images/I/31XTyeMDmlL.jpg | https://m.media-amazon.com/images/I/31DEUu+jO+L.jpg | https://m.media-amazon.com/images/I/212OtvwXRGL.jpg | https://m.media-amazon.com/images/I/41T0QsUv4tL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-T-Handle-Hex-5-0mm-94-347/dp/B07FSG14HJ/ref=sr_1_254"
+    },
+    {
+      "sku": "JKE-IIYDASKDJFFUWTBW",
+      "slug": "stanley-16-089-3-piece-wood-chisel-set-with-anti-rust-properties-for-shaping-cutting-wood-surfaces-12x7-3434x7-341x7-34-grey-black-made-in-singapore",
+      "name": "STANLEY 16-089 3-Piece Wood Chisel Set with Anti-Rust Properties for Shaping & Cutting Wood Surfaces - 1/2x7 3/4,3/4x7 3/4,1x7 3/4, GREY & BLACK (Made in Singapore)",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹689.00",
+      "image": "https://m.media-amazon.com/images/I/71uJTSAOZzL.jpg | https://m.media-amazon.com/images/I/41-NV8GmoPL.jpg | https://m.media-amazon.com/images/I/41XqXGi6KFL.jpg | https://m.media-amazon.com/images/I/51SFkKY4-bL.jpg | https://m.media-amazon.com/images/I/31SIiyk2bdL.jpg | https://m.media-amazon.com/images/I/51SCgxMQ45L.jpg | https://m.media-amazon.com/images/I/51nF7ru8QIL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-16-089-Plastic-Chisel-3-Pieces/dp/B00ICIKKL6/ref=sr_1_200"
+    },
+    {
+      "sku": "JKE-IIYDASKDJFFUWMKH",
+      "slug": "stanley-54-105-camp-axe-steel-shaft-with-anti-rust-properties-for-carpentry-camping-hiking-light-duty-wood-cutting-grey-black",
+      "name": "STANLEY 54-105 Camp Axe Steel Shaft with Anti-Rust Properties for Carpentry, Camping, Hiking & Light-Duty Wood Cutting, Grey & Black",
+      "brand": "Stanley",
+      "category": "Garden & Outdoor",
+      "price": "₹539.00",
+      "image": "https://m.media-amazon.com/images/I/511-WPq1eXL.jpg | https://m.media-amazon.com/images/I/217k8+Av1YL.jpg | https://m.media-amazon.com/images/I/21P36mcjPtL.jpg | https://m.media-amazon.com/images/I/31KeAiJfPKL.jpg | https://m.media-amazon.com/images/I/31Px0klCZ9L.jpg | https://m.media-amazon.com/images/I/41p0IJ3G1zL.jpg | https://m.media-amazon.com/images/I/51WI+fHIByL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-54-105-Steel-Shaft-Chrome/dp/B00ICIKK1G/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-IIYDQMSXI5IUYOCS",
+      "slug": "stanley-stmt60802-8-cushion-grip-screwdriver-phillips-ph0x125mm-yellow-and-black",
+      "name": "STANLEY STMT60802-8 Cushion Grip Screwdriver Phillips®-PH0x125mm (Yellow and Black)",
+      "brand": "Stanley",
+      "category": "Fasteners & Hardware",
+      "price": "₹97.00",
+      "image": "https://m.media-amazon.com/images/I/518k+L0tfEL.jpg | https://m.media-amazon.com/images/I/31xFiUFyAqL.jpg | https://m.media-amazon.com/images/I/21JEyi-w3rL.jpg | https://m.media-amazon.com/images/I/313tun8ZuiL.jpg | https://m.media-amazon.com/images/I/41SGyshHLFL.jpg | https://m.media-amazon.com/images/I/31se0tZqhxL.jpg | https://m.media-amazon.com/images/I/3120OrUKzvL.jpg | https://m.media-amazon.com/images/I/21TrF-cUB+L.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-STMT60802-8-Cushion-Screwdriver-Phillips%C2%AE-PH0x125mm/dp/B082WGQL8R/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-IIYEEUKSJNFE2MZV",
+      "slug": "stanley-28-500-razor-blade-scraper-with-5-blades",
+      "name": "STANLEY 28-500 Razor Blade Scraper with 5 Blades",
+      "brand": "Stanley",
+      "category": "General Hardware",
+      "price": "₹299.00",
+      "image": "https://m.media-amazon.com/images/I/611nvTzMMlL.jpg | https://m.media-amazon.com/images/I/31erAEm7j1L.jpg | https://m.media-amazon.com/images/I/41YX0bsHclL.jpg | https://m.media-amazon.com/images/I/41Tx05kT8wL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/51fqoya-NqL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-28-500-Razor-Scraper-Blades/dp/B0BQRKJM35/ref=sr_1_205"
+    },
+    {
+      "sku": "JKE-IIYDASKDJFFUUTSL",
+      "slug": "stanley-51-152-claw-hammer-with-steel-shaft-for-masonry-woodwork-fittings-for-home-diy-mechanic-industrial-professional-use-grey-black",
+      "name": "STANLEY 51-152 Claw Hammer with Steel Shaft for Masonry, Woodwork, Fittings for Home, DIY, Mechanic, Industrial & Professional Use, GREY & BLACK",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹278.00",
+      "image": "https://m.media-amazon.com/images/I/61qus9E7oEL.jpg | https://m.media-amazon.com/images/I/21NMnWd+wZL.jpg | https://m.media-amazon.com/images/I/51LivyaZtTL.jpg | https://m.media-amazon.com/images/I/51OA8lkbB1L.jpg | https://m.media-amazon.com/images/I/51Jqe3UhXqL.jpg | https://m.media-amazon.com/images/I/61tqnzsru3L.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg",
+      "productUrl": "https://www.amazon.in/51-152-Woodwork-Fittings-Industrial-Professional/dp/B00ICIKJNK/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYDAMBRJFLUEMKN",
+      "slug": "stanley-2-14-563-254-mm-aviation-snips-straight-cut-bi-metal-ideal-for-home-diy-industrial-use-1-year-warranty-yellow-black",
+      "name": "STANLEY 2-14-563 254 mm Aviation Snips Straight Cut Bi-Metal Ideal for Home, DIY & Industrial Use, 1 Year Warranty, YELLOW & BLACK",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹998.00",
+      "image": "https://m.media-amazon.com/images/I/61ATIJtZh+L.jpg | https://m.media-amazon.com/images/I/31LdpaneoUL.jpg | https://m.media-amazon.com/images/I/31xiPBIAkxL.jpg | https://m.media-amazon.com/images/I/31XKtTKqlNL.jpg | https://m.media-amazon.com/images/I/51A+eToux6L.jpg | https://m.media-amazon.com/images/I/61Qgb6RmCLL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg",
+      "productUrl": "https://www.amazon.in/2-14-563-Aviation-Straight-Bi-Metal-Industrial/dp/B0001IWB1M/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYDAMBRJFLUGVKD",
+      "slug": "stanley-5-21-104-surform-block-plane-155-mm",
+      "name": "STANLEY 5-21-104 Surform Block Plane, 155 mm",
+      "brand": "Stanley",
+      "category": "General Hardware",
+      "price": "₹489.00",
+      "image": "https://m.media-amazon.com/images/I/519utoE2nrL.jpg | https://m.media-amazon.com/images/I/31Z0x1ZOpkL.jpg | https://m.media-amazon.com/images/I/41DuIwpOLXL.jpg | https://m.media-amazon.com/images/I/41Rh98t75XL.jpg | https://m.media-amazon.com/images/I/31JNS6dVlPL.jpg | https://m.media-amazon.com/images/I/41oaU1OY36L.jpg | https://m.media-amazon.com/images/I/51GIegEVIkL.jpg | https://m.media-amazon.com/images/I/414Yhm7kJiL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-5-21-104-Surform-Block-Plane/dp/B0001IWCUC/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEQNCSGQ4VQRCI",
+      "slug": "stanley-90-948-maxsteel-8-200mm-adjustable-wrench-bi-material-handle-with-control-grip-ideal-for-plumbing-automotivefurniture-assembly-outdoor-equipment-maintenance-general-household-tasks",
+      "name": "STANLEY 90-948 MAXSTEEL 8\" (200mm) Adjustable Wrench, Bi-Material Handle with CONTROL-GRIP, Ideal for Plumbing, Automotive,Furniture Assembly, Outdoor Equipment Maintenance & General Household Tasks",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹429.00",
+      "image": "https://m.media-amazon.com/images/I/611PR3z1Z8L.jpg | https://m.media-amazon.com/images/I/31ZFeEdHEIL.jpg | https://m.media-amazon.com/images/I/31ze8KBEVaL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/41IMh3bkOJL.jpg | https://m.media-amazon.com/images/I/41+LW+nrzDL.jpg | https://m.media-amazon.com/images/I/41Sdw6sHIgL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-90-948-Bi-Material-CONTROL-GRIP-Maintenance/dp/B0H4R49XDH/ref=sr_1_212"
+    },
+    {
+      "sku": "JKE-IIYDSOJZIJIUONKT",
+      "slug": "stanley-10-131-s-basic-snap-off-blade-knife-9-mm",
+      "name": "STANLEY 10-131-S Basic Snap-off Blade Knife 9 mm",
+      "brand": "Stanley",
+      "category": "Fasteners & Hardware",
+      "price": "₹120.00",
+      "image": "https://m.media-amazon.com/images/I/51RIU7jZZhL.jpg | https://m.media-amazon.com/images/I/314QjFncJwL.jpg | https://m.media-amazon.com/images/I/21247cdfsNL.jpg | https://m.media-amazon.com/images/I/31be0V1CdZL.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg | https://m.media-amazon.com/images/I/312+Zn5bZ8L.jpg | https://m.media-amazon.com/images/I/31DmuxGSucL.jpg | https://m.media-amazon.com/images/I/31sYou-1riL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-10-131-S-Basic-Snap-off-Blade/dp/B0999BQG5S/ref=sr_1_142"
+    },
+    {
+      "sku": "JKE-IIYDAMBRJFLTKVSJ",
+      "slug": "stanley-20-807-254mm-mini-hacksaw-with-10-carbon-steel-blades-ideal-for-cutting-metals-plastic-pipes-for-home-diy-tradesmen-use-06mm-blade-thickness-24-tpi-weight-72-gms-dimn-32x75x19cm",
+      "name": "STANLEY 20-807 254mm Mini Hacksaw with 10\" Carbon Steel Blades Ideal for Cutting Metals, Plastic & Pipes for Home, DIY & Tradesmen Use, 0.6mm Blade Thickness, 24 TPI, Weight 72 gms, Dimn: 32x7.5x1.9cm",
+      "brand": "Stanley",
+      "category": "Power Tools",
+      "price": "₹239.00",
+      "image": "https://m.media-amazon.com/images/I/515gSk+QlhL.jpg | https://m.media-amazon.com/images/I/21PToo6uBbL.jpg | https://m.media-amazon.com/images/I/51rgMln0oSL.jpg | https://m.media-amazon.com/images/I/51o7kwDsEHL.jpg | https://m.media-amazon.com/images/I/51aUeT9bm2L.jpg | https://m.media-amazon.com/images/I/51d8ijyGhXL.jpg | https://m.media-amazon.com/images/I/619EYdyKjgL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-0-20-807-Hacksaw-Cutting-Tradesmen/dp/B0001IW5VI/ref=sr_1_293"
+    },
+    {
+      "sku": "JKE-IIYDAS2JJJJDEMSN",
+      "slug": "stanley-stht57528-8-rubber-mallet-hammer-for-masonry-woodwork-fittings-for-home-diy-mechanic-industrial-professional-use-680-gm-used-to-drive-nails-fit-parts-break-objects-yellow-black",
+      "name": "STANLEY STHT57528-8 Rubber Mallet Hammer for Masonry, Woodwork, Fittings for Home, DIY, Mechanic, Industrial & Professional Use, 680 gm, Used to Drive Nails, Fit Parts & Break Objects, YELLOW & BLACK",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹369.00",
+      "image": "https://m.media-amazon.com/images/I/61cmgA5M5UL.jpg | https://m.media-amazon.com/images/I/21V2bFbsPjL.jpg | https://m.media-amazon.com/images/I/51I3YJM4nSL.jpg | https://m.media-amazon.com/images/I/514mknXZdaL.jpg | https://m.media-amazon.com/images/I/51HCdtf5D-L.jpg | https://m.media-amazon.com/images/I/61V6UyZE8ZL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-57-528-STHT57528-8-Rubber-Mallet/dp/B00KIJR22M/ref=sr_1_264"
+    },
+    {
+      "sku": "JKE-IIYDOUKZJJJVCU2I",
+      "slug": "stanley-stmt81243-110-piece-high-quality-multi-toolkit-containing-pliers-spanners-drivers-sockets-bits-wrenches-ratchets-for-home-diy-professional-use-1-year-warranty-yellow-black",
+      "name": "STANLEY STMT81243 110-Piece High Quality Multi-Toolkit containing Pliers, Spanners, Drivers, Sockets, Bits, Wrenches & Ratchets for Home, DIY & Professional Use, 1 Year Warranty, Yellow & Black",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹7,899.00",
+      "image": "https://m.media-amazon.com/images/I/81+2ddAQImL.jpg | https://m.media-amazon.com/images/I/41mQbArBqmL.jpg | https://m.media-amazon.com/images/I/41z2umiU+IL.jpg | https://m.media-amazon.com/images/I/41UsPHRbCBL.jpg | https://m.media-amazon.com/images/I/61XDSbVyLIL.jpg | https://m.media-amazon.com/images/I/51eYRh2qJHL.jpg | https://m.media-amazon.com/images/I/41n6kJJo0eL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-110-Pieces-Multi-Tool-STMT81243/dp/B07QYJSQSH/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-IIYDASKDJFFUSSKH",
+      "slug": "stanley-70-379e-8-piece-matt-finish-double-open-end-spanner-set-chrome-vanadium-steel-anti-slip-design-on-open-end-ideal-for-tightening-or-loosening-fasteners-at-home-office-construction-sites",
+      "name": "STANLEY 70-379E 8-Piece Matt Finish Double Open End Spanner Set, Chrome Vanadium Steel, Anti-Slip Design on Open End, Ideal for Tightening or Loosening Fasteners at Home, Office, Construction Sites",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹319.00",
+      "image": "https://m.media-amazon.com/images/I/61Yy+fVayzL.jpg | https://m.media-amazon.com/images/I/31NMTi457ZL.jpg | https://m.media-amazon.com/images/I/31lH3seGKOL.jpg | https://m.media-amazon.com/images/I/51i+UdValyL.jpg | https://m.media-amazon.com/images/I/31surL8XhrL.jpg | https://m.media-amazon.com/images/I/41liWlS3q-L.jpg | https://m.media-amazon.com/images/I/41NrdqrXPtL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-70-379E-Finish-Spanner-8-Piece/dp/B00ICIKIIG/ref=sr_1_51"
+    },
+    {
+      "sku": "JKE-IIYDAQ2EGI2EKQKL",
+      "slug": "stanley-fmht0-96230-automatic-wire-stripper-multi",
+      "name": "Stanley FMHT0-96230 Automatic Wire Stripper, Multi",
+      "brand": "Stanley",
+      "category": "Electrical & Wiring",
+      "price": "₹1,489.00",
+      "image": "https://m.media-amazon.com/images/I/71OI2CgRtkL.jpg | https://m.media-amazon.com/images/I/41HhV28DCKL.jpg | https://m.media-amazon.com/images/I/41+6MpJu2rL.jpg | https://m.media-amazon.com/images/I/41W4qthFlOL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg | https://m.media-amazon.com/images/I/31a+BfUUXvL.jpg | https://m.media-amazon.com/images/I/41MIkC9vuTL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-FMHT0-96230-Automatic-Wire-Stripper/dp/B00CD24EAK/ref=sr_1_171"
+    },
+    {
+      "sku": "JKE-IIYDAOCEJEYUQMSR",
+      "slug": "stanley-2-86-686-deep-hole-angled-spanner-9-mm",
+      "name": "Stanley 2-86-686 Deep Hole Angled Spanner, 9 mm",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹559.00",
+      "image": "https://m.media-amazon.com/images/I/61RdYabAUEL.jpg | https://m.media-amazon.com/images/I/31fNuvqHK0L.jpg | https://m.media-amazon.com/images/I/41JZlZjEfKL.jpg | https://m.media-amazon.com/images/I/41Psq-AotJL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/31FXyhRhDpL.jpg | https://m.media-amazon.com/images/I/21EA7ZpojLL.jpg | https://m.media-amazon.com/images/I/21iIfh1MHfL.jpg",
+      "productUrl": "https://www.amazon.in/Stanley-2-86-686-Deep-Angled-Spanner/dp/B008DI1H2Q/ref=sr_1_191"
+    },
+    {
+      "sku": "JKE-IIYEQNBZIRLVQUKR",
+      "slug": "stanley-10pc-hex-key-set-stmt26001",
+      "name": "STANLEY 10PC HEX KEY SET STMT26001",
+      "brand": "Stanley",
+      "category": "General Hardware",
+      "price": "₹202.00",
+      "image": "https://m.media-amazon.com/images/I/51iES1n5SBL.jpg | https://m.media-amazon.com/images/I/41N3zJXhXYL.jpg | https://m.media-amazon.com/images/I/41dEAw-mtGL.jpg | https://m.media-amazon.com/images/I/516ofw1+tqL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-10PC-HEX-KEY-STMT26001/dp/B0H49DWXQQ/ref=sr_1_209"
+    },
+    {
+      "sku": "JKE-IIYDSSRVGQZTKQ2I",
+      "slug": "stanley-fatmax-sc200-b1-20ah-charger-compatible-with-all-stanley-v20-products",
+      "name": "STANLEY FATMAX SC200-B1 2.0Ah Charger, Compatible with All STANLEY v20 Products",
+      "brand": "Stanley",
+      "category": "Power Tools",
+      "price": "₹2,589.00",
+      "image": "https://m.media-amazon.com/images/I/61wiF4boavL.jpg | https://m.media-amazon.com/images/I/41E7Y52xYoL.jpg | https://m.media-amazon.com/images/I/41vF-vM0yQL.jpg | https://m.media-amazon.com/images/I/41v45199InL.jpg | https://m.media-amazon.com/images/I/41vqw8cLh3L.jpg | https://m.media-amazon.com/images/I/31cjDVdF3YL.jpg | https://m.media-amazon.com/images/I/41vS6qF8DpL.jpg | https://m.media-amazon.com/images/I/41NsFC-3TIL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-SC200-B1-Charger-compatible-products/dp/B09J5435CH/ref=sr_1_218"
+    },
+    {
+      "sku": "JKE-IIYDSUKNJM4FGWJZ",
+      "slug": "dewalt-dcd703d2-b1-12v-10mm-cordless-brushless-multi-head-drill-machine-with-2x20ah-li-ion-batteries",
+      "name": "DEWALT Dcd703D2-B1 12V 10Mm Cordless Brushless Multi-Head Drill Machine With 2X2.0Ah Li-Ion Batteries",
+      "brand": "Stanley",
+      "category": "Power Tools",
+      "price": "₹14,695.00",
+      "image": "https://m.media-amazon.com/images/I/81CPLS1GwnL.jpg | https://m.media-amazon.com/images/I/41ARNBb0EKL.jpg | https://m.media-amazon.com/images/I/41H980qF-qL.jpg | https://m.media-amazon.com/images/I/418kmfysrKL.jpg | https://m.media-amazon.com/images/I/41t-ejMMYML.jpg | https://m.media-amazon.com/images/I/31R7PNrBwmL.jpg | https://m.media-amazon.com/images/I/41JS3QRoDFL.jpg",
+      "productUrl": "https://www.amazon.in/Dewalt-DCD703D2-B1-Brushless-Multi-Head-batteries/dp/B09QMK8SY9/ref=sr_1_180"
+    },
+    {
+      "sku": "JKE-IIYDSWRRLBJVISBW",
+      "slug": "stanley-sdh550km-in-550w-10mm-corded-single-speed-hammer-drill-machine-with-mechanical-hand-toolkit-120-pieces-includes-hammer-drill-measuring-tape-hammer-1-year-warranty-yellow-black",
+      "name": "STANLEY SDH550KM-IN 550W 10mm Corded Single Speed Hammer Drill Machine with Mechanical Hand Toolkit (120-Pieces) - Includes Hammer Drill, Measuring Tape, Hammer, 1 Year Warranty, YELLOW & BLACK",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹5,349.00",
+      "image": "https://m.media-amazon.com/images/I/81gyoHoXnIL.jpg | https://m.media-amazon.com/images/I/41YOfG5d91L.jpg | https://m.media-amazon.com/images/I/61TxrqMQdzL.jpg | https://m.media-amazon.com/images/I/41gmkHwv0TL.jpg | https://m.media-amazon.com/images/I/61BVCCkTHxL.jpg | https://m.media-amazon.com/images/I/31bXUZoUlCL.jpg | https://m.media-amazon.com/images/I/51Oco7J5XlL.jpg",
+      "productUrl": "https://www.amazon.in/SDH550KM-Mechanical-Professional-120-Pieces-Warranty/dp/B09Z1XSTH6/ref=sr_1_268"
+    },
+    {
+      "sku": "JKE-IIYEINSWKFGEETCM",
+      "slug": "stanley-sch10d1-in12v-brushed-cordless-hammer-drill-driver-1x2ah-battery-15a-chargerled-lightvariable-speed-trigger-switchforwardreverse-button10mm-chuckclutch-setting-2011-year-warranty",
+      "name": "STANLEY SCH10D1-IN(12V) Brushed Cordless Hammer Drill Driver, 1x2Ah Battery & 1.5A Charger,LED Light,Variable Speed Trigger Switch,Forward/Reverse Button,10mm Chuck,Clutch Setting 20+1,1 Year Warranty",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹4,995.00",
+      "image": "https://m.media-amazon.com/images/I/71-kevyLoPL.jpg | https://m.media-amazon.com/images/I/41KlK34uBBL.jpg | https://m.media-amazon.com/images/I/41JSv9bXh-L.jpg | https://m.media-amazon.com/images/I/51tPCIGeeYL.jpg | https://m.media-amazon.com/images/I/41X3JLjhEQL.jpg | https://m.media-amazon.com/images/I/31wLWK7yjqL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-SCH10D1-Cordless-Variable-Warranty/dp/B0D6VQLBLL/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYEGNJTGZMFMN22",
+      "slug": "stanley-sch10d2k-in12-vbrushed-cordless-hammer-drill-driver2x2ah-batteries15a-chargerled-lightvariable-speed-trigger-switchforwardreverse-button10mm-chuckclutch-setting-2011-year-warranty",
+      "name": "STANLEY SCH10D2K-IN(12 V)Brushed Cordless Hammer Drill Driver,2x2Ah Batteries&1.5A Charger,LED Light,Variable Speed Trigger Switch,Forward/Reverse Button,10mm Chuck,Clutch Setting 20+1,1 Year Warranty",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹6,869.00",
+      "image": "https://m.media-amazon.com/images/I/71ZgvOivgjL.jpg | https://m.media-amazon.com/images/I/418rZszHOgL.jpg | https://m.media-amazon.com/images/I/514WdzW3rSL.jpg | https://m.media-amazon.com/images/I/31C-38C+YcL.jpg | https://m.media-amazon.com/images/I/51tPCIGeeYL.jpg | https://m.media-amazon.com/images/I/41RfWfCuoQL.jpg | https://m.media-amazon.com/images/I/41PcQ+pCAAL.jpg",
+      "productUrl": "https://www.amazon.in/SCD10D2K-Cordless-Batteries-Variable-Warranty/dp/B0C536XV7Z/ref=sr_1_255"
+    },
+    {
+      "sku": "JKE-IIYEITSKLFGTQR2U",
+      "slug": "stanley-sdh550kpa-in-550w-13mm-corded-hammer-drill-machine-hand-tool-kit-for-home-diy-professional-use-120-pieces-includes-hammer-drillplierhammermeasuring-tape-drill-bits1yearwarranty",
+      "name": "STANLEY SDH550KPA-IN 550W 13mm CORDED HAMMER DRILL MACHINE & HAND TOOL KIT for Home, DIY & Professional Use (120-PIECES) - INCLUDES Hammer Drill,Plier,Hammer,Measuring Tape & Drill Bits,1YearWarranty",
+      "brand": "Stanley",
+      "category": "Hand Tools",
+      "price": "₹3,599.00",
+      "image": "https://m.media-amazon.com/images/I/71US3UPkbML.jpg | https://m.media-amazon.com/images/I/41CmvEdWO6L.jpg | https://m.media-amazon.com/images/I/41kpE1WeqiL.jpg | https://m.media-amazon.com/images/I/41o+ECMWUrL.jpg | https://m.media-amazon.com/images/I/41ibeS7e+tL.jpg | https://m.media-amazon.com/images/I/41mw+YSQ1-L.jpg | https://m.media-amazon.com/images/I/41K7JQ6CSgL.jpg | https://m.media-amazon.com/images/I/41SveMQflQL.jpg",
+      "productUrl": "https://www.amazon.in/STANLEY-SDH550KPA-Corded-Machine-120-Pieces/dp/B0DNJYM8GT/ref=sr_1_31"
+    }
+  ]
 }

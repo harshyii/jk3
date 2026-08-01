@@ -1,0 +1,16 @@
+{
+  "name": "Duracell",
+  "slug": "duracell",
+  "products": [
+    {
+      "sku": "JKE-IIYEGTSMKRDDCNJS",
+      "slug": "duracell-led-torch-light-super-bright-12000-lux-ultra-light-and-easy-to-carry-design-large-reflector-for-everyday-use-3aa-batteries-free-black",
+      "name": "Duracell LED Torch Light, Super Bright, 12000 LUX, Ultra-Light and Easy to Carry Design, Large Reflector, for Everyday Use, 3AA Batteries Free, Black",
+      "brand": "Duracell",
+      "category": "General Hardware",
+      "price": "₹179.00",
+      "image": "https://m.media-amazon.com/images/I/71ah6HXiBWL.jpg | https://m.media-amazon.com/images/I/41HEJivIZzL.jpg | https://m.media-amazon.com/images/I/41NNYhArQ1L.jpg | https://m.media-amazon.com/images/I/51mHyZjZEGL.jpg | https://m.media-amazon.com/images/I/41hyXwLfwkL.jpg | https://m.media-amazon.com/images/I/51WVDRsMRjL.jpg",
+      "productUrl": "https://www.amazon.in/Duracell-Ultra-Light-Reflector-Everyday-Batteries/dp/B0CNLTF152/ref=sr_1_39"
+    }
+  ]
+}

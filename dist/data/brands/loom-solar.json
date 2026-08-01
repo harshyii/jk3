@@ -8,124 +8,224 @@
   "metaDescription": "Explore Loom Solar panels, batteries and rooftop solar systems.",
   "products": [
     {
-      "sku": "LONG2",
-      "slug": "solar-ongrid-2kw",
-      "name": "Solar Ongrid 2KW",
+      "sku": "JKE-IIYEGTKULJJTSR2S",
+      "slug": "loom-solar-panel-shark-575w-topcon-bifacial-non-dcr-n-type-dual-glass-black-frame-panel-144-cells-half-cut-ip68-rated-bis-certified-efficiency-2230-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar Panel Shark 575W TOPCon Bifacial, Non DCR, N-Type, Dual Glass Black Frame Panel, 144 Cells Half-Cut, IP68 Rated, BIS Certified, Efficiency 22.30%, Performance Warranty 25 Years (Pack of 2)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 166750,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG2"
+      "category": "Power Tools",
+      "price": "₹20,774.00",
+      "image": "https://m.media-amazon.com/images/I/81FIjXPuJ0L.jpg | https://m.media-amazon.com/images/I/51+Y2eA30lL.jpg | https://m.media-amazon.com/images/I/41IQlZDYHOL.jpg | https://m.media-amazon.com/images/I/41cfPNRK1TL.jpg | https://m.media-amazon.com/images/I/51p9ohBiF+L.jpg | https://m.media-amazon.com/images/I/4126CnVv+iL.jpg | https://m.media-amazon.com/images/I/51OvoeqKe7L.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Commercial-Efficiency/dp/B0CMTZS9GR/ref=sr_1_46"
     },
     {
-      "sku": "LONG3",
-      "slug": "solar-ongrid-3kw",
-      "name": "Solar Ongrid 3KW",
+      "sku": "JKE-IIYEIUZSJNCFSVZZ",
+      "slug": "loom-solar-panel-shark-590w-topcon-bifacial-n-type-dual-glass-black-frame-panel-144-cells-half-cut-ip68-rated-bis-certified-efficiency-2230-non-dcr-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar Panel Shark 590W TOPCon Bifacial, N-Type, Dual Glass Black Frame Panel, 144 Cells Half-Cut, IP68 Rated, BIS Certified, Efficiency 22.30%, Non DCR, Performance Warranty 25 Years (Pack of 2)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 207000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG3"
+      "category": "Storage & Organization",
+      "price": "₹20,899.00",
+      "image": "https://m.media-amazon.com/images/I/51KEPWen3pL.jpg | https://m.media-amazon.com/images/I/51KEPWen3pL.jpg | https://m.media-amazon.com/images/I/61oCFuc4e5L.jpg | https://m.media-amazon.com/images/I/51t7IEbGfNL.jpg | https://m.media-amazon.com/images/I/51437ce+iCL.jpg | https://m.media-amazon.com/images/I/41VRbrlkrCL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Efficiency-Performance/dp/B0DS2KDYW9/ref=sr_1_44"
     },
     {
-      "sku": "LONG5",
-      "slug": "solar-ongrid-5kw",
-      "name": "Solar Ongrid 5KW",
+      "sku": "JKE-IIYEQNZULJDDOUCS",
+      "slug": "loom-solar-shark-600watt-dcr-n-type-topcon-bifacial-solar-panel-high-efficiency-144-half-cut-cells-double-glass-15-year-product-30-year-performance-warranty-pack-of-36-dcr",
+      "name": "Loom Solar Shark 600Watt DCR N-Type TOPCon Bifacial Solar Panel | High Efficiency | 144 Half-Cut Cells | Double Glass | 15-Year Product & 30-Year Performance Warranty | Pack of 36 (DCR)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 319700,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG5"
+      "category": "Storage & Organization",
+      "price": "₹5,72,460.00",
+      "image": "https://m.media-amazon.com/images/I/71+ql8CkjgL.jpg | https://m.media-amazon.com/images/I/41UKN34+ZoL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Efficiency-Performance-36/dp/B0H74ZF7PR/ref=sr_1_68"
     },
     {
-      "sku": "LONG73",
-      "slug": "solar-ongrid-75kw",
-      "name": "Solar Ongrid 7.5KW",
+      "sku": "JKE-IIYEMUS2JBMVAMSY",
+      "slug": "loom-20-watt-solar-panel-mini-solar-panel-for-battery-charging-up-to-10ahpolycrystalline-solar-module-ideal-for-home-lighting-small-battery-charging-with-25-year-performance-warranty-pack-of-1",
+      "name": "Loom 20-Watt Solar Panel |Mini Solar Panel for Battery Charging Up to 10Ah|Polycrystalline Solar Module| Ideal for Home Lighting &Small Battery Charging with 25-Year Performance Warranty | Pack of 1",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 460000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG73"
+      "category": "General Hardware",
+      "price": "₹1,417.00",
+      "image": "https://m.media-amazon.com/images/I/41GruN+hPgL.jpg | https://m.media-amazon.com/images/I/41GruN+hPgL.jpg | https://m.media-amazon.com/images/I/31lw81TTZ4L.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-20Watt-12V-Lighting-Projects/dp/B0FRZHYP2X/ref=sr_1_97"
     },
     {
-      "sku": "LONG103",
-      "slug": "solar-ongrid-10kw",
-      "name": "Solar Ongrid 10KW",
+      "sku": "JKE-IIYDOS2CGZDUQUCY",
+      "slug": "loom-55-watt-mono-perc-solar-panelhigh-efficiency-half-cut-solar-cells-portable-off-grid-solar-panel-for-home-street-lights-telecom-camping-outdoor-applications-25-year-performance-warranty",
+      "name": "Loom 55-Watt Mono PERC Solar Panel|High Efficiency Half-Cut Solar Cells | Portable Off-Grid Solar Panel for Home & Street Lights, Telecom, Camping & Outdoor Applications |25-Year Performance Warranty",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 690000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG103"
+      "category": "Electrical & Wiring",
+      "price": "₹2,899.00",
+      "image": "https://m.media-amazon.com/images/I/31xa8gD7XQL.jpg | https://m.media-amazon.com/images/I/31xa8gD7XQL.jpg | https://m.media-amazon.com/images/I/31EUK1D9bhL.jpg | https://m.media-amazon.com/images/I/41y8qfoVAYL.jpg | https://m.media-amazon.com/images/I/313QN9am-+L.jpg | https://m.media-amazon.com/images/I/41YaozByV3L.jpg",
+      "productUrl": "https://www.amazon.in/Loom-solar-Panel-watt-crystalline/dp/B07KB6GHPX/ref=sr_1_61"
     },
     {
-      "sku": "LONG203",
-      "slug": "solar-ongrid-20kw",
-      "name": "Solar Ongrid 20KW",
+      "sku": "JKE-IIYEGUKWGZJTMN2L",
+      "slug": "loom-solar-panel-shark-575w-topcon-bifacial-non-dcr-n-type-dual-glass-black-frame-panel-144-cells-half-cut-ip68-rated-bis-certified-efficiency-2230-performance-warranty-25-years-pack-of-4",
+      "name": "Loom Solar Panel Shark 575W TOPCon Bifacial, Non DCR, N-Type, Dual Glass Black Frame Panel, 144 Cells Half-Cut, IP68 Rated, BIS Certified, Efficiency 22.30%, Performance Warranty 25 Years (Pack of 4)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 1380000,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LONG203"
+      "category": "Power Tools",
+      "price": "₹64,499.00",
+      "image": "https://m.media-amazon.com/images/I/61P4HgwmEeL.jpg | https://m.media-amazon.com/images/I/51WKg6FXYoL.jpg | https://m.media-amazon.com/images/I/51q8JaE1MdL.jpg | https://m.media-amazon.com/images/I/41IQlZDYHOL.jpg | https://m.media-amazon.com/images/I/41cfPNRK1TL.jpg | https://m.media-amazon.com/images/I/51p9ohBiF+L.jpg | https://m.media-amazon.com/images/I/4126CnVv+iL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Commercial-Efficiency/dp/B0CQV6S67K/ref=sr_1_57"
     },
     {
-      "sku": "LOFF1",
-      "slug": "solar-offgrid-1kw",
-      "name": "Solar Offgrid 1KW",
+      "sku": "JKE-IIYDOSSGGJBDGNKU",
+      "slug": "loom-10-watt-solar-panelpolycrystalline-pv-module-with-a-grade-solar-cells-ideal-for-battery-charging-security-cameras-home-lighting-systems-outdoor-use-25-year-performance-warranty",
+      "name": "Loom 10-Watt Solar Panel|Polycrystalline PV Module with A+ Grade Solar Cells |Ideal for Battery Charging & Security Cameras, Home Lighting Systems &Outdoor Use | 25-Year Performance Warranty",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 48300,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF1"
+      "category": "Storage & Organization",
+      "price": "₹1,079.00",
+      "image": "https://m.media-amazon.com/images/I/41EtHT8mBPL.jpg | https://m.media-amazon.com/images/I/31mUL52giQL.jpg | https://m.media-amazon.com/images/I/41yb3g7psuL.jpg | https://m.media-amazon.com/images/I/319V+li7lfL.jpg | https://m.media-amazon.com/images/I/31QbKPQQagL.jpg | https://m.media-amazon.com/images/I/41Hzlh4gJzL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-10-Watt-Panel/dp/B07JF2B35T/ref=sr_1_77"
     },
     {
-      "sku": "LOFF2",
-      "slug": "solar-offgrid-2kw",
-      "name": "Solar Offgrid 2KW",
+      "sku": "JKE-IIYEIQSZLJDDKMKT",
+      "slug": "loom-solar-panel-shark-600w-topcon-bifacial-n-type-dual-glass-silver-frame-panel144-cells-half-cut-ip68-rated-bis-certifiedhousehold-rooftop-non-dcr-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar Panel Shark 600W TOPCon Bifacial, N-Type, Dual Glass Silver Frame Panel,144 Cells Half-Cut, IP68 Rated, BIS Certified,Household Rooftop, Non DCR, Performance Warranty 25 Years (Pack of 2)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 89700,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF2"
+      "category": "Power Tools",
+      "price": "₹23,494.00",
+      "image": "https://m.media-amazon.com/images/I/81KN9MJGafL.jpg | https://m.media-amazon.com/images/I/518wbJhR-yL.jpg | https://m.media-amazon.com/images/I/41ENrYhjUzL.jpg | https://m.media-amazon.com/images/I/51ORh8enhaL.jpg | https://m.media-amazon.com/images/I/41-bCbLQE4L.jpg | https://m.media-amazon.com/images/I/51kjYKObxQL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Household-Performance/dp/B0DBYZF51S/ref=sr_1_21"
     },
     {
-      "sku": "LOFF5",
-      "slug": "solar-offgrid-5kw",
-      "name": "Solar Offgrid 5KW",
+      "sku": "JKE-IIYDQNRXIJEDIVSO",
+      "slug": "loom-55-watt-mono-perc-solar-panelhigh-efficiency-half-cut-solar-cells-portable-off-grid-solar-panel-for-home-street-lights-telecom-camping-outdoor-applications-25-year-performance-warranty",
+      "name": "Loom 55-Watt Mono PERC Solar Panel|High Efficiency Half-Cut Solar Cells | Portable Off-Grid Solar Panel for Home & Street Lights, Telecom, Camping & Outdoor Applications |25-Year Performance Warranty",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 298989,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF5"
+      "category": "Safety & PPE",
+      "price": "₹2,899.00",
+      "image": "https://m.media-amazon.com/images/I/614Eec4sA3L.jpg | https://m.media-amazon.com/images/I/410HudoFUcL.jpg | https://m.media-amazon.com/images/I/41BVIWabGIL.jpg | https://m.media-amazon.com/images/I/31orpNZX8+L.jpg | https://m.media-amazon.com/images/I/41POgxeD1KL.jpg | https://m.media-amazon.com/images/I/31QbKPQQagL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Panel-watt-Crystalline/dp/B0867BH4VN/ref=sr_1_70"
     },
     {
-      "sku": "LOFF73",
-      "slug": "solar-offgrid-75kw",
-      "name": "Solar Offgrid 7.5KW",
+      "sku": "JKE-IIYEIQSZLFIUMTJV",
+      "slug": "loom-solar-panel-shark-585w-topcon-bifacial-n-type-dual-glass-silver-frame-panel144-cells-half-cut-ip68-rated-bis-certifiedhousehold-rooftop-non-dcr-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar Panel Shark 585W TOPCon Bifacial, N-Type, Dual Glass Silver Frame Panel,144 Cells Half-Cut, IP68 Rated, BIS Certified,Household Rooftop, Non DCR, Performance Warranty 25 Years (Pack of 2)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 562350,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF73"
+      "category": "General Hardware",
+      "price": "₹24,244.00",
+      "image": "https://m.media-amazon.com/images/I/81KN9MJGafL.jpg | https://m.media-amazon.com/images/I/518wbJhR-yL.jpg | https://m.media-amazon.com/images/I/41z9TnHw89L.jpg | https://m.media-amazon.com/images/I/414SbxPENaL.jpg | https://m.media-amazon.com/images/I/51ORh8enhaL.jpg | https://m.media-amazon.com/images/I/41R1cXAXNSL.jpg | https://m.media-amazon.com/images/I/51kjYKObxQL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Household-Performance/dp/B0DBYYQFM5/ref=sr_1_16"
     },
     {
-      "sku": "LOFF103",
-      "slug": "solar-offgrid-10kw",
-      "name": "Solar Offgrid 10KW",
+      "sku": "JKE-IIYDOVRYI5EDKVCH",
+      "slug": "loom-solar-panel-300w-12v-3-star-rated-module-for-inverter-battery-80ah-150ah-charging-home-solar-system-72-cells-half-cut-design-max-current-1072-amps-max-voltage-21-volts-pack-of-2",
+      "name": "Loom Solar Panel 300W-12V 3 Star Rated Module for Inverter Battery (80Ah-150Ah) Charging, Home Solar System | 72 Cells Half Cut Design | Max. Current - 10.72 amps & Max. Voltage - 21 volts (pack of 2)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 1034644,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF103"
+      "category": "Safety & PPE",
+      "price": "₹16,999.00",
+      "image": "https://m.media-amazon.com/images/I/51qnc2+8+pL.jpg | https://m.media-amazon.com/images/I/51qnc2+8+pL.jpg | https://m.media-amazon.com/images/I/51UIuV6HF9L.jpg | https://m.media-amazon.com/images/I/51Yif8gE9cL.jpg | https://m.media-amazon.com/images/I/513W81aN1tL.jpg | https://m.media-amazon.com/images/I/51OvoeqKe7L.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-watt-Panel-Stand/dp/B07V8GH5TG/ref=sr_1_11"
     },
     {
-      "sku": "LOFF1103",
-      "slug": "solar-offgrid-110kw",
-      "name": "Solar Offgrid 110KW",
+      "sku": "JKE-IIYEIQS2GU3FOWSI",
+      "slug": "loom-solar-panel-shark-580w-topcon-bifacial-non-dcr-n-type-dual-glass-black-silver-panel144-cells-half-cut-ip68-rated-bis-certifiedhousehold-rooftop-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar Panel Shark 580W TOPCon Bifacial, Non DCR, N-Type, Dual Glass Black Silver Panel,144 Cells Half-Cut, IP68 Rated, BIS Certified,Household Rooftop, Performance Warranty 25 Years, (Pack of 2)",
       "brand": "Loom Solar",
-      "category": "Solar Products",
-      "price": 2058489,
-      "image": "https://images.unsplash.com/photo-1658298775754-5839ffd434cc?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "productUrl": "https://www.haryana.tools/product.html?sku=LOFF1103"
+      "category": "General Hardware",
+      "price": "₹20,399.00",
+      "image": "https://m.media-amazon.com/images/I/81KN9MJGafL.jpg | https://m.media-amazon.com/images/I/518wbJhR-yL.jpg | https://m.media-amazon.com/images/I/41ENrYhjUzL.jpg | https://m.media-amazon.com/images/I/51ORh8enhaL.jpg | https://m.media-amazon.com/images/I/41-bCbLQE4L.jpg | https://m.media-amazon.com/images/I/51kjYKObxQL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Household-Performance/dp/B0DBZ56WZH/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-IIYEMUSZGFLEGUK2",
+      "slug": "loom-solar-panel-55-watt12-v-mono-perc-pack-of-5",
+      "name": "LOOM SOLAR Panel 55 WATT/12 V Mono PERC (Pack of 5)",
+      "brand": "Loom Solar",
+      "category": "Safety & PPE",
+      "price": "₹11,395.00",
+      "image": "https://m.media-amazon.com/images/I/51tARLOT5lL.jpg | https://m.media-amazon.com/images/I/41tGNCKDrbL.jpg | https://m.media-amazon.com/images/I/41cv3b1cwxL.jpg | https://m.media-amazon.com/images/I/31L8LNDZxTL.jpg | https://m.media-amazon.com/images/I/31WZrfpza5L.jpg",
+      "productUrl": "https://www.amazon.in/LOOM-SOLAR-Panel-WATT-Mono/dp/B0FRY1VCQZ/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-IIYEGOCULBBFCR2K",
+      "slug": "loom-solar-shark-bi-facial-solar-panel-550-570w-black-frame-panel-144-cells-half-cutfor-homes-businessesonoff-grid-and-hybrid-solar-system-ip68-rated-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar SHARK Bi-Facial Solar Panel, 550-570W, Black Frame Panel, 144 Cells Half-Cut,for Homes, Businesses,On/Off-Grid and Hybrid Solar System, IP68 Rated, Performance Warranty 25 years (Pack of 2)",
+      "brand": "Loom Solar",
+      "category": "Safety & PPE",
+      "price": "₹23,100.00",
+      "image": "https://m.media-amazon.com/images/I/71Kesg3cVbL.jpg | https://m.media-amazon.com/images/I/51tPGWLEVgL.jpg | https://m.media-amazon.com/images/I/51U98cLrBeL.jpg | https://m.media-amazon.com/images/I/41VGSQPa72L.jpg | https://m.media-amazon.com/images/I/51miwRD32ML.jpg | https://m.media-amazon.com/images/I/41tQd+A7n8L.jpg | https://m.media-amazon.com/images/I/41d3gKfOvKL.jpg",
+      "productUrl": "https://www.amazon.in/Shark-Bi-Facial-Solar-Panel-550-570W/dp/B0C8TXBQGJ/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYEGTBXKZLU2MJR",
+      "slug": "loom-solar-panel-shark-550w-mono-perc-non-dcr-dual-glass-silver-frame-panel-144-cells-half-cut-design-ip68-rated-onoff-grid-and-hybrid-solar-system-performance-warranty-25-years-pack-of-2",
+      "name": "Loom Solar Panel Shark 550W, Mono PERC, Non DCR, Dual Glass Silver Frame Panel, 144 Cells Half-Cut Design, IP68 Rated, On/Off-Grid and Hybrid Solar System, Performance Warranty 25 Years (Pack of 2)",
+      "brand": "Loom Solar",
+      "category": "Safety & PPE",
+      "price": "₹17,699.00",
+      "image": "https://m.media-amazon.com/images/I/61eLsjCyJ7L.jpg | https://m.media-amazon.com/images/I/414p0B5ufPL.jpg | https://m.media-amazon.com/images/I/41aGHuQjADL.jpg | https://m.media-amazon.com/images/I/41Gc0aXUInL.jpg | https://m.media-amazon.com/images/I/51GrGiRENTL.jpg | https://m.media-amazon.com/images/I/41QVsqvN9nL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Aluminum-Pack-Halfcut/dp/B0CL7VWM11/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYDOSSWLA2FAWSU",
+      "slug": "loom-solar-panel-20-watt-mini-solar-panel-for-battery-charging-up-to-10ahpolycrystalline-solar-module-ideal-for-home-lighting-small-battery-charging-with-25-year-performance-warranty-pack-of-1",
+      "name": "Loom Solar Panel 20-Watt |Mini Solar Panel for Battery Charging Up to 10Ah|Polycrystalline Solar Module| Ideal for Home Lighting &Small Battery Charging with 25-Year Performance Warranty | Pack of 1",
+      "brand": "Loom Solar",
+      "category": "Electrical & Wiring",
+      "price": "₹1,349.00",
+      "image": "https://m.media-amazon.com/images/I/41+WJU0HNAL.jpg | https://m.media-amazon.com/images/I/41+WJU0HNAL.jpg | https://m.media-amazon.com/images/I/411mqI6NYNL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-20-Watt-Lighting/dp/B07JVX4PZT/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-IIYEMUCEGFBFEV2O",
+      "slug": "loom-solar-panel-shark-575w-topcon-bifacial-non-dcr-n-typeglass-silver-frame-panel-144-cells-half-cut-ip68-rated-bis-certified-efficiency-2230-performance-warranty-25-years-pack-of-1",
+      "name": "Loom Solar Panel Shark 575W TOPCon Bifacial, Non DCR, N-Type,Glass Silver Frame Panel, 144 Cells Half-Cut, IP68 Rated, BIS Certified, Efficiency 22.30%, Performance Warranty 25 Years (Pack of 1)",
+      "brand": "Loom Solar",
+      "category": "Storage & Organization",
+      "price": "₹11,500.00",
+      "image": "https://m.media-amazon.com/images/I/41US5kqL8jL.jpg | https://m.media-amazon.com/images/I/41US5kqL8jL.jpg | https://m.media-amazon.com/images/I/41YjAP262-L.jpg | https://m.media-amazon.com/images/I/41hOfO5acxL.jpg | https://m.media-amazon.com/images/I/513kAqDhaDL.jpg | https://m.media-amazon.com/images/I/516pYwEj0sL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Efficiency-Performance/dp/B0FPD1BRWN/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYDOSSEJBMDOOKE",
+      "slug": "loom-solar-panel-300w-12v-3-star-rated-module-for-inverter-battery-80ah-150ah-charging-home-solar-system-72-cells-half-cut-design-max-current-1072-amps-max-voltage-21-volts-pack-of-2",
+      "name": "Loom Solar Panel 300W-12V 3 Star Rated Module for Inverter Battery (80Ah-150Ah) Charging, Home Solar System | 72 Cells Half Cut Design | Max. Current - 10.72 amps & Max. Voltage - 21 volts (pack of 2)",
+      "brand": "Loom Solar",
+      "category": "Safety & PPE",
+      "price": "₹16,999.00",
+      "image": "https://m.media-amazon.com/images/I/51qnc2+8+pL.jpg | https://m.media-amazon.com/images/I/51qnc2+8+pL.jpg | https://m.media-amazon.com/images/I/513W81aN1tL.jpg | https://m.media-amazon.com/images/I/51Yif8gE9cL.jpg | https://m.media-amazon.com/images/I/51UIuV6HF9L.jpg | https://m.media-amazon.com/images/I/31QbKPQQagL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Watt-Crystalline-Panel/dp/B07JDHX79D/ref=sr_1_7"
+    },
+    {
+      "sku": "JKE-IIYEMSRVJNHEITCL",
+      "slug": "loom-solar-panel-shark-600w-topcon-bifacial-n-type-dual-glass-silver-frame-panel144-cells-half-cut-ip68-rated-bis-certifiedhousehold-rooftop-performance-warranty-25-years-pack-of-1",
+      "name": "Loom Solar Panel Shark 600W TOPCon Bifacial, N-Type, Dual Glass Silver Frame Panel,144 Cells Half-Cut, IP68 Rated, BIS Certified,Household Rooftop, Performance Warranty 25 Years (Pack of 1)",
+      "brand": "Loom Solar",
+      "category": "General Hardware",
+      "price": "₹11,800.00",
+      "image": "https://m.media-amazon.com/images/I/41US5kqL8jL.jpg | https://m.media-amazon.com/images/I/41US5kqL8jL.jpg | https://m.media-amazon.com/images/I/41YjAP262-L.jpg | https://m.media-amazon.com/images/I/41hOfO5acxL.jpg | https://m.media-amazon.com/images/I/513kAqDhaDL.jpg | https://m.media-amazon.com/images/I/516pYwEj0sL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Household-Performance/dp/B0FJ5KNDLK/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYEMSRVK43TEVBX",
+      "slug": "loom-solar-panel-shark-590w-topcon-bifacial-n-type-dual-glass-silver-panel-144-cells-half-cut-ip68-rated-bis-certified-efficiency-2230-performance-warranty-25-years-pack-of-1",
+      "name": "Loom Solar Panel Shark 590W TOPCon Bifacial, N-Type, Dual Glass Silver Panel, 144 Cells Half-Cut, IP68 Rated, BIS Certified, Efficiency 22.30%, Performance Warranty 25 Years (Pack of 1)",
+      "brand": "Loom Solar",
+      "category": "Storage & Organization",
+      "price": "₹11,799.00",
+      "image": "https://m.media-amazon.com/images/I/41Sd0yWm7gL.jpg | https://m.media-amazon.com/images/I/41Sd0yWm7gL.jpg | https://m.media-amazon.com/images/I/41K+DehgpEL.jpg | https://m.media-amazon.com/images/I/41tbjkjK+6L.jpg | https://m.media-amazon.com/images/I/51wLOUeTKvL.jpg | https://m.media-amazon.com/images/I/51jC0Nh+orL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Certified-Efficiency-Performance/dp/B0FJ5W72T7/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-IIYDOSZVLAZFERCL",
+      "slug": "loom-solar-panel-300w-12v-3-star-rated-module-for-inverter-battery-80ah-150ah-charging-home-solar-system-72-cells-half-cut-design-max-current-1072-amps-max-voltage-21-volts-pack-of-2",
+      "name": "Loom Solar Panel 300W-12V 3 Star Rated Module for Inverter Battery (80Ah-150Ah) Charging, Home Solar System | 72 Cells Half Cut Design | Max. Current - 10.72 amps & Max. Voltage - 21 volts (pack of 2)",
+      "brand": "Loom Solar",
+      "category": "Safety & PPE",
+      "price": "₹2,499.00",
+      "image": "https://m.media-amazon.com/images/I/51qnc2+8+pL.jpg | https://m.media-amazon.com/images/I/51qnc2+8+pL.jpg | https://m.media-amazon.com/images/I/513W81aN1tL.jpg | https://m.media-amazon.com/images/I/51Yif8gE9cL.jpg | https://m.media-amazon.com/images/I/51UIuV6HF9L.jpg | https://m.media-amazon.com/images/I/31QbKPQQagL.jpg | https://m.media-amazon.com/images/I/515EJQNskPL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-watt-12-Crystalline-Panel/dp/B07K5X2RDK/ref=sr_1_31"
+    },
+    {
+      "sku": "JKE-IIYEMUZRJJDFCQZY",
+      "slug": "loom-solar-panel-20w-12v-for-home-lighting-system-diy-projects-small-battery-charging7ah-max-current-104-amps-max-voltage-1925-volts-performance-warranty-25-years-pack-of-10",
+      "name": "Loom Solar Panel 20W-12V for Home Lighting System, DIY Projects, Small Battery Charging(7Ah)| Max. Current - 1.04 amps & Max. Voltage - 19.25 Volts, Performance Warranty 25 Years (Pack of 10)",
+      "brand": "Loom Solar",
+      "category": "General Hardware",
+      "price": "₹14,000.00",
+      "image": "https://m.media-amazon.com/images/I/61JxKqU7RsL.jpg | https://m.media-amazon.com/images/I/41NcLYRnPEL.jpg | https://m.media-amazon.com/images/I/41nki+0eR7L.jpg | https://m.media-amazon.com/images/I/319V+li7lfL.jpg",
+      "productUrl": "https://www.amazon.in/Loom-Solar-Lighting-Projects-Charging/dp/B0FS1JFQC8/ref=sr_1_24"
     }
   ]
 }

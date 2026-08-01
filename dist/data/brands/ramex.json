@@ -1,0 +1,26 @@
+{
+  "name": "Ramex",
+  "slug": "ramex",
+  "products": [
+    {
+      "sku": "JKE-IIYEMRRVGJLEYTS2",
+      "slug": "ramex-steel-shaft-hammer-8-oz-forged-steel-head-for-superior-strength-durability-carpenter-tools-for-wood-work-home-and-professional-2-in-1-combination-claw-flat-head-400gm-pack-of-1-diy",
+      "name": "RAMEX Steel Shaft Hammer 8 Oz - Forged Steel Head for Superior Strength & Durability - Carpenter Tools for Wood Work, Home and Professional, 2 in 1 Combination Claw & Flat Head, 400gm (Pack of 1), DIY",
+      "brand": "Ramex",
+      "category": "Hand Tools",
+      "price": "₹209.00",
+      "image": "https://m.media-amazon.com/images/I/5178MN7pmeL.jpg | https://m.media-amazon.com/images/I/21kC1z1i3YL.jpg | https://m.media-amazon.com/images/I/41ofz5TSmbL.jpg | https://m.media-amazon.com/images/I/41xF6HWxl1L.jpg | https://m.media-amazon.com/images/I/41lImKXD7jL.jpg | https://m.media-amazon.com/images/I/417wZ+wJo0L.jpg | https://m.media-amazon.com/images/I/51pMIVJsEhL.jpg | https://m.media-amazon.com/images/I/41fbc7q6XZL.jpg",
+      "productUrl": "https://www.amazon.in/RAMEX-Steel-Shaft-Hammer-Professional/dp/B0FF52VLNZ/ref=sr_1_201"
+    },
+    {
+      "sku": "JKE-IIYEENRVJA4FGUSG",
+      "slug": "ramex-allen-key-set-allen-key-set-tools-kit-9pc-hex-allen-key-set-in-plastic-box-packet-size-allen-key-set-allen-keys",
+      "name": "RAMEX Allen Key Set, Allen Key Set Tools Kit, 9pc Hex Allen Key Set In Plastic Box Packet Size Allen Key Set Allen Keys",
+      "brand": "Ramex",
+      "category": "Storage & Organization",
+      "price": "₹136.00",
+      "image": "https://m.media-amazon.com/images/I/71aBHurthsL.jpg | https://m.media-amazon.com/images/I/416fNuxtsbL.jpg | https://m.media-amazon.com/images/I/41winQ-dZpL.jpg | https://m.media-amazon.com/images/I/41uLLMw-ZdL.jpg | https://m.media-amazon.com/images/I/41CaNHexuUL.jpg | https://m.media-amazon.com/images/I/41RI-4IlUoL.jpg",
+      "productUrl": "https://www.amazon.in/RAMEX-Allen-Tools-Plastic-Packet/dp/B0B65H8SRF/ref=sr_1_3"
+    }
+  ]
+}

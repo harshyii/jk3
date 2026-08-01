@@ -1,0 +1,36 @@
+{
+  "name": "Renogy",
+  "slug": "renogy",
+  "products": [
+    {
+      "sku": "JKE-IIYDOR2GGVFFSMZV",
+      "slug": "renogy-100-watt-12-volt-monocrystalline-solar-panel-compact-design-422-x-196-x-138-in-high-efficiency-module-pv-power-for-battery-charging-boat-caravan-rv-and-any-other-off-grid-applications",
+      "name": "Renogy 100 Watt 12 Volt Monocrystalline Solar Panel, Compact Design 42.2 X 19.6 X 1.38 in, High Efficiency Module PV Power for Battery Charging Boat, Caravan, RV and Any Other Off Grid Applications",
+      "brand": "Renogy",
+      "category": "Power Tools",
+      "price": "₹25,858.00",
+      "image": "https://m.media-amazon.com/images/I/61GBnIRbvdL.jpg | https://m.media-amazon.com/images/I/41zl4REf4lL.jpg | https://m.media-amazon.com/images/I/51m6eAjxbhL.jpg | https://m.media-amazon.com/images/I/41Cq7K-invL.jpg | https://m.media-amazon.com/images/I/51goiFkc6CL.jpg | https://m.media-amazon.com/images/I/41xe9WcN5nL.jpg | https://m.media-amazon.com/images/I/41lEVjj+BpL.jpg | https://m.media-amazon.com/images/I/51f8YsSAgRL.jpg",
+      "productUrl": "https://www.amazon.in/Renogy-100-Watt-Volt-Monocrystalline/dp/B07GF5JY35/ref=sr_1_111"
+    },
+    {
+      "sku": "JKE-IIYEEV2SG5EFIMZU",
+      "slug": "renogy-solar-panel-100-watt-12-volt-with-mounting-z-brackets-high-efficiency-monocrystalline-pv-module-power-charger-for-rv-marine-rooftop-farm-battery-and-other-off-grid-applications",
+      "name": "Renogy Solar Panel 100 Watt 12 Volt with Mounting Z Brackets High-Efficiency Monocrystalline PV Module Power Charger for RV Marine Rooftop Farm Battery and Other Off-Grid Applications",
+      "brand": "Renogy",
+      "category": "Power Tools",
+      "price": "₹24,715.32",
+      "image": "https://m.media-amazon.com/images/I/71-TcNOJw2L.jpg | https://m.media-amazon.com/images/I/41VSyxZN+dL.jpg | https://m.media-amazon.com/images/I/51qm0Zfm0sL.jpg | https://m.media-amazon.com/images/I/41Cq7K-invL.jpg | https://m.media-amazon.com/images/I/51tC0SiXuvL.jpg | https://m.media-amazon.com/images/I/41xe9WcN5nL.jpg | https://m.media-amazon.com/images/I/51uW0CEyQTL.jpg | https://m.media-amazon.com/images/I/51f8YsSAgRL.jpg",
+      "productUrl": "https://www.amazon.in/Renogy-Solar-Panel-High-Efficiency-Monocrystalline/dp/B0BWR7HT34/ref=sr_1_138"
+    },
+    {
+      "sku": "JKE-IIYDOR2UJA3TSSSQ",
+      "slug": "renogy-solar-panel-50-watt-12-volt-high-efficiency-50w-solar-panel-monocrystalline-pv-module-power-charger-for-rv-marine-rooftop-farm-battery-and-other-off-grid-applications",
+      "name": "Renogy Solar Panel 50 Watt 12 Volt, High-Efficiency 50W Solar Panel Monocrystalline PV Module Power Charger for RV Marine Rooftop Farm Battery and Other Off-Grid Applications",
+      "brand": "Renogy",
+      "category": "Power Tools",
+      "price": "₹19,176.00",
+      "image": "https://m.media-amazon.com/images/I/71auZahUbNL.jpg | https://m.media-amazon.com/images/I/41SncPgEwnL.jpg | https://m.media-amazon.com/images/I/41yDXJTfV3L.jpg | https://m.media-amazon.com/images/I/51f8z1freEL.jpg | https://m.media-amazon.com/images/I/51yDU4Zbu1L.jpg | https://m.media-amazon.com/images/I/41oBIGndZxL.jpg | https://m.media-amazon.com/images/I/41ckFGnjILL.jpg | https://m.media-amazon.com/images/I/51CPsWRBEGL.jpg",
+      "productUrl": "https://www.amazon.in/Renogy-50-Watt-Volt-Monocrystalline/dp/B07GTH79JP/ref=sr_1_88"
+    }
+  ]
+}

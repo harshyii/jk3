@@ -1,0 +1,26 @@
+{
+  "name": "Black Duck",
+  "slug": "black-duck",
+  "products": [
+    {
+      "sku": "JKE-IIYEGVZWIZEDCQZR",
+      "slug": "carbon-brush-suit-for-eastman-5-inch-new",
+      "name": "Carbon Brush Suit for Eastman 5\" Inch New",
+      "brand": "Black Duck",
+      "category": "General Hardware",
+      "price": "₹120.00",
+      "image": "https://m.media-amazon.com/images/I/51EqDxYvOML.jpg",
+      "productUrl": "https://www.amazon.in/Carbon-Brush-Eastman-Inch-New/dp/B0CW6FH1C1/ref=sr_1_235"
+    },
+    {
+      "sku": "JKE-IIYEEOBUKRBUIOKO",
+      "slug": "carbon-brush-suitable-for-ralli-wolf-sd4c",
+      "name": "Carbon Brush Suitable For Ralli Wolf SD4C",
+      "brand": "Black Duck",
+      "category": "Power Tools",
+      "price": "₹120.00",
+      "image": "https://m.media-amazon.com/images/I/61zEuPRVi7L.jpg | https://m.media-amazon.com/images/I/31tBZAxdxHL.jpg | https://m.media-amazon.com/images/I/21FzPrF8L1L.jpg | https://m.media-amazon.com/images/I/61gjvwpmknL.jpg",
+      "productUrl": "https://www.amazon.in/Blakck-Duck-Carbon-RALLi-WOLF/dp/B0B84TCD9N/ref=sr_1_45"
+    }
+  ]
+}

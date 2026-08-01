@@ -1,0 +1,26 @@
+{
+  "name": "Bhavya Enterprises",
+  "slug": "bhavya-enterprises",
+  "products": [
+    {
+      "sku": "JKE-IIYEISCMHFBVMRCQ",
+      "slug": "h-8e-straight-knives-blades-for-industrial-straight-knife-cloth-cutting-machine-suitable-for-lippu-eastman-glory-kaiseman-jack-and-taking-etc-pack-of-12",
+      "name": "H 8E Straight Knives Blades for Industrial Straight Knife Cloth Cutting Machine, suitable for Lippu, Eastman, Glory, Kaiseman, Jack and Taking etc (PACK OF 12)",
+      "brand": "Bhavya Enterprises",
+      "category": "General Hardware",
+      "price": "₹709.00",
+      "image": "https://m.media-amazon.com/images/I/31sVet96x8L.jpg | https://m.media-amazon.com/images/I/31sVet96x8L.jpg | https://m.media-amazon.com/images/I/21H5W1sHX7L.jpg | https://m.media-amazon.com/images/I/21idA5TIQSL.jpg | https://m.media-amazon.com/images/I/31Ud555kgNL.jpg",
+      "productUrl": "https://www.amazon.in/Bhavya-Enterprises-Knives-Blades-Industrial/dp/B0DHL9CVDP/ref=sr_1_199"
+    },
+    {
+      "sku": "JKE-IIYDSSCLI5JFUUBW",
+      "slug": "abrasive-belt-for-cloth-cutting-machine-8-inch-eastman-100-pcs-1-box",
+      "name": "Abrasive Belt for Cloth Cutting Machine 8 Inch Eastman (100 Pcs / 1 Box)",
+      "brand": "Bhavya Enterprises",
+      "category": "Storage & Organization",
+      "price": "₹346.00",
+      "image": "https://m.media-amazon.com/images/I/41U0V-2snjL.jpg",
+      "productUrl": "https://www.amazon.in/Bhavya-Enterprises-Abrasive-Cutting-Machine/dp/B09HKGRZP6/ref=sr_1_257"
+    }
+  ]
+}

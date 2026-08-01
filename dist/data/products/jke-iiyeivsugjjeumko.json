@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIVSUGJJEUMKO",
-  "title": "SP Electron Solar for DIY, Solar Panel 6v- 100 mah, 70mm*70mm*03mm, Solar Panel in Square Shape, 4 LEDs, 2 ON/Off Switch, 2 Meter Wire",
+  "title": "SP Electron Solar for DIY, Solar Panel 6v- 100 mah,...",
   "brand": "Generic",
-  "current_price": "₹89.00",
-  "mrp": "₹199",
+  "current_price": 89,
+  "mrp": 199,
   "product_url": "https://www.amazon.in/Electron-Solar-DIY-Square-Switch/dp/B0DVT2RJ1N/ref=sr_1_169",
   "description": "SP Electron Solar for DIY, Solar Panel 6v- 100 mah, 70mm*70mm*03mm, Solar Panel in Square Shape, 4 LEDs, 2 ON/Off Switch, 2 Meter Wire - Distributed/Packaged by Generic. Product Details: solar for DIY, solar panel 6v- 100 mah, 70mm*70mm*03mm, solar panel in square shape",
   "image_urls": [
@@ -13,26 +13,26 @@
   "image_url_1": "https://m.media-amazon.com/images/I/414OQDgxCqL.jpg | https://m.media-amazon.com/images/I/414OQDgxCqL.jpg",
   "image_url_2": "https://m.media-amazon.com/images/I/414OQDgxCqL.jpg",
   "specifications": {
-    "Material Type": "Others",
     "Brand Name": "Generic",
     "Model Number": "DIY Solar Kit",
-    "Unit Count": "1 Set",
     "Manufacturer": "SP Electron",
-    "Country of Publication": "India",
-    "Included Components": "LED, Solar, Switch, Wire",
-    "Item Weight": "190 Grams",
     "Item Type Name": "Electrical & Solar",
-    "Manufacturer Part Number": "SP-Sol-1",
     "Packer Contact Information": "SP Electron",
     "Best Sellers Rank": "#167,190 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#364 inSolar Panels",
     "ASIN": "B0DVT2RJ1N",
+    "Unit Count": "1 Set",
+    "Manufacturer Part Number": "SP-Sol-1",
+    "Included Components": "LED, Solar, Switch, Wire",
     "Item Dimensions L x W x H": "8L x 6W x 10H Centimeters",
+    "Item Weight": "190 Grams",
     "Special Features": "Portable",
-    "Output Voltage": "6 Volts"
+    "Material Type": "Others",
+    "Output Voltage": "6 Volts",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEIVSUGJJEUMKO",
-  "Name": "SP Electron Solar for DIY, Solar Panel 6v- 100 mah, 70mm*70mm*03mm, Solar Panel in Square Shape, 4 LEDs, 2 ON/Off Switch, 2 Meter Wire",
-  "Slug": "sp-electron-solar-for-diy-solar-panel-6v-100-mah-70mm70mm03mm-solar-panel-in-square-shape-4-leds-2-onoff-switch-2-meter-wire",
+  "Name": "SP Electron Solar for DIY, Solar Panel 6v- 100 mah,...",
+  "Slug": "sp-electron-solar-for-diy-solar-panel-6v-100-mah",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/414OQDgxCqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/414OQDgxCqL.jpg | https://m.media-amazon.com/images/I/414OQDgxCqL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Set",
-  "Discount": 0,
-  "SalePrice": "₹89.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 55.28,
+  "SalePrice": 89,
   "Model": "DIY Solar Kit"
 }

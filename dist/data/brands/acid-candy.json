@@ -1,0 +1,16 @@
+{
+  "name": "Acid Candy",
+  "slug": "acid-candy",
+  "products": [
+    {
+      "sku": "JKE-IIYEIOCWJY2TISZW",
+      "slug": "acidcandy-car-wash-shampoo",
+      "name": "AcidCandy Car Wash Shampoo",
+      "brand": "Acid Candy",
+      "category": "Safety & PPE",
+      "price": 0,
+      "image": "https://m.media-amazon.com/images/I/61OAATI92cL.jpg | https://m.media-amazon.com/images/I/311a-4HR1FL.jpg | https://m.media-amazon.com/images/I/51T2zh+xY5L.jpg | https://m.media-amazon.com/images/I/41wJKbvroTL.jpg | https://m.media-amazon.com/images/I/41wHNg+3STL.jpg | https://m.media-amazon.com/images/I/41diIvnkHuL.jpg | https://m.media-amazon.com/images/I/51uEUnGLWzL.jpg | https://m.media-amazon.com/images/I/51o-HL9Yx8L.jpg",
+      "productUrl": "https://www.amazon.in/Acid-Candy-AcidCandy-Wash-Shampoo/dp/B0D8VN54K6/ref=sr_1_215"
+    }
+  ]
+}

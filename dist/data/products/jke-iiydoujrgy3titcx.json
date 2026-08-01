@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDOUJRGY3TITCX",
-  "title": "Electronic Spices Solar for DIY Square shape 6V 100MA MINI SOLAR PANEL wire attached with solar (70x70x3mm)",
+  "title": "Electronic Spices Solar for DIY Square shape 6V 100MA MINI...",
   "brand": "Electronic Spices",
-  "current_price": "₹102.00",
-  "mrp": "₹199",
+  "current_price": 102,
+  "mrp": 199,
   "product_url": "https://www.amazon.in/Electronicspices-100MA-attached-Square-70x70x3/dp/B07Q1674LW/ref=sr_1_93",
   "description": "Electronic Spices Solar for DIY Square shape 6V 100MA MINI SOLAR PANEL wire attached with solar (70x70x3mm) - Distributed/Packaged by Electronic Spices. Product Details: Working models of science projects kits | High quality polycrystalline solar panel with wire attached | Output | voltage : 6V | Current range : 100mAh | Durable construction Does not require any special equipment | High quality polycrystalline solar panel | High electricity production 6V 100mA mini solar panel | Square shape: 70×70×3mm | Pre-attached wires for easy use | Easy to mount on models and prototypes",
   "image_urls": [
@@ -21,25 +21,25 @@
   "image_url_5": "https://m.media-amazon.com/images/I/41JcCe8uNBL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/41FnXJvQqRL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Electronic Spices",
-    "Included Components": "‎100MASOPAWIATWI",
-    "Item Weight": "‎10 g",
     "Item Type Name": "General",
+    "Colour": "‎Multicolor",
+    "Voltage": "‎6 Volts",
+    "Included Components": "‎100MASOPAWIATWI",
     "Brand": "‎Electronic Spices",
     "Model number": "‎ELEC100MA-12V",
-    "Colour": "‎Multicolor",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎10 g",
     "Product Dimensions": "‎7 x 7 x 3 cm; 10 g",
     "Item model number": "‎ELEC100MA-12V",
     "Item Height": "‎30 Millimeters",
     "Item Width": "‎7 Centimeters",
-    "Country of Origin": "‎India",
-    "Voltage": "‎6 Volts",
     "Specific Product Use": "‎Inside Outside"
   },
   "SKU": "JKE-IIYDOUJRGY3TITCX",
-  "Name": "Electronic Spices Solar for DIY Square shape 6V 100MA MINI SOLAR PANEL wire attached with solar (70x70x3mm)",
-  "Slug": "electronic-spices-solar-for-diy-square-shape-6v-100ma-mini-solar-panel-wire-attached-with-solar-70x70x3mm",
+  "Name": "Electronic Spices Solar for DIY Square shape 6V 100MA MINI...",
+  "Slug": "electronic-spices-solar-for-diy-square-shape-6v-100ma-mini",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41FnXJvQqRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/410WZJAtrqL.jpg | https://m.media-amazon.com/images/I/410WZJAtrqL.jpg | https://m.media-amazon.com/images/I/51khjPKsh-L.jpg | https://m.media-amazon.com/images/I/41Nx11hxDaL.jpg | https://m.media-amazon.com/images/I/41JcCe8uNBL.jpg | https://m.media-amazon.com/images/I/41FnXJvQqRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹102.00",
+  "Discount": 48.74,
+  "SalePrice": 102,
   "Country": "‎India"
 }

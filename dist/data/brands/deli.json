@@ -1,0 +1,16 @@
+{
+  "name": "Deli",
+  "slug": "deli",
+  "products": [
+    {
+      "sku": "JKE-IIYEIOJUG44DCR2E",
+      "slug": "deli-dl-sg125-e3-rotary-orbital-sander-240v-60hz-with",
+      "name": "Deli DL-SG125-E3 Rotary Orbital Sander 240V 60Hz with...",
+      "brand": "Deli",
+      "category": "Power Tools",
+      "price": 2725,
+      "image": "https://m.media-amazon.com/images/I/618ZQmNOrwL.jpg | https://m.media-amazon.com/images/I/41lBf2ksC8L.jpg | https://m.media-amazon.com/images/I/416ONYXswpL.jpg | https://m.media-amazon.com/images/I/51rKPRrN7IL.jpg | https://m.media-amazon.com/images/I/417+fAnLGAL.jpg | https://m.media-amazon.com/images/I/411Nx0O2TGL.jpg | https://m.media-amazon.com/images/I/51HlXyDKQtL.jpg",
+      "productUrl": "https://www.amazon.in/DL-SG125-E3-Orbital-12000rpm-Sander-Paper-Buffing/dp/B0D94781GD/ref=sr_1_300"
+    }
+  ]
+}

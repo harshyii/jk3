@@ -1,0 +1,16 @@
+{
+  "name": "Format:Paperback Bunko",
+  "slug": "formatpaperback-bunko",
+  "products": [
+    {
+      "sku": "JKE-HAYTSMRXGQZDMNZZ",
+      "slug": "dca-adca",
+      "name": "DCA ADCA",
+      "brand": "Format:Paperback Bunko",
+      "category": "General Hardware",
+      "price": 295,
+      "image": "https://m.media-amazon.com/images/I/71eThgQ7tDL.jpg",
+      "productUrl": "https://www.amazon.in/ADCA-Ajeet-Kumar-Pradip-Mishra/dp/8192742679/ref=sr_1_45"
+    }
+  ]
+}

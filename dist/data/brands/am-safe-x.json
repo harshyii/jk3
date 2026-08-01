@@ -1,0 +1,36 @@
+{
+  "name": "Am Safe-X",
+  "slug": "am-safe-x",
+  "products": [
+    {
+      "sku": "JKE-IIYEMTRUJBBVIWSS",
+      "slug": "am-safe-x-microfiber-cloth-for-car-500-gsm-40x40-cms-1-pcs",
+      "name": "AM Safe-X Microfiber Cloth for Car 500 GSM 40x40 cms 1 Pcs...",
+      "brand": "Am Safe-X",
+      "category": "Power Tools",
+      "price": 229,
+      "image": "https://m.media-amazon.com/images/I/61PcZrx06EL.jpg | https://m.media-amazon.com/images/I/31smYc81AtL.jpg | https://m.media-amazon.com/images/I/51UZWknbHhL.jpg | https://m.media-amazon.com/images/I/51KaMpeaNEL.jpg | https://m.media-amazon.com/images/I/51vQmY847GL.jpg | https://m.media-amazon.com/images/I/51os5dJHHKL.jpg | https://m.media-amazon.com/images/I/51gGkjqWIWL.jpg",
+      "productUrl": "https://www.amazon.in/AM-Microfiber-Absorbent-Edgeless-Detailing/dp/B0FN4HCTZR/ref=sr_1_234"
+    },
+    {
+      "sku": "JKE-IIYEMTRUJBJEWNBW",
+      "slug": "am-safe-x-premium-microfiber-cleaning-cloth-4pcs-350-gsm",
+      "name": "AM Safe-X Premium Microfiber Cleaning Cloth 4Pcs 350 GSM...",
+      "brand": "Am Safe-X",
+      "category": "Power Tools",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/81SvoH9aC8L.jpg | https://m.media-amazon.com/images/I/51KEplbvh1L.jpg | https://m.media-amazon.com/images/I/51DcP9hu+ML.jpg | https://m.media-amazon.com/images/I/51tOMIKKaVL.jpg | https://m.media-amazon.com/images/I/51vfPaJkaOL.jpg | https://m.media-amazon.com/images/I/517nP6tofNL.jpg | https://m.media-amazon.com/images/I/51jMFO1XxqL.jpg",
+      "productUrl": "https://www.amazon.in/AM-Microfiber-Absorbent-Edgeless-Detailing/dp/B0FN4HRK46/ref=sr_1_250"
+    },
+    {
+      "sku": "JKE-IIYEMS2EGJIE4UZX",
+      "slug": "am-safe-x-premium-microfiber-cleaning-cloth-1200-gsm",
+      "name": "AM Safe-X Premium Microfiber Cleaning Cloth 1200 GSM...",
+      "brand": "Am Safe-X",
+      "category": "Power Tools",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/81ATacuMdvL.jpg | https://m.media-amazon.com/images/I/41fzZjk491L.jpg | https://m.media-amazon.com/images/I/51HKR4iiHEL.jpg | https://m.media-amazon.com/images/I/51ZjHe3n-NL.jpg | https://m.media-amazon.com/images/I/51Fc7lxAbJL.jpg | https://m.media-amazon.com/images/I/51TXLrowdrL.jpg | https://m.media-amazon.com/images/I/61MoB1ZOIOL.jpg",
+      "productUrl": "https://www.amazon.in/AM-Safe-X-Microfiber-Cleaning-Cloth/dp/B0FKD2PNS7/ref=sr_1_148"
+    }
+  ]
+}

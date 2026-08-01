@@ -3,12 +3,42 @@
   "slug": "blackt-electrotech",
   "products": [
     {
+      "sku": "JKE-IIYDCTKUIQ2EWOKB",
+      "slug": "blackt-electrotech-bt31fc-fallrecessed-ceiling-mounted",
+      "name": "Blackt Electrotech BT31FC Fall/Recessed Ceiling Mounted...",
+      "brand": "Blackt Electrotech",
+      "category": "Fasteners & Hardware",
+      "price": 549,
+      "image": "https://m.media-amazon.com/images/I/61FBr11Z-OL.jpg | https://m.media-amazon.com/images/I/31xS6zcePSL.jpg | https://m.media-amazon.com/images/I/41JpDhHbLEL.jpg | https://m.media-amazon.com/images/I/41oyFkHD-JL.jpg | https://m.media-amazon.com/images/I/51CJ+cyGyJL.jpg | https://m.media-amazon.com/images/I/41goV2uaYFL.jpg | https://m.media-amazon.com/images/I/41bcreQ9CTL.jpg",
+      "productUrl": "https://www.amazon.in/Blackt-Electrotech-BT31FC-Detector-Recessed/dp/B01MTD4K9A/ref=sr_1_259"
+    },
+    {
+      "sku": "JKE-IIYDONSTKRKDOTSR",
+      "slug": "blackt-electrotech2-pic-pack-blackt-electrotech-360",
+      "name": "Blackt Electrotech(2 Pic Pack) Blackt Electrotech: 360...",
+      "brand": "Blackt Electrotech",
+      "category": "Fasteners & Hardware",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61cp7T7YAoL.jpg | https://m.media-amazon.com/images/I/31Ffn+iuMIL.jpg | https://m.media-amazon.com/images/I/519I1qnal+L.jpg | https://m.media-amazon.com/images/I/51M2+RsfifL.jpg | https://m.media-amazon.com/images/I/51UCQIsceGL.jpg | https://m.media-amazon.com/images/I/41U2UUzPDNL.jpg | https://m.media-amazon.com/images/I/31mN0LvjnPL.jpg",
+      "productUrl": "https://www.amazon.in/Blackt-Electrotech-Detector-Warranty-Ceiling/dp/B076STT7NQ/ref=sr_1_249"
+    },
+    {
+      "sku": "JKE-IIYDQR2MLFFEGOCW",
+      "slug": "blacktelectrotech-bt41p3-3-pin-plug-in-24x7-digital",
+      "name": "BlacktElectrotech BT41P3 : (3 PIN) Plug-in 24x7 Digital...",
+      "brand": "Blackt Electrotech",
+      "category": "Safety & PPE",
+      "price": 689,
+      "image": "https://m.media-amazon.com/images/I/61r+8Mee6aL.jpg | https://m.media-amazon.com/images/I/31fqFqcOkhL.jpg | https://m.media-amazon.com/images/I/41OOEe7ZS1L.jpg | https://m.media-amazon.com/images/I/4189oYs1zML.jpg | https://m.media-amazon.com/images/I/51iC8WA2SLL.jpg | https://m.media-amazon.com/images/I/51oNAdiuxUL.jpg | https://m.media-amazon.com/images/I/41NZXTEUSlL.jpg",
+      "productUrl": "https://www.amazon.in/Blackt-Electrotech-BlacktElectrotech-BT41P-Plug/dp/B08GLYJC8V/ref=sr_1_252"
+    },
+    {
       "sku": "JKE-IIYEMR2XJBGDQTBS",
-      "slug": "blackt-electrotech-bt72pm3-digital-energy-meter-plug-3-pin-230v-10a-scoket-electricity-usage-monitor-lcd-display-real-time-watts-volts-amps-kwh-cost-tracking-for-home-office-power-analyzer",
-      "name": "Blackt Electrotech BT72PM3 Digital Energy Meter Plug (3-Pin) 230V 10A Scoket Electricity Usage Monitor LCD Display – Real-Time Watts, Volts, Amps, kWh & Cost Tracking for Home & Office Power Analyzer",
+      "slug": "blackt-electrotech-bt72pm3-digital-energy-meter-plug",
+      "name": "Blackt Electrotech BT72PM3 Digital Energy Meter Plug...",
       "brand": "Blackt Electrotech",
       "category": "Electrical & Wiring",
-      "price": "₹949.00",
+      "price": 949,
       "image": "https://m.media-amazon.com/images/I/51ZpVxeiHNL.jpg | https://m.media-amazon.com/images/I/31cMYMW0q2L.jpg | https://m.media-amazon.com/images/I/51BObsu1xKL.jpg | https://m.media-amazon.com/images/I/41R+Rv66uUL.jpg | https://m.media-amazon.com/images/I/51HqlcGKLfL.jpg | https://m.media-amazon.com/images/I/41pMAgU3FfL.jpg | https://m.media-amazon.com/images/I/511hUZCGYlL.jpg | https://m.media-amazon.com/images/I/51AJidN1d7L.jpg",
       "productUrl": "https://www.amazon.in/Blackt-Electrotech-BT72PM3-Digital-Energy/dp/B0FGWHL8L2/ref=sr_1_208"
     }

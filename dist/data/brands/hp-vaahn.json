@@ -1,0 +1,36 @@
+{
+  "name": "Hp Vaahn",
+  "slug": "hp-vaahn",
+  "products": [
+    {
+      "sku": "JKE-IIYEOVCWKZIUMWRX",
+      "slug": "hp-vaahn-car-wax-polish-500ml-high-gloss-liquid-wax-for",
+      "name": "HP Vaahn Car Wax Polish - 500ml | High Gloss Liquid Wax for...",
+      "brand": "Hp Vaahn",
+      "category": "Power Tools",
+      "price": 387,
+      "image": "https://m.media-amazon.com/images/I/61Ad9pgR8GL.jpg | https://m.media-amazon.com/images/I/31g09g4880L.jpg | https://m.media-amazon.com/images/I/41GE+AzAtEL.jpg | https://m.media-amazon.com/images/I/51ccp6mIGZL.jpg | https://m.media-amazon.com/images/I/51h1-n02X5L.jpg | https://m.media-amazon.com/images/I/51GuxPKieAL.jpg | https://m.media-amazon.com/images/I/518vkuwhL6L.jpg",
+      "productUrl": "https://www.amazon.in/HP-Vaahn-Car-Wax-Polish/dp/B0GTVVQFZ7/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-IIYEMOJZJQ3UQWKI",
+      "slug": "hp-vaahn-car-glass-cleaner-250-ml-anti-fog-spray-for",
+      "name": "HP Vaahn Car Glass Cleaner - 250 Ml | Anti-Fog Spray for...",
+      "brand": "Hp Vaahn",
+      "category": "Power Tools",
+      "price": 193,
+      "image": "https://m.media-amazon.com/images/I/515NyMK1dmL.jpg | https://m.media-amazon.com/images/I/31sHOsfboqL.jpg | https://m.media-amazon.com/images/I/81YilD3FOYL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51zdoNBI61L.jpg | https://m.media-amazon.com/images/I/51UAa4EivfL.jpg | https://m.media-amazon.com/images/I/51pKsASkXpL.jpg | https://m.media-amazon.com/images/I/51ozVb25tlL.jpg | https://m.media-amazon.com/images/I/51FfX8FDmhL.jpg",
+      "productUrl": "https://www.amazon.in/HP-Vaahn-Car-Glass-Cleaner/dp/B0F99L7HYH/ref=sr_1_192"
+    },
+    {
+      "sku": "JKE-IIYEMQSCG5LFEOBY",
+      "slug": "hp-vaahn-scratch-remover-100ml-removes-light-scratches",
+      "name": "HP Vaahn Scratch Remover – 100ml | Removes Light Scratches...",
+      "brand": "Hp Vaahn",
+      "category": "Power Tools",
+      "price": 284,
+      "image": "https://m.media-amazon.com/images/I/61OSiHZQ--L.jpg | https://m.media-amazon.com/images/I/3103y2GKuxL.jpg | https://m.media-amazon.com/images/I/51+4cXlphSL.jpg | https://m.media-amazon.com/images/I/519hrOYBwEL.jpg | https://m.media-amazon.com/images/I/51p8446fUCL.jpg | https://m.media-amazon.com/images/I/51yWPoL8beL.jpg | https://m.media-amazon.com/images/I/4139h2cxg6L.jpg",
+      "productUrl": "https://www.amazon.in/HP-Vaahn-Scratch-Remover-Application/dp/B0FBB7VR88/ref=sr_1_165_mod_primary_new"
+    }
+  ]
+}

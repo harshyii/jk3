@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDATSCGBCVSWCB",
   "title": "Taparia TCS10 Metal Cutter (Pack of 1), Multicolour",
   "brand": "Taparia",
-  "current_price": "₹452.00",
-  "mrp": "₹456",
+  "current_price": 452,
+  "mrp": 456,
   "product_url": "https://www.amazon.in/Taparia-TCS-10-TCS10-Cutter/dp/B00NB0EYXA/ref=sr_1_99",
   "description": "Taparia TCS10 Metal Cutter (Pack of 1), Multicolour - Distributed/Packaged by Taparia. Product Details: nan",
   "image_urls": [
@@ -21,13 +21,13 @@
   "specifications": {
     "Manufacturer": "‎Taparia",
     "Item Type Name": "General",
-    "Color": "‎Multicolour",
-    "Item Model Number": "‎TCS 10",
     "Item Part Number": "‎TCS 10",
+    "Color": "‎Multicolour",
+    "Shipping Weight": "‎0.46 Kilograms",
+    "Item Model Number": "‎TCS 10",
     "Primary material": "‎iron",
     "Capacity": "‎Standard",
     "What is in the box?": "‎1 Metal Cutter",
-    "Shipping Weight": "‎0.46 Kilograms",
     "Weight": "‎540 Grams"
   },
   "SKU": "JKE-IIYDATSCGBCVSWCB",
@@ -43,8 +43,8 @@
     "https://m.media-amazon.com/images/I/41H9lbCbYLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ScMSMZkGL.jpg | https://m.media-amazon.com/images/I/311pD7xWtDL.jpg | https://m.media-amazon.com/images/I/41omdLd2fvL.jpg | https://m.media-amazon.com/images/I/41H9lbCbYLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹452.00"
+  "Discount": 0.88,
+  "SalePrice": 452
 }

@@ -1,0 +1,36 @@
+{
+  "name": "Reo",
+  "slug": "reo",
+  "products": [
+    {
+      "sku": "JKE-IIYDQNRRKFDUYS2D",
+      "slug": "reo-by-havells-150-sqmm-copper-wire-90-meter-black",
+      "name": "REO by Havells | 1.50 sqmm Copper Wire (90 meter -Black)|...",
+      "brand": "Reo",
+      "category": "Electrical & Wiring",
+      "price": 2364,
+      "image": "https://m.media-amazon.com/images/I/61wTCJ5unvL.jpg | https://m.media-amazon.com/images/I/41FtPDdJPJL.jpg | https://m.media-amazon.com/images/I/41mG6oMyFUL.jpg | https://m.media-amazon.com/images/I/41Rthson05L.jpg | https://m.media-amazon.com/images/I/41nwuVunahL.jpg",
+      "productUrl": "https://www.amazon.in/REO-Havells-1-0-SQMM-Black/dp/B0861QGLKC/ref=sr_1_5"
+    },
+    {
+      "sku": "JKE-IIYDQNRRKA2EYUSO",
+      "slug": "reo-by-havells-10-sqmm-copper-wire-90-meter-black",
+      "name": "REO by Havells | 10 sqmm Copper Wire (90 meter -Black)|...",
+      "brand": "Reo",
+      "category": "Electrical & Wiring",
+      "price": 17133,
+      "image": "https://m.media-amazon.com/images/I/61wTCJ5unvL.jpg | https://m.media-amazon.com/images/I/41FtPDdJPJL.jpg | https://m.media-amazon.com/images/I/41mG6oMyFUL.jpg | https://m.media-amazon.com/images/I/41Rthson05L.jpg | https://m.media-amazon.com/images/I/41nwuVunahL.jpg",
+      "productUrl": "https://www.amazon.in/REO-Insulated-Conductor-Unsheathed-Flexible/dp/B0861P4LRN/ref=sr_1_52"
+    },
+    {
+      "sku": "JKE-IIYDQNRRKE2EENJZ",
+      "slug": "reo-by-havells-10-sqmm-copper-wire-90-meter-yellow",
+      "name": "REO by Havells | 1.0 sqmm Copper Wire (90 meter -Yellow)|...",
+      "brand": "Reo",
+      "category": "Electrical & Wiring",
+      "price": 2319,
+      "image": "https://m.media-amazon.com/images/I/61CahZqD3BL.jpg | https://m.media-amazon.com/images/I/41f2Qks7BiL.jpg | https://m.media-amazon.com/images/I/41mG6oMyFUL.jpg | https://m.media-amazon.com/images/I/41Rthson05L.jpg | https://m.media-amazon.com/images/I/41nwuVunahL.jpg",
+      "productUrl": "https://www.amazon.in/REO-Havells-1-0-SQMM-Yellow/dp/B0861Q4B59/ref=sr_1_24"
+    }
+  ]
+}

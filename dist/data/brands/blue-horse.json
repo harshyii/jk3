@@ -1,0 +1,16 @@
+{
+  "name": "Blue Horse",
+  "slug": "blue-horse",
+  "products": [
+    {
+      "sku": "JKE-IIYEINRTIM3VOOKX",
+      "slug": "blue-horse-premium-wash-wax-car-wash-shampoo-1500ml",
+      "name": "BLUE HORSE PREMIUM WASH & WAX| CAR WASH SHAMPOO| (1500ml)",
+      "brand": "Blue Horse",
+      "category": "Power Tools",
+      "price": 600,
+      "image": "https://m.media-amazon.com/images/I/71VZxU-oaZL.jpg | https://m.media-amazon.com/images/I/41TjXEe43aL.jpg | https://m.media-amazon.com/images/I/61VboitL9IL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41FKJ2ouBBL.jpg | https://m.media-amazon.com/images/I/41CQxcukCZL.jpg | https://m.media-amazon.com/images/I/51cMN35s0RL.jpg | https://m.media-amazon.com/images/I/51Izg4kfbUL.jpg",
+      "productUrl": "https://www.amazon.in/BLUE-HORSE-PREMIUM-SHAMPOO-1500ml/dp/B0D63C7W9W/ref=sr_1_276"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Ph Pandahall",
+  "slug": "ph-pandahall",
+  "products": [
+    {
+      "sku": "JKE-IIYDOUCYHEZFSWCU",
+      "slug": "pandahall-656-feet-aluminum-wire-flexible-08mm20gauge",
+      "name": "Pandahall 65.6 Feet Aluminum Wire Flexible 0.8mm/20gauge...",
+      "brand": "Ph Pandahall",
+      "category": "Measuring & Layout",
+      "price": 285,
+      "image": "https://m.media-amazon.com/images/I/618-G+M5HTL.jpg | https://m.media-amazon.com/images/I/41X0i4AhgnL.jpg | https://m.media-amazon.com/images/I/41RWCxkBeRS.jpg | https://m.media-amazon.com/images/I/41tJe+Qy1IS.jpg | https://m.media-amazon.com/images/I/51Xt0ppfVxS.jpg | https://m.media-amazon.com/images/I/410p5CuK-tS.jpg | https://m.media-amazon.com/images/I/51a-+mnz0SS.jpg | https://m.media-amazon.com/images/I/41B-od7T2RL.jpg",
+      "productUrl": "https://www.amazon.in/Pandahall-Aluminum-Flexible-20gauge-Artistic/dp/B07PX92YXT/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-IIYDOUCZIQ4UUTCY",
+      "slug": "pandahall-328-feet-aluminum-wire-flexible-15mm15gauge",
+      "name": "Pandahall 32.8 Feet Aluminum Wire Flexible 1.5mm/15gauge...",
+      "brand": "Ph Pandahall",
+      "category": "Measuring & Layout",
+      "price": 119,
+      "image": "https://m.media-amazon.com/images/I/612nL6poUxL.jpg | https://m.media-amazon.com/images/I/41W3D62b6GL.jpg | https://m.media-amazon.com/images/I/412W5cSpQrL.jpg | https://m.media-amazon.com/images/I/41G8M1ycHuL.jpg | https://m.media-amazon.com/images/I/51t6SY6FktL.jpg | https://m.media-amazon.com/images/I/511b7d7N-hL.jpg | https://m.media-amazon.com/images/I/41HMCvmJnOL.jpg | https://m.media-amazon.com/images/I/41B-od7T2RL.jpg",
+      "productUrl": "https://www.amazon.in/Pandahall-Aluminum-Flexible-15gauge-Artistic/dp/B07PYD9JLX/ref=sr_1_57"
+    }
+  ]
+}

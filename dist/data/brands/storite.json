@@ -1,0 +1,36 @@
+{
+  "name": "Storite",
+  "slug": "storite",
+  "products": [
+    {
+      "sku": "JKE-IIYEMMRWGEYVQRRV",
+      "slug": "storite-35-cm-usb-30-a-to-micro-b-cable-black-high",
+      "name": "Storite 35 CM USB 3.0 A to Micro B Cable, Black | High...",
+      "brand": "Storite",
+      "category": "Electrical & Wiring",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/51LtyK3JFAL.jpg | https://m.media-amazon.com/images/I/31EgULV+o+L.jpg | https://m.media-amazon.com/images/I/41SURqaxCZL.jpg | https://m.media-amazon.com/images/I/31yOvEkYv7L.jpg | https://m.media-amazon.com/images/I/415Su2ez3cL.jpg | https://m.media-amazon.com/images/I/41969j3tfGL.jpg | https://m.media-amazon.com/images/I/412MBEHvWcL.jpg",
+      "productUrl": "https://www.amazon.in/Storite-USB-3-0-Cable-Micro/dp/B0F2611XF5/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEEQSGJVDDCNKD",
+      "slug": "storite-15-meter-2-pin-90-degree-power-cord-cable-black-",
+      "name": "Storite 1.5 Meter 2 Pin 90 Degree Power Cord Cable, Black |...",
+      "brand": "Storite",
+      "category": "Measuring & Layout",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/81GmBNc8PxL.jpg | https://m.media-amazon.com/images/I/41SgYCk4r9L.jpg | https://m.media-amazon.com/images/I/51410ykknaL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51fhqpvIvtL.jpg | https://m.media-amazon.com/images/I/51LzcuniBmL.jpg | https://m.media-amazon.com/images/I/41I6C7EVJGL.jpg | https://m.media-amazon.com/images/I/51Ztbfgz7DL.jpg | https://m.media-amazon.com/images/I/41SAKcdUptL.jpg",
+      "productUrl": "https://www.amazon.in/Storite-Adapter-Printer-1-5-Meter/dp/B0BBFMF15C/ref=sr_1_258"
+    },
+    {
+      "sku": "JKE-IIYEIOCZGZJFONCI",
+      "slug": "storite-15m-2-pin-l-shape-universal-replacement-ac-power",
+      "name": "Storite 1.5M 2-pin L-Shape Universal Replacement AC Power...",
+      "brand": "Storite",
+      "category": "Electrical & Wiring",
+      "price": 238,
+      "image": "https://m.media-amazon.com/images/I/71M-eSiRZAL.jpg | https://m.media-amazon.com/images/I/41kIgVsgmZL.jpg | https://m.media-amazon.com/images/I/51-fpohMumL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41I6EYXVgQL.jpg | https://m.media-amazon.com/images/I/41v8juduo5L.jpg | https://m.media-amazon.com/images/I/41jz6N0YStL.jpg | https://m.media-amazon.com/images/I/51EYaAmCQZL.jpg | https://m.media-amazon.com/images/I/41BJ-PWGcrL.jpg",
+      "productUrl": "https://www.amazon.in/Storite-Universal-Replacement-Notebook-Computer/dp/B0D8Y6RW4H/ref=sr_1_98"
+    }
+  ]
+}

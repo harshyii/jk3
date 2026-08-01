@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDAN2JIFAUKVCD",
   "title": "Midnite Solar MNEDC250 Panel Mount Breaker - 250 Amp",
   "brand": "Midnite Solar",
-  "current_price": "₹25,090.01",
-  "mrp": "₹40,144.02",
+  "current_price": 25090.01,
+  "mrp": 40144.02,
   "product_url": "https://www.amazon.in/Midnite-Solar-MNEDC250-Panel-Breaker/dp/B007IAAETC/ref=sr_1_74",
   "rating": "4.94.9 out of 5 stars(13)4.9 out of 5 stars",
   "description": "Midnite Solar MNEDC250 Panel Mount Breaker - 250 Amp - Distributed/Packaged by Midnite Solar. Product Details: Midnite Solar, Circuit Breaker, Panel Mount, 250A, 125VDC, 1-Pole, 1.5\" Wide, 3/8\" Studs, MNEDC250 All MidNite circuit breakers are rated for 100% continuous duty. Midnight’s breakers are rated to break the full rated load at the rated voltage repeatedly, with NO DAMAGE. Always use a properly sized breaker for disconnecting.",
@@ -24,13 +24,13 @@
   "specifications": {
     "Brand Name": "MidNite Solar",
     "Model Number": "MNEDC250",
+    "Country of Origin": "USA",
     "Manufacturer": "MIDNITE SOLAR",
     "Item Type Name": "General",
     "ASIN": "B007IAAETC",
     "Customer Reviews": "4.94.9 out of 5 stars(13)4.9 out of 5 stars",
-    "Country of Origin": "USA",
-    "Part Number": "MNEDC250",
     "Mounting Type": "Panel Mount",
+    "Part Number": "MNEDC250",
     "Current Rating": "250 Amps",
     "Number of Poles": 1,
     "Circuit Breaker Type": "Standard"
@@ -49,10 +49,10 @@
     "https://m.media-amazon.com/images/I/41Muol4t9LL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71GjkZIWHeL.jpg | https://m.media-amazon.com/images/I/41y0GTJRLuL.jpg | https://m.media-amazon.com/images/I/41mgBqqiTXL.jpg | https://m.media-amazon.com/images/I/41-6iltpQfL.jpg | https://m.media-amazon.com/images/I/41Muol4t9LL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹25,090.01",
+  "Discount": 37.5,
+  "SalePrice": 25090.01,
   "Model": "MNEDC250",
   "Country": "USA"
 }

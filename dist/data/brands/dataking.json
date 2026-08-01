@@ -1,0 +1,36 @@
+{
+  "name": "Dataking",
+  "slug": "dataking",
+  "products": [
+    {
+      "sku": "JKE-IIYDONJXJQ4TSNRX",
+      "slug": "dataking-polypropylene-swing-file-with-sheetshort-clip",
+      "name": "DataKing Polypropylene Swing File with Sheet+Short Clip,...",
+      "brand": "Dataking",
+      "category": "Abrasives & Finishing",
+      "price": 387,
+      "image": "https://m.media-amazon.com/images/I/512SO2nr7pL.jpg | https://m.media-amazon.com/images/I/313+h5S5L-L.jpg | https://m.media-amazon.com/images/I/31fLCbtIwqL.jpg | https://m.media-amazon.com/images/I/41nnCjAGHwL.jpg",
+      "productUrl": "https://www.amazon.in/DataKing-Polypropylene-Swing-Sheet-Short/dp/B0757L9967/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-IIYDCRJTKRIFQVBW",
+      "slug": "dataking-spring-cobra-file-set-of-3-free-delivery-size",
+      "name": "DataKing Spring Cobra File, Set of 3, Free Delivery, Size:...",
+      "brand": "Dataking",
+      "category": "Abrasives & Finishing",
+      "price": 467.1,
+      "image": "https://m.media-amazon.com/images/I/61WotPgoanL.jpg | https://m.media-amazon.com/images/I/31j0k6yCNkL.jpg | https://m.media-amazon.com/images/I/31A3Yx3nOOL.jpg",
+      "productUrl": "https://www.amazon.in/DataKing-SPRING-COBRA-FILE-Delivery/dp/B01E3TPXT6/ref=sr_1_59"
+    },
+    {
+      "sku": "JKE-IIYDONJXJQYTQNCM",
+      "slug": "dataking-polypropylene-swing-file-with-sheetshort-clip",
+      "name": "DataKing Polypropylene Swing File with Sheet+Short Clip,...",
+      "brand": "Dataking",
+      "category": "Abrasives & Finishing",
+      "price": 387,
+      "image": "https://m.media-amazon.com/images/I/61yBLzltuaL.jpg | https://m.media-amazon.com/images/I/31KYlSMHkIL.jpg | https://m.media-amazon.com/images/I/31twTFWC-JL.jpg | https://m.media-amazon.com/images/I/41O1zN39yYL.jpg",
+      "productUrl": "https://www.amazon.in/DataKing-Polypropylene-Swing-Sheet-Short/dp/B0757L184L/ref=sr_1_49"
+    }
+  ]
+}

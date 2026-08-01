@@ -1,0 +1,26 @@
+{
+  "name": "Fnp",
+  "slug": "fnp",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNSNIQZE4RZY",
+      "slug": "fnp-mothers-day-ceramic-coffee-mug-everyday-is-mothers",
+      "name": "fnp Mother’s Day Ceramic Coffee Mug | Everyday is Mother’s...",
+      "brand": "Fnp",
+      "category": "Storage & Organization",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/41FyZWP1SgL.jpg | https://m.media-amazon.com/images/I/41FyZWP1SgL.jpg | https://m.media-amazon.com/images/I/41JqIbVgVxL.jpg | https://m.media-amazon.com/images/I/41y2ARlFOXL.jpg",
+      "productUrl": "https://www.amazon.in/fnp-Mothers-Ceramic-Everyday-Printed/dp/B0H6MD2NG8/ref=sr_1_159"
+    },
+    {
+      "sku": "JKE-IIYEQNSNJRIVUMSH",
+      "slug": "fnp-mothers-day-cork-base-ceramic-mug-for-mom-white",
+      "name": "fnp Mother’s Day Cork Base Ceramic Mug for Mom | White...",
+      "brand": "Fnp",
+      "category": "Measuring & Layout",
+      "price": 449,
+      "image": "https://m.media-amazon.com/images/I/41ra6yNtszL.jpg | https://m.media-amazon.com/images/I/41ra6yNtszL.jpg | https://m.media-amazon.com/images/I/41JWtpfRfkL.jpg | https://m.media-amazon.com/images/I/11TZCd1lQYL.jpg",
+      "productUrl": "https://www.amazon.in/fnp-Cork-Mug-Birthday-Occasions/dp/B0H6MLQZ2G/ref=sr_1_204"
+    }
+  ]
+}

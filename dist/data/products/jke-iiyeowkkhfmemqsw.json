@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOWKKHFMEMQSW",
-  "title": "Tool Kit Tool Kit for Home Use Tools Kit Spanner Set Socket Set Wrench Set Tools Set Hand Tools Bike Tool Kit Set Socket Wrench Set Spanner Set All Size Tool Kit Goti Pana Set, Box End",
+  "title": "Tool Kit Tool Kit for Home Use Tools Kit Spanner Set Socket...",
   "brand": "Generic",
-  "current_price": "₹379.00",
-  "mrp": "₹799",
+  "current_price": 379,
+  "mrp": 799,
   "product_url": "https://www.amazon.in/Tool-Tools-Spanner-Socket-Wrench/dp/B0GYJ9XFBV/ref=sr_1_62",
   "description": "Tool Kit Tool Kit for Home Use Tools Kit Spanner Set Socket Set Wrench Set Tools Set Hand Tools Bike Tool Kit Set Socket Wrench Set Spanner Set All Size Tool Kit Goti Pana Set, Box End - Distributed/Packaged by Generic. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41RGqoftemL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41ndyraryTL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎DFGH",
     "Item Type Name": "General",
     "ASIN": "‎B0GYJ9XFBV",
     "Product Dimensions": "‎15 x 15 x 15 cm; 300 g",
-    "Country of Origin": "‎India",
     "Item part number": "‎tOOL548"
   },
   "SKU": "JKE-IIYEOWKKHFMEMQSW",
-  "Name": "Tool Kit Tool Kit for Home Use Tools Kit Spanner Set Socket Set Wrench Set Tools Set Hand Tools Bike Tool Kit Set Socket Wrench Set Spanner Set All Size Tool Kit Goti Pana Set, Box End",
-  "Slug": "tool-kit-tool-kit-for-home-use-tools-kit-spanner-set-socket-set-wrench-set-tools-set-hand-tools-bike-tool-kit-set-socket-wrench-set-spanner-set-all-size-tool-kit-goti-pana-set-box-end",
+  "Name": "Tool Kit Tool Kit for Home Use Tools Kit Spanner Set Socket...",
+  "Slug": "tool-kit-tool-kit-for-home-use-tools-kit-spanner-set-socket",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41ndyraryTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71m7PNbXe1L.jpg | https://m.media-amazon.com/images/I/51WdBf2mhuL.jpg | https://m.media-amazon.com/images/I/61XoDL2JPXL.jpg | https://m.media-amazon.com/images/I/51edPuzw-hL.jpg | https://m.media-amazon.com/images/I/51Cx76gcVPL.jpg | https://m.media-amazon.com/images/I/41RGqoftemL.jpg | https://m.media-amazon.com/images/I/41ndyraryTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹379.00",
+  "Discount": 52.57,
+  "SalePrice": 379,
   "Country": "‎India"
 }

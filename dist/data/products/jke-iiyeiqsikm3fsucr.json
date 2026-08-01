@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIQSIKM3FSUCR",
-  "title": "Vincentvolt Polycrystalline Mini Epoxy Solar Panel, 80mm Diameter, 6V, 80mAh, Circle Shape",
+  "title": "Vincentvolt Polycrystalline Mini Epoxy Solar Panel, 80mm...",
   "brand": "Vincentvolt",
-  "current_price": "₹134.00",
-  "mrp": "₹299",
+  "current_price": 134,
+  "mrp": 299,
   "product_url": "https://www.amazon.in/Vincentvolt-Polycrystalline-80mm-Diameter-Circle/dp/B0DBHS6YPQ/ref=sr_1_133",
   "description": "Vincentvolt Polycrystalline Mini Epoxy Solar Panel, 80mm Diameter, 6V, 80mAh, Circle Shape - Distributed/Packaged by Vincentvolt. Product Details: Harness the power of the sun with this compact and efficient 80mm diameter 6V 80mAh circle-shaped polycrystalline mini epoxy solar panel. Designed to capture solar energy and convert it into electrical energy, this tiny yet mighty panel is perfect for powering small electronics, charging batteries, or even serving as an educational tool for learning about renewable energy. Made with durable epoxy resin and featuring a polycrystalline silicon construction, this solar panel is built to withstand the elements and provide reliable performance. Measuring just 80mm (approximately 3.15 inches) in diameter, it can easily be integrated into a variety of projects or mounted on surfaces where space is limited. Whether you're an eco-conscious hobbyist, a DIY enthusiast, or an educator looking to introduce sustainable energy concepts, this mini epoxy solar panel offers a compact and efficient solution for harnessing the sun's abundant energy. Embrace the future of renewable power with this versatile and environmentally friendly solar panel.",
   "image_urls": [
@@ -21,26 +21,26 @@
   "image_url_5": "https://m.media-amazon.com/images/I/312YvztOFyL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/31DCxAcGnlL.jpg",
   "specifications": {
-    "Material Type": "Polycrystalline Silicon",
     "Brand Name": "Vincentvolt",
     "Model Number": "80mm",
-    "Unit Count": "1 Count",
     "Manufacturer": "Vincentvolt",
-    "Country of Publication": "India",
-    "Included Components": "One Solar panel",
-    "Item Weight": "50 Grams",
     "Item Type Name": "Electrical & Solar",
     "Packer Contact Information": "Vincentvolt, D-2, 445, Hari nagar extension part -3, badarpur, New Delhi - 110044. Contact - 9205957280 Email - Vincentvolt00@gmail.com",
     "ASIN": "B0DBHS6YPQ",
-    "Item Dimensions L x W x H": "80L x 80W x 2H Centimeters",
+    "Unit Count": "1 Count",
     "Connector Type": "USB",
+    "Included Components": "One Solar panel",
+    "Item Dimensions L x W x H": "80L x 80W x 2H Centimeters",
+    "Item Weight": "50 Grams",
+    "Material Type": "Polycrystalline Silicon",
     "Efficiency": "High Efficiency",
-    "Maximum Voltage": "6 Volts",
-    "Upper Temperature Rating": "100 Degrees Fahrenheit"
+    "Country of Publication": "India",
+    "Upper Temperature Rating": "100 Degrees Fahrenheit",
+    "Maximum Voltage": "6 Volts"
   },
   "SKU": "JKE-IIYEIQSIKM3FSUCR",
-  "Name": "Vincentvolt Polycrystalline Mini Epoxy Solar Panel, 80mm Diameter, 6V, 80mAh, Circle Shape",
-  "Slug": "vincentvolt-polycrystalline-mini-epoxy-solar-panel-80mm-diameter-6v-80mah-circle-shape",
+  "Name": "Vincentvolt Polycrystalline Mini Epoxy Solar Panel, 80mm...",
+  "Slug": "vincentvolt-polycrystalline-mini-epoxy-solar-panel-80mm",
   "Category": "General Hardware",
   "Subcategory1": "Other",
   "Images": [
@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31DCxAcGnlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Xscv-3OdL.jpg | https://m.media-amazon.com/images/I/31HS0jfGwGL.jpg | https://m.media-amazon.com/images/I/31vAE+JkhYL.jpg | https://m.media-amazon.com/images/I/312YvztOFyL.jpg | https://m.media-amazon.com/images/I/31DCxAcGnlL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹134.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 55.18,
+  "SalePrice": 134,
   "Model": "80mm"
 }

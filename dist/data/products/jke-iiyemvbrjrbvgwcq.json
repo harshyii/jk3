@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEMVBRJRBVGWCQ",
-  "title": "4-Piece Combo: 1 Combination Plier, 1 Wire Stripper, 1 Line Tester, 2-in-1 Screwdriver",
+  "title": "4-Piece Combo: 1 Combination Plier, 1 Wire Stripper, 1 Line...",
   "brand": "Perwal Supreme",
-  "current_price": "₹271.00",
-  "mrp": "₹1,699",
+  "current_price": 271,
+  "mrp": 1699,
   "product_url": "https://www.amazon.in/PERWAL-SUPREME-4-Piece-Combo-Combination/dp/B0FT1LCSXP/ref=sr_1_157",
   "rating": "4.34.3 out of 5 stars(43)4.3 out of 5 stars",
   "description": "4-Piece Combo: 1 Combination Plier, 1 Wire Stripper, 1 Line Tester, 2-in-1 Screwdriver - Distributed/Packaged by Perwal Supreme. Product Details: nan",
@@ -24,28 +24,28 @@
   "image_url_6": "https://m.media-amazon.com/images/I/31cvQ8+9tHL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/31UfkyMEFPL.jpg",
   "specifications": {
-    "Material Type": "Alloy Steel, Plastic",
     "Brand Name": "PERWAL SUPREME",
+    "Model Name": "NPS_-41",
+    "Number of Items": 4,
     "Manufacturer": "PERWAL SUPREME, PERWAL SUPREME 9024316224",
-    "Country of Publication": "India",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "NPS_-41",
+    "Manufacturer Contact Information": "PERWAL SUPREME 9024316224",
     "Packer Contact Information": "PERWAL SUPREME 9024316224",
     "Best Sellers Rank": "#1,933 in Home Improvement (See Top 100 in Home Improvement)#29 inScrewdriver Sets",
     "ASIN": "B0FT1LCSXP",
     "Customer Reviews": "4.34.3 out of 5 stars(43)4.3 out of 5 stars",
     "Colour": "Multicolour",
-    "Head Style": "Torx",
-    "Manufacturer Contact Information": "PERWAL SUPREME 9024316224",
+    "Manufacturer Part Number": "NPS_-41",
     "UPC": "746184590721",
     "Item Dimensions": "22 x 5 x 3 Centimeters",
-    "Number of Items": 4,
+    "Material Type": "Alloy Steel, Plastic",
     "Recommended Uses For Product": "Assembling/Dissembling Furniture, Woodworking Projects, General Household Maintenance, DIY Tasks",
-    "Model Name": "NPS_-41"
+    "Country of Publication": "India",
+    "Head Style": "Torx"
   },
   "SKU": "JKE-IIYEMVBRJRBVGWCQ",
-  "Name": "4-Piece Combo: 1 Combination Plier, 1 Wire Stripper, 1 Line Tester, 2-in-1 Screwdriver",
-  "Slug": "4-piece-combo-1-combination-plier-1-wire-stripper-1-line-tester-2-in-1-screwdriver",
+  "Name": "4-Piece Combo: 1 Combination Plier, 1 Wire Stripper, 1 Line...",
+  "Slug": "4-piece-combo-1-combination-plier-1-wire-stripper-1-line",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -58,8 +58,8 @@
     "https://m.media-amazon.com/images/I/31UfkyMEFPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/613Od-IZPmL.jpg | https://m.media-amazon.com/images/I/41iu8hOVbuL.jpg | https://m.media-amazon.com/images/I/41mVbcUkTNL.jpg | https://m.media-amazon.com/images/I/41TI5x0L8HL.jpg | https://m.media-amazon.com/images/I/31cvQ8+9tHL.jpg | https://m.media-amazon.com/images/I/31UfkyMEFPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹271.00"
+  "Discount": 84.05,
+  "SalePrice": 271
 }

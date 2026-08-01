@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEMUCGJVBFGWSK",
-  "title": "WAAREE Radiance 3.2 kW On-Grid DCR Solar Kit/Single Phase, Bifacial TOPCon Panels, Inverter, AC/DC Distribution Boxes,PM Surya Ghar Muft Bijli Yojana Eligible, Complete All-in-One Solution",
+  "title": "WAAREE Radiance 3.2 kW On-Grid DCR Solar Kit/Single Phase,...",
   "brand": "Waaree",
-  "current_price": "₹65,900.00",
+  "current_price": 65900,
   "mrp": 0,
   "product_url": "https://www.amazon.in/WAAREE-Radiance-Bifacial-Inverter-Distribution/dp/B0FPFMBSZJ/ref=sr_1_42",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -28,17 +28,17 @@
   "specifications": {
     "Brand Name": "WAAREE",
     "Model Number": "3KW Radiance SOLAR KIT",
-    "Unit Count": "1 Set",
     "Manufacturer": "WAAREE Energies Ltd, New Survey no. 1928 Village Degam, Taluka, Chikhli, Gujarat 396530",
     "Item Type Name": "General",
     "Best Sellers Rank": "#158,018 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#349 inSolar Panels",
     "ASIN": "B0FPFMBSZJ",
     "Customer Reviews": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
+    "Unit Count": "1 Set",
     "Maximum Power": "3200 Watts"
   },
   "SKU": "JKE-IIYEMUCGJVBFGWSK",
-  "Name": "WAAREE Radiance 3.2 kW On-Grid DCR Solar Kit/Single Phase, Bifacial TOPCon Panels, Inverter, AC/DC Distribution Boxes,PM Surya Ghar Muft Bijli Yojana Eligible, Complete All-in-One Solution",
-  "Slug": "waaree-radiance-32-kw-on-grid-dcr-solar-kitsingle-phase-bifacial-topcon-panels-inverter-acdc-distribution-boxespm-surya-ghar-muft-bijli-yojana-eligible-complete-all-in-one-solution",
+  "Name": "WAAREE Radiance 3.2 kW On-Grid DCR Solar Kit/Single Phase,...",
+  "Slug": "waaree-radiance-32-kw-on-grid-dcr-solar-kitsingle-phase",
   "Category": "Safety & PPE",
   "Subcategory1": "High Visibility",
   "Images": [
@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41y0Dc+N6YL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71vebngs2pL.jpg | https://m.media-amazon.com/images/I/4163p5tpzgL.jpg | https://m.media-amazon.com/images/I/516cxGNnovL.jpg | https://m.media-amazon.com/images/I/519IbN9zGAL.jpg | https://m.media-amazon.com/images/I/51IH3Y8UkTL.jpg | https://m.media-amazon.com/images/I/4165JFTrz-L.jpg | https://m.media-amazon.com/images/I/41y0Dc+N6YL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Set",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹65,900.00",
+  "SalePrice": 65900,
   "Model": "3KW Radiance SOLAR KIT"
 }

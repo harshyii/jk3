@@ -1,0 +1,46 @@
+{
+  "name": "Ybn",
+  "slug": "ybn",
+  "products": [
+    {
+      "sku": "JKE-IIYEEV2SKBHFQS2S",
+      "slug": "ybn-spring-file-file-folders-for-office-schools-colleges",
+      "name": "YBN Spring File, File Folders For Office, Schools, Colleges...",
+      "brand": "Ybn",
+      "category": "Abrasives & Finishing",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/41avAHnRaIL.jpg | https://m.media-amazon.com/images/I/31zC9kkn41L.jpg | https://m.media-amazon.com/images/I/31HeBrizSYL.jpg | https://m.media-amazon.com/images/I/31c0RBQSwQL.jpg",
+      "productUrl": "https://www.amazon.in/YBN-folders-Colleges-Documents-Files/dp/B0BWRPNXKR/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-IIYDSUSGJI2DMWSM",
+      "slug": "ybn-multicolor-plastic-file-folder-for-resume",
+      "name": "YBN Multicolor Plastic File Folder for Resume...",
+      "brand": "Ybn",
+      "category": "Storage & Organization",
+      "price": 119,
+      "image": "https://m.media-amazon.com/images/I/41Lqtls17nL.jpg | https://m.media-amazon.com/images/I/41Lqtls17nL.jpg | https://m.media-amazon.com/images/I/31oedefRwNL.jpg | https://m.media-amazon.com/images/I/31Py-biHfEL.jpg | https://m.media-amazon.com/images/I/41d5N1aXXKL.jpg | https://m.media-amazon.com/images/I/21rJfYOnwGL.jpg | https://m.media-amazon.com/images/I/31qMTMHxMdL.jpg | https://m.media-amazon.com/images/I/41wYJRst3aL.jpg",
+      "productUrl": "https://www.amazon.in/YBN-Multicolor-Presentation-Document-Organizer/dp/B09RFJ46ZL/ref=sr_1_62"
+    },
+    {
+      "sku": "JKE-IIYEEV2SKBDDES2M",
+      "slug": "ybn-pack-of-5-pcs-a4-size-assorted-super-line-transparent",
+      "name": "YBN (Pack of 5 Pcs A4 Size Assorted Super Line Transparent...",
+      "brand": "Ybn",
+      "category": "Abrasives & Finishing",
+      "price": 79,
+      "image": "https://m.media-amazon.com/images/I/41P5cNvWBCL.jpg | https://m.media-amazon.com/images/I/41P5cNvWBCL.jpg | https://m.media-amazon.com/images/I/41iPggswgzL.jpg | https://m.media-amazon.com/images/I/51slmTpPlvL.jpg | https://m.media-amazon.com/images/I/61luq10OlKL.jpg | https://m.media-amazon.com/images/I/51e0-5fjk-L.jpg",
+      "productUrl": "https://www.amazon.in/YBN-Transparent-Presentation-File-Multicolour/dp/B0BWRPF2KL/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYEEV2SJRJTINBT",
+      "slug": "ybn-a4-size-drawing-filepack-of-6-pcssize-875-x-1175",
+      "name": "YBN A4 Size Drawing File(Pack of 6 pcs)(Size: 8.75 X 11.75...",
+      "brand": "Ybn",
+      "category": "Fasteners & Hardware",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/5183CqnRJ0L.jpg | https://m.media-amazon.com/images/I/5183CqnRJ0L.jpg | https://m.media-amazon.com/images/I/41r7LUmoGnL.jpg | https://m.media-amazon.com/images/I/41BfycaLtfL.jpg | https://m.media-amazon.com/images/I/41JVRPfRk2L.jpg",
+      "productUrl": "https://www.amazon.in/YBN-Size-Drawing-File-Pack/dp/B0BWRLS443/ref=sr_1_20"
+    }
+  ]
+}

@@ -4,13 +4,23 @@
   "products": [
     {
       "sku": "JKE-IIYEQNZRHFNDES22",
-      "slug": "portable-solar-panel-with-stand-off-grid-solar-energy-source-compact-charger-lightweight-for-pond-owners-hobbyists-outdoor-fountain-aquarium-6v-6w-usb-panel-6m",
-      "name": "Portable Solar Panel with Stand Off-Grid Solar Energy Source Compact Charger Lightweight for Pond Owners, Hobbyists, Outdoor Fountain, Aquarium, 6V 6W USB Panel 6M",
+      "slug": "portable-solar-panel-with-stand-off-grid-solar-energy",
+      "name": "Portable Solar Panel with Stand Off-Grid Solar Energy...",
       "brand": "Shopora",
       "category": "Electrical & Wiring",
-      "price": "₹3,670.00",
+      "price": 3670,
       "image": "https://m.media-amazon.com/images/I/61p0ue+MNjL.jpg | https://m.media-amazon.com/images/I/41l2AdrIz5L.jpg | https://m.media-amazon.com/images/I/51cFUpb6nIL.jpg | https://m.media-amazon.com/images/I/410t4lylEjL.jpg | https://m.media-amazon.com/images/I/41E3QcMmumL.jpg | https://m.media-amazon.com/images/I/51UvVKl5WhL.jpg | https://m.media-amazon.com/images/I/51zjmiF1UiL.jpg",
       "productUrl": "https://www.amazon.in/SHOPORA-Portable-Off-Grid-Lightweight-Hobbyists/dp/B0H719Z2KZ/ref=sr_1_131"
+    },
+    {
+      "sku": "JKE-IIYEONSEJNIVAWCU",
+      "slug": "universal-car-interior-strips-trim-for-air-conditioner-vent",
+      "name": "Universal Car Interior Strips Trim for Air Conditioner Vent...",
+      "brand": "Shopora",
+      "category": "Power Tools",
+      "price": 627,
+      "image": "https://m.media-amazon.com/images/I/71kiXDEzNKL.jpg | https://m.media-amazon.com/images/I/51UZE2BlQeL.jpg | https://m.media-amazon.com/images/I/41kCuyfYHGL.jpg | https://m.media-amazon.com/images/I/51VT8mzkBDL.jpg | https://m.media-amazon.com/images/I/51ugZP36D1L.jpg | https://m.media-amazon.com/images/I/51dTL6ONLKL.jpg",
+      "productUrl": "https://www.amazon.in/SHOPORA-Universal-Interior-Conditioner-Automotive/dp/B0G6DKQPXT/ref=sr_1_207"
     }
   ]
 }

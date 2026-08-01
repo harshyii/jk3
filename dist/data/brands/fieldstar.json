@@ -1,0 +1,56 @@
+{
+  "name": "Fieldstar",
+  "slug": "fieldstar",
+  "products": [
+    {
+      "sku": "JKE-IIYEISRRGJFVCQRU",
+      "slug": "fieldstar-portable-pressure-washer-12v-for",
+      "name": "Fieldstar Portable Pressure Washer 12V for...",
+      "brand": "Fieldstar",
+      "category": "Power Tools",
+      "price": 4800,
+      "image": "https://m.media-amazon.com/images/I/51M8YQtRkIL.jpg | https://m.media-amazon.com/images/I/41si35XWB0L.jpg | https://m.media-amazon.com/images/I/31DBliBUSZL.jpg",
+      "productUrl": "https://www.amazon.in/Pressure-Washer-12V-Gardening-backup-5hours/dp/B0DJ12KQB4/ref=sr_1_284"
+    },
+    {
+      "sku": "JKE-IIYEINRTG5CFGNRY",
+      "slug": "fieldstar-cordless-portable-car-washer-high-pressure",
+      "name": "Fieldstar Cordless Portable CAR Washer High Pressure...",
+      "brand": "Fieldstar",
+      "category": "Power Tools",
+      "price": 4399,
+      "image": "https://m.media-amazon.com/images/I/51A0BjW-5fL.jpg | https://m.media-amazon.com/images/I/315z3LP7EkL.jpg | https://m.media-amazon.com/images/I/419k1derYDL.jpg | https://m.media-amazon.com/images/I/41D2mDAeVLL.jpg | https://m.media-amazon.com/images/I/41LRuB2ilWL.jpg | https://m.media-amazon.com/images/I/613uCVU55UL.jpg | https://m.media-amazon.com/images/I/515Mtrx8gaL.jpg",
+      "productUrl": "https://www.amazon.in/Fieldstar-Cordless-Portable-Pressure-Cleaner/dp/B0D637DS68/ref=sr_1_258"
+    },
+    {
+      "sku": "JKE-IIYEGTS2GVBTCN2D",
+      "slug": "fieldstar-portable-pressure-washer-12v-for",
+      "name": "Fieldstar Portable Pressure Washer 12V for...",
+      "brand": "Fieldstar",
+      "category": "Power Tools",
+      "price": 4800,
+      "image": "https://m.media-amazon.com/images/I/51RKqJCMIGL.jpg | https://m.media-amazon.com/images/I/31cgHrSQyHL.jpg | https://m.media-amazon.com/images/I/41KnVsHEfXL.jpg",
+      "productUrl": "https://www.amazon.in/Fieldstar-Portable-Pressure-Gardening-backup-5hours/dp/B0CNZ5C17C/ref=sr_1_282"
+    },
+    {
+      "sku": "JKE-IIYEMTKGKBDVAR2R",
+      "slug": "fieldstar-high-pressure-car-washer-gun-with-adjustable",
+      "name": "Fieldstar High Pressure Car Washer Gun with Adjustable...",
+      "brand": "Fieldstar",
+      "category": "Measuring & Layout",
+      "price": 730,
+      "image": "https://m.media-amazon.com/images/I/41Pg+bJl2-L.jpg | https://m.media-amazon.com/images/I/31pMERSRKmL.jpg | https://m.media-amazon.com/images/I/31obSvnBRxL.jpg | https://m.media-amazon.com/images/I/31SlqHir7yL.jpg | https://m.media-amazon.com/images/I/41Z9tFhf3QL.jpg | https://m.media-amazon.com/images/I/41Vmdi8KIzL.jpg | https://m.media-amazon.com/images/I/61c9nZuHu1L.jpg | https://m.media-amazon.com/images/I/51FwD1luzhL.jpg",
+      "productUrl": "https://www.amazon.in/Fieldstar-Pressure-Adjustable-Extension-Compatible/dp/B0FMFPGPGQ/ref=sr_1_107"
+    },
+    {
+      "sku": "JKE-IIYEOVZTGZJFSUCR",
+      "slug": "fieldstar-pressure-washer-nozzle-kit-with-connector-5",
+      "name": "Fieldstar Pressure Washer Nozzle Kit with Connector (5...",
+      "brand": "Fieldstar",
+      "category": "Fasteners & Hardware",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/61wonDZKRKL.jpg | https://m.media-amazon.com/images/I/41K7gH-n47L.jpg | https://m.media-amazon.com/images/I/41TG1+UxCGL.jpg | https://m.media-amazon.com/images/I/51hBMAkgb6L.jpg | https://m.media-amazon.com/images/I/51vp9rwkmIL.jpg | https://m.media-amazon.com/images/I/512fm9XjUeL.jpg | https://m.media-amazon.com/images/I/51Zh3PvcvHL.jpg",
+      "productUrl": "https://www.amazon.in/Fieldstar-Pressure-Connector-Nozzles-Connect/dp/B0GW36RYPQ/ref=sr_1_242"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEEURRGU3FIRCI",
-  "title": "Kenbrook Solar Panel Mounting Stucture Base Plate with Degree Angle (Set of 1)",
+  "title": "Kenbrook Solar Panel Mounting Stucture Base Plate with...",
   "brand": "Kenbrook",
-  "current_price": "₹1,199.00",
-  "mrp": "₹2,999",
+  "current_price": 1199,
+  "mrp": 2999,
   "product_url": "https://www.amazon.in/Kenbrook-Solar-Mounting-Stucture-Degree/dp/B0BR156TDH/ref=sr_1_35",
   "description": "Kenbrook Solar Panel Mounting Stucture Base Plate with Degree Angle (Set of 1) - Distributed/Packaged by Kenbrook. Product Details: Kenbrook Solar Panel Mounting Stucture Base Plate With Degree Angle.",
   "image_urls": [
@@ -17,16 +17,16 @@
   "image_url_3": "https://m.media-amazon.com/images/I/41K7T50BOnL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/41mNzx7i2aL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Kenbrook Solar Pvt. Ltd.",
     "Item Type Name": "General",
     "ASIN": "‎B0BR156TDH",
     "Product Dimensions": "‎6 x 6 x 4.5 cm; 3.5 kg",
-    "Item model number": "‎KS-BASE-PLATE-DEGREE-ANGLE-1SET",
-    "Country of Origin": "‎India"
+    "Item model number": "‎KS-BASE-PLATE-DEGREE-ANGLE-1SET"
   },
   "SKU": "JKE-IIYEEURRGU3FIRCI",
-  "Name": "Kenbrook Solar Panel Mounting Stucture Base Plate with Degree Angle (Set of 1)",
-  "Slug": "kenbrook-solar-panel-mounting-stucture-base-plate-with-degree-angle-set-of-1",
+  "Name": "Kenbrook Solar Panel Mounting Stucture Base Plate with...",
+  "Slug": "kenbrook-solar-panel-mounting-stucture-base-plate-with",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/41mNzx7i2aL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ZkBOs2EbL.jpg | https://m.media-amazon.com/images/I/41K7T50BOnL.jpg | https://m.media-amazon.com/images/I/41mNzx7i2aL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,199.00",
+  "Discount": 60.02,
+  "SalePrice": 1199,
   "Country": "‎India"
 }

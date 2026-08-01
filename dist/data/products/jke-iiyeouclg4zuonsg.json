@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOUCLG4ZUONSG",
-  "title": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs) no Non-Woven pad Set – 100mm Diamond Disc, Wet & Dry Use for Marble, Granite & Concrete (Grit-600-1 pcs, 800-1 pcs)",
+  "title": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs)...",
   "brand": "Generic",
-  "current_price": "₹299.00",
-  "mrp": "₹899",
+  "current_price": 299,
+  "mrp": 899,
   "product_url": "https://www.amazon.in/Stone-Polishing-power-Grit-600-1-Non-Woven/dp/B0GPK73G6F/ref=sr_1_244",
   "description": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs) no Non-Woven pad Set – 100mm Diamond Disc, Wet & Dry Use for Marble, Granite & Concrete (Grit-600-1 pcs, 800-1 pcs) - Distributed/Packaged by Generic. Product Details: Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs) no Non-Woven pad Set – 100mm Diamond Disc, Wet & Dry Use for Marble, Granite & Concrete (Grit-600-1 pcs, 800-1 pcs)",
   "image_urls": [
@@ -17,26 +17,26 @@
   "image_url_3": "https://m.media-amazon.com/images/I/41tyIfEJ+JL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/41neQcwaovL.jpg",
   "specifications": {
-    "Material Type": "marble/granite",
     "Brand Name": "Generic",
+    "Country of Origin": "India",
+    "Number of Items": 2,
     "Manufacturer": "LSL LIMITED TOOL PRIVATE LIMITED",
-    "Item Weight": "100 Grams",
     "Item Type Name": "Marble/Granite Grit- 600- 1 Pcs, 800- 1 Pcs",
     "Packer Contact Information": "LSL LIMITED TOOL PRIVATE LIMITED",
     "ASIN": "B0GPK73G6F",
-    "Set Name": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs)",
-    "Country of Origin": "India",
     "Item Dimensions": "10.2 x 1 x 1 Centimeters",
-    "Number of Items": 2,
+    "Item Weight": "100 Grams",
+    "Material Type": "marble/granite",
     "Part Number": "mar0112",
+    "Set Name": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs)",
+    "Whats in the box?": "marble/granite grit- 600- 1 pcs, 800- 1 pcs",
     "Compatible Material": "Stone",
-    "Item Diameter": "10 Centimetres",
     "Grit Material Type": "Aluminium Oxide",
-    "Whats in the box?": "marble/granite grit- 600- 1 pcs, 800- 1 pcs"
+    "Item Diameter": "10 Centimetres"
   },
   "SKU": "JKE-IIYEOUCLG4ZUONSG",
-  "Name": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs) no Non-Woven pad Set – 100mm Diamond Disc, Wet & Dry Use for Marble, Granite & Concrete (Grit-600-1 pcs, 800-1 pcs)",
-  "Slug": "stone-polishing-pads-xtra-power-grit-600-1-pcs-800-1-pcs-no-non-woven-pad-set-100mm-diamond-disc-wet-dry-use-for-marble-granite-concrete-grit-600-1-pcs-800-1-pcs",
+  "Name": "Stone Polishing Pads xtra power (Grit-600-1 pcs, 800-1 pcs)...",
+  "Slug": "stone-polishing-pads-xtra-power-grit-600-1-pcs-800-1-pcs",
   "Category": "Abrasives & Finishing",
   "Subcategory1": "Buffing Pads",
   "Images": [
@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41neQcwaovL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bKxpiOoiL.jpg | https://m.media-amazon.com/images/I/41tyIfEJ+JL.jpg | https://m.media-amazon.com/images/I/41neQcwaovL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹299.00",
+  "Discount": 66.74,
+  "SalePrice": 299,
   "Country": "India"
 }

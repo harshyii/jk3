@@ -8,9 +8,29 @@
       "name": "Eastman Plastic Mallet Hammers, 50 mm",
       "brand": "Tools-4-All",
       "category": "Hand Tools",
-      "price": "₹710.00",
+      "price": 710,
       "image": "https://m.media-amazon.com/images/I/61HipytyHLL.jpg | https://m.media-amazon.com/images/I/3140xdxp5OL.jpg",
       "productUrl": "https://www.amazon.in/Eastman-Plastic-Mallet-Hammers-50/dp/B011A21ZE6/ref=sr_1_144"
+    },
+    {
+      "sku": "JKE-IIYDCRSBGYZDQQRS",
+      "slug": "tools-4-all-6pc-hss-circular-saw-blade-set-for-metal-and",
+      "name": "Tools-4-All 6Pc HSS Circular Saw Blade Set for Metal and...",
+      "brand": "Tools-4-All",
+      "category": "Hand Tools",
+      "price": 219,
+      "image": "https://m.media-amazon.com/images/I/41UR9Y7ZgAL.jpg | https://m.media-amazon.com/images/I/41UR9Y7ZgAL.jpg",
+      "productUrl": "https://www.amazon.in/Tools-4-All-Circular-Blade-Dremel-Rotary/dp/B01FA628B2/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYDCNRUJRLUIOCV",
+      "slug": "tools-4-all-metalwood-sds-plus-shank-m12-drill-chuck",
+      "name": "Tools-4-All Metal/Wood Sds Plus Shank M12 Drill Chuck...",
+      "brand": "Tools-4-All",
+      "category": "Power Tools",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/41ejz2pPFKL.jpg | https://m.media-amazon.com/images/I/41ejz2pPFKL.jpg",
+      "productUrl": "https://www.amazon.in/Shank-Drill-Chuck-Adapter-Makita/dp/B0164LWD8U/ref=sr_1_139"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Freshiva",
+  "slug": "freshiva",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMJRHBEDMURY",
+      "slug": "kendamil-organic-first-milk-800g-stage-1",
+      "name": "Kendamil Organic First Milk 800g - stage 1",
+      "brand": "Freshiva",
+      "category": "General Hardware",
+      "price": 4800,
+      "image": "https://m.media-amazon.com/images/I/311Tn+q1HML.jpg | https://m.media-amazon.com/images/I/311Tn+q1HML.jpg",
+      "productUrl": "https://www.amazon.in/Kendamil-Organic-First-Milk-800g/dp/B0H118H6R8/ref=sr_1_89"
+    }
+  ]
+}

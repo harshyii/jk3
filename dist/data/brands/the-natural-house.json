@@ -1,0 +1,16 @@
+{
+  "name": "The Natural House",
+  "slug": "the-natural-house",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMSZIM3UMSSO",
+      "slug": "wax-sachet-tablet-handmade-with-ocean-vibe-home-fragrance",
+      "name": "Wax Sachet Tablet, Handmade with Ocean Vibe, Home Fragrance...",
+      "brand": "The Natural House",
+      "category": "Storage & Organization",
+      "price": 335,
+      "image": "https://m.media-amazon.com/images/I/71tVMfRhKmL.jpg | https://m.media-amazon.com/images/I/51Rcl3S8XkL.jpg | https://m.media-amazon.com/images/I/51lympHIz2L.jpg | https://m.media-amazon.com/images/I/51JwoMGF1uL.jpg | https://m.media-amazon.com/images/I/51+shdWkTHL.jpg | https://m.media-amazon.com/images/I/31QvtKWaOAL.jpg",
+      "productUrl": "https://www.amazon.in/Natural-House-Fragrance-Freshener-Cupboards/dp/B0H2YC7FJN/ref=sr_1_267"
+    }
+  ]
+}

@@ -2,7 +2,7 @@
   "asin": "JKE-IIYDSQSCJVBEYNJR",
   "title": "Caltex Xtra Power",
   "brand": "Generic1",
-  "current_price": "₹350.00",
+  "current_price": 350,
   "mrp": 0,
   "product_url": "https://www.amazon.in/generic1-Caltex-Xtra-Power/dp/B09BBMBL51/ref=sr_1_267",
   "description": "Caltex Xtra Power - Distributed/Packaged by Generic1. Product Details: nan",
@@ -17,8 +17,8 @@
   "specifications": {
     "Manufacturer": "‎R1",
     "Item Type Name": "General",
-    "Color": "‎steel",
     "Item Part Number": "‎R1",
+    "Color": "‎steel",
     "Primary material": "‎Cast Iron",
     "Capacity": "‎3 x 2",
     "What is in the box?": "‎pack"
@@ -34,8 +34,8 @@
     "https://m.media-amazon.com/images/I/41B2ck08VNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619rXAmaU-L.jpg | https://m.media-amazon.com/images/I/41B2ck08VNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹350.00"
+  "SalePrice": 350
 }

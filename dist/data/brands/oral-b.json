@@ -1,0 +1,16 @@
+{
+  "name": "Oral-B",
+  "slug": "oral-b",
+  "products": [
+    {
+      "sku": "JKE-IIYEMURVGZKEWNSU",
+      "slug": "oral-b-kids-iron-man-battery-electric-toothbrush-90-day",
+      "name": "Oral-B Kids Iron Man Battery Electric Toothbrush, 90 Day...",
+      "brand": "Oral-B",
+      "category": "General Hardware",
+      "price": 535,
+      "image": "https://m.media-amazon.com/images/I/71jiwwJgrqL.jpg | https://m.media-amazon.com/images/I/41YNPA-M-fL.jpg | https://m.media-amazon.com/images/I/51kRXtChhOL.jpg | https://m.media-amazon.com/images/I/51Q91UVBALL.jpg | https://m.media-amazon.com/images/I/51DiHsyg1KL.jpg | https://m.media-amazon.com/images/I/51kw1RwcruL.jpg | https://m.media-amazon.com/images/I/51rfiwyQ7WL.jpg | https://m.media-amazon.com/images/I/51Xhb6DnpuL.jpg",
+      "productUrl": "https://www.amazon.in/Oral-B-Iron-Man-Toothbrush-Resistant/dp/B0FR56TK6T/ref=sr_1_199"
+    }
+  ]
+}

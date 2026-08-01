@@ -1,0 +1,66 @@
+{
+  "name": "Carpro",
+  "slug": "carpro",
+  "products": [
+    {
+      "sku": "JKE-IIYDATSJIVAVAV2T",
+      "slug": "carpro-india-ech2o-waterless-car-wash-and-quick-detailer",
+      "name": "CarPro India ECH2O Waterless Car Wash and Quick Detailer...",
+      "brand": "Carpro",
+      "category": "Power Tools",
+      "price": 1529,
+      "image": "https://m.media-amazon.com/images/I/61juEnGf-qL.jpg | https://m.media-amazon.com/images/I/21salM4lFtL.jpg",
+      "productUrl": "https://www.amazon.in/CarPro-Waterless-Professional-Rinse-Less-Concentrate/dp/B00NIEAPWS/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYDATSJIVAUKMKV",
+      "slug": "carpro-flyby-30-50ml-car-glass-coating",
+      "name": "CarPro Flyby 30-50ML Car Glass Coating",
+      "brand": "Carpro",
+      "category": "Plumbing",
+      "price": 2599,
+      "image": "https://m.media-amazon.com/images/I/61Gp85AeKeL.jpg | https://m.media-amazon.com/images/I/215J32bkpkL.jpg",
+      "productUrl": "https://www.amazon.in/CarPro-Flyby-30-50ML-Glass-Coating/dp/B00NIEAE1U/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-IIYDQNBUJQYVOR2D",
+      "slug": "carpro-wash-box-5-products-elixir-reset-microfiber",
+      "name": "CARPRO Wash Box - 5 Products: Elixir, Reset, Microfiber...",
+      "brand": "Carpro",
+      "category": "Storage & Organization",
+      "price": 16749,
+      "image": "https://m.media-amazon.com/images/I/61ZkKntw1uL.jpg | https://m.media-amazon.com/images/I/41Ecn0hNOYL.jpg | https://m.media-amazon.com/images/I/41B9Rjo0ZXL.jpg | https://m.media-amazon.com/images/I/41okEMtu9MS.jpg | https://m.media-amazon.com/images/I/41+6qEvZfeL.jpg | https://m.media-amazon.com/images/I/519ovoDcCFL.jpg | https://m.media-amazon.com/images/I/21szxtRqmIL.jpg | https://m.media-amazon.com/images/I/5149N9qpITL.jpg",
+      "productUrl": "https://www.amazon.in/CarPro-Wash-Box/dp/B0844L1WGC/ref=sr_1_67"
+    },
+    {
+      "sku": "JKE-IIYDONSLLFLFQR2E",
+      "slug": "carpro-carpro-hand-wash-microfiber-mitt",
+      "name": "CarPro CarPro Hand Wash Microfiber Mitt",
+      "brand": "Carpro",
+      "category": "Power Tools",
+      "price": 1849,
+      "image": "https://m.media-amazon.com/images/I/61Pd3Ss28vL.jpg | https://m.media-amazon.com/images/I/41K8YjZA7KL.jpg | https://m.media-amazon.com/images/I/41UBseH3sNL.jpg | https://m.media-amazon.com/images/I/31Nf6Nz8gzL.jpg | https://m.media-amazon.com/images/I/514O2VLLExL.jpg | https://m.media-amazon.com/images/I/61nPBKd8AAL.jpg | https://m.media-amazon.com/images/I/51kIiUj-CfL.jpg | https://m.media-amazon.com/images/I/61F07oXNUHL.jpg",
+      "productUrl": "https://www.amazon.in/CarPro-Hand-Wash-Microfiber-Mitt/dp/B076KYVXGD/ref=sr_1_90"
+    },
+    {
+      "sku": "JKE-IIYDOTSZJBDFQNCX",
+      "slug": "carpro-glassfiber-microfiber-towel",
+      "name": "CarPro GlassFiber Microfiber Towel",
+      "brand": "Carpro",
+      "category": "Power Tools",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/81HgEZRLYYL.jpg | https://m.media-amazon.com/images/I/418g0ZLSE2L.jpg | https://m.media-amazon.com/images/I/41W6pYeJErL.jpg | https://m.media-amazon.com/images/I/41cqEFRuLjL.jpg | https://m.media-amazon.com/images/I/41egDb4bkPL.jpg | https://m.media-amazon.com/images/I/511jyBlZsOL.jpg | https://m.media-amazon.com/images/I/418wfa6mGiL.jpg | https://m.media-amazon.com/images/I/311SwZyxVeL.jpg",
+      "productUrl": "https://www.amazon.in/8809397816858/dp/B07NYHFX4W/ref=sr_1_53"
+    },
+    {
+      "sku": "JKE-IIYDQNBZJZIFMMSK",
+      "slug": "carpro-ceramic-coating-applicator-with-3-microfiber-towels",
+      "name": "CarPro Ceramic Coating Applicator with 3 Microfiber Towels...",
+      "brand": "Carpro",
+      "category": "General Hardware",
+      "price": 3959,
+      "image": "https://m.media-amazon.com/images/I/71AccAFd8ZL.jpg | https://m.media-amazon.com/images/I/316wc2WymRL.jpg | https://m.media-amazon.com/images/I/41-+zbDlsXL.jpg | https://m.media-amazon.com/images/I/31e6LAo4HDL.jpg | https://m.media-amazon.com/images/I/31-UACoKvAL.jpg | https://m.media-amazon.com/images/I/31benujdshL.jpg | https://m.media-amazon.com/images/I/41BfM-edGPL.jpg",
+      "productUrl": "https://www.amazon.in/CarPro-Ceramic-Coating-Applicator-Microfiber/dp/B0849NPV2J/ref=sr_1_62"
+    }
+  ]
+}

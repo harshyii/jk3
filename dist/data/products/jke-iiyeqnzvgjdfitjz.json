@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNZVGJDFITJZ",
-  "title": "2-in-1 Water Pipe Screw Extractor Tool, 1/2 Inch and 3/4 Inch Double Head Tap Valve Remover Set, Removes Rusted Damaged Fasteners, Studs, and Broken Wires, Includes 100mm Leverage Bar",
+  "title": "2-in-1 Water Pipe Screw Extractor Tool, 1/2 Inch and 3/4...",
   "brand": "Hevir",
-  "current_price": "₹199.00",
-  "mrp": "₹399",
+  "current_price": 199,
+  "mrp": 399,
   "product_url": "https://www.amazon.in/HEVIR-Extractor-Remover-Fasteners-Leverage/dp/B0H752FTM9/ref=sr_1_236",
   "description": "2-in-1 Water Pipe Screw Extractor Tool, 1/2 Inch and 3/4 Inch Double Head Tap Valve Remover Set, Removes Rusted Damaged Fasteners, Studs, and Broken Wires, Includes 100mm Leverage Bar - Distributed/Packaged by Hevir. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51EcgNQTjoL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/51mhVCK2lJL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎HEVIR",
     "Item Type Name": "General",
     "ASIN": "‎B0H752FTM9",
     "Product Dimensions": "‎12 x 3 x 3 cm; 200 g",
-    "Item model number": "‎HEVIR-BBR-81MM",
-    "Country of Origin": "‎China"
+    "Item model number": "‎HEVIR-BBR-81MM"
   },
   "SKU": "JKE-IIYEQNZVGJDFITJZ",
-  "Name": "2-in-1 Water Pipe Screw Extractor Tool, 1/2 Inch and 3/4 Inch Double Head Tap Valve Remover Set, Removes Rusted Damaged Fasteners, Studs, and Broken Wires, Includes 100mm Leverage Bar",
-  "Slug": "2-in-1-water-pipe-screw-extractor-tool-12-inch-and-34-inch-double-head-tap-valve-remover-set-removes-rusted-damaged-fasteners-studs-and-broken-wires-includes-100mm-leverage-bar",
+  "Name": "2-in-1 Water Pipe Screw Extractor Tool, 1/2 Inch and 3/4...",
+  "Slug": "2-in-1-water-pipe-screw-extractor-tool-12-inch-and-34",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "General Fasteners",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51mhVCK2lJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jozD3AlGL.jpg | https://m.media-amazon.com/images/I/41E+ky8sGkL.jpg | https://m.media-amazon.com/images/I/514SW+KatBL.jpg | https://m.media-amazon.com/images/I/51Lmjq2N3DL.jpg | https://m.media-amazon.com/images/I/51qKARXA8iL.jpg | https://m.media-amazon.com/images/I/51EcgNQTjoL.jpg | https://m.media-amazon.com/images/I/51mhVCK2lJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹199.00",
+  "Discount": 50.13,
+  "SalePrice": 199,
   "Country": "‎China"
 }

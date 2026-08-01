@@ -1,0 +1,36 @@
+{
+  "name": "Fruhrer",
+  "slug": "fruhrer",
+  "products": [
+    {
+      "sku": "JKE-IIYEMNJUGEZEGTCG",
+      "slug": "solar-powered-up-down-led-wall-lightswaterproof-led-decor",
+      "name": "Solar Powered Up Down LED Wall Lights,Waterproof Led Decor...",
+      "brand": "Fruhrer",
+      "category": "Fasteners & Hardware",
+      "price": 224,
+      "image": "https://m.media-amazon.com/images/I/61s0b1NpOpL.jpg | https://m.media-amazon.com/images/I/61s0b1NpOpL.jpg | https://m.media-amazon.com/images/I/61flzYRE62L.jpg | https://m.media-amazon.com/images/I/41EuWRKtJIL.jpg | https://m.media-amazon.com/images/I/51xo31HLw2L.jpg | https://m.media-amazon.com/images/I/619NaPSc91L.jpg | https://m.media-amazon.com/images/I/31zIq4XRucL.jpg | https://m.media-amazon.com/images/I/41XOnl66SlL.jpg",
+      "productUrl": "https://www.amazon.in/Fruhrer-Powered-Lights-Waterproof-Outdoor/dp/B0F5412CLF/ref=sr_1_276"
+    },
+    {
+      "sku": "JKE-IIYEIWKQG5LEOTCY",
+      "slug": "solar-up-down-led-wall-lights-solar-powered-porch-light",
+      "name": "Solar Up Down LED Wall Lights Solar Powered, Porch Light,...",
+      "brand": "Fruhrer",
+      "category": "Fasteners & Hardware",
+      "price": 549,
+      "image": "https://m.media-amazon.com/images/I/61s0b1NpOpL.jpg | https://m.media-amazon.com/images/I/61s0b1NpOpL.jpg | https://m.media-amazon.com/images/I/41XOnl66SlL.jpg | https://m.media-amazon.com/images/I/41EuWRKtJIL.jpg | https://m.media-amazon.com/images/I/51xo31HLw2L.jpg | https://m.media-amazon.com/images/I/619NaPSc91L.jpg | https://m.media-amazon.com/images/I/31zIq4XRucL.jpg",
+      "productUrl": "https://www.amazon.in/Fruhrer-Lights-Powered-Outdoor-Waterproof/dp/B0DYP7VGLX/ref=sr_1_265"
+    },
+    {
+      "sku": "JKE-IIYEMNJUGJIE2QSR",
+      "slug": "solar-powered-up-down-led-wall-lightswaterproof-led-decor",
+      "name": "Solar Powered Up Down LED Wall Lights,Waterproof Led Decor...",
+      "brand": "Fruhrer",
+      "category": "Fasteners & Hardware",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61mRyncYamL.jpg | https://m.media-amazon.com/images/I/61mRyncYamL.jpg | https://m.media-amazon.com/images/I/31tknDovrVL.jpg | https://m.media-amazon.com/images/I/51M4fRka3XL.jpg | https://m.media-amazon.com/images/I/41U3Fgp2jqL.jpg | https://m.media-amazon.com/images/I/61UDdKJDbuL.jpg | https://m.media-amazon.com/images/I/61Glqg3bBYL.jpg | https://m.media-amazon.com/images/I/61fP-3pF4iL.jpg",
+      "productUrl": "https://www.amazon.in/Fruhrer-Powered-Lights-Waterproof-Outdoor/dp/B0F542PMBQ/ref=sr_1_267"
+    }
+  ]
+}

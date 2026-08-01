@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSSBVJZMVUN2U",
-  "title": "8 Inch Combination Plier | Insulated Double Color Sleeve for Live Wire Working and Household DIY Applications (200 MM)",
+  "title": "8 Inch Combination Plier | Insulated Double Color Sleeve...",
   "brand": "Invaincu Stockist",
-  "current_price": "₹220.00",
-  "mrp": "₹278",
+  "current_price": 220,
+  "mrp": 278,
   "product_url": "https://www.amazon.in/Invaincu-Stockist-Combination-Insulated-Applications/dp/B09H5NYZ7T/ref=sr_1_166",
   "rating": "3.03.0 out of 5 stars(2)3.0 out of 5 stars",
   "description": "8 Inch Combination Plier | Insulated Double Color Sleeve for Live Wire Working and Household DIY Applications (200 MM) - Distributed/Packaged by Invaincu Stockist. Product Details: nan",
@@ -16,23 +16,23 @@
   "image_url_2": "https://m.media-amazon.com/images/I/51kRgEz77mL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/31IhlR3iziL.jpg",
   "specifications": {
-    "Material Type": "Phosphate",
     "Brand Name": "Invaincu stockist",
     "Model Number": "KIT0067ID-D",
-    "Unit Count": "250.00 Grams",
     "Manufacturer": "(EASTMAN)",
-    "Country of Publication": "India",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "KIT0067ID-D",
     "ASIN": "B09H5NYZ7T",
     "Customer Reviews": "3.03.0 out of 5 stars(2)3.0 out of 5 stars",
     "Colour": "Red,Black",
-    "Handle Material": "Alloy Steel",
-    "Specific Uses For Product": "Cutting"
+    "Specific Uses For Product": "Cutting",
+    "Unit Count": "250.00 Grams",
+    "Manufacturer Part Number": "KIT0067ID-D",
+    "Material Type": "Phosphate",
+    "Country of Publication": "India",
+    "Handle Material": "Alloy Steel"
   },
   "SKU": "JKE-IIYDSSBVJZMVUN2U",
-  "Name": "8 Inch Combination Plier | Insulated Double Color Sleeve for Live Wire Working and Household DIY Applications (200 MM)",
-  "Slug": "8-inch-combination-plier-insulated-double-color-sleeve-for-live-wire-working-and-household-diy-applications-200-mm",
+  "Name": "8 Inch Combination Plier | Insulated Double Color Sleeve...",
+  "Slug": "8-inch-combination-plier-insulated-double-color-sleeve",
   "Category": "Hand Tools",
   "Subcategory1": "General Hand Tools",
   "Images": [
@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31IhlR3iziL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kRgEz77mL.jpg | https://m.media-amazon.com/images/I/31IhlR3iziL.jpg",
-  "StockQuantity": 0,
-  "Unit": "250.00 Grams",
-  "Discount": 0,
-  "SalePrice": "₹220.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 20.86,
+  "SalePrice": 220,
   "Model": "KIT0067ID-D"
 }

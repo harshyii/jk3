@@ -1,11 +1,11 @@
 {
   "asin": "JKE-IIYEESZRKFDFUSBS",
-  "title": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air Washing Gun, Air Spray Gun, Air Tire Inflating Gun, Nitto Type Connector, Suitable for Beauty and Maintenance of Various Cars or Handicrafts",
+  "title": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air...",
   "brand": "Ingco",
-  "current_price": "₹1,899.00",
-  "mrp": "₹2,942",
-  "product_url": "https://www.amazon.in/INGCO-Inflating-Connector-Maintenance-Handicrafts/dp/B0BK1QFZH2/ref=sr_1_270",
-  "description": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air Washing Gun, Air Spray Gun, Air Tire Inflating Gun, Nitto Type Connector, Suitable for Beauty and Maintenance of Various Cars or Handicrafts - Distributed/Packaged by Ingco. Product Details: nan",
+  "current_price": 1899,
+  "mrp": 2942,
+  "product_url": "https://www.amazon.in/INGCO-Inflating-Connector-Maintenance-Handicrafts/dp/B0BK1QFZH2/ref=sr_1_11",
+  "description": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air Washing Gun, Air Spray Gun, Air Tire Inflating Gun, Nitto Type Connector, Suitable for Beauty and Maintenance of Various Cars or Handicrafts - Distributed/Packaged by Ingco. Product Details: ingco tools air tools spray gun power tools air washing gun air gun tools spray gun machine for home use",
   "image_urls": [
     "https://m.media-amazon.com/images/I/71KVK8wERIL.jpg | https://m.media-amazon.com/images/I/41xd1lewyDL.jpg | https://m.media-amazon.com/images/I/41I+u2In8nL.jpg | https://m.media-amazon.com/images/I/41+XtKz97jL.jpg | https://m.media-amazon.com/images/I/411s1bAQFZL.jpg | https://m.media-amazon.com/images/I/41zHwm8hxVL.jpg | https://m.media-amazon.com/images/I/41qMDt7whvL.jpg | https://m.media-amazon.com/images/I/51kMe7gUhSL.jpg",
     "https://m.media-amazon.com/images/I/71KVK8wERIL.jpg",
@@ -26,16 +26,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41zHwm8hxVL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41qMDt7whvL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎INGCO",
     "Item Type Name": "General",
     "ASIN": "‎B0BK1QFZH2",
     "Product Dimensions": "‎37 x 14 x 8 cm; 1 kg",
-    "Item model number": "‎5 PCS Set",
-    "Country of Origin": "‎China"
+    "Item model number": "‎5 PCS Set"
   },
   "SKU": "JKE-IIYEESZRKFDFUSBS",
-  "Name": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air Washing Gun, Air Spray Gun, Air Tire Inflating Gun, Nitto Type Connector, Suitable for Beauty and Maintenance of Various Cars or Handicrafts",
-  "Slug": "ingco-5-pcs-air-tools-set-includes-4m-recoil-hose-air-washing-gun-air-spray-gun-air-tire-inflating-gun-nitto-type-connector-suitable-for-beauty-and-maintenance-of-various-cars-or-handicrafts",
+  "Name": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air...",
+  "Slug": "ingco-5-pcs-air-tools-set-includes-4m-recoil-hose-air",
   "Category": "Garden & Outdoor",
   "Subcategory1": "Fencing Tools",
   "Images": [
@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51kMe7gUhSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71KVK8wERIL.jpg | https://m.media-amazon.com/images/I/41xd1lewyDL.jpg | https://m.media-amazon.com/images/I/41I+u2In8nL.jpg | https://m.media-amazon.com/images/I/41+XtKz97jL.jpg | https://m.media-amazon.com/images/I/411s1bAQFZL.jpg | https://m.media-amazon.com/images/I/41zHwm8hxVL.jpg | https://m.media-amazon.com/images/I/41qMDt7whvL.jpg | https://m.media-amazon.com/images/I/51kMe7gUhSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,899.00",
+  "Discount": 35.45,
+  "SalePrice": 1899,
   "Country": "‎China"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Jentrashop",
+  "slug": "jentrashop",
+  "products": [
+    {
+      "sku": "JKE-IIYEQN2LGRKDMOKS",
+      "slug": "all-in-1-multifunction-wire-stripper-stainless-steel-wire",
+      "name": "All in 1 Multifunction Wire Stripper, Stainless Steel Wire...",
+      "brand": "Jentrashop",
+      "category": "Hand Tools",
+      "price": 189,
+      "image": "https://m.media-amazon.com/images/I/61P0CozpPnL.jpg | https://m.media-amazon.com/images/I/41-1D5IfSOL.jpg | https://m.media-amazon.com/images/I/417D1jbx+lL.jpg | https://m.media-amazon.com/images/I/61xrf5zEcnL.jpg | https://m.media-amazon.com/images/I/51cIjymcO0L.jpg | https://m.media-amazon.com/images/I/51OlL7uCqhL.jpg | https://m.media-amazon.com/images/I/51Tx+Jz8R1L.jpg | https://m.media-amazon.com/images/I/51HhNmnGRXL.jpg",
+      "productUrl": "https://www.amazon.in/Multifunction-Stripper-Stainless-Crimping-Multi-Function/dp/B0H7K4T69R/ref=sr_1_286"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Uttam",
+  "slug": "uttam",
+  "products": [
+    {
+      "sku": "JKE-IIYEOUKZK4ZVEMSM",
+      "slug": "uttam-solar-charge-controller-30a-solar-charge-controller",
+      "name": "UTTAM Solar Charge Controller 30A, Solar Charge Controller...",
+      "brand": "Uttam",
+      "category": "General Hardware",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/61x-nyyvY5L.jpg | https://m.media-amazon.com/images/I/315FOY7ewBL.jpg | https://m.media-amazon.com/images/I/51t6bUatwNL.jpg | https://m.media-amazon.com/images/I/51nkHQ1matL.jpg | https://m.media-amazon.com/images/I/51Icrcf-boL.jpg | https://m.media-amazon.com/images/I/51hUU02b6cL.jpg",
+      "productUrl": "https://www.amazon.in/UTTAM-Controller-Intelligent-Battery-Regulator/dp/B0GQYW3R2L/ref=sr_1_75"
+    }
+  ]
+}

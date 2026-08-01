@@ -1,0 +1,16 @@
+{
+  "name": "Hanuels",
+  "slug": "hanuels",
+  "products": [
+    {
+      "sku": "JKE-IIYEQN2KI43UYTCO",
+      "slug": "premium-body-polish-ph-neutral-with-wax-and-silicone",
+      "name": "Premium Body Polish, pH Neutral with Wax and Silicone...",
+      "brand": "Hanuels",
+      "category": "Power Tools",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/61WEXR6JeJL.jpg | https://m.media-amazon.com/images/I/210rjNhu4WL.jpg | https://m.media-amazon.com/images/I/313Zd7DWf3L.jpg | https://m.media-amazon.com/images/I/51ip1uzj+tL.jpg | https://m.media-amazon.com/images/I/51qDDOAtRUL.jpg | https://m.media-amazon.com/images/I/51CIPz48ViL.jpg | https://m.media-amazon.com/images/I/51Y5gxRH6cL.jpg | https://m.media-amazon.com/images/I/51LV1UkPdbL.jpg",
+      "productUrl": "https://www.amazon.in/Hanuels-Silicone-Protection-Water-Repellent-Automotive/dp/B0H7JG7LLN/ref=sr_1_297"
+    }
+  ]
+}

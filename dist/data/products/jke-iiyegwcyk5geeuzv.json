@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGWCYK5GEEUZV",
-  "title": "Xtra Lyf Computer Power Supply SMPS for 54Y8820 54Y8822 54Y8824 54Y8826 240W 54Y8819",
+  "title": "Xtra Lyf Computer Power Supply SMPS for 54Y8820 54Y8822...",
   "brand": "Xtra Lyf",
-  "current_price": "₹2,989.00",
-  "mrp": "₹4,999",
+  "current_price": 2989,
+  "mrp": 4999,
   "product_url": "https://www.amazon.in/Xtra-Lyf-Computer-54Y8820-54Y8822/dp/B0CXXWLBS5/ref=sr_1_276",
   "description": "Xtra Lyf Computer Power Supply SMPS for 54Y8820 54Y8822 54Y8824 54Y8826 240W 54Y8819 - Distributed/Packaged by Xtra Lyf. Product Details: Description: 240W Power Supply. There could be more than 1 power supply for the models listed. Please make sure that you are purchasing the correct part. Check the pictures and part #'s carefully. Part #'s: 54Y8819, 54Y8820, 54Y8822, 54Y8824, 54Y8826, 54Y8846, 54Y8862, 54Y8886, 54Y8887, 36001859, PC9053, 0A37770, PS-5241-02, HK340-71FP Compatible Models: ThinkCentre A55 M57E M70 M70E M71 M72e M73 M75E M77 M80 M81 M90 M91 M91E M91P",
   "image_urls": [
@@ -18,20 +18,20 @@
     "Brand Name": "Xtra Lyf",
     "Model Number": "AA06",
     "Manufacturer": "Xtra Lyf, Xtra Lyf",
-    "Item Weight": "400 Grams",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "AA06",
+    "Manufacturer Contact Information": "Xtra Lyf",
     "Packer Contact Information": "Xtra Lyf",
     "Best Sellers Rank": "#235,220 in Computers & Accessories (See Top 100 in Computers & Accessories)#3,641 inPower Supplies (Computers & Accessories)",
     "ASIN": "B0CXXWLBS5",
-    "Manufacturer Contact Information": "Xtra Lyf",
-    "Wattage": "240 Watts",
+    "Manufacturer Part Number": "AA06",
     "Item Dimensions": "34 x 14 x 4 Centimeters",
+    "Wattage": "240 Watts",
+    "Item Weight": "400 Grams",
     "Form Factor": "ATX12V"
   },
   "SKU": "JKE-IIYEGWCYK5GEEUZV",
-  "Name": "Xtra Lyf Computer Power Supply SMPS for 54Y8820 54Y8822 54Y8824 54Y8826 240W 54Y8819",
-  "Slug": "xtra-lyf-computer-power-supply-smps-for-54y8820-54y8822-54y8824-54y8826-240w-54y8819",
+  "Name": "Xtra Lyf Computer Power Supply SMPS for 54Y8820 54Y8822...",
+  "Slug": "xtra-lyf-computer-power-supply-smps-for-54y8820-54y8822",
   "Category": "General Hardware",
   "Subcategory1": "Accessories",
   "Images": [
@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41soIPQ3qwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61T8qyQUVvL.jpg | https://m.media-amazon.com/images/I/41soIPQ3qwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹2,989.00",
+  "Discount": 40.21,
+  "SalePrice": 2989,
   "Model": "AA06"
 }

@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDSVZUJRMFANSQ",
   "title": "SAURAN Xtra Power Electric Chain Saw 16 Inch XPT457",
   "brand": "Sauran",
-  "current_price": "₹4,611.00",
-  "mrp": "₹8,000",
+  "current_price": 4611,
+  "mrp": 8000,
   "product_url": "https://www.amazon.in/SAURAN-Power-Electric-Chain-XPT457/dp/B09W4LXP6P/ref=sr_1_90",
   "description": "SAURAN Xtra Power Electric Chain Saw 16 Inch XPT457 - Distributed/Packaged by Sauran. Product Details: SAURAN Xtra Power Electric Chain Saw 16 Inch XPT457",
   "image_urls": [
@@ -14,11 +14,11 @@
   "image_url_2": "https://m.media-amazon.com/images/I/21TaZepacXL.jpg",
   "specifications": {
     "Manufacturer": "‎SAURAN",
-    "Item Weight": "‎2 kg",
     "Item Type Name": "General",
-    "Brand": "‎SAURAN",
     "Colour": "‎Red",
+    "Brand": "‎SAURAN",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎2 kg",
     "Item part number": "‎16\" CNS XP",
     "Package Dimensions": "‎30 x 20 x 20 cm; 2 kg"
   },
@@ -32,8 +32,8 @@
     "https://m.media-amazon.com/images/I/21TaZepacXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21TaZepacXL.jpg | https://m.media-amazon.com/images/I/21TaZepacXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹4,611.00"
+  "Discount": 42.36,
+  "SalePrice": 4611
 }

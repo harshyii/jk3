@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIN2TGNJTMWKI",
-  "title": "AASONS Handle Sander With Sponge Sandpaper Holder Manual Detail Sanders Soft Grip Handle Sander Tool Hand Sanding Wall/Metal/Wood (7” x 3.6”)",
+  "title": "AASONS Handle Sander With Sponge Sandpaper Holder Manual...",
   "brand": "Aasons",
-  "current_price": "₹199.00",
-  "mrp": "₹499",
+  "current_price": 199,
+  "mrp": 499,
   "product_url": "https://www.amazon.in/AASONS-Handle-Sandpaper-Sanders-Sanding/dp/B0D7S3S6YH/ref=sr_1_89",
   "description": "AASONS Handle Sander With Sponge Sandpaper Holder Manual Detail Sanders Soft Grip Handle Sander Tool Hand Sanding Wall/Metal/Wood (7” x 3.6”) - Distributed/Packaged by Aasons. Product Details: nan",
   "image_urls": [
@@ -31,8 +31,8 @@
     "Package Dimensions": "‎19.5 x 11.9 x 6.6 cm; 130 g"
   },
   "SKU": "JKE-IIYEIN2TGNJTMWKI",
-  "Name": "AASONS Handle Sander With Sponge Sandpaper Holder Manual Detail Sanders Soft Grip Handle Sander Tool Hand Sanding Wall/Metal/Wood (7” x 3.6”)",
-  "Slug": "aasons-handle-sander-with-sponge-sandpaper-holder-manual-detail-sanders-soft-grip-handle-sander-tool-hand-sanding-wallmetalwood-7-x-36",
+  "Name": "AASONS Handle Sander With Sponge Sandpaper Holder Manual...",
+  "Slug": "aasons-handle-sander-with-sponge-sandpaper-holder-manual",
   "Category": "Power Tools",
   "Subcategory1": "Grinders & Sanders",
   "Images": [
@@ -46,8 +46,8 @@
     "https://m.media-amazon.com/images/I/51jQAo81hrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+GIuoID4L.jpg | https://m.media-amazon.com/images/I/51+GIuoID4L.jpg | https://m.media-amazon.com/images/I/41uEFDi3zGL.jpg | https://m.media-amazon.com/images/I/51X2h0xqOVL.jpg | https://m.media-amazon.com/images/I/51yjlaV-6pL.jpg | https://m.media-amazon.com/images/I/51RXK15985L.jpg | https://m.media-amazon.com/images/I/41JBC66SW9L.jpg | https://m.media-amazon.com/images/I/51jQAo81hrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹199.00"
+  "Discount": 60.12,
+  "SalePrice": 199
 }

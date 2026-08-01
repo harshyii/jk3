@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDOVSMLEZFSUCH",
-  "title": "ERH INDIA Solar Panel 6v -60 Mah, 80x40 X 03 Mm, 2 LEDs, 1 on/Off, Wire Connect with Solar (Multicolour)",
+  "title": "ERH INDIA Solar Panel 6v -60 Mah, 80x40 X 03 Mm, 2 LEDs, 1...",
   "brand": "Erh India",
-  "current_price": "₹383.00",
-  "mrp": "₹699",
+  "current_price": 383,
+  "mrp": 699,
   "product_url": "https://www.amazon.in/ERH-INDIA-Solar-Connect-Multicolour/dp/B07VLY2YPG/ref=sr_1_111",
   "rating": "4.04.0 out of 5 stars(2)4.0 out of 5 stars",
   "description": "ERH INDIA Solar Panel 6v -60 Mah, 80x40 X 03 Mm, 2 LEDs, 1 on/Off, Wire Connect with Solar (Multicolour) - Distributed/Packaged by Erh India. Product Details: solar for DIY, solar panel 6v- 60 mah, 80mm*40mm*03mm, 2 leds, 1 ON/OFF switch, wire connect with solar high-quality solar panels. Designed for durability and efficiency, our solar panels are built to withstand harsh weather conditions while providing maximum power output. Whether you're looking to reduce your carbon footprint or save on your electricity bill, our solar panels are the perfect solution. With easy installation and low maintenance,",
@@ -24,20 +24,20 @@
   "specifications": {
     "Brand Name": "Erh India",
     "Model Number": "80x40 Panel + Led Bulb +Switch",
-    "Unit Count": "1.00 Count",
     "Manufacturer": "ERH India",
-    "Country of Publication": "India",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "80x40 Panel + Led Bulb +Switch",
     "ASIN": "B07VLY2YPG",
     "Customer Reviews": "4.04.0 out of 5 stars(2)4.0 out of 5 stars",
+    "Unit Count": "1.00 Count",
     "Connector Type": "USB",
+    "Manufacturer Part Number": "80x40 Panel + Led Bulb +Switch",
     "Efficiency": "High Efficiency",
+    "Country of Publication": "India",
     "Maximum Voltage": "6 Volts"
   },
   "SKU": "JKE-IIYDOVSMLEZFSUCH",
-  "Name": "ERH INDIA Solar Panel 6v -60 Mah, 80x40 X 03 Mm, 2 LEDs, 1 on/Off, Wire Connect with Solar (Multicolour)",
-  "Slug": "erh-india-solar-panel-6v-60-mah-80x40-x-03-mm-2-leds-1-onoff-wire-connect-with-solar-multicolour",
+  "Name": "ERH INDIA Solar Panel 6v -60 Mah, 80x40 X 03 Mm, 2 LEDs, 1...",
+  "Slug": "erh-india-solar-panel-6v-60-mah-80x40-x-03-mm-2-leds-1",
   "Category": "Electrical & Wiring",
   "Subcategory1": "Wire Strippers",
   "Images": [
@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31BPUVRZW6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31x-R1qktoL.jpg | https://m.media-amazon.com/images/I/31x-R1qktoL.jpg | https://m.media-amazon.com/images/I/31Yff3X5AvL.jpg | https://m.media-amazon.com/images/I/31UOI6PhuhL.jpg | https://m.media-amazon.com/images/I/21se61mkNLL.jpg | https://m.media-amazon.com/images/I/31BPUVRZW6L.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.00 Count",
-  "Discount": 0,
-  "SalePrice": "₹383.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 45.21,
+  "SalePrice": 383,
   "Model": "80x40 Panel + Led Bulb +Switch"
 }

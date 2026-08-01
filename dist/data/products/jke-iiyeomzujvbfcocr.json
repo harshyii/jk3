@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOMZUJVBFCOCR",
-  "title": "Serplex® 4-Claw Soldering Third Hand Tool, 4 Stainless Steel Clips with Flexible Arm, Aluminum Alloy Base, Circuit Board Holding Clip for Repair, Welding, PCB Fixing & Hands-Free Assembly Work",
+  "title": "Serplex® 4-Claw Soldering Third Hand Tool, 4 Stainless...",
   "brand": "Serplex",
-  "current_price": "₹799.00",
-  "mrp": "₹1,263",
+  "current_price": 799,
+  "mrp": 1263,
   "product_url": "https://www.amazon.in/Serplex%C2%AE-4-Claw-Soldering-Stainless-Hands-Free/dp/B0G34MBQ8Q/ref=sr_1_217",
   "description": "Serplex® 4-Claw Soldering Third Hand Tool, 4 Stainless Steel Clips with Flexible Arm, Aluminum Alloy Base, Circuit Board Holding Clip for Repair, Welding, PCB Fixing & Hands-Free Assembly Work - Distributed/Packaged by Serplex. Product Details: nan",
   "image_urls": [
@@ -33,8 +33,8 @@
     "Item model number": "‎4-Claw"
   },
   "SKU": "JKE-IIYEOMZUJVBFCOCR",
-  "Name": "Serplex® 4-Claw Soldering Third Hand Tool, 4 Stainless Steel Clips with Flexible Arm, Aluminum Alloy Base, Circuit Board Holding Clip for Repair, Welding, PCB Fixing & Hands-Free Assembly Work",
-  "Slug": "serplex-4-claw-soldering-third-hand-tool-4-stainless-steel-clips-with-flexible-arm-aluminum-alloy-base-circuit-board-holding-clip-for-repair-welding-pcb-fixing-hands-free-assembly-work",
+  "Name": "Serplex® 4-Claw Soldering Third Hand Tool, 4 Stainless...",
+  "Slug": "serplex-4-claw-soldering-third-hand-tool-4-stainless",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -49,8 +49,8 @@
     "https://m.media-amazon.com/images/I/51yhwXQoxVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ObUVQ5w9L.jpg | https://m.media-amazon.com/images/I/41cQk8W6qJL.jpg | https://m.media-amazon.com/images/I/41UI5G0pHuL.jpg | https://m.media-amazon.com/images/I/41Ogxcf4FnL.jpg | https://m.media-amazon.com/images/I/41FN-B02QTL.jpg | https://m.media-amazon.com/images/I/41CBL9LTtWL.jpg | https://m.media-amazon.com/images/I/51ALkDQhzHL.jpg | https://m.media-amazon.com/images/I/51yhwXQoxVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹799.00"
+  "Discount": 36.74,
+  "SalePrice": 799
 }

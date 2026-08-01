@@ -3,12 +3,22 @@
   "slug": "gorulax",
   "products": [
     {
-      "sku": "JKE-IIYEOV2IKY3FMR2G",
-      "slug": "48v-li-ion-battery-12000mah-10-cell-high-power-rechargeable-battery-for-cordless-tools-car-washer-drill-machine-blower-gardening-tools",
-      "name": "48V Li-Ion Battery 12000mAh (10-Cell) | High Power Rechargeable Battery for Cordless Tools, Car Washer, Drill Machine, Blower & Gardening Tools",
+      "sku": "JKE-IIYEOWKQG5FVCVSK",
+      "slug": "48v-li-ion-battery-6000mah-5-cell-high-power",
+      "name": "48V Li-Ion Battery 6000mAh (5-Cell) | High Power...",
       "brand": "Gorulax",
       "category": "Power Tools",
-      "price": "₹1,198.00",
+      "price": 678,
+      "image": "https://m.media-amazon.com/images/I/61YswrTCc7L.jpg | https://m.media-amazon.com/images/I/41RRT7iZDnL.jpg | https://m.media-amazon.com/images/I/31hciSDDhIL.jpg | https://m.media-amazon.com/images/I/51JIlt5YFBL.jpg | https://m.media-amazon.com/images/I/41sicXvWqML.jpg | https://m.media-amazon.com/images/I/41S5PI1g1yL.jpg | https://m.media-amazon.com/images/I/41hFYG2D55L.jpg | https://m.media-amazon.com/images/I/51GQcIMk+DL.jpg",
+      "productUrl": "https://www.amazon.in/GORULAX%C2%AE-Rechargeable-Cordless-Gardening-Charging/dp/B0GYP7KQVJ/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-IIYEOV2IKY3FMR2G",
+      "slug": "48v-li-ion-battery-12000mah-10-cell-high-power",
+      "name": "48V Li-Ion Battery 12000mAh (10-Cell) | High Power...",
+      "brand": "Gorulax",
+      "category": "Power Tools",
+      "price": 1198,
       "image": "https://m.media-amazon.com/images/I/61a65w84S2L.jpg | https://m.media-amazon.com/images/I/41UVOt2prGL.jpg | https://m.media-amazon.com/images/I/41M0A+EyjBL.jpg | https://m.media-amazon.com/images/I/51BjkUnZMtL.jpg | https://m.media-amazon.com/images/I/41yipT6TkJL.jpg | https://m.media-amazon.com/images/I/31Z0K+eZOxL.jpg | https://m.media-amazon.com/images/I/41eMYFvGSeL.jpg | https://m.media-amazon.com/images/I/413cIz7K+4L.jpg",
       "productUrl": "https://www.amazon.in/GORULAX%C2%AE48V-12000mAh-Rechargeable-Cordless-Gardening/dp/B0GWHV6VGF/ref=sr_1_212"
     }

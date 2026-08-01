@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOVSLIYZU2NSL",
-  "title": "PANKAJ Xtra Power Gasoline Chain Saw 58 CC Displacement XPG-CS22 Heavy Duty Machine",
+  "title": "PANKAJ Xtra Power Gasoline Chain Saw 58 CC Displacement...",
   "brand": "Generic",
-  "current_price": "₹12,899.00",
-  "mrp": "₹22,500",
+  "current_price": 12899,
+  "mrp": 22500,
   "product_url": "https://www.amazon.in/PANKAJ-Gasoline-Displacement-XPG-CS22-Machine/dp/B0GVKF3M6K/ref=sr_1_271",
   "description": "PANKAJ Xtra Power Gasoline Chain Saw 58 CC Displacement XPG-CS22 Heavy Duty Machine - Distributed/Packaged by Generic. Product Details: A chainsaw (or chain saw) is a portable, mechanical saw powered by a gasoline two-stroke engine. It is used in activities such as tree felling, limbing, bucking, pruning, by tree surgeons to fell trees and remove branches and foliage, to fell snags and assist in cutting firebreaks in wildland fire suppression, and to harvest firewood. Chainsaws with specially designed bar and chain combinations have been developed as tools for use in chainsaw art and chainsaw mills. This chain saw is powered by a heavy duty 58 cc engine.",
   "image_urls": [
@@ -17,24 +17,24 @@
   "specifications": {
     "Brand Name": "Generic",
     "Model Number": "XP 22\" chainsaw XPG-CS22",
-    "Unit Count": "1.0 Count",
     "Manufacturer": "xtra power TOOLS PVT LTD",
-    "Country of Publication": "China",
-    "Included Components": "XP 22\" chainsaw XPG-CS22",
-    "Item Weight": "6 Kilograms",
+    "Importer Contact Information": "Udyog Vihar Phase III, Gurugram, Haryana 91 124 4000608, +91 8743800144",
     "Item Type Name": "Tools & Machinery",
-    "Manufacturer Part Number": "XP 22'' chainsaw XPG-CS22",
     "Packer Contact Information": "Udyog Vihar Phase III, Gurugram, Haryana 91 124 4000608, +91 8743800144",
     "ASIN": "B0GVKF3M6K",
+    "Unit Count": "1.0 Count",
     "Power Source": "Gas Powered",
+    "Manufacturer Part Number": "XP 22'' chainsaw XPG-CS22",
+    "Included Components": "XP 22\" chainsaw XPG-CS22",
+    "Item Dimensions L x W x H": "50L x 30W x 35H Centimeters",
+    "Item Weight": "6 Kilograms",
     "Manufacturer Warranty Description": "NO",
-    "Importer Contact Information": "Udyog Vihar Phase III, Gurugram, Haryana 91 124 4000608, +91 8743800144",
-    "Horsepower": "2600 Watts",
-    "Item Dimensions L x W x H": "50L x 30W x 35H Centimeters"
+    "Country of Publication": "China",
+    "Horsepower": "2600 Watts"
   },
   "SKU": "JKE-IIYEOVSLIYZU2NSL",
-  "Name": "PANKAJ Xtra Power Gasoline Chain Saw 58 CC Displacement XPG-CS22 Heavy Duty Machine",
-  "Slug": "pankaj-xtra-power-gasoline-chain-saw-58-cc-displacement-xpg-cs22-heavy-duty-machine",
+  "Name": "PANKAJ Xtra Power Gasoline Chain Saw 58 CC Displacement...",
+  "Slug": "pankaj-xtra-power-gasoline-chain-saw-58-cc-displacement",
   "Category": "Power Tools",
   "Subcategory1": "Saws & Cutters",
   "Images": [
@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31DDVUnnovL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415S1eaDcIL.jpg | https://m.media-amazon.com/images/I/31DDVUnnovL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.0 Count",
-  "Discount": 0,
-  "SalePrice": "₹12,899.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 42.67,
+  "SalePrice": 12899,
   "Model": "XP 22\" chainsaw XPG-CS22"
 }

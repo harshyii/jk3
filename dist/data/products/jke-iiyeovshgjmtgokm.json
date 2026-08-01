@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOVSHGJMTGOKM",
-  "title": "Heavy Duty Hand Weeder for Weed Removal, Multipurpose Cleaning Shovel, Large Metal Shovel Scraper, Mud Remove Tool with Anti-Splash Panel, Gardening Tools for Home Garden(Without Handle)",
+  "title": "Heavy Duty Hand Weeder for Weed Removal, Multipurpose...",
   "brand": "Fiyans Spray",
-  "current_price": "₹119.00",
-  "mrp": "₹999",
+  "current_price": 119,
+  "mrp": 999,
   "product_url": "https://www.amazon.in/Removal-Multipurpose-Cleaning-Anti-Splash-Gardening/dp/B0GVG2Y39L/ref=sr_1_256",
   "description": "Heavy Duty Hand Weeder for Weed Removal, Multipurpose Cleaning Shovel, Large Metal Shovel Scraper, Mud Remove Tool with Anti-Splash Panel, Gardening Tools for Home Garden(Without Handle) - Distributed/Packaged by Fiyans Spray. Product Details: nan",
   "image_urls": [
@@ -23,16 +23,16 @@
   "image_url_6": "https://m.media-amazon.com/images/I/5161Ans+CrL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/51BwSXS0v9L.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Anand store 7990178776 fiyans khoja",
     "Item Type Name": "General",
     "ASIN": "‎B0GVG2Y39L",
     "Product Dimensions": "‎10 x 10 x 10 cm; 250 g",
-    "Item model number": "‎plat 01",
-    "Country of Origin": "‎India"
+    "Item model number": "‎plat 01"
   },
   "SKU": "JKE-IIYEOVSHGJMTGOKM",
-  "Name": "Heavy Duty Hand Weeder for Weed Removal, Multipurpose Cleaning Shovel, Large Metal Shovel Scraper, Mud Remove Tool with Anti-Splash Panel, Gardening Tools for Home Garden(Without Handle)",
-  "Slug": "heavy-duty-hand-weeder-for-weed-removal-multipurpose-cleaning-shovel-large-metal-shovel-scraper-mud-remove-tool-with-anti-splash-panel-gardening-tools-for-home-gardenwithout-handle",
+  "Name": "Heavy Duty Hand Weeder for Weed Removal, Multipurpose...",
+  "Slug": "heavy-duty-hand-weeder-for-weed-removal-multipurpose",
   "Category": "Garden & Outdoor",
   "Subcategory1": "Fencing Tools",
   "Images": [
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/51BwSXS0v9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51bdAVTtjaL.jpg | https://m.media-amazon.com/images/I/41ud+2jd6FL.jpg | https://m.media-amazon.com/images/I/41nIdw9PBGL.jpg | https://m.media-amazon.com/images/I/51IgkOuVxWL.jpg | https://m.media-amazon.com/images/I/5161Ans+CrL.jpg | https://m.media-amazon.com/images/I/51BwSXS0v9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹119.00",
+  "Discount": 88.09,
+  "SalePrice": 119,
   "Country": "‎India"
 }

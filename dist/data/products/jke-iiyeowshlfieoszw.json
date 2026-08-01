@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOWSHLFIEOSZW",
-  "title": "Amazon Basics Labor Saving 13 Inch Car Jack Ratchet Wrench| 360° Forward & Reverse Knob| Conversion Head Included | Curve Handle Car Lift Tool For Scissors Jack | Heat-Treated Steel Ratchet Lug Wrench",
+  "title": "Amazon Basics Labor Saving 13 Inch Car Jack Ratchet Wrench|...",
   "brand": "Amazon Basics",
-  "current_price": "₹299.00",
-  "mrp": "₹1,299",
+  "current_price": 299,
+  "mrp": 1299,
   "product_url": "https://www.amazon.in/Ratchet-Conversion-Included-Scissors-Heat-Treated/dp/B0GZGYPGK6/ref=sr_1_91",
   "rating": "4.34.3 out of 5 stars(24)4.3 out of 5 stars",
   "description": "Amazon Basics Labor Saving 13 Inch Car Jack Ratchet Wrench| 360° Forward & Reverse Knob| Conversion Head Included | Curve Handle Car Lift Tool For Scissors Jack | Heat-Treated Steel Ratchet Lug Wrench - Distributed/Packaged by Amazon Basics. Product Details: nan",
@@ -27,21 +27,21 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51Obv1icY5L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41gnsvWuCFL.jpg",
   "specifications": {
-    "Item Length": "34 Centimetres",
     "Brand Name": "amazon basics",
-    "Unit Count": "1 Count",
     "Manufacturer": "AVA International Private limited, Eco Tower, Sector-125, Noida, UP-201303",
-    "Included Components": "Jack Wrench",
-    "Item Weight": "0.29 Kilograms",
     "Item Type Name": "Jack Wrench",
     "Packer Contact Information": "AVA International Private limited, Eco Tower, Sector-125, Noida, UP-201303, Email id - Info@robustt.in, +91 93184 13119",
     "Best Sellers Rank": "#1,221 in Car & Motorbike (See Top 100 in Car & Motorbike)#3 inLug Wrenches",
     "ASIN": "B0GZGYPGK6",
-    "Customer Reviews": "4.34.3 out of 5 stars(24)4.3 out of 5 stars"
+    "Customer Reviews": "4.34.3 out of 5 stars(24)4.3 out of 5 stars",
+    "Unit Count": "1 Count",
+    "Included Components": "Jack Wrench",
+    "Item Weight": "0.29 Kilograms",
+    "Item Length": "34 Centimetres"
   },
   "SKU": "JKE-IIYEOWSHLFIEOSZW",
-  "Name": "Amazon Basics Labor Saving 13 Inch Car Jack Ratchet Wrench| 360° Forward & Reverse Knob| Conversion Head Included | Curve Handle Car Lift Tool For Scissors Jack | Heat-Treated Steel Ratchet Lug Wrench",
-  "Slug": "amazon-basics-labor-saving-13-inch-car-jack-ratchet-wrench-360-forward-reverse-knob-conversion-head-included-curve-handle-car-lift-tool-for-scissors-jack-heat-treated-steel-ratchet-lug-wrench",
+  "Name": "Amazon Basics Labor Saving 13 Inch Car Jack Ratchet Wrench|...",
+  "Slug": "amazon-basics-labor-saving-13-inch-car-jack-ratchet-wrench",
   "Category": "Hand Tools",
   "Subcategory1": "Wrenches & Spanners",
   "Images": [
@@ -56,8 +56,8 @@
     "https://m.media-amazon.com/images/I/51DqBWSwG8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Ye4oPJA6L.jpg | https://m.media-amazon.com/images/I/417f4Tcp6vL.jpg | https://m.media-amazon.com/images/I/51gLhfP3ImL.jpg | https://m.media-amazon.com/images/I/41glBXKQk7L.jpg | https://m.media-amazon.com/images/I/51rGVNulhYL.jpg | https://m.media-amazon.com/images/I/51Obv1icY5L.jpg | https://m.media-amazon.com/images/I/41gnsvWuCFL.jpg | https://m.media-amazon.com/images/I/51DqBWSwG8L.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹299.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 76.98,
+  "SalePrice": 299
 }

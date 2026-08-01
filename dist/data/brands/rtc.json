@@ -1,0 +1,26 @@
+{
+  "name": "Rtc",
+  "slug": "rtc",
+  "products": [
+    {
+      "sku": "JKE-IIYDQRSSINIDOUKO",
+      "slug": "rtc-dongcheng-dck-dca-djx255-10-inch-1650w-4600-rpm",
+      "name": "RTC Dongcheng DCK DCA DJX255 10 Inch, 1650W, 4600 RPM...",
+      "brand": "Rtc",
+      "category": "Power Tools",
+      "price": 3647,
+      "image": "https://m.media-amazon.com/images/I/41qNkJ9snAL.jpg | https://m.media-amazon.com/images/I/41qNkJ9snAL.jpg | https://m.media-amazon.com/images/I/412V9Gf00-L.jpg | https://m.media-amazon.com/images/I/31sX-qBHYZL.jpg | https://m.media-amazon.com/images/I/41DJkURTpVL.jpg",
+      "productUrl": "https://www.amazon.in/RTC-Dongcheng-DJX255-Electric-4600rpm/dp/B08FRCP7QN/ref=sr_1_102"
+    },
+    {
+      "sku": "JKE-IIYDQNBVKJFVAWSN",
+      "slug": "rtc-dongcheng-900w-magnetic-drill-maximum-capacity-16",
+      "name": "RTC Dongcheng 900W Magnetic Drill , Maximum Capacity 16...",
+      "brand": "Rtc",
+      "category": "Power Tools",
+      "price": 25999,
+      "image": "https://m.media-amazon.com/images/I/613W0WgxQ0L.jpg | https://m.media-amazon.com/images/I/41iRVPoUkVL.jpg | https://m.media-amazon.com/images/I/41p8b55xlXL.jpg | https://m.media-amazon.com/images/I/51hYaX5hd6L.jpg | https://m.media-amazon.com/images/I/51WOANY9g2L.jpg",
+      "productUrl": "https://www.amazon.in/RTC-Dongcheng-Magnetic-Maximum-Capacity/dp/B0845RKPZM/ref=sr_1_118"
+    }
+  ]
+}

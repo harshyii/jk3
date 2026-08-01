@@ -1,0 +1,36 @@
+{
+  "name": "Palmolive",
+  "slug": "palmolive",
+  "products": [
+    {
+      "sku": "JKE-IIYDQOCWGVGUESCY",
+      "slug": "palmolive-luminous-oils-invigorating-liquid-hand-wash",
+      "name": "Palmolive Luminous Oils Invigorating Liquid Hand Wash,...",
+      "brand": "Palmolive",
+      "category": "General Hardware",
+      "price": 99,
+      "image": "https://m.media-amazon.com/images/I/61filbwbBBL.jpg | https://m.media-amazon.com/images/I/51jILb77pSL.jpg | https://m.media-amazon.com/images/I/51r+WThnX-L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51BNPey3kUL.jpg | https://m.media-amazon.com/images/I/51r6NJlWorL.jpg | https://m.media-amazon.com/images/I/61KtoYB3WNL.jpg | https://m.media-amazon.com/images/I/51kmGHVBFWL.jpg | https://m.media-amazon.com/images/I/51sFZi7DhLL.jpg",
+      "productUrl": "https://www.amazon.in/Palmolive-Luminous-Invigorating-Macadamia-Extracts/dp/B088V5MBHX/ref=sr_1_245"
+    },
+    {
+      "sku": "JKE-IIYDQQ2GKBBVMURU",
+      "slug": "palmolive-luminous-oil-invigorating-body-wash-750ml-pump",
+      "name": "Palmolive Luminous Oil Invigorating Body Wash, 750ml Pump...",
+      "brand": "Palmolive",
+      "category": "Garden & Outdoor",
+      "price": 231,
+      "image": "https://m.media-amazon.com/images/I/61J5a3pFPrL.jpg | https://m.media-amazon.com/images/I/512wWEL4VrL.jpg | https://m.media-amazon.com/images/I/51+3RvAEvEL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51ZFow4IpHL.jpg | https://m.media-amazon.com/images/I/51-A9BhBbvL.jpg | https://m.media-amazon.com/images/I/51EguNz2HqL.jpg | https://m.media-amazon.com/images/I/51nCZNJRCKL.jpg | https://m.media-amazon.com/images/I/51c1sqRtWsL.jpg",
+      "productUrl": "https://www.amazon.in/Palmolive-Luminous-Invigorating-Macadamia-Extracts/dp/B08CFPCVR4/ref=sr_1_235"
+    },
+    {
+      "sku": "JKE-IIYEGTRTKBGFURRT",
+      "slug": "palmolive-luminous-oils-invigorating-liquid-hand-wash-250",
+      "name": "Palmolive Luminous Oils Invigorating Liquid Hand Wash, 250...",
+      "brand": "Palmolive",
+      "category": "General Hardware",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/61qeKPdPpwL.jpg | https://m.media-amazon.com/images/I/41hpBPD2MrL.jpg | https://m.media-amazon.com/images/I/51kmGHVBFWL.jpg | https://m.media-amazon.com/images/I/51sFZi7DhLL.jpg | https://m.media-amazon.com/images/I/41LRx5vE7TL.jpg",
+      "productUrl": "https://www.amazon.in/Palmolive-Invigorating-Macadamia-Oil-infused-nourishing/dp/B0CN3PLZF3/ref=sr_1_303"
+    }
+  ]
+}

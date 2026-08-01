@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDAN2JIFDFSNSL",
   "title": "Square D - QO2100",
   "brand": "Square D",
-  "current_price": "₹27,748.00",
-  "mrp": "₹38,789",
+  "current_price": 27748,
+  "mrp": 38789,
   "product_url": "https://www.amazon.in/Square-D-QO-2100-QO2100/dp/B007IAFY6K/ref=sr_1_98",
   "description": "Square D - QO2100 - Distributed/Packaged by Square D. Product Details: Square D QO Switch QO2100 QO280 QO280 for QO-Square D-QO2100 Load Centers",
   "image_urls": [
@@ -15,12 +15,12 @@
   "specifications": {
     "Brand Name": "Square D",
     "Model Number": "D QO 2100",
+    "Country of Origin": "USA",
     "Manufacturer": "Square D",
     "Item Type Name": "General",
     "ASIN": "B007IAFY6K",
-    "Country of Origin": "USA",
-    "Part Number": "Square D-QO2100",
-    "Voltage": "240 Volts"
+    "Voltage": "240 Volts",
+    "Part Number": "Square D-QO2100"
   },
   "SKU": "JKE-IIYDAN2JIFDFSNSL",
   "Name": "Square D - QO2100",
@@ -32,10 +32,10 @@
     "https://m.media-amazon.com/images/I/31rMLXkpApL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31rMLXkpApL.jpg | https://m.media-amazon.com/images/I/31rMLXkpApL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹27,748.00",
+  "Discount": 28.46,
+  "SalePrice": 27748,
   "Model": "D QO 2100",
   "Country": "USA"
 }

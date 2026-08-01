@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIVRTGNCFQTCS",
-  "title": "Eastman Bolt Cutter 450mm CRV Material – Heavy-Duty Durable Cutting Tool for Bolts Chains Wires Precision Cutter for Industrial Use Construction Repairs and Professional Applications (E-2040)",
+  "title": "Eastman Bolt Cutter 450mm CRV Material – Heavy-Duty Durable...",
   "brand": "Eastman",
-  "current_price": "₹1,260.00",
-  "mrp": "₹1,386",
+  "current_price": 1260,
+  "mrp": 1386,
   "product_url": "https://www.amazon.in/Eastman-Cutter-450mm-Material-2040/dp/B0DV33DXLR/ref=sr_1_109",
   "description": "Eastman Bolt Cutter 450mm CRV Material – Heavy-Duty Durable Cutting Tool for Bolts Chains Wires Precision Cutter for Industrial Use Construction Repairs and Professional Applications (E-2040) - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -33,8 +33,8 @@
     "Item model number": "‎E-2040_450"
   },
   "SKU": "JKE-IIYEIVRTGNCFQTCS",
-  "Name": "Eastman Bolt Cutter 450mm CRV Material – Heavy-Duty Durable Cutting Tool for Bolts Chains Wires Precision Cutter for Industrial Use Construction Repairs and Professional Applications (E-2040)",
-  "Slug": "eastman-bolt-cutter-450mm-crv-material-heavy-duty-durable-cutting-tool-for-bolts-chains-wires-precision-cutter-for-industrial-use-construction-repairs-and-professional-applications-e-2040",
+  "Name": "Eastman Bolt Cutter 450mm CRV Material – Heavy-Duty Durable...",
+  "Slug": "eastman-bolt-cutter-450mm-crv-material-heavy-duty-durable",
   "Category": "Hand Tools",
   "Subcategory1": "General Hand Tools",
   "Images": [
@@ -49,8 +49,8 @@
     "https://m.media-amazon.com/images/I/31rJIB1CFAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51c5s88plsL.jpg | https://m.media-amazon.com/images/I/31IaRUSVd8L.jpg | https://m.media-amazon.com/images/I/519vAy+RTSL.jpg | https://m.media-amazon.com/images/I/41OoU3U8ioL.jpg | https://m.media-amazon.com/images/I/31t26+OD7kL.jpg | https://m.media-amazon.com/images/I/413gg44mTML.jpg | https://m.media-amazon.com/images/I/41y-XOOZtAL.jpg | https://m.media-amazon.com/images/I/31rJIB1CFAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,260.00"
+  "Discount": 9.09,
+  "SalePrice": 1260
 }

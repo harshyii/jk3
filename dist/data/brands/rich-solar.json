@@ -1,0 +1,36 @@
+{
+  "name": "Rich Solar",
+  "slug": "rich-solar",
+  "products": [
+    {
+      "sku": "JKE-IIYEGV2QLJFVQMKD",
+      "slug": "rich-solar-250-watt-12-volt-16bb-monocrystalline-solar",
+      "name": "RICH SOLAR 250 Watt 12 Volt 16BB Monocrystalline Solar...",
+      "brand": "Rich Solar",
+      "category": "General Hardware",
+      "price": 64551.87,
+      "image": "https://m.media-amazon.com/images/I/71ylXfjTZlL.jpg | https://m.media-amazon.com/images/I/41KEFsj9lLL.jpg | https://m.media-amazon.com/images/I/412WXQQDk7L.jpg | https://m.media-amazon.com/images/I/41RZU4WAKGL.jpg | https://m.media-amazon.com/images/I/41c3zk-uKpL.jpg | https://m.media-amazon.com/images/I/51MJB-ygjtL.jpg | https://m.media-amazon.com/images/I/51HRBKrm4KL.jpg | https://m.media-amazon.com/images/I/51nndhCYnPL.jpg",
+      "productUrl": "https://www.amazon.in/RICH-SOLAR-250-Monocrystalline-Efficiency/dp/B0CWPZKX1C/ref=sr_1_262"
+    },
+    {
+      "sku": "JKE-IIYDQNS2JQ4VATJY",
+      "slug": "rich-solar-100-watt-12-volt-premium-monocrystalline-solar",
+      "name": "RICH SOLAR 100 Watt 12 Volt Premium Monocrystalline Solar...",
+      "brand": "Rich Solar",
+      "category": "General Hardware",
+      "price": 24172.01,
+      "image": "https://m.media-amazon.com/images/I/61r1eNDCPEL.jpg | https://m.media-amazon.com/images/I/41Qfeh67BuL.jpg | https://m.media-amazon.com/images/I/41g6q2nmivL.jpg | https://m.media-amazon.com/images/I/416zb0d84wL.jpg | https://m.media-amazon.com/images/I/51BGplGlzaL.jpg | https://m.media-amazon.com/images/I/41ePpiBZaaL.jpg | https://m.media-amazon.com/images/I/51WqFNo1+1L.jpg | https://m.media-amazon.com/images/I/51jcMh2PfEL.jpg",
+      "productUrl": "https://www.amazon.in/RICH-SOLAR-Premium-Monocrystalline-Solar/dp/B086ZL9PM8/ref=sr_1_270"
+    },
+    {
+      "sku": "JKE-IIYEGV2RGFBTIMSW",
+      "slug": "rich-solar-250w-24v-16bb-cell-monocrystalline-solar-panel",
+      "name": "RICH SOLAR 250W 24V 16BB Cell Monocrystalline Solar Panel...",
+      "brand": "Rich Solar",
+      "category": "General Hardware",
+      "price": 64551.87,
+      "image": "https://m.media-amazon.com/images/I/71UkEBkExcL.jpg | https://m.media-amazon.com/images/I/41pczsPeHoL.jpg | https://m.media-amazon.com/images/I/41Aj7e6m8IL.jpg | https://m.media-amazon.com/images/I/41fWTisfoaL.jpg | https://m.media-amazon.com/images/I/41Qkf0RmBhL.jpg | https://m.media-amazon.com/images/I/51mNTNGw9yL.jpg | https://m.media-amazon.com/images/I/510VcoCWgbL.jpg | https://m.media-amazon.com/images/I/51sDhaSbjZL.jpg",
+      "productUrl": "https://www.amazon.in/RICH-SOLAR-Monocrystalline-Efficiency-Certified/dp/B0CWQ1C42V/ref=sr_1_287"
+    }
+  ]
+}

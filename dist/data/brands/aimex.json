@@ -1,0 +1,36 @@
+{
+  "name": "Aimex",
+  "slug": "aimex",
+  "products": [
+    {
+      "sku": "JKE-IIYEINCIGMZFGN2Y",
+      "slug": "aimex-d7-plus-2200w-high-pressure-car-washer-150-bar-100",
+      "name": "Aimex D7 Plus 2200W High Pressure Car Washer, 150 Bar, 100%...",
+      "brand": "Aimex",
+      "category": "Power Tools",
+      "price": 8299,
+      "image": "https://m.media-amazon.com/images/I/81J5rosYKOL.jpg | https://m.media-amazon.com/images/I/51FFTyGnQPL.jpg | https://m.media-amazon.com/images/I/41jsaXhjG9L.jpg | https://m.media-amazon.com/images/I/41YXDFWWX6L.jpg | https://m.media-amazon.com/images/I/51WdmV3YsJL.jpg | https://m.media-amazon.com/images/I/51oNgIEQvqL.jpg | https://m.media-amazon.com/images/I/51sTwJ2TP7L.jpg",
+      "productUrl": "https://www.amazon.in/Aimex-Electric-D7-Plus-Pressure/dp/B0D4H32S7X/ref=sr_1_63"
+    },
+    {
+      "sku": "JKE-IIYEOSCOJJBUUWRT",
+      "slug": "aimex-dt-6502-high-pressure-car-washer-2200w-150-bar",
+      "name": "Aimex DT-6502 High Pressure Car Washer 2200W, 150 Bar,...",
+      "brand": "Aimex",
+      "category": "Power Tools",
+      "price": 6999,
+      "image": "https://m.media-amazon.com/images/I/71Te4tKAOQL.jpg | https://m.media-amazon.com/images/I/415+l-EydXL.jpg | https://m.media-amazon.com/images/I/41xqes-JCFL.jpg | https://m.media-amazon.com/images/I/41bZpc+jQ5L.jpg | https://m.media-amazon.com/images/I/51hXBfHAQ0L.jpg | https://m.media-amazon.com/images/I/41T0otQgH0L.jpg | https://m.media-amazon.com/images/I/51SBENlOrfL.jpg",
+      "productUrl": "https://www.amazon.in/Aimex-DT-6502-Pressure-Adjustable-Portable/dp/B0GHNJCJZ3/ref=sr_1_253"
+    },
+    {
+      "sku": "JKE-IIYEENCQHBBFATCH",
+      "slug": "aimex-premium-pressure-water-spray-gun-car-wash-floor",
+      "name": "Aimex Premium Pressure Water Spray Gun Car Wash Floor...",
+      "brand": "Aimex",
+      "category": "Fasteners & Hardware",
+      "price": 680,
+      "image": "https://m.media-amazon.com/images/I/51mB9mMxK6L.jpg | https://m.media-amazon.com/images/I/31GBeiNmlWL.jpg | https://m.media-amazon.com/images/I/31N2pagm-PL.jpg | https://m.media-amazon.com/images/I/31vlt8WEYwL.jpg",
+      "productUrl": "https://www.amazon.in/Aimex-Pressure-Gun-Cleaning-Adjustable/dp/B0B4P8BPLG/ref=sr_1_57"
+    }
+  ]
+}

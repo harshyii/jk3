@@ -1,0 +1,16 @@
+{
+  "name": "Pesoma",
+  "slug": "pesoma",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNCUKNEFGRZU",
+      "slug": "cordless-mini-angle-grinder-machine-with-rechargeable",
+      "name": "Cordless Mini Angle Grinder Machine with Rechargeable...",
+      "brand": "Pesoma",
+      "category": "Power Tools",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/61gsYwNdwqL.jpg | https://m.media-amazon.com/images/I/41AbbVwvIML.jpg | https://m.media-amazon.com/images/I/61ZQ+33OXvL.jpg | https://m.media-amazon.com/images/I/616DXND0s2L.jpg | https://m.media-amazon.com/images/I/61i7Bd5GPaL.jpg | https://m.media-amazon.com/images/I/51ir3l2z2XL.jpg | https://m.media-amazon.com/images/I/51Sf1XpByoL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Rechargeable-Portable-Polishing-Switch-Blue/dp/B0H4TSHSG4/ref=sr_1_279"
+    }
+  ]
+}

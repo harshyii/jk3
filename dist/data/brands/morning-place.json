@@ -1,0 +1,16 @@
+{
+  "name": "Morning Place",
+  "slug": "morning-place",
+  "products": [
+    {
+      "sku": "JKE-IIYDQRSYIMZFIS2U",
+      "slug": "mt-fuji-glass-tumbler-lock-traditional-wooden-box",
+      "name": "Mt. Fuji Glass Tumbler, Lock, Traditional, Wooden Box,...",
+      "brand": "Morning Place",
+      "category": "Storage & Organization",
+      "price": 6192,
+      "image": "https://m.media-amazon.com/images/I/61A8WGM7VPL.jpg | https://m.media-amazon.com/images/I/31TqQbv0TiL.jpg | https://m.media-amazon.com/images/I/41lG3GlhuNL.jpg | https://m.media-amazon.com/images/I/51AdpU9jMcL.jpg | https://m.media-amazon.com/images/I/51zm2s5lgKL.jpg | https://m.media-amazon.com/images/I/519F1No9MCL.jpg | https://m.media-amazon.com/images/I/41tHKUFZ+HL.jpg | https://m.media-amazon.com/images/I/31GdI+MhZ6L.jpg",
+      "productUrl": "https://www.amazon.in/morning-place-Tumbler-Traditional-Wedding/dp/B08FXC2TKT/ref=sr_1_207"
+    }
+  ]
+}

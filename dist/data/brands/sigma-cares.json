@@ -1,0 +1,36 @@
+{
+  "name": "Sigma Cares",
+  "slug": "sigma-cares",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNKXIZNEONKW",
+      "slug": "monsoon-care-pack-for-car-bike-car-wash-shampoo-125ml",
+      "name": "Monsoon Care Pack for Car & Bike | Car Wash Shampoo 125ml,...",
+      "brand": "Sigma Cares",
+      "category": "Power Tools",
+      "price": 331,
+      "image": "https://m.media-amazon.com/images/I/71LS4YwbEfL.jpg | https://m.media-amazon.com/images/I/51QE7PaJfML.jpg | https://m.media-amazon.com/images/I/61pgiojv-DL.jpg | https://m.media-amazon.com/images/I/51a86Z9Ee9L.jpg | https://m.media-amazon.com/images/I/61G0xMShqrL.jpg | https://m.media-amazon.com/images/I/61c6uL8WSKL.jpg | https://m.media-amazon.com/images/I/51Cn3TLZzlL.jpg | https://m.media-amazon.com/images/I/517LDx9w7WL.jpg",
+      "productUrl": "https://www.amazon.in/Sigma-CARES-Monsoon-Complete-Protection/dp/B0H5WFZG5V/ref=sr_1_245"
+    },
+    {
+      "sku": "JKE-IIYEOWSMIYYTEQ2W",
+      "slug": "carnauba-car-wax-polish-car-wash-shampoo-combo-for-car-",
+      "name": "Carnauba Car Wax Polish & Car Wash Shampoo Combo for Car &...",
+      "brand": "Sigma Cares",
+      "category": "Power Tools",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/713CXlYLbfL.jpg | https://m.media-amazon.com/images/I/514xdv6hR5L.jpg | https://m.media-amazon.com/images/I/61pgiojv-DL.jpg | https://m.media-amazon.com/images/I/61c6uL8WSKL.jpg | https://m.media-amazon.com/images/I/61io0mnCGbL.jpg | https://m.media-amazon.com/images/I/61G0xMShqrL.jpg | https://m.media-amazon.com/images/I/517LDx9w7WL.jpg | https://m.media-amazon.com/images/I/51+NhnKcseL.jpg",
+      "productUrl": "https://www.amazon.in/Sigma-CARES-Wax-Shampoo-Scratch-Free/dp/B0GZLF12CV/ref=sr_1_303"
+    },
+    {
+      "sku": "JKE-IIYEOWSHJVLUGSRT",
+      "slug": "wax-polish-for-car-bike-scooter-long-lasting-shine-",
+      "name": "Wax Polish for Car, Bike & Scooter | Long Lasting Shine &...",
+      "brand": "Sigma Cares",
+      "category": "Power Tools",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/71586yDpaNL.jpg | https://m.media-amazon.com/images/I/51+NhnKcseL.jpg | https://m.media-amazon.com/images/I/61QzoAnCUPL.jpg | https://m.media-amazon.com/images/I/61407zUUzhL.jpg | https://m.media-amazon.com/images/I/517LDx9w7WL.jpg",
+      "productUrl": "https://www.amazon.in/Sigma-CARES-Scooter-Protection-Anti-Rust/dp/B0GZGMWCJ3/ref=sr_1_11"
+    }
+  ]
+}

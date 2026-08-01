@@ -1,0 +1,46 @@
+{
+  "name": "Flexsolar",
+  "slug": "flexsolar",
+  "products": [
+    {
+      "sku": "JKE-IIYDSSBWJBHDMNJY",
+      "slug": "flexsolar-20w-solar-panel-etfe-foldable-monocrystalline-pv",
+      "name": "FlexSolar 20W Solar Panel ETFE Foldable Monocrystalline PV...",
+      "brand": "Flexsolar",
+      "category": "Electrical & Wiring",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71A4bANS0OL.jpg | https://m.media-amazon.com/images/I/41XzN27AHKL.jpg | https://m.media-amazon.com/images/I/41nx3P8cO-L.jpg | https://m.media-amazon.com/images/I/41SzrW6LEgL.jpg | https://m.media-amazon.com/images/I/41kbMKyXjiL.jpg | https://m.media-amazon.com/images/I/51sMbi27JvL.jpg | https://m.media-amazon.com/images/I/51-a9EJ+4RL.jpg | https://m.media-amazon.com/images/I/51UyO3elgfL.jpg",
+      "productUrl": "https://www.amazon.in/FlexSolar-Waterproof-Monocrystalline-Smartphone-Headphone/dp/B09H6HN658/ref=sr_1_145"
+    },
+    {
+      "sku": "JKE-IIYEIMSXIZKFURSY",
+      "slug": "flexsolar-30w-portable-solar-panel-chargers-qc30-18w-usb-a",
+      "name": "FlexSolar 30W Portable Solar Panel Chargers QC3.0 18W USB-A...",
+      "brand": "Flexsolar",
+      "category": "General Hardware",
+      "price": 7499,
+      "image": "https://m.media-amazon.com/images/I/614yv+-PXvL.jpg | https://m.media-amazon.com/images/I/31osfmCZwmL.jpg | https://m.media-amazon.com/images/I/41VLV1ekJxL.jpg | https://m.media-amazon.com/images/I/51n+3D8sArL.jpg | https://m.media-amazon.com/images/I/51wl2Z64q6L.jpg | https://m.media-amazon.com/images/I/51cvrGqixpL.jpg | https://m.media-amazon.com/images/I/41ynwvLg3ML.jpg | https://m.media-amazon.com/images/I/61CnocMdasL.jpg",
+      "productUrl": "https://www.amazon.in/FlexSolar-Emergency-Waterproof-Backpacking-Flashlight/dp/B0D2WFTZFX/ref=sr_1_66"
+    },
+    {
+      "sku": "JKE-IIYEIN2CKRFEUMSE",
+      "slug": "flexsolar-20w-solar-panel-charger-5v-usb-a-usb-c-output",
+      "name": "FlexSolar 20W Solar Panel Charger 5V USB-A USB-C Output...",
+      "brand": "Flexsolar",
+      "category": "General Hardware",
+      "price": 9974,
+      "image": "https://m.media-amazon.com/images/I/71u9ZFknYVL.jpg | https://m.media-amazon.com/images/I/41oR9-VjDNL.jpg | https://m.media-amazon.com/images/I/41M0z08DwwL.jpg | https://m.media-amazon.com/images/I/519rRaKtxjL.jpg | https://m.media-amazon.com/images/I/41O-thohYML.jpg | https://m.media-amazon.com/images/I/511deMffqLL.jpg | https://m.media-amazon.com/images/I/51HfEyqhn4L.jpg | https://m.media-amazon.com/images/I/41RxxJExdnL.jpg",
+      "productUrl": "https://www.amazon.in/FlexSolar-Waterproof-Backpacking-Emergency-Flashlight/dp/B0D7BTJJ2D/ref=sr_1_141"
+    },
+    {
+      "sku": "JKE-IIYDSSBWJBKFIS2S",
+      "slug": "flexsolar-10w-portable-solar-chargers-5v-usb-small-power",
+      "name": "FlexSolar 10W Portable Solar Chargers 5V USB Small Power...",
+      "brand": "Flexsolar",
+      "category": "Electrical & Wiring",
+      "price": 12413.1,
+      "image": "https://m.media-amazon.com/images/I/71hareF8xHL.jpg | https://m.media-amazon.com/images/I/41bF1bJBB9L.jpg | https://m.media-amazon.com/images/I/41j7DlQenaL.jpg | https://m.media-amazon.com/images/I/51cYYIjc0XL.jpg | https://m.media-amazon.com/images/I/41pAovbTc5L.jpg | https://m.media-amazon.com/images/I/41uzJZ+aW+L.jpg | https://m.media-amazon.com/images/I/51zB8dgQtQL.jpg | https://m.media-amazon.com/images/I/51eLl4rbR7L.jpg",
+      "productUrl": "https://www.amazon.in/FlexSolar-Emergency-Waterproof-Backpacking-Flashlight/dp/B09H6HTTKR/ref=sr_1_158"
+    }
+  ]
+}

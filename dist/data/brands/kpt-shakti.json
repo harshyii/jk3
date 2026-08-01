@@ -1,0 +1,16 @@
+{
+  "name": "Kpt Shakti",
+  "slug": "kpt-shakti",
+  "products": [
+    {
+      "sku": "JKE-IIYDORRVJJDEITSN",
+      "slug": "scp180-car-polisher-scp180",
+      "name": "SCP180 Car Polisher - SCP180",
+      "brand": "Kpt Shakti",
+      "category": "Power Tools",
+      "price": 5400,
+      "image": "https://m.media-amazon.com/images/I/41czKUSAJiL.jpg | https://m.media-amazon.com/images/I/41czKUSAJiL.jpg",
+      "productUrl": "https://www.amazon.in/KPT-Shakti-SCP180-Car-Polisher/dp/B07F5JFDNM/ref=sr_1_34"
+    }
+  ]
+}

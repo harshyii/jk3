@@ -4,13 +4,23 @@
   "products": [
     {
       "sku": "JKE-IIYEOVZZGEYUQSSY",
-      "slug": "balwaan-krishi-1-feet-30cm-heavy-spray-gun-long-spraying-range-high-pressure-suitable-for-battery-sprayers",
-      "name": "Balwaan Krishi 1 Feet (30cm) Heavy Spray Gun | Long Spraying Range | High Pressure Suitable for Battery Sprayers",
+      "slug": "balwaan-krishi-1-feet-30cm-heavy-spray-gun-long",
+      "name": "Balwaan Krishi 1 Feet (30cm) Heavy Spray Gun | Long...",
       "brand": "Balwaan Krishi",
       "category": "Adhesives & Chemicals",
-      "price": "₹398.00",
+      "price": 398,
       "image": "https://m.media-amazon.com/images/I/51Siib4vuyL.jpg | https://m.media-amazon.com/images/I/31sV8DFYo+L.jpg | https://m.media-amazon.com/images/I/41jwPs3PimL.jpg | https://m.media-amazon.com/images/I/41bwjBwI9CL.jpg | https://m.media-amazon.com/images/I/41Js7Hk7uBL.jpg | https://m.media-amazon.com/images/I/51pkxKDcmPL.jpg",
       "productUrl": "https://www.amazon.in/Balwaan-Krishi-Spray-Gun-Spraying/dp/B0GW911HJX/ref=sr_1_209"
+    },
+    {
+      "sku": "JKE-IIYEISZXJI4EETCM",
+      "slug": "balwaan-krishi-pressure-washer-brass-coated-pump-1800w",
+      "name": "Balwaan Krishi Pressure Washer Brass Coated Pump 1800w...",
+      "brand": "Balwaan Krishi",
+      "category": "Power Tools",
+      "price": 6900,
+      "image": "https://m.media-amazon.com/images/I/71vADXLE0YL.jpg | https://m.media-amazon.com/images/I/41d59VRCceL.jpg | https://m.media-amazon.com/images/I/51IAQV8JvyL.jpg | https://m.media-amazon.com/images/I/51mmo+ivxhL.jpg | https://m.media-amazon.com/images/I/51anhcki1OL.jpg | https://m.media-amazon.com/images/I/51bvh1d+sVL.jpg | https://m.media-amazon.com/images/I/51CU+Wb3k7L.jpg",
+      "productUrl": "https://www.amazon.in/Krishi-Pressure-Adjustable-Straight-Cleaning/dp/B0DK7J8BLL/ref=sr_1_62"
     }
   ]
 }

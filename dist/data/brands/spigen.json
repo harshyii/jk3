@@ -1,0 +1,36 @@
+{
+  "name": "Spigen",
+  "slug": "spigen",
+  "products": [
+    {
+      "sku": "JKE-IIYEMRZWJBGTEMKC",
+      "slug": "spigen-arcpack-5000mah-power-bank-with-built-in-foldable",
+      "name": "Spigen ArcPack 5000mAh Power Bank with Built-in Foldable...",
+      "brand": "Spigen",
+      "category": "Storage & Organization",
+      "price": 2199,
+      "image": "https://m.media-amazon.com/images/I/51VZl6rSDBL.jpg | https://m.media-amazon.com/images/I/31hs1BrY14L.jpg | https://m.media-amazon.com/images/I/41mEnUNnkkL.jpg | https://m.media-amazon.com/images/I/41nWRB-4jBL.jpg | https://m.media-amazon.com/images/I/415JDRMjz7L.jpg | https://m.media-amazon.com/images/I/51dwbaGeJ9L.jpg | https://m.media-amazon.com/images/I/41dqk8ipStL.jpg | https://m.media-amazon.com/images/I/41EkHs2cmYL.jpg",
+      "productUrl": "https://www.amazon.in/Spigen-ArcPack-Foldable-Connector-Charging/dp/B0FG6HM21B/ref=sr_1_248"
+    },
+    {
+      "sku": "JKE-IIYEOVSOIRDUMUK2",
+      "slug": "spigen-arcpack-10000mah-20w-2in1-wireless-power-bank",
+      "name": "Spigen ArcPack 10000mAh 20W 2in1 Wireless Power Bank...",
+      "brand": "Spigen",
+      "category": "Safety & PPE",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61mJ17L8JHL.jpg | https://m.media-amazon.com/images/I/31Ese4chPiL.jpg | https://m.media-amazon.com/images/I/516Xi+PPKgL.jpg | https://m.media-amazon.com/images/I/41HYwErOkGL.jpg | https://m.media-amazon.com/images/I/41YPPSO5KaL.jpg | https://m.media-amazon.com/images/I/514EzLG441L.jpg | https://m.media-amazon.com/images/I/41jzYIrworL.jpg | https://m.media-amazon.com/images/I/51wGqlOUseL.jpg",
+      "productUrl": "https://www.amazon.in/Spigen-10000mAh-Compatible-Anti-Slip-Non-MAGSAFE/dp/B0GVNDGFQZ/ref=sr_1_191"
+    },
+    {
+      "sku": "JKE-IIYDCRJUKU2FQMKJ",
+      "slug": "spigen-magnetic-metal-plate-set-for-car-phone-mount-4",
+      "name": "Spigen Magnetic Metal Plate Set for Car Phone Mount (4...",
+      "brand": "Spigen",
+      "category": "Storage & Organization",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/51QfjsAEAJL.jpg | https://m.media-amazon.com/images/I/31GcSM51xZL.jpg | https://m.media-amazon.com/images/I/51iZO0Aa-RL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/31LGrOYuAoL.jpg | https://m.media-amazon.com/images/I/41YOZVzyFuL.jpg | https://m.media-amazon.com/images/I/415TyaV+IwL.jpg | https://m.media-amazon.com/images/I/41NaFqOGEcL.jpg | https://m.media-amazon.com/images/I/514SkF11q-L.jpg",
+      "productUrl": "https://www.amazon.in/Spigen-Metal-Plates-Magnetic-Holder/dp/B01E4U4X1I/ref=sr_1_142"
+    }
+  ]
+}

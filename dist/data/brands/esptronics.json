@@ -3,22 +3,72 @@
   "slug": "esptronics",
   "products": [
     {
+      "sku": "JKE-IIYEOWCQLBGDIQSQ",
+      "slug": "educational-stem-physics-learning-experiment-kit-class-12",
+      "name": "Educational STEM Physics Learning Experiment Kit Class 12...",
+      "brand": "Esptronics",
+      "category": "General Hardware",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/5139+SMtkcL.jpg | https://m.media-amazon.com/images/I/41EPRJFTIcL.jpg | https://m.media-amazon.com/images/I/91jpwoCMkZL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41IfoCDzLHL.jpg | https://m.media-amazon.com/images/I/51W6UAak4IL.jpg | https://m.media-amazon.com/images/I/41GjAJGfBlL.jpg | https://m.media-amazon.com/images/I/51S77U-OejL.jpg | https://m.media-amazon.com/images/I/41fdry362WL.jpg",
+      "productUrl": "https://www.amazon.in/ESPtronics-Educational-Experiment-Automatic-Exhibition/dp/B0GXPXL4BP/ref=sr_1_245"
+    },
+    {
+      "sku": "JKE-IIYEOWCQLJNFESCU",
+      "slug": "science-exhibition-project-working-model-solar-mobile",
+      "name": "Science Exhibition Project Working Model Solar Mobile...",
+      "brand": "Esptronics",
+      "category": "General Hardware",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/5139+SMtkcL.jpg | https://m.media-amazon.com/images/I/41EPRJFTIcL.jpg | https://m.media-amazon.com/images/I/91jpwoCMkZL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41IfoCDzLHL.jpg | https://m.media-amazon.com/images/I/51W6UAak4IL.jpg | https://m.media-amazon.com/images/I/41GjAJGfBlL.jpg | https://m.media-amazon.com/images/I/51S77U-OejL.jpg | https://m.media-amazon.com/images/I/41fdry362WL.jpg",
+      "productUrl": "https://www.amazon.in/ESPtronics-Exhibition-Automatic-Educational-Experiment/dp/B0GXPZZRHT/ref=sr_1_239"
+    },
+    {
+      "sku": "JKE-IIYEOWCQKI4FOUCS",
+      "slug": "physics-learning-stem-educational-experiment-kit-class-12",
+      "name": "Physics Learning STEM Educational Experiment Kit Class 12...",
+      "brand": "Esptronics",
+      "category": "General Hardware",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/5139+SMtkcL.jpg | https://m.media-amazon.com/images/I/41EPRJFTIcL.jpg | https://m.media-amazon.com/images/I/91jpwoCMkZL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41IfoCDzLHL.jpg | https://m.media-amazon.com/images/I/51W6UAak4IL.jpg | https://m.media-amazon.com/images/I/41GjAJGfBlL.jpg | https://m.media-amazon.com/images/I/51S77U-OejL.jpg | https://m.media-amazon.com/images/I/41fdry362WL.jpg",
+      "productUrl": "https://www.amazon.in/ESPtronics-Educational-Experiment-Automatic-Exhibition/dp/B0GXPR8WPR/ref=sr_1_248"
+    },
+    {
       "sku": "JKE-IIYEMURSGI4FMS2S",
-      "slug": "stem-education-learning-renewable-energy-diy-science-project-working-model-mini-solar-panel-cell-experiment-kit-set-for-school-kids-and-student",
-      "name": "STEM Education Learning Renewable Energy DIY Science Project Working Model Mini Solar Panel Cell Experiment Kit Set for School Kids and Student",
+      "slug": "stem-education-learning-renewable-energy-diy-science",
+      "name": "STEM Education Learning Renewable Energy DIY Science...",
       "brand": "Esptronics",
       "category": "Electrical & Wiring",
-      "price": "₹199.00",
+      "price": 199,
       "image": "https://m.media-amazon.com/images/I/51s7fTSarfL.jpg | https://m.media-amazon.com/images/I/51s7fTSarfL.jpg | https://m.media-amazon.com/images/I/51wWVsJJCWL.jpg | https://m.media-amazon.com/images/I/51JHcIzAtCL.jpg | https://m.media-amazon.com/images/I/51U7-DSVWKL.jpg | https://m.media-amazon.com/images/I/51E99eXYZsL.jpg | https://m.media-amazon.com/images/I/51zdR0rKp5L.jpg | https://m.media-amazon.com/images/I/51+-1UmsUKL.jpg",
-      "productUrl": "https://www.amazon.in/ESPtronics-Education-Learning-Renewable-Experiment/dp/B0FR228VKR/ref=sr_1_1"
+      "productUrl": "https://www.amazon.in/ESPtronics-Education-Learning-Renewable-Experiment/dp/B0FR228VKR/ref=sr_1_241"
+    },
+    {
+      "sku": "JKE-IIYEMRCXI43FSNSN",
+      "slug": "mini-solar-panel-dc-motor-toy-fan-science-kit-working-model",
+      "name": "Mini Solar Panel DC Motor Toy Fan Science kit Working Model...",
+      "brand": "Esptronics",
+      "category": "Power Tools",
+      "price": 239,
+      "image": "https://m.media-amazon.com/images/I/41tYqSM6uKL.jpg | https://m.media-amazon.com/images/I/41tYqSM6uKL.jpg | https://m.media-amazon.com/images/I/616mju8ot2L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41xKzLRb0tL.jpg | https://m.media-amazon.com/images/I/41X7MhRvamL.jpg | https://m.media-amazon.com/images/I/51wgWJGqleL.jpg | https://m.media-amazon.com/images/I/51op6BYlNuL.jpg | https://m.media-amazon.com/images/I/41Pqxcz7poL.jpg",
+      "productUrl": "https://www.amazon.in/ESPtronics-Science-Working-Assembly-Students/dp/B0FDWG6Y6M/ref=sr_1_233"
+    },
+    {
+      "sku": "JKE-IIYEMUK2KZMUQOCZ",
+      "slug": "diy-science-project-renewable-energy-mini-solar-panel-cell",
+      "name": "DIY Science Project Renewable Energy Mini Solar Panel Cell...",
+      "brand": "Esptronics",
+      "category": "Electrical & Wiring",
+      "price": 189,
+      "image": "https://m.media-amazon.com/images/I/51s7fTSarfL.jpg | https://m.media-amazon.com/images/I/51s7fTSarfL.jpg | https://m.media-amazon.com/images/I/51wWVsJJCWL.jpg | https://m.media-amazon.com/images/I/51JHcIzAtCL.jpg | https://m.media-amazon.com/images/I/51U7-DSVWKL.jpg | https://m.media-amazon.com/images/I/51E99eXYZsL.jpg | https://m.media-amazon.com/images/I/51zdR0rKp5L.jpg | https://m.media-amazon.com/images/I/51+-1UmsUKL.jpg",
+      "productUrl": "https://www.amazon.in/ESPtronics-Renewable-Experiment-Education-Learning/dp/B0FQZVYH8Y/ref=sr_1_208"
     },
     {
       "sku": "JKE-IIYEMSSMKE2TCM2E",
-      "slug": "science-project-working-model-of-solar-panel-mobile-phone-battery-charger-stem-educational-experiment-kit-for-school-kids-and-students",
-      "name": "Science Project Working Model of Solar Panel Mobile Phone Battery Charger – STEM Educational Experiment Kit for School Kids and Students",
+      "slug": "science-project-working-model-of-solar-panel-mobile-phone",
+      "name": "Science Project Working Model of Solar Panel Mobile Phone...",
       "brand": "Esptronics",
       "category": "Electrical & Wiring",
-      "price": "₹379.00",
+      "price": 379,
       "image": "https://m.media-amazon.com/images/I/51Y+RHd9AZL.jpg | https://m.media-amazon.com/images/I/51Y+RHd9AZL.jpg | https://m.media-amazon.com/images/I/51Zb9jQe+hL.jpg | https://m.media-amazon.com/images/I/51el0DOdKEL.jpg | https://m.media-amazon.com/images/I/613fqk8jUFL.jpg | https://m.media-amazon.com/images/I/51XhmgXVZSL.jpg | https://m.media-amazon.com/images/I/41rz2nYvRNL.jpg",
       "productUrl": "https://www.amazon.in/ESPtronics-Science-Project-Working-Battery/dp/B0FJLQ513D/ref=sr_1_2"
     }

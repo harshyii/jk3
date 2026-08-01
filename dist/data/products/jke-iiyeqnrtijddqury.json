@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNRTIJDDQURY",
-  "title": "3kW Solar Off-Grid Kit Without Panels; UTL Gamma Plus 3400 r-MPPT PCU, Lithium 25.6V 100Ah LiFePO4 Battery with Heavy Duty GI High Rise 6-Panel Structure | (Panels Not Included)",
+  "title": "3kW Solar Off-Grid Kit Without Panels; UTL Gamma Plus 3400...",
   "brand": "Solarware",
-  "current_price": "₹79,950.00",
-  "mrp": "₹1,09,950",
+  "current_price": 79950,
+  "mrp": 109950,
   "product_url": "https://www.amazon.in/Solarware-Off-Grid-Without-Structure-Included/dp/B0H63BF8R8/ref=sr_1_35",
   "description": "3kW Solar Off-Grid Kit Without Panels; UTL Gamma Plus 3400 r-MPPT PCU, Lithium 25.6V 100Ah LiFePO4 Battery with Heavy Duty GI High Rise 6-Panel Structure | (Panels Not Included) - Distributed/Packaged by Solarware. Product Details: The Solarware SW-3K-MAX-PRO-GI (6P) is the ultimate upgrade for those who want to transition to Lithium solar technology without being forced to buy new panels. This kit provides the two most critical components of a solar plant—the intelligent PCU and fast-charging battery—mounted on a professional-grade Galvanized frame. Our structure is designed to hold up to 6 panels, using industrial 80x40mm C-Channels that far exceed the strength of local \"L-angle\" stands. Whether you are adding panels gradually or installing a fresh 6-pack of UTL, Loom Solar or Waaree panels, the SW-3K-MAX-PRO-GI ensures your investment is safe, stable, and highly efficient for over a decade.",
   "image_urls": [
@@ -23,22 +23,22 @@
   "specifications": {
     "Brand Name": "Solarware",
     "Model Number": "SW-3K-MAX-PRO-GI (6P)",
-    "Unit Count": "1.0 Count",
     "Manufacturer": "SOLARWARE",
-    "Country of Publication": "India",
-    "Included Components": "Solar Panel Structure for 6 Panels",
-    "Item Weight": "150 Kilograms",
     "Item Type Name": "Electrical & Solar",
-    "Manufacturer Part Number": "SW-3K-MAX-PRO-GI (6P)",
     "Packer Contact Information": "Solarware Industries | www.BijiBanao.com | Customer Care 80000-05405 | Email: solar@bijlibanao.com",
     "Best Sellers Rank": "#85,399 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#33 inMonocrystalline Solar Panels",
     "ASIN": "B0H63BF8R8",
+    "Unit Count": "1.0 Count",
+    "Manufacturer Part Number": "SW-3K-MAX-PRO-GI (6P)",
+    "Included Components": "Solar Panel Structure for 6 Panels",
     "Item Dimensions L x W x H": "3L x 3W x 3H Meters",
-    "Output Voltage": "230 Volts (AC)"
+    "Item Weight": "150 Kilograms",
+    "Output Voltage": "230 Volts (AC)",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEQNRTIJDDQURY",
-  "Name": "3kW Solar Off-Grid Kit Without Panels; UTL Gamma Plus 3400 r-MPPT PCU, Lithium 25.6V 100Ah LiFePO4 Battery with Heavy Duty GI High Rise 6-Panel Structure | (Panels Not Included)",
-  "Slug": "3kw-solar-off-grid-kit-without-panels-utl-gamma-plus-3400-r-mppt-pcu-lithium-256v-100ah-lifepo4-battery-with-heavy-duty-gi-high-rise-6-panel-structure-panels-not-included",
+  "Name": "3kW Solar Off-Grid Kit Without Panels; UTL Gamma Plus 3400...",
+  "Slug": "3kw-solar-off-grid-kit-without-panels-utl-gamma-plus-3400",
   "Category": "Safety & PPE",
   "Subcategory1": "High Visibility",
   "Images": [
@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41IWoIf7NZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51WBE0pO4zL.jpg | https://m.media-amazon.com/images/I/31FXIIPhJ8L.jpg | https://m.media-amazon.com/images/I/512VF7B62+L.jpg | https://m.media-amazon.com/images/I/41OJzNPXMhL.jpg | https://m.media-amazon.com/images/I/41IWoIf7NZL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.0 Count",
-  "Discount": 0,
-  "SalePrice": "₹79,950.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 27.29,
+  "SalePrice": 79950,
   "Model": "SW-3K-MAX-PRO-GI (6P)"
 }

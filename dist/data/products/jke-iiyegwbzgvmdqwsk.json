@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGWBZGVMDQWSK",
-  "title": "BOSCH GO 3.0 Professional Screwdriver Kit | 9-Piece Screwdriver Bit Set| 2.0Ah Battery | Speed 360 RPM | Torque 5/2 Nm | Push Start and Smart Stop | ¼\" HEX Universal Bit Holder| 1 Yr Warranty",
+  "title": "BOSCH GO 3.0 Professional Screwdriver Kit | 9-Piece...",
   "brand": "Bosch",
-  "current_price": "₹4,599.00",
-  "mrp": "₹6,800",
+  "current_price": 4599,
+  "mrp": 6800,
   "product_url": "https://www.amazon.in/Professional-Screwdriver-9-Piece-Universal-Warranty/dp/B0CX95X8ZJ/ref=sr_1_185",
   "description": "BOSCH GO 3.0 Professional Screwdriver Kit | 9-Piece Screwdriver Bit Set| 2.0Ah Battery | Speed 360 RPM | Torque 5/2 Nm | Push Start and Smart Stop | ¼\" HEX Universal Bit Holder| 1 Yr Warranty - Distributed/Packaged by Bosch. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41tcrBgHj2L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/513PUcYuK1L.jpg",
   "specifications": {
+    "Country of Origin": "‎Malaysia",
     "Manufacturer": "‎Bosch",
     "Item Type Name": "General",
     "ASIN": "‎B0CX95X8ZJ",
     "Product Dimensions": "‎9.4 x 4.8 x 3.5 cm; 320 g",
-    "Item model number": "‎06019H2281",
-    "Country of Origin": "‎Malaysia"
+    "Item model number": "‎06019H2281"
   },
   "SKU": "JKE-IIYEGWBZGVMDQWSK",
-  "Name": "BOSCH GO 3.0 Professional Screwdriver Kit | 9-Piece Screwdriver Bit Set| 2.0Ah Battery | Speed 360 RPM | Torque 5/2 Nm | Push Start and Smart Stop | ¼\" HEX Universal Bit Holder| 1 Yr Warranty",
-  "Slug": "bosch-go-30-professional-screwdriver-kit-9-piece-screwdriver-bit-set-20ah-battery-speed-360-rpm-torque-52-nm-push-start-and-smart-stop-hex-universal-bit-holder-1-yr-warranty",
+  "Name": "BOSCH GO 3.0 Professional Screwdriver Kit | 9-Piece...",
+  "Slug": "bosch-go-30-professional-screwdriver-kit-9-piece",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "General Fasteners",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/513PUcYuK1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618MWO2jjGL.jpg | https://m.media-amazon.com/images/I/310BP4dP1XL.jpg | https://m.media-amazon.com/images/I/41yyVCm4kOL.jpg | https://m.media-amazon.com/images/I/51eFCmSAjcL.jpg | https://m.media-amazon.com/images/I/41yFfEmnJNL.jpg | https://m.media-amazon.com/images/I/41tcrBgHj2L.jpg | https://m.media-amazon.com/images/I/513PUcYuK1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹4,599.00",
+  "Discount": 32.37,
+  "SalePrice": 4599,
   "Country": "‎Malaysia"
 }

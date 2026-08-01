@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOU22GZFVETCT",
-  "title": "Eastman Tool Kit Set | Combo Pack of 3 | Adjustable Wrenches 1Pcs 8/200 Mm, Combination Plier 1Pcs 8/200 Mm, Pipe Wrenches 1Pcs 10/250Mm (Set of 3 pcs Tool kit 2051-8_2020-8_2048-10)",
+  "title": "Eastman Tool Kit Set | Combo Pack of 3 | Adjustable...",
   "brand": "Eastman",
-  "current_price": "₹557.00",
-  "mrp": "₹999",
+  "current_price": 557,
+  "mrp": 999,
   "product_url": "https://www.amazon.in/Eastman-Adjustable-Wrenches-Combination-2051-8_2020-8_2048-10/dp/B0GSZ6KRLS/ref=sr_1_7",
   "description": "Eastman Tool Kit Set | Combo Pack of 3 | Adjustable Wrenches 1Pcs 8/200 Mm, Combination Plier 1Pcs 8/200 Mm, Pipe Wrenches 1Pcs 10/250Mm (Set of 3 pcs Tool kit 2051-8_2020-8_2048-10) - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -26,15 +26,15 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41NFWaqJ-JL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41LkFu9YuzL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎EASTMAN CAST & FORGE LIMITED",
     "Item Type Name": "General",
     "ASIN": "‎B0GSZ6KRLS",
-    "Product Dimensions": "‎25 x 15 x 10 cm; 1.2 kg",
-    "Country of Origin": "‎India"
+    "Product Dimensions": "‎25 x 15 x 10 cm; 1.2 kg"
   },
   "SKU": "JKE-IIYEOU22GZFVETCT",
-  "Name": "Eastman Tool Kit Set | Combo Pack of 3 | Adjustable Wrenches 1Pcs 8/200 Mm, Combination Plier 1Pcs 8/200 Mm, Pipe Wrenches 1Pcs 10/250Mm (Set of 3 pcs Tool kit 2051-8_2020-8_2048-10)",
-  "Slug": "eastman-tool-kit-set-combo-pack-of-3-adjustable-wrenches-1pcs-8200-mm-combination-plier-1pcs-8200-mm-pipe-wrenches-1pcs-10250mm-set-of-3-pcs-tool-kit-2051-8-2020-8-2048-10",
+  "Name": "Eastman Tool Kit Set | Combo Pack of 3 | Adjustable...",
+  "Slug": "eastman-tool-kit-set-combo-pack-of-3-adjustable",
   "Category": "Hand Tools",
   "Subcategory1": "Wrenches & Spanners",
   "Images": [
@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51FCVtPUIEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51QbTWbsqML.jpg | https://m.media-amazon.com/images/I/418Ow9rEPlL.jpg | https://m.media-amazon.com/images/I/41YQ7Zq4QtL.jpg | https://m.media-amazon.com/images/I/41LzIde78GL.jpg | https://m.media-amazon.com/images/I/41cEmAXz2fL.jpg | https://m.media-amazon.com/images/I/41NFWaqJ-JL.jpg | https://m.media-amazon.com/images/I/41LkFu9YuzL.jpg | https://m.media-amazon.com/images/I/51FCVtPUIEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹557.00",
+  "Discount": 44.24,
+  "SalePrice": 557,
   "Country": "‎India"
 }

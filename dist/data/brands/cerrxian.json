@@ -1,0 +1,36 @@
+{
+  "name": "Cerrxian",
+  "slug": "cerrxian",
+  "products": [
+    {
+      "sku": "JKE-IIYDOVCQGEYVGWKS",
+      "slug": "cerrxian-70cm-12awg-2-pin-male-to-sae-2-pin-quick",
+      "name": "CERRXIAN 70cm 12AWG 2 Pin Male to SAE 2 Pin Quick...",
+      "brand": "Cerrxian",
+      "category": "Measuring & Layout",
+      "price": 3593.51,
+      "image": "https://m.media-amazon.com/images/I/51Crl46M+EL.jpg | https://m.media-amazon.com/images/I/4158dRYFXnL.jpg | https://m.media-amazon.com/images/I/31aSDv5JDmL.jpg | https://m.media-amazon.com/images/I/416ohz5BICL.jpg | https://m.media-amazon.com/images/I/31xjHROVB6L.jpg | https://m.media-amazon.com/images/I/41zjGtj6UHL.jpg | https://m.media-amazon.com/images/I/41ktALe50EL.jpg",
+      "productUrl": "https://www.amazon.in/CERRXIAN-Disconnect-Industrial-Waterproof-Connector/dp/B07TP11SYR/ref=sr_1_115"
+    },
+    {
+      "sku": "JKE-IIYDOVCCG5MEQMSI",
+      "slug": "cerrxian-55cm-10awg-sae-socket-solar-weatherproof-sidewall",
+      "name": "CERRXIAN 55cm 10AWG SAE Socket Solar Weatherproof Sidewall...",
+      "brand": "Cerrxian",
+      "category": "Power Tools",
+      "price": 2022,
+      "image": "https://m.media-amazon.com/images/I/61mEqXrOQbL.jpg | https://m.media-amazon.com/images/I/31ET40uNlRL.jpg | https://m.media-amazon.com/images/I/411B+tjgRCL.jpg | https://m.media-amazon.com/images/I/41v3-gBNFFL.jpg | https://m.media-amazon.com/images/I/41ZQ52x4RML.jpg | https://m.media-amazon.com/images/I/31zchpZsRTL.jpg | https://m.media-amazon.com/images/I/5123uf+v28L.jpg",
+      "productUrl": "https://www.amazon.in/CERRXIAN-Weatherproof-Sidewall-Disconnect-Harness/dp/B07TB7XH2H/ref=sr_1_114"
+    },
+    {
+      "sku": "JKE-IIYDOVBVLEZEQUK2",
+      "slug": "cerrxian-50cm-10awg-sae-to-male-female-adapter-10awg",
+      "name": "CERRXIAN 50cm 10AWG SAE to Male & Female Adapter 10AWG...",
+      "brand": "Cerrxian",
+      "category": "Electrical & Wiring",
+      "price": 2996.81,
+      "image": "https://m.media-amazon.com/images/I/71pS7YI98WL.jpg | https://m.media-amazon.com/images/I/41ihg783hXL.jpg | https://m.media-amazon.com/images/I/41jBMYv20mL.jpg | https://m.media-amazon.com/images/I/41jzTcRb3dL.jpg | https://m.media-amazon.com/images/I/31L-AKVsO7L.jpg | https://m.media-amazon.com/images/I/41aQaxxce3L.jpg | https://m.media-amazon.com/images/I/31ynN+JlVUL.jpg | https://m.media-amazon.com/images/I/414i086gL9L.jpg",
+      "productUrl": "https://www.amazon.in/CERRXIAN-10AWG-Female-Adapter-Conector/dp/B07T5Y2HQZ/ref=sr_1_109"
+    }
+  ]
+}

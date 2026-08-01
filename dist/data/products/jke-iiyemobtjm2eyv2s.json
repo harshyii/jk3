@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEMOBTJM2EYV2S",
-  "title": "3x5Pcs Mini Solar Panel Polycrystalline Silicon DIY Battery Charger 30x25mm 1V | Home Improvement | Electrical & Solar | Alternative & Solar Energy | Solar Panels",
+  "title": "3x5Pcs Mini Solar Panel Polycrystalline Silicon DIY Battery...",
   "brand": "Loom Tree",
-  "current_price": "₹871.00",
-  "mrp": "₹1,574",
+  "current_price": 871,
+  "mrp": 1574,
   "product_url": "https://www.amazon.in/LOOM-Polycrystalline-Improvement-Electrical-Alternative/dp/B0F83K4LWR/ref=sr_1_41",
   "description": "3x5Pcs Mini Solar Panel Polycrystalline Silicon DIY Battery Charger 30x25mm 1V | Home Improvement | Electrical & Solar | Alternative & Solar Energy | Solar Panels - Distributed/Packaged by Loom Tree. Product Details: Description:Can be applied to varies appliance, pecfect for everyday use.Lightweight, small in size and easy to take.Waterproof solar panel with long lasting aluminum frame, you will be surprised how much longer the battery lasts.With its overcharge protection and reverse protection, it is very to use this solar battery clip.Perfect for mobile phone charger, garden lamp, street lamp, traffic warning light, navigation light,solar toy, etc.Specification:Material: Polycrystalline SiliconSize:30x25mm/1.18x0.98inchRated current:80mAPackage Includes:5 Pieces Solar Panel(3 Pack)Note:Since the size above is measured by hand, the size of the actual item could be slightly different from the size above.Due to the lighting effects, monitor settings, etc. There could be some slight difference in the color of the pictures and the actual item.",
   "image_urls": [
@@ -24,13 +24,13 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41d39vhknhL.jpg",
   "specifications": {
     "Item Type Name": "General",
+    "Item Part Number": "‎LTIN19544226",
     "Color": "‎As per image",
-    "Item Model Number": "‎LTIN19544226",
-    "Item Part Number": "‎LTIN19544226"
+    "Item Model Number": "‎LTIN19544226"
   },
   "SKU": "JKE-IIYEMOBTJM2EYV2S",
-  "Name": "3x5Pcs Mini Solar Panel Polycrystalline Silicon DIY Battery Charger 30x25mm 1V | Home Improvement | Electrical & Solar | Alternative & Solar Energy | Solar Panels",
-  "Slug": "3x5pcs-mini-solar-panel-polycrystalline-silicon-diy-battery-charger-30x25mm-1v-home-improvement-electrical-solar-alternative-solar-energy-solar-panels",
+  "Name": "3x5Pcs Mini Solar Panel Polycrystalline Silicon DIY Battery...",
+  "Slug": "3x5pcs-mini-solar-panel-polycrystalline-silicon-diy-battery",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -43,8 +43,8 @@
     "https://m.media-amazon.com/images/I/41d39vhknhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41QRNA1bP3L.jpg | https://m.media-amazon.com/images/I/41QRNA1bP3L.jpg | https://m.media-amazon.com/images/I/41T7lEYAu4S.jpg | https://m.media-amazon.com/images/I/41LnAgbP-sL.jpg | https://m.media-amazon.com/images/I/41OzksLF+kL.jpg | https://m.media-amazon.com/images/I/41MjqD+Qf2L.jpg | https://m.media-amazon.com/images/I/41d39vhknhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹871.00"
+  "Discount": 44.66,
+  "SalePrice": 871
 }

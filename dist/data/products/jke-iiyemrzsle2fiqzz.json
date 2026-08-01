@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEMRZSLE2FIQZZ",
-  "title": "Kenbrook Solar Water Drain Clip 40mm | Durable & Weather-Resistant | Secure Drainage for Solar Panels | (Set of 10)",
+  "title": "Kenbrook Solar Water Drain Clip 40mm | Durable &...",
   "brand": "Kenbrook",
-  "current_price": "₹274.00",
-  "mrp": "₹599",
+  "current_price": 274,
+  "mrp": 599,
   "product_url": "https://www.amazon.in/Kenbrook-Solar-Durable-Weather-Resistant-Drainage/dp/B0FG2Y4TC9/ref=sr_1_147",
   "description": "Kenbrook Solar Water Drain Clip 40mm | Durable & Weather-Resistant | Secure Drainage for Solar Panels | (Set of 10) - Distributed/Packaged by Kenbrook. Product Details: A solar water drain clip is a crucial accessory for solar panel systems, designed to manage water flow and prevent damage. It effectively directs rainwater away from the panel surface, ensuring proper drainage and maintaining optimal performance. This clip also organizes cables, reducing the risk of wear and ensuring a neat installation. Please note : PLEASE MEASURE YOUR SOLAR PANEL FRAME WIDTH BEFORE PURCHASING. This product is available in 3 sizes: 30mm, 35mm & 40mm",
   "image_urls": [
@@ -23,21 +23,21 @@
   "image_url_6": "https://m.media-amazon.com/images/I/31jRgNQbSWL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/31jz-YpkZUL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Kenbrook Solar Pvt Ltd",
-    "Included Components": "‎10 Solar Water Drain Clip",
-    "Item Weight": "‎100 g",
     "Item Type Name": "General",
+    "Included Components": "‎10 Solar Water Drain Clip",
     "Brand": "‎Kenbrook Solar",
     "Number of Memory Sticks": "‎5",
+    "Item Weight": "‎100 g",
     "Product Dimensions": "‎6 x 3 x 3 cm; 100 g",
     "Item Height": "‎3 Centimeters",
     "Item Width": "‎3 Centimeters",
-    "Country of Origin": "‎India",
     "Item part number": "‎Solar Drain Clip"
   },
   "SKU": "JKE-IIYEMRZSLE2FIQZZ",
-  "Name": "Kenbrook Solar Water Drain Clip 40mm | Durable & Weather-Resistant | Secure Drainage for Solar Panels | (Set of 10)",
-  "Slug": "kenbrook-solar-water-drain-clip-40mm-durable-weather-resistant-secure-drainage-for-solar-panels-set-of-10",
+  "Name": "Kenbrook Solar Water Drain Clip 40mm | Durable &...",
+  "Slug": "kenbrook-solar-water-drain-clip-40mm-durable-",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31jz-YpkZUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PAgzw7W3L.jpg | https://m.media-amazon.com/images/I/21ngHYp+alL.jpg | https://m.media-amazon.com/images/I/51zL8BS4FnL.jpg | https://m.media-amazon.com/images/I/31SXDGuvsDL.jpg | https://m.media-amazon.com/images/I/31jRgNQbSWL.jpg | https://m.media-amazon.com/images/I/31jz-YpkZUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹274.00",
+  "Discount": 54.26,
+  "SalePrice": 274,
   "Country": "‎India"
 }

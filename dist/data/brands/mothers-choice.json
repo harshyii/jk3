@@ -1,0 +1,36 @@
+{
+  "name": "Mothers Choice",
+  "slug": "mothers-choice",
+  "products": [
+    {
+      "sku": "JKE-IIYEMRCMGJKDKTKM",
+      "slug": "mothers-choice-foam-cushioned-waterproof-quick-dry-diaper",
+      "name": "Mothers Choice Foam-Cushioned Waterproof Quick-Dry Diaper...",
+      "brand": "Mothers Choice",
+      "category": "General Hardware",
+      "price": 645,
+      "image": "https://m.media-amazon.com/images/I/51bpM42qq4L.jpg | https://m.media-amazon.com/images/I/31zIOjgNRnL.jpg | https://m.media-amazon.com/images/I/41Q-S-+eQHL.jpg | https://m.media-amazon.com/images/I/41J8lUgP8zL.jpg | https://m.media-amazon.com/images/I/41x35-WYK4L.jpg | https://m.media-amazon.com/images/I/418lObz4wZL.jpg | https://m.media-amazon.com/images/I/41kjJvxcIbL.jpg | https://m.media-amazon.com/images/I/41KnVu360SL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Choice-Foam-Cushioned-Waterproof-Pink-Green/dp/B0FDL2T5ML/ref=sr_1_206"
+    },
+    {
+      "sku": "JKE-IIYEGSC2HFJEGWJY",
+      "slug": "mothers-choice-large-size-waterproof-plastic-mattress",
+      "name": "Mothers Choice® Large Size Waterproof Plastic Mattress...",
+      "brand": "Mothers Choice",
+      "category": "General Hardware",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61XB03ncwbL.jpg | https://m.media-amazon.com/images/I/510oVO7Dm0L.jpg | https://m.media-amazon.com/images/I/51eZkvtPxVL.jpg | https://m.media-amazon.com/images/I/51VFIar-p1L.jpg | https://m.media-amazon.com/images/I/51UBbvNjS+L.jpg | https://m.media-amazon.com/images/I/51iNLlb-iSL.jpg | https://m.media-amazon.com/images/I/51RVzGDzn1L.jpg | https://m.media-amazon.com/images/I/51h1R8Qa8BL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Large-Size-Waterproof-Protection/dp/B0CHZ9RCY8/ref=sr_1_230"
+    },
+    {
+      "sku": "JKE-IIYDSTRZGQ2EIMST",
+      "slug": "mothers-choice-unisex-reusable-inside-plastic-outside",
+      "name": "Mothers Choice Unisex Reusable Inside Plastic Outside...",
+      "brand": "Mothers Choice",
+      "category": "Safety & PPE",
+      "price": 545,
+      "image": "https://m.media-amazon.com/images/I/61YPuWydwPL.jpg | https://m.media-amazon.com/images/I/41L7RNR2bFL.jpg | https://m.media-amazon.com/images/I/41jJkapSFRL.jpg | https://m.media-amazon.com/images/I/41ShSWy7QAL.jpg | https://m.media-amazon.com/images/I/41RjGoYa+uL.jpg | https://m.media-amazon.com/images/I/41tQB+g+nHL.jpg | https://m.media-amazon.com/images/I/31AQyP+L9QL.jpg | https://m.media-amazon.com/images/I/41vfVoHH+KS.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Choice%C2%AE-Reusable-Plastic-Waterproof/dp/B09N944D2S/ref=sr_1_219"
+    }
+  ]
+}

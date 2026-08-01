@@ -4,21 +4,31 @@
   "products": [
     {
       "sku": "JKE-IIYEIUKLK5EDISCM",
-      "slug": "flexible-solar-panel-60w-black-modern-flexible-a-solar-energy-60w-monocrystalline-solar-panel-durable-high-efficiency-ideal-for-home-rv-outdoor-off-grid-use",
-      "name": "Flexible Solar Panel 60W, Black, Modern Flexible, A+ Solar Energy 60W Monocrystalline Solar Panel | Durable & High Efficiency | Ideal for Home, RV, Outdoor & Off-Grid Use",
+      "slug": "flexible-solar-panel-60w-black-modern-flexible-a-solar",
+      "name": "Flexible Solar Panel 60W, Black, Modern Flexible, A+ Solar...",
       "brand": "Aton Solar",
       "category": "Storage & Organization",
-      "price": "₹2,999.00",
+      "price": 2999,
       "image": "https://m.media-amazon.com/images/I/61GhIsfXanL.jpg | https://m.media-amazon.com/images/I/41aAyxWs-GL.jpg | https://m.media-amazon.com/images/I/31qS3Pcjx3L.jpg | https://m.media-amazon.com/images/I/315Hr0R6fwL.jpg | https://m.media-amazon.com/images/I/41TzCcSViwL.jpg | https://m.media-amazon.com/images/I/41l8ZRHjUvL.jpg",
       "productUrl": "https://www.amazon.in/ATON-SOLAR-Flexible-Solar-Modern/dp/B0DQKWH4HL/ref=sr_1_80"
     },
     {
+      "sku": "JKE-IIYEOWKTKRDFMTBY",
+      "slug": "flexible-solar-panel-60w-black-modern-flexible-a-solar",
+      "name": "Flexible Solar Panel 60W, Black, Modern Flexible, A+ Solar...",
+      "brand": "Aton Solar",
+      "category": "General Hardware",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61GhIsfXanL.jpg | https://m.media-amazon.com/images/I/41aAyxWs-GL.jpg | https://m.media-amazon.com/images/I/5144COgAq9L.jpg | https://m.media-amazon.com/images/I/41l8ZRHjUvL.jpg | https://m.media-amazon.com/images/I/41TzCcSViwL.jpg",
+      "productUrl": "https://www.amazon.in/ATON-SOLAR-Flexible-Monocrystalline-Efficiency/dp/B0GYSTFVL8/ref=sr_1_100"
+    },
+    {
       "sku": "JKE-IIYEMNCSI4YUGNZV",
-      "slug": "flexible-solar-panel-10w-black-modern-flexible-a-solar-energy-10w-monocrystalline-solar-panel-durable-high-efficiency-ideal-for-home-rv-outdoor-off-grid-use",
-      "name": "Flexible Solar Panel 10W, Black, Modern Flexible, A+ Solar Energy 10W Monocrystalline Solar Panel | Durable & High Efficiency | Ideal for Home, RV, Outdoor & Off-Grid Use",
+      "slug": "flexible-solar-panel-10w-black-modern-flexible-a-solar",
+      "name": "Flexible Solar Panel 10W, Black, Modern Flexible, A+ Solar...",
       "brand": "Aton Solar",
       "category": "Power Tools",
-      "price": "₹999.00",
+      "price": 999,
       "image": "https://m.media-amazon.com/images/I/51-nJOUPUUL.jpg | https://m.media-amazon.com/images/I/41534UAhAaL.jpg | https://m.media-amazon.com/images/I/41GnnZ4NaiL.jpg | https://m.media-amazon.com/images/I/31Vxa0+sALL.jpg | https://m.media-amazon.com/images/I/415mh6pF7RL.jpg | https://m.media-amazon.com/images/I/41VE2LNwOzL.jpg | https://m.media-amazon.com/images/I/51OH5xWr8OL.jpg | https://m.media-amazon.com/images/I/517uG0e7PVL.jpg",
       "productUrl": "https://www.amazon.in/ATON-SOLAR-Flexible-Monocrystalline-Efficiency/dp/B0F4RG1C75/ref=sr_1_177"
     }

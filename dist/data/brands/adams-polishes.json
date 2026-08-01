@@ -1,0 +1,26 @@
+{
+  "name": "Adam'S Polishes",
+  "slug": "adams-polishes",
+  "products": [
+    {
+      "sku": "JKE-IIYDOSCYKJBDKQ2E",
+      "slug": "adams-spray-wax-carnauba-infused-quick-detailer-spray",
+      "name": "Adam's Spray Wax - Carnauba Infused Quick Detailer Spray...",
+      "brand": "Adam'S Polishes",
+      "category": "Plumbing",
+      "price": 3665.09,
+      "image": "https://m.media-amazon.com/images/I/61EHI+FrByL.jpg | https://m.media-amazon.com/images/I/31TDj8XY72L.jpg | https://m.media-amazon.com/images/I/51JRmKOKwPL.jpg | https://m.media-amazon.com/images/I/514WW8LJK6L.jpg | https://m.media-amazon.com/images/I/51b00UsvMDL.jpg | https://m.media-amazon.com/images/I/51zB+JBuL3L.jpg | https://m.media-amazon.com/images/I/51LfhHzADzL.jpg | https://m.media-amazon.com/images/I/515GKC5ceOL.jpg",
+      "productUrl": "https://www.amazon.in/Adams-Spray-Wax-Carnauba-Protection/dp/B07HXRB5CD/ref=sr_1_131"
+    },
+    {
+      "sku": "JKE-IIYDORCYINMTGRRU",
+      "slug": "adams-polishes-brilliant-glaze-16oz-amazing-depth-gloss",
+      "name": "Adam's Polishes Brilliant Glaze 16oz - Amazing Depth, Gloss...",
+      "brand": "Adam'S Polishes",
+      "category": "Hand Tools",
+      "price": 8542,
+      "image": "https://m.media-amazon.com/images/I/61lhecPfMTL.jpg | https://m.media-amazon.com/images/I/31uxro-Ip3L.jpg | https://m.media-amazon.com/images/I/51PyzXKrEIL.jpg | https://m.media-amazon.com/images/I/517jf6PPNTL.jpg | https://m.media-amazon.com/images/I/51IWSzJAWlL.jpg | https://m.media-amazon.com/images/I/51DtAIsxf0L.jpg | https://m.media-amazon.com/images/I/51WQesFOFML.jpg | https://m.media-amazon.com/images/I/51798I9cGGL.jpg",
+      "productUrl": "https://www.amazon.in/Adams-Brilliant-Glaze-16oz-Amazing/dp/B07DXCY3F4/ref=sr_1_208"
+    }
+  ]
+}

@@ -3,12 +3,102 @@
   "slug": "sounce",
   "products": [
     {
+      "sku": "JKE-IIYEIMRZJBLVAR2I",
+      "slug": "sounce-spiral-cable-protector-17-meter-charging-cable",
+      "name": "Sounce Spiral Cable Protector, 1.7 Meter Charging Cable...",
+      "brand": "Sounce",
+      "category": "Electrical & Wiring",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/716Xo8utEOL.jpg | https://m.media-amazon.com/images/I/41GNxPxqscL.jpg | https://m.media-amazon.com/images/I/61YLP1WwOnL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41NUdsI+K+L.jpg | https://m.media-amazon.com/images/I/41KvZdKzyPL.jpg | https://m.media-amazon.com/images/I/414lwu5rQjL.jpg | https://m.media-amazon.com/images/I/41NL0JB-e5L.jpg | https://m.media-amazon.com/images/I/41yzqXWVTOL.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-Protector-Charging-Protection-Protective/dp/B0D29HWPGH/ref=sr_1_232"
+    },
+    {
+      "sku": "JKE-IIYEEUCNIIZE4RBS",
+      "slug": "sounce-cat6-ethernet-cable-10-meter-550-mhz-outdoor-",
+      "name": "Sounce Cat6 Ethernet Cable 10 Meter/ 550 MHz Outdoor &...",
+      "brand": "Sounce",
+      "category": "Power Tools",
+      "price": 208,
+      "image": "https://m.media-amazon.com/images/I/61YZJsvr7SL.jpg | https://m.media-amazon.com/images/I/41TXbIhmzdL.jpg | https://m.media-amazon.com/images/I/610keAnwinL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51NEDwRc4rL.jpg | https://m.media-amazon.com/images/I/519kYrzkYvL.jpg | https://m.media-amazon.com/images/I/41W-OonKhXL.jpg | https://m.media-amazon.com/images/I/51Bek6nppFL.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-Ethernet-Outdoor-Internet-Weatherproof/dp/B0BPMB2ND2/ref=sr_1_93"
+    },
+    {
+      "sku": "JKE-IIYEMTJXHAYVIMSH",
+      "slug": "65w-charger-compatible-with-nothing-original-usb-c-to-usb-c",
+      "name": "65W Charger Compatible With Nothing Original USB-C to USB-C...",
+      "brand": "Sounce",
+      "category": "Hand Tools",
+      "price": 169,
+      "image": "https://m.media-amazon.com/images/I/614RV60z+EL.jpg | https://m.media-amazon.com/images/I/31LbKBYwXmL.jpg | https://m.media-amazon.com/images/I/51tWvkz3jXL.jpg | https://m.media-amazon.com/images/I/41Q7PIBCqlL.jpg | https://m.media-amazon.com/images/I/51oh3S3gK9L.jpg | https://m.media-amazon.com/images/I/51n1FwnuB8L.jpg | https://m.media-amazon.com/images/I/41dpg3nG0yL.jpg | https://m.media-amazon.com/images/I/41RC4RsZe5L.jpg",
+      "productUrl": "https://www.amazon.in/Charger-Compatible-Original-Charging-Smartphones/dp/B0FM781T2G/ref=sr_1_161"
+    },
+    {
+      "sku": "JKE-IIYEMRSUJBEEWMKD",
+      "slug": "sounce-ultimate-cable-protector-spiral-triple-colour-15",
+      "name": "Sounce Ultimate Cable Protector | Spiral Triple Colour 1.5...",
+      "brand": "Sounce",
+      "category": "Electrical & Wiring",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/81VnMzbteSL.jpg | https://m.media-amazon.com/images/I/51BiVfdLvdL.jpg | https://m.media-amazon.com/images/I/41lgcOkc4ML.jpg | https://m.media-amazon.com/images/I/415IjuUMuoL.jpg | https://m.media-amazon.com/images/I/41swDyKZxEL.jpg | https://m.media-amazon.com/images/I/41Q2G5DLKGL.jpg | https://m.media-amazon.com/images/I/41rgS5fsGSL.jpg | https://m.media-amazon.com/images/I/51Gs2heVNQL.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-Ultimate-Protector-Plastic-Charging/dp/B0FFTHHK1C/ref=sr_1_210"
+    },
+    {
+      "sku": "JKE-IIYEMUSNGZCE2TKU",
+      "slug": "sounce-18m-power-cord-replacement-cable-with-india-plug",
+      "name": "Sounce 1.8M Power Cord Replacement Cable with India Plug...",
+      "brand": "Sounce",
+      "category": "Safety & PPE",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/61lO6VE5tzL.jpg | https://m.media-amazon.com/images/I/41n6JZ+-arL.jpg | https://m.media-amazon.com/images/I/41fWXxjDdRL.jpg | https://m.media-amazon.com/images/I/413T4q2MsjL.jpg | https://m.media-amazon.com/images/I/419WpI11aeL.jpg | https://m.media-amazon.com/images/I/41r7rNedqRL.jpg | https://m.media-amazon.com/images/I/41fHbvUnLcL.jpg | https://m.media-amazon.com/images/I/41Cu2IhvJ4L.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-Replacement-Connector-Desktop-Projector/dp/B0FRM6DMMT/ref=sr_1_277"
+    },
+    {
+      "sku": "JKE-IIYEIWBXINGEWOBS",
+      "slug": "sounce-charger-compatible-with-fossil-gen-4-gen-5-skagen",
+      "name": "Sounce Charger Compatible with Fossil Gen 4, Gen 5, Skagen...",
+      "brand": "Sounce",
+      "category": "Electrical & Wiring",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61T7i1X3VPL.jpg | https://m.media-amazon.com/images/I/31hfOIw3QTL.jpg | https://m.media-amazon.com/images/I/51rJbgxlKuL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/418R-iRXjpL.jpg | https://m.media-amazon.com/images/I/41SiQ8Pgx5L.jpg | https://m.media-amazon.com/images/I/41K6vFBypCL.jpg | https://m.media-amazon.com/images/I/41EhCnlzgsL.jpg | https://m.media-amazon.com/images/I/41kBjsz4TDL.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-Charger-Compatible-Fossil-falster/dp/B0DX7CLK82/ref=sr_1_198"
+    },
+    {
+      "sku": "JKE-IIYEMQSYGJEDIMJZ",
+      "slug": "sounce-self-adhesive-cable-clips-for-cord-management-",
+      "name": "Sounce Self-Adhesive Cable Clips for Cord Management –...",
+      "brand": "Sounce",
+      "category": "Storage & Organization",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/71cS3giPDxL.jpg | https://m.media-amazon.com/images/I/41ZCjbYsXaL.jpg | https://m.media-amazon.com/images/I/41z3HdHqOVL.jpg | https://m.media-amazon.com/images/I/41WYi4VK8NL.jpg | https://m.media-amazon.com/images/I/41cF90jpufL.jpg | https://m.media-amazon.com/images/I/41yEyoujj9L.jpg | https://m.media-amazon.com/images/I/411FpHWk7pL.jpg | https://m.media-amazon.com/images/I/41ekVeAep3L.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-Self-Adhesive-Cable-Clips-Management/dp/B0FBX2H419/ref=sr_1_250"
+    },
+    {
+      "sku": "JKE-IIYEEUJWJVBVCS2E",
+      "slug": "sounce-3-meter-high-speed-hdmi-cable-hdmi-arc-enabled-",
+      "name": "Sounce 3 Meter High-Speed HDMI Cable - Hdmi Arc Enabled |...",
+      "brand": "Sounce",
+      "category": "Storage & Organization",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/61KUaE1R97L.jpg | https://m.media-amazon.com/images/I/41FEfE5mZYL.jpg | https://m.media-amazon.com/images/I/61M1vR5NW7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51yEqk2sDsL.jpg | https://m.media-amazon.com/images/I/51rgkCQDicL.jpg | https://m.media-amazon.com/images/I/51YOAenw32L.jpg | https://m.media-amazon.com/images/I/5125h0HGAmL.jpg | https://m.media-amazon.com/images/I/41YvP3JbMHL.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-High-Speed-Ethernet-Compatible-Computer/dp/B0BQ6MCQKD/ref=sr_1_184"
+    },
+    {
+      "sku": "JKE-IIYEMWCTGRHDOUKX",
+      "slug": "sounce-8k-hdmi-21-high-speed-hdmi-cable-hdmi-earc",
+      "name": "Sounce 8K HDMI 2.1 High-Speed HDMI Cable – HDMI eARC...",
+      "brand": "Sounce",
+      "category": "Electrical & Wiring",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/71kbF7NtHuL.jpg | https://m.media-amazon.com/images/I/41sIliWbCOL.jpg | https://m.media-amazon.com/images/I/51q1ueXeS9L.jpg | https://m.media-amazon.com/images/I/51GxYeG8MfL.jpg | https://m.media-amazon.com/images/I/51AtJZmKLeL.jpg | https://m.media-amazon.com/images/I/51Zm38WFwVL.jpg | https://m.media-amazon.com/images/I/51mXJSpxYAL.jpg | https://m.media-amazon.com/images/I/41ib-bTzPVL.jpg",
+      "productUrl": "https://www.amazon.in/Sounce-HDMI-2-1-High-Speed-Cable/dp/B0FXS4N7QW/ref=sr_1_242"
+    },
+    {
       "sku": "JKE-IIYEIS2OII2DSU2N",
-      "slug": "sounce-type-c-hard-drive-enclosure-external-hard-drive-docking-station-for-3525-inch-sata-hard-drivesssd-with-16-tb-tool-free-hdd-enclosure-12v2a-power-supply-uasp-black",
-      "name": "Sounce Type C Hard Drive Enclosure, External Hard Drive Docking Station for 3.5/2.5 Inch SATA Hard Drives/SSD with 16 TB+, Tool-Free HDD Enclosure 12V/2A Power Supply UASP (Black)",
+      "slug": "sounce-type-c-hard-drive-enclosure-external-hard-drive",
+      "name": "Sounce Type C Hard Drive Enclosure, External Hard Drive...",
       "brand": "Sounce",
       "category": "General Hardware",
-      "price": "₹999.00",
+      "price": 999,
       "image": "https://m.media-amazon.com/images/I/61OYihLSiJL.jpg | https://m.media-amazon.com/images/I/41amyL6FR9L.jpg | https://m.media-amazon.com/images/I/61sRWdXcOZL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51oW5F4TDlL.jpg | https://m.media-amazon.com/images/I/51c8kC++gmL.jpg | https://m.media-amazon.com/images/I/51o8i66Ys5L.jpg | https://m.media-amazon.com/images/I/41WJrLspjtL.jpg | https://m.media-amazon.com/images/I/41XW-2xd2KL.jpg",
       "productUrl": "https://www.amazon.in/Sounce-Enclosure-3-5-12V-2A/dp/B0DKNB49SM/ref=sr_1_306"
     }

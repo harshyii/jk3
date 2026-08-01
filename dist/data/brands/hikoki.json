@@ -9,13 +9,603 @@
   "products": [
     {
       "sku": "JKE-IIYEGRBYGQ2TSSSK",
-      "slug": "hikoki-heavy-duty-corded-angle-grinder-715w-12000-rpm-100mm-disc-dia-16mm-whole-dia-15-kg-horsepower-1000w-double-insulated-body-depressed-center-wheel-wrench-included-pda100m",
-      "name": "HIKOKI Heavy Duty Corded Angle Grinder | 715W | 12000 RPM | 100mm Disc Dia | 16mm Whole Dia | 1.5 KG | Horsepower 1000W | Double Insulated Body | Depressed Center Wheel | Wrench Included | PDA100M",
+      "slug": "hikoki-heavy-duty-corded-angle-grinder-715w-12000-rpm-",
+      "name": "HIKOKI Heavy Duty Corded Angle Grinder | 715W | 12000 RPM |...",
       "brand": "Hikoki",
       "category": "Hand Tools",
-      "price": "₹3,449.00",
+      "price": 3449,
       "image": "https://m.media-amazon.com/images/I/51wg8OtYPcL.jpg | https://m.media-amazon.com/images/I/310owXILnnL.jpg | https://m.media-amazon.com/images/I/41fX+OpyGJL.jpg | https://m.media-amazon.com/images/I/41YZfAaiecL.jpg | https://m.media-amazon.com/images/I/51vBR34fjyL.jpg | https://m.media-amazon.com/images/I/51iz71ld5wL.jpg | https://m.media-amazon.com/images/I/41AuFsgDgvL.jpg | https://m.media-amazon.com/images/I/41ZEV2Fp1DL.jpg",
       "productUrl": "https://www.amazon.in/HIKOKI-PDA100MS9Z-Grinder-Depressed-Included/dp/B0CD8459JJ/ref=sr_1_174"
+    },
+    {
+      "sku": "JKE-IIYEGRZRK5DEEM2G",
+      "slug": "hikoki-d10vstas9z-corded-drill-with-soft-grip-handle-450",
+      "name": "Hikoki D10Vstas9Z Corded Drill With Soft Grip Handle, 450...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 2329,
+      "image": "https://m.media-amazon.com/images/I/61kF2CZ4C1L.jpg | https://m.media-amazon.com/images/I/41CRJbw7FEL.jpg | https://m.media-amazon.com/images/I/71j19ix44uL.jpg | https://m.media-amazon.com/images/I/41T8+5heINL.jpg | https://m.media-amazon.com/images/I/51lQS3lWJuL.jpg | https://m.media-amazon.com/images/I/5193aGmQuJL.jpg | https://m.media-amazon.com/images/I/41O7zA-X5xL.jpg | https://m.media-amazon.com/images/I/4165jkNipEL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-D10VSTAS9Z-Powerful-0-3000RPM-Included/dp/B0CG1WFB3F/ref=sr_1_281"
+    },
+    {
+      "sku": "JKE-IIYEGRZRKRLU4MKQ",
+      "slug": "hikoki-wr36dfkrz-36v-cordless-impact-wrench-brushless",
+      "name": "HIKOKI WR36DFKRZ 36V Cordless Impact Wrench, Brushless...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 48059,
+      "image": "https://m.media-amazon.com/images/I/61ceSoeWlTL.jpg | https://m.media-amazon.com/images/I/41K4v1h987L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WR36DFKRZ-Brushless-0-2600IPM-Batteries/dp/B0CG1TWN1P/ref=sr_1_276"
+    },
+    {
+      "sku": "JKE-IIYDAURVHFLUQRKR",
+      "slug": "hikoki-dh28pby2s9z-rotary-hammer-drill-machine-850w",
+      "name": "HIKOKI Dh28Pby2S9Z - Rotary Hammer Drill Machine 850W,...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 14329,
+      "image": "https://m.media-amazon.com/images/I/51KTvg5J0iL.jpg | https://m.media-amazon.com/images/I/31Wxfg2sMSL.jpg | https://m.media-amazon.com/images/I/3148H81NRML.jpg | https://m.media-amazon.com/images/I/31-AdhVwXBL.jpg | https://m.media-amazon.com/images/I/31itFPlSLlL.jpg | https://m.media-amazon.com/images/I/31Y6XmzQCdL.jpg | https://m.media-amazon.com/images/I/41aO-XsMURL.jpg | https://m.media-amazon.com/images/I/41Q-g+i2wQL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DH28PBY2S9Z-SDS-Plus-Drilling-Included/dp/B00R59WHEQ/ref=sr_1_107"
+    },
+    {
+      "sku": "JKE-IIYEGOKKJZFTSVCG",
+      "slug": "hikoki-wr25ses9zcorded-impact-wrench900-wattswith-tubler",
+      "name": "Hikoki Wr25Ses9Z,Corded Impact Wrench,900 Watts,With Tubler...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 20822,
+      "image": "https://m.media-amazon.com/images/I/71VYP4Y7xzL.jpg | https://m.media-amazon.com/images/I/414mh8ENAkL.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WR25SES9Z-Corded-Impact-Forward/dp/B0C9JNK9TF/ref=sr_1_165"
+    },
+    {
+      "sku": "JKE-IIYEGRBYGFGFGOKN",
+      "slug": "hikoki-tool-kitdv10vstkit-saz9-10mm-corded-impact",
+      "name": "Hikoki Tool Kit(Dv10Vst(Kit) Saz9), 10Mm Corded Impact...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 3330,
+      "image": "https://m.media-amazon.com/images/I/71K+PkQ+zGL.jpg | https://m.media-amazon.com/images/I/41OrgsFesML.jpg | https://m.media-amazon.com/images/I/41mQ4XF9+qL.jpg | https://m.media-amazon.com/images/I/51JsQfOUYvL.jpg | https://m.media-amazon.com/images/I/41p7ucxHKVL.jpg | https://m.media-amazon.com/images/I/51hYV1tApAL.jpg | https://m.media-amazon.com/images/I/51NI8-rtc-L.jpg",
+      "productUrl": "https://www.amazon.in/Hikoki-Dv10Vst-0-48000Bpm-Accessories-Included/dp/B0CD81LS9M/ref=sr_1_177"
+    },
+    {
+      "sku": "JKE-IIYEIWCOKRMUYMKH",
+      "slug": "hikoki-dh26phs9z-26mm-corded-rotary-hammer-drill-machine",
+      "name": "HIKOKI (DH26PHS9Z) 26mm Corded Rotary Hammer Drill Machine...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 7717,
+      "image": "https://m.media-amazon.com/images/I/5198h4wi1uL.jpg | https://m.media-amazon.com/images/I/41MnEQPBFoL.jpg | https://m.media-amazon.com/images/I/41XhPNCpAML.jpg | https://m.media-amazon.com/images/I/41HV4GRi4XL.jpg | https://m.media-amazon.com/images/I/41Lwso1OU+L.jpg | https://m.media-amazon.com/images/I/41A6NwfJUIL.jpg | https://m.media-amazon.com/images/I/41D5W+X1KTL.jpg | https://m.media-amazon.com/images/I/41hmWR2gTOL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DH26PHS9Z-SDS-Plus-Vibration-Protection/dp/B0DXNTYL1G/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-IIYDOTBWGVFTETCU",
+      "slug": "hikoki-aw130s9z-domestic-purpose-pressure-washer-with-130",
+      "name": "HiKOKI AW130S9Z Domestic Purpose Pressure Washer with 130...",
+      "brand": "Hikoki",
+      "category": "Fasteners & Hardware",
+      "price": 15850,
+      "image": "https://m.media-amazon.com/images/I/719VQ7MKWYL.jpg | https://m.media-amazon.com/images/I/41SR8Uhj5IL.jpg | https://m.media-amazon.com/images/I/31qdTg-uWxL.jpg | https://m.media-amazon.com/images/I/31PK4fUvnXL.jpg | https://m.media-amazon.com/images/I/31BpwuHkGrL.jpg | https://m.media-amazon.com/images/I/31VFSauBE9L.jpg",
+      "productUrl": "https://www.amazon.in/HiKOKI-AW130S9Z-Domestic-Pressure-Preessure-AW130/dp/B07L65K2LT/ref=sr_1_59"
+    },
+    {
+      "sku": "JKE-IIYEGVCGKFIVSSZW",
+      "slug": "hikoki-tct-saw-blade-5-30teeth-for-wood",
+      "name": "hikoki tct saw blade 5\" 30teeth for wood",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/71NqeuUJv0L.jpg | https://m.media-amazon.com/images/I/41-O++LLv7L.jpg | https://m.media-amazon.com/images/I/41Fr5vfeaWL.jpg | https://m.media-amazon.com/images/I/516uePyLG1L.jpg | https://m.media-amazon.com/images/I/41ZzCrZPOmL.jpg",
+      "productUrl": "https://www.amazon.in/hikoki-tct-blade-30teeth-wood/dp/B0CTFQQYK6/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJI2FOWCQ",
+      "slug": "hikoki-wh18dakcz-cordless-impact-driver-18v-140-nm",
+      "name": "HIKOKI WH18DAKCZ Cordless Impact Driver, 18V, 140 Nm,...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 10705,
+      "image": "https://m.media-amazon.com/images/I/51wHgHW0cpL.jpg | https://m.media-amazon.com/images/I/31cogddXTQL.jpg | https://m.media-amazon.com/images/I/31fAzkWUkbL.jpg | https://m.media-amazon.com/images/I/31j+BsxfqWL.jpg | https://m.media-amazon.com/images/I/31iCKqjrhUL.jpg | https://m.media-amazon.com/images/I/41L5ipHiMKL.jpg | https://m.media-amazon.com/images/I/3150EdUsKSL.jpg | https://m.media-amazon.com/images/I/41Q6JaGMrxL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WH18DAKCZ-Cordless-Batteries-Included/dp/B0CBNJ4WXP/ref=sr_1_39"
+    },
+    {
+      "sku": "JKE-IIYEGOKKKNITIWBR",
+      "slug": "hikoki-fcj65v3s9z-electric-jigsaw-400w-3000-spm-65-mm",
+      "name": "HIKOKI Fcj65V3S9Z Electric Jigsaw, 400W, 3000 Spm, 65 Mm,...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 3662,
+      "image": "https://m.media-amazon.com/images/I/61wOya0zsiL.jpg | https://m.media-amazon.com/images/I/41VaptGVAmL.jpg | https://m.media-amazon.com/images/I/411pndR5XhL.jpg | https://m.media-amazon.com/images/I/31g6KJ4u2jL.jpg | https://m.media-amazon.com/images/I/41ZWf8GdTYL.jpg | https://m.media-amazon.com/images/I/410ndxHU-xL.jpg | https://m.media-amazon.com/images/I/41L99cHUZuL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-FCJ65V3S9Z-Adjustable-Selection-Lightweight/dp/B0C9JSQ4X1/ref=sr_1_31"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJQ2U2UST",
+      "slug": "hikoki-c414033az-4100mm-metal-grinding-abrasive-wheel",
+      "name": "HIKOKI C414033AZ-4\"(100mm) Metal Grinding Abrasive Wheel...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 1386,
+      "image": "https://m.media-amazon.com/images/I/716Rw9No97L.jpg | https://m.media-amazon.com/images/I/51v5eqE3gQL.jpg | https://m.media-amazon.com/images/I/51BnEgI-raL.jpg | https://m.media-amazon.com/images/I/513RXDuenAL.jpg | https://m.media-amazon.com/images/I/51zz0BM2lQL.jpg | https://m.media-amazon.com/images/I/51lmjcDO+5L.jpg | https://m.media-amazon.com/images/I/41Z2sGUJsHL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-C414033AZ-4-Grinding-Abrasive-Grinders/dp/B0CBNL5MRS/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-IIYEGRBXLJHFUN2U",
+      "slug": "hikoki-d-handle-heavy-duty-corded-metal-cut-off-circular",
+      "name": "HIKOKI D-Handle Heavy Duty Corded Metal Cut-Off Circular...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 13259,
+      "image": "https://m.media-amazon.com/images/I/51yVSlB1yCL.jpg | https://m.media-amazon.com/images/I/41doGNLrf6L.jpg | https://m.media-amazon.com/images/I/51sq1PwjAIL.jpg | https://m.media-amazon.com/images/I/41LAXimDS8L.jpg | https://m.media-amazon.com/images/I/51O+zNvbIWL.jpg | https://m.media-amazon.com/images/I/41hgAaUIeCL.jpg | https://m.media-amazon.com/images/I/41GyIPjGa0L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-CC14STDS9Z-D-Handle-Machine-Included/dp/B0CD7ZNZ7T/ref=sr_1_3"
+    },
+    {
+      "sku": "JKE-IIYEGRZRK44EWUBY",
+      "slug": "hikoki-cj90vst2s9z-90mm-corded-top-handle-jig-saw-705w",
+      "name": "HIKOKI CJ90VST2S9Z 90mm Corded Top Handle Jig Saw, 705W...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 8779,
+      "image": "https://m.media-amazon.com/images/I/61mhhjxIj0L.jpg | https://m.media-amazon.com/images/I/41dA1MIOxVL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-CJ90VST2S9Z-Powerful-850-3000-Carrying/dp/B0CG1W8KP8/ref=sr_1_34"
+    },
+    {
+      "sku": "JKE-IIYDASRQGU2EURSJ",
+      "slug": "hikoki-carbon-brush-for-disc-grinder-1-pair",
+      "name": "HIKOKI Carbon Brush for Disc Grinder (1 Pair)",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 401,
+      "image": "https://m.media-amazon.com/images/I/612tQaywmdL.jpg | https://m.media-amazon.com/images/I/31fEud-xTdL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DP22pB-CARBON-BRUSH-PAIR/dp/B00J054JFI/ref=sr_1_55"
+    },
+    {
+      "sku": "JKE-IIYEGQSYHBHDMUJS",
+      "slug": "hikoki-702190z-9-230mm-metal-grinding-abrasive-cut-off",
+      "name": "HIKOKI 702190Z-9\" (230mm) Metal Grinding Abrasive Cut-Off...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 3700,
+      "image": "https://m.media-amazon.com/images/I/71oX-MdpSsL.jpg | https://m.media-amazon.com/images/I/51neFyxseCL.jpg | https://m.media-amazon.com/images/I/518NfzRo2eL.jpg | https://m.media-amazon.com/images/I/51kr4+DKovL.jpg | https://m.media-amazon.com/images/I/61leAC06aaL.jpg | https://m.media-amazon.com/images/I/51oTBV9fp5L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-702190Z-9-Grinding-Abrasive-Cut-Off/dp/B0CBX8N6Q2/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-IIYEMQ2ZKFMEOVSG",
+      "slug": "hikoki-g13mgas9z-125-mm-ac-angle-grinder-8800w-powerful",
+      "name": "HIKOKI G13MGAS9Z 125 mm Ac Angle Grinder | 8800W Powerful...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 2979,
+      "image": "https://m.media-amazon.com/images/I/41hYxn6N+0L.jpg | https://m.media-amazon.com/images/I/31NSKkIDlmL.jpg | https://m.media-amazon.com/images/I/518SDYqE60L.jpg | https://m.media-amazon.com/images/I/618ju5iQ-vL.jpg | https://m.media-amazon.com/images/I/31HaIzI81jL.jpg | https://m.media-amazon.com/images/I/31cgf0UFDdL.jpg | https://m.media-amazon.com/images/I/518MsW+xUuL.jpg | https://m.media-amazon.com/images/I/51-uH+Mx4WL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-G13MGAS9Z-Grinder-Powerful-11000Rpm/dp/B0FCYQXGVF/ref=sr_1_6"
+    },
+    {
+      "sku": "JKE-IIYEGQSOI44EGU2D",
+      "slug": "hikoki-wr18dfw4z-cordless-impact-fixed-square-wrench-18v",
+      "name": "HIKOKI Wr18Dfw4Z Cordless Impact Fixed Square Wrench, 18V,...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 4403,
+      "image": "https://m.media-amazon.com/images/I/51XK+k4HzRL.jpg | https://m.media-amazon.com/images/I/31rG2pXFiHL.jpg | https://m.media-amazon.com/images/I/31r4ck7JL5L.jpg | https://m.media-amazon.com/images/I/31FcXHpa7FL.jpg | https://m.media-amazon.com/images/I/31JD11DSaPL.jpg | https://m.media-amazon.com/images/I/31i47bLExKL.jpg | https://m.media-amazon.com/images/I/41YyBIFLi9L.jpg | https://m.media-amazon.com/images/I/413s7ElEECL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WR18DFW4Z-Cordless-Impact-Wrench/dp/B0CBNG8CSC/ref=sr_1_29"
+    },
+    {
+      "sku": "JKE-IIYEGOKKKBDVQSRR",
+      "slug": "hikoki-ds12dasfz-cordless-driver-drill-12v-peak-with-10mm",
+      "name": "HIKOKI Ds12Dasfz- Cordless Driver Drill, 12V Peak With 10Mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 9278,
+      "image": "https://m.media-amazon.com/images/I/51FOhZOGsxL.jpg | https://m.media-amazon.com/images/I/31odGZxZXgL.jpg | https://m.media-amazon.com/images/I/31gp4y8hzSL.jpg | https://m.media-amazon.com/images/I/31JAXbclW-L.jpg | https://m.media-amazon.com/images/I/31FJCt06TGL.jpg | https://m.media-amazon.com/images/I/31qvb4uUq8L.jpg | https://m.media-amazon.com/images/I/314UOh6-szL.jpg | https://m.media-amazon.com/images/I/41+CoYft1lL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DS12DASFZ-Cordless-Tightening-Batteries/dp/B0C9JPGXJ1/ref=sr_1_27"
+    },
+    {
+      "sku": "JKE-IIYEGOKKKBHEEQ2U",
+      "slug": "hikoki-m12sa2s9z-1700w-22000-rpm-12mm-router-electric",
+      "name": "HIKOKI M12SA2S9Z - 1700W, 22000 RPM, 12mm Router Electric...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 12279,
+      "image": "https://m.media-amazon.com/images/I/61f88TfKs9L.jpg | https://m.media-amazon.com/images/I/41Wk816g9OL.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg | https://m.media-amazon.com/images/I/413eIo7qDgL.jpg | https://m.media-amazon.com/images/I/41hhxsCONcL.jpg | https://m.media-amazon.com/images/I/41PMBScVBkL.jpg | https://m.media-amazon.com/images/I/4152zXSNY5L.jpg | https://m.media-amazon.com/images/I/41j9jCZJnCL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-M12SA2S9Z-Electric-Template-Included/dp/B0C9JPNBCT/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEGOKKKA2UOV2H",
+      "slug": "hikoki-c7sts9z-corded-electric-circular-saw-powerful-15",
+      "name": "HIKOKI C7STS9Z - Corded Electric Circular Saw, Powerful 15...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 11909,
+      "image": "https://m.media-amazon.com/images/I/515Try8Iv4L.jpg | https://m.media-amazon.com/images/I/31h5Oi1uhWL.jpg | https://m.media-amazon.com/images/I/31onR4Fo5bL.jpg | https://m.media-amazon.com/images/I/31sYe95wOJL.jpg | https://m.media-amazon.com/images/I/41n0-cIVKJL.jpg | https://m.media-amazon.com/images/I/31HN-8dUsnL.jpg | https://m.media-amazon.com/images/I/515QuZghK9L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-C7STS9Z-Electric-Circular-Powerful/dp/B0C9JP5GWG/ref=sr_1_42"
+    },
+    {
+      "sku": "JKE-IIYEGQSYIJMDGTSE",
+      "slug": "hikoki-401987z-4-110mm-tct-saw-blade-for-wood-pack-of-1",
+      "name": "HIKOKI 401987Z-4\" (110mm) TCT Saw Blade for Wood, Pack of 1...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 310,
+      "image": "https://m.media-amazon.com/images/I/61PC83R+VGL.jpg | https://m.media-amazon.com/images/I/417Fb2gR9bL.jpg | https://m.media-amazon.com/images/I/412N9DZ2VeL.jpg | https://m.media-amazon.com/images/I/41+DB2MYA4L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-401987Z-4-110mm-Blade-Wood/dp/B0CBXBX3ND/ref=sr_1_14"
+    },
+    {
+      "sku": "JKE-IIYEMQ2ZJVLTMSSG",
+      "slug": "hikoki-g10mgas9z-angle-grinder-machine-100-mm-700w",
+      "name": "HIKOKI G10MGAS9Z Angle Grinder Machine 100 mm | 700W...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 2200,
+      "image": "https://m.media-amazon.com/images/I/41pZaue7tIL.jpg | https://m.media-amazon.com/images/I/31Y51MvuJjL.jpg | https://m.media-amazon.com/images/I/518SDYqE60L.jpg | https://m.media-amazon.com/images/I/51thN2D9vJL.jpg | https://m.media-amazon.com/images/I/31GwTM0G8TL.jpg | https://m.media-amazon.com/images/I/51ahgo4DPdL.jpg | https://m.media-amazon.com/images/I/518MsW+xUuL.jpg | https://m.media-amazon.com/images/I/51-uH+Mx4WL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-G10MGAS9Z-Grinder-Powerful-11000Rpm/dp/B0FCYMW6JF/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJBDU2Q2U",
+      "slug": "hikoki-d-handle-corded-electric-mitre-saw-12-inch",
+      "name": "HIKOKI D-Handle Corded Electric Mitre Saw | 12 Inch...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 24818,
+      "image": "https://m.media-amazon.com/images/I/61tufgGRzcL.jpg | https://m.media-amazon.com/images/I/31xadEK-3+L.jpg | https://m.media-amazon.com/images/I/512x97giPmL.jpg | https://m.media-amazon.com/images/I/41086kmPOSL.jpg | https://m.media-amazon.com/images/I/51LIJ0CX2TL.jpg | https://m.media-amazon.com/images/I/41Jm+mkA55L.jpg | https://m.media-amazon.com/images/I/414+ih-wBrL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-C12FDHBS9Z-D-Handle-Electric-Compound/dp/B0CBNHGMCT/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYEGOKKJY3DMWKI",
+      "slug": "hikoki-sb8v2s9z-corded-belt-sander-with-1020-watts",
+      "name": "HIKOKI SB8V2S9Z- Corded Belt Sander with 1020 Watts...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 6257,
+      "image": "https://m.media-amazon.com/images/I/51ZKWazj61L.jpg | https://m.media-amazon.com/images/I/41FwcDH7teL.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg | https://m.media-amazon.com/images/I/41Uo0MOSi+L.jpg | https://m.media-amazon.com/images/I/413PmPori2L.jpg | https://m.media-amazon.com/images/I/41ZUAT+0odL.jpg | https://m.media-amazon.com/images/I/31jsmuf0FIL.jpg | https://m.media-amazon.com/images/I/41aljqkk9eL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-SB8V2S9Z-Corded-Powerful-Variable/dp/B0C9JN66YH/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-IIYEGRZRKRJEOVCD",
+      "slug": "hikoki-h41mb2s9z-corded-demolition-hammer-with-950w",
+      "name": "HIKOKI H41MB2S9Z Corded Demolition Hammer With 950W...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 14875,
+      "image": "https://m.media-amazon.com/images/I/41GEYXSfWbL.jpg | https://m.media-amazon.com/images/I/21Z05y5CINL.jpg | https://m.media-amazon.com/images/I/31cLzVuEezL.jpg | https://m.media-amazon.com/images/I/21Y6Je7FLxL.jpg | https://m.media-amazon.com/images/I/217No6zAjSL.jpg | https://m.media-amazon.com/images/I/41F+g46q+pL.jpg | https://m.media-amazon.com/images/I/31c8xKjHUNL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-H41MB2S9Z-Demolition-Powerful-Carrying/dp/B0CG1TRGTC/ref=sr_1_21"
+    },
+    {
+      "sku": "JKE-IIYEGOKKKBEEUN2C",
+      "slug": "hikoki-wh12dasfz-cordless-driver-drill12v-peak-with-12mm",
+      "name": "Hikoki Wh12Dasfz - Cordless Driver Drill,12V Peak With 12Mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 13739,
+      "image": "https://m.media-amazon.com/images/I/51P9r+82hsL.jpg | https://m.media-amazon.com/images/I/31vSrBq5FTL.jpg | https://m.media-amazon.com/images/I/31rI0uabxbL.jpg | https://m.media-amazon.com/images/I/31fC8HyK15L.jpg | https://m.media-amazon.com/images/I/41Jo1pxV13L.jpg | https://m.media-amazon.com/images/I/21IIawKu-sL.jpg | https://m.media-amazon.com/images/I/3143iCHPwmL.jpg | https://m.media-amazon.com/images/I/41Aeo5hWUuL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WH12DASFZ-Cordless-Tightening-Batteries/dp/B0C9JPHJ7B/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-IIYEMRCCJBBFISSR",
+      "slug": "hikoki-screwdriver-bit-set-ph65-10pcs-pack-402770",
+      "name": "hikoki screwdriver bit set ph65 10pcs pack 402770",
+      "brand": "Hikoki",
+      "category": "Fasteners & Hardware",
+      "price": 405,
+      "image": "https://m.media-amazon.com/images/I/41FvsMWD+aL.jpg | https://m.media-amazon.com/images/I/41FvsMWD+aL.jpg",
+      "productUrl": "https://www.amazon.in/hikoki-screwdriver-ph65-10pcs-402770/dp/B0FDBHBTJQ/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYEGQSYII3E2OJV",
+      "slug": "hikoki-796262z-9-230mm-metal-grinding-abrasive-cut-off",
+      "name": "HIKOKI 796262Z-9\" (230mm) Metal Grinding Abrasive Cut-Off...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 4966,
+      "image": "https://m.media-amazon.com/images/I/713nKsyvSGL.jpg | https://m.media-amazon.com/images/I/51cZshSaE6L.jpg | https://m.media-amazon.com/images/I/51ajM-LFoFL.jpg | https://m.media-amazon.com/images/I/51qWP65mHHL.jpg | https://m.media-amazon.com/images/I/51y5cRE60sL.jpg | https://m.media-amazon.com/images/I/51QSULdgxPL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-796262Z-9-Grinding-Abrasive-Cut-Off/dp/B0CBXB6M95/ref=sr_1_46"
+    },
+    {
+      "sku": "JKE-IIYEMTSLGJIUEOBX",
+      "slug": "hikoki-dv12de-cordless-driver-drill-12v-with-10mm",
+      "name": "HIKOKI DV12DE - Cordless Driver Drill, 12V With 10mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 5878,
+      "image": "https://m.media-amazon.com/images/I/817fT5S7F+L.jpg | https://m.media-amazon.com/images/I/41XGelOz8lL.jpg | https://m.media-amazon.com/images/I/3161mLp9ltL.jpg | https://m.media-amazon.com/images/I/31JaFfFft2L.jpg | https://m.media-amazon.com/images/I/41tRQBNp0qL.jpg | https://m.media-amazon.com/images/I/41eupOJpy9L.jpg | https://m.media-amazon.com/images/I/41ZSz4WQ3TL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DV12DE-Brushless-Tightening-Built/dp/B0FNK2QB87/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-IIYDOTBVKRDUOTCM",
+      "slug": "hikoki-aw100s9z-domestic-purpose-pressure-washer-with-100",
+      "name": "HiKOKI AW100S9Z Domestic Purpose Pressure Washer with 100...",
+      "brand": "Hikoki",
+      "category": "Fasteners & Hardware",
+      "price": 9450,
+      "image": "https://m.media-amazon.com/images/I/71zDib109wL.jpg | https://m.media-amazon.com/images/I/31qrG5x4SKL.jpg | https://m.media-amazon.com/images/I/31XHoo4n4uL.jpg | https://m.media-amazon.com/images/I/31Gd4vdjXoL.jpg | https://m.media-amazon.com/images/I/41XCI5QIHuL.jpg | https://m.media-amazon.com/images/I/3146ss0-JuL.jpg | https://m.media-amazon.com/images/I/31VFSauBE9L.jpg",
+      "productUrl": "https://www.amazon.in/HiKOKI-AW100S9Z-Domestic-Pressure-Preessure-AW100/dp/B07L5TGGLL/ref=sr_1_44"
+    },
+    {
+      "sku": "JKE-IIYEGRBYGFMDGWRZ",
+      "slug": "hikoki-h60mcsaz-demolition-hammer-with-sds-max-bit-shank",
+      "name": "Hikoki H60Mcsaz- Demolition Hammer With Sds Max Bit Shank,...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 23660,
+      "image": "https://m.media-amazon.com/images/I/51wfkxzlA6L.jpg | https://m.media-amazon.com/images/I/31-4-D0gvRL.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-H60MCSAZ-Demolition-Powerful-Carrying/dp/B0CD81X3Z9/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYDOTBWGQ3VEMRR",
+      "slug": "hikoki-hex-shank-electric-demolition-hammer-5-kg-h41sst",
+      "name": "HIKOKI Hex Shank Electric Demolition Hammer 5 kg - H41SST...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 7717,
+      "image": "https://m.media-amazon.com/images/I/61nX1RzhAjL.jpg | https://m.media-amazon.com/images/I/31Jp7HPaESL.jpg | https://m.media-amazon.com/images/I/41ZCW17GRoL.jpg",
+      "productUrl": "https://www.amazon.in/HiKOKI-H41SST-Shank-Demolition-Hammer/dp/B07L647R21/ref=sr_1_51"
+    },
+    {
+      "sku": "JKE-IIYDAU2ZKBATCNZQ",
+      "slug": "hikoki-dh26pb2-corded-electric-rotary-hammer-green",
+      "name": "HIKOKI DH26PB2 Corded Electric Rotary Hammer (Green)",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 9574,
+      "image": "https://m.media-amazon.com/images/I/71NhNCBZeUL.jpg | https://m.media-amazon.com/images/I/316GwBKWbiL.jpg",
+      "productUrl": "https://www.amazon.in/Hitachi-DH-26-Rotary-Hammer/dp/B00SYPA170/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-IIYEGRZRKRJEOVBS",
+      "slug": "hikoki-dh26pc2s9z-26mm-corded-rotary-hammer-drill-machine",
+      "name": "HIKOKI Dh26Pc2S9Z 26Mm Corded Rotary Hammer Drill Machine...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 14889,
+      "image": "https://m.media-amazon.com/images/I/51REL7vn5RL.jpg | https://m.media-amazon.com/images/I/31M76Cbrb8L.jpg | https://m.media-amazon.com/images/I/31f2KPuqj1L.jpg | https://m.media-amazon.com/images/I/31u2GrJMmWL.jpg | https://m.media-amazon.com/images/I/31+-bE3iUCL.jpg | https://m.media-amazon.com/images/I/31sOJLHjJQL.jpg | https://m.media-amazon.com/images/I/41aOfPFNEFL.jpg | https://m.media-amazon.com/images/I/41TzSowpgBL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DH26PC2S9Z-0-1100RPM-0-4300IPM-Vibration/dp/B0CG1TRGT2/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-IIYEMTSLGE4EQN2M",
+      "slug": "hikoki-ds12df-cordless-driver-drill-12v-with-10mm",
+      "name": "HIKOKI DS12DF - Cordless Driver Drill, 12V With 10mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 5800,
+      "image": "https://m.media-amazon.com/images/I/71OjaqxtwdL.jpg | https://m.media-amazon.com/images/I/31F02UNTWEL.jpg | https://m.media-amazon.com/images/I/41LSq7FZbKL.jpg | https://m.media-amazon.com/images/I/31Mrc8AJMFL.jpg | https://m.media-amazon.com/images/I/31huYcBNTTL.jpg | https://m.media-amazon.com/images/I/410i54ZIpJL.jpg | https://m.media-amazon.com/images/I/41KrVGcVrrL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DS12DF-Brushless-Tightening-Built/dp/B0FNK18H7L/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJVGTCTCR",
+      "slug": "hikoki-ul18dax4z-li-cordless-cooler-warmer-box-25-l",
+      "name": "HIKOKI UL18DAX4Z-LI Cordless Cooler & Warmer Box, 25 L...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 30519,
+      "image": "https://m.media-amazon.com/images/I/51sktGk028L.jpg | https://m.media-amazon.com/images/I/31tMj4lRhWL.jpg | https://m.media-amazon.com/images/I/31sTwRLEGOL.jpg | https://m.media-amazon.com/images/I/31FOU9-o-xL.jpg | https://m.media-amazon.com/images/I/31gXaKkBnzL.jpg | https://m.media-amazon.com/images/I/41FFEwPc2DL.jpg | https://m.media-amazon.com/images/I/41X2yovdyLL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-UL18DAX4Z-LI-Cordless-Cooler-Capacity/dp/B0CBNMM1LQ/ref=sr_1_53"
+    },
+    {
+      "sku": "JKE-IIYEIWCDG5JTMVZZ",
+      "slug": "hikoki-cm4sds9z-corded-electric-diamond-tilemarble",
+      "name": "HIKOKI (CM4SDS9Z) Corded Electric Diamond Tile/Marble...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 3471,
+      "image": "https://m.media-amazon.com/images/I/51xWPgCZq4L.jpg | https://m.media-amazon.com/images/I/41CKldwYzPL.jpg | https://m.media-amazon.com/images/I/41y1eAh5EpL.jpg | https://m.media-amazon.com/images/I/41knXYvUR9L.jpg | https://m.media-amazon.com/images/I/41XAWxYR-ML.jpg | https://m.media-amazon.com/images/I/41no-dDeTIL.jpg | https://m.media-amazon.com/images/I/41N8pqjmUGL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-CM4SDS9Z-Corded-Electric-Diamond/dp/B0DXC7S6W9/ref=sr_1_4"
+    },
+    {
+      "sku": "JKE-IIYEMQ2ZKZGEIUBU",
+      "slug": "hikoki-gp5sas9z-corded-die-grinder-550w-29000rpm-181kg",
+      "name": "HIKOKI GP5SAS9Z Corded Die Grinder 550W | 29000Rpm | 1.81Kg...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 4346,
+      "image": "https://m.media-amazon.com/images/I/41YCXygM0EL.jpg | https://m.media-amazon.com/images/I/31dg5H0+wsL.jpg | https://m.media-amazon.com/images/I/51yYwv-rNAL.jpg | https://m.media-amazon.com/images/I/51sNL87LziL.jpg | https://m.media-amazon.com/images/I/51spDxaIQrL.jpg | https://m.media-amazon.com/images/I/51Qr8v+dCPL.jpg | https://m.media-amazon.com/images/I/319SGJUpgHL.jpg | https://m.media-amazon.com/images/I/41HIRRGsUFL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-GP5SAS9Z-Corded-Grinder-29000Rpm/dp/B0FCYVLDP4/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJRGDGR2I",
+      "slug": "hikoki-wh36dcf4z-cordless-impact-driver-36v-multivolt",
+      "name": "HIKOKI WH36DCF4Z Cordless Impact Driver, 36V, MultiVolt...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 8899,
+      "image": "https://m.media-amazon.com/images/I/51yXMXrBbtL.jpg | https://m.media-amazon.com/images/I/310VKBhb1yL.jpg | https://m.media-amazon.com/images/I/41IDDOcsUuL.jpg | https://m.media-amazon.com/images/I/31fJMHA+I6L.jpg | https://m.media-amazon.com/images/I/31GZZkgM5iL.jpg | https://m.media-amazon.com/images/I/41Y0NPRh2UL.jpg | https://m.media-amazon.com/images/I/41hZ5s-73DL.jpg | https://m.media-amazon.com/images/I/41WSZaSrzfL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WH36DCF4Z-Cordless-MultiVolt-Operations/dp/B0CBNLL3GH/ref=sr_1_52"
+    },
+    {
+      "sku": "JKE-IIYEGQSYINNFUOCY",
+      "slug": "hikoki-tool-kit-402848z-13mm-corded-electric-impact-drill",
+      "name": "HIKOKI Tool Kit 402848Z 13Mm Corded Electric Impact Drill,...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 2329,
+      "image": "https://m.media-amazon.com/images/I/61q9H6MpqDL.jpg | https://m.media-amazon.com/images/I/41jNd3ij4CL.jpg | https://m.media-amazon.com/images/I/31+H6KuqJyL.jpg | https://m.media-amazon.com/images/I/31s+GNJVWFL.jpg | https://m.media-amazon.com/images/I/31+9+CTPwZL.jpg | https://m.media-amazon.com/images/I/31C+e1d+PqL.jpg | https://m.media-amazon.com/images/I/41NJDSlklIL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-402848Z-Corded-Electric-Accessories/dp/B0CBXCZZ8X/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJNIDOQSU",
+      "slug": "hikoki-gp3vs9z-760w-6mm-collet-brushless-electric-die",
+      "name": "HIKOKI GP3VS9Z 760W 6mm Collet Brushless Electric Die...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 9271,
+      "image": "https://m.media-amazon.com/images/I/41jdrg88PUL.jpg | https://m.media-amazon.com/images/I/21wZsFaaRBL.jpg | https://m.media-amazon.com/images/I/21hcow1gtZL.jpg | https://m.media-amazon.com/images/I/21b28-leHfL.jpg | https://m.media-amazon.com/images/I/21CZf8TDweL.jpg | https://m.media-amazon.com/images/I/31DiNZsWkxL.jpg | https://m.media-amazon.com/images/I/31HTs8xytOL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-GP3VS9Z-Brushless-Electric-Variable/dp/B0CBNKP7BT/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-IIYEMUCEGY2DINKR",
+      "slug": "hikoki-g10mgfs9z-100mm-ac-angle-grinder-800w-powerful",
+      "name": "HIKOKI G10MGFS9Z - 100mm AC Angle Grinder | 800W Powerful...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 2700,
+      "image": "https://m.media-amazon.com/images/I/41Y-GOaNqJL.jpg | https://m.media-amazon.com/images/I/31LPerB9HqL.jpg | https://m.media-amazon.com/images/I/4159Aa8KJOL.jpg | https://m.media-amazon.com/images/I/51gNxIkD2vL.jpg | https://m.media-amazon.com/images/I/41P4cqN7RvL.jpg | https://m.media-amazon.com/images/I/4178viLkRqL.jpg | https://m.media-amazon.com/images/I/41L0nXYcYzL.jpg | https://m.media-amazon.com/images/I/31E2iVaZkCL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-G10MGFS9Z-Lightweight-Ergonomic-Efficient/dp/B0FPD6445Q/ref=sr_1_5"
+    },
+    {
+      "sku": "JKE-IIYDOWSIKFLUYUBX",
+      "slug": "hikoki-dv13vss-13mm-impact-driver-drill-550w-2900rpm-black",
+      "name": "Hikoki Dv13Vss 13Mm Impact Driver Drill 550W 2900Rpm - Black",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/61fgntARjdL.jpg | https://m.media-amazon.com/images/I/41OLmSPBqwL.jpg",
+      "productUrl": "https://www.amazon.in/Hikoki-DV13VSS-Impact-Driver-2900RPM/dp/B07ZHQWLP7/ref=sr_1_28"
+    },
+    {
+      "sku": "JKE-IIYEMQ2ZKQ4E4V2T",
+      "slug": "hikoki-sp18vcs9z-180-mm-corded-polisher-1200w-600-3300rpm",
+      "name": "HIKOKI SP18VCS9Z 180 mm Corded Polisher 1200W | 600-3300Rpm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 4956,
+      "image": "https://m.media-amazon.com/images/I/51O5lifhstL.jpg | https://m.media-amazon.com/images/I/31QOV4gbvWL.jpg | https://m.media-amazon.com/images/I/51IpreL7sxL.jpg | https://m.media-amazon.com/images/I/5185yZcPmdL.jpg | https://m.media-amazon.com/images/I/51U1N7g5euL.jpg | https://m.media-amazon.com/images/I/51ykMv2SmkL.jpg | https://m.media-amazon.com/images/I/41tXViN2b6L.jpg | https://m.media-amazon.com/images/I/31eN5Ag++DL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-SP18VCS9Z-Corded-Polisher-600-3300Rpm/dp/B0FCYT8NWS/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-IIYDQUKEGJEDQNKE",
+      "slug": "hikoki-hitachi-4-woodcutter-blade100mm-tct-saw-blade",
+      "name": "Hikoki (Hitachi) 4\" Woodcutter Blade,100mm TCT Saw Blade",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/31YDsof400L.jpg | https://m.media-amazon.com/images/I/31YDsof400L.jpg | https://m.media-amazon.com/images/I/31iMKZ8FNFL.jpg",
+      "productUrl": "https://www.amazon.in/Hikoki-Hitachi-Woodcutter-Blade-100mm/dp/B08QD2H85D/ref=sr_1_41"
+    },
+    {
+      "sku": "JKE-IIYEGQSOJM3EQR2K",
+      "slug": "hikoki-wh18def4z-cordless-impact-driver-18v-175-nm",
+      "name": "HIKOKI WH18DEF4Z Cordless Impact Driver, 18V, 175 Nm,...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 5689,
+      "image": "https://m.media-amazon.com/images/I/51XI7YchjSL.jpg | https://m.media-amazon.com/images/I/31sKDQ80g4L.jpg | https://m.media-amazon.com/images/I/31+h-lg977L.jpg | https://m.media-amazon.com/images/I/318XqOCSpuL.jpg | https://m.media-amazon.com/images/I/31eTInnTz8L.jpg | https://m.media-amazon.com/images/I/41r8Lee2eFL.jpg | https://m.media-amazon.com/images/I/31KHt+mQXaL.jpg | https://m.media-amazon.com/images/I/41xvZXPc3tL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WH18DEF4Z-Cordless-Responsive-Trigger/dp/B0CBNK6HGJ/ref=sr_1_38"
+    },
+    {
+      "sku": "JKE-IIYEGRZRK4ZTKTSH",
+      "slug": "hikoki-wr36dgkrz-36v-cordless-impact-fixed-square-wrench",
+      "name": "HIKOKI Wr36Dgkrz 36V Cordless Impact Fixed Square Wrench,...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 37929,
+      "image": "https://m.media-amazon.com/images/I/51+HqAmIPVL.jpg | https://m.media-amazon.com/images/I/41DoezpBc1L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-WR36DGKRZ-Brushless-0-2500IPM-Batteries/dp/B0CG1W35NG/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-IIYEGRCSJRMDQTBU",
+      "slug": "hikoki-dh22pbss9z-rotary-hammer-drill-machine",
+      "name": "Hikoki Dh22Pbss9Z - Rotary Hammer Drill Machine...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 6699,
+      "image": "https://m.media-amazon.com/images/I/5113AwCwJqL.jpg | https://m.media-amazon.com/images/I/21q38fJiiXL.jpg | https://m.media-amazon.com/images/I/41sR3Pi2JcL.jpg | https://m.media-amazon.com/images/I/51+Wm35XT0L.jpg | https://m.media-amazon.com/images/I/415+fwZLCrL.jpg | https://m.media-amazon.com/images/I/41M37TUuRnL.jpg | https://m.media-amazon.com/images/I/412GmPUP-AL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DH22PBSS9Z-SDS-Plus-Concrete-Vibration/dp/B0CDRLX8L4/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-IIYEMQ2ZKJHE4RBT",
+      "slug": "hikoki-rb30sas9z-blower-with-550w-motor-no-load-speed-of",
+      "name": "HIKOKI RB30SAS9Z Blower With 550W Motor | No Load Speed Of...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 2899,
+      "image": "https://m.media-amazon.com/images/I/61xxU2HSvCL.jpg | https://m.media-amazon.com/images/I/31QRBHnYxAL.jpg | https://m.media-amazon.com/images/I/51MfhXm4RGL.jpg | https://m.media-amazon.com/images/I/61PE1FbjOxL.jpg | https://m.media-amazon.com/images/I/51-tnhBTS3L.jpg | https://m.media-amazon.com/images/I/51D6iev9cOL.jpg | https://m.media-amazon.com/images/I/51A+5I7d6yL.jpg | https://m.media-amazon.com/images/I/41vx3LvbK-L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-RB30SAS9Z-Blower-Motor-16000Rpm/dp/B0FCYRNND3/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-IIYDSWKZGU3EENBX",
+      "slug": "hikoki-ds18dawcz-cordless-driver-drill18v-with-13mm",
+      "name": "HIKOKI Ds18Dawcz - Cordless Driver Drill,18V With 13Mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 8458,
+      "image": "https://m.media-amazon.com/images/I/81vobJYNN7L.jpg | https://m.media-amazon.com/images/I/41rCkpFno6L.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg | https://m.media-amazon.com/images/I/41awO7rWg7L.jpg | https://m.media-amazon.com/images/I/41OGe2tMLdL.jpg | https://m.media-amazon.com/images/I/61tPCpDI2UL.jpg | https://m.media-amazon.com/images/I/41-NKjuuKsL.jpg | https://m.media-amazon.com/images/I/41zuzfITjmL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DS18DAWCZ-Tightening-Built-Batteries/dp/B09YY56B47/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYEGOKKKFDVOSBY",
+      "slug": "hikoki-gp2s2s9z-corded-25mm-die-grinder-with-520-watts",
+      "name": "HIKOKI GP2S2S9Z- Corded 25mm Die Grinder with 520 Watts...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 7919,
+      "image": "https://m.media-amazon.com/images/I/41WI3ijGbAL.jpg | https://m.media-amazon.com/images/I/217txTMfOHL.jpg | https://m.media-amazon.com/images/I/71caVYG6YFL.jpg | https://m.media-amazon.com/images/I/219AFZ+ehDL.jpg | https://m.media-amazon.com/images/I/21DCOvxiA-L.jpg | https://m.media-amazon.com/images/I/21aCHPDpzYL.jpg | https://m.media-amazon.com/images/I/31iskZeFzHL.jpg | https://m.media-amazon.com/images/I/21Y9Xzxnu9L.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-GP2S2S9Z-Powerful-Performance-Included/dp/B0C9JQGWH8/ref=sr_1_50"
+    },
+    {
+      "sku": "JKE-IIYEIS2KJZFFUS2E",
+      "slug": "hikoki-heavy-duty-corded-angle-grinder-715w-12000-rpm-",
+      "name": "HIKOKI Heavy Duty Corded Angle Grinder | 715W | 12000 RPM |...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 5778,
+      "image": "https://m.media-amazon.com/images/I/61+mARlVL9L.jpg | https://m.media-amazon.com/images/I/31xwhrvPwEL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-Heavy-Corded-Angle-Grinder/dp/B0DKJNJZKD/ref=sr_1_49"
+    },
+    {
+      "sku": "JKE-IIYEGRBYGREFESBU",
+      "slug": "hikoki-h41ssts9z-corded-demolition-hammer-with-1010w",
+      "name": "HIKOKI H41Ssts9Z - Corded Demolition Hammer With 1010W...",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 13905,
+      "image": "https://m.media-amazon.com/images/I/51tQwFCrPgL.jpg | https://m.media-amazon.com/images/I/315gjCe+jvL.jpg | https://m.media-amazon.com/images/I/21JfVQlaNFL.jpg | https://m.media-amazon.com/images/I/31l0m+TOd+L.jpg | https://m.media-amazon.com/images/I/31MrCcql1fL.jpg | https://m.media-amazon.com/images/I/31IvCBcwE6L.jpg | https://m.media-amazon.com/images/I/41nznsDQ86L.jpg | https://m.media-amazon.com/images/I/41nd6HJzApL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-H41SSTS9Z-Demolition-Powerful-Carrying/dp/B0CD84HRH4/ref=sr_1_19"
+    },
+    {
+      "sku": "JKE-IIYDAU2ZKBAUKRKV",
+      "slug": "hikoki-h60mc-corded-electric-demolition-hammer-green",
+      "name": "HIKOKI H60MC Corded Electric Demolition Hammer (Green)",
+      "brand": "Hikoki",
+      "category": "Hand Tools",
+      "price": 4299,
+      "image": "https://m.media-amazon.com/images/I/613EvQRo5vL.jpg | https://m.media-amazon.com/images/I/31+duib-bLL.jpg",
+      "productUrl": "https://www.amazon.in/Hitachi-H60MC-Demolition-Hammer-Green/dp/B00SYPAEEU/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-IIYEMTSKLBKEUMJY",
+      "slug": "hikoki-ds18dg-cordless-driver-drill-18v-with-13mm",
+      "name": "HIKOKI DS18DG - Cordless Driver Drill, 18V With 13mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 9599,
+      "image": "https://m.media-amazon.com/images/I/71Wm9HMJSKL.jpg | https://m.media-amazon.com/images/I/31KdSAXOZQL.jpg | https://m.media-amazon.com/images/I/613xX5Yy5pL.jpg | https://m.media-amazon.com/images/I/313HnmrrGdL.jpg | https://m.media-amazon.com/images/I/31J8eMkooRL.jpg | https://m.media-amazon.com/images/I/41FKYmqplFL.jpg | https://m.media-amazon.com/images/I/41cpODJU9FL.jpg | https://m.media-amazon.com/images/I/41CCa5EISiL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DS18DG-Brushless-Tightening-Built/dp/B0FNJXTJ18/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-IIYDOTBWGQZDKU2N",
+      "slug": "hikoki-dv10vsts9z-kit-drill-kit-10-mm-impact-drill",
+      "name": "HiKOKI DV10VSTS9Z kit Drill Kit 10 MM, Impact Drill",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 2329,
+      "image": "https://m.media-amazon.com/images/I/81L4VYWD8wL.jpg | https://m.media-amazon.com/images/I/51+MtRA6lSL.jpg | https://m.media-amazon.com/images/I/41KjXfCJh1L.jpg | https://m.media-amazon.com/images/I/41aqxuzlCLL.jpg | https://m.media-amazon.com/images/I/31VFSauBE9L.jpg",
+      "productUrl": "https://www.amazon.in/HiKOKI-DV10VSTS9Z-kit-Drill-Impact/dp/B07L6425SM/ref=sr_1_57"
+    },
+    {
+      "sku": "JKE-IIYDCSKCINITISKV",
+      "slug": "hikoki-796184-cut-off-wheel-25-pieces",
+      "name": "HiKOKI 796184 Cut Off Wheel (25 Pieces)",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 7350,
+      "image": "https://m.media-amazon.com/images/I/A1gTdR-VV1L.jpg | https://m.media-amazon.com/images/I/511e4N3Y7qL.jpg | https://m.media-amazon.com/images/I/418di6BAgOL.jpg | https://m.media-amazon.com/images/I/31VFSauBE9L.jpg | https://m.media-amazon.com/images/I/51Xadmnhk0L.jpg | https://m.media-amazon.com/images/I/51LFqNEIwBL.jpg",
+      "productUrl": "https://www.amazon.in/Hitachi-796184-Cut-Wheel-Pieces/dp/B01IBCQ4IU/ref=sr_1_47"
+    },
+    {
+      "sku": "JKE-IIYEGQSYIMZUQTCG",
+      "slug": "hikoki-752817z-12-300mm-diamond-blade-with-21-segments",
+      "name": "HIKOKI 752817Z-12\" (300mm) Diamond Blade with 21 Segments,...",
+      "brand": "Hikoki",
+      "category": "General Hardware",
+      "price": 3899,
+      "image": "https://m.media-amazon.com/images/I/61HrzJxpEdL.jpg | https://m.media-amazon.com/images/I/41fWJME7mxL.jpg | https://m.media-amazon.com/images/I/41PwjA3RnIL.jpg | https://m.media-amazon.com/images/I/51LYyOSf3dL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-752817Z-12-300mm-Diamond-Segments/dp/B0CBXC3HLF/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-IIYEMTSLGQZVEU2Y",
+      "slug": "hikoki-ds12de-cordless-driver-drill-12v-with-10mm",
+      "name": "HIKOKI DS12DE - Cordless Driver Drill, 12V With 10mm...",
+      "brand": "Hikoki",
+      "category": "Power Tools",
+      "price": 5103,
+      "image": "https://m.media-amazon.com/images/I/71Z1kluH1GL.jpg | https://m.media-amazon.com/images/I/31NjAUi2ZbL.jpg | https://m.media-amazon.com/images/I/613xX5Yy5pL.jpg | https://m.media-amazon.com/images/I/31nXehMQ-7L.jpg | https://m.media-amazon.com/images/I/31b8CxaxKZL.jpg | https://m.media-amazon.com/images/I/41xpFt5rUEL.jpg | https://m.media-amazon.com/images/I/31oPfkGStXL.jpg | https://m.media-amazon.com/images/I/41+IpSSVmKL.jpg",
+      "productUrl": "https://www.amazon.in/HIKOKI-DS12DE-Tightening-Built-Batteries/dp/B0FNK43RSX/ref=sr_1_22"
     }
   ]
 }

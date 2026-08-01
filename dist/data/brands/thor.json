@@ -4,23 +4,33 @@
   "products": [
     {
       "sku": "JKE-IIYEQMKSGI3TQUKW",
-      "slug": "thor-48v-2-pcscordless-combo-kit-brushless-impact-wrench-450nm-angle-grinder-5-inch-660w-12-drive-2x-48v-batteries-fast-charger-power-tool-set-with-carrying-case-",
-      "name": "THOR 48V 2 PcsCordless Combo Kit – Brushless Impact Wrench 450Nm + Angle Grinder 5 Inch 660W | 1/2\" Drive | 2x 48V Batteries & Fast Charger | Power Tool Set with Carrying Case |",
+      "slug": "thor-48v-2-pcscordless-combo-kit-brushless-impact-wrench",
+      "name": "THOR 48V 2 PcsCordless Combo Kit – Brushless Impact Wrench...",
       "brand": "Thor",
       "category": "Hand Tools",
-      "price": "₹6,499.00",
+      "price": 6499,
       "image": "https://m.media-amazon.com/images/I/71eRuJBsN7L.jpg | https://m.media-amazon.com/images/I/51NM2UtGgAL.jpg | https://m.media-amazon.com/images/I/51oPmrNJPQL.jpg | https://m.media-amazon.com/images/I/51ivyFS62mL.jpg | https://m.media-amazon.com/images/I/51+5PKdpZsL.jpg | https://m.media-amazon.com/images/I/51dqCJkD+4L.jpg | https://m.media-amazon.com/images/I/51EERD8EgEL.jpg | https://m.media-amazon.com/images/I/51EcawFN-fL.jpg",
       "productUrl": "https://www.amazon.in/THOR-48V-PcsCordless-Combo-Kit/dp/B0H1R278QV/ref=sr_1_6"
     },
     {
       "sku": "JKE-IIYEMVSQGZJVIRSU",
-      "slug": "thor-48v-4-tool-power-tool-combo-kit-10mm-drill-angle-grinder-impact-wrench-rotary-hammer-3x5ah-batteries-fast-charger-brushless-motors-professional-bmc-box-high-quality",
-      "name": "THOR 48V 4-Tool Power Tool Combo Kit | 10mm Drill, Angle Grinder, Impact Wrench, Rotary Hammer | 3x5Ah Batteries, Fast Charger, Brushless Motors | Professional BMC Box High Quality",
+      "slug": "thor-48v-4-tool-power-tool-combo-kit-10mm-drill-angle",
+      "name": "THOR 48V 4-Tool Power Tool Combo Kit | 10mm Drill, Angle...",
       "brand": "Thor",
       "category": "Hand Tools",
-      "price": "₹11,599.00",
+      "price": 11599,
       "image": "https://m.media-amazon.com/images/I/818VPn9p5JL.jpg | https://m.media-amazon.com/images/I/51+2bog390L.jpg | https://m.media-amazon.com/images/I/51yseZiQlFL.jpg | https://m.media-amazon.com/images/I/41FtMdzKzzL.jpg | https://m.media-amazon.com/images/I/412xrFIAy-L.jpg | https://m.media-amazon.com/images/I/41uD-DDqa3L.jpg | https://m.media-amazon.com/images/I/51jdZ5LEaFL.jpg",
       "productUrl": "https://www.amazon.in/THOR-Grinder-Batteries-Brushless-Professional/dp/B0FVP6STFT/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYEMRSIJJJDEUCG",
+      "slug": "thor-21v-cordless-impact-drill-kit-2x-20ah-batteries",
+      "name": "THOR 21V Cordless Impact Drill Kit | 2x 2.0Ah Batteries,...",
+      "brand": "Thor",
+      "category": "Power Tools",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/71VgeEXqUwL.jpg | https://m.media-amazon.com/images/I/51FofwOzbnL.jpg | https://m.media-amazon.com/images/I/51wnoO9Km2L.jpg | https://m.media-amazon.com/images/I/51Zb2N4jeyL.jpg | https://m.media-amazon.com/images/I/51Eurj+zRYL.jpg | https://m.media-amazon.com/images/I/41M-AFHIr6L.jpg | https://m.media-amazon.com/images/I/51IREuyEUxL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Batteries-Variable-Charging-Accessories/dp/B0FFHJR2PF/ref=sr_1_231"
     }
   ]
 }

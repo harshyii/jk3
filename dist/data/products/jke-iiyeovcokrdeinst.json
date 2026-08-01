@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOVCOKRDEINST",
-  "title": "Serplex®Drill Locator Woodworking Drill Guide For Precise 45° And 90° Angle, Multi-Size Doweling Jig with 3-10mm Hole Guides, Portable Drill Positioning Tool on Straight Round Wood Rod",
+  "title": "Serplex®Drill Locator Woodworking Drill Guide For Precise...",
   "brand": "Serplex",
-  "current_price": "₹299.00",
-  "mrp": "₹474",
+  "current_price": 299,
+  "mrp": 474,
   "product_url": "https://www.amazon.in/Serplex%C2%AEDrill-Woodworking-Multi-Size-Doweling-Positioning/dp/B0GTNTFD6S/ref=sr_1_238",
   "description": "Serplex®Drill Locator Woodworking Drill Guide For Precise 45° And 90° Angle, Multi-Size Doweling Jig with 3-10mm Hole Guides, Portable Drill Positioning Tool on Straight Round Wood Rod - Distributed/Packaged by Serplex. Product Details: nan",
   "image_urls": [
@@ -33,8 +33,8 @@
     "Item model number": "‎Standard"
   },
   "SKU": "JKE-IIYEOVCOKRDEINST",
-  "Name": "Serplex®Drill Locator Woodworking Drill Guide For Precise 45° And 90° Angle, Multi-Size Doweling Jig with 3-10mm Hole Guides, Portable Drill Positioning Tool on Straight Round Wood Rod",
-  "Slug": "serplexdrill-locator-woodworking-drill-guide-for-precise-45-and-90-angle-multi-size-doweling-jig-with-3-10mm-hole-guides-portable-drill-positioning-tool-on-straight-round-wood-rod",
+  "Name": "Serplex®Drill Locator Woodworking Drill Guide For Precise...",
+  "Slug": "serplexdrill-locator-woodworking-drill-guide-for-precise",
   "Category": "Power Tools",
   "Subcategory1": "General Power Tools",
   "Images": [
@@ -49,8 +49,8 @@
     "https://m.media-amazon.com/images/I/51kGZpHHpGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51C7I-Zm7KL.jpg | https://m.media-amazon.com/images/I/31LPSD7qtPL.jpg | https://m.media-amazon.com/images/I/41HKEUIBQDL.jpg | https://m.media-amazon.com/images/I/41JRBp4MpDL.jpg | https://m.media-amazon.com/images/I/41jnlH5IcBL.jpg | https://m.media-amazon.com/images/I/51G6QuGPvBL.jpg | https://m.media-amazon.com/images/I/51gXlTe6kmL.jpg | https://m.media-amazon.com/images/I/51kGZpHHpGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹299.00"
+  "Discount": 36.92,
+  "SalePrice": 299
 }

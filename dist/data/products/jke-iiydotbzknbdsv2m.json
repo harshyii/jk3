@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDOTBZKNBDSV2M",
-  "title": "Electronicspices solar for DIY/solar panel 6v- 60 mah / 80mm*40mm*03mm/ solar panel in rectangle shape/mini solar panel/pack of 10",
+  "title": "Electronicspices solar for DIY/solar panel 6v- 60 mah /...",
   "brand": "Electronic Spices",
-  "current_price": "₹699.00",
-  "mrp": "₹799",
+  "current_price": 699,
+  "mrp": 799,
   "product_url": "https://www.amazon.in/Electronicspices-solar-panel-rectangle-shape/dp/B07L9SB9WL/ref=sr_1_142",
   "description": "Electronicspices solar for DIY/solar panel 6v- 60 mah / 80mm*40mm*03mm/ solar panel in rectangle shape/mini solar panel/pack of 10 - Distributed/Packaged by Electronic Spices. Product Details: solar for DIY/solar panel 6v- 60 mah / 80mm*40mm*03mm/ solar panel in rectangle shape/mini solar panel/pack of 10",
   "image_urls": [
@@ -17,19 +17,19 @@
   "image_url_3": "https://m.media-amazon.com/images/I/311e0e2yvKL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/41jFsvTNysL.jpg",
   "specifications": {
-    "Material Type": "Aluminium, Glass, Monocrystalline Silicon",
     "Brand Name": "Electronic Spices",
     "Manufacturer": "Electronic Spices",
-    "Country of Publication": "India",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "10solarDIY6V60MAH5",
     "ASIN": "B07L9SB9WL",
     "Connector Type": "USB",
+    "Manufacturer Part Number": "10solarDIY6V60MAH5",
+    "Material Type": "Aluminium, Glass, Monocrystalline Silicon",
+    "Country of Publication": "India",
     "Maximum Voltage": "6 Volts"
   },
   "SKU": "JKE-IIYDOTBZKNBDSV2M",
-  "Name": "Electronicspices solar for DIY/solar panel 6v- 60 mah / 80mm*40mm*03mm/ solar panel in rectangle shape/mini solar panel/pack of 10",
-  "Slug": "electronicspices-solar-for-diysolar-panel-6v-60-mah-80mm40mm03mm-solar-panel-in-rectangle-shapemini-solar-panelpack-of-10",
+  "Name": "Electronicspices solar for DIY/solar panel 6v- 60 mah /...",
+  "Slug": "electronicspices-solar-for-diysolar-panel-6v-60-mah-",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -39,8 +39,8 @@
     "https://m.media-amazon.com/images/I/41jFsvTNysL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31j-fWF-SfL.jpg | https://m.media-amazon.com/images/I/31j-fWF-SfL.jpg | https://m.media-amazon.com/images/I/311e0e2yvKL.jpg | https://m.media-amazon.com/images/I/41jFsvTNysL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹699.00"
+  "Discount": 12.52,
+  "SalePrice": 699
 }

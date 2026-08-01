@@ -4,33 +4,43 @@
   "products": [
     {
       "sku": "JKE-IIYDQNCIKJLFAWRU",
-      "slug": "jon-bhandari-tools-18-inch-450mm-hand-saw-hardened-steel-durable-blade-with-ergonomic-handle-precision-cutting-fine-tooth-manual-saw-for-wood-pvc-plastic-professional-carpentry-diy-use",
-      "name": "Jon Bhandari Tools 18 inch (450mm) Hand Saw – Hardened Steel Durable Blade with Ergonomic Handle, Precision Cutting | Fine Tooth Manual Saw for Wood, PVC, Plastic | Professional Carpentry & DIY Use",
+      "slug": "jon-bhandari-tools-18-inch-450mm-hand-saw-hardened",
+      "name": "Jon Bhandari Tools 18 inch (450mm) Hand Saw – Hardened...",
       "brand": "Jon Bhandari Tools",
       "category": "Power Tools",
-      "price": "₹403.00",
+      "price": 403,
       "image": "https://m.media-amazon.com/images/I/719WTNMMAbL.jpg | https://m.media-amazon.com/images/I/31sfMhwMumL.jpg | https://m.media-amazon.com/images/I/31DIzaVmscL.jpg | https://m.media-amazon.com/images/I/31-2m1CXvKL.jpg",
       "productUrl": "https://www.amazon.in/Jon-Bhandari-Tools-18-Inch-450mm/dp/B084HRVPZ4/ref=sr_1_92"
     },
     {
       "sku": "JKE-IIYDQNCIKJHEMM2D",
-      "slug": "jon-bhandari-tools-8-inch-carpenter-pincer-heavy-duty-nail-puller-pliers-with-black-coated-finish-rust-resistant-hand-tool-for-carpentry-construction-wood-craft-diy",
-      "name": "Jon Bhandari Tools 8 inch Carpenter Pincer – Heavy Duty Nail Puller Pliers with Black Coated Finish | Rust-Resistant Hand Tool for Carpentry, Construction, Wood, Craft & DIY",
+      "slug": "jon-bhandari-tools-8-inch-carpenter-pincer-heavy-duty",
+      "name": "Jon Bhandari Tools 8 inch Carpenter Pincer – Heavy Duty...",
       "brand": "Jon Bhandari Tools",
       "category": "Hand Tools",
-      "price": "₹289.00",
+      "price": 289,
       "image": "https://m.media-amazon.com/images/I/71sKIcWGH1L.jpg | https://m.media-amazon.com/images/I/31+0F2z4EpL.jpg | https://m.media-amazon.com/images/I/3170CI2QwOL.jpg | https://m.media-amazon.com/images/I/31ncXSSi2mL.jpg",
       "productUrl": "https://www.amazon.in/Jon-Bhandari-Carpenter-Pincer-C012/dp/B084HRNF3C/ref=sr_1_148"
     },
     {
       "sku": "JKE-IIYEMQSNJU3E2UKH",
-      "slug": "jon-bhandari-tools-corded-electric-impact-drill-machine-13mm-850w-2800rpm-220v-variable-speed-reverse-function-heavy-duty-power-tool-for-wood-metal-masonry-concrete",
-      "name": "Jon Bhandari Tools Corded Electric Impact Drill Machine – 13mm, 850W, 2800RPM, 220V | Variable Speed & Reverse Function | Heavy Duty Power Tool for Wood, Metal, Masonry, Concrete",
+      "slug": "jon-bhandari-tools-corded-electric-impact-drill-machine-",
+      "name": "Jon Bhandari Tools Corded Electric Impact Drill Machine –...",
       "brand": "Jon Bhandari Tools",
       "category": "Power Tools",
-      "price": "₹1,465.00",
+      "price": 1465,
       "image": "https://m.media-amazon.com/images/I/51oAxnI6kmL.jpg | https://m.media-amazon.com/images/I/41viHisFDdL.jpg | https://m.media-amazon.com/images/I/41HA4f0b5-L.jpg | https://m.media-amazon.com/images/I/51yUeeZq64L.jpg | https://m.media-amazon.com/images/I/41uDNM8pvLL.jpg | https://m.media-amazon.com/images/I/51eJZCz-I8L.jpg",
       "productUrl": "https://www.amazon.in/Jon-Bhandari-Tools-Electric-Machine/dp/B0FBMM6MQG/ref=sr_1_105"
+    },
+    {
+      "sku": "JKE-IIYDQNBSKA4DQWCI",
+      "slug": "jon-bhandari-tools-26mm-reversible-rotary-hammer-drill",
+      "name": "Jon Bhandari Tools 26mm Reversible Rotary Hammer Drill...",
+      "brand": "Jon Bhandari Tools",
+      "category": "Hand Tools",
+      "price": 3291,
+      "image": "https://m.media-amazon.com/images/I/51AlAqzll9L.jpg | https://m.media-amazon.com/images/I/316Fh9vm5-L.jpg | https://m.media-amazon.com/images/I/51zR5Oe2+oL.jpg | https://m.media-amazon.com/images/I/61qx0c27BiL.jpg | https://m.media-amazon.com/images/I/51ru2kvZjkL.jpg | https://m.media-amazon.com/images/I/61SAdgqa0LL.jpg | https://m.media-amazon.com/images/I/412Kw6QW-fL.jpg",
+      "productUrl": "https://www.amazon.in/Jon-Bhandari-Tools-Reversible-Machine/dp/B0842P88XH/ref=sr_1_253"
     }
   ]
 }

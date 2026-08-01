@@ -2,7 +2,7 @@
   "asin": "JKE-IIYDOR2KGJFTIS2Y",
   "title": "Xtra Power Electric Mixer 160 mm Blade Dia 800 RPM XPT446",
   "brand": "Xtra Power",
-  "current_price": "₹6,500.00",
+  "current_price": 6500,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Xtra-Power-Electric-Mixer-XPT446/dp/B07GJ2K4KX/ref=sr_1_87",
   "description": "Xtra Power Electric Mixer 160 mm Blade Dia 800 RPM XPT446 - Distributed/Packaged by Xtra Power. Product Details: Description Series: Red",
@@ -29,8 +29,8 @@
     "https://m.media-amazon.com/images/I/21apgunk5fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21apgunk5fL.jpg | https://m.media-amazon.com/images/I/21apgunk5fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹6,500.00"
+  "SalePrice": 6500
 }

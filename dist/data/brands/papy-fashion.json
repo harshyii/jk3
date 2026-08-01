@@ -1,0 +1,16 @@
+{
+  "name": "Papy Fashion",
+  "slug": "papy-fashion",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMKOJVMFSOKM",
+      "slug": "solar-wall-light-with-motion-sensor-black-vintage-lantern",
+      "name": "Solar Wall Light with Motion Sensor, Black, Vintage Lantern...",
+      "brand": "Papy Fashion",
+      "category": "Electrical & Wiring",
+      "price": 270,
+      "image": "https://m.media-amazon.com/images/I/81HrTv+4EcL.jpg | https://m.media-amazon.com/images/I/511nYDD0hSL.jpg",
+      "productUrl": "https://www.amazon.in/PAPY-FASHION-Vintage-Lantern-Weatherproof/dp/B0H1NMXY9L/ref=sr_1_182"
+    }
+  ]
+}

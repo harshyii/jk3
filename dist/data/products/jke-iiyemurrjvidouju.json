@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEMURRJVIDOUJU",
-  "title": "Ralliwolf Cordless Impact Wrench, 21V, Brushless Motor, 2060rpm, 380Nm Torque, 4000mAh Battery, Model RIW21V, M10-M32 Screw Compatible Model RIW21V",
+  "title": "Ralliwolf Cordless Impact Wrench, 21V, Brushless Motor,...",
   "brand": "Ralliwolf",
-  "current_price": "₹6,800.00",
+  "current_price": 6800,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Ralliwolf-Cordless-Brushless-2060rpm-Compatible/dp/B0FR1MP7Q4/ref=sr_1_40",
   "description": "Ralliwolf Cordless Impact Wrench, 21V, Brushless Motor, 2060rpm, 380Nm Torque, 4000mAh Battery, Model RIW21V, M10-M32 Screw Compatible Model RIW21V - Distributed/Packaged by Ralliwolf. Product Details: Experience professional-grade power and precision with the Ralliwolf 21V Cordless Impact Wrench (Model RIW21V). This robust tool features a high-performance brushless motor that delivers an impressive no-load speed of 2060rpm and maximum torque of 380Nm, making it perfect for demanding tasks. The versatile wrench accommodates screw sizes from M10 to M32, offering exceptional flexibility for various applications. Powered by a substantial 4000mAh battery, this tool ensures extended operation time between charges. The cordless design provides unrestricted movement and easy manoeuvrability across your workspace. The complete kit comes in a durable carrying case with multiple accessories, including various socket attachments and bits for different fastening needs. Whether you're a professional tradesperson or a serious DIY enthusiast, this impact wrench combines power, precision, and portability in one comprehensive package. Its ergonomic design and reliable performance make it an invaluable addition to your tool collection.",
@@ -19,25 +19,25 @@
   "image_url_4": "https://m.media-amazon.com/images/I/419q4SOZ8GL.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/51GQoTHwyjL.jpg",
   "specifications": {
-    "Item Length": "40 Centimetres",
-    "Material Type": "Metal, Plastic",
     "Brand Name": "Ralliwolf",
     "Model Number": "Riw21v",
-    "Unit Count": "1.0 Piece",
     "Manufacturer": "Ralliwolf",
-    "Included Components": "Assorted Bits, Battery Pack, Carrying Case, Charger, Impact Wrench",
-    "Item Weight": "3500 Grams",
     "Item Type Name": "Cordless Impact Wrench 21V",
     "Packer Contact Information": "Ralliwolf Tools Manufacturing",
     "ASIN": "B0FR1MP7Q4",
     "Colour": "Red And Black",
-    "Item Package Quantity": 1,
+    "Unit Count": "1.0 Piece",
+    "Voltage": "21 Volts",
+    "Included Components": "Assorted Bits, Battery Pack, Carrying Case, Charger, Impact Wrench",
+    "Item Weight": "3500 Grams",
+    "Material Type": "Metal, Plastic",
     "Item Torque": "380 Newton Meters",
-    "Voltage": "21 Volts"
+    "Item Length": "40 Centimetres",
+    "Item Package Quantity": 1
   },
   "SKU": "JKE-IIYEMURRJVIDOUJU",
-  "Name": "Ralliwolf Cordless Impact Wrench, 21V, Brushless Motor, 2060rpm, 380Nm Torque, 4000mAh Battery, Model RIW21V, M10-M32 Screw Compatible Model RIW21V",
-  "Slug": "ralliwolf-cordless-impact-wrench-21v-brushless-motor-2060rpm-380nm-torque-4000mah-battery-model-riw21v-m10-m32-screw-compatible-model-riw21v",
+  "Name": "Ralliwolf Cordless Impact Wrench, 21V, Brushless Motor,...",
+  "Slug": "ralliwolf-cordless-impact-wrench-21v-brushless-motor",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51GQoTHwyjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41mRUnGJtFL.jpg | https://m.media-amazon.com/images/I/41mRUnGJtFL.jpg | https://m.media-amazon.com/images/I/41nRQ10y+FL.jpg | https://m.media-amazon.com/images/I/419q4SOZ8GL.jpg | https://m.media-amazon.com/images/I/51GQoTHwyjL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.0 Piece",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹6,800.00",
+  "SalePrice": 6800,
   "Model": "Riw21v"
 }

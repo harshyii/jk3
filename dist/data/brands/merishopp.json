@@ -4,33 +4,193 @@
   "products": [
     {
       "sku": "JKE-IIYEIVCIKAZVGQZY",
-      "slug": "universal-mini-adjustable-wrench-spanner-repair-tool-25in-black",
-      "name": "Universal Mini Adjustable Wrench Spanner Repair Tool 2.5In Black",
+      "slug": "universal-mini-adjustable-wrench-spanner-repair-tool-25in",
+      "name": "Universal Mini Adjustable Wrench Spanner Repair Tool 2.5In...",
       "brand": "Merishopp",
       "category": "Hand Tools",
-      "price": "₹674.00",
+      "price": 674,
       "image": "https://m.media-amazon.com/images/I/41oVlwyxWfL.jpg | https://m.media-amazon.com/images/I/21nKw8UhKCL.jpg | https://m.media-amazon.com/images/I/31v5KF26i7L.jpg | https://m.media-amazon.com/images/I/31J+ri048+L.jpg | https://m.media-amazon.com/images/I/21ZOUX6grrL.jpg",
       "productUrl": "https://www.amazon.in/MERISHOPPTM-Universal-Adjustable-Wrench-Spanner/dp/B0DTHP3SC8/ref=sr_1_212"
     },
     {
       "sku": "JKE-IIYEIVBWHBBTCVRX",
-      "slug": "solarpanel-set-easy-to-use-ip65-waterproof-accessories-for-motorhome-home-rv-without-controllerhome-gardenhome-improvementelectrical-solaralternative-solar-energysolar-panels",
-      "name": "Solarpanel Set Easy to Use Ip65 Waterproof Accessories for Motorhome Home Rv Without Controller|Home & Garden|Home Improvement|Electrical & Solar|Alternative & Solar Energy|Solar Panels",
+      "slug": "solarpanel-set-easy-to-use-ip65-waterproof-accessories-for",
+      "name": "Solarpanel Set Easy to Use Ip65 Waterproof Accessories for...",
       "brand": "Merishopp",
       "category": "Power Tools",
-      "price": "₹2,502.00",
+      "price": 2502,
       "image": "https://m.media-amazon.com/images/I/61zBKVJ2uLL.jpg | https://m.media-amazon.com/images/I/31R4wWPgRJL.jpg | https://m.media-amazon.com/images/I/41-zXrOfKVL.jpg | https://m.media-amazon.com/images/I/319ukehzH-L.jpg | https://m.media-amazon.com/images/I/31AaUo9NO4L.jpg | https://m.media-amazon.com/images/I/41KvxcYC1bL.jpg | https://m.media-amazon.com/images/I/41Zh7zPL2+L.jpg | https://m.media-amazon.com/images/I/41TsJ3fjdlL.jpg",
       "productUrl": "https://www.amazon.in/MERISHOPPTM-Solarpanel-Accessories-Improvement-Alternative/dp/B0DT68C1V7/ref=sr_1_125"
     },
     {
       "sku": "JKE-IIYEQMSEJRLTEMZX",
-      "slug": "power-inverter-18v21v-to-220v-voltage-converter-portable-dc-to-ac-battery-inverter-outdoor-power-supply-tool-battery-adapter-for-camping-household-emergency-work-dc-to-ac-converter",
-      "name": "Power Inverter 18V/21V to 220V Voltage Converter, Portable DC to AC Battery Inverter| Outdoor Power Supply Tool |Battery Adapter for Camping Household Emergency Work | DC to AC Converter",
+      "slug": "power-inverter-18v21v-to-220v-voltage-converter-portable",
+      "name": "Power Inverter 18V/21V to 220V Voltage Converter, Portable...",
       "brand": "Merishopp",
       "category": "General Hardware",
-      "price": "₹2,360.00",
+      "price": 2360,
       "image": "https://m.media-amazon.com/images/I/61LO+7t4U+L.jpg | https://m.media-amazon.com/images/I/31aeuTVf4BL.jpg | https://m.media-amazon.com/images/I/31hpHfj5sJL.jpg | https://m.media-amazon.com/images/I/31fgBBDqzAL.jpg | https://m.media-amazon.com/images/I/31QHz2SSbZL.jpg | https://m.media-amazon.com/images/I/31fQN6DyJOL.jpg | https://m.media-amazon.com/images/I/41nlzsAaILL.jpg | https://m.media-amazon.com/images/I/51cWkIgRkML.jpg",
       "productUrl": "https://www.amazon.in/MERISHOPP%C2%AEPower-Inverter-Converter-Household-Emergency/dp/B0H2DLW237/ref=sr_1_251"
+    },
+    {
+      "sku": "JKE-IIYEQOJTJNHFQMKD",
+      "slug": "transparent-router-dust-hood-thickened-carpentry-trim",
+      "name": "Transparent Router Dust Hood Thickened Carpentry Trim...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 2257,
+      "image": "https://m.media-amazon.com/images/I/51ZtBncnE7L.jpg | https://m.media-amazon.com/images/I/31CHWnUFOTL.jpg | https://m.media-amazon.com/images/I/31doefmmhgL.jpg | https://m.media-amazon.com/images/I/41KkEuMj05L.jpg | https://m.media-amazon.com/images/I/41QCT1cJyfL.jpg | https://m.media-amazon.com/images/I/41rrcrpJxgL.jpg",
+      "productUrl": "https://www.amazon.in/Merishopp-Transparent-Thickened-Carpentry-Collection/dp/B0H93KNX1C/ref=sr_1_223"
+    },
+    {
+      "sku": "JKE-IIYEOWC2JJJDMWJU",
+      "slug": "electric-oil-pump-water-oil-diesel-fuel-transfer-for",
+      "name": "Electric Oil Pump Water Oil Diesel Fuel Transfer for...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 1663,
+      "image": "https://m.media-amazon.com/images/I/61G41L+kchL.jpg | https://m.media-amazon.com/images/I/412T7qDkurL.jpg | https://m.media-amazon.com/images/I/41crshGmOAL.jpg | https://m.media-amazon.com/images/I/41R2VFVor2L.jpg | https://m.media-amazon.com/images/I/31bw+0DXekL.jpg | https://m.media-amazon.com/images/I/31ZvB9h31rL.jpg | https://m.media-amazon.com/images/I/51zSBxPQenL.jpg | https://m.media-amazon.com/images/I/416SpNWJKnL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-Electric-Transfer-eBayMotors-Automotive/dp/B0GXZJR6Y4/ref=sr_1_289"
+    },
+    {
+      "sku": "JKE-IIYEMOJZHA4EMNC2",
+      "slug": "2xuniversal-car-interior-strips-trim-for-air-conditioner",
+      "name": "2Xuniversal Car Interior Strips Trim For Air Conditioner...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 732,
+      "image": "https://m.media-amazon.com/images/I/51qKpWimWhL.jpg | https://m.media-amazon.com/images/I/51qKpWimWhL.jpg | https://m.media-amazon.com/images/I/51PhkW+l1IL.jpg | https://m.media-amazon.com/images/I/51PBdygrcmL.jpg | https://m.media-amazon.com/images/I/41OtrVW9qnL.jpg | https://m.media-amazon.com/images/I/41zaltFmxTL.jpg | https://m.media-amazon.com/images/I/41oDUOiQE+L.jpg | https://m.media-amazon.com/images/I/41l4ywQuRkL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-2Xuniversal-Tools-Supplies-Auto/dp/B0F9988F4Z/ref=sr_1_256"
+    },
+    {
+      "sku": "JKE-IIYEMOJZHBBEGQRT",
+      "slug": "3xuniversal-car-interior-strips-trim-for-air-conditioner",
+      "name": "3Xuniversal Car Interior Strips Trim For Air Conditioner...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 1021,
+      "image": "https://m.media-amazon.com/images/I/51qKpWimWhL.jpg | https://m.media-amazon.com/images/I/51qKpWimWhL.jpg | https://m.media-amazon.com/images/I/516vBsXN2oL.jpg | https://m.media-amazon.com/images/I/51PBdygrcmL.jpg | https://m.media-amazon.com/images/I/41OtrVW9qnL.jpg | https://m.media-amazon.com/images/I/41zaltFmxTL.jpg | https://m.media-amazon.com/images/I/41oDUOiQE+L.jpg | https://m.media-amazon.com/images/I/41l4ywQuRkL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-3Xuniversal-Tools-Supplies-Auto/dp/B0F998BCB3/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYEIVBWJVIVAMRS",
+      "slug": "laser-level-adapter-14-diy-supports-line-leveling-tool",
+      "name": "Laser Level Adapter 1/4'' DIY Supports Line Leveling Tool...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 1050,
+      "image": "https://m.media-amazon.com/images/I/616CzIzlwBL.jpg | https://m.media-amazon.com/images/I/31L++jm0QPL.jpg | https://m.media-amazon.com/images/I/41QQ1gnYQPL.jpg | https://m.media-amazon.com/images/I/31IxtNZy+tL.jpg | https://m.media-amazon.com/images/I/31XEhomIvUL.jpg | https://m.media-amazon.com/images/I/31xnG+klHAL.jpg | https://m.media-amazon.com/images/I/31f6zlWcgEL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPPTM-Adapter-Supports-Leveling-Measuring/dp/B0DT6MQP22/ref=sr_1_246"
+    },
+    {
+      "sku": "JKE-IIYEIVBWGY2UQM2X",
+      "slug": "hard-shell-carrying-case-black-for-distance-meter-glm165-10",
+      "name": "Hard Shell Carrying Case Black for Distance Meter Glm165 10...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 1269,
+      "image": "https://m.media-amazon.com/images/I/71PNAQG3-DL.jpg | https://m.media-amazon.com/images/I/41zYxnFfj0L.jpg | https://m.media-amazon.com/images/I/51gxq3USMtL.jpg | https://m.media-amazon.com/images/I/41T9tEx+4IL.jpg | https://m.media-amazon.com/images/I/41lik2tuPKL.jpg | https://m.media-amazon.com/images/I/31QPbF51s6L.jpg | https://m.media-amazon.com/images/I/41+O7+Fp95L.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPPTM-Carrying-Distance-Glm165-Measuring/dp/B0DT665H3W/ref=sr_1_283"
+    },
+    {
+      "sku": "JKE-IIYEIVBWHFEDQOKD",
+      "slug": "level-tripod-distance-measure-stable-portable-professional",
+      "name": "Level Tripod Distance Measure Stable Portable Professional...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 961,
+      "image": "https://m.media-amazon.com/images/I/51bf+jnjXYL.jpg | https://m.media-amazon.com/images/I/31NIw-eJSlL.jpg | https://m.media-amazon.com/images/I/31JenTHaaqL.jpg | https://m.media-amazon.com/images/I/31Z6WMF0v4L.jpg | https://m.media-amazon.com/images/I/41jFvVKredL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPPTM-Distance-Portable-Professional-Measuring/dp/B0DT69H89C/ref=sr_1_252"
+    },
+    {
+      "sku": "JKE-IIYEIVBWGVEDGWKW",
+      "slug": "magnetic-target-card-plate-measurement-house-application",
+      "name": "Magnetic Target Card Plate Measurement House Application...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 532,
+      "image": "https://m.media-amazon.com/images/I/61ebKIKe-mL.jpg | https://m.media-amazon.com/images/I/41-ZaDG7hwL.jpg | https://m.media-amazon.com/images/I/41jgwZeXKsL.jpg | https://m.media-amazon.com/images/I/41CS5N3gktL.jpg | https://m.media-amazon.com/images/I/41ViNdjlRoL.jpg | https://m.media-amazon.com/images/I/41GoXOUVK9L.jpg | https://m.media-amazon.com/images/I/41X3fmBAxiL.jpg | https://m.media-amazon.com/images/I/41fcNyRE6PL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPPTM-Magnetic-Measurement-Application-Measuring/dp/B0DT65H3YV/ref=sr_1_244"
+    },
+    {
+      "sku": "JKE-IIYEIVBWG5HFCWBR",
+      "slug": "fine-adjustment-pan-tilt-lifting-rod-sturdy-for-studio",
+      "name": "Fine Adjustment Pan Tilt Lifting Rod Sturdy for Studio...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 1820,
+      "image": "https://m.media-amazon.com/images/I/514X8RdUokL.jpg | https://m.media-amazon.com/images/I/31t9Zu6gCIL.jpg | https://m.media-amazon.com/images/I/31B2H8rIS8L.jpg | https://m.media-amazon.com/images/I/31offxA9MuL.jpg | https://m.media-amazon.com/images/I/31ykA43fYbL.jpg | https://m.media-amazon.com/images/I/41gIMHiwy8L.jpg | https://m.media-amazon.com/images/I/41KL88XxIQL.jpg | https://m.media-amazon.com/images/I/3148hQFAHkL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPPTM-Adjustment-Lifting-Household-Measuring/dp/B0DT67NQX1/ref=sr_1_292"
+    },
+    {
+      "sku": "JKE-IIYEIVBWKQYUYV2Q",
+      "slug": "laser-line-level-l-shape-magnetic-bracket-easily-install",
+      "name": "Laser Line Level L Shape Magnetic Bracket Easily Install...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 929,
+      "image": "https://m.media-amazon.com/images/I/51Io7IfQcaL.jpg | https://m.media-amazon.com/images/I/218lBhyKC4L.jpg | https://m.media-amazon.com/images/I/31nLX0hPfHL.jpg | https://m.media-amazon.com/images/I/31dYqY5x40L.jpg | https://m.media-amazon.com/images/I/216MxZ3pXWL.jpg | https://m.media-amazon.com/images/I/3137qymEGUL.jpg | https://m.media-amazon.com/images/I/311ja9OnjNL.jpg | https://m.media-amazon.com/images/I/212hCyK0v3L.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPPTM-Magnetic-Portable-Adjustable-Measuring/dp/B0DT6T1LWP/ref=sr_1_276"
+    },
+    {
+      "sku": "JKE-IIYEOVC2IJITSMSD",
+      "slug": "locking-fuel-tank-fuel-filler-door-cover-fit-for-fitsjeep",
+      "name": "Locking Fuel Tank Fuel Filler Door Cover Fit for FitsJeep...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 1862,
+      "image": "https://m.media-amazon.com/images/I/81y0OGG0AVL.jpg | https://m.media-amazon.com/images/I/41mn3w44maL.jpg | https://m.media-amazon.com/images/I/413DFOFLA7L.jpg | https://m.media-amazon.com/images/I/41XbrSUOGRL.jpg | https://m.media-amazon.com/images/I/41TsfdlrzBL.jpg | https://m.media-amazon.com/images/I/41GUrPdIZpL.jpg | https://m.media-amazon.com/images/I/61SE4PWexfL.jpg | https://m.media-amazon.com/images/I/41gvqh7mmpL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-FitsJeep-Wrangler-Universal-High-Performance/dp/B0GTZBQ92C/ref=sr_1_128"
+    },
+    {
+      "sku": "JKE-IIYEMUZXJVMDMOBT",
+      "slug": "5x3x-tailgate-rubber-plugs-set-replacement-for-fitsjeep",
+      "name": "5x3x Tailgate Rubber Plugs Set Replacement for FitsJeep...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 1323,
+      "image": "https://m.media-amazon.com/images/I/31z6J8IasvL.jpg | https://m.media-amazon.com/images/I/31z6J8IasvL.jpg | https://m.media-amazon.com/images/I/31bvcW+sTUL.jpg | https://m.media-amazon.com/images/I/31uTfhh+E7L.jpg | https://m.media-amazon.com/images/I/31dVHHq07ZL.jpg | https://m.media-amazon.com/images/I/21udwzVIBwL.jpg | https://m.media-amazon.com/images/I/219Soa9qjrL.jpg | https://m.media-amazon.com/images/I/51BUJJkVfQL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-Replacement-2007-2017-Universal-High-Performance/dp/B0FS7MX683/ref=sr_1_237"
+    },
+    {
+      "sku": "JKE-IIYEMUZXI5MVANRT",
+      "slug": "locking-fuel-tank-fuel-filler-door-cover-fit-for-fitsjeep",
+      "name": "Locking Fuel Tank Fuel Filler Door Cover Fit for FitsJeep...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 1920,
+      "image": "https://m.media-amazon.com/images/I/81y0OGG0AVL.jpg | https://m.media-amazon.com/images/I/41mn3w44maL.jpg | https://m.media-amazon.com/images/I/413DFOFLA7L.jpg | https://m.media-amazon.com/images/I/41XbrSUOGRL.jpg | https://m.media-amazon.com/images/I/41TsfdlrzBL.jpg | https://m.media-amazon.com/images/I/41GUrPdIZpL.jpg | https://m.media-amazon.com/images/I/61SE4PWexfL.jpg | https://m.media-amazon.com/images/I/41gvqh7mmpL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-FitsJeep-Wrangler-Universal-High-Performance/dp/B0FS7GYP63/ref=sr_1_129"
+    },
+    {
+      "sku": "JKE-IIYEMUZXJJCFUOBW",
+      "slug": "6x3x-tailgate-rubber-plugs-set-replacement-for-fitsjeep",
+      "name": "6x3x Tailgate Rubber Plugs Set Replacement for FitsJeep...",
+      "brand": "Merishopp",
+      "category": "Measuring & Layout",
+      "price": 1740,
+      "image": "https://m.media-amazon.com/images/I/31z6J8IasvL.jpg | https://m.media-amazon.com/images/I/31z6J8IasvL.jpg | https://m.media-amazon.com/images/I/31+wJfa0-6L.jpg | https://m.media-amazon.com/images/I/31uTfhh+E7L.jpg | https://m.media-amazon.com/images/I/31dVHHq07ZL.jpg | https://m.media-amazon.com/images/I/21udwzVIBwL.jpg | https://m.media-amazon.com/images/I/219Soa9qjrL.jpg | https://m.media-amazon.com/images/I/51BUJJkVfQL.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-Replacement-2007-2017-Universal-High-Performance/dp/B0FS7JDZ86/ref=sr_1_236"
+    },
+    {
+      "sku": "JKE-IIYEOVC2GNCE4TRT",
+      "slug": "door-hinges-foot-rest-pedal-peg-no-drilling-for-fitsjeep",
+      "name": "Door Hinges Foot Rest Pedal Peg No Drilling for FitsJeep...",
+      "brand": "Merishopp",
+      "category": "Power Tools",
+      "price": 5292,
+      "image": "https://m.media-amazon.com/images/I/41OZ6QGxs3L.jpg | https://m.media-amazon.com/images/I/31TnK1rRzBL.jpg | https://m.media-amazon.com/images/I/21G+eUEPCdL.jpg | https://m.media-amazon.com/images/I/31f0Bw09uCL.jpg | https://m.media-amazon.com/images/I/212MKZnaacL.jpg | https://m.media-amazon.com/images/I/319LPqRXazL.jpg | https://m.media-amazon.com/images/I/21tUdR8RM0L.jpg | https://m.media-amazon.com/images/I/21hqc1sHv6L.jpg",
+      "productUrl": "https://www.amazon.in/MERISHOPP-Drilling-2007-2016-Universal-High-Performance/dp/B0GTZ3DNN3/ref=sr_1_208"
+    },
+    {
+      "sku": "JKE-IIYEQMSIHEZUERSM",
+      "slug": "solar-powered-turntable-rotating-display-stand-led-light",
+      "name": "Solar Powered Turntable Rotating Display Stand LED Light...",
+      "brand": "Merishopp",
+      "category": "General Hardware",
+      "price": 1303,
+      "image": "https://m.media-amazon.com/images/I/31loMJKnQPL.jpg | https://m.media-amazon.com/images/I/212tkOuInTL.jpg | https://m.media-amazon.com/images/I/31Mapl7WohL.jpg | https://m.media-amazon.com/images/I/31tNE1FhcZL.jpg | https://m.media-amazon.com/images/I/31i2b7ouRzL.jpg",
+      "productUrl": "https://www.amazon.in/Merishopp-Turntable-Rotating-Industrial-Multi-Purpose/dp/B0H2H93BFL/ref=sr_1_9"
     }
   ]
 }

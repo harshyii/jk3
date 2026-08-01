@@ -9,23 +9,253 @@
   "products": [
     {
       "sku": "JKE-IIYDSUSLHBJTGOBS",
-      "slug": "utl-solar-2kw-combo-with-1200-watt-solar-panel-solar-battery-2kva-gamma-solar-inverter",
-      "name": "UTL Solar 2kW Combo with 1200 Watt Solar Panel, Solar Battery & 2kVA Gamma+ Solar Inverter",
+      "slug": "utl-solar-2kw-combo-with-1200-watt-solar-panel-solar",
+      "name": "UTL Solar 2kW Combo with 1200 Watt Solar Panel, Solar...",
       "brand": "Utl",
       "category": "Power Tools",
-      "price": "₹12,278.00",
+      "price": 12278,
       "image": "https://m.media-amazon.com/images/I/41jJnYWCO3L.jpg | https://m.media-amazon.com/images/I/41jJnYWCO3L.jpg",
       "productUrl": "https://www.amazon.in/UTL-Solar-Combo-Battery-Inverter/dp/B09RK8S382/ref=sr_1_67"
     },
     {
-      "sku": "JKE-IIYDSUSLIJIEMR2S",
-      "slug": "utl-r-mppt-solar-management-unit-40a-12v24v-solar-charge-controller-for-inverter-converts-normal-inverter-into-solar-inverter-automatic-solar-priority-system",
-      "name": "UTL r-MPPT Solar Management Unit 40A 12V/24V | Solar Charge Controller for Inverter | Converts Normal Inverter into Solar Inverter | Automatic Solar Priority System",
+      "sku": "JKE-IIYEITS2JM2E2QSW",
+      "slug": "utl-solar-3-phase-on-grid-inverter-charge-controller-99",
+      "name": "UTL Solar 3-Phase On-Grid Inverter & Charge Controller 99%...",
       "brand": "Utl",
       "category": "General Hardware",
-      "price": "₹6,253.00",
+      "price": 21245,
+      "image": "https://m.media-amazon.com/images/I/518K+7sGiAL.jpg | https://m.media-amazon.com/images/I/31kAmzmybZL.jpg | https://m.media-amazon.com/images/I/41oxLiZ69kL.jpg | https://m.media-amazon.com/images/I/41VAVAj3pNL.jpg | https://m.media-amazon.com/images/I/41Tz6Yn7YiL.jpg | https://m.media-amazon.com/images/I/41EOX-HvTIL.jpg | https://m.media-amazon.com/images/I/41I90nxP2eL.jpg | https://m.media-amazon.com/images/I/31BZS-gWoXL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Controller-Efficiency-Protection-Monitoring/dp/B0DNZK4MBV/ref=sr_1_151"
+    },
+    {
+      "sku": "JKE-IIYDSURZINFFQNRU",
+      "slug": "utl-solar-charge-controller-hybrid-smu-50a-support-12v",
+      "name": "UTL Solar Charge Controller Hybrid SMU 50A, Support - 12V...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 3119,
+      "image": "https://m.media-amazon.com/images/I/41bywn7P3UL.jpg | https://m.media-amazon.com/images/I/41bywn7P3UL.jpg | https://m.media-amazon.com/images/I/31Xntm55rfL.jpg | https://m.media-amazon.com/images/I/51NgbGo60YL.jpg | https://m.media-amazon.com/images/I/51To3DQ32fL.jpg | https://m.media-amazon.com/images/I/51a-w51D4+L.jpg | https://m.media-amazon.com/images/I/51JfiVBbO8L.jpg | https://m.media-amazon.com/images/I/51vL0loz8RL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Charge-Controller-Hybrid-Support/dp/B09R9CJX64/ref=sr_1_38"
+    },
+    {
+      "sku": "JKE-IIYDSUSLIJIEMR2S",
+      "slug": "utl-r-mppt-solar-management-unit-40a-12v24v-solar-charge",
+      "name": "UTL r-MPPT Solar Management Unit 40A 12V/24V | Solar Charge...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 6253,
       "image": "https://m.media-amazon.com/images/I/51KxjL07G-L.jpg | https://m.media-amazon.com/images/I/31xbwVS6PtL.jpg | https://m.media-amazon.com/images/I/41jnpF8c1hL.jpg | https://m.media-amazon.com/images/I/410HUS7KxvL.jpg | https://m.media-amazon.com/images/I/51lX+rqSEcL.jpg | https://m.media-amazon.com/images/I/41+VxDhb8iL.jpg | https://m.media-amazon.com/images/I/41Fs8LUYSDL.jpg",
       "productUrl": "https://www.amazon.in/UTL-24V-Automatic-Charge-Controller/dp/B09RKBPFGR/ref=sr_1_236"
+    },
+    {
+      "sku": "JKE-IIYDQWCZGNIDOSBW",
+      "slug": "utl-solar-s-k-solar-energy-335-watt-panel",
+      "name": "UTL SOLAR S K Solar Energy 335 Watt Panel",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 6449,
+      "image": "https://m.media-amazon.com/images/I/41NVrf392iL.jpg | https://m.media-amazon.com/images/I/41NVrf392iL.jpg | https://m.media-amazon.com/images/I/31fgcI3YMoL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-SOLAR-Solar-Energy-Panel/dp/B08XY3P7H6/ref=sr_1_146"
+    },
+    {
+      "sku": "JKE-IIYDQS2RI5DU4OCQ",
+      "slug": "utl-polycrystalline-solar-panels",
+      "name": "UTL PolyCrystalline Solar Panels",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 699.95,
+      "image": "https://m.media-amazon.com/images/I/51RYp3ZXxTL.jpg | https://m.media-amazon.com/images/I/51RYp3ZXxTL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-SolarPanel_160watt-PolyCrystalline-Solar-Panels/dp/B08KQGGN8P/ref=sr_1_47"
+    },
+    {
+      "sku": "JKE-IIYDSUSNJNEEUUBV",
+      "slug": "utl-ust-1536-solar-battery-with-36-months-warranty",
+      "name": "UTL UST 1536 Solar Battery with 36 Months Warranty",
+      "brand": "Utl",
+      "category": "Measuring & Layout",
+      "price": 12398,
+      "image": "https://m.media-amazon.com/images/I/41t2x3al-NL.jpg | https://m.media-amazon.com/images/I/41t2x3al-NL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Solar-Battery-Months-Warranty/dp/B09RMKHJP5/ref=sr_1_4"
+    },
+    {
+      "sku": "JKE-IIYEOVSZGZGE4VSW",
+      "slug": "utl-sun-li-on-1200-lithium-integrated-solar-inverter-",
+      "name": "UTL Sun Li-ON 1200 Lithium Integrated Solar Inverter |...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 30499,
+      "image": "https://m.media-amazon.com/images/I/51RxyvwP0ML.jpg | https://m.media-amazon.com/images/I/31aSVCKMDuL.jpg | https://m.media-amazon.com/images/I/41lWGVcX3eL.jpg | https://m.media-amazon.com/images/I/41jHci4dkKL.jpg | https://m.media-amazon.com/images/I/41xK4AczWuL.jpg | https://m.media-amazon.com/images/I/51l2iTTAWHL.jpg | https://m.media-amazon.com/images/I/51WUuUVn6bL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Integrated-Inverter-Controller-Modified/dp/B0GVY6LNVV/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-IIYEMUBSGRCFCNJX",
+      "slug": "utl-heliac-850va12v-solar-inverter-pure-sine-wave-home",
+      "name": "UTL Heliac 850VA/12V Solar Inverter | Pure Sine Wave Home...",
+      "brand": "Utl",
+      "category": "Safety & PPE",
+      "price": 6099,
+      "image": "https://m.media-amazon.com/images/I/51+lioLtk8L.jpg | https://m.media-amazon.com/images/I/31kHGgJklyL.jpg | https://m.media-amazon.com/images/I/51LT5Brxx1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51pqLDBqx6L.jpg | https://m.media-amazon.com/images/I/51tM7Fu4fXL.jpg | https://m.media-amazon.com/images/I/412N3fT-FRL.jpg | https://m.media-amazon.com/images/I/51hUpyxmfPL.jpg | https://m.media-amazon.com/images/I/31cZ2x-3qPL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Inverter-Controller-Batteries-HL1050-12V/dp/B0FP24DQ57/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYDSTSDGI4TSUKM",
+      "slug": "utl-shamsi-pcu-hybrid-ups-875va-12v-50a-inbuilt-with-solar",
+      "name": "UTL Shamsi PCU Hybrid UPS 875VA 12V 50A Inbuilt with Solar...",
+      "brand": "Utl",
+      "category": "Measuring & Layout",
+      "price": 4199,
+      "image": "https://m.media-amazon.com/images/I/41sY6t80azL.jpg | https://m.media-amazon.com/images/I/41sY6t80azL.jpg",
+      "productUrl": "https://www.amazon.in/Shamsi-Hybrid-Inbuilt-Functionality-Inverter/dp/B09NC299QL/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-IIYEOTCOKZEEYWCE",
+      "slug": "utl-shinex-32-kw-on-grid-rooftop-solar-kit-single-phase",
+      "name": "UTL ShineX 3.2 kW On-Grid Rooftop Solar Kit (Single Phase)...",
+      "brand": "Utl",
+      "category": "Measuring & Layout",
+      "price": 37000,
+      "image": "https://m.media-amazon.com/images/I/61mH-rXIWWL.jpg | https://m.media-amazon.com/images/I/41KVJLZT4xL.jpg | https://m.media-amazon.com/images/I/41rvCom82WL.jpg | https://m.media-amazon.com/images/I/41e48ggScDL.jpg | https://m.media-amazon.com/images/I/516pIFUkIEL.jpg | https://m.media-amazon.com/images/I/41l10hQ3qEL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-ShineX-Bi-Facial-Eligible-Complete/dp/B0GLNVHLXD/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-IIYEMUCSIM2VEOCC",
+      "slug": "utl-gamma-plus-li-on-1200-mppt-solar-inverter-pure-sine",
+      "name": "UTL Gamma Plus Li-on 1200 MPPT Solar Inverter | Pure Sine...",
+      "brand": "Utl",
+      "category": "Safety & PPE",
+      "price": 29499,
+      "image": "https://m.media-amazon.com/images/I/510zd9pBL2L.jpg | https://m.media-amazon.com/images/I/315YoUxVPYL.jpg | https://m.media-amazon.com/images/I/61Dx8TjYHML.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/412JyyWvRlL.jpg | https://m.media-amazon.com/images/I/41q7Wbs7RYL.jpg | https://m.media-amazon.com/images/I/41Wtd4eLKNL.jpg | https://m.media-amazon.com/images/I/51a-nxSrUdL.jpg | https://m.media-amazon.com/images/I/41lzSmp+6OL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Gamma-1200-Multi-Color-Mountable/dp/B0FPRC5R8B/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-IIYDQR22IZNDCTKH",
+      "slug": "utl-solar-energy-kit-emergency-light-three-led-bulb-one",
+      "name": "UTL Solar Energy Kit, Emergency Light (Three LED Bulb, One...",
+      "brand": "Utl",
+      "category": "Electrical & Wiring",
+      "price": 3500,
+      "image": "https://m.media-amazon.com/images/I/61EwFo-cFQL.jpg | https://m.media-amazon.com/images/I/31CUg-IQ0xL.jpg | https://m.media-amazon.com/images/I/41rRbImZ9DL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Energy-Emergency-Mobile-Chargers/dp/B08GZFZ1MG/ref=sr_1_42"
+    },
+    {
+      "sku": "JKE-IIYDQS2GGVNDOVSD",
+      "slug": "utl-shamsi-solar-home-pcu-hybrid-pcu-ups-675va-12v-25a",
+      "name": "UTL Shamsi Solar Home PCU Hybrid PCU; UPS 675VA ; 12V ; 25A...",
+      "brand": "Utl",
+      "category": "Measuring & Layout",
+      "price": 5400,
+      "image": "https://m.media-amazon.com/images/I/41sY6t80azL.jpg | https://m.media-amazon.com/images/I/41sY6t80azL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Shamsi-Inverter-Inbuilt-Functionality/dp/B08KF5Z7VC/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-IIYDQRZYJRLVSQ2Y",
+      "slug": "utl-solar-charge-controller-1224v-20a-lcd",
+      "name": "UTL SOLAR Charge Controller 12/24V 20A (LCD)",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/412YrEDwwFL.jpg | https://m.media-amazon.com/images/I/412YrEDwwFL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-SOLAR-Charge-Controller-24V/dp/B08G8LWYCX/ref=sr_1_48"
+    },
+    {
+      "sku": "JKE-IIYEMNRTGY3TQOBY",
+      "slug": "utl-gamma-plus-1012-mppt-solar-hybrid-inverter-for-home",
+      "name": "UTL Gamma Plus 1012 MPPT Solar Hybrid Inverter for Home...",
+      "brand": "Utl",
+      "category": "Electrical & Wiring",
+      "price": 4699,
+      "image": "https://m.media-amazon.com/images/I/31QGizP11gL.jpg | https://m.media-amazon.com/images/I/31QGizP11gL.jpg | https://m.media-amazon.com/images/I/41oyFhYmL9L.jpg | https://m.media-amazon.com/images/I/31WZ1Wp-axL.jpg | https://m.media-amazon.com/images/I/31ZTerD-JAL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Inverter-Sinewave-Installation-Warranty/dp/B0F6367888/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYEOVSZKNIFUUSH",
+      "slug": "utl-taqnia-3548-home-inverter-3500va-pure-sine-wave-48v",
+      "name": "UTL Taqnia 3548 Home Inverter 3500VA Pure Sine Wave | 48V...",
+      "brand": "Utl",
+      "category": "Power Tools",
+      "price": 14500,
+      "image": "https://m.media-amazon.com/images/I/51FSU8qYySL.jpg | https://m.media-amazon.com/images/I/415vgv0gnUL.jpg | https://m.media-amazon.com/images/I/51ru+5lSMvL.jpg | https://m.media-amazon.com/images/I/51uXnJMW9iL.jpg | https://m.media-amazon.com/images/I/51mx0QFcJyL.jpg | https://m.media-amazon.com/images/I/51L8xpselbL.jpg | https://m.media-amazon.com/images/I/41iZAacamVL.jpg | https://m.media-amazon.com/images/I/51RnZzymjEL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Inverter-Technology-Compatible-Batteries/dp/B0GVYSPZRG/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-IIYDOUSQGZGTEQSY",
+      "slug": "utl-heliac-pwm-1050va12v-single-battery-solar-inverter",
+      "name": "UTL Heliac PWM 1050VA,12V Single Battery Solar Inverter",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 9399,
+      "image": "https://m.media-amazon.com/images/I/51rPqvbsetL.jpg | https://m.media-amazon.com/images/I/31SGoOaLkuL.jpg | https://m.media-amazon.com/images/I/51qy54AkjkL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Heliac-1050VA-Battery-Inverter/dp/B07RP6M2BX/ref=sr_1_46"
+    },
+    {
+      "sku": "JKE-IIYDQS2RJA3UORCI",
+      "slug": "utl-335-watt-poly-crystalline-solar-panel-set-of-1",
+      "name": "UTL 335 Watt Poly Crystalline Solar Panel (Set of 1),...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 12499,
+      "image": "https://m.media-amazon.com/images/I/51VJCTA16sL.jpg | https://m.media-amazon.com/images/I/51VJCTA16sL.jpg | https://m.media-amazon.com/images/I/51oNsadhqjL.jpg | https://m.media-amazon.com/images/I/518TPymJrIL.jpg | https://m.media-amazon.com/images/I/51VEqoP97KL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-SolarPanel_330watt-PolyCrystalline-Solar-Panels/dp/B08KQH7GDH/ref=sr_1_38"
+    },
+    {
+      "sku": "JKE-IIYEITS2JBDFGWJW",
+      "slug": "utl-solar-3-phase-on-grid-inverter-charge-controller-99",
+      "name": "UTL Solar 3-Phase On-Grid Inverter & Charge Controller 99%...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 22268,
+      "image": "https://m.media-amazon.com/images/I/518K+7sGiAL.jpg | https://m.media-amazon.com/images/I/31kAmzmybZL.jpg | https://m.media-amazon.com/images/I/41Tz6Yn7YiL.jpg | https://m.media-amazon.com/images/I/41VAVAj3pNL.jpg | https://m.media-amazon.com/images/I/41EOX-HvTIL.jpg | https://m.media-amazon.com/images/I/41oxLiZ69kL.jpg | https://m.media-amazon.com/images/I/41I90nxP2eL.jpg | https://m.media-amazon.com/images/I/31BZS-gWoXL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Controller-Efficiency-Protection-Monitoring/dp/B0DNZHFSY6/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-IIYEMUBSGRJTQWJW",
+      "slug": "utl-heliac-1000va12v-solar-inverter-pure-sine-wave-home",
+      "name": "UTL Heliac 1000VA/12V Solar Inverter | Pure Sine Wave Home...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 7100,
+      "image": "https://m.media-amazon.com/images/I/51+lioLtk8L.jpg | https://m.media-amazon.com/images/I/31kHGgJklyL.jpg | https://m.media-amazon.com/images/I/51gudCT3aDL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51pqLDBqx6L.jpg | https://m.media-amazon.com/images/I/51hUpyxmfPL.jpg | https://m.media-amazon.com/images/I/51tM7Fu4fXL.jpg | https://m.media-amazon.com/images/I/412N3fT-FRL.jpg | https://m.media-amazon.com/images/I/31cZ2x-3qPL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Inverter-Controller-Batteries-HL1500-12V/dp/B0FP24S8Y6/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYEOVS2GE3FCNRZ",
+      "slug": "utl-taqnia-2024-home-inverter-2000va-pure-sine-wave-24v",
+      "name": "UTL Taqnia 2024 Home Inverter 2000VA Pure Sine Wave | 24V...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 10270,
+      "image": "https://m.media-amazon.com/images/I/51FSU8qYySL.jpg | https://m.media-amazon.com/images/I/415vgv0gnUL.jpg | https://m.media-amazon.com/images/I/51ru+5lSMvL.jpg | https://m.media-amazon.com/images/I/51uXnJMW9iL.jpg | https://m.media-amazon.com/images/I/51mx0QFcJyL.jpg | https://m.media-amazon.com/images/I/51L8xpselbL.jpg | https://m.media-amazon.com/images/I/41iZAacamVL.jpg | https://m.media-amazon.com/images/I/51RnZzymjEL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Inverter-Technology-Compatible-Batteries/dp/B0GVZ16Q69/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-IIYDQRCNGZCFAN2N",
+      "slug": "utl-solar-charge-controller-pwm-12v24v-10amp-with-usb",
+      "name": "UTL Solar Charge Controller (PWM) 12V/24V, 10Amp with USB...",
+      "brand": "Utl",
+      "category": "Electrical & Wiring",
+      "price": 549.99,
+      "image": "https://m.media-amazon.com/images/I/61P70agWMtL.jpg | https://m.media-amazon.com/images/I/41kCbGGABdL.jpg | https://m.media-amazon.com/images/I/41mxFTsMgAL.jpg | https://m.media-amazon.com/images/I/412TOxTwTXL.jpg | https://m.media-amazon.com/images/I/41VEj-xJ0mL.jpg | https://m.media-amazon.com/images/I/41LRGIP1ncL.jpg | https://m.media-amazon.com/images/I/51mEJlyJwpL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Charge-Controller-Charging-Socket/dp/B08DM6DP7M/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEITS2JJBTMSSK",
+      "slug": "utl-solar-3-phase-on-grid-inverter-charge-controller-99",
+      "name": "UTL Solar 3-Phase On-Grid Inverter & Charge Controller 99%...",
+      "brand": "Utl",
+      "category": "General Hardware",
+      "price": 63924,
+      "image": "https://m.media-amazon.com/images/I/518K+7sGiAL.jpg | https://m.media-amazon.com/images/I/31kAmzmybZL.jpg | https://m.media-amazon.com/images/I/41Tz6Yn7YiL.jpg | https://m.media-amazon.com/images/I/41VAVAj3pNL.jpg | https://m.media-amazon.com/images/I/41oxLiZ69kL.jpg | https://m.media-amazon.com/images/I/41EOX-HvTIL.jpg | https://m.media-amazon.com/images/I/41I90nxP2eL.jpg | https://m.media-amazon.com/images/I/31BZS-gWoXL.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Controller-Efficiency-Protection-Monitoring/dp/B0DNZJC6JJ/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-IIYEIR2RJRBUUUKW",
+      "slug": "utl-sun-plus-pro-1420-inverter-for-home-office-shops-",
+      "name": "UTL Sun Plus Pro 1420 Inverter for Home, Office & Shops |...",
+      "brand": "Utl",
+      "category": "Measuring & Layout",
+      "price": 8900,
+      "image": "https://m.media-amazon.com/images/I/51Pxg5L7wTL.jpg | https://m.media-amazon.com/images/I/412Fp+Be1eL.jpg | https://m.media-amazon.com/images/I/61QrQtfkV4L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/410elUen6nL.jpg | https://m.media-amazon.com/images/I/510TNCqvPuL.jpg | https://m.media-amazon.com/images/I/41P-UEPQ5lL.jpg | https://m.media-amazon.com/images/I/41J9J39lkGL.jpg | https://m.media-amazon.com/images/I/51G0UPVHl0L.jpg",
+      "productUrl": "https://www.amazon.in/UTL-Inverter-Installation-1100VA-12V/dp/B0DGQLCJQV/ref=sr_1_8"
     }
   ]
 }

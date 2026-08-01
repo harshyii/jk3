@@ -1,0 +1,36 @@
+{
+  "name": "Hiker",
+  "slug": "hiker",
+  "products": [
+    {
+      "sku": "JKE-IIYEMOCNK5DFIMKY",
+      "slug": "hiker-by-varroc-hi-glow-car-wax-250g-high-gloss-paste-wax",
+      "name": "Hiker by Varroc Hi Glow Car Wax 250g | High Gloss Paste Wax...",
+      "brand": "Hiker",
+      "category": "Power Tools",
+      "price": 458,
+      "image": "https://m.media-amazon.com/images/I/71o45Yg80EL.jpg | https://m.media-amazon.com/images/I/41fPq2Oo+nL.jpg | https://m.media-amazon.com/images/I/51dW5pPhxnL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51eHBMstILL.jpg | https://m.media-amazon.com/images/I/41GR+HRvrCL.jpg | https://m.media-amazon.com/images/I/41wxIpZf4GL.jpg | https://m.media-amazon.com/images/I/51HWxItiRbL.jpg | https://m.media-amazon.com/images/I/51vq9DZJWsL.jpg",
+      "productUrl": "https://www.amazon.in/Varroc-Protection-Pollution-Plastic-Surfaces/dp/B0F8MWFT1X/ref=sr_1_161"
+    },
+    {
+      "sku": "JKE-IIYEMOCNLJEFMUKH",
+      "slug": "hiker-by-varroc-multi-purpose-car-duster-microfiber",
+      "name": "Hiker by Varroc Multi-Purpose Car Duster | Microfiber...",
+      "brand": "Hiker",
+      "category": "General Hardware",
+      "price": 720,
+      "image": "https://m.media-amazon.com/images/I/61qE4l85lrL.jpg | https://m.media-amazon.com/images/I/41L3wyx61rL.jpg | https://m.media-amazon.com/images/I/51gncMH0k1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/510k6plv9VL.jpg | https://m.media-amazon.com/images/I/518NCRhgyFL.jpg | https://m.media-amazon.com/images/I/51zfDCZDF-L.jpg | https://m.media-amazon.com/images/I/511D-J5lP7L.jpg | https://m.media-amazon.com/images/I/51u+68Q9VVL.jpg",
+      "productUrl": "https://www.amazon.in/Multi-Purpose-Wax-Treated-Microfiber-Scratch-Free-Cleaning/dp/B0F8MZHVQG/ref=sr_1_171"
+    },
+    {
+      "sku": "JKE-IIYDSMJWGREDCVBX",
+      "slug": "hiker-3m-sticky-adhesive-tape-for-magnetic-car-mount-mobile",
+      "name": "Hiker 3M Sticky Adhesive Tape for Magnetic Car Mount Mobile...",
+      "brand": "Hiker",
+      "category": "Measuring & Layout",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/61fYnezwsvL.jpg | https://m.media-amazon.com/images/I/41cN4TacJiL.jpg | https://m.media-amazon.com/images/I/410-39AyNCL.jpg | https://m.media-amazon.com/images/I/41b01EdFKoL.jpg | https://m.media-amazon.com/images/I/41gG01kG90L.jpg | https://m.media-amazon.com/images/I/51XGqtbK93L.jpg | https://m.media-amazon.com/images/I/51TVZYmwTXL.jpg | https://m.media-amazon.com/images/I/414FLQZWVIL.jpg",
+      "productUrl": "https://www.amazon.in/HIKER-3M-Adhesive-Magnetic-Holders/dp/B09164H1T7/ref=sr_1_215"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Greenartz",
+  "slug": "greenartz",
+  "products": [
+    {
+      "sku": "JKE-IIYDSN2GHBFTCURU",
+      "slug": "greenartz-33ft-silver-aluminium-wire-for-craft-14-gauge-",
+      "name": "GREENARTZ® 33ft Silver Aluminium Wire for craft 14 gauge /...",
+      "brand": "Greenartz",
+      "category": "Measuring & Layout",
+      "price": 227,
+      "image": "https://m.media-amazon.com/images/I/51Zb5STdrkS.jpg | https://m.media-amazon.com/images/I/31c+SkIqVVS.jpg | https://m.media-amazon.com/images/I/414pysnLtaL.jpg | https://m.media-amazon.com/images/I/51bkjXaWYhL.jpg | https://m.media-amazon.com/images/I/518SQ03W8hL.jpg | https://m.media-amazon.com/images/I/51e8JtmGraL.jpg",
+      "productUrl": "https://www.amazon.in/GREENARTZ%C2%AE-Silver-Aluminium-Making-Animation/dp/B097F8K1R4/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-IIYDQURSLFDFGUSZ",
+      "slug": "greenartz-25g-solder-wire-for-easy-soldering-rosin-core",
+      "name": "GREENARTZ 25g Solder Wire for Easy Soldering rosin core...",
+      "brand": "Greenartz",
+      "category": "Electrical & Wiring",
+      "price": 285,
+      "image": "https://m.media-amazon.com/images/I/512m1DzF54L.jpg | https://m.media-amazon.com/images/I/31a-K3+t0wL.jpg | https://m.media-amazon.com/images/I/41LBJ4DZXML.jpg | https://m.media-amazon.com/images/I/41mFaD3OkRL.jpg | https://m.media-amazon.com/images/I/31NigpkBcmL.jpg | https://m.media-amazon.com/images/I/31toaPhi15L.jpg | https://m.media-amazon.com/images/I/41nIGJMAmOL.jpg",
+      "productUrl": "https://www.amazon.in/GREENARTZ-Solder-Aluminium-Soldering-Shrink/dp/B08R2YFSRY/ref=sr_1_95"
+    }
+  ]
+}

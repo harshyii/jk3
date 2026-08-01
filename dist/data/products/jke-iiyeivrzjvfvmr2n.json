@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIVRZJVFVMR2N",
-  "title": "Tomahawk MIG-1500 Brushless Mini Angle Grinder 16V with 2×2.0Ah Battery, 19,500 RPM High-Speed Cordless Grinder, 3-Inch Disc, Compact Cutting & Grinding Power Tool",
+  "title": "Tomahawk MIG-1500 Brushless Mini Angle Grinder 16V with...",
   "brand": "Tomahawk",
-  "current_price": "₹3,759.00",
-  "mrp": "₹6,240",
+  "current_price": 3759,
+  "mrp": 6240,
   "product_url": "https://www.amazon.in/TOMAHAWK%C2%AE-MIG-1500-12-Brushless-Cordless-Grinder/dp/B0DV9MKVGM/ref=sr_1_42",
   "description": "Tomahawk MIG-1500 Brushless Mini Angle Grinder 16V with 2×2.0Ah Battery, 19,500 RPM High-Speed Cordless Grinder, 3-Inch Disc, Compact Cutting & Grinding Power Tool - Distributed/Packaged by Tomahawk. Product Details: nan",
   "image_urls": [
@@ -26,26 +26,26 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41P7kwN91qL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41rdFra3dcL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎Tomahawk Tools",
-    "Included Components": "‎Mini Grinder, 2 Battery, Charger, 5 Grinder Discs, Allen Key, Gloves",
-    "Item Weight": "‎1 kg 500 g",
     "Item Type Name": "General",
+    "Colour": "‎Green",
+    "Included Components": "‎Mini Grinder, 2 Battery, Charger, 5 Grinder Discs, Allen Key, Gloves",
     "Brand": "‎Tomahawk",
     "Model number": "‎MIG-1500 Mini Grinder",
-    "Colour": "‎Green",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎1 kg 500 g",
     "Product Dimensions": "‎10 x 2 x 2.7 cm; 1.5 kg",
     "Item model number": "‎MIG-1500 Mini Grinder",
     "Item Height": "‎2.7 Centimeters",
     "Item Width": "‎2 Centimeters",
-    "Country of Origin": "‎China",
     "Are batteries included?": "‎Yes",
     "Lithium battery energy content": "‎1500 Milliampere Hour (mAh)",
     "Lithium Battery Packaging": "‎Batteries packed with equipment"
   },
   "SKU": "JKE-IIYEIVRZJVFVMR2N",
-  "Name": "Tomahawk MIG-1500 Brushless Mini Angle Grinder 16V with 2×2.0Ah Battery, 19,500 RPM High-Speed Cordless Grinder, 3-Inch Disc, Compact Cutting & Grinding Power Tool",
-  "Slug": "tomahawk-mig-1500-brushless-mini-angle-grinder-16v-with-220ah-battery-19500-rpm-high-speed-cordless-grinder-3-inch-disc-compact-cutting-grinding-power-tool",
+  "Name": "Tomahawk MIG-1500 Brushless Mini Angle Grinder 16V with...",
+  "Slug": "tomahawk-mig-1500-brushless-mini-angle-grinder-16v-with",
   "Category": "Power Tools",
   "Subcategory1": "Rotary Tools",
   "Images": [
@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41icMZO2NfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81T2LMT5PsL.jpg | https://m.media-amazon.com/images/I/41iv6piZ92L.jpg | https://m.media-amazon.com/images/I/51445B5t8dL.jpg | https://m.media-amazon.com/images/I/513-+rSjtOL.jpg | https://m.media-amazon.com/images/I/51ldtsBlstL.jpg | https://m.media-amazon.com/images/I/41P7kwN91qL.jpg | https://m.media-amazon.com/images/I/41rdFra3dcL.jpg | https://m.media-amazon.com/images/I/41icMZO2NfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹3,759.00",
+  "Discount": 39.76,
+  "SalePrice": 3759,
   "Country": "‎China"
 }

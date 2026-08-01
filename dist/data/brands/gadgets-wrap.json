@@ -1,0 +1,36 @@
+{
+  "name": "Gadgets Wrap",
+  "slug": "gadgets-wrap",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNZZGRCDKM2L",
+      "slug": "gadgets-wrap-samsung-galaxy-m17e-skin-sticker-printed",
+      "name": "GADGETS WRAP Samsung Galaxy M17e Skin Sticker | Printed...",
+      "brand": "Gadgets Wrap",
+      "category": "General Hardware",
+      "price": 169,
+      "image": "https://m.media-amazon.com/images/I/51S7GIMGlJL.jpg | https://m.media-amazon.com/images/I/41aSwO-iYyL.jpg | https://m.media-amazon.com/images/I/51Es2PoWZXL.jpg | https://m.media-amazon.com/images/I/51bM9vLRwWL.jpg | https://m.media-amazon.com/images/I/51fEJ0i8a0L.jpg",
+      "productUrl": "https://www.amazon.in/GADGETS-WRAP-Samsung-Resistant-Multicolor/dp/B0H794D53K/ref=sr_1_237"
+    },
+    {
+      "sku": "JKE-IIYEQMSIKRDVEWCU",
+      "slug": "gadgets-wrap-oneplus-15r-skin-sticker-printed-vinyl",
+      "name": "GADGETS WRAP OnePlus 15R Skin Sticker | Printed Vinyl...",
+      "brand": "Gadgets Wrap",
+      "category": "General Hardware",
+      "price": 84,
+      "image": "https://m.media-amazon.com/images/I/51KaqbQ0EsL.jpg | https://m.media-amazon.com/images/I/41WFUDHFUgL.jpg | https://m.media-amazon.com/images/I/51Es2PoWZXL.jpg | https://m.media-amazon.com/images/I/51bM9vLRwWL.jpg | https://m.media-amazon.com/images/I/51fEJ0i8a0L.jpg",
+      "productUrl": "https://www.amazon.in/GADGETS-WRAP-OnePlus-Resistant-Multicolor/dp/B0H2HTGRXT/ref=sr_1_268"
+    },
+    {
+      "sku": "JKE-IIYEQN2DJU4VCU2D",
+      "slug": "gadgets-wrap-samsung-galaxy-z-flip-7-fe-skin-sticker-",
+      "name": "GADGETS WRAP Samsung Galaxy Z Flip 7 FE Skin Sticker |...",
+      "brand": "Gadgets Wrap",
+      "category": "General Hardware",
+      "price": 169,
+      "image": "https://m.media-amazon.com/images/I/51-QOh9Q4OL.jpg | https://m.media-amazon.com/images/I/31OCjqdAAUL.jpg | https://m.media-amazon.com/images/I/51Es2PoWZXL.jpg | https://m.media-amazon.com/images/I/51bM9vLRwWL.jpg | https://m.media-amazon.com/images/I/51fEJ0i8a0L.jpg",
+      "productUrl": "https://www.amazon.in/GADGETS-WRAP-Samsung-Resistant-Multicolor/dp/B0H7CM9QSC/ref=sr_1_240"
+    }
+  ]
+}

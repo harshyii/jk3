@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYDQRRTIQ2EITCM",
-  "title": "XP-PW-100CD Xtra-Power Cordless Portable High-Pressure Washer",
+  "title": "XP-PW-100CD Xtra-Power Cordless Portable High-Pressure...",
   "brand": "Jipson",
-  "current_price": "₹4,299.00",
+  "current_price": 4299,
   "mrp": 0,
   "product_url": "https://www.amazon.in/JIPSON-XP-PW-100CD-Xtra-Power-Cordless-High-Pressure/dp/B08F3D4DLL/ref=sr_1_268",
   "description": "XP-PW-100CD Xtra-Power Cordless Portable High-Pressure Washer - Distributed/Packaged by Jipson. Product Details: This product will be an excellent pick for you. It comes in a proper packaging.",
@@ -16,17 +16,17 @@
   "image_url_3": "https://m.media-amazon.com/images/I/41m-4g7lYxL.jpg",
   "specifications": {
     "Model Number": "XP PW 100CD",
-    "Unit Count": "1.00 Pack",
     "Item Type Name": "General",
     "ASIN": "B08F3D4DLL",
-    "Brand": "JIPSON",
     "Colour": "Black, Red",
+    "Unit Count": "1.00 Pack",
     "Power Source": "Corded Electric",
+    "Brand": "JIPSON",
     "Specification Met": "CSA"
   },
   "SKU": "JKE-IIYDQRRTIQ2EITCM",
-  "Name": "XP-PW-100CD Xtra-Power Cordless Portable High-Pressure Washer",
-  "Slug": "xp-pw-100cd-xtra-power-cordless-portable-high-pressure-washer",
+  "Name": "XP-PW-100CD Xtra-Power Cordless Portable High-Pressure...",
+  "Slug": "xp-pw-100cd-xtra-power-cordless-portable-high-pressure",
   "Category": "Power Tools",
   "Subcategory1": "Cordless Kits",
   "Images": [
@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/41m-4g7lYxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+fC3zYxuL.jpg | https://m.media-amazon.com/images/I/41m-4g7lYxL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.00 Pack",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹4,299.00",
+  "SalePrice": 4299,
   "Model": "XP PW 100CD"
 }

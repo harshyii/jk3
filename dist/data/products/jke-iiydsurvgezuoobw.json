@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSURVGEZUOOBW",
-  "title": "JD Fresh 5 in 1 Stainless Steel Head Scraper/Caulking Tool Kit/Sealant Finishing Grout Scraper/Gap Filler/Scraper Finishing Tool for Tiles/Countertop/Bathtubs/Sinks/Window/Home(Black/5 Silicone Pads)",
+  "title": "JD Fresh 5 in 1 Stainless Steel Head Scraper/Caulking Tool...",
   "brand": "Jd Fresh",
-  "current_price": "₹319.00",
-  "mrp": "₹799",
+  "current_price": 319,
+  "mrp": 799,
   "product_url": "https://www.amazon.in/JD-Caulking-Tool-stainless-Finishing/dp/B09R513G86/ref=sr_1_298",
   "description": "JD Fresh 5 in 1 Stainless Steel Head Scraper/Caulking Tool Kit/Sealant Finishing Grout Scraper/Gap Filler/Scraper Finishing Tool for Tiles/Countertop/Bathtubs/Sinks/Window/Home(Black/5 Silicone Pads) - Distributed/Packaged by Jd Fresh. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51rL8xTZIqL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/515k2-uX8TL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎M/s JD Fresh",
     "Item Type Name": "General",
     "ASIN": "‎B09R513G86",
     "Product Dimensions": "‎25 x 9 x 4 cm; 120 g",
-    "Item model number": "‎Caulking Tool",
-    "Country of Origin": "‎India"
+    "Item model number": "‎Caulking Tool"
   },
   "SKU": "JKE-IIYDSURVGEZUOOBW",
-  "Name": "JD Fresh 5 in 1 Stainless Steel Head Scraper/Caulking Tool Kit/Sealant Finishing Grout Scraper/Gap Filler/Scraper Finishing Tool for Tiles/Countertop/Bathtubs/Sinks/Window/Home(Black/5 Silicone Pads)",
-  "Slug": "jd-fresh-5-in-1-stainless-steel-head-scrapercaulking-tool-kitsealant-finishing-grout-scrapergap-fillerscraper-finishing-tool-for-tilescountertopbathtubssinkswindowhomeblack5-silicone-pads",
+  "Name": "JD Fresh 5 in 1 Stainless Steel Head Scraper/Caulking Tool...",
+  "Slug": "jd-fresh-5-in-1-stainless-steel-head-scrapercaulking-tool",
   "Category": "Plumbing",
   "Subcategory1": "General Plumbing",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/515k2-uX8TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gVp3m91wL.jpg | https://m.media-amazon.com/images/I/41d-s+50QtL.jpg | https://m.media-amazon.com/images/I/51BK6TSV-ZL.jpg | https://m.media-amazon.com/images/I/4121n9w94jL.jpg | https://m.media-amazon.com/images/I/41iYC-aAGBL.jpg | https://m.media-amazon.com/images/I/51rL8xTZIqL.jpg | https://m.media-amazon.com/images/I/515k2-uX8TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹319.00",
+  "Discount": 60.08,
+  "SalePrice": 319,
   "Country": "‎India"
 }

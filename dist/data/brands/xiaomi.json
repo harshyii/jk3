@@ -1,0 +1,36 @@
+{
+  "name": "Xiaomi",
+  "slug": "xiaomi",
+  "products": [
+    {
+      "sku": "JKE-IIYEINZTK42VCMZZ",
+      "slug": "xiaomi-power-bank-4i-10000mah-225w-fast-charging-pdsmart",
+      "name": "Xiaomi Power Bank 4i 10000mAh 22.5W Fast Charging PD|Smart...",
+      "brand": "Xiaomi",
+      "category": "Fasteners & Hardware",
+      "price": 1299,
+      "image": "https://m.media-amazon.com/images/I/419OMyMyL-L.jpg | https://m.media-amazon.com/images/I/21RfPYtGL0L.jpg | https://m.media-amazon.com/images/I/41lRv-HGEkL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41xQHR106NL.jpg | https://m.media-amazon.com/images/I/416uXY0xWDL.jpg | https://m.media-amazon.com/images/I/41FKN9Bd3EL.jpg | https://m.media-amazon.com/images/I/519HPhZaVIL.jpg | https://m.media-amazon.com/images/I/41UDqOfPT1L.jpg",
+      "productUrl": "https://www.amazon.in/Xiaomi-10000mAh-Charging-Delivery-Supports/dp/B0D73W5Q39/ref=sr_1_231"
+    },
+    {
+      "sku": "JKE-IIYEIQ2OLJDVOMZW",
+      "slug": "xiaomi-power-bank-4i-20000mah-33w-super-fast-charging-pd",
+      "name": "Xiaomi Power Bank 4i 20000mAh 33W Super Fast Charging PD...",
+      "brand": "Xiaomi",
+      "category": "Fasteners & Hardware",
+      "price": 2224,
+      "image": "https://m.media-amazon.com/images/I/611J+4ry-vL.jpg | https://m.media-amazon.com/images/I/21bPDrw3NPL.jpg | https://m.media-amazon.com/images/I/61jkt0-nt4L.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41mT169ZqaL.jpg | https://m.media-amazon.com/images/I/41TQZ62CHpL.jpg | https://m.media-amazon.com/images/I/31+2FM93+PL.jpg | https://m.media-amazon.com/images/I/41m-KbsZOTL.jpg | https://m.media-amazon.com/images/I/31pxWaSdxPL.jpg",
+      "productUrl": "https://www.amazon.in/Xiaomi-20000mAh-Charging-Delivery-Supports/dp/B0DCNZGW36/ref=sr_1_212"
+    },
+    {
+      "sku": "JKE-IIYDQRCEKJDVOVCK",
+      "slug": "xiaomi-mi-type-c-cable-225w-pd-fast-charging-1m-length",
+      "name": "XIAOMI Mi Type C Cable - 22.5W PD Fast Charging, 1m Length...",
+      "brand": "Xiaomi",
+      "category": "Electrical & Wiring",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/61Oe2wHdeuL.jpg | https://m.media-amazon.com/images/I/31f45f627nL.jpg | https://m.media-amazon.com/images/I/414g8BzveIL.jpg | https://m.media-amazon.com/images/I/41FKyeOcfzL.jpg | https://m.media-amazon.com/images/I/41n0W-irQWL.jpg | https://m.media-amazon.com/images/I/31ZBf57DxNL.jpg",
+      "productUrl": "https://www.amazon.in/Supports-Charging-Suitable-Smartphones-Accessories/dp/B08DDRGWTJ/ref=sr_1_114"
+    }
+  ]
+}

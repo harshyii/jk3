@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQOJUGREE4M2M",
-  "title": "Solar Panel Y Branch Connector Premium Wear Resistant Waterproof|Home & Garden| Home Improvement| Electrical & Solar| Alternative & Solar Energy| Solar Panels",
+  "title": "Solar Panel Y Branch Connector Premium Wear Resistant...",
   "brand": "Loom Tree",
-  "current_price": "₹2,034.00",
-  "mrp": "₹3,308",
+  "current_price": 2034,
+  "mrp": 3308,
   "product_url": "https://www.amazon.in/LOOM-TREE-Waterproof-Improvement-Alternative/dp/B0H944HN3L/ref=sr_1_160",
   "description": "Solar Panel Y Branch Connector Premium Wear Resistant Waterproof|Home & Garden| Home Improvement| Electrical & Solar| Alternative & Solar Energy| Solar Panels - Distributed/Packaged by Loom Tree. Product Details: Description:?Durability?: Solar Panel Y Branch Connector Is Constructed From Pc, Supporting Up To 1000V And 30A For Long Time Performance In Demanding Solar Applications?Safety?: Features Insulated Components And Guided Insulation At The Connector Head To Prevent Electric Shock And Ensure Secure, Reliable Connections?Waterproof?: Solar Panel Connector Provides Great Waterproof Protection, Making It Ideal For Outdoor Solar Panel Installations?Easy To Install?: Solar Panel Y Branch Connector Is Easy Installation, Tight Fitting Connector Minimize Risk Of Disconnection?Package?: You Will Receive 1X Solar Panel Y Branch ConnectorSpecification:Material: PcRated Current: 30ARated Voltage: 1000VSize Chart:Length30Cm/11.81InchPackage Includes:1 Solar Panel Y Branch ConnectorNote:Please Allow Slightly Errors 1-2Cm Differences Due To Manual Measurement.",
   "image_urls": [
@@ -26,15 +26,15 @@
   "image_url_7": "https://m.media-amazon.com/images/I/31u9jkvuLVL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/5164V1PfuXL.jpg",
   "specifications": {
+    "Country of Origin": "‎Hong Kong",
     "Manufacturer": "‎Salesio Labs, Email :Salesio.labs@outlook.com, Contact: 9355965055",
     "Item Type Name": "General",
     "ASIN": "‎B0H944HN3L",
-    "Item model number": "‎67050228SLAB",
-    "Country of Origin": "‎Hong Kong"
+    "Item model number": "‎67050228SLAB"
   },
   "SKU": "JKE-IIYEQOJUGREE4M2M",
-  "Name": "Solar Panel Y Branch Connector Premium Wear Resistant Waterproof|Home & Garden| Home Improvement| Electrical & Solar| Alternative & Solar Energy| Solar Panels",
-  "Slug": "solar-panel-y-branch-connector-premium-wear-resistant-waterproofhome-garden-home-improvement-electrical-solar-alternative-solar-energy-solar-panels",
+  "Name": "Solar Panel Y Branch Connector Premium Wear Resistant...",
+  "Slug": "solar-panel-y-branch-connector-premium-wear-resistant",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/419M31FOrCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51gIMYHLkUL.jpg | https://m.media-amazon.com/images/I/31yaZ3GAX8L.jpg | https://m.media-amazon.com/images/I/31EN0efOfcL.jpg | https://m.media-amazon.com/images/I/31SqjAthK5L.jpg | https://m.media-amazon.com/images/I/31xj4TdOmOL.jpg | https://m.media-amazon.com/images/I/31u9jkvuLVL.jpg | https://m.media-amazon.com/images/I/5164V1PfuXL.jpg | https://m.media-amazon.com/images/I/419M31FOrCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹2,034.00",
+  "Discount": 38.51,
+  "SalePrice": 2034,
   "Country": "‎Hong Kong"
 }

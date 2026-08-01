@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOUCXJZMTQNJX",
-  "title": "Xtra Power BRUSHLESS ANGLE GRINDER Disc Diameter : 100MM (XPC-AG-01)",
+  "title": "Xtra Power BRUSHLESS ANGLE GRINDER Disc Diameter : 100MM...",
   "brand": "Xtra Power",
-  "current_price": "₹6,100.00",
-  "mrp": "₹7,500",
+  "current_price": 6100,
+  "mrp": 7500,
   "product_url": "https://www.amazon.in/Xtra-Power-BRUSHLESS-GRINDER-Diameter/dp/B0GPWNY857/ref=sr_1_62",
   "description": "Xtra Power BRUSHLESS ANGLE GRINDER Disc Diameter : 100MM (XPC-AG-01) - Distributed/Packaged by Xtra Power. Product Details: The XPC AG 01 Brushless Angle Grinder is a powerful 100 mm cutting and grinding tool designed for demanding metalworking and construction applications. Featuring advanced brushless motor technology, this angle grinder delivers superior performance with increased efficiency, longer runtime, and extended tool life compared to traditional brushed motors. The 100 mm disc size makes it ideal for a wide range of tasks including cutting metal, grinding welds, removing rust, and smoothing surfaces. The brushless design ensures consistent power delivery whilst reducing maintenance requirements, as there are no carbon brushes to replace. This compact yet robust grinder is engineered for both professional tradespeople and serious DIY enthusiasts who require reliable performance on the job site. The ergonomic design allows for comfortable handling during extended use, whilst the tool's construction ensures durability in challenging work environments. Whether you're working with steel, aluminium, or other metals, this angle grinder provides the power and precision needed to complete your projects efficiently.",
   "image_urls": [
@@ -16,23 +16,23 @@
     "Brand Name": "Xtra Power",
     "Model Number": "XP-1107",
     "Manufacturer": "Heavy Duty",
-    "Country of Publication": "China",
-    "Included Components": "Angle Grinder",
-    "Item Weight": "2.5 Kilograms",
+    "Importer Contact Information": "LSL TOOLS PVT LTD.",
     "Item Type Name": "Tools & Machinery",
     "Packer Contact Information": "JIPSON INDUSTRIES PVT. LTD.",
     "ASIN": "B0GPWNY857",
     "Colour": "Black & Orange",
+    "Voltage": "220 Volts",
     "Power Source": "Electric Corded",
-    "Importer Contact Information": "LSL TOOLS PVT LTD.",
+    "Included Components": "Angle Grinder",
     "Wattage": "1250 Watts",
-    "Maximum Rotational Speed": "9500 RPM",
     "Item Dimensions L x W x H": "35L x 25W x 15H Centimeters",
-    "Voltage": "220 Volts"
+    "Item Weight": "2.5 Kilograms",
+    "Country of Publication": "China",
+    "Maximum Rotational Speed": "9500 RPM"
   },
   "SKU": "JKE-IIYEOUCXJZMTQNJX",
-  "Name": "Xtra Power BRUSHLESS ANGLE GRINDER Disc Diameter : 100MM (XPC-AG-01)",
-  "Slug": "xtra-power-brushless-angle-grinder-disc-diameter-100mm-xpc-ag-01",
+  "Name": "Xtra Power BRUSHLESS ANGLE GRINDER Disc Diameter : 100MM...",
+  "Slug": "xtra-power-brushless-angle-grinder-disc-diameter-100mm",
   "Category": "Power Tools",
   "Subcategory1": "Rotary Tools",
   "Images": [
@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/21dY0HcJ4HL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21dY0HcJ4HL.jpg | https://m.media-amazon.com/images/I/21dY0HcJ4HL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹6,100.00",
+  "Discount": 18.67,
+  "SalePrice": 6100,
   "Model": "XP-1107"
 }

@@ -8,14 +8,134 @@
   "metaDescription": "Find Microtek solar PCUs, rooftop inverters, and power backup solutions online.",
   "products": [
     {
-      "sku": "JKE-IIYDQNBUGI2VEV2H",
-      "slug": "microtek-iron-polycrystalline-solar-pv-module-for-home-officeshops-50w12v",
-      "name": "MICROTEK Iron Polycrystalline Solar Pv Module for Home, Office&Shops-50W/12V",
+      "sku": "JKE-IIYEGN2DGJLFAOCE",
+      "slug": "microtek-legend-650-line-interactive-ups-650va360w-micro",
+      "name": "Microtek Legend 650 Line Interactive UPS 650VA/360W, Micro...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 2699,
+      "image": "https://m.media-amazon.com/images/I/41JY1155AtL.jpg | https://m.media-amazon.com/images/I/319VCHuym4L.jpg | https://m.media-amazon.com/images/I/41QACriI-xL.jpg | https://m.media-amazon.com/images/I/41nRWWQYwLL.jpg | https://m.media-amazon.com/images/I/41nOMMdFZFL.jpg | https://m.media-amazon.com/images/I/51I3SCV4UJL.jpg | https://m.media-amazon.com/images/I/51P0tM3U15L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Interactive-Legend-650-Protection/dp/B0C7C2VP8D/ref=sr_1_206"
+    },
+    {
+      "sku": "JKE-IIYEMTRYGQ3FGUKY",
+      "slug": "microtek-lithium-ion-battery-mlb1280060-128v100ah",
+      "name": "Microtek Lithium-Ion Battery MLB1280060 (12.8V/100Ah,...",
+      "brand": "Microtek",
+      "category": "General Hardware",
+      "price": 19097,
+      "image": "https://m.media-amazon.com/images/I/51TAv0yYxWL.jpg | https://m.media-amazon.com/images/I/316j8uMv9LL.jpg | https://m.media-amazon.com/images/I/41sZnsvDs0L.jpg | https://m.media-amazon.com/images/I/41RSZUcF7AL.jpg | https://m.media-amazon.com/images/I/41Gc9OkJs6L.jpg | https://m.media-amazon.com/images/I/41V+nVVBXuL.jpg | https://m.media-amazon.com/images/I/511vcoTbyNL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Lithium-Ion-Battery-MLB1280060-1280Wh/dp/B0FN846SQX/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-IIYDQQSMKNCDOUBU",
+      "slug": "microtek-solar-dc-cable-xlpo-tuv-protected-4-sqmm-5-meter",
+      "name": "Microtek Solar DC Cable XLPO TUV Protected 4 sq.mm 5 Meter...",
+      "brand": "Microtek",
+      "category": "Electrical & Wiring",
+      "price": 943,
+      "image": "https://m.media-amazon.com/images/I/41I2i4cq9US.jpg | https://m.media-amazon.com/images/I/41I2i4cq9US.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Solar-Cable-Protected-sq-mm/dp/B08BLSD7P4/ref=sr_1_248"
+    },
+    {
+      "sku": "JKE-IIYDQQSMKRDVIRSQ",
+      "slug": "microtek-solar-dc-cable-tinned-copper-uv-protected-4-sqmm",
+      "name": "Microtek Solar DC Cable Tinned Copper UV Protected 4 sq.mm...",
       "brand": "Microtek",
       "category": "Power Tools",
-      "price": "₹1,899.00",
+      "price": 2599,
+      "image": "https://m.media-amazon.com/images/I/41cLOqFDwOL.jpg | https://m.media-amazon.com/images/I/41cLOqFDwOL.jpg | https://m.media-amazon.com/images/I/41TzlyrI+wL.jpg | https://m.media-amazon.com/images/I/41MQyzupmtL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Solar-Cable-Protected-sq-mm/dp/B08BLTGTFP/ref=sr_1_270"
+    },
+    {
+      "sku": "JKE-IIYDQQSMKE4VQWKC",
+      "slug": "microtek-solar-dc-cable-tinned-copper-uv-protected-10-sqmm",
+      "name": "Microtek Solar DC Cable Tinned Copper UV Protected 10 sq.mm...",
+      "brand": "Microtek",
+      "category": "Electrical & Wiring",
+      "price": 16699,
+      "image": "https://m.media-amazon.com/images/I/41I2i4cq9US.jpg | https://m.media-amazon.com/images/I/41I2i4cq9US.jpg | https://m.media-amazon.com/images/I/41cs6WaP1VL.jpg | https://m.media-amazon.com/images/I/61-PKpfnLFL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Solar-Cable-Protected-sq-mm/dp/B08BLQ9XYB/ref=sr_1_259"
+    },
+    {
+      "sku": "JKE-IIYDQNBUGI2VEV2H",
+      "slug": "microtek-iron-polycrystalline-solar-pv-module-for-home",
+      "name": "MICROTEK Iron Polycrystalline Solar Pv Module for Home,...",
+      "brand": "Microtek",
+      "category": "Power Tools",
+      "price": 1899,
       "image": "https://m.media-amazon.com/images/I/61TuWzfZ6BL.jpg | https://m.media-amazon.com/images/I/31GbtiXIgRL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
       "productUrl": "https://www.amazon.in/MICROTEK-Polycrystalline-Module-Office-Shops-50W/dp/B084425RWG/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEGNRSHFFVCR2Z",
+      "slug": "microtek-polycrystalline-solar-pv-module-for-home-office-",
+      "name": "Microtek Polycrystalline Solar PV Module for Home, Office &...",
+      "brand": "Microtek",
+      "category": "Garden & Outdoor",
+      "price": 5599,
+      "image": "https://m.media-amazon.com/images/I/519KRrtkp6L.jpg | https://m.media-amazon.com/images/I/41sma4Z7jBL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Polycrystalline-Module-Office-75W-12V/dp/B0C629KQGY/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYEMNSWIMYUUS2K",
+      "slug": "microtek-energy-saver-new-1025-12v-inverter-m1603624tt",
+      "name": "Microtek Energy Saver New 1025 12V Inverter | M1603624TT...",
+      "brand": "Microtek",
+      "category": "Power Tools",
+      "price": 19025,
+      "image": "https://m.media-amazon.com/images/I/51L5dUIIJ9L.jpg | https://m.media-amazon.com/images/I/312XI6VJw0L.jpg | https://m.media-amazon.com/images/I/51YTB8LeQ0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41dM12JQO-L.jpg | https://m.media-amazon.com/images/I/41CwiMfszhL.jpg | https://m.media-amazon.com/images/I/41L04ZCARbL.jpg | https://m.media-amazon.com/images/I/51tWNgrTbfL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Inverter-Battery-M1603624TT-Energy-Efficient/dp/B0F6VC1JKJ/ref=sr_1_62"
+    },
+    {
+      "sku": "JKE-IIYDQWCRJRJEOU2X",
+      "slug": "microtek-lcd-solar-management-unit-1250",
+      "name": "Microtek LCD Solar Management Unit 1250",
+      "brand": "Microtek",
+      "category": "General Hardware",
+      "price": 3299,
+      "image": "https://m.media-amazon.com/images/I/51XIfsZmSPL.jpg | https://m.media-amazon.com/images/I/3195SvMi8dL.jpg | https://m.media-amazon.com/images/I/41Y-ihuhfoL.jpg | https://m.media-amazon.com/images/I/51bz8lBCs6L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Solar-Management-Unit-1250/dp/B08XQLRGSW/ref=sr_1_48"
+    },
+    {
+      "sku": "JKE-IIYDOR2SKFBUUS2H",
+      "slug": "microtek-super-power-1100-advanced-digital-950va12v",
+      "name": "Microtek Super Power 1100 Advanced Digital 950VA/12V...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 6070,
+      "image": "https://m.media-amazon.com/images/I/41Qvr8e5ZGL.jpg | https://m.media-amazon.com/images/I/31LvgsxzecL.jpg | https://m.media-amazon.com/images/I/51Br1tRb0JL.jpg | https://m.media-amazon.com/images/I/41OiGi8FR3L.jpg | https://m.media-amazon.com/images/I/516qGlHscfL.jpg | https://m.media-amazon.com/images/I/51j8ZEEkSaL.jpg | https://m.media-amazon.com/images/I/41cNJlJay4L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-UPS-EB-1200-Inverter/dp/B07GRQCJKG/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYDORCWJY2EGOKQ",
+      "slug": "microtek-smart-hybrid-1875-digital-sinewave-1650va1320w",
+      "name": "Microtek Smart Hybrid 1875 Digital & Sinewave 1650VA/1320W...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 9150,
+      "image": "https://m.media-amazon.com/images/I/41GfvS9qoIL.jpg | https://m.media-amazon.com/images/I/21B7XoJBCXL.jpg | https://m.media-amazon.com/images/I/51Muo9hvsrL.jpg | https://m.media-amazon.com/images/I/51DZn7QAV0L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-24x7-HB-1650-Sinewave/dp/B07DVN4C9P/ref=sr_1_67"
+    },
+    {
+      "sku": "JKE-IIYDQWCRIJMDOU2I",
+      "slug": "microtek-smarthybrid-1075-dg-sw-12v-ups-inverter-for",
+      "name": "Microtek SMARTHYBRID-1075-DG_SW (12V) UPS Inverter For...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 6490,
+      "image": "https://m.media-amazon.com/images/I/510kl9MhusL.jpg | https://m.media-amazon.com/images/I/31h64vUQbeL.jpg | https://m.media-amazon.com/images/I/31vByLvVUOL.jpg | https://m.media-amazon.com/images/I/51rQx8f3ufL.jpg | https://m.media-amazon.com/images/I/51phoRvzCYL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-HB-1075-Inverter-Assorted-Colour/dp/B08XQBX7SH/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-IIYDOOKDJI2EUN2K",
+      "slug": "microtek-trolley-for-single-tall-tubular-battery",
+      "name": "Microtek Trolley for Single Tall Tubular Battery",
+      "brand": "Microtek",
+      "category": "Storage & Organization",
+      "price": 1470,
+      "image": "https://m.media-amazon.com/images/I/61q1nA3zysL.jpg | https://m.media-amazon.com/images/I/315xMEiv88L.jpg | https://m.media-amazon.com/images/I/31A4FVXEmXL.jpg | https://m.media-amazon.com/images/I/41VSAlkdGnL.jpg | https://m.media-amazon.com/images/I/41MnBPn6YHL.jpg | https://m.media-amazon.com/images/I/41ajxQtfKTL.jpg | https://m.media-amazon.com/images/I/41o1ZVmSofL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Trolley-Single-Tubular-Battery/dp/B079CJ4J7J/ref=sr_1_93"
     },
     {
       "sku": "JKE-IIYDQNBUGIYUWS22",
@@ -23,19 +143,99 @@
       "name": "Microtek Solar Panel MTK 75Watt 12V",
       "brand": "Microtek",
       "category": "Power Tools",
-      "price": "₹4,699.00",
+      "price": 4699,
       "image": "https://m.media-amazon.com/images/I/61TuWzfZ6BL.jpg | https://m.media-amazon.com/images/I/31GbtiXIgRL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
       "productUrl": "https://www.amazon.in/Microtek-Solar-Panel-MTK-75Watt/dp/B084421KKZ/ref=sr_1_76"
     },
     {
-      "sku": "JKE-IIYEGNRSHFFVCR2Z",
-      "slug": "microtek-polycrystalline-solar-pv-module-for-home-office-shops-75w-12vpack-of-2",
-      "name": "Microtek Polycrystalline Solar PV Module for Home, Office & Shops (75W-12V(Pack of 2))",
+      "sku": "JKE-IIYDQQSMKNDFMVC2",
+      "slug": "microtek-solar-dc-cable-xlpo-tuv-protected-4-sqmm10-meter",
+      "name": "Microtek Solar DC Cable XLPO TUV Protected 4 sq.mm10 Meter...",
       "brand": "Microtek",
-      "category": "Garden & Outdoor",
-      "price": "₹5,599.00",
-      "image": "https://m.media-amazon.com/images/I/519KRrtkp6L.jpg | https://m.media-amazon.com/images/I/41sma4Z7jBL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
-      "productUrl": "https://www.amazon.in/Microtek-Polycrystalline-Module-Office-75W-12V/dp/B0C629KQGY/ref=sr_1_58"
+      "category": "Power Tools",
+      "price": 1829,
+      "image": "https://m.media-amazon.com/images/I/417e-1jmi4S.jpg | https://m.media-amazon.com/images/I/417e-1jmi4S.jpg | https://m.media-amazon.com/images/I/41TzlyrI+wL.jpg | https://m.media-amazon.com/images/I/41MQyzupmtL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Solar-Cable-Protected-sq-mm10/dp/B08BLSFVTZ/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-IIYDSV2LI5DEWQSR",
+      "slug": "microtek-imerlyn-1050-advanced-digital-900va725w-inverter",
+      "name": "Microtek iMerlyn 1050 Advanced Digital 900VA/725W Inverter,...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 5780,
+      "image": "https://m.media-amazon.com/images/I/41inwKntrcL.jpg | https://m.media-amazon.com/images/I/31rgEOdPg2L.jpg | https://m.media-amazon.com/images/I/51q0Ji2Th6L.jpg | https://m.media-amazon.com/images/I/41E--gJikqL.jpg | https://m.media-amazon.com/images/I/514QWg-dHjL.jpg | https://m.media-amazon.com/images/I/51xxvYQ7FIL.jpg | https://m.media-amazon.com/images/I/5185bZ0H2hL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-iMerlyn-Premium-Advanced-Inverter/dp/B09WKGFKBQ/ref=sr_1_237"
+    },
+    {
+      "sku": "JKE-IIYDQWCRIYYVITKG",
+      "slug": "microtek-smarthybrid-875-dg-sw-12v-ups-inverter-for",
+      "name": "Microtek SMARTHYBRID-875-DG_SW (12V) UPS Inverter For...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 5454,
+      "image": "https://m.media-amazon.com/images/I/51rlt2vkbJL.jpg | https://m.media-amazon.com/images/I/31Hlf8ZfzyL.jpg | https://m.media-amazon.com/images/I/31IFPnK7KDL.jpg | https://m.media-amazon.com/images/I/51jEyL341wL.jpg | https://m.media-amazon.com/images/I/51rsouJWTlL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-HB-875-Inverter-Assorted-Colour/dp/B08XQF1TMF/ref=sr_1_288_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDMWS2GZKFQUZV",
+      "slug": "microtek-smart-hybrid-digital-sinewave-combination",
+      "name": "Microtek Smart Hybrid Digital & Sinewave Combination...",
+      "brand": "Microtek",
+      "category": "Electrical & Wiring",
+      "price": 5550,
+      "image": "https://m.media-amazon.com/images/I/510kl9MhusL.jpg | https://m.media-amazon.com/images/I/31h64vUQbeL.jpg | https://m.media-amazon.com/images/I/31vByLvVUOL.jpg | https://m.media-amazon.com/images/I/51rQx8f3ufL.jpg | https://m.media-amazon.com/images/I/51phoRvzCYL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-1125Va-Hybrid-Sinewave-Inverter/dp/B06ZZ6TXS5/ref=sr_1_306"
+    },
+    {
+      "sku": "JKE-IIYDQNBXJBJFSTCO",
+      "slug": "microtek-super-power-1700-advanced-digital-1600va24v",
+      "name": "Microtek Super Power 1700 Advanced Digital 1600VA/24V...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 8149,
+      "image": "https://m.media-amazon.com/images/I/41Qvr8e5ZGL.jpg | https://m.media-amazon.com/images/I/31LvgsxzecL.jpg | https://m.media-amazon.com/images/I/51Br1tRb0JL.jpg | https://m.media-amazon.com/images/I/41oJ3+AdgEL.jpg | https://m.media-amazon.com/images/I/516qGlHscfL.jpg | https://m.media-amazon.com/images/I/51j8ZEEkSaL.jpg | https://m.media-amazon.com/images/I/41cNJlJay4L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-EB-1700VA-24V-Inverter/dp/B0847HRYLN/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-IIYDORCWJYZFCV2U",
+      "slug": "microtek-heavy-duty-1550-advanced-digital-1250va12v",
+      "name": "Microtek Heavy Duty 1550 Advanced Digital 1250VA/12V...",
+      "brand": "Microtek",
+      "category": "Measuring & Layout",
+      "price": 6450,
+      "image": "https://m.media-amazon.com/images/I/41zUg+TJlWL.jpg | https://m.media-amazon.com/images/I/21HSGv59WvL.jpg | https://m.media-amazon.com/images/I/41JLO55LDZL.jpg | https://m.media-amazon.com/images/I/41E4Yde-KjL.jpg | https://m.media-amazon.com/images/I/514QWg-dHjL.jpg | https://m.media-amazon.com/images/I/51kTeQiDCUL.jpg | https://m.media-amazon.com/images/I/51u1pH9s9hL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-JM-1250-Digital-Inverter/dp/B07DVN2QWT/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYDQM2XJNLTSUCK",
+      "slug": "microtek-super-power-1000-advanced-digital-900va12v",
+      "name": "Microtek Super Power 1000 Advanced Digital 900VA/12V...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 4240,
+      "image": "https://m.media-amazon.com/images/I/41Qvr8e5ZGL.jpg | https://m.media-amazon.com/images/I/31LvgsxzecL.jpg | https://m.media-amazon.com/images/I/51Br1tRb0JL.jpg | https://m.media-amazon.com/images/I/41iaS02IGyL.jpg | https://m.media-amazon.com/images/I/516qGlHscfL.jpg | https://m.media-amazon.com/images/I/51j8ZEEkSaL.jpg | https://m.media-amazon.com/images/I/41cNJlJay4L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Upseb-1000Va-Inverter-12V/dp/B083WKW9PJ/ref=sr_1_69"
+    },
+    {
+      "sku": "JKE-IIYDSV2KINJUOWSX",
+      "slug": "microtek-super-power-1700-pure-sinewave-1600va24v",
+      "name": "Microtek Super Power 1700 Pure Sinewave 1600VA/24V...",
+      "brand": "Microtek",
+      "category": "Fasteners & Hardware",
+      "price": 8149,
+      "image": "https://m.media-amazon.com/images/I/41Qvr8e5ZGL.jpg | https://m.media-amazon.com/images/I/31LvgsxzecL.jpg | https://m.media-amazon.com/images/I/51Br1tRb0JL.jpg | https://m.media-amazon.com/images/I/41LaSGiGChL.jpg | https://m.media-amazon.com/images/I/516qGlHscfL.jpg | https://m.media-amazon.com/images/I/51j8ZEEkSaL.jpg | https://m.media-amazon.com/images/I/41cNJlJay4L.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Brand-Sinewave-Inverter-Office/dp/B09WJCSGZW/ref=sr_1_72"
+    },
+    {
+      "sku": "JKE-IIYEEVZVKJIDQVCL",
+      "slug": "microtek-heavy-duty-pure-sinewave-ups-model-2350-24v-sw-",
+      "name": "Microtek Heavy Duty Pure Sinewave UPS Model 2350 (24V) SW |...",
+      "brand": "Microtek",
+      "category": "Electrical & Wiring",
+      "price": 11548,
+      "image": "https://m.media-amazon.com/images/I/41zUg+TJlWL.jpg | https://m.media-amazon.com/images/I/21HSGv59WvL.jpg | https://m.media-amazon.com/images/I/41JLO55LDZL.jpg | https://m.media-amazon.com/images/I/41HvhyElcjL.jpg | https://m.media-amazon.com/images/I/514QWg-dHjL.jpg | https://m.media-amazon.com/images/I/51kTeQiDCUL.jpg | https://m.media-amazon.com/images/I/51u1pH9s9hL.jpg",
+      "productUrl": "https://www.amazon.in/Microtek-Heavy-Duty-Sinewave-Model/dp/B0BW5RP8TK/ref=sr_1_34"
     }
   ]
 }

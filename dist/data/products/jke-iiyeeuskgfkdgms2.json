@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEEUSKGFKDGMS2",
-  "title": "ENDICO ROUTER 6MM ADAPTOR (Compatible for CARPER, MINI ROUTER AND TRIMMER,ALL ROUTER MODELS)",
+  "title": "ENDICO ROUTER 6MM ADAPTOR (Compatible for CARPER, MINI...",
   "brand": "Endico",
-  "current_price": "₹199.00",
+  "current_price": 199,
   "mrp": 0,
   "product_url": "https://www.amazon.in/ENDICO-ROUTER-ADAPTOR-Compatible-TRIMMER/dp/B0BRJ1T32Z/ref=sr_1_29",
   "description": "ENDICO ROUTER 6MM ADAPTOR (Compatible for CARPER, MINI ROUTER AND TRIMMER,ALL ROUTER MODELS) - Distributed/Packaged by Endico. Product Details: Endico Adaptor 6MM can used as a spare parts in routers.",
@@ -17,22 +17,22 @@
   "image_url_3": "https://m.media-amazon.com/images/I/41s6UFkYUAL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/41nWbhMpkvL.jpg",
   "specifications": {
-    "Material Type": "Metal",
     "Brand Name": "Endico",
     "Model Number": "3688",
-    "Unit Count": "1.00 Count",
     "Manufacturer": "Endico",
-    "Country of Publication": "India",
-    "Included Components": "Adapter",
     "Item Type Name": "General",
     "Best Sellers Rank": "#66,814 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#135 inSaw Accessories",
     "ASIN": "B0BRJ1T32Z",
+    "Unit Count": "1.00 Count",
     "Power Source": "Compatible for CARPER, MINI ROUTER AND TRIMMER,ALL ROUTER MODELS",
+    "Included Components": "Adapter",
+    "Material Type": "Metal",
+    "Country of Publication": "India",
     "Base Type": "Fixed"
   },
   "SKU": "JKE-IIYEEUSKGFKDGMS2",
-  "Name": "ENDICO ROUTER 6MM ADAPTOR (Compatible for CARPER, MINI ROUTER AND TRIMMER,ALL ROUTER MODELS)",
-  "Slug": "endico-router-6mm-adaptor-compatible-for-carper-mini-router-and-trimmerall-router-models",
+  "Name": "ENDICO ROUTER 6MM ADAPTOR (Compatible for CARPER, MINI...",
+  "Slug": "endico-router-6mm-adaptor-compatible-for-carper-mini",
   "Category": "Power Tools",
   "Subcategory1": "Planers & Routers",
   "Images": [
@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41nWbhMpkvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/11w2anjdLxL.jpg | https://m.media-amazon.com/images/I/11w2anjdLxL.jpg | https://m.media-amazon.com/images/I/41s6UFkYUAL.jpg | https://m.media-amazon.com/images/I/41nWbhMpkvL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.00 Count",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹199.00",
+  "SalePrice": 199,
   "Model": "3688"
 }

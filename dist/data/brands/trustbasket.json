@@ -3,14 +3,34 @@
   "slug": "trustbasket",
   "products": [
     {
-      "sku": "JKE-IIYDCTRSGFIVSM2E",
-      "slug": "trustbasket-gardening-tools-kit-for-home-5-piece-garden-tools-for-home-gardening-set-including-big-small-trowel-cultivator-weeder-garden-fork-durable-agriculture-tools-gardening-items-combo",
-      "name": "TrustBasket Gardening Tools Kit for Home 5-Piece Garden Tools for Home Gardening Set Including Big & Small Trowel, Cultivator, Weeder & Garden Fork Durable Agriculture Tools & Gardening Items Combo",
+      "sku": "JKE-IIYEGS2CLA3DMMKE",
+      "slug": "trustbasket-fireflies-solar-light-yellow-set-of-2-6",
+      "name": "TrustBasket Fireflies Solar Light - Yellow - Set of 2 (6...",
       "brand": "Trustbasket",
       "category": "General Hardware",
-      "price": "₹299.00",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/61IlawEugvL.jpg | https://m.media-amazon.com/images/I/51i1iuqK0uL.jpg | https://m.media-amazon.com/images/I/511OO3Knt7L.jpg | https://m.media-amazon.com/images/I/41l86nZHD7L.jpg | https://m.media-amazon.com/images/I/41fiQ1XiAlL.jpg | https://m.media-amazon.com/images/I/51B7so7GLBL.jpg | https://m.media-amazon.com/images/I/51x2YxvqfoL.jpg | https://m.media-amazon.com/images/I/51GWYl30zDL.jpg",
+      "productUrl": "https://www.amazon.in/TrustBasket-Fireflies-Solar-Light-Decorative/dp/B0CKBX661D/ref=sr_1_142"
+    },
+    {
+      "sku": "JKE-IIYDCTRSGFIVSM2E",
+      "slug": "trustbasket-gardening-tools-kit-for-home-5-piece-garden",
+      "name": "TrustBasket Gardening Tools Kit for Home 5-Piece Garden...",
+      "brand": "Trustbasket",
+      "category": "General Hardware",
+      "price": 299,
       "image": "https://m.media-amazon.com/images/I/61mCS9kj2uS.jpg | https://m.media-amazon.com/images/I/319SLg+-3iS.jpg | https://m.media-amazon.com/images/I/51NQNL4mX-L.jpg | https://m.media-amazon.com/images/I/41801z7cpbL.jpg | https://m.media-amazon.com/images/I/31HLfRvt8qS.jpg | https://m.media-amazon.com/images/I/41JtDM+eHcL.jpg | https://m.media-amazon.com/images/I/31HeknA67DS.jpg | https://m.media-amazon.com/images/I/31GtX7xgldS.jpg",
       "productUrl": "https://www.amazon.in/TrustBasket-Heavy-Duty-Purpose-Garden/dp/B01N21QY3D/ref=sr_1_175"
+    },
+    {
+      "sku": "JKE-IIYEMMKZKRLU4QSW",
+      "slug": "trustbasket-20000mah-solar-power-bank-4-solar-panels-2",
+      "name": "TrustBasket 20000mAh Solar Power Bank, 4 Solar Panels, 2...",
+      "brand": "Trustbasket",
+      "category": "General Hardware",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/71TGcBhHjsL.jpg | https://m.media-amazon.com/images/I/41d-gt6lEPL.jpg | https://m.media-amazon.com/images/I/41UzyvzjEyL.jpg | https://m.media-amazon.com/images/I/51Tqpa4h35L.jpg | https://m.media-amazon.com/images/I/51LKUZo1ZvL.jpg | https://m.media-amazon.com/images/I/41NXxLP3ceL.jpg | https://m.media-amazon.com/images/I/41Ki7hoaY3L.jpg",
+      "productUrl": "https://www.amazon.in/TrustBasket-20000mAh-Charging-Flashlight-Portable/dp/B0F1YTWNBV/ref=sr_1_81"
     }
   ]
 }

@@ -1,0 +1,36 @@
+{
+  "name": "Shine Shark",
+  "slug": "shine-shark",
+  "products": [
+    {
+      "sku": "JKE-IIYEOU2CJJMTGRRX",
+      "slug": "car-wash-kit-6-in-1-snow-foam-mastersprayer-2l-snow",
+      "name": "Car Wash Kit 6 in 1 - Snow Foam Master/Sprayer 2L, Snow...",
+      "brand": "Shine Shark",
+      "category": "Hand Tools",
+      "price": 1599,
+      "image": "https://m.media-amazon.com/images/I/71Sywp7URCL.jpg | https://m.media-amazon.com/images/I/41FM1+LgOxL.jpg | https://m.media-amazon.com/images/I/81g06AKpX1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41j7nWc3AtL.jpg | https://m.media-amazon.com/images/I/51G1dt8x9IL.jpg | https://m.media-amazon.com/images/I/41a8xzJC2xL.jpg | https://m.media-amazon.com/images/I/51IquqkAEwL.jpg | https://m.media-amazon.com/images/I/41+BzO8O0GL.jpg",
+      "productUrl": "https://www.amazon.in/Shine-Shark-Car-Wash-Kit/dp/B0GSBJY3F7/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYEOUSHJZFDKURY",
+      "slug": "microfiber-car-wash-mitt-2400gsm-colour-may-varyx1-snow",
+      "name": "Microfiber Car Wash Mitt 2400GSM (Colour May Vary)x1 & Snow...",
+      "brand": "Shine Shark",
+      "category": "Power Tools",
+      "price": 429,
+      "image": "https://m.media-amazon.com/images/I/61WG34t12nL.jpg | https://m.media-amazon.com/images/I/3147+RPs+-L.jpg | https://m.media-amazon.com/images/I/81VtEeIN+FL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/510jn5F+H6L.jpg | https://m.media-amazon.com/images/I/51nDHTPCweL.jpg | https://m.media-amazon.com/images/I/41T2fl2v4yL.jpg | https://m.media-amazon.com/images/I/41i1NiwemGL.jpg | https://m.media-amazon.com/images/I/51stDNOkkyL.jpg",
+      "productUrl": "https://www.amazon.in/Shine-Shark-Microfiber-2400GSM-Shampoo/dp/B0GRGNJ5R8/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-IIYEOUSXJQZU4WCM",
+      "slug": "2400-gsm-double-sided-microfiber-chenille-mitt-gloves-",
+      "name": "2400 GSM Double Sided Microfiber Chenille Mitt Gloves -...",
+      "brand": "Shine Shark",
+      "category": "Measuring & Layout",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/61PZ5iqzilL.jpg | https://m.media-amazon.com/images/I/41bx1JGDWUL.jpg | https://m.media-amazon.com/images/I/41+4rw2BpOL.jpg | https://m.media-amazon.com/images/I/516Lpl5MlbL.jpg | https://m.media-amazon.com/images/I/410uyexW0oL.jpg",
+      "productUrl": "https://www.amazon.in/Shine-Shark-Double-Microfiber-Chenille/dp/B0GRWL3NXL/ref=sr_1_107"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Liveasily",
+  "slug": "liveasily",
+  "products": [
+    {
+      "sku": "JKE-IIYDSTSWJNIUWUSS",
+      "slug": "4-pack-led-solar-torch-light-with-flickering-flame-outdoor",
+      "name": "4 Pack Led Solar Torch Light with Flickering Flame, Outdoor...",
+      "brand": "Liveasily",
+      "category": "General Hardware",
+      "price": 1849,
+      "image": "https://m.media-amazon.com/images/I/71bmhBqEF4L.jpg | https://m.media-amazon.com/images/I/51rE7iqdepL.jpg | https://m.media-amazon.com/images/I/611bIBdKvnL.jpg | https://m.media-amazon.com/images/I/514dZVSTT+L.jpg | https://m.media-amazon.com/images/I/61lat-4HrCL.jpg | https://m.media-amazon.com/images/I/51+VGBq+NuL.jpg | https://m.media-amazon.com/images/I/41eCSqva5IL.jpg",
+      "productUrl": "https://www.amazon.in/Liveasily-Flickering-Outdoor-Waterproof-Decorations/dp/B09NVKQKRR/ref=sr_1_151"
+    },
+    {
+      "sku": "JKE-IIYDSTSWJM3TOV2L",
+      "slug": "8-pack-solar-outdoor-lights-with-flickering-flame-tiki",
+      "name": "8 Pack Solar Outdoor Lights With Flickering Flame - Tiki...",
+      "brand": "Liveasily",
+      "category": "Abrasives & Finishing",
+      "price": 3499,
+      "image": "https://m.media-amazon.com/images/I/81IhcIQ39xL.jpg | https://m.media-amazon.com/images/I/51V9o-2c71L.jpg | https://m.media-amazon.com/images/I/6167LIqmUYL.jpg | https://m.media-amazon.com/images/I/41eCSqva5IL.jpg | https://m.media-amazon.com/images/I/51s5eaFw4WL.jpg | https://m.media-amazon.com/images/I/51+VGBq+NuL.jpg | https://m.media-amazon.com/images/I/51JvdLRQKcL.jpg | https://m.media-amazon.com/images/I/51jg-EEcfUL.jpg",
+      "productUrl": "https://www.amazon.in/Liveasily-Flickering-Outdoor-Waterproof-Landscape/dp/B09NVK77WK/ref=sr_1_149"
+    }
+  ]
+}

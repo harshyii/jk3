@@ -1,0 +1,56 @@
+{
+  "name": "Livguard",
+  "slug": "livguard",
+  "products": [
+    {
+      "sku": "JKE-IIYEMOCIKNLDGN2G",
+      "slug": "livguard-value-plus-bold-series-150ah-short-tubular-jumbo",
+      "name": "Livguard Value Plus Bold Series 150Ah Short Tubular Jumbo...",
+      "brand": "Livguard",
+      "category": "General Hardware",
+      "price": 10840,
+      "image": "https://m.media-amazon.com/images/I/61-uoiaLh8L.jpg | https://m.media-amazon.com/images/I/41HRZp6-cVL.jpg | https://m.media-amazon.com/images/I/41jAOE73XXL.jpg | https://m.media-amazon.com/images/I/41k5rn82EjL.jpg | https://m.media-amazon.com/images/I/514cAPOIBlL.jpg | https://m.media-amazon.com/images/I/41VLdeCT+vL.jpg | https://m.media-amazon.com/images/I/41aj0-irYXL.jpg",
+      "productUrl": "https://www.amazon.in/Livguard-Inverter-Warranty-Reliable-Compatible/dp/B0F8HSV37F/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYEQMKKJJIUIOCI",
+      "slug": "livguard-lgsun3k1mg3gi-3kw-on-grid-solar-inverter-smart",
+      "name": "Livguard LGSUN3K1MG3GI 3KW On-Grid Solar Inverter | Smart...",
+      "brand": "Livguard",
+      "category": "General Hardware",
+      "price": 18499,
+      "image": "https://m.media-amazon.com/images/I/41YjqPiVMwL.jpg | https://m.media-amazon.com/images/I/31H2fc60YOL.jpg",
+      "productUrl": "https://www.amazon.in/Livguard-LGSUN3K1MG3GI-Inverter-Remote-Monitoring/dp/B0H1JJQD8H/ref=sr_1_139"
+    },
+    {
+      "sku": "JKE-IIYEMN2SKI3VUN2M",
+      "slug": "livguard-sineverter-pro-700va12v-pure-sine-wave-inverter",
+      "name": "Livguard Sineverter Pro 700VA/12V Pure Sine Wave Inverter...",
+      "brand": "Livguard",
+      "category": "General Hardware",
+      "price": 4149,
+      "image": "https://m.media-amazon.com/images/I/517-DYLOEjL.jpg | https://m.media-amazon.com/images/I/31WCHBtJF2L.jpg | https://m.media-amazon.com/images/I/41fqNFOXcxL.jpg | https://m.media-amazon.com/images/I/419vC5353iL.jpg | https://m.media-amazon.com/images/I/41M3UGNcD9L.jpg | https://m.media-amazon.com/images/I/41lILoK6AYL.jpg",
+      "productUrl": "https://www.amazon.in/Livguard-Sineverter-Inverter-Artificial-Intelligence/dp/B0F7RR7Z7L/ref=sr_1_230"
+    },
+    {
+      "sku": "JKE-IIYEMOKGKNDFQVC2",
+      "slug": "livguard-sineverter-pro-700va12v-pure-sine-wave-inverter",
+      "name": "Livguard Sineverter Pro 700VA/12V Pure Sine Wave Inverter...",
+      "brand": "Livguard",
+      "category": "Measuring & Layout",
+      "price": 18499,
+      "image": "https://m.media-amazon.com/images/I/610eN2CPhtL.jpg | https://m.media-amazon.com/images/I/41pU8uawrDL.jpg | https://m.media-amazon.com/images/I/41jySar6KqL.jpg | https://m.media-amazon.com/images/I/41Y5LzC6DlL.jpg | https://m.media-amazon.com/images/I/416Pj4avImL.jpg | https://m.media-amazon.com/images/I/51wDh5PbhgL.jpg",
+      "productUrl": "https://www.amazon.in/Livguard-Sineverter-Inverter-Tubular-Reliable/dp/B0F9FSFXTZ/ref=sr_1_255"
+    },
+    {
+      "sku": "JKE-IIYEMOCILJFVINZW",
+      "slug": "livguard-value-plus-bold-series-200ah-tall-tubular-inverter",
+      "name": "Livguard Value Plus Bold Series 200Ah Tall Tubular Inverter...",
+      "brand": "Livguard",
+      "category": "General Hardware",
+      "price": 14199,
+      "image": "https://m.media-amazon.com/images/I/618-AkWZCOL.jpg | https://m.media-amazon.com/images/I/41H-vS5ARlL.jpg | https://m.media-amazon.com/images/I/51XU-I+gLyL.jpg | https://m.media-amazon.com/images/I/51bKvXF-KpL.jpg | https://m.media-amazon.com/images/I/41wBQ0fKO1L.jpg | https://m.media-amazon.com/images/I/41a9RUtKenL.jpg | https://m.media-amazon.com/images/I/41SiKRyIjuL.jpg",
+      "productUrl": "https://www.amazon.in/Livguard-Inverter-Warranty-Reliable-Compatible/dp/B0F8HZKT76/ref=sr_1_82"
+    }
+  ]
+}

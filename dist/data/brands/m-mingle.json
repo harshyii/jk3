@@ -1,0 +1,26 @@
+{
+  "name": "M Mingle",
+  "slug": "m-mingle",
+  "products": [
+    {
+      "sku": "JKE-IIYDOSZSGJCEOUSZ",
+      "slug": "mingle-pressure-washer-undercarriage-cleaner-under-car",
+      "name": "Mingle Pressure Washer Undercarriage Cleaner, Under Car...",
+      "brand": "M Mingle",
+      "category": "Hand Tools",
+      "price": 5942,
+      "image": "https://m.media-amazon.com/images/I/71RIVYJKNQL.jpg | https://m.media-amazon.com/images/I/31paLv7vOdL.jpg | https://m.media-amazon.com/images/I/41wWvG+J7uL.jpg | https://m.media-amazon.com/images/I/41IIgzrBqiL.jpg | https://m.media-amazon.com/images/I/41wyxtxM3mL.jpg | https://m.media-amazon.com/images/I/51wjFp5ahFL.jpg | https://m.media-amazon.com/images/I/517+-1XJkxL.jpg",
+      "productUrl": "https://www.amazon.in/Mingle-Pressure-Washer-Undercarriage-Cleaner/dp/B07K22DGRY/ref=sr_1_261"
+    },
+    {
+      "sku": "JKE-IIYDSUJWGQZEITST",
+      "slug": "m-mingle-high-pressure-washer-gun-snow-foam-lance-4000",
+      "name": "M MINGLE High Pressure Washer Gun Snow Foam Lance, 4000...",
+      "brand": "M Mingle",
+      "category": "Power Tools",
+      "price": 10580,
+      "image": "https://m.media-amazon.com/images/I/71xst-4JrSL.jpg | https://m.media-amazon.com/images/I/41CsySRM0DL.jpg | https://m.media-amazon.com/images/I/41ApKwn5qCL.jpg | https://m.media-amazon.com/images/I/41jpWzJPGyL.jpg | https://m.media-amazon.com/images/I/41G70KlFKXL.jpg | https://m.media-amazon.com/images/I/51oQIh7-NoL.jpg | https://m.media-amazon.com/images/I/510ku8k6oQL.jpg | https://m.media-amazon.com/images/I/51Day-oBnmL.jpg",
+      "productUrl": "https://www.amazon.in/MINGLE-Pressure-Washer-Blaster-Connector/dp/B09Q642DNS/ref=sr_1_306"
+    }
+  ]
+}

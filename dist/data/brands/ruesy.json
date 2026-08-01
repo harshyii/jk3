@@ -4,13 +4,23 @@
   "products": [
     {
       "sku": "JKE-IIYEOSCSGM2EGOJR",
-      "slug": "dual-action-renewal-cream-professional-skin-repair-cream-black-and-white-rice-soothing-repair-cream-anti-aging-hydrating-natural-ingredients-for-all-skin-types-1",
-      "name": "Dual-Action Renewal Cream, Professional Skin Repair Cream, Black And White Rice Soothing Repair Cream Anti-Aging, Hydrating, Natural Ingredients for All Skin Types (1)",
+      "slug": "dual-action-renewal-cream-professional-skin-repair-cream",
+      "name": "Dual-Action Renewal Cream, Professional Skin Repair Cream,...",
       "brand": "Ruesy",
       "category": "General Hardware",
-      "price": "₹239.00",
+      "price": 239,
       "image": "https://m.media-amazon.com/images/I/51VZNqAEPqL.jpg | https://m.media-amazon.com/images/I/51VZNqAEPqL.jpg | https://m.media-amazon.com/images/I/51yVONsesyL.jpg | https://m.media-amazon.com/images/I/61t-Oyt5+AL.jpg | https://m.media-amazon.com/images/I/51ovYKBReDL.jpg",
       "productUrl": "https://www.amazon.in/Dual-Action-Professional-Anti-Aging-Hydrating-Ingredients/dp/B0GHR34C91/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYEOSCRKZIDKNZV",
+      "slug": "dual-action-renewal-cream-professional-skin-repair-cream",
+      "name": "Dual-Action Renewal Cream, Professional Skin Repair Cream,...",
+      "brand": "Ruesy",
+      "category": "General Hardware",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/51dBVUgKeJL.jpg | https://m.media-amazon.com/images/I/51dBVUgKeJL.jpg | https://m.media-amazon.com/images/I/51yVONsesyL.jpg | https://m.media-amazon.com/images/I/51ovYKBReDL.jpg | https://m.media-amazon.com/images/I/61t-Oyt5+AL.jpg",
+      "productUrl": "https://www.amazon.in/Dual-Action-Professional-Anti-Aging-Hydrating-Ingredients/dp/B0GHQVP575/ref=sr_1_26"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Puma",
+  "slug": "puma",
+  "products": [
+    {
+      "sku": "JKE-IIYEOMZXJNMTKRCO",
+      "slug": "puma-unisex-bb-caps",
+      "name": "Puma Unisex BB Caps",
+      "brand": "Puma",
+      "category": "Power Tools",
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/612kPrS8MYL.jpg | https://m.media-amazon.com/images/I/31+HA6fWP+L.jpg | https://m.media-amazon.com/images/I/31ohEwP-evL.jpg | https://m.media-amazon.com/images/I/31njyhNOEOL.jpg | https://m.media-amazon.com/images/I/41BmFTTkXML.jpg",
+      "productUrl": "https://www.amazon.in/PUMA-Formula-Logo-Print-Baseball/dp/B0G37KY5DN/ref=sr_1_270"
+    }
+  ]
+}

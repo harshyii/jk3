@@ -1,0 +1,16 @@
+{
+  "name": "Sinal",
+  "slug": "sinal",
+  "products": [
+    {
+      "sku": "JKE-IIYDSVSTK5LFCOBY",
+      "slug": "sinal-dongcheng-gaocheng-power-tools-orbital-sander-gc-9035s",
+      "name": "SINAL dongcheng GAOCHENG Power Tools Orbital Sander GC-9035S",
+      "brand": "Sinal",
+      "category": "Power Tools",
+      "price": 10000,
+      "image": "https://m.media-amazon.com/images/I/61a8LZudf9L.jpg | https://m.media-amazon.com/images/I/41ymDGSQViL.jpg | https://m.media-amazon.com/images/I/31FLtb9sEJL.jpg | https://m.media-amazon.com/images/I/31OYY7++AZL.jpg | https://m.media-amazon.com/images/I/418gQZ281-L.jpg | https://m.media-amazon.com/images/I/410x2Wy0bmL.jpg",
+      "productUrl": "https://www.amazon.in/SINAL-dongcheng-GAOCHENG-Orbital-GC-9035S/dp/B09VSWVQ88/ref=sr_1_173"
+    }
+  ]
+}

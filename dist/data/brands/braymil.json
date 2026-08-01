@@ -1,0 +1,26 @@
+{
+  "name": "Braymil",
+  "slug": "braymil",
+  "products": [
+    {
+      "sku": "JKE-IIYEQM2RGM4VQNSL",
+      "slug": "braymil-1-infant-formula-stage-1-for-0-6-months-complete",
+      "name": "Braymil 1 Infant Formula- Stage 1 for 0-6 Months – Complete...",
+      "brand": "Braymil",
+      "category": "Fasteners & Hardware",
+      "price": 473,
+      "image": "https://m.media-amazon.com/images/I/81TeP+6e94L.jpg | https://m.media-amazon.com/images/I/419lYr7-rOL.jpg | https://m.media-amazon.com/images/I/41uMNMmw22L.jpg | https://m.media-amazon.com/images/I/41qADot8SdL.jpg | https://m.media-amazon.com/images/I/51UgAyWma3L.jpg",
+      "productUrl": "https://www.amazon.in/Braymil-Infant-Formula-Stage-Months/dp/B0H3Q39X6K/ref=sr_1_95"
+    },
+    {
+      "sku": "JKE-IIYEOWKLGRIFQSSH",
+      "slug": "braymil-premium-1-infant-formula-stage-1-with-dha-ara-fos",
+      "name": "Braymil Premium 1 Infant Formula Stage 1 with DHA, ARA, FOS...",
+      "brand": "Braymil",
+      "category": "Fasteners & Hardware",
+      "price": 635,
+      "image": "https://m.media-amazon.com/images/I/81AqJLDki5L.jpg | https://m.media-amazon.com/images/I/41IiHwsR81L.jpg",
+      "productUrl": "https://www.amazon.in/Braymil-Premium-Infant-Formula-Stage/dp/B0GYK4PXJG/ref=sr_1_98"
+    }
+  ]
+}

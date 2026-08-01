@@ -1,0 +1,26 @@
+{
+  "name": "Glowbase",
+  "slug": "glowbase",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMZTKNDU4R2N",
+      "slug": "glowbase-solar-led-flood-light-50w-rechargeable-ip65",
+      "name": "GlowBase Solar LED Flood Light, 50W Rechargeable, IP65...",
+      "brand": "Glowbase",
+      "category": "Measuring & Layout",
+      "price": 529,
+      "image": "https://m.media-amazon.com/images/I/51Eai+k3EoL.jpg | https://m.media-amazon.com/images/I/51Eai+k3EoL.jpg | https://m.media-amazon.com/images/I/51-mc8pb9TL.jpg | https://m.media-amazon.com/images/I/41W4e2oPKWL.jpg | https://m.media-amazon.com/images/I/516AaY7S2iL.jpg | https://m.media-amazon.com/images/I/61S4ohTSwuL.jpg | https://m.media-amazon.com/images/I/51Bs-rTtCrL.jpg | https://m.media-amazon.com/images/I/41ysxXbFhEL.jpg",
+      "productUrl": "https://www.amazon.in/GlowBase-Rechargeable-Waterproof-Outdoor-Garage/dp/B0H33SGNGM/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYEMU2MJI4EQU2R",
+      "slug": "glowbase-solar-usb-rechargeable-camping-light-waterproof",
+      "name": "Glowbase Solar & USB Rechargeable Camping Light Waterproof...",
+      "brand": "Glowbase",
+      "category": "Measuring & Layout",
+      "price": 359,
+      "image": "https://m.media-amazon.com/images/I/51VpvFKMd9L.jpg | https://m.media-amazon.com/images/I/31CxyrhHY0L.jpg | https://m.media-amazon.com/images/I/51emhNFUzNL.jpg | https://m.media-amazon.com/images/I/41Ar8Che3GL.jpg | https://m.media-amazon.com/images/I/41QOPUzj5aL.jpg | https://m.media-amazon.com/images/I/51JFv+Tpj3L.jpg | https://m.media-amazon.com/images/I/61GUjZNdx-L.jpg | https://m.media-amazon.com/images/I/51Ab1rxdy6L.jpg",
+      "productUrl": "https://www.amazon.in/Glowbase-Rechargeable-Waterproof-Charging-Portable/dp/B0FSLJ8HSQ/ref=sr_1_10"
+    }
+  ]
+}

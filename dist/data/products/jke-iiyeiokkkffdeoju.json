@@ -1,10 +1,10 @@
 {
   "asin": "JKE-IIYEIOKKKFFDEOJU",
-  "title": "Kenbrook Solar ACDB Single Phase Inbuilt AC MCB 32A, Sibass AC SPD 320V 1kW - 7kW (1Ph HVL)",
+  "title": "Kenbrook Solar ACDB Single Phase Inbuilt AC MCB 32A, Sibass...",
   "brand": "Kenbrook",
-  "current_price": "₹1,639.00",
-  "mrp": "₹4,999",
-  "product_url": "https://www.amazon.in/Kenbrook-Solar-Single-Inbuilt-Sibass/dp/B0D9JQJ294/ref=sr_1_29",
+  "current_price": 1639,
+  "mrp": 4999,
+  "product_url": "https://www.amazon.in/Kenbrook-Solar-Single-Inbuilt-Sibass/dp/B0D9JQJ294/ref=sr_1_275",
   "description": "Kenbrook Solar ACDB Single Phase Inbuilt AC MCB 32A, Sibass AC SPD 320V 1kW - 7kW (1Ph HVL) - Distributed/Packaged by Kenbrook. Product Details: 【AC MCB】Fast tripping Top Brand AC MCB for complete protection and fault prevention. This MCB will de-energize the entire AC circuitry in case of overload, short circuit and extra amperes. 【AC SPD】Equipped with Top Brand AC SPD. This Surge Protection Device (SPD) will safeguard your solar inverter/appliances and circuits before any mishap by diverting excess voltages to the ground via earthing. 【Durable IP65 Rated Box】Best-in-class IP65 Rated Top Brand dustproof and waterproof solar combiner box. Superior quality materials and round edges design make it more durable. This anti-corrosion box is heat resistant and suitable for both indoor and outdoor installations. 【Suitable for Solar System and Home Protection 】",
   "image_urls": [
     "https://m.media-amazon.com/images/I/81313j29KQL.jpg | https://m.media-amazon.com/images/I/41MsC67DGTL.jpg | https://m.media-amazon.com/images/I/51ODZi6a6cL.jpg | https://m.media-amazon.com/images/I/5133JBlA2rL.jpg | https://m.media-amazon.com/images/I/51KwGiDqYLL.jpg | https://m.media-amazon.com/images/I/41lMXzd2zXL.jpg",
@@ -24,11 +24,11 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41lMXzd2zXL.jpg",
   "specifications": {
     "Manufacturer": "‎Kenbrook Solar Pvt Ltd",
-    "Included Components": "‎1 Box ACDB",
-    "Item Weight": "‎830 g",
     "Item Type Name": "General",
+    "Included Components": "‎1 Box ACDB",
     "Brand": "‎Kenbrook Solar",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎830 g",
     "Product Dimensions": "‎15 x 19 x 10 cm; 830 g",
     "Item Height": "‎10 Centimeters",
     "Item Width": "‎19 Centimeters",
@@ -36,8 +36,8 @@
     "AC Adapter Current": "‎32 Amps"
   },
   "SKU": "JKE-IIYEIOKKKFFDEOJU",
-  "Name": "Kenbrook Solar ACDB Single Phase Inbuilt AC MCB 32A, Sibass AC SPD 320V 1kW - 7kW (1Ph HVL)",
-  "Slug": "kenbrook-solar-acdb-single-phase-inbuilt-ac-mcb-32a-sibass-ac-spd-320v-1kw-7kw-1ph-hvl",
+  "Name": "Kenbrook Solar ACDB Single Phase Inbuilt AC MCB 32A, Sibass...",
+  "Slug": "kenbrook-solar-acdb-single-phase-inbuilt-ac-mcb-32a-sibass",
   "Category": "Storage & Organization",
   "Subcategory1": "General Storage",
   "Images": [
@@ -50,8 +50,8 @@
     "https://m.media-amazon.com/images/I/41lMXzd2zXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81313j29KQL.jpg | https://m.media-amazon.com/images/I/41MsC67DGTL.jpg | https://m.media-amazon.com/images/I/51ODZi6a6cL.jpg | https://m.media-amazon.com/images/I/5133JBlA2rL.jpg | https://m.media-amazon.com/images/I/51KwGiDqYLL.jpg | https://m.media-amazon.com/images/I/41lMXzd2zXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,639.00"
+  "Discount": 67.21,
+  "SalePrice": 1639
 }

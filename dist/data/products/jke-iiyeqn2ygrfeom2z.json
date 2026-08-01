@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQN2YGRFEOM2Z",
-  "title": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with Screwdrivers, Combination Plier, Adjustable Wrench, Hammer, Measuring Tape, Cutter & Insulation Tape | Home Repair, DIY & Professional Use",
+  "title": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with...",
   "brand": "Skadioo",
-  "current_price": "₹749.00",
-  "mrp": "₹1,999",
+  "current_price": 749,
+  "mrp": 1999,
   "product_url": "https://www.amazon.in/SKADIOO-10-Screwdrivers-Combination-Professional/dp/B0H7X4JG3Y/ref=sr_1_185",
   "description": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with Screwdrivers, Combination Plier, Adjustable Wrench, Hammer, Measuring Tape, Cutter & Insulation Tape | Home Repair, DIY & Professional Use - Distributed/Packaged by Skadioo. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41Me3-no9rL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/51RlCQn0E3L.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Perfect Sales India",
     "Item Type Name": "General",
     "ASIN": "‎B0H7X4JG3Y",
     "Product Dimensions": "‎20 x 12 x 12 cm; 1.5 kg",
-    "Item model number": "‎skadioo 10 pc tool kit",
-    "Country of Origin": "‎India"
+    "Item model number": "‎skadioo 10 pc tool kit"
   },
   "SKU": "JKE-IIYEQN2YGRFEOM2Z",
-  "Name": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with Screwdrivers, Combination Plier, Adjustable Wrench, Hammer, Measuring Tape, Cutter & Insulation Tape | Home Repair, DIY & Professional Use",
-  "Slug": "skadioo-10-piece-tool-kit-set-for-home-hand-tool-kit-with-screwdrivers-combination-plier-adjustable-wrench-hammer-measuring-tape-cutter-insulation-tape-home-repair-diy-professional-use",
+  "Name": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with...",
+  "Slug": "skadioo-10-piece-tool-kit-set-for-home-hand-tool-kit-with",
   "Category": "Hand Tools",
   "Subcategory1": "Screwdrivers",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51RlCQn0E3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61reXs+THYL.jpg | https://m.media-amazon.com/images/I/41tSTMADZOL.jpg | https://m.media-amazon.com/images/I/51FdC8kPAcL.jpg | https://m.media-amazon.com/images/I/51mmGKMPg+L.jpg | https://m.media-amazon.com/images/I/41SNUJAI2jL.jpg | https://m.media-amazon.com/images/I/41Me3-no9rL.jpg | https://m.media-amazon.com/images/I/51RlCQn0E3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹749.00",
+  "Discount": 62.53,
+  "SalePrice": 749,
   "Country": "‎India"
 }

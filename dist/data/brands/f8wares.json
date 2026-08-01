@@ -1,0 +1,26 @@
+{
+  "name": "F8Wares",
+  "slug": "f8wares",
+  "products": [
+    {
+      "sku": "JKE-IIYEINJUGZLVUWK2",
+      "slug": "f8wares-2pk-microfiber-cloth-for-car-edgeless-550-gsm",
+      "name": "F8WARES 2PK Microfiber Cloth for Car -Edgeless 550 GSM...",
+      "brand": "F8Wares",
+      "category": "Power Tools",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/81xGIWgH3kL.jpg | https://m.media-amazon.com/images/I/516jjAj4LzL.jpg | https://m.media-amazon.com/images/I/61T7UBXZIDL.jpg | https://m.media-amazon.com/images/I/51J3yzcjFvL.jpg | https://m.media-amazon.com/images/I/51Kg-UysJJL.jpg | https://m.media-amazon.com/images/I/51OtLip2IkL.jpg | https://m.media-amazon.com/images/I/51a254h4p8L.jpg | https://m.media-amazon.com/images/I/51Uz+SNxfDL.jpg",
+      "productUrl": "https://www.amazon.in/F8WARES-Microfiber-Edgeless-Absorbent-Cleaning/dp/B0D546WZYZ/ref=sr_1_134"
+    },
+    {
+      "sku": "JKE-IIYEGVZRHE3VGM2G",
+      "slug": "f8wares-4pk-microfiber-towel-350-gsm-microfiber-cloth-for",
+      "name": "F8WARES 4PK Microfiber Towel -350 GSM Microfiber Cloth for...",
+      "brand": "F8Wares",
+      "category": "Measuring & Layout",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/816cC1mKk+L.jpg | https://m.media-amazon.com/images/I/515eFsCfGXL.jpg | https://m.media-amazon.com/images/I/51fQgFW3M1L.jpg | https://m.media-amazon.com/images/I/51W665SRI7L.jpg | https://m.media-amazon.com/images/I/51ymwi--8JL.jpg | https://m.media-amazon.com/images/I/51g2Pklg0OL.jpg | https://m.media-amazon.com/images/I/61Sc-FR25dL.jpg | https://m.media-amazon.com/images/I/51bz5SCjhGL.jpg",
+      "productUrl": "https://www.amazon.in/F8WARES-Microfiber-Towel-Kitchen-Interior/dp/B0CW197S3F/ref=sr_1_135"
+    }
+  ]
+}

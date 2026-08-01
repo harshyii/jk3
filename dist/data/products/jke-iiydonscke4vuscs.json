@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDONSCKE4VUSCS",
   "title": "Xtra Power Flap Disc 100 x 16 mm (Pack of 5)",
   "brand": "Xtra Power",
-  "current_price": "₹298.00",
-  "mrp": "₹999",
+  "current_price": 298,
+  "mrp": 999,
   "product_url": "https://www.amazon.in/Xtra-Power-Flap-Disc-Pack/dp/B076BQ9ZHR/ref=sr_1_152",
   "description": "Xtra Power Flap Disc 100 x 16 mm (Pack of 5) - Distributed/Packaged by Xtra Power. Product Details: Flap Discs are created by overlapping coated abrasive flaps and adhering them firmly to a back-up plate. This design provides a cooler running, longer lasting disc. These discs are specifically recommended for high stock removal on stainless steel, carbon steel, aluminum, and most alloys. They offer many times the life of conventional resin fiber discs.",
   "image_urls": [
@@ -19,16 +19,16 @@
   "image_url_4": "https://m.media-amazon.com/images/I/619YdqYwZqL.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/51DNaYUwkYL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎XTRA POWER",
-    "Item Weight": "‎250 g",
     "Item Type Name": "General",
-    "Brand": "‎Xtra Power",
     "Colour": "‎BROWN",
+    "Brand": "‎Xtra Power",
     "Number of Memory Sticks": "‎5",
+    "Item Weight": "‎250 g",
     "Product Dimensions": "‎10 x 10 x 0.9 cm; 250 g",
     "Item Height": "‎9 Millimeters",
     "Item Width": "‎10 Centimeters",
-    "Country of Origin": "‎India",
     "Item part number": "‎102flapdisc12",
     "Are batteries included?": "‎No",
     "Size Along Diagonal/Diameter": "‎10 Centimeters"
@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51DNaYUwkYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91jU7REmgFL.jpg | https://m.media-amazon.com/images/I/51FrN78w4GL.jpg | https://m.media-amazon.com/images/I/619YdqYwZqL.jpg | https://m.media-amazon.com/images/I/51DNaYUwkYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹298.00",
+  "Discount": 70.17,
+  "SalePrice": 298,
   "Country": "‎India"
 }

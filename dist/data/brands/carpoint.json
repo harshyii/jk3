@@ -1,0 +1,16 @@
+{
+  "name": "Carpoint",
+  "slug": "carpoint",
+  "products": [
+    {
+      "sku": "JKE-IIYDARC2IZFE4MKZ",
+      "slug": "armor-all-speed-wax-500-ml-42500be",
+      "name": "Armor All Speed Wax (500 ml) (42500BE)",
+      "brand": "Carpoint",
+      "category": "Power Tools",
+      "price": 550,
+      "image": "https://m.media-amazon.com/images/I/61L9mVnrlGL.jpg | https://m.media-amazon.com/images/I/41yO0XWsRcL.jpg | https://m.media-amazon.com/images/I/41z6KlgX0+L.jpg | https://m.media-amazon.com/images/I/41GxKhUavwL.jpg | https://m.media-amazon.com/images/I/41cZuoyAEJL.jpg | https://m.media-amazon.com/images/I/41PcPM2aX2L.jpg",
+      "productUrl": "https://www.amazon.in/ArmorAll-Speed-Wax-500-ml/dp/B00DZFJN1Y/ref=sr_1_94"
+    }
+  ]
+}

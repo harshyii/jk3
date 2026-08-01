@@ -1,0 +1,26 @@
+{
+  "name": "Resqtech",
+  "slug": "resqtech",
+  "products": [
+    {
+      "sku": "JKE-IIYDONKQKNGFUR2Z",
+      "slug": "resqtech-pw-101-advance-1700-watt-135-bar-high-pressure",
+      "name": "ResQTech Pw-101 Advance 1700 Watt 135 Bar  High Pressure...",
+      "brand": "Resqtech",
+      "category": "Power Tools",
+      "price": 8799,
+      "image": "https://m.media-amazon.com/images/I/81UFyH0T-KL.jpg | https://m.media-amazon.com/images/I/41a6kT45czL.jpg | https://m.media-amazon.com/images/I/712bdkIPZbL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51p2xrDKnDL.jpg | https://m.media-amazon.com/images/I/41qSjTwU1xL.jpg | https://m.media-amazon.com/images/I/410wGentFDL.jpg | https://m.media-amazon.com/images/I/517e9zA48qL.jpg | https://m.media-amazon.com/images/I/51oFT1BSRcL.jpg",
+      "productUrl": "https://www.amazon.in/ResQTech-1700-Watt-Pressure-RSQ-PW101-Warranty/dp/B075PSLZGY/ref=sr_1_80"
+    },
+    {
+      "sku": "JKE-IIYDQWCUJQ4FENKX",
+      "slug": "resqtech-pw-107-1900-watt-150-bar-high-pressure-washer-for",
+      "name": "ResQTech Pw-107 1900 Watt 150 Bar High Pressure Washer for...",
+      "brand": "Resqtech",
+      "category": "Fasteners & Hardware",
+      "price": 10799,
+      "image": "https://m.media-amazon.com/images/I/61vYmh2DAYL.jpg | https://m.media-amazon.com/images/I/41aWVHp0MKL.jpg | https://m.media-amazon.com/images/I/81QO6wtUa+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/511AO9w3LjL.jpg | https://m.media-amazon.com/images/I/41EkW+Mg82L.jpg | https://m.media-amazon.com/images/I/51l5iPgbWhL.jpg | https://m.media-amazon.com/images/I/61IwQ4G-mLL.jpg | https://m.media-amazon.com/images/I/51wcfg+NmZL.jpg",
+      "productUrl": "https://www.amazon.in/ResQTech-1700-Pressure-Washer-RSQ-PW105/dp/B08XTL8R5W/ref=sr_1_88"
+    }
+  ]
+}

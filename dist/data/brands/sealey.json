@@ -1,0 +1,36 @@
+{
+  "name": "Sealey",
+  "slug": "sealey",
+  "products": [
+    {
+      "sku": "JKE-IIYDQNSGHFLUQVCM",
+      "slug": "sealey-g1ch-30-x-500mm-chisel-hilti-tp805te905te1000",
+      "name": "Sealey G1CH 30 x 500mm Chisel - Hilti TP805/TE905/TE1000",
+      "brand": "Sealey",
+      "category": "Hand Tools",
+      "price": 26870,
+      "image": "https://m.media-amazon.com/images/I/51AlrxX1wtL.jpg | https://m.media-amazon.com/images/I/31gk4lakDhL.jpg | https://m.media-amazon.com/images/I/21yPEkxa9hL.jpg",
+      "productUrl": "https://www.amazon.in/Sealey-G1CH-30-500mm-Chisel/dp/B086F9WHTL/ref=sr_1_142"
+    },
+    {
+      "sku": "JKE-IIYDQNSGIIYUQVCU",
+      "slug": "worksafe-g1pt-500mm-point-hilti-tp805te905te1000-red",
+      "name": "Worksafe G1PT 500mm Point - Hilti TP805/TE905/TE1000, Red",
+      "brand": "Sealey",
+      "category": "General Hardware",
+      "price": 23526,
+      "image": "https://m.media-amazon.com/images/I/51rCO9ElGnL.jpg | https://m.media-amazon.com/images/I/31vbbltdY9L.jpg | https://m.media-amazon.com/images/I/21fncUV+51L.jpg",
+      "productUrl": "https://www.amazon.in/Worksafe-G1PT-500mm-Point-TE1000/dp/B086FB1HTT/ref=sr_1_87"
+    },
+    {
+      "sku": "JKE-IIYDQNSGIJDEGU2Z",
+      "slug": "sealey-g2wc-80-x-400mm-wide-chisel-hilti",
+      "name": "Sealey G2WC 80 x 400mm Wide Chisel - Hilti...",
+      "brand": "Sealey",
+      "category": "Hand Tools",
+      "price": 24204.38,
+      "image": "https://m.media-amazon.com/images/I/41X+ZW8vvfL.jpg | https://m.media-amazon.com/images/I/21pToCJ7EpL.jpg | https://m.media-amazon.com/images/I/21MFF5gHJrL.jpg",
+      "productUrl": "https://www.amazon.in/Sealey-G2WC-400mm-Wide-Chisel/dp/B086FBFCSY/ref=sr_1_135"
+    }
+  ]
+}

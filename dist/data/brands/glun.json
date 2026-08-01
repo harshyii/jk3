@@ -4,13 +4,23 @@
   "products": [
     {
       "sku": "JKE-IIYEIR2MKI4E2Q2Y",
-      "slug": "glun-hammer-ball-peen-fiberglass-handle-hammer-for-ball-peen-blow-striking-ball-pein-hammer-handle-tool-with-forged-steel-construction-shock-reduction-grip-for-metal-working",
-      "name": "GLUN® Hammer Ball Peen, Fiberglass Handle hammer for Ball Peen, Blow Striking Ball Pein Hammer Handle Tool with Forged Steel Construction & Shock Reduction Grip for Metal Working",
+      "slug": "glun-hammer-ball-peen-fiberglass-handle-hammer-for-ball",
+      "name": "GLUN® Hammer Ball Peen, Fiberglass Handle hammer for Ball...",
       "brand": "Glun",
       "category": "Hand Tools",
-      "price": "₹258.00",
+      "price": 258,
       "image": "https://m.media-amazon.com/images/I/61D3-rk8dHL.jpg | https://m.media-amazon.com/images/I/31lqubjX0zL.jpg | https://m.media-amazon.com/images/I/41gS3XeLOAL.jpg | https://m.media-amazon.com/images/I/41u2Dr9mjAL.jpg | https://m.media-amazon.com/images/I/41F-w3rpnBL.jpg | https://m.media-amazon.com/images/I/41CoKDX2UeL.jpg | https://m.media-amazon.com/images/I/41rA-O0CIOL.jpg",
       "productUrl": "https://www.amazon.in/Fiberglass-Striking-Construction-Reduction-Working/dp/B0DGLR8MCX/ref=sr_1_237"
+    },
+    {
+      "sku": "JKE-IIYEOTSTINMUITK2",
+      "slug": "glun-removable-id-card-holder-for-car-use-to-display",
+      "name": "GLUN® Removable ID Card Holder for Car, Use to Display...",
+      "brand": "Glun",
+      "category": "Power Tools",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/61QuQSmFIhL.jpg | https://m.media-amazon.com/images/I/41tTRpxvESL.jpg | https://m.media-amazon.com/images/I/41tjC-kLwnL.jpg | https://m.media-amazon.com/images/I/41E7-ngg9QL.jpg | https://m.media-amazon.com/images/I/418IJVYdnYL.jpg | https://m.media-amazon.com/images/I/41eq+iUSyRL.jpg",
+      "productUrl": "https://www.amazon.in/Removable-Display-Visiting-Cover-Wheelers/dp/B0GNSCYDMZ/ref=sr_1_235"
     }
   ]
 }

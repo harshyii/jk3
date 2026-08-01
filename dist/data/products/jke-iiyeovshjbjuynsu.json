@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOVSHJBJUYNSU",
-  "title": "Punch Down Impact Tool,Network Wire Stripper,Multifunctional Stripping Cutter Hand Tool for All Types of 110 Modules (Orange)",
+  "title": "Punch Down Impact Tool,Network Wire...",
   "brand": "Meshiv",
-  "current_price": "₹547.00",
-  "mrp": "₹1,299",
+  "current_price": 547,
+  "mrp": 1299,
   "product_url": "https://www.amazon.in/Network-Stripper-Multifunctional-Stripping-Modules/dp/B0GVGHSL6T/ref=sr_1_211",
   "description": "Punch Down Impact Tool,Network Wire Stripper,Multifunctional Stripping Cutter Hand Tool for All Types of 110 Modules (Orange) - Distributed/Packaged by Meshiv. Product Details: nan",
   "image_urls": [
@@ -26,16 +26,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/410wWBowdVL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/519myWlte4L.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎MESHIV INDIA",
     "Item Type Name": "General",
     "ASIN": "‎B0GVGHSL6T",
     "Product Dimensions": "‎11.99 x 10 x 4 cm; 110 g",
-    "Item model number": "‎110T-Y",
-    "Country of Origin": "‎China"
+    "Item model number": "‎110T-Y"
   },
   "SKU": "JKE-IIYEOVSHJBJUYNSU",
-  "Name": "Punch Down Impact Tool,Network Wire Stripper,Multifunctional Stripping Cutter Hand Tool for All Types of 110 Modules (Orange)",
-  "Slug": "punch-down-impact-toolnetwork-wire-strippermultifunctional-stripping-cutter-hand-tool-for-all-types-of-110-modules-orange",
+  "Name": "Punch Down Impact Tool,Network Wire...",
+  "Slug": "punch-down-impact-toolnetwork-wire",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51bhUrURKRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uw2v1Jf-L.jpg | https://m.media-amazon.com/images/I/31eBau5DW9L.jpg | https://m.media-amazon.com/images/I/41QdUfVPmmL.jpg | https://m.media-amazon.com/images/I/41COYU4jDTL.jpg | https://m.media-amazon.com/images/I/41rgZVlfqIL.jpg | https://m.media-amazon.com/images/I/410wWBowdVL.jpg | https://m.media-amazon.com/images/I/519myWlte4L.jpg | https://m.media-amazon.com/images/I/51bhUrURKRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹547.00",
+  "Discount": 57.89,
+  "SalePrice": 547,
   "Country": "‎China"
 }

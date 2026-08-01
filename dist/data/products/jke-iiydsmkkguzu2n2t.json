@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDSMKKGUZU2N2T",
   "title": "Ingco 10\" (250MM) Aviation Snip HTSN0110S",
   "brand": "Ingco",
-  "current_price": "₹549.00",
-  "mrp": "₹1,199",
+  "current_price": 549,
+  "mrp": 1199,
   "product_url": "https://www.amazon.in/Ingco-250MM-Aviation-Snip-HTSN0110S/dp/B091J53M7S/ref=sr_1_233",
   "description": "Ingco 10\" (250MM) Aviation Snip HTSN0110S - Distributed/Packaged by Ingco. Product Details: nan",
   "image_urls": [
@@ -17,21 +17,21 @@
   "image_url_3": "https://m.media-amazon.com/images/I/31UUZ7Aox5L.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/31MUzWgW7WL.jpg",
   "specifications": {
-    "Manufacturer": "‎INGCO",
-    "Included Components": "‎SCISSOR",
-    "Item Type Name": "General",
-    "Brand": "‎Ingco",
-    "Colour": "‎Black And Yellow",
     "Country of Origin": "‎China",
     "Number of Items": "‎1",
+    "Manufacturer": "‎INGCO",
+    "Item Type Name": "General",
+    "Colour": "‎Black And Yellow",
+    "Included Components": "‎SCISSOR",
+    "Brand": "‎Ingco",
     "Part Number": "‎HTSN0110S",
-    "Weight": "‎0.33 Kilograms",
+    "Batteries Required": "‎No",
     "Style": "‎Asian",
+    "Weight": "‎0.33 Kilograms",
     "Height": "‎37 Centimeters",
     "Length": "‎10 Centimeters",
     "Width": "‎20 Centimeters",
-    "Power and Plug Description": "‎HAND WORK",
-    "Batteries Required": "‎No"
+    "Power and Plug Description": "‎HAND WORK"
   },
   "SKU": "JKE-IIYDSMKKGUZU2N2T",
   "Name": "Ingco 10\" (250MM) Aviation Snip HTSN0110S",
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31MUzWgW7WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ul6Nf--OL.jpg | https://m.media-amazon.com/images/I/31UUZ7Aox5L.jpg | https://m.media-amazon.com/images/I/31MUzWgW7WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹549.00",
+  "Discount": 54.21,
+  "SalePrice": 549,
   "Country": "‎China"
 }

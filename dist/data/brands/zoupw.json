@@ -1,0 +1,26 @@
+{
+  "name": "Zoupw",
+  "slug": "zoupw",
+  "products": [
+    {
+      "sku": "JKE-IIYEMWSTGRGTSMKG",
+      "slug": "zoupw-n-type-16bb-110w-bifacial-portable-solar-panel-25",
+      "name": "ZOUPW N-Type 16BB 110W Bifacial Portable Solar Panel, 25%...",
+      "brand": "Zoupw",
+      "category": "Storage & Organization",
+      "price": 36369,
+      "image": "https://m.media-amazon.com/images/I/716o1xgXxGL.jpg | https://m.media-amazon.com/images/I/419a9KMN6aL.jpg | https://m.media-amazon.com/images/I/51j9rsoJ5QL.jpg | https://m.media-amazon.com/images/I/51hkJALT6cL.jpg | https://m.media-amazon.com/images/I/51u1aSIcTLL.jpg | https://m.media-amazon.com/images/I/51Oxsx0Hv4L.jpg | https://m.media-amazon.com/images/I/51EZS1-8ogL.jpg | https://m.media-amazon.com/images/I/51Olw79i7eL.jpg",
+      "productUrl": "https://www.amazon.in/ZOUPW-Efficiency-Composite-Essentials-Waterproof/dp/B0FZS4M91F/ref=sr_1_254"
+    },
+    {
+      "sku": "JKE-IIYEIWKEKJGUGTSM",
+      "slug": "220w-solar-panel",
+      "name": "220w Solar Panel",
+      "brand": "Zoupw",
+      "category": "General Hardware",
+      "price": 58082,
+      "image": "https://m.media-amazon.com/images/I/717LiCPafxL.jpg | https://m.media-amazon.com/images/I/41tXwynRo3L.jpg | https://m.media-amazon.com/images/I/51ON-KlnmHL.jpg | https://m.media-amazon.com/images/I/41OQX9VlK+L.jpg | https://m.media-amazon.com/images/I/51E4odWv7FL.jpg | https://m.media-amazon.com/images/I/51SyOdeyloL.jpg | https://m.media-amazon.com/images/I/51XYjIkWwqL.jpg | https://m.media-amazon.com/images/I/51-q38x6UzL.jpg",
+      "productUrl": "https://www.amazon.in/ZOUPW-ZOUPW-F220W-220w-Solar-Panel/dp/B0DYDRMCNL/ref=sr_1_205"
+    }
+  ]
+}

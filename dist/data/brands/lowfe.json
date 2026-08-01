@@ -1,0 +1,26 @@
+{
+  "name": "Lowfe",
+  "slug": "lowfe",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNCXIRDUUR2O",
+      "slug": "smartwatch-usb-charging-cable-universal-magnetic-charging",
+      "name": "Smartwatch USB Charging Cable, Universal Magnetic charging...",
+      "brand": "Lowfe",
+      "category": "Fasteners & Hardware",
+      "price": 139,
+      "image": "https://m.media-amazon.com/images/I/51w5XaVrBBL.jpg | https://m.media-amazon.com/images/I/51w5XaVrBBL.jpg | https://m.media-amazon.com/images/I/41op3iTzDjL.jpg | https://m.media-amazon.com/images/I/41C0yOrzEBL.jpg | https://m.media-amazon.com/images/I/41PtqyQ6qQL.jpg | https://m.media-amazon.com/images/I/41kw0Fb8nyL.jpg | https://m.media-amazon.com/images/I/51xM68i1-CL.jpg",
+      "productUrl": "https://www.amazon.in/Smartwatch-Charging-Universal-Compatible-Fire-Boltt/dp/B0H4WDGJGN/ref=sr_1_166"
+    },
+    {
+      "sku": "JKE-IIYEISCIIZIFMMKM",
+      "slug": "original-44w-100w-120w-flash-charging-usb-to-c-nex",
+      "name": "Original 44W | 100W | 120W Flash Charging USB to C Nex...",
+      "brand": "Lowfe",
+      "category": "Electrical & Wiring",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/51Vh1+zMLSL.jpg | https://m.media-amazon.com/images/I/21M6H97O72L.jpg | https://m.media-amazon.com/images/I/51dsyf2ZH6L.jpg | https://m.media-amazon.com/images/I/41ynJaw90xL.jpg | https://m.media-amazon.com/images/I/41HZfX0lO0L.jpg | https://m.media-amazon.com/images/I/41p6O4gdOHL.jpg | https://m.media-amazon.com/images/I/31HvHopM+xL.jpg | https://m.media-amazon.com/images/I/31mKt4E5oKL.jpg",
+      "productUrl": "https://www.amazon.in/Original-Flash-Charging-Compatible-White/dp/B0DHHFPV1L/ref=sr_1_94"
+    }
+  ]
+}

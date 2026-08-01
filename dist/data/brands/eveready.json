@@ -3,12 +3,192 @@
   "slug": "eveready",
   "products": [
     {
-      "sku": "JKE-IIYEMM2KKBKFUUSQ",
-      "slug": "eveready-dl-101-minimight-1w-rechargeable-led-emergency-torch-2w-sidelight-pocket-friendly-hexagonal-design-hands-free-clip-type-bmicro-usb-charging-overcharge-deep-discharge-protection",
-      "name": "Eveready DL 101 Minimight, 1W Rechargeable LED Emergency Torch + 2W Sidelight, Pocket-Friendly Hexagonal Design, Hands-Free Clip, Type B/Micro USB Charging, Overcharge & Deep Discharge Protection",
+      "sku": "JKE-IIYEGSRZIRDDOTCT",
+      "slug": "eveready-ultima-alkaline-aaa-battery-400-longer-lasting",
+      "name": "Eveready Ultima Alkaline AAA Battery, 400% Longer Lasting,...",
+      "brand": "Eveready",
+      "category": "Storage & Organization",
+      "price": 170,
+      "image": "https://m.media-amazon.com/images/I/81v863eG0VL.jpg | https://m.media-amazon.com/images/I/51VrT7uNI-L.jpg | https://m.media-amazon.com/images/I/71G0ihSoGKL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/51qUdOHgzbL.jpg | https://m.media-amazon.com/images/I/51y-shZlLRL.jpg | https://m.media-amazon.com/images/I/51zacPxjJGL.jpg | https://m.media-amazon.com/images/I/51tLhmLrq2L.jpg | https://m.media-amazon.com/images/I/51-Gr0EeR8L.jpg",
+      "productUrl": "https://www.amazon.in/Ultima-Anti-Leak-Technology-Eco-Friendly-High-Drain/dp/B0CJ9DF7LS/ref=sr_1_7"
+    },
+    {
+      "sku": "JKE-IIYEGOBVIJLDKVSW",
+      "slug": "eveready-ultima-alkaline-coin-battery-15v-lr44-",
+      "name": "Eveready Ultima Alkaline Coin Battery 1.5V | LR44 |...",
+      "brand": "Eveready",
+      "category": "General Hardware",
+      "price": 70,
+      "image": "https://m.media-amazon.com/images/I/71uOqjVx7eL.jpg | https://m.media-amazon.com/images/I/41IlAgINV0L.jpg | https://m.media-amazon.com/images/I/51EgqKcUzGL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51CvO8XmqoL.jpg | https://m.media-amazon.com/images/I/51bGupXIoXL.jpg | https://m.media-amazon.com/images/I/51Fbqxi6vcL.jpg | https://m.media-amazon.com/images/I/51M-tYPB6zL.jpg | https://m.media-amazon.com/images/I/51IqobQbLqL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Lightweight-Packaging-Calculators-Microphone/dp/B0C85BV5VV/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-IIYDAWSSIJLVAQJQ",
+      "slug": "eveready-aaa-heavy-duty-batteries-10-pieces-red",
+      "name": "Eveready AAA Heavy Duty Batteries - 10 Pieces (Red)",
+      "brand": "Eveready",
+      "category": "General Hardware",
+      "price": 160,
+      "image": "https://m.media-amazon.com/images/I/715cyoY3VZL.jpg | https://m.media-amazon.com/images/I/512eQybWWmL.jpg | https://m.media-amazon.com/images/I/61p6OlnVP7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/31oKoqUHhLL.jpg | https://m.media-amazon.com/images/I/41Xy3wgaXIL.jpg | https://m.media-amazon.com/images/I/513l2W9gB4L.jpg | https://m.media-amazon.com/images/I/51nSGrcnzUL.jpg | https://m.media-amazon.com/images/I/51sRLb1khZL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Alkaline-Batteries-1012-Battery/dp/B00ZRBWPA0/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-IIYDOUJVLJMEGV2O",
+      "slug": "eveready-ultima-pro-alkaline-aa-battery-800-longer",
+      "name": "Eveready Ultima Pro Alkaline AA Battery, 800% Longer...",
+      "brand": "Eveready",
+      "category": "Storage & Organization",
+      "price": 100,
+      "image": "https://m.media-amazon.com/images/I/71OJpUfnAnL.jpg | https://m.media-amazon.com/images/I/41c9jrKWVXL.jpg | https://m.media-amazon.com/images/I/51lDC2XWs7L.jpg | https://m.media-amazon.com/images/I/51UD9hsgRSL.jpg | https://m.media-amazon.com/images/I/51F0Z4Oue8L.jpg | https://m.media-amazon.com/images/I/51LREErsXCL.jpg | https://m.media-amazon.com/images/I/41hcxBGvLvL.jpg | https://m.media-amazon.com/images/I/51RdhDbeXwL.jpg",
+      "productUrl": "https://www.amazon.in/Anti-leak-Turbolock-Technology-Eco-Friendly-Batteries/dp/B07Q5ZXCWN/ref=sr_1_108"
+    },
+    {
+      "sku": "JKE-IIYEMQ22GRLVAVRZ",
+      "slug": "eveready-ultima-pro-alkaline-aa-battery-800-longer",
+      "name": "Eveready Ultima Pro Alkaline AA Battery, 800% Longer...",
+      "brand": "Eveready",
+      "category": "Storage & Organization",
+      "price": 200,
+      "image": "https://m.media-amazon.com/images/I/81N2c72UlkL.jpg | https://m.media-amazon.com/images/I/51of7JdJiWL.jpg | https://m.media-amazon.com/images/I/41Fg4ub7D5L.jpg | https://m.media-amazon.com/images/I/51lDC2XWs7L.jpg | https://m.media-amazon.com/images/I/51UD9hsgRSL.jpg | https://m.media-amazon.com/images/I/51F0Z4Oue8L.jpg | https://m.media-amazon.com/images/I/51LREErsXCL.jpg | https://m.media-amazon.com/images/I/41hcxBGvLvL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Anti-Leak-Turbolock-Technology-Eco-Friendly/dp/B0FCZ4WPV9/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-IIYEMQ22I44VQTCN",
+      "slug": "eveready-carbon-zinc-aaa-battery-anti-leak-3x-emd-power",
+      "name": "Eveready Carbon Zinc AAA Battery, Anti-Leak, 3X EMD Power,...",
       "brand": "Eveready",
       "category": "Electrical & Wiring",
-      "price": "₹158.00",
+      "price": 169,
+      "image": "https://m.media-amazon.com/images/I/71QA9p8HBzL.jpg | https://m.media-amazon.com/images/I/51PBnMeo0-L.jpg | https://m.media-amazon.com/images/I/51w77olpOtL.jpg | https://m.media-amazon.com/images/I/51tJDoC2cnL.jpg | https://m.media-amazon.com/images/I/51dV67atDfL.jpg | https://m.media-amazon.com/images/I/418gOXfjobL.jpg | https://m.media-amazon.com/images/I/513wTqpBi2L.jpg | https://m.media-amazon.com/images/I/41N1pmkz9ML.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Anti-Leak-Certified-Suitable-Regular-Drain/dp/B0FCZG9XLM/ref=sr_1_60"
+    },
+    {
+      "sku": "JKE-IIYEMQ22JRHDCQ2X",
+      "slug": "eveready-ultima-pro-alkaline-aaa-battery-800-longer",
+      "name": "Eveready Ultima Pro Alkaline AAA Battery, 800% Longer...",
+      "brand": "Eveready",
+      "category": "Storage & Organization",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/81sm5d-Et7L.jpg | https://m.media-amazon.com/images/I/51OxvSP97TL.jpg | https://m.media-amazon.com/images/I/41RrwaW-cEL.jpg | https://m.media-amazon.com/images/I/51lDC2XWs7L.jpg | https://m.media-amazon.com/images/I/51UD9hsgRSL.jpg | https://m.media-amazon.com/images/I/51F0Z4Oue8L.jpg | https://m.media-amazon.com/images/I/51LREErsXCL.jpg | https://m.media-amazon.com/images/I/41hcxBGvLvL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Anti-Leak-Turbolock-Technology-Eco-Friendly/dp/B0FCZLN1CW/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYDAWSSIJLVUTSX",
+      "slug": "eveready-alkaline-batteries-red-aa-10-battery-pack",
+      "name": "Eveready Alkaline Batteries - Red AA, 10 Battery Pack",
+      "brand": "Eveready",
+      "category": "General Hardware",
+      "price": 162,
+      "image": "https://m.media-amazon.com/images/I/81dyPozVVEL.jpg | https://m.media-amazon.com/images/I/51uJPd-2URL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Alkaline-Batteries-Battery-Pack/dp/B00ZRBWZNW/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-IIYEMNSDKNFVSRCU",
+      "slug": "eveready-ultima-power-bank-pb10-with-built-in-cables-10000",
+      "name": "Eveready Ultima Power Bank PB10 with Built-in-Cables 10,000...",
+      "brand": "Eveready",
+      "category": "Safety & PPE",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/612Mn9trBUL.jpg | https://m.media-amazon.com/images/I/31MEJ8e3-BL.jpg | https://m.media-amazon.com/images/I/41IKL-ZmtWL.jpg | https://m.media-amazon.com/images/I/51rvmQW1GFL.jpg | https://m.media-amazon.com/images/I/51CL5rE735L.jpg | https://m.media-amazon.com/images/I/51JjnWo9KVL.jpg | https://m.media-amazon.com/images/I/51xLp2b7XBL.jpg | https://m.media-amazon.com/images/I/41sTZiEPZTL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-PB10-Compatibility-Overcharging-Protection/dp/B0F6CSKYDT/ref=sr_1_155"
+    },
+    {
+      "sku": "JKE-IIYEMQ22K5NDQTKU",
+      "slug": "eveready-carbon-zinc-aa-battery-anti-leak-3x-emd-power",
+      "name": "Eveready Carbon Zinc AA Battery, Anti-Leak, 3X EMD Power,...",
+      "brand": "Eveready",
+      "category": "Electrical & Wiring",
+      "price": 169,
+      "image": "https://m.media-amazon.com/images/I/81cN5py9umL.jpg | https://m.media-amazon.com/images/I/51STp78AMtL.jpg | https://m.media-amazon.com/images/I/51w77olpOtL.jpg | https://m.media-amazon.com/images/I/51V5JaZtLvL.jpg | https://m.media-amazon.com/images/I/51dV67atDfL.jpg | https://m.media-amazon.com/images/I/418gOXfjobL.jpg | https://m.media-amazon.com/images/I/513wTqpBi2L.jpg | https://m.media-amazon.com/images/I/41YM14RqS7L.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Anti-Leak-Certified-Suitable-Regular-Drain/dp/B0FCZWZ8MT/ref=sr_1_12_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDAVSMJZHE4TCJ",
+      "slug": "eveready-jeevansathi-dl65-premium-durable-brass-body-3w",
+      "name": "Eveready Jeevansathi DL65, Premium & Durable Brass Body, 3W...",
+      "brand": "Eveready",
+      "category": "Electrical & Wiring",
+      "price": 538,
+      "image": "https://m.media-amazon.com/images/I/71fWM-PMjpL.jpg | https://m.media-amazon.com/images/I/41XXKwkD1gL.jpg | https://m.media-amazon.com/images/I/41HBkBDSLjL.jpg | https://m.media-amazon.com/images/I/3110jfFgoQL.jpg | https://m.media-amazon.com/images/I/518Ar3vxnbL.jpg | https://m.media-amazon.com/images/I/41zl6DLMAML.jpg | https://m.media-amazon.com/images/I/51Yw+54jt-L.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Jeevansathi-DL65-Torch-Function/dp/B00VLNNNLI/ref=sr_1_156"
+    },
+    {
+      "sku": "JKE-IIYEMQ2ZLJIFMMST",
+      "slug": "eveready-ultima-alkaline-aaa-battery-400-longer-lasting",
+      "name": "Eveready Ultima Alkaline AAA Battery, 400% Longer Lasting,...",
+      "brand": "Eveready",
+      "category": "Storage & Organization",
+      "price": 85,
+      "image": "https://m.media-amazon.com/images/I/71WliAl8UEL.jpg | https://m.media-amazon.com/images/I/413M3CIlnnL.jpg | https://m.media-amazon.com/images/I/51-dc1fPdWL.jpg | https://m.media-amazon.com/images/I/41PTcFg1KkL.jpg | https://m.media-amazon.com/images/I/41lsA9TSSTL.jpg | https://m.media-amazon.com/images/I/51dOdtGUYEL.jpg | https://m.media-amazon.com/images/I/41PUCz-sd6L.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Anti-Leak-Technology-Eco-Friendly-High-Drain/dp/B0FCYZPV2S/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYEGR2OJY2FGNCU",
+      "slug": "eveready-ultima-alkaline-aa-battery-400-longer-lasting",
+      "name": "Eveready Ultima Alkaline AA Battery, 400% Longer Lasting,...",
+      "brand": "Eveready",
+      "category": "Storage & Organization",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/71xl38UmsIL.jpg | https://m.media-amazon.com/images/I/51oKO59bjpL.jpg | https://m.media-amazon.com/images/I/71etRz9iK7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51-dc1fPdWL.jpg | https://m.media-amazon.com/images/I/41PTcFg1KkL.jpg | https://m.media-amazon.com/images/I/41lsA9TSSTL.jpg | https://m.media-amazon.com/images/I/51dOdtGUYEL.jpg | https://m.media-amazon.com/images/I/41mbIdFVszL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Anti-Leak-Technology-Eco-Friendly-High-Drain/dp/B0CGNN4S4T/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYEMOKLJI2DMMRT",
+      "slug": "eveready-dl09-lumimax-15w-emergency-torch-durable-virgin",
+      "name": "Eveready DL09 Lumimax, 1.5W Emergency Torch, Durable Virgin...",
+      "brand": "Eveready",
+      "category": "Fasteners & Hardware",
+      "price": 198,
+      "image": "https://m.media-amazon.com/images/I/71-OF7gj7QL.jpg | https://m.media-amazon.com/images/I/41W62NuTmKL.jpg | https://m.media-amazon.com/images/I/4190tdg9cjL.jpg | https://m.media-amazon.com/images/I/41-uV3bDKyL.jpg | https://m.media-amazon.com/images/I/51+U4xueq5L.jpg | https://m.media-amazon.com/images/I/4100Gm7SmSL.jpg | https://m.media-amazon.com/images/I/41pLNIQDnNL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-DL09-Lumimax-Emergency-Batteries/dp/B0F9KJ4623/ref=sr_1_157"
+    },
+    {
+      "sku": "JKE-IIYEGOBVIZLVCSBW",
+      "slug": "eveready-ultima-coin-battery-3v-cr2016-made-with",
+      "name": "Eveready Ultima Coin Battery 3V | CR2016 | Made with...",
+      "brand": "Eveready",
+      "category": "General Hardware",
+      "price": 85,
+      "image": "https://m.media-amazon.com/images/I/71ldgCO+vjL.jpg | https://m.media-amazon.com/images/I/41fF5Ebap6L.jpg | https://m.media-amazon.com/images/I/51EgqKcUzGL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41Q38OqKcsL.jpg | https://m.media-amazon.com/images/I/41p1XBQxjnL.jpg | https://m.media-amazon.com/images/I/51KSUQL3tKL.jpg | https://m.media-amazon.com/images/I/51Z9Ap1r-iL.jpg | https://m.media-amazon.com/images/I/41MHhoA1WtL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Battery-High-Purity-Packaging-Weighing/dp/B0C85FWQH6/ref=sr_1_124"
+    },
+    {
+      "sku": "JKE-IIYEMNSDJQ2FCOKW",
+      "slug": "eveready-ultima-magsafe-compatible-power-bank-pb31",
+      "name": "Eveready Ultima MagSafe Compatible Power Bank- PB31,...",
+      "brand": "Eveready",
+      "category": "Safety & PPE",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/612o22Z34rL.jpg | https://m.media-amazon.com/images/I/31X0KzWp2CL.jpg | https://m.media-amazon.com/images/I/711Y0fiBN9L.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/21dTGOYFpoL.jpg | https://m.media-amazon.com/images/I/419NvTlqDOL.jpg | https://m.media-amazon.com/images/I/51iJY2TZUNL.jpg | https://m.media-amazon.com/images/I/41d-UUmHs8L.jpg | https://m.media-amazon.com/images/I/414fD4hTZ3L.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-Compatible-PB31-Magnetic-Compatibility/dp/B0F6CL4Q9V/ref=sr_1_302"
+    },
+    {
+      "sku": "JKE-IIYEMOKLJRGVOSRR",
+      "slug": "eveready-dl43-neoglo-1w-emergency-torch-evereadys-1st",
+      "name": "EVEREADY DL43 Neoglo, 1W Emergency Torch, Eveready’s 1st...",
+      "brand": "Eveready",
+      "category": "Safety & PPE",
+      "price": 123,
+      "image": "https://m.media-amazon.com/images/I/7169cYm7VEL.jpg | https://m.media-amazon.com/images/I/41k5vUKYiEL.jpg | https://m.media-amazon.com/images/I/41xTY-7-HYL.jpg | https://m.media-amazon.com/images/I/41NvgCoHj9L.jpg | https://m.media-amazon.com/images/I/419h3zd1vCL.jpg | https://m.media-amazon.com/images/I/41NT-2qfSPL.jpg | https://m.media-amazon.com/images/I/51nkY1aVqDL.jpg | https://m.media-amazon.com/images/I/51bcerzr9JL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-DL43-Emergency-Flashlight-Phosphorescent/dp/B0F9KLMWJ1/ref=sr_1_141"
+    },
+    {
+      "sku": "JKE-IIYEIMSSKREE4NKL",
+      "slug": "eveready-dl84-led-electra-durable-abs-body-easy-plug-",
+      "name": "Eveready DL84 LED Electra, Durable ABS Body, Easy Plug &...",
+      "brand": "Eveready",
+      "category": "Safety & PPE",
+      "price": 163,
+      "image": "https://m.media-amazon.com/images/I/71VWmeyTK+L.jpg | https://m.media-amazon.com/images/I/418C8aTikTL.jpg | https://m.media-amazon.com/images/I/41SPp25CRzL.jpg | https://m.media-amazon.com/images/I/513zUEb0PdL.jpg | https://m.media-amazon.com/images/I/41HuS20VF-L.jpg | https://m.media-amazon.com/images/I/41m71yBJqLL.jpg | https://m.media-amazon.com/images/I/51+7U3YgiUL.jpg",
+      "productUrl": "https://www.amazon.in/Eveready-DL-84-Rechargeable-Flashlight/dp/B0D2RTHN5K/ref=sr_1_261"
+    },
+    {
+      "sku": "JKE-IIYEMM2KKBKFUUSQ",
+      "slug": "eveready-dl-101-minimight-1w-rechargeable-led-emergency",
+      "name": "Eveready DL 101 Minimight, 1W Rechargeable LED Emergency...",
+      "brand": "Eveready",
+      "category": "Electrical & Wiring",
+      "price": 158,
       "image": "https://m.media-amazon.com/images/I/71+pBhQRdwL.jpg | https://m.media-amazon.com/images/I/41+a7HIOe4L.jpg | https://m.media-amazon.com/images/I/512PyWK1BOL.jpg | https://m.media-amazon.com/images/I/51oY1b6oC2L.jpg | https://m.media-amazon.com/images/I/51vaelOXqLL.jpg | https://m.media-amazon.com/images/I/41Z4bLKwElL.jpg | https://m.media-amazon.com/images/I/410RL3jsmoL.jpg",
       "productUrl": "https://www.amazon.in/Eveready-Rechargeable-Pocket-Friendly-Hands-Free-Overcharge/dp/B0F3JPTZRP/ref=sr_1_305"
     }

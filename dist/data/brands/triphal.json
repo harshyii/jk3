@@ -1,0 +1,26 @@
+{
+  "name": "Triphal",
+  "slug": "triphal",
+  "products": [
+    {
+      "sku": "JKE-IIYEIVRVKNJDSMSM",
+      "slug": "triphal-shakti-plus-combo-4-herb-ayurvedic-powder-pack",
+      "name": "TRIPHAL Shakti Plus Combo – 4-Herb Ayurvedic Powder Pack...",
+      "brand": "Triphal",
+      "category": "Storage & Organization",
+      "price": 1249,
+      "image": "https://m.media-amazon.com/images/I/71UtEDonLuL.jpg | https://m.media-amazon.com/images/I/41THvnjbKqL.jpg | https://m.media-amazon.com/images/I/51-Uf+yBVLL.jpg | https://m.media-amazon.com/images/I/51TbCopoOyL.jpg | https://m.media-amazon.com/images/I/412I4YquUhL.jpg",
+      "productUrl": "https://www.amazon.in/TRIPHAL-Shakti-Plus-Combo-Preservatives/dp/B0DV5SR92L/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-IIYEOSS2HBJDSTKG",
+      "slug": "triphal-shakti-advance-herbal-male-vitality-powder-",
+      "name": "TRIPHAL Shakti Advance - Herbal Male Vitality Powder -...",
+      "brand": "Triphal",
+      "category": "General Hardware",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/61HGyBacFvL.jpg | https://m.media-amazon.com/images/I/41QkdsaCS6L.jpg | https://m.media-amazon.com/images/I/51jX+GM9UNL.jpg | https://m.media-amazon.com/images/I/51EiWfWxyvL.jpg | https://m.media-amazon.com/images/I/51X6OuaptJL.jpg | https://m.media-amazon.com/images/I/51n-BIAtPtL.jpg | https://m.media-amazon.com/images/I/41UKqOLRLML.jpg | https://m.media-amazon.com/images/I/41ry2h8NxqL.jpg",
+      "productUrl": "https://www.amazon.in/TRIPHAL-Shakti-Advance-Ayurvedic-Preservative/dp/B0GJZ8R9MF/ref=sr_1_21"
+    }
+  ]
+}

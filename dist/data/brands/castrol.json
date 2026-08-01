@@ -1,0 +1,56 @@
+{
+  "name": "Castrol",
+  "slug": "castrol",
+  "products": [
+    {
+      "sku": "JKE-IIYEONRRGY4VONCX",
+      "slug": "castrol-ultra-protect-wax-100-ml-carnauba-wax-formula",
+      "name": "Castrol Ultra Protect Wax (100 ml) | Carnauba Wax Formula,...",
+      "brand": "Castrol",
+      "category": "Abrasives & Finishing",
+      "price": 225,
+      "image": "https://m.media-amazon.com/images/I/61sNEJ5xL5L.jpg | https://m.media-amazon.com/images/I/31gJHwj5Z9L.jpg | https://m.media-amazon.com/images/I/41ORbsBGcVL.jpg | https://m.media-amazon.com/images/I/51NPj-dhRYL.jpg | https://m.media-amazon.com/images/I/51LY1gue9gL.jpg | https://m.media-amazon.com/images/I/51Jo2bCSkaL.jpg | https://m.media-amazon.com/images/I/51VF85iEY2L.jpg | https://m.media-amazon.com/images/I/51hMYY-fZeL.jpg",
+      "productUrl": "https://www.amazon.in/Castrol-Ultra-Protect-Wax-100/dp/B0G6169W4W/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-IIYEOQSXKFFE2OCY",
+      "slug": "castrol-ultra-protect-carbike-shampoo-1-litre-",
+      "name": "Castrol Ultra Protect Car/Bike Shampoo (1 Litre) |...",
+      "brand": "Castrol",
+      "category": "Power Tools",
+      "price": 813.72,
+      "image": "https://m.media-amazon.com/images/I/61JKm2ucGuL.jpg | https://m.media-amazon.com/images/I/313e+lvR0yL.jpg | https://m.media-amazon.com/images/I/31frMRQg74L.jpg | https://m.media-amazon.com/images/I/519GQ32GXbL.jpg | https://m.media-amazon.com/images/I/51nywsnnf6L.jpg | https://m.media-amazon.com/images/I/51yCCiGzwfL.jpg | https://m.media-amazon.com/images/I/41FnGYfmBdL.jpg | https://m.media-amazon.com/images/I/51NQOMYKHqL.jpg",
+      "productUrl": "https://www.amazon.in/Castrol-pH-Balanced-Carnauba-Streak-Free-Water-Repellent/dp/B0GBWQJM8X/ref=sr_1_260"
+    },
+    {
+      "sku": "JKE-IIYEIQSMLFKFIQRY",
+      "slug": "castrol-microfibre-cloth-pack-of-3-40x40cm-400-gsm",
+      "name": "Castrol Microfibre Cloth (Pack of 3, 40x40cm) | 400 GSM...",
+      "brand": "Castrol",
+      "category": "Power Tools",
+      "price": 274,
+      "image": "https://m.media-amazon.com/images/I/71OA1ARfmqL.jpg | https://m.media-amazon.com/images/I/41DUut93gCL.jpg | https://m.media-amazon.com/images/I/51hi6BP9lML.jpg | https://m.media-amazon.com/images/I/414DqSUDBiL.jpg | https://m.media-amazon.com/images/I/51EwKzYNRLL.jpg | https://m.media-amazon.com/images/I/51o+3rvc-FL.jpg | https://m.media-amazon.com/images/I/51EocIvuEPL.jpg | https://m.media-amazon.com/images/I/51aSMuiMVEL.jpg",
+      "productUrl": "https://www.amazon.in/Castrol-Microfibre-Streak-Free-Multipurpose-Absorption/dp/B0DBLYTTB8/ref=sr_1_209"
+    },
+    {
+      "sku": "JKE-IIYEONKQKRCDGRCX",
+      "slug": "castrol-ultra-protect-carbike-shampoo-100-ml-",
+      "name": "Castrol Ultra Protect Car/Bike Shampoo (100 ml) |...",
+      "brand": "Castrol",
+      "category": "Power Tools",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/61uIoZGiCCL.jpg | https://m.media-amazon.com/images/I/410rt5TAssL.jpg | https://m.media-amazon.com/images/I/41xY9VfW4GL.jpg | https://m.media-amazon.com/images/I/519GQ32GXbL.jpg | https://m.media-amazon.com/images/I/51nywsnnf6L.jpg | https://m.media-amazon.com/images/I/51yCCiGzwfL.jpg | https://m.media-amazon.com/images/I/41FnGYfmBdL.jpg | https://m.media-amazon.com/images/I/51NQOMYKHqL.jpg",
+      "productUrl": "https://www.amazon.in/Castrol-Ultra-Protect-Bike-Shampoo/dp/B0G5PTD3DW/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEIQSNGE4E4TSR",
+      "slug": "castrol-microfibre-cloth-400-gsm-thick-40x40cm-lint-",
+      "name": "Castrol Microfibre Cloth 400 GSM Thick (40x40cm) | Lint &...",
+      "brand": "Castrol",
+      "category": "Power Tools",
+      "price": 159,
+      "image": "https://m.media-amazon.com/images/I/71OMS8ZbmpL.jpg | https://m.media-amazon.com/images/I/41ZEci+UKvL.jpg | https://m.media-amazon.com/images/I/51hi6BP9lML.jpg | https://m.media-amazon.com/images/I/413cV0wRiKL.jpg | https://m.media-amazon.com/images/I/51RAQbURKQL.jpg | https://m.media-amazon.com/images/I/51o+3rvc-FL.jpg | https://m.media-amazon.com/images/I/51EocIvuEPL.jpg | https://m.media-amazon.com/images/I/51aSMuiMVEL.jpg",
+      "productUrl": "https://www.amazon.in/Castrol-Microfibre-Streak-Free-Multipurpose-Absorption/dp/B0DBM18NNQ/ref=sr_1_121"
+    }
+  ]
+}

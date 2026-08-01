@@ -1,0 +1,26 @@
+{
+  "name": "Conica",
+  "slug": "conica",
+  "products": [
+    {
+      "sku": "JKE-IIYEOUSSLIYVMS2Z",
+      "slug": "4s-car-cleaner-and-conditioner-leather-cleanser-ideal",
+      "name": "4S Car Cleaner and Conditioner | Leather Cleanser | Ideal...",
+      "brand": "Conica",
+      "category": "Power Tools",
+      "price": 349,
+      "image": "https://m.media-amazon.com/images/I/514yDxP0j+L.jpg | https://m.media-amazon.com/images/I/31MMlf7cILL.jpg | https://m.media-amazon.com/images/I/51jXxZBavqL.jpg | https://m.media-amazon.com/images/I/51nIbNFq+BL.jpg | https://m.media-amazon.com/images/I/312VCU6CfxL.jpg",
+      "productUrl": "https://www.amazon.in/Conica-Conditioner-Furniture-Ecological-Formulation/dp/B0GRRZ1VKY/ref=sr_1_243"
+    },
+    {
+      "sku": "JKE-IIYEOUZWJZEEYTKY",
+      "slug": "4s-car-dashboard-polish-spray-450ml-dashboard-shiner-car",
+      "name": "4S Car Dashboard Polish Spray 450ml | Dashboard Shiner, Car...",
+      "brand": "Conica",
+      "category": "Power Tools",
+      "price": 297,
+      "image": "https://m.media-amazon.com/images/I/51TXjmWw9pL.jpg | https://m.media-amazon.com/images/I/31S03ZGQmuL.jpg | https://m.media-amazon.com/images/I/31QZG6EHbIL.jpg | https://m.media-amazon.com/images/I/41H9Riq4OyL.jpg | https://m.media-amazon.com/images/I/51sxNKUhN2L.jpg | https://m.media-amazon.com/images/I/51DYwzdIApL.jpg | https://m.media-amazon.com/images/I/5111gNgaY9L.jpg",
+      "productUrl": "https://www.amazon.in/Conica-Dashboard-Interior-Protection-Restores/dp/B0GS6NHLMX/ref=sr_1_230"
+    }
+  ]
+}

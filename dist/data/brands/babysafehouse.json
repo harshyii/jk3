@@ -1,0 +1,26 @@
+{
+  "name": "Babysafehouse",
+  "slug": "babysafehouse",
+  "products": [
+    {
+      "sku": "JKE-IIYDOS2QI5JFATKE",
+      "slug": "babysafehouse-3m-pre-taped-infantchild-safety-cabinet",
+      "name": "BabySafeHouse 3M Pre-Taped Infant/Child Safety Cabinet...",
+      "brand": "Babysafehouse",
+      "category": "Hand Tools",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/41TOW4s5S2L.jpg | https://m.media-amazon.com/images/I/21rqgTWtekL.jpg | https://m.media-amazon.com/images/I/51J1iWsrvZL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/410UwwbmA1L.jpg | https://m.media-amazon.com/images/I/41XkITnp3HL.jpg | https://m.media-amazon.com/images/I/4191aqN1TIL.jpg | https://m.media-amazon.com/images/I/41tQPLpL7lL.jpg",
+      "productUrl": "https://www.amazon.in/BabySafeHouse-Safety-Cabinet-Drawer-Fridge/dp/B07KPGRPMD/ref=sr_1_168"
+    },
+    {
+      "sku": "JKE-IIYEIOKZJNGEQMZZ",
+      "slug": "babysafehouse-3m-pre-taped-infantchild-safety-cabinet",
+      "name": "BabySafeHouse 3M Pre-Taped Infant/Child Safety Cabinet...",
+      "brand": "Babysafehouse",
+      "category": "Hand Tools",
+      "price": 199,
+      "image": "https://m.media-amazon.com/images/I/51rB0ZJZvOL.jpg | https://m.media-amazon.com/images/I/41aapIS7MXL.jpg | https://m.media-amazon.com/images/I/81-YDB4yYkL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41WgS0eDZ3L.jpg | https://m.media-amazon.com/images/I/41-Sw9I8xkL.jpg | https://m.media-amazon.com/images/I/41NjMle3+cL.jpg | https://m.media-amazon.com/images/I/41tQPLpL7lL.jpg",
+      "productUrl": "https://www.amazon.in/BabySafeHouse-Cabinet-Cupboard-Furniture-Adhesive/dp/B0D9YKLH39/ref=sr_1_256"
+    }
+  ]
+}

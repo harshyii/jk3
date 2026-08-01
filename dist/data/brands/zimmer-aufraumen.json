@@ -1,0 +1,36 @@
+{
+  "name": "Zimmer Aufraumen",
+  "slug": "zimmer-aufraumen",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMSKKZHEUU2O",
+      "slug": "zimmer-aufraumen-5l-woodenwood-floor-cleaner-2x-thick-",
+      "name": "Zimmer Aufraumen- 5L Wooden/Wood Floor Cleaner. 2X THICK &...",
+      "brand": "Zimmer Aufraumen",
+      "category": "Safety & PPE",
+      "price": 855,
+      "image": "https://m.media-amazon.com/images/I/51ShzL+N9WL.jpg | https://m.media-amazon.com/images/I/41Lhi42EJ7L.jpg",
+      "productUrl": "https://www.amazon.in/Zimmer-Aufraumen-Cleaner-CONCENTRATED-Cleaner-1Lit/dp/B0H2JVNJSN/ref=sr_1_277"
+    },
+    {
+      "sku": "JKE-IIYEQMSLHBLVQS2E",
+      "slug": "zimmer-aufraumen-1l-carpet-sofa-fabric-upholstery",
+      "name": "Zimmer Aufraumen 1L CARPET, SOFA & FABRIC UPHOLSTERY...",
+      "brand": "Zimmer Aufraumen",
+      "category": "General Hardware",
+      "price": 458,
+      "image": "https://m.media-amazon.com/images/I/51JrjLeob9L.jpg | https://m.media-amazon.com/images/I/31LFNwv2bzL.jpg",
+      "productUrl": "https://www.amazon.in/Zimmer-Aufraumen-UPHOLSTERY-Lemongrass-Concentrated/dp/B0H2K8WXKD/ref=sr_1_215"
+    },
+    {
+      "sku": "JKE-IIYDQR22GIZUOOKR",
+      "slug": "zimmer-aufraumen-418-ml-rust-remover-spray-for-iron",
+      "name": "Zimmer Aufraumen 418 ML RUST REMOVER SPRAY- for Iron,...",
+      "brand": "Zimmer Aufraumen",
+      "category": "Power Tools",
+      "price": 225,
+      "image": "https://m.media-amazon.com/images/I/51Jgp4kKNLL.jpg | https://m.media-amazon.com/images/I/31tZ8TNNU7L.jpg | https://m.media-amazon.com/images/I/41pDb0LSlDL.jpg | https://m.media-amazon.com/images/I/51aK0vW2fSL.jpg | https://m.media-amazon.com/images/I/510IvP5TvNL.jpg",
+      "productUrl": "https://www.amazon.in/Zimmer-Aufraumen-Chemical-Cleaning-Protection/dp/B08GZ23G9Q/ref=sr_1_288"
+    }
+  ]
+}

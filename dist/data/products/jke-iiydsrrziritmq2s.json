@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSRRZIRITMQ2S",
-  "title": "Eastman Plastic Mallet Hammer Set Of 1Pcs, 25 Mm, Alloy Steel With Better Gripping Hand Tools For Professionals - E-2066",
+  "title": "Eastman Plastic Mallet Hammer Set Of 1Pcs, 25 Mm, Alloy...",
   "brand": "Eastman",
-  "current_price": "₹276.00",
-  "mrp": "₹498",
+  "current_price": 276,
+  "mrp": 498,
   "product_url": "https://www.amazon.in/Eastman-Plastic-Mallet-Gripping-Professionals/dp/B09F9DQ6CR/ref=sr_1_34",
   "description": "Eastman Plastic Mallet Hammer Set Of 1Pcs, 25 Mm, Alloy Steel With Better Gripping Hand Tools For Professionals - E-2066 - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -26,23 +26,23 @@
   "image_url_7": "https://m.media-amazon.com/images/I/31Uf1ITVOnL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/314HrfbGtWL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman",
-    "Included Components": "‎Case",
-    "Item Weight": "‎300 g",
     "Item Type Name": "General",
+    "Colour": "‎Red",
+    "Included Components": "‎Case",
     "Brand": "‎Eastman",
     "Model number": "‎E-2066_Hammer-25",
-    "Colour": "‎Red",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎300 g",
     "Product Dimensions": "‎41 x 10 x 4 cm; 300 g",
     "Item model number": "‎E-2066_Hammer-25",
     "Item Height": "‎40 Millimeters",
-    "Item Width": "‎10 Centimeters",
-    "Country of Origin": "‎India"
+    "Item Width": "‎10 Centimeters"
   },
   "SKU": "JKE-IIYDSRRZIRITMQ2S",
-  "Name": "Eastman Plastic Mallet Hammer Set Of 1Pcs, 25 Mm, Alloy Steel With Better Gripping Hand Tools For Professionals - E-2066",
-  "Slug": "eastman-plastic-mallet-hammer-set-of-1pcs-25-mm-alloy-steel-with-better-gripping-hand-tools-for-professionals-e-2066",
+  "Name": "Eastman Plastic Mallet Hammer Set Of 1Pcs, 25 Mm, Alloy...",
+  "Slug": "eastman-plastic-mallet-hammer-set-of-1pcs-25-mm-alloy",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31Vmb2zp2+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41m8oaovjvL.jpg | https://m.media-amazon.com/images/I/31a3dPhMS4L.jpg | https://m.media-amazon.com/images/I/51CYi4lppiL.jpg | https://m.media-amazon.com/images/I/419sS73jSHL.jpg | https://m.media-amazon.com/images/I/41QxMz5gaQL.jpg | https://m.media-amazon.com/images/I/31Uf1ITVOnL.jpg | https://m.media-amazon.com/images/I/314HrfbGtWL.jpg | https://m.media-amazon.com/images/I/31Vmb2zp2+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹276.00",
+  "Discount": 44.58,
+  "SalePrice": 276,
   "Country": "‎India"
 }

@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSRRZIJMEIS2R",
-  "title": "Eastman Hand Riveters 255 mm Pop Rivet Gun Fast Hitting Professional Chrome Handled Riveting Tool for Metal Furniture Automotive Home Workshop (E-3012)",
+  "title": "Eastman Hand Riveters 255 mm Pop Rivet Gun Fast Hitting...",
   "brand": "Eastman",
-  "current_price": "₹510.00",
-  "mrp": "₹561",
+  "current_price": 510,
+  "mrp": 561,
   "product_url": "https://www.amazon.in/Eastman-Riveters-25Mm-Hitting-Multicolor/dp/B09F9BXDKQ/ref=sr_1_36",
   "description": "Eastman Hand Riveters 255 mm Pop Rivet Gun Fast Hitting Professional Chrome Handled Riveting Tool for Metal Furniture Automotive Home Workshop (E-3012) - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -27,22 +27,22 @@
   "image_url_8": "https://m.media-amazon.com/images/I/41M9Ab0XkDL.jpg",
   "specifications": {
     "Manufacturer": "‎Eastman",
-    "Included Components": "‎Eastman Hand Riveters Set Of 1Pcs",
-    "Item Weight": "‎600 g",
     "Item Type Name": "General",
+    "Colour": "‎Multicolor",
+    "Power Source": "‎hand_powered",
+    "Included Components": "‎Eastman Hand Riveters Set Of 1Pcs",
     "Brand": "‎Eastman",
     "Model number": "‎E-3012_255MM",
-    "Colour": "‎Multicolor",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎600 g",
     "Product Dimensions": "‎33 x 11 x 3.5 cm; 600 g",
     "Item model number": "‎E-3012_255MM",
     "Item Height": "‎35 Millimeters",
-    "Item Width": "‎11 Centimeters",
-    "Power Source": "‎hand_powered"
+    "Item Width": "‎11 Centimeters"
   },
   "SKU": "JKE-IIYDSRRZIJMEIS2R",
-  "Name": "Eastman Hand Riveters 255 mm Pop Rivet Gun Fast Hitting Professional Chrome Handled Riveting Tool for Metal Furniture Automotive Home Workshop (E-3012)",
-  "Slug": "eastman-hand-riveters-255-mm-pop-rivet-gun-fast-hitting-professional-chrome-handled-riveting-tool-for-metal-furniture-automotive-home-workshop-e-3012",
+  "Name": "Eastman Hand Riveters 255 mm Pop Rivet Gun Fast Hitting...",
+  "Slug": "eastman-hand-riveters-255-mm-pop-rivet-gun-fast-hitting",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "General Fasteners",
   "Images": [
@@ -57,8 +57,8 @@
     "https://m.media-amazon.com/images/I/31z6d5LcUkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41wH3OJGdXL.jpg | https://m.media-amazon.com/images/I/31Q61W6K45L.jpg | https://m.media-amazon.com/images/I/51HzgUSLtsL.jpg | https://m.media-amazon.com/images/I/41mP7MlnApL.jpg | https://m.media-amazon.com/images/I/415Hk535IxL.jpg | https://m.media-amazon.com/images/I/41JlJgbNC2L.jpg | https://m.media-amazon.com/images/I/41M9Ab0XkDL.jpg | https://m.media-amazon.com/images/I/31z6d5LcUkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹510.00"
+  "Discount": 9.09,
+  "SalePrice": 510
 }

@@ -1,0 +1,26 @@
+{
+  "name": "Srivi",
+  "slug": "srivi",
+  "products": [
+    {
+      "sku": "JKE-IIYEGUSRJREDSTKT",
+      "slug": "best-remote-compatible-for-pana-sonic-ac-remote-original",
+      "name": "Best Remote Compatible for Pana-Sonic AC Remote Original...",
+      "brand": "Srivi",
+      "category": "General Hardware",
+      "price": 295,
+      "image": "https://m.media-amazon.com/images/I/51WdgzApvGL.jpg | https://m.media-amazon.com/images/I/31tUYZh856L.jpg",
+      "productUrl": "https://www.amazon.in/SRIVI-Warranty-Compatible-Pana-Sonic-Conditioner/dp/B0CRQLH9MS/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-IIYEGVCZJY2UMTKQ",
+      "slug": "1-years-warranty-zhjt-03-ac-remote-control-compatible",
+      "name": "1 Years Warranty | ZH/JT-03 AC Remote Control Compatible...",
+      "brand": "Srivi",
+      "category": "Safety & PPE",
+      "price": 449,
+      "image": "https://m.media-amazon.com/images/I/512729KST5L.jpg | https://m.media-amazon.com/images/I/319C1eBkbGL.jpg | https://m.media-amazon.com/images/I/21G9LBMn3IL.jpg | https://m.media-amazon.com/images/I/41sfxSzdzsL.jpg",
+      "productUrl": "https://www.amazon.in/SRIVI-Warranty-JT-03-Compatible-Kelvinator/dp/B0CTYN5FMP/ref=sr_1_37"
+    }
+  ]
+}

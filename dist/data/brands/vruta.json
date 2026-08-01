@@ -1,0 +1,16 @@
+{
+  "name": "Vruta",
+  "slug": "vruta",
+  "products": [
+    {
+      "sku": "JKE-IIYEGWKTJNBVEQRR",
+      "slug": "vruta-double-battery-car-washer-high-pressure-gun",
+      "name": "Vruta (Double_Battery) Car Washer High Pressure Gun...",
+      "brand": "Vruta",
+      "category": "Power Tools",
+      "price": 1499.99,
+      "image": "https://m.media-amazon.com/images/I/61F8u7xKQ4L.jpg | https://m.media-amazon.com/images/I/41yWGNhu29L.jpg | https://m.media-amazon.com/images/I/51QDINvZVDL.jpg | https://m.media-amazon.com/images/I/51EuyrtbxGL.jpg | https://m.media-amazon.com/images/I/51QaTDiVa0L.jpg | https://m.media-amazon.com/images/I/41mecsJy1YL.jpg | https://m.media-amazon.com/images/I/41EB3RU4JxL.jpg | https://m.media-amazon.com/images/I/313GpKAaqML.jpg",
+      "productUrl": "https://www.amazon.in/Vruta-Cordless-Washer-Pressure-Gun/dp/B0CYSKCRB1/ref=sr_1_69"
+    }
+  ]
+}

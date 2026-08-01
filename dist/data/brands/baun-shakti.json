@@ -1,0 +1,56 @@
+{
+  "name": "Baun Shakti",
+  "slug": "baun-shakti",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNJVKFFTSOCY",
+      "slug": "baun-shakti-classic-mixed-pickle-himalayan-homemade-style",
+      "name": "Baun Shakti Classic Mixed Pickle | Himalayan Homemade Style...",
+      "brand": "Baun Shakti",
+      "category": "General Hardware",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/61JdqR0XoUL.jpg | https://m.media-amazon.com/images/I/41DEqqfJO-L.jpg | https://m.media-amazon.com/images/I/51dpos6DLnL.jpg | https://m.media-amazon.com/images/I/51McG6RUPjL.jpg | https://m.media-amazon.com/images/I/51snaVOXirL.jpg | https://m.media-amazon.com/images/I/51XegalPI+L.jpg",
+      "productUrl": "https://www.amazon.in/Baun-Shakti-Handcrafted-Ingredients-Preservatives/dp/B0H55QK98X/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYEQNCSGYYVOOBZ",
+      "slug": "baun-shakti-traditional-green-chilli-pickle-himalayan",
+      "name": "Baun Shakti Traditional Green Chilli Pickle | Himalayan...",
+      "brand": "Baun Shakti",
+      "category": "General Hardware",
+      "price": 209,
+      "image": "https://m.media-amazon.com/images/I/619kLROaxjL.jpg | https://m.media-amazon.com/images/I/41-ARBKlblL.jpg | https://m.media-amazon.com/images/I/51ep22NPEFL.jpg | https://m.media-amazon.com/images/I/51efkQ6iMoL.jpg | https://m.media-amazon.com/images/I/51icc92qgOL.jpg | https://m.media-amazon.com/images/I/5154DRAUyTL.jpg",
+      "productUrl": "https://www.amazon.in/Baun-Shakti-Traditional-Handcrafted-Preservatives/dp/B0H4R61W89/ref=sr_1_185"
+    },
+    {
+      "sku": "JKE-IIYEQNCRJNKEOQRU",
+      "slug": "baun-shakti-traditional-kuchai-taro-pickleachar-",
+      "name": "Baun Shakti Traditional Kuchai (Taro) Pickle/Achar |...",
+      "brand": "Baun Shakti",
+      "category": "Garden & Outdoor",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/41OZambeHnL.jpg | https://m.media-amazon.com/images/I/41OZambeHnL.jpg | https://m.media-amazon.com/images/I/51bZnLH-hzL.jpg | https://m.media-amazon.com/images/I/51q383XAYbL.jpg | https://m.media-amazon.com/images/I/51830AoKlpL.jpg | https://m.media-amazon.com/images/I/41YsGBr1ieL.jpg",
+      "productUrl": "https://www.amazon.in/Baun-Shakti-Traditional-Authentic-Artificial/dp/B0H4QKTGB4/ref=sr_1_124"
+    },
+    {
+      "sku": "JKE-IIYEQNCRLE4EWRSZ",
+      "slug": "baun-shakti-traditional-fig-anjeer-pickle-homemade",
+      "name": "Baun Shakti Traditional Fig (Anjeer) Pickle | Homemade...",
+      "brand": "Baun Shakti",
+      "category": "General Hardware",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/61EV1nCBuPL.jpg | https://m.media-amazon.com/images/I/41tsHbbfQzL.jpg | https://m.media-amazon.com/images/I/61mCSpM4YDL.jpg | https://m.media-amazon.com/images/I/51D-YCLBFUL.jpg | https://m.media-amazon.com/images/I/41wnOxeCEWL.jpg | https://m.media-amazon.com/images/I/41dpr7Ip-fL.jpg",
+      "productUrl": "https://www.amazon.in/Baun-Shakti-Traditional-Handcrafted-Ingredients/dp/B0H4QY8KFY/ref=sr_1_178"
+    },
+    {
+      "sku": "JKE-IIYEQNKDGFEEUWCN",
+      "slug": "baun-shakti-traditional-fiddlehead-pickle-homemade-style",
+      "name": "Baun Shakti Traditional Fiddlehead Pickle | Homemade Style...",
+      "brand": "Baun Shakti",
+      "category": "General Hardware",
+      "price": 170,
+      "image": "https://m.media-amazon.com/images/I/61uBTDP7HYL.jpg | https://m.media-amazon.com/images/I/41Jy7eqZ8kL.jpg | https://m.media-amazon.com/images/I/61lY8ay-XtL.jpg | https://m.media-amazon.com/images/I/51PJA5EvxNL.jpg | https://m.media-amazon.com/images/I/51mGXNdNAsL.jpg | https://m.media-amazon.com/images/I/51qxeScVOqL.jpg",
+      "productUrl": "https://www.amazon.in/Baun-Shakti-Traditional-Handcrafted-Ingredients/dp/B0H5C1HJXM/ref=sr_1_152"
+    }
+  ]
+}

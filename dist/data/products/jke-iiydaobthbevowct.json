@@ -2,7 +2,7 @@
   "asin": "JKE-IIYDAOBTHBEVOWCT",
   "title": "Eastman 35239 Waste and Overflow Shoe",
   "brand": "Ez-Flo",
-  "current_price": "₹3,949.05",
+  "current_price": 3949.05,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Eastman-35239-Waste-Overflow-Shoe/dp/B00838IWXS/ref=sr_1_157",
   "description": "Eastman 35239 Waste and Overflow Shoe - Distributed/Packaged by Ez-Flo. Product Details: nan",
@@ -38,8 +38,8 @@
     "https://m.media-amazon.com/images/I/21HnujPyXkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ORICXGm6L.jpg | https://m.media-amazon.com/images/I/21A2HgOReZL.jpg | https://m.media-amazon.com/images/I/21RnBaom2CL.jpg | https://m.media-amazon.com/images/I/21HnujPyXkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹3,949.05"
+  "SalePrice": 3949.05
 }

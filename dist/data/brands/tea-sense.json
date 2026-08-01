@@ -1,0 +1,16 @@
+{
+  "name": "Tea Sense",
+  "slug": "tea-sense",
+  "products": [
+    {
+      "sku": "JKE-IIYDQOCCKAYVERRT",
+      "slug": "tea-sense-premium-ctc-tea-200-g-assam-chai-with",
+      "name": "TEA SENSE Premium CTC Tea | 200 g |Assam Chai with...",
+      "brand": "Tea Sense",
+      "category": "Measuring & Layout",
+      "price": 124,
+      "image": "https://m.media-amazon.com/images/I/51lp5s3dLjL.jpg | https://m.media-amazon.com/images/I/51lp5s3dLjL.jpg | https://m.media-amazon.com/images/I/61GGyybSWgL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/61DeKpozMqL.jpg | https://m.media-amazon.com/images/I/61w8EeW0vTL.jpg | https://m.media-amazon.com/images/I/51Ed-U6686L.jpg | https://m.media-amazon.com/images/I/61nSzPX-6CL.jpg | https://m.media-amazon.com/images/I/51ev8XnfMuL.jpg",
+      "productUrl": "https://www.amazon.in/Premium-Tea-Darjeeling-Flavour-Strengh/dp/B088BP1RF3/ref=sr_1_216"
+    }
+  ]
+}

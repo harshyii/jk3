@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDQOKSLIZTEQSO",
-  "title": "Xtra Power Sanding disc Dia125 mm grit 60 for Sander/Polisher -Combo of 40 Pieces by XTRAPOWER",
+  "title": "Xtra Power Sanding disc Dia125 mm grit 60 for...",
   "brand": "Generic",
-  "current_price": "₹460.00",
-  "mrp": "₹999",
+  "current_price": 460,
+  "mrp": 999,
   "product_url": "https://www.amazon.in/Sanding-Dia125-Sander-Polisher-XTRAPOWER/dp/B089RZ32BN/ref=sr_1_237",
   "rating": "3.83.8 out of 5 stars(7)3.8 out of 5 stars",
   "description": "Xtra Power Sanding disc Dia125 mm grit 60 for Sander/Polisher -Combo of 40 Pieces by XTRAPOWER - Distributed/Packaged by Generic. Product Details: XTRA POWER Sanding Sheet, Professional Round Polishing Sanding Discs Sand Paper Wood Metal Polishing Tools for Furniture Hardware Automobile Repairing",
@@ -24,26 +24,26 @@
   "image_url_6": "https://m.media-amazon.com/images/I/51pbvhD7f+L.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/21AopXw6b7L.jpg",
   "specifications": {
-    "Material Type": "Wood",
     "Brand Name": "Generic",
-    "Unit Count": "40 Count",
     "Manufacturer": "ESCKON",
     "Item Type Name": "General",
     "Best Sellers Rank": "#103,190 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#186 inPower Sander Hook & Loop Discs",
     "ASIN": "B089RZ32BN",
     "Customer Reviews": "3.83.8 out of 5 stars(7)3.8 out of 5 stars",
+    "Compatible Devices": "Angle Grinder",
+    "Unit Count": "40 Count",
+    "Material Type": "Wood",
     "Item Dimensions L x W": "20L x 5W Centimeters",
     "Compatible Material": "Iron, Metal, Wood",
-    "Construction Type": "Coated",
     "Grit Type": "Coarse",
     "Grit Material Type": "Ceramic Alumina",
-    "Compatible Devices": "Angle Grinder",
     "Grit Number": 60,
+    "Construction Type": "Coated",
     "Industry Standard Identifier": "Backing Pad"
   },
   "SKU": "JKE-IIYDQOKSLIZTEQSO",
-  "Name": "Xtra Power Sanding disc Dia125 mm grit 60 for Sander/Polisher -Combo of 40 Pieces by XTRAPOWER",
-  "Slug": "xtra-power-sanding-disc-dia125-mm-grit-60-for-sanderpolisher-combo-of-40-pieces-by-xtrapower",
+  "Name": "Xtra Power Sanding disc Dia125 mm grit 60 for...",
+  "Slug": "xtra-power-sanding-disc-dia125-mm-grit-60-for",
   "Category": "Power Tools",
   "Subcategory1": "Rotary Tools",
   "Images": [
@@ -56,8 +56,8 @@
     "https://m.media-amazon.com/images/I/21AopXw6b7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CtHy-flIL.jpg | https://m.media-amazon.com/images/I/51CtHy-flIL.jpg | https://m.media-amazon.com/images/I/41A7uH-RiuL.jpg | https://m.media-amazon.com/images/I/41RXNhp1LaL.jpg | https://m.media-amazon.com/images/I/31TP+UQuLVL.jpg | https://m.media-amazon.com/images/I/51pbvhD7f+L.jpg | https://m.media-amazon.com/images/I/21AopXw6b7L.jpg",
-  "StockQuantity": 0,
-  "Unit": "40 Count",
-  "Discount": 0,
-  "SalePrice": "₹460.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 53.95,
+  "SalePrice": 460
 }

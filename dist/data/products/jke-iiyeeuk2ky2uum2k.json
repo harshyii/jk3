@@ -2,8 +2,8 @@
   "asin": "JKE-IIYEEUK2KY2UUM2K",
   "title": "Kenbrook Polyamide Cable Gland (PG 9, 20)",
   "brand": "Kenbrook",
-  "current_price": "₹279.00",
-  "mrp": "₹1,199",
+  "current_price": 279,
+  "mrp": 1199,
   "product_url": "https://www.amazon.in/Kenbrook-Polyamide-Cable-Gland-PG/dp/B0BQZV5J3J/ref=sr_1_33",
   "description": "Kenbrook Polyamide Cable Gland (PG 9, 20) - Distributed/Packaged by Kenbrook. Product Details: Kenbrook Cable Gland",
   "image_urls": [
@@ -13,12 +13,12 @@
   "image_url_1": "https://m.media-amazon.com/images/I/21bsReQ037L.jpg | https://m.media-amazon.com/images/I/21bsReQ037L.jpg",
   "image_url_2": "https://m.media-amazon.com/images/I/21bsReQ037L.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Kenbrook Solar Pvt Ltd",
     "Item Type Name": "General",
     "ASIN": "‎B0BQZV5J3J",
     "Product Dimensions": "‎3 x 3 x 3 cm",
-    "Item model number": "‎KS-CABLE-GLAND",
-    "Country of Origin": "‎India"
+    "Item model number": "‎KS-CABLE-GLAND"
   },
   "SKU": "JKE-IIYEEUK2KY2UUM2K",
   "Name": "Kenbrook Polyamide Cable Gland (PG 9, 20)",
@@ -30,9 +30,9 @@
     "https://m.media-amazon.com/images/I/21bsReQ037L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21bsReQ037L.jpg | https://m.media-amazon.com/images/I/21bsReQ037L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹279.00",
+  "Discount": 76.73,
+  "SalePrice": 279,
   "Country": "‎India"
 }

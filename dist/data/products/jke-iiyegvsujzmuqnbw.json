@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGVSUJZMUQNBW",
   "title": "VTH Water Pump Plier Box Joint WPP RED 10/250mm (PACK OF 1)",
-  "brand": "Vth With Tagline Absolute Tooling Solutions",
-  "current_price": "₹324.00",
-  "mrp": "₹999",
+  "brand": "Vth With",
+  "current_price": 324,
+  "mrp": 999,
   "product_url": "https://www.amazon.in/VTH-Water-Plier-Joint-250mm/dp/B0CVTNYH46/ref=sr_1_196",
   "description": "VTH Water Pump Plier Box Joint WPP RED 10/250mm (PACK OF 1) - Distributed/Packaged by Vth With Tagline Absolute Tooling Solutions. Product Details: nan",
   "image_urls": [
@@ -17,17 +17,17 @@
   "specifications": {
     "Brand Name": "VTH WITH TAGLINE ABSOLUTE TOOLING SOLUTIONS",
     "Model Number": "8\"/210mm",
-    "Unit Count": "1.00 Count",
     "Manufacturer": "VTH, VTH",
-    "Country of Publication": "India",
-    "Included Components": "Water Pump Plier Box Joint WPP RED 12",
-    "Item Weight": "1900 Grams",
     "Item Type Name": "Plier",
+    "Manufacturer Contact Information": "VTH",
     "Packer Contact Information": "VTH",
     "ASIN": "B0CVTNYH46",
     "Colour": "Red",
-    "Manufacturer Contact Information": "VTH",
-    "Specific Uses For Product": "Professional"
+    "Specific Uses For Product": "Professional",
+    "Unit Count": "1.00 Count",
+    "Included Components": "Water Pump Plier Box Joint WPP RED 12",
+    "Item Weight": "1900 Grams",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEGVSUJZMUQNBW",
   "Name": "VTH Water Pump Plier Box Joint WPP RED 10/250mm (PACK OF 1)",
@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/21300HhvUtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51U7zXt-LEL.jpg | https://m.media-amazon.com/images/I/21300HhvUtL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.00 Count",
-  "Discount": 0,
-  "SalePrice": "₹324.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 67.57,
+  "SalePrice": 324,
   "Model": "8\"/210mm"
 }

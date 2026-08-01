@@ -1,0 +1,66 @@
+{
+  "name": "Mother Harvest",
+  "slug": "mother-harvest",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMSGIY2TSRRZ",
+      "slug": "mother-harvest-hibiscus-flower-raw-100g-dried-hibiscus",
+      "name": "Mother Harvest Hibiscus Flower Raw 100g | Dried Hibiscus...",
+      "brand": "Mother Harvest",
+      "category": "Fasteners & Hardware",
+      "price": 200,
+      "image": "https://m.media-amazon.com/images/I/71wfa77cnaL.jpg | https://m.media-amazon.com/images/I/41r5N0oSvKL.jpg | https://m.media-amazon.com/images/I/410dDwwcPIL.jpg | https://m.media-amazon.com/images/I/41CQUseVTbL.jpg",
+      "productUrl": "https://www.amazon.in/Mother-Harvest-Hibiscus-Immunity-Infusion/dp/B0H2FF59F9/ref=sr_1_253"
+    },
+    {
+      "sku": "JKE-IIYEQM2CLJHE4MKO",
+      "slug": "mother-harvest-mini-hing-kachori-crispy-spicy-indian",
+      "name": "Mother Harvest Mini Hing Kachori – Crispy Spicy Indian...",
+      "brand": "Mother Harvest",
+      "category": "Safety & PPE",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61r6SCakZ4L.jpg | https://m.media-amazon.com/images/I/41631yHJTyL.jpg | https://m.media-amazon.com/images/I/41UWmnvYmvL.jpg | https://m.media-amazon.com/images/I/414hMykhvGL.jpg",
+      "productUrl": "https://www.amazon.in/Mother-Harvest-Mini-Kachori-Immunity-Boosting/dp/B0H3BZNN1N/ref=sr_1_263"
+    },
+    {
+      "sku": "JKE-IIYEOWCWLJGUUVSY",
+      "slug": "mother-harvest-protein-7-in-1-seed-nut-mix-contains",
+      "name": "MOTHER HARVEST Protein 7-in-1 Seed & Nut Mix | Contains...",
+      "brand": "Mother Harvest",
+      "category": "Fasteners & Hardware",
+      "price": 171,
+      "image": "https://m.media-amazon.com/images/I/71uNWr7p-lL.jpg | https://m.media-amazon.com/images/I/51LDfGMdz2L.jpg | https://m.media-amazon.com/images/I/511to9Zb1VL.jpg | https://m.media-amazon.com/images/I/51YktrUb0SL.jpg | https://m.media-amazon.com/images/I/51hxgA5RgfL.jpg | https://m.media-amazon.com/images/I/51jNKOmZCyL.jpg",
+      "productUrl": "https://www.amazon.in/Contains-Watermelon-Sunflower-Magnesium-Phosphorous/dp/B0GXVZMJVX/ref=sr_1_145"
+    },
+    {
+      "sku": "JKE-IIYEOWCXGFMTENSZ",
+      "slug": "mother-harvest-protein-7-in-1-seed-nut-mix-contains",
+      "name": "MOTHER HARVEST Protein 7-in-1 Seed & Nut Mix | Contains...",
+      "brand": "Mother Harvest",
+      "category": "Fasteners & Hardware",
+      "price": 181,
+      "image": "https://m.media-amazon.com/images/I/71uNWr7p-lL.jpg | https://m.media-amazon.com/images/I/51LDfGMdz2L.jpg | https://m.media-amazon.com/images/I/51YktrUb0SL.jpg | https://m.media-amazon.com/images/I/511to9Zb1VL.jpg | https://m.media-amazon.com/images/I/51hxgA5RgfL.jpg | https://m.media-amazon.com/images/I/51jNKOmZCyL.jpg",
+      "productUrl": "https://www.amazon.in/Contains-Watermelon-Sunflower-Magnesium-Phosphorous/dp/B0GXW1Y26Y/ref=sr_1_153"
+    },
+    {
+      "sku": "JKE-IIYEOWCWLIZFIRZU",
+      "slug": "mother-harvest-protein-7-in-1-seed-nut-mix-1kg-gw",
+      "name": "MOTHER HARVEST Protein 7-in-1 Seed & Nut Mix | 1kg (gw)|...",
+      "brand": "Mother Harvest",
+      "category": "Fasteners & Hardware",
+      "price": 591,
+      "image": "https://m.media-amazon.com/images/I/71uNWr7p-lL.jpg | https://m.media-amazon.com/images/I/51LDfGMdz2L.jpg | https://m.media-amazon.com/images/I/51YktrUb0SL.jpg | https://m.media-amazon.com/images/I/51hxgA5RgfL.jpg | https://m.media-amazon.com/images/I/51jNKOmZCyL.jpg",
+      "productUrl": "https://www.amazon.in/Contains-Watermelon-Sunflower-Magnesium-Phosphorous/dp/B0GXVZ2TG4/ref=sr_1_108"
+    },
+    {
+      "sku": "JKE-IIYEQM2CKNLVGQSG",
+      "slug": "mother-harvest-mix-dry-fruit-premium-cashews-almonds",
+      "name": "Mother Harvest Mix Dry Fruit – Premium Cashews, Almonds,...",
+      "brand": "Mother Harvest",
+      "category": "Fasteners & Hardware",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/71DKIfglj0L.jpg | https://m.media-amazon.com/images/I/415jN5pDKZL.jpg | https://m.media-amazon.com/images/I/41xt6FAOoiL.jpg | https://m.media-amazon.com/images/I/412GSsDw5lL.jpg",
+      "productUrl": "https://www.amazon.in/Mother-Harvest-Mix-Fruit-Immunity-Boosting/dp/B0H3BSWSBF/ref=sr_1_102"
+    }
+  ]
+}

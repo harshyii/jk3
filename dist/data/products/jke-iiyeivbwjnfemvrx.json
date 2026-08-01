@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIVBWJNFEMVRX",
-  "title": "SECRET DESIRE™ Ratchet Wrench 5/16Inch 8Mm for Cars Multifunction Reversible Ratchet Wrench",
+  "title": "SECRET DESIRE™ Ratchet Wrench 5/16Inch 8Mm for Cars...",
   "brand": "Secret Desire",
-  "current_price": "₹1,160.00",
-  "mrp": "₹1,599",
+  "current_price": 1160,
+  "mrp": 1599,
   "product_url": "https://www.amazon.in/SECRET-DESIRETM-Ratchet-Multifunction-Reversible/dp/B0DT6KJFV7/ref=sr_1_209",
   "description": "SECRET DESIRE™ Ratchet Wrench 5/16Inch 8Mm for Cars Multifunction Reversible Ratchet Wrench - Distributed/Packaged by Secret Desire. Product Details: nan",
   "image_urls": [
@@ -26,21 +26,21 @@
   "image_url_7": "https://m.media-amazon.com/images/I/31TZqz6SB7L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41pigavXpZL.jpg",
   "specifications": {
-    "Number of Pieces": "‎1",
+    "Country of Origin": "‎Hong Kong",
     "Manufacturer": "‎ELYSSION DESIGNS PRIVATE LIMITED",
     "Item Type Name": "General",
+    "Finish Type": "‎Painted",
+    "Number of Pieces": "‎1",
+    "Item Part Number": "‎SECRET DESIRE52063781",
     "Color": "‎Multicolour",
     "Item Model Number": "‎SECRET DESIRE52063781",
-    "Item Part Number": "‎SECRET DESIRE52063781",
     "Primary material": "‎Wrench Is Made Of Steel Material",
-    "Finish Type": "‎Painted",
     "Capacity": "‎As per Decription",
-    "What is in the box?": "‎1 Side Terminal Battery Wrench",
-    "Country of Origin": "‎Hong Kong"
+    "What is in the box?": "‎1 Side Terminal Battery Wrench"
   },
   "SKU": "JKE-IIYEIVBWJNFEMVRX",
-  "Name": "SECRET DESIRE™ Ratchet Wrench 5/16Inch 8Mm for Cars Multifunction Reversible Ratchet Wrench",
-  "Slug": "secret-desire-ratchet-wrench-516inch-8mm-for-cars-multifunction-reversible-ratchet-wrench",
+  "Name": "SECRET DESIRE™ Ratchet Wrench 5/16Inch 8Mm for Cars...",
+  "Slug": "secret-desire-ratchet-wrench-516inch-8mm-for-cars",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31K0OfqQWaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51f6HaD6IYL.jpg | https://m.media-amazon.com/images/I/313HRkx+SIL.jpg | https://m.media-amazon.com/images/I/31iyIZPU-lL.jpg | https://m.media-amazon.com/images/I/31zbjHUmkUL.jpg | https://m.media-amazon.com/images/I/31cIu2UjgXL.jpg | https://m.media-amazon.com/images/I/31TZqz6SB7L.jpg | https://m.media-amazon.com/images/I/41pigavXpZL.jpg | https://m.media-amazon.com/images/I/31K0OfqQWaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,160.00",
+  "Discount": 27.45,
+  "SalePrice": 1160,
   "Country": "‎Hong Kong"
 }

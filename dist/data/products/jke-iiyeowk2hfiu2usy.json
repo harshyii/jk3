@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOWK2HFIU2USY",
-  "title": "Abham 12 in 1 Electrical Repair Home Hand Tool Kit with Screwdriver, Hammer, Measuring Tape, Wrenches, Cutter and Pliers, Hardware Storage Box",
+  "title": "Abham 12 in 1 Electrical Repair Home Hand Tool Kit with...",
   "brand": "Abham",
-  "current_price": "₹599.00",
-  "mrp": "₹999",
+  "current_price": 599,
+  "mrp": 999,
   "product_url": "https://www.amazon.in/Abham-Electrical-Tool-Kit-Screwdriver/dp/B0GYZ9QMRX/ref=sr_1_168",
   "description": "Abham 12 in 1 Electrical Repair Home Hand Tool Kit with Screwdriver, Hammer, Measuring Tape, Wrenches, Cutter and Pliers, Hardware Storage Box - Distributed/Packaged by Abham. Product Details: nan",
   "image_urls": [
@@ -23,16 +23,16 @@
   "image_url_6": "https://m.media-amazon.com/images/I/41TLHw9Z0gL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/41D9sLzbnwL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Abham",
     "Item Type Name": "General",
     "ASIN": "‎B0GYZ9QMRX",
     "Product Dimensions": "‎24 x 12 x 8 cm; 250 g",
-    "Item model number": "‎12-in-1 Tool Kit",
-    "Country of Origin": "‎India"
+    "Item model number": "‎12-in-1 Tool Kit"
   },
   "SKU": "JKE-IIYEOWK2HFIU2USY",
-  "Name": "Abham 12 in 1 Electrical Repair Home Hand Tool Kit with Screwdriver, Hammer, Measuring Tape, Wrenches, Cutter and Pliers, Hardware Storage Box",
-  "Slug": "abham-12-in-1-electrical-repair-home-hand-tool-kit-with-screwdriver-hammer-measuring-tape-wrenches-cutter-and-pliers-hardware-storage-box",
+  "Name": "Abham 12 in 1 Electrical Repair Home Hand Tool Kit with...",
+  "Slug": "abham-12-in-1-electrical-repair-home-hand-tool-kit-with",
   "Category": "Hand Tools",
   "Subcategory1": "Pliers & Grippers",
   "Images": [
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41D9sLzbnwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51U0aRFYB8L.jpg | https://m.media-amazon.com/images/I/51U0aRFYB8L.jpg | https://m.media-amazon.com/images/I/51hObktPhqL.jpg | https://m.media-amazon.com/images/I/519wmtbJtDL.jpg | https://m.media-amazon.com/images/I/5182oV4HBhL.jpg | https://m.media-amazon.com/images/I/41TLHw9Z0gL.jpg | https://m.media-amazon.com/images/I/41D9sLzbnwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹599.00",
+  "Discount": 40.04,
+  "SalePrice": 599,
   "Country": "‎India"
 }

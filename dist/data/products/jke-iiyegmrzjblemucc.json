@@ -2,8 +2,8 @@
   "asin": "JKE-IIYEGMRZJBLEMUCC",
   "title": "Xtra Power Electric Blower/Vacuum Cleaner XPT 541",
   "brand": "Generic",
-  "current_price": "₹2,799.00",
-  "mrp": "₹4,600",
+  "current_price": 2799,
+  "mrp": 4600,
   "product_url": "https://www.amazon.in/Power-Electric-Blower-Vacuum-Cleaner/dp/B0C29HVFPB/ref=sr_1_91",
   "description": "Xtra Power Electric Blower/Vacuum Cleaner XPT 541 - Distributed/Packaged by Generic. Product Details: Power Source Type : Double Insulation Electric Corded Brand : XTRA-POWER Colour : Red & Black No Load Speed : 16000 RPM Voltage : 220/ 240 V Frequency :50/ 60 Hz Air Volume : 3.8 M³/ Min Switch Lock Button : Yes Input Power : 800 Watts",
   "image_urls": [
@@ -19,16 +19,16 @@
   "image_url_4": "https://m.media-amazon.com/images/I/41sAJS9+LwL.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/31sj0O8xc+L.jpg",
   "specifications": {
-    "Country of Publication": "India",
     "Item Type Name": "General",
     "Best Sellers Rank": "#1,112,377 in Home & Kitchen (See Top 100 in Home & Kitchen)#856 inHandheld Vacuums",
     "ASIN": "B0C29HVFPB",
-    "Brand": "Generic",
     "Colour": "Black,Red",
-    "Power Source": "Corded Electric",
-    "Speed": "16000 RPM",
     "Product Features": "Electric",
+    "Power Source": "Corded Electric",
+    "Brand": "Generic",
+    "Speed": "16000 RPM",
     "Style": "Electric",
+    "Country of Publication": "India",
     "Form Factor": "Handheld"
   },
   "SKU": "JKE-IIYEGMRZJBLEMUCC",
@@ -44,8 +44,8 @@
     "https://m.media-amazon.com/images/I/31sj0O8xc+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ev-h96bnL.jpg | https://m.media-amazon.com/images/I/31+NLYYgGkL.jpg | https://m.media-amazon.com/images/I/41sAJS9+LwL.jpg | https://m.media-amazon.com/images/I/31sj0O8xc+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹2,799.00"
+  "Discount": 39.15,
+  "SalePrice": 2799
 }

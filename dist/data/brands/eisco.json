@@ -1,0 +1,26 @@
+{
+  "name": "Eisco",
+  "slug": "eisco",
+  "products": [
+    {
+      "sku": "JKE-IIYDOTBTK5GEGWSZ",
+      "slug": "eisco-groz-stainless-steel-ruler-30cm-precision-measuring",
+      "name": "EISCO GROZ Stainless Steel Ruler (30cm) Precision Measuring...",
+      "brand": "Eisco",
+      "category": "Measuring & Layout",
+      "price": 261,
+      "image": "https://m.media-amazon.com/images/I/61-qiGd3PKL.jpg | https://m.media-amazon.com/images/I/218YZWFN0gL.jpg | https://m.media-amazon.com/images/I/21PVMuXBGFL.jpg | https://m.media-amazon.com/images/I/31CDyRKYMzL.jpg | https://m.media-amazon.com/images/I/31Qo7aiocwL.jpg | https://m.media-amazon.com/images/I/317Rn7fPm7L.jpg | https://m.media-amazon.com/images/I/31j9APKrrwL.jpg | https://m.media-amazon.com/images/I/31Uxr-xJvmL.jpg",
+      "productUrl": "https://www.amazon.in/Eisco-Stainless-Precision-Horizontal-Engineering/dp/B07L3WLCZY/ref=sr_1_158"
+    },
+    {
+      "sku": "JKE-IIYDOTBYGREEYTBV",
+      "slug": "eisco-groz-stainless-steel-scale-ruler-horizontal",
+      "name": "EISCO - GROZ stainless steel scale (Ruler), horizontal...",
+      "brand": "Eisco",
+      "category": "Measuring & Layout",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/71UgazQySrL.jpg | https://m.media-amazon.com/images/I/312gMSNU2SL.jpg | https://m.media-amazon.com/images/I/315qpH0QOtL.jpg | https://m.media-amazon.com/images/I/31xH-+zFlAL.jpg | https://m.media-amazon.com/images/I/21pWeqpNL1L.jpg | https://m.media-amazon.com/images/I/2137qG4PTsL.jpg | https://m.media-amazon.com/images/I/31ZeG-FIQpL.jpg | https://m.media-amazon.com/images/I/21z5YrVakoL.jpg",
+      "productUrl": "https://www.amazon.in/EISCO-Stainless-Horizontal-Reading-Graduated/dp/B07L84HLL5/ref=sr_1_142"
+    }
+  ]
+}

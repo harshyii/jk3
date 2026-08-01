@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGTSHGZNDKTBW",
-  "title": "Fern MK27123 Microfiber Mop Refill - High-Performance Deep Cleaning Pad with Scrub Strips for Fern 48\" Mop Kits - Renew Your Cleaning Power!",
+  "title": "Fern MK27123 Microfiber Mop Refill - High-Performance Deep...",
   "brand": "Cal-Flor",
-  "current_price": "₹3,595.00",
-  "mrp": "₹4,999",
+  "current_price": 3595,
+  "mrp": 4999,
   "product_url": "https://www.amazon.in/Fern-MK27123-Microfiber-Refill-High-Performance/dp/B0CNG6Z5L6/ref=sr_1_31",
   "description": "Fern MK27123 Microfiber Mop Refill - High-Performance Deep Cleaning Pad with Scrub Strips for Fern 48\" Mop Kits - Renew Your Cleaning Power! - Distributed/Packaged by Cal-Flor. Product Details: Fern Microfiber Deep Cleaning Mop Pad with Scrub Strips - For use with Fern 48\" Mop Kits",
   "image_urls": [
@@ -21,20 +21,20 @@
   "image_url_5": "https://m.media-amazon.com/images/I/41IkopkUHIL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/41AsBHjKd4L.jpg",
   "specifications": {
+    "Country of Origin": "USA",
     "Manufacturer": "CalFlor",
-    "Item Weight": "0.15 Kilograms",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "MK27123",
     "ASIN": "B0CNG6Z5L6",
+    "Colour": "Green",
+    "Manufacturer Part Number": "MK27123",
+    "UPC": 50462271234,
     "Brand": "Cal-Flor",
     "Model number": "MK27123",
-    "Colour": "Green",
-    "UPC": 50462271234,
-    "Country of Origin": "USA"
+    "Item Weight": "0.15 Kilograms"
   },
   "SKU": "JKE-IIYEGTSHGZNDKTBW",
-  "Name": "Fern MK27123 Microfiber Mop Refill - High-Performance Deep Cleaning Pad with Scrub Strips for Fern 48\" Mop Kits - Renew Your Cleaning Power!",
-  "Slug": "fern-mk27123-microfiber-mop-refill-high-performance-deep-cleaning-pad-with-scrub-strips-for-fern-48-mop-kits-renew-your-cleaning-power",
+  "Name": "Fern MK27123 Microfiber Mop Refill - High-Performance Deep...",
+  "Slug": "fern-mk27123-microfiber-mop-refill-high-performance-deep",
   "Category": "General Hardware",
   "Subcategory1": "Hardware Kits",
   "Images": [
@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41AsBHjKd4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EYZ0e9v7L.jpg | https://m.media-amazon.com/images/I/31lHTRETH1L.jpg | https://m.media-amazon.com/images/I/41fZVcFexGL.jpg | https://m.media-amazon.com/images/I/41IkopkUHIL.jpg | https://m.media-amazon.com/images/I/41AsBHjKd4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹3,595.00",
+  "Discount": 28.09,
+  "SalePrice": 3595,
   "Country": "USA"
 }

@@ -1,0 +1,56 @@
+{
+  "name": "Creative Decker",
+  "slug": "creative-decker",
+  "products": [
+    {
+      "sku": "JKE-IIYEQQSRJUZFAQ22",
+      "slug": "kneeling-hanuman-statue-with-gada-11x7-cm-black-resin",
+      "name": "Kneeling Hanuman Statue with Gada | 11x7 cm Black Resin...",
+      "brand": "Creative Decker",
+      "category": "Storage & Organization",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/811J524bNhL.jpg | https://m.media-amazon.com/images/I/41e+34UStYL.jpg | https://m.media-amazon.com/images/I/512JQCRfH4L.jpg | https://m.media-amazon.com/images/I/51pPanzQhBL.jpg | https://m.media-amazon.com/images/I/51VWP+A74GL.jpg | https://m.media-amazon.com/images/I/51BO4HEAgVL.jpg | https://m.media-amazon.com/images/I/51CAKsoAAYL.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBQM2PCZ/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYEQQSRK5FUONSL",
+      "slug": "meditating-hanuman-statue-black-resin-idol-devotion",
+      "name": "Meditating Hanuman Statue | Black Resin Idol | Devotion...",
+      "brand": "Creative Decker",
+      "category": "General Hardware",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/81agBsRmBFL.jpg | https://m.media-amazon.com/images/I/41dAvcjc6vL.jpg | https://m.media-amazon.com/images/I/41v1cYomGeL.jpg | https://m.media-amazon.com/images/I/519FuZsRnQL.jpg | https://m.media-amazon.com/images/I/51EpEzRv-GL.jpg | https://m.media-amazon.com/images/I/51lvIsGmpPL.jpg | https://m.media-amazon.com/images/I/51S-dZGKb5L.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBQWKG6K/ref=sr_1_278"
+    },
+    {
+      "sku": "JKE-IIYEQQSRG4YTEM2T",
+      "slug": "praying-hanuman-statue-10x75-cm-black-resin-idol-",
+      "name": "Praying Hanuman Statue | 10x7.5 cm Black Resin Idol |...",
+      "brand": "Creative Decker",
+      "category": "General Hardware",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/81w1Sk89M6L.jpg | https://m.media-amazon.com/images/I/51+mFXAs+FL.jpg | https://m.media-amazon.com/images/I/41uLhIpv36L.jpg | https://m.media-amazon.com/images/I/51MdtxwuyGL.jpg | https://m.media-amazon.com/images/I/51-n38iog3L.jpg | https://m.media-amazon.com/images/I/410eszOEf2L.jpg | https://m.media-amazon.com/images/I/41E2ciZe0NL.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBQ7123S/ref=sr_1_281"
+    },
+    {
+      "sku": "JKE-IIYEQQSRJY3TSTSK",
+      "slug": "meditating-hanuman-statue-10x9-cm-black-red-resin-idol",
+      "name": "Meditating Hanuman Statue | 10x9 cm Black & Red Resin Idol...",
+      "brand": "Creative Decker",
+      "category": "General Hardware",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/810e0NohsZL.jpg | https://m.media-amazon.com/images/I/41IqcxZFK8L.jpg | https://m.media-amazon.com/images/I/41f+O9kUdCL.jpg | https://m.media-amazon.com/images/I/51H0-HOLQtL.jpg | https://m.media-amazon.com/images/I/51P2g5N4+9L.jpg | https://m.media-amazon.com/images/I/51Ns2iMW0wL.jpg | https://m.media-amazon.com/images/I/51on074w1LL.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBQN79NJ/ref=sr_1_279"
+    },
+    {
+      "sku": "JKE-IIYEQQSRJZCEIWKW",
+      "slug": "meditating-hanuman-statue-95x75-cm-polyresin-idol-",
+      "name": "Meditating Hanuman Statue | 9.5x7.5 cm Polyresin Idol |...",
+      "brand": "Creative Decker",
+      "category": "General Hardware",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/81vkO+Zkf2L.jpg | https://m.media-amazon.com/images/I/41107tkVA8L.jpg | https://m.media-amazon.com/images/I/51XsPtoKbpL.jpg | https://m.media-amazon.com/images/I/51nGjs3w0XL.jpg | https://m.media-amazon.com/images/I/41tXhEMyFzL.jpg | https://m.media-amazon.com/images/I/51onR8H5SYL.jpg | https://m.media-amazon.com/images/I/51mHCjr9EpL.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBQNDDYV/ref=sr_1_302"
+    }
+  ]
+}

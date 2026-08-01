@@ -1,0 +1,26 @@
+{
+  "name": "Zipperstop",
+  "slug": "zipperstop",
+  "products": [
+    {
+      "sku": "JKE-IIYDCTRSIE2DAUSR",
+      "slug": "50pcs-groz-beckert-industrial-sewing-machine-ballpoint",
+      "name": "50PCS GROZ-BECKERT INDUSTRIAL SEWING MACHINE BALLPOINT...",
+      "brand": "Zipperstop",
+      "category": "General Hardware",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/81Z7gxxHz0L.jpg | https://m.media-amazon.com/images/I/51Lq5z5rzKL.jpg | https://m.media-amazon.com/images/I/51Fq4yLs6XL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-BECKERT-INDUSTRIAL-MACHINE-BALLPOINT-NEEDLES/dp/B01N2A40RQ/ref=sr_1_300"
+    },
+    {
+      "sku": "JKE-IIYDAMSJJ42EUUBY",
+      "slug": "groz-beckert-gb-16x231-nm-9014-pack-of-10-needles",
+      "name": "Groz-Beckert GB 16X231 ~ Nm 90/14 (Pack of 10 Needles)",
+      "brand": "Zipperstop",
+      "category": "General Hardware",
+      "price": 3245.12,
+      "image": "https://m.media-amazon.com/images/I/41hCof7kJYL.jpg | https://m.media-amazon.com/images/I/41hCof7kJYL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Beckert-Nm-90-Pack-Needles/dp/B002IO4JP8/ref=sr_1_267"
+    }
+  ]
+}

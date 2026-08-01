@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIVBWJRLFSTKZ",
-  "title": "SECRET DESIRE™ Rubber Strap Wrench Flexible Hand Tool for Pipe Fittings Automotive Plumbing 8Inch",
+  "title": "SECRET DESIRE™ Rubber Strap Wrench Flexible Hand Tool for...",
   "brand": "Secret Desire",
-  "current_price": "₹1,258.00",
-  "mrp": "₹1,799",
+  "current_price": 1258,
+  "mrp": 1799,
   "product_url": "https://www.amazon.in/SECRET-DESIRETM-Flexible-Fittings-Automotive/dp/B0DT6LVYMY/ref=sr_1_183",
   "description": "SECRET DESIRE™ Rubber Strap Wrench Flexible Hand Tool for Pipe Fittings Automotive Plumbing 8Inch - Distributed/Packaged by Secret Desire. Product Details: nan",
   "image_urls": [
@@ -25,21 +25,21 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41vcqTxTBnL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41xfanENQlL.jpg",
   "specifications": {
-    "Number of Pieces": "‎1",
+    "Country of Origin": "‎Hong Kong",
     "Manufacturer": "‎ELYSSION DESIGNS PRIVATE LIMITED",
     "Item Type Name": "General",
+    "Finish Type": "‎Painted",
+    "Number of Pieces": "‎1",
+    "Item Part Number": "‎SECRET DESIRE73026755",
     "Color": "‎Multicolour",
     "Item Model Number": "‎SECRET DESIRE73026755",
-    "Item Part Number": "‎SECRET DESIRE73026755",
     "Primary material": "‎Rubber",
-    "Finish Type": "‎Painted",
     "Capacity": "‎As per Decription",
-    "What is in the box?": "‎1 Piece Strap Wrench",
-    "Country of Origin": "‎Hong Kong"
+    "What is in the box?": "‎1 Piece Strap Wrench"
   },
   "SKU": "JKE-IIYEIVBWJRLFSTKZ",
-  "Name": "SECRET DESIRE™ Rubber Strap Wrench Flexible Hand Tool for Pipe Fittings Automotive Plumbing 8Inch",
-  "Slug": "secret-desire-rubber-strap-wrench-flexible-hand-tool-for-pipe-fittings-automotive-plumbing-8inch",
+  "Name": "SECRET DESIRE™ Rubber Strap Wrench Flexible Hand Tool for...",
+  "Slug": "secret-desire-rubber-strap-wrench-flexible-hand-tool-for",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41xfanENQlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41b9eZ-EBDL.jpg | https://m.media-amazon.com/images/I/21XNz81b+tL.jpg | https://m.media-amazon.com/images/I/21CA4siGicL.jpg | https://m.media-amazon.com/images/I/21WD14gUN8L.jpg | https://m.media-amazon.com/images/I/21s6nqyt7qL.jpg | https://m.media-amazon.com/images/I/41vcqTxTBnL.jpg | https://m.media-amazon.com/images/I/41xfanENQlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,258.00",
+  "Discount": 30.07,
+  "SalePrice": 1258,
   "Country": "‎Hong Kong"
 }

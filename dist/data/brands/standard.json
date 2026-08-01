@@ -1,0 +1,36 @@
+{
+  "name": "Standard",
+  "slug": "standard",
+  "products": [
+    {
+      "sku": "JKE-IIYEMSCXJZIDMN2T",
+      "slug": "standard-htr-home-shield-cable-40-sqmm-fx-blue-90m",
+      "name": "Standard HTR HOME SHIELD CABLE 4.0 SQMM FX Blue 90M",
+      "brand": "Standard",
+      "category": "Electrical & Wiring",
+      "price": 7642,
+      "image": "https://m.media-amazon.com/images/I/71zWkxdEScL.jpg | https://m.media-amazon.com/images/I/513X7+mi-2L.jpg | https://m.media-amazon.com/images/I/51HWMtY-yoL.jpg | https://m.media-amazon.com/images/I/41SafAjHMFL.jpg",
+      "productUrl": "https://www.amazon.in/Standard-HOME-SHIELD-CABLE-SQMM/dp/B0FHWNP67S/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-IIYEMSCXIJBDQSSM",
+      "slug": "standard-htr-home-shield-cable-25-sqmm-fx-red-90m",
+      "name": "Standard HTR HOME SHIELD CABLE 2.5 SQMM FX Red 90M",
+      "brand": "Standard",
+      "category": "Electrical & Wiring",
+      "price": 5479,
+      "image": "https://m.media-amazon.com/images/I/71rBS0OtBQL.jpg | https://m.media-amazon.com/images/I/51L2pE4203L.jpg | https://m.media-amazon.com/images/I/51HWMtY-yoL.jpg | https://m.media-amazon.com/images/I/41H7Dpj-M5L.jpg",
+      "productUrl": "https://www.amazon.in/Standard-HOME-SHIELD-CABLE-SQMM/dp/B0FHWBB8JL/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-IIYEMSCXJVFFCSCM",
+      "slug": "standard-htr-home-shield-cable-15-sqmm-fx-blue-90m",
+      "name": "Standard HTR HOME SHIELD CABLE 1.5 SQMM FX Blue 90M",
+      "brand": "Standard",
+      "category": "Electrical & Wiring",
+      "price": 2832,
+      "image": "https://m.media-amazon.com/images/I/71zWkxdEScL.jpg | https://m.media-amazon.com/images/I/513X7+mi-2L.jpg | https://m.media-amazon.com/images/I/51HWMtY-yoL.jpg | https://m.media-amazon.com/images/I/41SafAjHMFL.jpg",
+      "productUrl": "https://www.amazon.in/Standard-HOME-SHIELD-CABLE-SQMM/dp/B0FHWMJQHL/ref=sr_1_50"
+    }
+  ]
+}

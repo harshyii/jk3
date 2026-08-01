@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDQUCXGM3EMWCI",
   "title": "Sharmayu Dashmoolarishta Supreme, 450 ml",
   "brand": "Sharmayu",
-  "current_price": "₹249.00",
-  "mrp": "₹275",
+  "current_price": 249,
+  "mrp": 275,
   "product_url": "https://www.amazon.in/Sharmayu-Dashmoolarishta-Supreme-450-ml/dp/B08PW36FXH/ref=sr_1_46",
   "description": "Sharmayu Dashmoolarishta Supreme, 450 ml - Distributed/Packaged by Sharmayu. Product Details: Dashmoolarishta Supreme contains precious Herbs like Ashwagandha, Chavay, Nagakeshara, Shatavari and Munakka Due to these herbs it becomes more powerful nutritive tonic for men and women. It has the power to renew strength, helps to remove general debility especially for women after delivery.",
   "image_urls": [
@@ -39,8 +39,8 @@
     "https://m.media-amazon.com/images/I/41c2+HHvwWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sI9kj7uAL.jpg | https://m.media-amazon.com/images/I/41Dhd9Hd9dL.jpg | https://m.media-amazon.com/images/I/41eT6CE5zcL.jpg | https://m.media-amazon.com/images/I/41d9aphzeQL.jpg | https://m.media-amazon.com/images/I/41c2+HHvwWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹249.00"
+  "Discount": 9.45,
+  "SalePrice": 249
 }

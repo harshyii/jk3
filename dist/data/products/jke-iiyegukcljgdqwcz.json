@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGUKCLJGDQWCZ",
-  "title": "FTE SAWA inch Power Hacksaw/High speed Band Saw Spare Metal Blade 6TPI (450 X 32 X 1.60 mm, Orange) 18 x 1.25 inch",
+  "title": "FTE SAWA inch Power Hacksaw/High speed Band Saw Spare Metal...",
   "brand": "Fte",
-  "current_price": "₹699.00",
-  "mrp": "₹850",
+  "current_price": 699,
+  "mrp": 850,
   "product_url": "https://www.amazon.in/FTE-Power-Hacksaw-speed-Orange/dp/B0CQBZL8XY/ref=sr_1_258",
   "description": "FTE SAWA inch Power Hacksaw/High speed Band Saw Spare Metal Blade 6TPI (450 X 32 X 1.60 mm, Orange) 18 x 1.25 inch - Distributed/Packaged by Fte. Product Details: nan",
   "image_urls": [
@@ -19,26 +19,26 @@
   "image_url_4": "https://m.media-amazon.com/images/I/319LHH79ZXL.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/41ndJsiMGlL.jpg",
   "specifications": {
-    "Material Type": "High Speed Steel",
     "Brand Name": "FTE",
-    "Unit Count": "1 Count",
+    "Country of Origin": "India",
     "Manufacturer": "Merinda",
-    "Included Components": "SAW",
     "Item Type Name": "General",
     "Best Sellers Rank": "#28,733 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#3 inBand Saw Blades",
     "ASIN": "B0CQBZL8XY",
     "Colour": "Orange",
-    "Set Name": "False",
-    "Country of Origin": "India",
-    "Number of Teeth": 6,
+    "Compatible Devices": "Hacksaws, High-speed Band Saws",
+    "Unit Count": "1 Count",
+    "Included Components": "SAW",
     "Style Name": "Classic",
+    "Material Type": "High Speed Steel",
     "Part Number": "FTE00254",
+    "Set Name": "False",
     "Compatible Material": "Metal",
-    "Compatible Devices": "Hacksaws, High-speed Band Saws"
+    "Number of Teeth": 6
   },
   "SKU": "JKE-IIYEGUKCLJGDQWCZ",
-  "Name": "FTE SAWA inch Power Hacksaw/High speed Band Saw Spare Metal Blade 6TPI (450 X 32 X 1.60 mm, Orange) 18 x 1.25 inch",
-  "Slug": "fte-sawa-inch-power-hacksawhigh-speed-band-saw-spare-metal-blade-6tpi-450-x-32-x-160-mm-orange-18-x-125-inch",
+  "Name": "FTE SAWA inch Power Hacksaw/High speed Band Saw Spare Metal...",
+  "Slug": "fte-sawa-inch-power-hacksawhigh-speed-band-saw-spare-metal",
   "Category": "Power Tools",
   "Subcategory1": "Saws & Cutters",
   "Images": [
@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41ndJsiMGlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31+vw71Ba-L.jpg | https://m.media-amazon.com/images/I/31+vw71Ba-L.jpg | https://m.media-amazon.com/images/I/316O0AzuIwL.jpg | https://m.media-amazon.com/images/I/319LHH79ZXL.jpg | https://m.media-amazon.com/images/I/41ndJsiMGlL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹699.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 17.76,
+  "SalePrice": 699,
   "Country": "India"
 }

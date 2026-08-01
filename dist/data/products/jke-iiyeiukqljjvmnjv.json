@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIUKQLJJVMNJV",
-  "title": "Eastman 10/25mm Double Color Water Pump Pliers - Alloy Steel, Box-Joint Type Design, Self-Locking, 7 Adjustment Positions, Black Powder Coating Jaws Tools (E-2030A & D)",
+  "title": "Eastman 10/25mm Double Color Water Pump Pliers - Alloy...",
   "brand": "Eastman",
-  "current_price": "₹276.00",
-  "mrp": "₹304",
+  "current_price": 276,
+  "mrp": 304,
   "product_url": "https://www.amazon.in/Eastman-Double-Color-Pliers-2030A/dp/B0DQPZSV55/ref=sr_1_57",
   "description": "Eastman 10/25mm Double Color Water Pump Pliers - Alloy Steel, Box-Joint Type Design, Self-Locking, 7 Adjustment Positions, Black Powder Coating Jaws Tools (E-2030A & D) - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -32,8 +32,8 @@
     "Item model number": "‎WPP-01DC"
   },
   "SKU": "JKE-IIYEIUKQLJJVMNJV",
-  "Name": "Eastman 10/25mm Double Color Water Pump Pliers - Alloy Steel, Box-Joint Type Design, Self-Locking, 7 Adjustment Positions, Black Powder Coating Jaws Tools (E-2030A & D)",
-  "Slug": "eastman-1025mm-double-color-water-pump-pliers-alloy-steel-box-joint-type-design-self-locking-7-adjustment-positions-black-powder-coating-jaws-tools-e-2030a-d",
+  "Name": "Eastman 10/25mm Double Color Water Pump Pliers - Alloy...",
+  "Slug": "eastman-1025mm-double-color-water-pump-pliers-alloy",
   "Category": "Hand Tools",
   "Subcategory1": "Pliers & Grippers",
   "Images": [
@@ -47,8 +47,8 @@
     "https://m.media-amazon.com/images/I/41OIBDMgepL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51iIrgiqa0L.jpg | https://m.media-amazon.com/images/I/31c2CVHPhtL.jpg | https://m.media-amazon.com/images/I/512OgwIInBL.jpg | https://m.media-amazon.com/images/I/41dH6+eciIL.jpg | https://m.media-amazon.com/images/I/41tfCw-kmIL.jpg | https://m.media-amazon.com/images/I/41KPpRmsb7L.jpg | https://m.media-amazon.com/images/I/41OIBDMgepL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹276.00"
+  "Discount": 9.21,
+  "SalePrice": 276
 }

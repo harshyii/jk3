@@ -1,0 +1,166 @@
+{
+  "name": "Boat",
+  "slug": "boat",
+  "products": [
+    {
+      "sku": "JKE-IIYEMN2ZGY3UMNSD",
+      "slug": "boat-rockerz-113-40h-battery-dual-pair-fast-charge-enx",
+      "name": "boAt Rockerz 113, 40H Battery, Dual Pair, Fast Charge, ENx...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61FSJbnM3rL.jpg | https://m.media-amazon.com/images/I/31M8wFNDQKL.jpg | https://m.media-amazon.com/images/I/61HcROpcW0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41oTxMGlUBL.jpg | https://m.media-amazon.com/images/I/41cSTzHBaSL.jpg | https://m.media-amazon.com/images/I/412lRK6+MbL.jpg | https://m.media-amazon.com/images/I/41G06FM0USL.jpg | https://m.media-amazon.com/images/I/41Ec3rlRbcL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Rockerz-Magnetic-Bluetooth-Earphones/dp/B0F7Y67F6C/ref=sr_1_235"
+    },
+    {
+      "sku": "JKE-IIYDQVCULBHFUNCZ",
+      "slug": "boat-rockerz-255-pro-60h-battery-fast-charge-ipx7-dual",
+      "name": "boAt Rockerz 255 Pro+, 60H Battery, Fast Charge, IPX7, Dual...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/61HZLDc2ykL.jpg | https://m.media-amazon.com/images/I/41lk9rn1q-L.jpg | https://m.media-amazon.com/images/I/61PnSWfseaL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41vlUFDDbML.jpg | https://m.media-amazon.com/images/I/41DHgRXGWkL.jpg | https://m.media-amazon.com/images/I/41movEfrmCL.jpg | https://m.media-amazon.com/images/I/51Y5x3M6THL.jpg | https://m.media-amazon.com/images/I/418SJXfHKZL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Rockerz-255-Pro-Earphones/dp/B08TTXNZ4Y/ref=sr_1_237"
+    },
+    {
+      "sku": "JKE-IIYEMUBZIZGEEUSW",
+      "slug": "boat-nirvana-ion-anc-pro-hi-res-audio-ldacanc32db",
+      "name": "boAt Nirvana Ion ANC Pro, Hi-Res Audio LDAC,ANC(~32dB),...",
+      "brand": "Boat",
+      "category": "Electrical & Wiring",
+      "price": 2299,
+      "image": "https://m.media-amazon.com/images/I/71agbzyj6sL.jpg | https://m.media-amazon.com/images/I/41en2PCcNFL.jpg | https://m.media-amazon.com/images/I/61ulQ9qteJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41d1lsEa6LL.jpg | https://m.media-amazon.com/images/I/416BgxuTHTL.jpg | https://m.media-amazon.com/images/I/41U0ZsP7vTL.jpg | https://m.media-amazon.com/images/I/415Isk1y+jL.jpg | https://m.media-amazon.com/images/I/41uUf0f5gqL.jpg",
+      "productUrl": "https://www.amazon.in/Nirvana-Battery-Bluetooth-Wireless-Earphones/dp/B0FP9FLBRV/ref=sr_1_268"
+    },
+    {
+      "sku": "JKE-IIYEMTJTHBGVEV2M",
+      "slug": "boat-rockerz-371-40mm-drivers-50hrs-battery-60ms-low",
+      "name": "boAt Rockerz 371, 40mm Drivers, 50hrs Battery, 60ms Low...",
+      "brand": "Boat",
+      "category": "Measuring & Layout",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/61j9YVOfAzL.jpg | https://m.media-amazon.com/images/I/41V4q9tBWUL.jpg | https://m.media-amazon.com/images/I/51mCgd6mecL.jpg | https://m.media-amazon.com/images/I/41zb7BDhRuL.jpg | https://m.media-amazon.com/images/I/51SJDvCAsuL.jpg | https://m.media-amazon.com/images/I/51B8mEexMdL.jpg | https://m.media-amazon.com/images/I/41nlFlq80sL.jpg | https://m.media-amazon.com/images/I/41LnfljkbnL.jpg",
+      "productUrl": "https://www.amazon.in/Foldable-Assistant-Bluetooth-Headphones-Headphone/dp/B0FM38MRWL/ref=sr_1_264"
+    },
+    {
+      "sku": "JKE-IIYEOWSOGJGTOVBX",
+      "slug": "boat-2026-launch-airdopes-joy-v2-35h-battery-pocketable",
+      "name": "boAt 2026 Launch Airdopes Joy v2, 35H Battery, Pocketable...",
+      "brand": "Boat",
+      "category": "Storage & Organization",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/51AVLHZpfWL.jpg | https://m.media-amazon.com/images/I/311dJQkkKYL.jpg | https://m.media-amazon.com/images/I/41Pj6b-W8lL.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/41EpvVDufWL.jpg | https://m.media-amazon.com/images/I/41T5-ngMwGL.jpg | https://m.media-amazon.com/images/I/41uRCRXK-zL.jpg | https://m.media-amazon.com/images/I/41Vts0W-76L.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Airdopes-Pocketable-Controls-Bluetooth/dp/B0GZN2M7T7/ref=sr_1_281"
+    },
+    {
+      "sku": "JKE-IIYEMSCIGZGUUOJS",
+      "slug": "boat-airdopes-prime-513-anc-32db-active-noise",
+      "name": "boAt Airdopes Prime 513 ANC, ~32dB Active Noise...",
+      "brand": "Boat",
+      "category": "Measuring & Layout",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71ZvJh3EwLL.jpg | https://m.media-amazon.com/images/I/41Lq7H5FUKL.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/51t86wDs5oL.jpg | https://m.media-amazon.com/images/I/41IXvbusbnL.jpg | https://m.media-amazon.com/images/I/41iRvWTd+sL.jpg | https://m.media-amazon.com/images/I/41rtIVvSSHL.jpg | https://m.media-amazon.com/images/I/51VjaW4tYoL.jpg",
+      "productUrl": "https://www.amazon.in/Cancellation-Multipoint-Connectivity-Bluetooth-Earphones/dp/B0FHH6MJ92/ref=sr_1_289"
+    },
+    {
+      "sku": "JKE-IIYEIMZRKFJTSUSI",
+      "slug": "boat-airdopes-ultra-plus-50-h-battery-4mics-enx-asap",
+      "name": "Boat Airdopes Ultra Plus, 50 H Battery, 4Mics ENx, ASAP...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/614HNvTD3LL.jpg | https://m.media-amazon.com/images/I/41JD-2zli9L.jpg | https://m.media-amazon.com/images/I/51jwd1niRJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41UcMmae6+L.jpg | https://m.media-amazon.com/images/I/41L++iIQj3L.jpg | https://m.media-amazon.com/images/I/41AF6uD3j2L.jpg | https://m.media-amazon.com/images/I/41MrguxasHL.jpg | https://m.media-amazon.com/images/I/41gy7X2qIvL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Airdopes-Ultra-Plus-Technology/dp/B0D31QS9RH/ref=sr_1_283"
+    },
+    {
+      "sku": "JKE-IIYEGRRVKFDEQNZX",
+      "slug": "boat-nirvana-ion-anc-active-noise-cancellation32db",
+      "name": "boAt Nirvana Ion ANC, Active Noise Cancellation(~32dB),...",
+      "brand": "Boat",
+      "category": "Electrical & Wiring",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/71HIRo7xwHL.jpg | https://m.media-amazon.com/images/I/41vpNk00ShL.jpg | https://m.media-amazon.com/images/I/71W-c4ew0GL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/410so59OWnL.jpg | https://m.media-amazon.com/images/I/51hAmVQxsEL.jpg | https://m.media-amazon.com/images/I/41PB3IrFR1L.jpg | https://m.media-amazon.com/images/I/41GcDGTv8WL.jpg | https://m.media-amazon.com/images/I/41AzqWyCfCL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Nirvana-Ion-ANC-Cancellation/dp/B0CF5QFH77/ref=sr_1_238"
+    },
+    {
+      "sku": "JKE-IIYEIR2UKQ2VIMST",
+      "slug": "boat-rockerz-551-anc-pro42db-hybrid-adaptiveapp",
+      "name": "boAt Rockerz 551 ANC Pro,42Db Hybrid Adaptive,App...",
+      "brand": "Boat",
+      "category": "Electrical & Wiring",
+      "price": 3299,
+      "image": "https://m.media-amazon.com/images/I/61NDzUGjoOL.jpg | https://m.media-amazon.com/images/I/41OaF2yGb3L.jpg | https://m.media-amazon.com/images/I/51qvckgncpL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51Vqhrn+XgL.jpg | https://m.media-amazon.com/images/I/41K0nt7eqaL.jpg | https://m.media-amazon.com/images/I/51Q0fEMpwTL.jpg | https://m.media-amazon.com/images/I/41S9QME0RwL.jpg | https://m.media-amazon.com/images/I/51Ul6Fg8c5L.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Rockerz-551-ANC-Pro/dp/B0DGTT5T2S/ref=sr_1_304"
+    },
+    {
+      "sku": "JKE-IIYEMTCRHFJUESCS",
+      "slug": "boat-2025-launch-airdopes-prime-413-4mics-enx-50hrs",
+      "name": "boAt 2025 Launch Airdopes Prime 413, 4Mics ENx, 50hrs...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 1399,
+      "image": "https://m.media-amazon.com/images/I/61buIhgXSAL.jpg | https://m.media-amazon.com/images/I/41FP03tDySL.jpg | https://m.media-amazon.com/images/I/51WdXdJf83L.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/41FypQ52kmL.jpg | https://m.media-amazon.com/images/I/412GdaHKntL.jpg | https://m.media-amazon.com/images/I/413hVwwoJpL.jpg | https://m.media-amazon.com/images/I/41RsHwY1-wL.jpg",
+      "productUrl": "https://www.amazon.in/Airdopes-Multipoint-Bluetooth-Wireless-Earphones/dp/B0FLQ9SBHR/ref=sr_1_226"
+    },
+    {
+      "sku": "JKE-IIYEOMKNKNFEEOJU",
+      "slug": "boat-storm-infinity-plus-w20-days-extensive-battery-life",
+      "name": "Boat Storm Infinity Plus w/20 Days Extensive Battery Life,...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71jnQHJg8NL.jpg | https://m.media-amazon.com/images/I/51E2KqjPeFL.jpg | https://m.media-amazon.com/images/I/51TPQ7GNrhL.jpg | https://m.media-amazon.com/images/I/51ngRKlbYeL.jpg | https://m.media-amazon.com/images/I/41Cziwl35BL.jpg | https://m.media-amazon.com/images/I/41MkhxwOVqL.jpg | https://m.media-amazon.com/images/I/41p8tnPLfoL.jpg | https://m.media-amazon.com/images/I/41wvllGRrPL.jpg",
+      "productUrl": "https://www.amazon.in/Infinity-Extensive-Battery-Functional-Multiple/dp/B0G1MSJB94/ref=sr_1_194"
+    },
+    {
+      "sku": "JKE-IIYEOWCCJIZTMNJY",
+      "slug": "boat-2026-launch-airdopes-plus-222-with-immersive-spatial",
+      "name": "boAt 2026 Launch Airdopes Plus 222 with Immersive Spatial...",
+      "brand": "Boat",
+      "category": "Measuring & Layout",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/51EGdVSLXgL.jpg | https://m.media-amazon.com/images/I/319fGBaagKL.jpg | https://m.media-amazon.com/images/I/415slk5UgjL.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/41xgSTcuN+L.jpg | https://m.media-amazon.com/images/I/31d-VwD+sKL.jpg | https://m.media-amazon.com/images/I/31dc3ooTY2L.jpg | https://m.media-amazon.com/images/I/41TYCknPaIL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Airdopes-Immersive-Hearables-Assistant/dp/B0GXBJ3658/ref=sr_1_245"
+    },
+    {
+      "sku": "JKE-IIYEOWCCGJLEEMSO",
+      "slug": "boat-2026-launch-rockerz-plus-450-anc-w-40db-hybrid-anc",
+      "name": "boAt (2026 Launch Rockerz Plus 450 ANC w/ 40dB Hybrid ANC,...",
+      "brand": "Boat",
+      "category": "Measuring & Layout",
+      "price": 3099,
+      "image": "https://m.media-amazon.com/images/I/61SrLY-Zi6L.jpg | https://m.media-amazon.com/images/I/313Bwdz8A-L.jpg | https://m.media-amazon.com/images/I/51Pt6oNmXtL.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/41z52-iH2-L.jpg | https://m.media-amazon.com/images/I/411mfqEJmSL.jpg | https://m.media-amazon.com/images/I/41r2vGOYeUL.jpg | https://m.media-amazon.com/images/I/41wWjoj5TqL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Rockerz-Assistant-Wireless-Headphones/dp/B0GXB2VB2N/ref=sr_1_265"
+    },
+    {
+      "sku": "JKE-IIYEMNKCIRFEONCD",
+      "slug": "boat-airdopes-141-elite-anc-anc35db-4mics-enx-tech",
+      "name": "boAt Airdopes 141 Elite ANC, ANC(~35dB), 4Mics ENx Tech,...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 1598,
+      "image": "https://m.media-amazon.com/images/I/612177lPpJL.jpg | https://m.media-amazon.com/images/I/419m9ep4yXL.jpg | https://m.media-amazon.com/images/I/51dbhJ4xuxL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41vlUFDDbML.jpg | https://m.media-amazon.com/images/I/51vMU0AxB5L.jpg | https://m.media-amazon.com/images/I/41mFgV-z72L.jpg | https://m.media-amazon.com/images/I/6168sHjq-SL.jpg | https://m.media-amazon.com/images/I/513KWTeX+PL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Airdopes-Bluetooth-Wireless-Earphones/dp/B0F5BDJG4C/ref=sr_1_257"
+    },
+    {
+      "sku": "JKE-IIYEMQZSLEZVQR2W",
+      "slug": "boat-airdopes-219-4mics-enx-40h-battery-best-in-segment",
+      "name": "boAt Airdopes 219, 4Mics ENx, 40H Battery, Best in Segment...",
+      "brand": "Boat",
+      "category": "Fasteners & Hardware",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/71FOccCOQmL.jpg | https://m.media-amazon.com/images/I/41sNUnG8CRL.jpg | https://m.media-amazon.com/images/I/61fTJCFwlzL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41vlUFDDbML.jpg | https://m.media-amazon.com/images/I/51DYQTxmqKL.jpg | https://m.media-amazon.com/images/I/41+djyZTSWL.jpg | https://m.media-amazon.com/images/I/41PVjRcifuL.jpg | https://m.media-amazon.com/images/I/41szDvosFPL.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Airdopes-Bluetooth-Wireless-Earphones/dp/B0FC2Y3XGV/ref=sr_1_234"
+    },
+    {
+      "sku": "JKE-IIYEMTKSJU4E4V2O",
+      "slug": "boat-type-a-to-c-65w-fast-charging-cable-with-480-mbps-data",
+      "name": "boAt Type A to C 65W Fast Charging Cable with 480 Mbps Data...",
+      "brand": "Boat",
+      "category": "Electrical & Wiring",
+      "price": 219,
+      "image": "https://m.media-amazon.com/images/I/71dOqChCAGL.jpg | https://m.media-amazon.com/images/I/31R5EEY-d5L.jpg | https://m.media-amazon.com/images/I/71CntEljaXL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41yo25-KliL.jpg | https://m.media-amazon.com/images/I/41HQpLz2+aL.jpg | https://m.media-amazon.com/images/I/41HhcHnMQnL.jpg | https://m.media-amazon.com/images/I/41Wapp93b6L.jpg | https://m.media-amazon.com/images/I/41opDRxCw0L.jpg",
+      "productUrl": "https://www.amazon.in/boAt-Charging-Transfer-Tangle-Free-Aluminium/dp/B0FMRM8NWN/ref=sr_1_125"
+    }
+  ]
+}

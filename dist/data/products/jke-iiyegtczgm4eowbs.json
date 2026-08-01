@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEGTCZGM4EOWBS",
-  "title": "Wasserstein Solar Panel (2W 5V) Compatible with Wyze Cam Pro - Continuous Power for Your Surveillance Camera (White) (Camera NOT Included)",
+  "title": "Wasserstein Solar Panel (2W 5V) Compatible with Wyze Cam...",
   "brand": "Wasserstein",
-  "current_price": "₹4,686.00",
+  "current_price": 4686,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Wasserstein-Solar-Panel-Compatible-Battery/dp/B0CLY38GX2/ref=sr_1_95",
   "rating": "4.54.5 out of 5 stars(64)4.5 out of 5 stars",
@@ -24,24 +24,24 @@
   "image_url_6": "https://m.media-amazon.com/images/I/41kdYhqK2wL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/31pwNFFq7cL.jpg",
   "specifications": {
-    "Material Type": "Tempered Glass, Monocrystalline Silicon (or Polycrystalline Silicon), PVC, Aluminium",
     "Brand Name": "Wasserstein",
     "Model Number": "WZSLPBattProWHTUS",
-    "Unit Count": "1 Count",
     "Manufacturer": "Wasserstein",
-    "Included Components": "13 ft cable",
-    "Item Weight": "0.48 Kilograms",
     "Item Type Name": "General",
     "ASIN": "B0CLY38GX2",
     "Customer Reviews": "4.54.5 out of 5 stars(64)4.5 out of 5 stars",
-    "Manufacturer Warranty Description": "No Warranty",
-    "Maximum Power": "2 Watts",
+    "Unit Count": "1 Count",
+    "Included Components": "13 ft cable",
+    "Item Weight": "0.48 Kilograms",
     "Special Features": "Weatherproof Design, Efficient Solar Cells",
-    "Output Voltage": "5 Volts"
+    "Material Type": "Tempered Glass, Monocrystalline Silicon (or Polycrystalline Silicon), PVC, Aluminium",
+    "Manufacturer Warranty Description": "No Warranty",
+    "Output Voltage": "5 Volts",
+    "Maximum Power": "2 Watts"
   },
   "SKU": "JKE-IIYEGTCZGM4EOWBS",
-  "Name": "Wasserstein Solar Panel (2W 5V) Compatible with Wyze Cam Pro - Continuous Power for Your Surveillance Camera (White) (Camera NOT Included)",
-  "Slug": "wasserstein-solar-panel-2w-5v-compatible-with-wyze-cam-pro-continuous-power-for-your-surveillance-camera-white-camera-not-included",
+  "Name": "Wasserstein Solar Panel (2W 5V) Compatible with Wyze Cam...",
+  "Slug": "wasserstein-solar-panel-2w-5v-compatible-with-wyze-cam",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "General Fasteners",
   "Images": [
@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31pwNFFq7cL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61w610oF5aL.jpg | https://m.media-amazon.com/images/I/21oUgQbanKL.jpg | https://m.media-amazon.com/images/I/51U5PjuSSQL.jpg | https://m.media-amazon.com/images/I/51sNUT-8+9L.jpg | https://m.media-amazon.com/images/I/41kdYhqK2wL.jpg | https://m.media-amazon.com/images/I/31pwNFFq7cL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹4,686.00",
+  "SalePrice": 4686,
   "Model": "WZSLPBattProWHTUS"
 }

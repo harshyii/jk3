@@ -6,5 +6,26 @@
   "description": "Explore Mothers car polishes, mag & aluminum polishes, and exterior detailing sprays.",
   "seoTitle": "Mothers Car Care Products | Haryana.Tools",
   "metaDescription": "Find Mothers automotive cleaning compounds, polishes, and interior car care items.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-IIYDAMBSKUYVIVSX",
+      "slug": "mothers-05500-california-gold-brazilian-carnauba-cleaner",
+      "name": "Mothers 05500 California Gold Brazilian Carnauba Cleaner...",
+      "brand": "Mothers",
+      "category": "Power Tools",
+      "price": 2276,
+      "image": "https://m.media-amazon.com/images/I/71DjY9rb8tL.jpg | https://m.media-amazon.com/images/I/51ZxqOC6l6L.jpg | https://m.media-amazon.com/images/I/511+CKt4B2L.jpg | https://m.media-amazon.com/images/I/51QZU0KxO0L.jpg | https://m.media-amazon.com/images/I/51AkB2k4ZSL.jpg | https://m.media-amazon.com/images/I/513EIWSbXaL.jpg | https://m.media-amazon.com/images/I/41SebtDAs1L.jpg | https://m.media-amazon.com/images/I/51EeGFvYtRL.jpg",
+      "productUrl": "https://www.amazon.in/MOTHERS-POLISH-California-Brazilian-Carnauba/dp/B0002U1TVW/ref=sr_1_129"
+    },
+    {
+      "sku": "JKE-IIYDAMBWHBDUKSSN",
+      "slug": "mothers-05100-5-oz-mag-aluminum-polish",
+      "name": "Mothers 05100 5 Oz Mag & Aluminum Polish",
+      "brand": "Mothers",
+      "category": "Power Tools",
+      "price": 1385,
+      "image": "https://m.media-amazon.com/images/I/614CVCWPrDL.jpg | https://m.media-amazon.com/images/I/41aq1+p7cEL.jpg | https://m.media-amazon.com/images/I/51pGfRuYdwL.jpg | https://m.media-amazon.com/images/I/51uObNo57RL.jpg | https://m.media-amazon.com/images/I/41-vMUYemKL.jpg | https://m.media-amazon.com/images/I/514yCF8NreL.jpg | https://m.media-amazon.com/images/I/41nAj9RaOYL.jpg | https://m.media-amazon.com/images/I/51bVTiEY63L.jpg",
+      "productUrl": "https://www.amazon.in/MOTHERS-05100/dp/B00068GEJM/ref=sr_1_49"
+    }
+  ]
 }

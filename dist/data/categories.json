@@ -2,14 +2,14 @@
   {
     "name": "Power Tools",
     "slug": "power-tools",
-    "count": 449,
+    "count": 3147,
     "image": "https://images.unsplash.com/vector-1738926430795-3fe593ff63af?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": true
   },
   {
     "name": "Hand Tools",
     "slug": "hand-tools",
-    "count": 611,
+    "count": 1926,
     "image": "https://images.unsplash.com/vector-1777988015390-a1cbdf709026?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": true
   },
@@ -63,73 +63,73 @@
     "featured": true
   },
   {
-    "name": "Measuring & Layout",
-    "slug": "measuring-layout",
-    "count": 316,
-    "image": "https://m.media-amazon.com/images/I/61xRSvOi07L.jpg | https://m.media-amazon.com/images/I/31ht9ggFyaL.jpg | https://m.media-amazon.com/images/I/31aXTINK3BL.jpg | https://m.media-amazon.com/images/I/31oUGcCKiSL.jpg | https://m.media-amazon.com/images/I/31pJY3NKExL.jpg | https://m.media-amazon.com/images/I/31xlqO77qWL.jpg",
-    "featured": false
-  },
-  {
     "name": "Fasteners & Hardware",
     "slug": "fasteners-hardware",
-    "count": 104,
-    "image": "https://m.media-amazon.com/images/I/41wH3OJGdXL.jpg | https://m.media-amazon.com/images/I/31Q61W6K45L.jpg | https://m.media-amazon.com/images/I/51HzgUSLtsL.jpg | https://m.media-amazon.com/images/I/41mP7MlnApL.jpg | https://m.media-amazon.com/images/I/415Hk535IxL.jpg | https://m.media-amazon.com/images/I/41JlJgbNC2L.jpg | https://m.media-amazon.com/images/I/41M9Ab0XkDL.jpg | https://m.media-amazon.com/images/I/31z6d5LcUkL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Garden & Outdoor",
-    "slug": "garden-outdoor",
-    "count": 17,
-    "image": "https://m.media-amazon.com/images/I/61534NvnN-L.jpg | https://m.media-amazon.com/images/I/51RkcUzpuHL.jpg | https://m.media-amazon.com/images/I/41eI8rWDd0L.jpg | https://m.media-amazon.com/images/I/51JOHYYVbmL.jpg | https://m.media-amazon.com/images/I/51+D62zJGSL.jpg | https://m.media-amazon.com/images/I/51Z6+RucM8L.jpg | https://m.media-amazon.com/images/I/41iCifA+Z5L.jpg",
-    "featured": false
-  },
-  {
-    "name": "General Hardware",
-    "slug": "general-hardware",
-    "count": 338,
-    "image": "https://m.media-amazon.com/images/I/61x2augC2dL.jpg | https://m.media-amazon.com/images/I/31kqxfNWGWL.jpg | https://m.media-amazon.com/images/I/31wlFLGARbL.jpg | https://m.media-amazon.com/images/I/31Sv8EbbVFL.jpg | https://m.media-amazon.com/images/I/31DtQ-4GibL.jpg | https://m.media-amazon.com/images/I/41lH5QuR--L.jpg | https://m.media-amazon.com/images/I/51irD3ar0IL.jpg | https://m.media-amazon.com/images/I/31VulLY2KWL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Abrasives & Finishing",
-    "slug": "abrasives-finishing",
-    "count": 39,
-    "image": "https://m.media-amazon.com/images/I/31ntz8iFd7L.jpg | https://m.media-amazon.com/images/I/31ntz8iFd7L.jpg | https://m.media-amazon.com/images/I/51BCIm9tnGL.jpg | https://m.media-amazon.com/images/I/51kcicQSo1L.jpg | https://m.media-amazon.com/images/I/51cGAtK-TXL.jpg | https://m.media-amazon.com/images/I/51VHnakbyFL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Storage & Organization",
-    "slug": "storage-organization",
-    "count": 79,
-    "image": "https://m.media-amazon.com/images/I/51lqdghOPyS.jpg | https://m.media-amazon.com/images/I/31cCtnTbctS.jpg | https://m.media-amazon.com/images/I/619wet5xCwL.jpg | https://m.media-amazon.com/images/I/41xEtuYRt2L.jpg | https://m.media-amazon.com/images/I/41szbYkWy-L.jpg | https://m.media-amazon.com/images/I/412I26ag8OL.jpg | https://m.media-amazon.com/images/I/41dlmYSDt5L.jpg | https://m.media-amazon.com/images/I/41FjVO3boOS.jpg",
+    "count": 663,
+    "image": "https://m.media-amazon.com/images/I/61FSJbnM3rL.jpg | https://m.media-amazon.com/images/I/31M8wFNDQKL.jpg | https://m.media-amazon.com/images/I/61HcROpcW0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41oTxMGlUBL.jpg | https://m.media-amazon.com/images/I/41cSTzHBaSL.jpg | https://m.media-amazon.com/images/I/412lRK6+MbL.jpg | https://m.media-amazon.com/images/I/41G06FM0USL.jpg | https://m.media-amazon.com/images/I/41Ec3rlRbcL.jpg",
     "featured": false
   },
   {
     "name": "Electrical & Wiring",
     "slug": "electrical-wiring",
-    "count": 116,
-    "image": "https://m.media-amazon.com/images/I/613BcPYj4yL.jpg | https://m.media-amazon.com/images/I/41wnFePpFDL.jpg",
+    "count": 543,
+    "image": "https://m.media-amazon.com/images/I/61BVeOaT4VL.jpg | https://m.media-amazon.com/images/I/41hayVkUZ7L.jpg | https://m.media-amazon.com/images/I/41f2YzCoFaL.jpg | https://m.media-amazon.com/images/I/410IoUreZXL.jpg | https://m.media-amazon.com/images/I/41nr4cq8vkL.jpg | https://m.media-amazon.com/images/I/41O1sk0lwzL.jpg | https://m.media-amazon.com/images/I/41NjteJ8OeL.jpg | https://m.media-amazon.com/images/I/41O0Ec71aPL.jpg",
     "featured": false
   },
   {
-    "name": "Plumbing",
-    "slug": "plumbing",
-    "count": 14,
-    "image": "https://m.media-amazon.com/images/I/6168XeOYGFL.jpg | https://m.media-amazon.com/images/I/41Q6hd9QZkL.jpg | https://m.media-amazon.com/images/I/41KQxaIjGhL.jpg | https://m.media-amazon.com/images/I/41UPwuR4LdL.jpg | https://m.media-amazon.com/images/I/41sPEOu04cL.jpg | https://m.media-amazon.com/images/I/41TRHbLcZmL.jpg | https://m.media-amazon.com/images/I/31KAp9znX6L.jpg",
+    "name": "Measuring & Layout",
+    "slug": "measuring-layout",
+    "count": 1152,
+    "image": "https://m.media-amazon.com/images/I/71ljyg8mkVL.jpg | https://m.media-amazon.com/images/I/41X5uzTJh4L.jpg | https://m.media-amazon.com/images/I/61v7JkLWDCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/31qnfzrWUaL.jpg | https://m.media-amazon.com/images/I/31aLFaE3WKL.jpg | https://m.media-amazon.com/images/I/41slXiu6j7L.jpg | https://m.media-amazon.com/images/I/51qu53dHYOL.jpg",
+    "featured": false
+  },
+  {
+    "name": "General Hardware",
+    "slug": "general-hardware",
+    "count": 1461,
+    "image": "https://m.media-amazon.com/images/I/51yQXmcH5UL.jpg | https://m.media-amazon.com/images/I/51yQXmcH5UL.jpg | https://m.media-amazon.com/images/I/41Ctzdcj5PL.jpg | https://m.media-amazon.com/images/I/418jpDflVYL.jpg | https://m.media-amazon.com/images/I/51LaVRqK5gL.jpg | https://m.media-amazon.com/images/I/51BwARtyykL.jpg | https://m.media-amazon.com/images/I/51BBA9pLhML.jpg | https://m.media-amazon.com/images/I/51GsGPJftZL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Storage & Organization",
+    "slug": "storage-organization",
+    "count": 462,
+    "image": "https://m.media-amazon.com/images/I/61XomfVpY-L.jpg | https://m.media-amazon.com/images/I/31A6HmoNrLL.jpg | https://m.media-amazon.com/images/I/410KrRvw8RL.jpg | https://m.media-amazon.com/images/I/51v+Oiz9buL.jpg | https://m.media-amazon.com/images/I/51awDMTArEL.jpg | https://m.media-amazon.com/images/I/41NK2Se5UAL.jpg | https://m.media-amazon.com/images/I/51K7PSKYXiL.jpg | https://m.media-amazon.com/images/I/41mBPbKGKTL.jpg",
     "featured": false
   },
   {
     "name": "Safety & PPE",
     "slug": "safety-ppe",
-    "count": 58,
-    "image": "https://m.media-amazon.com/images/I/41rHXpJ2eCL.jpg",
+    "count": 366,
+    "image": "https://m.media-amazon.com/images/I/512LD+KqllL.jpg | https://m.media-amazon.com/images/I/31K30W-EpPL.jpg | https://m.media-amazon.com/images/I/41YT9+YM6kL.jpg | https://m.media-amazon.com/images/I/41AK7pcCMJL.jpg | https://m.media-amazon.com/images/I/41ArZlfvemL.jpg | https://m.media-amazon.com/images/I/41XX+6+x7rL.jpg | https://m.media-amazon.com/images/I/51m2mg8QI8L.jpg | https://m.media-amazon.com/images/I/41Y717YKbEL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Plumbing",
+    "slug": "plumbing",
+    "count": 74,
+    "image": "https://m.media-amazon.com/images/I/71dZisA+Q6L.jpg | https://m.media-amazon.com/images/I/41ewsYLmuDL.jpg | https://m.media-amazon.com/images/I/41mvVqDHyGL.jpg | https://m.media-amazon.com/images/I/51kJ0uN0SML.jpg | https://m.media-amazon.com/images/I/41JXKUK5oGL.jpg | https://m.media-amazon.com/images/I/51PSKwP00jL.jpg | https://m.media-amazon.com/images/I/317cTq7e+nL.jpg | https://m.media-amazon.com/images/I/411FujEDrvL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Garden & Outdoor",
+    "slug": "garden-outdoor",
+    "count": 120,
+    "image": "https://m.media-amazon.com/images/I/61ja6EYsPUL.jpg | https://m.media-amazon.com/images/I/41xlmP2PLkL.jpg | https://m.media-amazon.com/images/I/41uUmKJtBRL.jpg | https://m.media-amazon.com/images/I/514XMEkdGqL.jpg | https://m.media-amazon.com/images/I/41So4S71piL.jpg | https://m.media-amazon.com/images/I/51x8xAZgjPL.jpg | https://m.media-amazon.com/images/I/412tF1qA8iL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Abrasives & Finishing",
+    "slug": "abrasives-finishing",
+    "count": 466,
+    "image": "https://m.media-amazon.com/images/I/81i0S6NAFML.jpg | https://m.media-amazon.com/images/I/41u0rlnZUXL.jpg | https://m.media-amazon.com/images/I/71rXpqOiqML.jpg | https://m.media-amazon.com/images/I/41D-jpPcvrL.jpg | https://m.media-amazon.com/images/I/41ucInwUTeL.jpg | https://m.media-amazon.com/images/I/51EU-WEZqSL.jpg | https://m.media-amazon.com/images/I/41cnKhmMH1L.jpg | https://m.media-amazon.com/images/I/41LVvrVCQhL.jpg",
     "featured": false
   },
   {
     "name": "Adhesives & Chemicals",
     "slug": "adhesives-chemicals",
-    "count": 15,
-    "image": "https://m.media-amazon.com/images/I/41COj78JpqL.jpg",
+    "count": 144,
+    "image": "https://m.media-amazon.com/images/I/716DxY5cU2L.jpg | https://m.media-amazon.com/images/I/41fdAwmd5JL.jpg | https://m.media-amazon.com/images/I/41C7wfu-YjL.jpg | https://m.media-amazon.com/images/I/51dDTfb14jL.jpg | https://m.media-amazon.com/images/I/41-smFZDwPL.jpg | https://m.media-amazon.com/images/I/41V+n9g2dKL.jpg | https://m.media-amazon.com/images/I/41eVq-xhWEL.jpg",
     "featured": false
   }
 ]

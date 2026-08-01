@@ -1,0 +1,26 @@
+{
+  "name": "Armi",
+  "slug": "armi",
+  "products": [
+    {
+      "sku": "JKE-IIYEIUCUGEYU4SRW",
+      "slug": "armi-graphene-paste-wax-100-gram-pack-of-1-",
+      "name": "ARMI® Graphene Paste Wax 100 Gram, Pack of 1 |...",
+      "brand": "Armi",
+      "category": "Power Tools",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61kvZNdjtML.jpg | https://m.media-amazon.com/images/I/512oQLslrPL.jpg | https://m.media-amazon.com/images/I/41S9+5bmDHL.jpg | https://m.media-amazon.com/images/I/51rUGczyZ0L.jpg | https://m.media-amazon.com/images/I/51yT7mC4EiL.jpg | https://m.media-amazon.com/images/I/513-IoThQiL.jpg | https://m.media-amazon.com/images/I/41kkWrdEn+L.jpg | https://m.media-amazon.com/images/I/41u-A4tKDEL.jpg",
+      "productUrl": "https://www.amazon.in/Graphene-Patent-Pending-Advanced-Protection-Ceramic/dp/B0DPT11NJ6/ref=sr_1_265"
+    },
+    {
+      "sku": "JKE-IIYEGNBWGVEFMMJU",
+      "slug": "armi-solar-panel-coating-hydrophobic-ceramic-nanocoating",
+      "name": "ARMI Solar Panel Coating | Hydrophobic Ceramic Nanocoating...",
+      "brand": "Armi",
+      "category": "Storage & Organization",
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/51VYumrraxL.jpg | https://m.media-amazon.com/images/I/411SGrh5-dL.jpg | https://m.media-amazon.com/images/I/41wj+sZ-E5L.jpg | https://m.media-amazon.com/images/I/41OpHGty+1L.jpg | https://m.media-amazon.com/images/I/41-UWeob1JL.jpg | https://m.media-amazon.com/images/I/41b1-u5M7OL.jpg | https://m.media-amazon.com/images/I/4101m63XdZL.jpg | https://m.media-amazon.com/images/I/51ErqdM07iL.jpg",
+      "productUrl": "https://www.amazon.in/ARMI-HYDROPHOBIC-NANOCOATING-MAINTENANCE-Protection/dp/B0C465HV14/ref=sr_1_32"
+    }
+  ]
+}

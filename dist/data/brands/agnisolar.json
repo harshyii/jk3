@@ -3,14 +3,34 @@
   "slug": "agnisolar",
   "products": [
     {
+      "sku": "JKE-IIYDMWCRJNMDCWC2",
+      "slug": "agnisolar-home-lighting-kit-3-high-performance-solar",
+      "name": "AgniSolar Home Lighting Kit 3: High-Performance Solar...",
+      "brand": "Agnisolar",
+      "category": "General Hardware",
+      "price": 3495,
+      "image": "https://m.media-amazon.com/images/I/61x9bU-WZAL.jpg | https://m.media-amazon.com/images/I/51bvmP7j5lL.jpg | https://m.media-amazon.com/images/I/41ONbDpZwiL.jpg | https://m.media-amazon.com/images/I/41dQjzAw7SL.jpg | https://m.media-amazon.com/images/I/41bz99hjPhL.jpg | https://m.media-amazon.com/images/I/51GZO8skybL.jpg | https://m.media-amazon.com/images/I/31iBv33ItpL.jpg",
+      "productUrl": "https://www.amazon.in/Agni-Solar-Home-Lighting-Kit/dp/B06XQKX1XZ/ref=sr_1_67"
+    },
+    {
       "sku": "JKE-IIYDOMZZLJJFAWSU",
-      "slug": "agnisolar-torch-2-solar-charging-sustainable-led-power-with-inbuilt-solar-panel-lithium-ion-battery-micro-usb-charging-for-emergencies-power-cuts-camping-hiking-and-outdoor-adventures",
-      "name": "AgniSolar Torch 2: Solar Charging, Sustainable LED Power with Inbuilt Solar Panel, Lithium-Ion Battery, Micro USB Charging for Emergencies, Power Cuts, Camping, Hiking, and Outdoor Adventures",
+      "slug": "agnisolar-torch-2-solar-charging-sustainable-led-power",
+      "name": "AgniSolar Torch 2: Solar Charging, Sustainable LED Power...",
       "brand": "Agnisolar",
       "category": "Measuring & Layout",
-      "price": "₹599.00",
+      "price": 599,
       "image": "https://m.media-amazon.com/images/I/61le4xfBEXL.jpg | https://m.media-amazon.com/images/I/41qSFB4FYcL.jpg | https://m.media-amazon.com/images/I/41qZTD9+-yL.jpg | https://m.media-amazon.com/images/I/31g1Ef1XqUL.jpg | https://m.media-amazon.com/images/I/31g4qs+pEQL.jpg | https://m.media-amazon.com/images/I/51Y4TbwoGGL.jpg | https://m.media-amazon.com/images/I/512+GpRjbRL.jpg | https://m.media-amazon.com/images/I/51V4q6BAUGL.jpg",
       "productUrl": "https://www.amazon.in/AgniSolar-Torch-Eco-Friendly-Sustainable-Lithium-Ion/dp/B0739ZRPZT/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-IIYDMWCQKJLFQOCC",
+      "slug": "agnisolar-agni-solar-lantern-2-solar-powered-led",
+      "name": "AgniSolar Agni Solar Lantern 2 - Solar-Powered Led...",
+      "brand": "Agnisolar",
+      "category": "General Hardware",
+      "price": 2425,
+      "image": "https://m.media-amazon.com/images/I/41kfxmH6AvL.jpg | https://m.media-amazon.com/images/I/41kfxmH6AvL.jpg | https://m.media-amazon.com/images/I/41FxKyzl+bL.jpg | https://m.media-amazon.com/images/I/31Do64zCXiL.jpg | https://m.media-amazon.com/images/I/51bLCwPxghL.jpg | https://m.media-amazon.com/images/I/51CWcKIEXaL.jpg | https://m.media-amazon.com/images/I/51zdMqFhIHL.jpg",
+      "productUrl": "https://www.amazon.in/Agni-Solar-Lantern-2/dp/B06XPRVX8B/ref=sr_1_56"
     }
   ]
 }

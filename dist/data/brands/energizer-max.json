@@ -1,0 +1,16 @@
+{
+  "name": "Energizer Max",
+  "slug": "energizer-max",
+  "products": [
+    {
+      "sku": "JKE-IIYDAVZVIMYUQNBU",
+      "slug": "energizer-max-alkaline-c-batteries-15-volts-2-pack",
+      "name": "Energizer Max Alkaline C Batteries, 1.5 Volts, 2 Pack",
+      "brand": "Energizer Max",
+      "category": "General Hardware",
+      "price": 82,
+      "image": "https://m.media-amazon.com/images/I/71t+FMqoO5L.jpg | https://m.media-amazon.com/images/I/41WUHjuggUL.jpg | https://m.media-amazon.com/images/I/61uVXl0rW6L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51knPVgMJPL.jpg | https://m.media-amazon.com/images/I/51uTFV5VG-L.jpg | https://m.media-amazon.com/images/I/51AN1Y7ZxuL.jpg | https://m.media-amazon.com/images/I/41WRFOzeRnL.jpg | https://m.media-amazon.com/images/I/51WAdiPrcJL.jpg",
+      "productUrl": "https://www.amazon.in/Energizer-Max-Alkaline-Batteries-Pack/dp/B00W5C1H44/ref=sr_1_100"
+    }
+  ]
+}

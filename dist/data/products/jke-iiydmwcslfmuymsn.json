@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDMWCSLFMUYMSN",
   "title": "Ralli Wolf AG100 Angle Grinder, 1020 W, 10500 Rpm",
   "brand": "Ralliwolf",
-  "current_price": "₹3,100.00",
-  "mrp": "₹3,500",
+  "current_price": 3100,
+  "mrp": 3500,
   "product_url": "https://www.amazon.in/Ralli-Wolf-AG100-Angle-Grinder/dp/B06XRYYL2M/ref=sr_1_25",
   "rating": "3.93.9 out of 5 stars(10)3.9 out of 5 stars",
   "description": "Ralli Wolf AG100 Angle Grinder, 1020 W, 10500 Rpm - Distributed/Packaged by Ralliwolf. Product Details: Angle Grinder for Grinding, Cutting, Polishing (125mm), 11000 RPM Variable Speed Grinder Machine with Auxiliary Handle For Heavy Duty Grinding Tasks Heavy Duty for Proffesional Use",
@@ -16,18 +16,18 @@
   "image_url_2": "https://m.media-amazon.com/images/I/41QhV8Z6fOL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/41f8uQftxcL.jpg",
   "specifications": {
-    "Material Type": "Metal",
     "Brand Name": "Ralliwolf",
-    "Unit Count": "1 Count",
     "Manufacturer": "Ralli Wolf",
     "Item Type Name": "General",
     "Best Sellers Rank": "#55,734 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#412 inPower Angle Grinders",
     "ASIN": "B06XRYYL2M",
     "Customer Reviews": "3.93.9 out of 5 stars(10)3.9 out of 5 stars",
     "Colour": "Green,Grey,Black, Silver",
+    "Unit Count": "1 Count",
     "Power Source": "Corded Electric",
     "Wattage": "1050 Watts",
     "Style Name": "Modern",
+    "Material Type": "Metal",
     "Maximum Rotational Speed": "10500 RPM"
   },
   "SKU": "JKE-IIYDMWCSLFMUYMSN",
@@ -41,8 +41,8 @@
     "https://m.media-amazon.com/images/I/41f8uQftxcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41QhV8Z6fOL.jpg | https://m.media-amazon.com/images/I/41f8uQftxcL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹3,100.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 11.43,
+  "SalePrice": 3100
 }

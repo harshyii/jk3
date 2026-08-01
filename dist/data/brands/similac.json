@@ -1,0 +1,56 @@
+{
+  "name": "Similac",
+  "slug": "similac",
+  "products": [
+    {
+      "sku": "JKE-IIYDAVZZIZKDQUCN",
+      "slug": "similac-infant-formula-stage-1-up-to-6-months-400g-box",
+      "name": "Similac Infant Formula Stage 1, Up To 6 Months, 400G Box,...",
+      "brand": "Similac",
+      "category": "Fasteners & Hardware",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/71ERd5O2zDL.jpg | https://m.media-amazon.com/images/I/41hXLRDeLqL.jpg | https://m.media-amazon.com/images/I/5158mjpIIbL.jpg | https://m.media-amazon.com/images/I/41P0lmX9YlL.jpg | https://m.media-amazon.com/images/I/51YsV2cPQZL.jpg | https://m.media-amazon.com/images/I/51g2-YwjqeL.jpg | https://m.media-amazon.com/images/I/518kqioaBEL.jpg | https://m.media-amazon.com/images/I/51dz0Bo7uAL.jpg",
+      "productUrl": "https://www.amazon.in/Similac-Infant-Formula-Stage-months/dp/B00W9FT8PM/ref=sr_1_87"
+    },
+    {
+      "sku": "JKE-IIYDSU2UHBFEUMZS",
+      "slug": "similac-plus-stage-1-up-to-6-months-infant-formula-with-5",
+      "name": "Similac Plus Stage 1 (Up to 6 Months) Infant Formula with 5...",
+      "brand": "Similac",
+      "category": "Measuring & Layout",
+      "price": 885,
+      "image": "https://m.media-amazon.com/images/I/71f8S-JBYEL.jpg | https://m.media-amazon.com/images/I/51sgLjGdZhL.jpg | https://m.media-amazon.com/images/I/61aBsdyjvTL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51WVk-oHjfL.jpg | https://m.media-amazon.com/images/I/51QNB85VCxL.jpg | https://m.media-amazon.com/images/I/51UY-zV3VSL.jpg | https://m.media-amazon.com/images/I/41AGp9PmxaL.jpg | https://m.media-amazon.com/images/I/51Qhhhq3CCL.jpg",
+      "productUrl": "https://www.amazon.in/Similac-Plus-Infant-Milk-Formula/dp/B09ST8JJ32/ref=sr_1_60"
+    },
+    {
+      "sku": "JKE-IIYEMMZYJBJVMWBX",
+      "slug": "similac-plus-infant-formula-stage-1-powder-400-g",
+      "name": "Similac Plus Infant Formula Stage 1 Powder, 400 g",
+      "brand": "Similac",
+      "category": "General Hardware",
+      "price": 885,
+      "image": "https://m.media-amazon.com/images/I/616E9UaRy+L.jpg | https://m.media-amazon.com/images/I/41Fl-nrSjfL.jpg | https://m.media-amazon.com/images/I/415DfXdu87L.jpg | https://m.media-amazon.com/images/I/41XksnIKfWL.jpg | https://m.media-amazon.com/images/I/51TH9vcUZ4L.jpg | https://m.media-amazon.com/images/I/51LDw7NZD4L.jpg | https://m.media-amazon.com/images/I/417VItI0YTL.jpg",
+      "productUrl": "https://www.amazon.in/Similac-Infant-Formula-Stage-Powder/dp/B0F38HSVX7/ref=sr_1_260"
+    },
+    {
+      "sku": "JKE-IIYEMSCRJMZTSSBR",
+      "slug": "similac-classic-stage-1-up-to-6-months-infant-formula",
+      "name": "Similac Classic Stage 1 (Up to 6 months) Infant Formula...",
+      "brand": "Similac",
+      "category": "Fasteners & Hardware",
+      "price": 550,
+      "image": "https://m.media-amazon.com/images/I/71IY3MRYvqL.jpg | https://m.media-amazon.com/images/I/41Trdud9fhL.jpg | https://m.media-amazon.com/images/I/51xUjq8M1KL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41-cY4-EHyL.jpg | https://m.media-amazon.com/images/I/51ynoKyzboL.jpg | https://m.media-amazon.com/images/I/414IecmBvrL.jpg | https://m.media-amazon.com/images/I/41XXOT8rBlL.jpg",
+      "productUrl": "https://www.amazon.in/Similac-Classic-Infant-Formula-months/dp/B0FHQK39H1/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-IIYEQNRSGRIVUU2C",
+      "slug": "similac-plus-stage-1-up-to-6-months-infant-formula-with",
+      "name": "Similac Plus Stage 1 (Up to 6 months) Infant Formula with...",
+      "brand": "Similac",
+      "category": "Fasteners & Hardware",
+      "price": 3495,
+      "image": "https://m.media-amazon.com/images/I/71M7meTSE4L.jpg | https://m.media-amazon.com/images/I/51IAZHqW1mL.jpg | https://m.media-amazon.com/images/I/51PdDzIIFeL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41bc6YZwOjL.jpg | https://m.media-amazon.com/images/I/51u035RkaTL.jpg | https://m.media-amazon.com/images/I/41qqvgsAdSL.jpg | https://m.media-amazon.com/images/I/51jSWQD6dvL.jpg | https://m.media-amazon.com/images/I/416-r+rZUeL.jpg",
+      "productUrl": "https://www.amazon.in/Similac-Stage-months-Infant-Formula/dp/B0H624QZSB/ref=sr_1_116"
+    }
+  ]
+}

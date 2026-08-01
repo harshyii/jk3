@@ -1,0 +1,26 @@
+{
+  "name": "Dvja",
+  "slug": "dvja",
+  "products": [
+    {
+      "sku": "JKE-IIYEOVBYLFNEMN2Q",
+      "slug": "car-washer-high-pressure-gun-double-battery-cordless",
+      "name": "Car Washer High Pressure Gun (Double_Battery) Cordless...",
+      "brand": "Dvja",
+      "category": "Power Tools",
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/71zjfbj5VnL.jpg | https://m.media-amazon.com/images/I/41L9UhvaRYL.jpg | https://m.media-amazon.com/images/I/317O542B1XL.jpg | https://m.media-amazon.com/images/I/41UY3bPJKJL.jpg | https://m.media-amazon.com/images/I/51guxoXKvwL.jpg | https://m.media-amazon.com/images/I/51wYznPeauL.jpg | https://m.media-amazon.com/images/I/51Njzs-iEmL.jpg | https://m.media-amazon.com/images/I/41MlYiUloWL.jpg",
+      "productUrl": "https://www.amazon.in/DVJA-Pressure-Double_Battery-Cordless-Portable/dp/B0GT8YZF7P/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-IIYEQNCZKFBUMRST",
+      "slug": "car-washer-high-pressure-gun-double-battery-cordless",
+      "name": "Car Washer High Pressure Gun (Double_Battery) Cordless...",
+      "brand": "Dvja",
+      "category": "Power Tools",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71XqOAZhHoL.jpg | https://m.media-amazon.com/images/I/41BmJdrPqVL.jpg | https://m.media-amazon.com/images/I/31JuR9u-tDL.jpg | https://m.media-amazon.com/images/I/41a8NFB8oSL.jpg | https://m.media-amazon.com/images/I/41BNOS8ZBmL.jpg | https://m.media-amazon.com/images/I/411aWak6xZL.jpg | https://m.media-amazon.com/images/I/51RLTTbBNAL.jpg | https://m.media-amazon.com/images/I/51D59mofMPL.jpg",
+      "productUrl": "https://www.amazon.in/DVJA-Pressure-Double_Battery-Cordless-Adjustable/dp/B0H4YQCFFS/ref=sr_1_71"
+    }
+  ]
+}

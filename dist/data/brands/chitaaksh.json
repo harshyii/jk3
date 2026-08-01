@@ -1,0 +1,46 @@
+{
+  "name": "Chitaaksh",
+  "slug": "chitaaksh",
+  "products": [
+    {
+      "sku": "JKE-IIYEMSBUIZJUOVCM",
+      "slug": "car-coating-spray-quick-effect-coating-agent-quickly-coat",
+      "name": "Car Coating Spray, Quick Effect Coating Agent, Quickly Coat...",
+      "brand": "Chitaaksh",
+      "category": "Power Tools",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/61+0zcVs3ZL.jpg | https://m.media-amazon.com/images/I/61+0zcVs3ZL.jpg | https://m.media-amazon.com/images/I/51XHJuMRfdL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51Pks4mujWL.jpg | https://m.media-amazon.com/images/I/4144jyL8wAL.jpg | https://m.media-amazon.com/images/I/51HWmsDyxmL.jpg | https://m.media-amazon.com/images/I/61bF9NzulLL.jpg | https://m.media-amazon.com/images/I/61HyCJHdL1L.jpg",
+      "productUrl": "https://www.amazon.in/Coating-Quickly-Scratch-Waterless-Emulsion/dp/B0FH4FSGTL/ref=sr_1_184"
+    },
+    {
+      "sku": "JKE-IIYEQMZSJJJEQSSX",
+      "slug": "premium-9h-nano-ceramic-car-coating-agent-hydrophobic",
+      "name": "Premium 9H Nano Ceramic Car Coating Agent - Hydrophobic...",
+      "brand": "Chitaaksh",
+      "category": "Power Tools",
+      "price": 139,
+      "image": "https://m.media-amazon.com/images/I/61v903rME9L.jpg | https://m.media-amazon.com/images/I/516A5RptkOL.jpg | https://m.media-amazon.com/images/I/5158IPmlO+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/516ulB0pkML.jpg | https://m.media-amazon.com/images/I/51q5FC-LZRL.jpg | https://m.media-amazon.com/images/I/51TahRaP1rL.jpg | https://m.media-amazon.com/images/I/515F18wKaSL.jpg | https://m.media-amazon.com/images/I/51S9Z6p0YML.jpg",
+      "productUrl": "https://www.amazon.in/Premium-Nano-Ceramic-Coating-Agent/dp/B0H32JRHJW/ref=sr_1_236"
+    },
+    {
+      "sku": "JKE-IIYEMSBUJBMFGMJX",
+      "slug": "car-coating-spray-quick-effect-coating-agent-car-scratch",
+      "name": "Car Coating Spray, Quick Effect Coating Agent, Car Scratch...",
+      "brand": "Chitaaksh",
+      "category": "Power Tools",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/514LVejrlJL.jpg | https://m.media-amazon.com/images/I/514LVejrlJL.jpg | https://m.media-amazon.com/images/I/61bF9NzulLL.jpg | https://m.media-amazon.com/images/I/61HyCJHdL1L.jpg | https://m.media-amazon.com/images/I/615kKP1DTxL.jpg | https://m.media-amazon.com/images/I/61S+deWXjoL.jpg | https://m.media-amazon.com/images/I/61wkhgLbBhL.jpg | https://m.media-amazon.com/images/I/61eI5JfV2vL.jpg",
+      "productUrl": "https://www.amazon.in/Coating-Effect-Scratch-Emulsion-Cleaner/dp/B0FH4HXS17/ref=sr_1_138"
+    },
+    {
+      "sku": "JKE-IIYEMSBUJI4EIWRY",
+      "slug": "car-coating-spray-quick-effect-coating-agent-car-scratch",
+      "name": "Car Coating Spray, Quick Effect Coating Agent, Car Scratch...",
+      "brand": "Chitaaksh",
+      "category": "Power Tools",
+      "price": 169,
+      "image": "https://m.media-amazon.com/images/I/61yPE-V6UwL.jpg | https://m.media-amazon.com/images/I/61yPE-V6UwL.jpg | https://m.media-amazon.com/images/I/61SnLWkWt9L.jpg | https://m.media-amazon.com/images/I/615iD9m4d2L.jpg | https://m.media-amazon.com/images/I/61LDVJeuOpL.jpg | https://m.media-amazon.com/images/I/61becmA+XqL.jpg | https://m.media-amazon.com/images/I/61ZJTa3z0kL.jpg | https://m.media-amazon.com/images/I/61IMTMoeXdL.jpg",
+      "productUrl": "https://www.amazon.in/Coating-Effect-Scratch-Emulsion-Cleaner/dp/B0FH4J8DZ8/ref=sr_1_175"
+    }
+  ]
+}

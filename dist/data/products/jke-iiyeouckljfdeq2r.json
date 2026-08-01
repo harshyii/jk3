@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOUCKLJFDEQ2R",
-  "title": "ENDICO 5 Inch TCT Circular Wood Saw Blade WC-530A, Diameter - 5 Inch (125MM), Teeth - 30T, Arbor - 20MM, Kerf - 2.0MM (Pack of 20 pcs)",
+  "title": "ENDICO 5 Inch TCT Circular Wood Saw Blade WC-530A, Diameter...",
   "brand": "Endico",
-  "current_price": "₹3,599.00",
-  "mrp": "₹3,780",
+  "current_price": 3599,
+  "mrp": 3780,
   "product_url": "https://www.amazon.in/Circular-Wood-Saw-Blade-Diameter/dp/B0GPJZJ2CQ/ref=sr_1_37",
   "description": "ENDICO 5 Inch TCT Circular Wood Saw Blade WC-530A, Diameter - 5 Inch (125MM), Teeth - 30T, Arbor - 20MM, Kerf - 2.0MM (Pack of 20 pcs) - Distributed/Packaged by Endico. Product Details: Endico manufactures the highest quality TCT saw blades used for wood cutting applications, Endico offers 5 Inch (125MM) size of Carbide blades for wood cutter at affordable prices. Tungsten carbide tips of blade are re-sharpable easily for longer usage with minimum cost, Endico TCT Saw Blades provides high quality cutting with no burn marks on wood and cutter. TCT Saw blades can be used on Wood, Plywood, Fiber Board, Veneer, Laminate, Particle Board & Block Board.",
   "image_urls": [
@@ -23,26 +23,26 @@
   "image_url_6": "https://m.media-amazon.com/images/I/51-DApOjRUL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/41HMBTS+gyL.jpg",
   "specifications": {
-    "Material Type": "Carbide",
     "Brand Name": "Endico",
     "Model Number": "20 pcs Wood Saw Blade",
+    "Country of Origin": "India",
     "Manufacturer": "ENDICO POWER TOOLS (INDIA)",
-    "Included Components": "20pcs value pack",
-    "Item Weight": "2.6 Kilograms",
     "Item Type Name": "Tools & Machinery",
     "Packer Contact Information": "ENDICO POWER TOOLS (INDIA)",
     "ASIN": "B0GPJZJ2CQ",
     "Colour": "SILVER",
-    "Set Name": "20 pcs value pack",
-    "Country of Origin": "India",
-    "Number of Teeth": 30,
-    "Item Dimensions L x W": "23L x 19W Centimeters",
+    "Included Components": "20pcs value pack",
+    "Item Weight": "2.6 Kilograms",
     "Style Name": "Industrial",
-    "Part Number": "20 pcs Wood Saw Blade"
+    "Material Type": "Carbide",
+    "Part Number": "20 pcs Wood Saw Blade",
+    "Set Name": "20 pcs value pack",
+    "Item Dimensions L x W": "23L x 19W Centimeters",
+    "Number of Teeth": 30
   },
   "SKU": "JKE-IIYEOUCKLJFDEQ2R",
-  "Name": "ENDICO 5 Inch TCT Circular Wood Saw Blade WC-530A, Diameter - 5 Inch (125MM), Teeth - 30T, Arbor - 20MM, Kerf - 2.0MM (Pack of 20 pcs)",
-  "Slug": "endico-5-inch-tct-circular-wood-saw-blade-wc-530a-diameter-5-inch-125mm-teeth-30t-arbor-20mm-kerf-20mm-pack-of-20-pcs",
+  "Name": "ENDICO 5 Inch TCT Circular Wood Saw Blade WC-530A, Diameter...",
+  "Slug": "endico-5-inch-tct-circular-wood-saw-blade-wc-530a-diameter",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -55,10 +55,10 @@
     "https://m.media-amazon.com/images/I/41HMBTS+gyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71o6Wcwd3nL.jpg | https://m.media-amazon.com/images/I/41SIh16OZZL.jpg | https://m.media-amazon.com/images/I/61+75NxiecL.jpg | https://m.media-amazon.com/images/I/61g-A1CdaJL.jpg | https://m.media-amazon.com/images/I/51-DApOjRUL.jpg | https://m.media-amazon.com/images/I/41HMBTS+gyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹3,599.00",
+  "Discount": 4.79,
+  "SalePrice": 3599,
   "Model": "20 pcs Wood Saw Blade",
   "Country": "India"
 }

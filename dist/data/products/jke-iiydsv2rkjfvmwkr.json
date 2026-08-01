@@ -2,7 +2,7 @@
   "asin": "JKE-IIYDSV2RKJFVMWKR",
   "title": "Taparia 1541-8 Pincers, Grey",
   "brand": "Ths",
-  "current_price": "₹475.00",
+  "current_price": 475,
   "mrp": 0,
   "product_url": "https://www.amazon.in/THS-THS688-Taparia-1541-8-Pincers/dp/B09WQRKVYQ/ref=sr_1_202",
   "description": "Taparia 1541-8 Pincers, Grey - Distributed/Packaged by Ths. Product Details: nan",
@@ -17,15 +17,15 @@
   "image_url_3": "https://m.media-amazon.com/images/I/21OZqk6rWsL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/31+q05tQwIL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Taher Harwdare Store",
-    "Item Weight": "‎500 g",
     "Item Type Name": "General",
+    "Colour": "‎Silver",
     "Brand": "‎THS",
     "Model number": "‎THS688",
-    "Colour": "‎Silver",
     "Number of Memory Sticks": "‎1",
-    "Item model number": "‎THS688",
-    "Country of Origin": "‎India"
+    "Item Weight": "‎500 g",
+    "Item model number": "‎THS688"
   },
   "SKU": "JKE-IIYDSV2RKJFVMWKR",
   "Name": "Taparia 1541-8 Pincers, Grey",
@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/31+q05tQwIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415Z1Ho9GxL.jpg | https://m.media-amazon.com/images/I/21OZqk6rWsL.jpg | https://m.media-amazon.com/images/I/31+q05tQwIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹475.00",
+  "SalePrice": 475,
   "Country": "‎India"
 }

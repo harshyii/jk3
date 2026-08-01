@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIRCDKQZFOOK2",
-  "title": "WAAREE Bi-55-550 Watt High Efficiency Dual Glass Bifacial Mono PERC Solar Panel, 144 Half-Cut VOC 49.16 Premium Energy Generation, (Pack of 4) (Bifacial 550 Watt, 2kW)",
+  "title": "WAAREE Bi-55-550 Watt High Efficiency Dual Glass Bifacial...",
   "brand": "Waaree",
-  "current_price": "₹65,900.00",
-  "mrp": "₹89,999",
+  "current_price": 65900,
+  "mrp": 89999,
   "product_url": "https://www.amazon.in/WAAREE-Bi-55-550-Efficiency-Generation-550/dp/B0DDCT2W9Z/ref=sr_1_30",
   "description": "WAAREE Bi-55-550 Watt High Efficiency Dual Glass Bifacial Mono PERC Solar Panel, 144 Half-Cut VOC 49.16 Premium Energy Generation, (Pack of 4) (Bifacial 550 Watt, 2kW) - Distributed/Packaged by Waaree. Product Details: Material:- Tempered & Low Iron Glass, 3.2 / 4.0 mm, Frame-Anodized Aluminium Alloy, Encapsulate- Ethylene Vinyl Acetate,Junction Box (Protection degree/ Material) IP 65 rated/ Weatherproof PPO enclosure with bypass diodes.Tempered & Low Iron Glass, 3.2 / 4.0 mm, Frame-Anodized Aluminium Alloy, Encapsulate- Ethylene Vinyl Acetate, Junction Box (Protection degree/ Material) IP 65 rated/ Weatherproof PPO enclosure with bypass diodes. Item Dimensions LxWxH 222.7 x 113.3 x 3.5 Centimeters Efficiency Highly Efficiency Connector Type IP68 rated/ MC4 compatible Highest reliability & enhanced crack tolerant MBB module Sustain heavy snow & wind loads (5400 Pa & 2400 Pa) Best in class thermal coefficients Highest commercial gains, lower LCOE Split junction box improve heat dissipation.",
   "image_urls": [
@@ -25,25 +25,25 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51sAG7nlHgL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41IHcsLYlML.jpg",
   "specifications": {
-    "Material Type": "Bifacial 550 Watt",
     "Brand Name": "WAAREE",
     "Model Number": "BIFACIAL 550",
-    "Unit Count": "1.00 Count",
     "Manufacturer": "WAAREE ENERGIES LTD",
-    "Country of Publication": "India",
-    "Included Components": "4 panels",
-    "Item Weight": "110 Kilograms",
     "Item Type Name": "Electrical & Solar",
     "Packer Contact Information": "WAAREE ENERGIES LTD",
     "ASIN": "B0DDCT2W9Z",
-    "Item Dimensions L x W x H": "2.27L x 1.13W x 0.04H Meters",
-    "Maximum Power": "550 Watts",
+    "Unit Count": "1.00 Count",
     "Connector Type": "MC4",
-    "Efficiency": "High Efficiency"
+    "Included Components": "4 panels",
+    "Item Dimensions L x W x H": "2.27L x 1.13W x 0.04H Meters",
+    "Item Weight": "110 Kilograms",
+    "Material Type": "Bifacial 550 Watt",
+    "Efficiency": "High Efficiency",
+    "Country of Publication": "India",
+    "Maximum Power": "550 Watts"
   },
   "SKU": "JKE-IIYEIRCDKQZFOOK2",
-  "Name": "WAAREE Bi-55-550 Watt High Efficiency Dual Glass Bifacial Mono PERC Solar Panel, 144 Half-Cut VOC 49.16 Premium Energy Generation, (Pack of 4) (Bifacial 550 Watt, 2kW)",
-  "Slug": "waaree-bi-55-550-watt-high-efficiency-dual-glass-bifacial-mono-perc-solar-panel-144-half-cut-voc-4916-premium-energy-generation-pack-of-4-bifacial-550-watt-2kw",
+  "Name": "WAAREE Bi-55-550 Watt High Efficiency Dual Glass Bifacial...",
+  "Slug": "waaree-bi-55-550-watt-high-efficiency-dual-glass-bifacial",
   "Category": "Storage & Organization",
   "Subcategory1": "Wall Panels",
   "Images": [
@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41IHcsLYlML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713vZzpjVlL.jpg | https://m.media-amazon.com/images/I/41khGz-36WL.jpg | https://m.media-amazon.com/images/I/516cxGNnovL.jpg | https://m.media-amazon.com/images/I/51hmwakPmeL.jpg | https://m.media-amazon.com/images/I/61MG7QS2mcL.jpg | https://m.media-amazon.com/images/I/51sAG7nlHgL.jpg | https://m.media-amazon.com/images/I/41IHcsLYlML.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.00 Count",
-  "Discount": 0,
-  "SalePrice": "₹65,900.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 26.78,
+  "SalePrice": 65900,
   "Model": "BIFACIAL 550"
 }

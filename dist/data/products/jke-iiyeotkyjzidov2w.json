@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOTKYJZIDOV2W",
-  "title": "47 Pcs Electric Screwdriver Bit Set, 4.2V 3.2Nm, Front LED Light, Flexible Shaft, 3.2Nm Maximum Torsion Power Screwdriver with USB Rechargeable Cable Carrying Case, for Household Repair Tool (A+)",
+  "title": "47 Pcs Electric Screwdriver Bit Set, 4.2V 3.2Nm, Front LED...",
   "brand": "Ds Enterprise",
-  "current_price": "₹599.00",
-  "mrp": "₹1,999",
+  "current_price": 599,
+  "mrp": 1999,
   "product_url": "https://www.amazon.in/Electric-Screwdriver-Flexible-Rechargeable-Household/dp/B0GMXNP7WV/ref=sr_1_133",
   "rating": "2.62.6 out of 5 stars(29)2.6 out of 5 stars",
   "description": "47 Pcs Electric Screwdriver Bit Set, 4.2V 3.2Nm, Front LED Light, Flexible Shaft, 3.2Nm Maximum Torsion Power Screwdriver with USB Rechargeable Cable Carrying Case, for Household Repair Tool (A+) - Distributed/Packaged by Ds Enterprise. Product Details: nan",
@@ -24,27 +24,27 @@
   "image_url_6": "https://m.media-amazon.com/images/I/41-OgSwdYcL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/41UgB3yOozL.jpg",
   "specifications": {
-    "Material Type": "Stainless Steel",
     "Brand Name": "DS Enterprise",
-    "Unit Count": "1 Count",
     "Manufacturer": "DS ENTERPRISE-82385602231",
-    "Country of Publication": "India",
-    "Included Components": "Comes as a combo Set",
-    "Item Weight": "385 Grams",
     "Item Type Name": "47 Pcs Electric Screwdriver Bit Set, 4.2V 3.2Nm, Front Led Light, Flexible Shaft, Rechargeable Carrying Case",
-    "Manufacturer Part Number": "3007",
     "Packer Contact Information": "DS ENTERPRISE-82385602231",
     "Best Sellers Rank": "#6,993 in Home Improvement (See Top 100 in Home Improvement)#119 inScrewdriver Sets",
     "ASIN": "B0GMXNP7WV",
     "Customer Reviews": "2.62.6 out of 5 stars(29)2.6 out of 5 stars",
+    "Unit Count": "1 Count",
     "Power Source": "Battery Powered",
+    "Number of Batteries": "1",
+    "Manufacturer Part Number": "3007",
     "UPC": 775676729141,
+    "Included Components": "Comes as a combo Set",
     "Item Dimensions L x W x H": "20L x 12W x 5H Centimeters",
-    "Number of Batteries": "1"
+    "Item Weight": "385 Grams",
+    "Material Type": "Stainless Steel",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEOTKYJZIDOV2W",
-  "Name": "47 Pcs Electric Screwdriver Bit Set, 4.2V 3.2Nm, Front LED Light, Flexible Shaft, 3.2Nm Maximum Torsion Power Screwdriver with USB Rechargeable Cable Carrying Case, for Household Repair Tool (A+)",
-  "Slug": "47-pcs-electric-screwdriver-bit-set-42v-32nm-front-led-light-flexible-shaft-32nm-maximum-torsion-power-screwdriver-with-usb-rechargeable-cable-carrying-case-for-household-repair-tool-a",
+  "Name": "47 Pcs Electric Screwdriver Bit Set, 4.2V 3.2Nm, Front LED...",
+  "Slug": "47-pcs-electric-screwdriver-bit-set-42v-32nm-front-led",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "General Fasteners",
   "Images": [
@@ -57,8 +57,8 @@
     "https://m.media-amazon.com/images/I/41UgB3yOozL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31WIO4DBwIL.jpg | https://m.media-amazon.com/images/I/31WIO4DBwIL.jpg | https://m.media-amazon.com/images/I/41ubFOFB8jL.jpg | https://m.media-amazon.com/images/I/414hqt1DrBL.jpg | https://m.media-amazon.com/images/I/412PnFBi86L.jpg | https://m.media-amazon.com/images/I/41-OgSwdYcL.jpg | https://m.media-amazon.com/images/I/41UgB3yOozL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹599.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 70.04,
+  "SalePrice": 599
 }

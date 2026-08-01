@@ -1,0 +1,16 @@
+{
+  "name": "Omada",
+  "slug": "omada",
+  "products": [
+    {
+      "sku": "JKE-IIYEEOCDKJGDMUBR",
+      "slug": "omada-cordless-car-pressure-washer-high-pressure",
+      "name": "OMADA Cordless Car Pressure Washer - High Pressure...",
+      "brand": "Omada",
+      "category": "Power Tools",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/51wPKGbcIhL.jpg | https://m.media-amazon.com/images/I/41-L90qnUmL.jpg | https://m.media-amazon.com/images/I/51eijDLdddL.jpg | https://m.media-amazon.com/images/I/51fiFK+CfXL.jpg | https://m.media-amazon.com/images/I/41Tj9g6WX1L.jpg | https://m.media-amazon.com/images/I/51IySUgxSjL.jpg | https://m.media-amazon.com/images/I/51IFYHLavML.jpg",
+      "productUrl": "https://www.amazon.in/OMADA-Cordless-Car-pressure-washer/dp/B0B8CRL6P1/ref=sr_1_279"
+    }
+  ]
+}

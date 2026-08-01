@@ -4,23 +4,33 @@
   "products": [
     {
       "sku": "JKE-IIYEON2KJM3UINSU",
-      "slug": "10pcs-25mm-mini-stainless-steel-wire-brush-polishing-wheel-for-grinder-power-tool-buffing-wheels-wheel-power-brushes",
-      "name": "10Pcs 25mm Mini Stainless Steel Wire Brush Polishing Wheel for Grinder Power Tool Buffing Wheels Wheel Power Brushes",
+      "slug": "10pcs-25mm-mini-stainless-steel-wire-brush-polishing-wheel",
+      "name": "10Pcs 25mm Mini Stainless Steel Wire Brush Polishing Wheel...",
       "brand": "Upto Date Products",
       "category": "Power Tools",
-      "price": "₹299.00",
+      "price": 299,
       "image": "https://m.media-amazon.com/images/I/51KI6nY9loL.jpg | https://m.media-amazon.com/images/I/31GkwAx-iBL.jpg | https://m.media-amazon.com/images/I/41yzZBrpOaL.jpg | https://m.media-amazon.com/images/I/51thbxCqVWL.jpg | https://m.media-amazon.com/images/I/314axnn4cmL.jpg | https://m.media-amazon.com/images/I/41JGB9G-5vL.jpg | https://m.media-amazon.com/images/I/315pb8Ow1sL.jpg | https://m.media-amazon.com/images/I/31gzTZuYBsL.jpg",
       "productUrl": "https://www.amazon.in/UPTO-DATE-PRODUCTS-Stainless-Polishing/dp/B0G7JK7D6T/ref=sr_1_250"
     },
     {
       "sku": "JKE-IIYEMR2RINBDKNJX",
-      "slug": "12-tapping-tool-internal-thread-external-thread-integrated-die-water-pipe-wire-opener-workshop-power-tools-drill-bits-pvc-pipe-threader-water-pipe-threader-tool",
-      "name": "1/2\" Tapping Tool Internal Thread External Thread Integrated Die Water Pipe Wire Opener Workshop Power Tools Drill Bits PVC Pipe Threader, Water Pipe Threader Tool",
+      "slug": "12-tapping-tool-internal-thread-external-thread",
+      "name": "1/2\" Tapping Tool Internal Thread External Thread...",
       "brand": "Upto Date Products",
       "category": "Power Tools",
-      "price": "₹299.00",
+      "price": 299,
       "image": "https://m.media-amazon.com/images/I/51+-8TA+eDL.jpg | https://m.media-amazon.com/images/I/41IgfIbvQrL.jpg | https://m.media-amazon.com/images/I/31NaoCefqqL.jpg | https://m.media-amazon.com/images/I/41VcnSV1TlL.jpg | https://m.media-amazon.com/images/I/317lMq8UiuL.jpg | https://m.media-amazon.com/images/I/31vogNpvFVL.jpg | https://m.media-amazon.com/images/I/41mH-XGoLJL.jpg",
       "productUrl": "https://www.amazon.in/UPTO-DATE-PRODUCTS-Internal-Integrated/dp/B0FGQCB557/ref=sr_1_227"
+    },
+    {
+      "sku": "JKE-IIYEMUJRKM4EOWSC",
+      "slug": "electric-saws-accessory-reciprocating-saw-drill-electric",
+      "name": "Electric Saws Accessory Reciprocating Saw Drill Electric...",
+      "brand": "Upto Date Products",
+      "category": "Hand Tools",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/51H+dvQgkLL.jpg | https://m.media-amazon.com/images/I/31eQgf+iTwL.jpg | https://m.media-amazon.com/images/I/41JBSKVCKxL.jpg | https://m.media-amazon.com/images/I/51m+vbYxS7L.jpg | https://m.media-amazon.com/images/I/415XqQW-YmL.jpg | https://m.media-amazon.com/images/I/51RAG5JMpvL.jpg | https://m.media-amazon.com/images/I/31Y6K-CTBBL.jpg | https://m.media-amazon.com/images/I/31tsr7hYawL.jpg",
+      "productUrl": "https://www.amazon.in/UPTO-DATE-PRODUCTS-Reciprocating-Attachment/dp/B0FQ1S8GZB/ref=sr_1_266"
     }
   ]
 }

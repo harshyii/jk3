@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEIVRVJRGFCSCT",
-  "title": "WAAREE 150 Watt Solar Panel Pack of 2-12 Volt Mono perc Cells II High Efficiency II Residential Homes II Lightweight & Easy Installation II Eco-Friendly II 25 Years Performance Warranty II 150 * 2",
+  "title": "WAAREE 150 Watt Solar Panel Pack of 2-12 Volt Mono perc...",
   "brand": "Waaree",
-  "current_price": "₹6,499.00",
+  "current_price": 6499,
   "mrp": 0,
   "product_url": "https://www.amazon.in/WAAREE-Polycrystalline-Installation-Eco-Friendly-Pack/dp/B0DV5LLQHS/ref=sr_1_41",
   "description": "WAAREE 150 Watt Solar Panel Pack of 2-12 Volt Mono perc Cells II High Efficiency II Residential Homes II Lightweight & Easy Installation II Eco-Friendly II 25 Years Performance Warranty II 150 * 2 - Distributed/Packaged by Waaree. Product Details: Power Output: Typically around 150 watts, suitable for various applications including residential, commercial, and industrial use. Efficiency: Efficiency levels can vary but are generally between 15% to 18%, indicating the percentage of sunlight that is converted into electricity. Type of Solar Cells: The WS-150 might use either Mono perc silicon solar cells, with monocrystalline cells offering higher efficiency but often at a higher cost. Dimensions and Weight: Physical dimensions can vary, but the panel is likely to be around 4.5 to 5.5 feet in length and 2 to 2.5 feet in width, weighing approximately 8 to 12 kilograms. Durability: Designed to withstand various environmental conditions, including high winds, snow loads, and hail. Warranty: Waaree might offer a warranty of around 25 years, ensuring the panel's performance and durability over time. Certifications: The panel may be certified to meet certain industry standards for safety and performance, such as IEC and UL certifications.",
@@ -32,8 +32,8 @@
     "Item model number": "‎WS-150 Pack of 2"
   },
   "SKU": "JKE-IIYEIVRVJRGFCSCT",
-  "Name": "WAAREE 150 Watt Solar Panel Pack of 2-12 Volt Mono perc Cells II High Efficiency II Residential Homes II Lightweight & Easy Installation II Eco-Friendly II 25 Years Performance Warranty II 150 * 2",
-  "Slug": "waaree-150-watt-solar-panel-pack-of-2-12-volt-mono-perc-cells-ii-high-efficiency-ii-residential-homes-ii-lightweight-easy-installation-ii-eco-friendly-ii-25-years-performance-warranty-ii-150-2",
+  "Name": "WAAREE 150 Watt Solar Panel Pack of 2-12 Volt Mono perc...",
+  "Slug": "waaree-150-watt-solar-panel-pack-of-2-12-volt-mono-perc",
   "Category": "Measuring & Layout",
   "Subcategory1": "Spirit Levels",
   "Images": [
@@ -47,8 +47,8 @@
     "https://m.media-amazon.com/images/I/51+g9DUo7EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zu0D7u7jL.jpg | https://m.media-amazon.com/images/I/41nhNIH6sDL.jpg | https://m.media-amazon.com/images/I/516cxGNnovL.jpg | https://m.media-amazon.com/images/I/61MG7QS2mcL.jpg | https://m.media-amazon.com/images/I/51IvBivw8CL.jpg | https://m.media-amazon.com/images/I/51UjZaJivWL.jpg | https://m.media-amazon.com/images/I/51+g9DUo7EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹6,499.00"
+  "SalePrice": 6499
 }

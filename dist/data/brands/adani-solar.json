@@ -8,14 +8,94 @@
   "metaDescription": "Browse Adani Solar panels and renewable energy solutions online.",
   "products": [
     {
-      "sku": "JKE-IIYEGVRXIZJFSMRR",
-      "slug": "adani-solar-eternal-shine-monofacial-pv-modules-mbb-p-type-perc-half-cut-asm-m10-144-aaa-144-cells-525-watt-peak-for-commercial-and-household-rooftop-with-module-efficiency-2044",
-      "name": "Adani Solar Eternal Shine - Monofacial Pv Modules Mbb P-Type Perc Half-Cut ASM-M10-144-AAA - 144 Cells | 525 Watt Peak for Commercial and Household Rooftop with Module Efficiency(%) 20.44",
+      "sku": "JKE-IIYEGVRXJNBVORCZ",
+      "slug": "adani-solar-multi-crystalline-solar-pv-modules-asp-7-aaa-72",
+      "name": "Adani Solar Multi Crystalline Solar Pv Modules ASP-7-AAA-72...",
       "brand": "Adani Solar",
       "category": "Fasteners & Hardware",
-      "price": "₹36,399.00",
+      "price": 22999,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Crystalline-ASP-7-AAA-72-Commercial/dp/B0CV7KCWDY/ref=sr_1_274"
+    },
+    {
+      "sku": "JKE-IIYEGVRXIY2DGRZT",
+      "slug": "adani-solar-eternal-shinepack-of-2-monofacial-pv-modules",
+      "name": "Adani Solar Eternal Shine(Pack of 2)- Monofacial Pv Modules...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 21899,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Monofacial-Half-Cut-ASM-M10-144-AAA/dp/B0CV7F43G3/ref=sr_1_202"
+    },
+    {
+      "sku": "JKE-IIYEGVRXG5CDIOCS",
+      "slug": "adani-solar-elan-shine-pack-of-2-144-hc-mbb-p-type",
+      "name": "Adani Solar Elan Shine (Pack of 2) - 144 Hc - Mbb- P-Type...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Elan-Shine-Pack/dp/B0CV77D48R/ref=sr_1_179"
+    },
+    {
+      "sku": "JKE-IIYEGVRXIJLUQSSU",
+      "slug": "adani-solar-elan-shine-pack-of-2-topcon-n-type-bifacial",
+      "name": "Adani Solar Elan Shine (Pack of 2) Topcon N-Type Bifacial...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 22999,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Transparent-Commercial-Efficiency/dp/B0CV7BWHJT/ref=sr_1_210"
+    },
+    {
+      "sku": "JKE-IIYEGVRXIZJFSMRR",
+      "slug": "adani-solar-eternal-shine-monofacial-pv-modules-mbb",
+      "name": "Adani Solar Eternal Shine - Monofacial Pv Modules Mbb...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 36399,
       "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
       "productUrl": "https://www.amazon.in/Adani-Solar-Eternal-Shine-ASM-M10-144-AAA/dp/B0CV7FRY21/ref=sr_1_258"
+    },
+    {
+      "sku": "JKE-IIYEGVRYIJCEUQ2Q",
+      "slug": "adani-solar-eternal-shine-pack-of-2-monofacial-pv",
+      "name": "Adani Solar Eternal Shine (Pack of 2)- Monofacial Pv...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 21899,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Monofacial-Half-Cut-ASM-M10-144-AAA/dp/B0CV8BDJCP/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-IIYEGVRXINHEINSZ",
+      "slug": "adani-solar-elan-shine-pack-of-2-182-144-mbb-p-type-perc",
+      "name": "Adani Solar Elan Shine (Pack of 2)-182-144-Mbb P-Type Perc...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 22599,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-182-144-Mbb-ASB-M10-144-Commercial/dp/B0CV7CND6Y/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-IIYEGVRXKZJEEVSW",
+      "slug": "adani-solar-eternal-shine-pack-of-2-monofacial-pv",
+      "name": "Adani Solar Eternal Shine (Pack of 2) - Monofacial Pv...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 21499,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Eternal-Shine-Pack/dp/B0CV7VRBVV/ref=sr_1_6"
+    },
+    {
+      "sku": "JKE-IIYEGVRXKBLTGWKR",
+      "slug": "adani-solar-elan-shine-pack-of-2-144-hc-mbb-p-type",
+      "name": "Adani Solar Elan Shine (Pack of 2) - 144 Hc - Mbb- P-Type...",
+      "brand": "Adani Solar",
+      "category": "Fasteners & Hardware",
+      "price": 22599,
+      "image": "https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg | https://m.media-amazon.com/images/I/51SyXCSRjrL.jpg",
+      "productUrl": "https://www.amazon.in/Adani-Solar-Elan-Shine-Pack/dp/B0CV7PW3YQ/ref=sr_1_17"
     }
   ]
 }

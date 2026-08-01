@@ -1,0 +1,26 @@
+{
+  "name": "Kapicon",
+  "slug": "kapicon",
+  "products": [
+    {
+      "sku": "JKE-IIYEMOCIJNMFUTJZ",
+      "slug": "kp-30-portable-high-pressure-car-washer-1800w-160-bar",
+      "name": "KP-30 Portable High Pressure Car Washer 1800W | 160 Bar...",
+      "brand": "Kapicon",
+      "category": "Power Tools",
+      "price": 7349,
+      "image": "https://m.media-amazon.com/images/I/81U2Au6i8vL.jpg | https://m.media-amazon.com/images/I/513g3XK3EIL.jpg | https://m.media-amazon.com/images/I/51qoSZ-tcmL.jpg | https://m.media-amazon.com/images/I/51I7lg7alyL.jpg | https://m.media-amazon.com/images/I/51VAdlRoj4L.jpg | https://m.media-amazon.com/images/I/51JfvOD87dL.jpg | https://m.media-amazon.com/images/I/5142gKHz-uL.jpg | https://m.media-amazon.com/images/I/41bUb6qbmgL.jpg",
+      "productUrl": "https://www.amazon.in/Kapicon-Portable-Pressure-Cleaning-Purpose/dp/B0F8HKXZM9/ref=sr_1_79"
+    },
+    {
+      "sku": "JKE-IIYEONCEGIZVINSZ",
+      "slug": "kp-5-high-pressure-washer-1800w-120-bar-power-6lmin",
+      "name": "KP-5 High Pressure Washer 1800W | 120 Bar Power | 6L/min...",
+      "brand": "Kapicon",
+      "category": "Power Tools",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/71ShxxGlOWL.jpg | https://m.media-amazon.com/images/I/518WXbjMRnL.jpg | https://m.media-amazon.com/images/I/51bgxJIw++L.jpg | https://m.media-amazon.com/images/I/510ga7zy+EL.jpg | https://m.media-amazon.com/images/I/510hzm07qkL.jpg | https://m.media-amazon.com/images/I/51mGybEUHyL.jpg | https://m.media-amazon.com/images/I/51zQD4F+4NL.jpg",
+      "productUrl": "https://www.amazon.in/KP-5-Pressure-Portable-Adjustable-Function/dp/B0G4D23T6Y/ref=sr_1_299"
+    }
+  ]
+}

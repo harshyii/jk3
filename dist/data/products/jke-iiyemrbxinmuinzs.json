@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEMRBXINMUINZS",
-  "title": "5 Pcs Small Solar Panels,1W 5V 200ma Mini Solar Panel Photovoltaic Solar Cells Charger Kits with Wire Clip 89.5mm*89.5mm for Phone DIY Electric Toy Light (5Pcs 5V+Wire Clip)",
+  "title": "5 Pcs Small Solar Panels,1W 5V 200ma Mini Solar Panel...",
   "brand": "Kejnyt",
-  "current_price": "₹4,056.00",
+  "current_price": 4056,
   "mrp": 0,
   "product_url": "https://www.amazon.in/KEJNYT-Panels-Photovoltaic-Charger-Electric/dp/B0FD7CYD72/ref=sr_1_236",
   "rating": "4.84.8 out of 5 stars(18)4.8 out of 5 stars",
@@ -30,21 +30,21 @@
     "Brand Name": "KEJNYT",
     "Model Number": "KJ0018",
     "Manufacturer": "KEJNYT",
-    "Included Components": "Cable Clip",
-    "Item Weight": "45 g",
     "Item Type Name": "General",
     "ASIN": "B0FD7CYD72",
     "Customer Reviews": "4.84.8 out of 5 stars(18)4.8 out of 5 stars",
-    "Item Dimensions L x W x H": "8.9L x 8.9W x 0.2H Centimeters",
     "Connector Type": "Clip",
-    "Maximum Voltage": "5 Volts",
-    "Amperage Capacity": "0.2 Amps",
+    "Included Components": "Cable Clip",
+    "Item Dimensions L x W x H": "8.9L x 8.9W x 0.2H Centimeters",
+    "Item Weight": "45 g",
+    "Output Voltage": "5 Volts",
     "Upper Temperature Rating": "85 Degrees Celsius",
-    "Output Voltage": "5 Volts"
+    "Maximum Voltage": "5 Volts",
+    "Amperage Capacity": "0.2 Amps"
   },
   "SKU": "JKE-IIYEMRBXINMUINZS",
-  "Name": "5 Pcs Small Solar Panels,1W 5V 200ma Mini Solar Panel Photovoltaic Solar Cells Charger Kits with Wire Clip 89.5mm*89.5mm for Phone DIY Electric Toy Light (5Pcs 5V+Wire Clip)",
-  "Slug": "5-pcs-small-solar-panels1w-5v-200ma-mini-solar-panel-photovoltaic-solar-cells-charger-kits-with-wire-clip-895mm895mm-for-phone-diy-electric-toy-light-5pcs-5vwire-clip",
+  "Name": "5 Pcs Small Solar Panels,1W 5V 200ma Mini Solar Panel...",
+  "Slug": "5-pcs-small-solar-panels1w-5v-200ma-mini-solar-panel",
   "Category": "Electrical & Wiring",
   "Subcategory1": "Wire Strippers",
   "Images": [
@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51kKeXZnLDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6111p7eTydL.jpg | https://m.media-amazon.com/images/I/31PNBDngHFL.jpg | https://m.media-amazon.com/images/I/51-AsGnSC5L.jpg | https://m.media-amazon.com/images/I/51+Xf+rOJKL.jpg | https://m.media-amazon.com/images/I/41MCK-BKf9L.jpg | https://m.media-amazon.com/images/I/41xKdl6ybKL.jpg | https://m.media-amazon.com/images/I/41djUrRe2TL.jpg | https://m.media-amazon.com/images/I/51kKeXZnLDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹4,056.00",
+  "SalePrice": 4056,
   "Model": "KJ0018"
 }

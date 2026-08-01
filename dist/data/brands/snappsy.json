@@ -1,0 +1,26 @@
+{
+  "name": "Snappsy",
+  "slug": "snappsy",
+  "products": [
+    {
+      "sku": "JKE-IIYEQQSDIJLEUUKT",
+      "slug": "heavy-duty-tow-rope-with-metal-loops-emergency-braided",
+      "name": "Heavy-Duty Tow Rope with Metal Loops Emergency Braided...",
+      "brand": "Snappsy",
+      "category": "Fasteners & Hardware",
+      "price": 2387,
+      "image": "https://m.media-amazon.com/images/I/61CqZLkcm0L.jpg | https://m.media-amazon.com/images/I/41ccn6aYDsL.jpg | https://m.media-amazon.com/images/I/51sJAIwusiL.jpg | https://m.media-amazon.com/images/I/41SGsQ7BqWL.jpg | https://m.media-amazon.com/images/I/41Y6ylrMYfL.jpg | https://m.media-amazon.com/images/I/41B7Z87LVVL.jpg | https://m.media-amazon.com/images/I/51NoqcZL9eL.jpg | https://m.media-amazon.com/images/I/316-J2Ugg+L.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBCBVJQS/ref=sr_1_228"
+    },
+    {
+      "sku": "JKE-IIYEQQSCLBFDKMKK",
+      "slug": "heavy-duty-tow-rope-with-metal-loops-emergency-braided",
+      "name": "Heavy-Duty Tow Rope with Metal Loops Emergency Braided...",
+      "brand": "Snappsy",
+      "category": "Fasteners & Hardware",
+      "price": 2255,
+      "image": "https://m.media-amazon.com/images/I/61bSR4sNoOL.jpg | https://m.media-amazon.com/images/I/41IaQjIcCUL.jpg | https://m.media-amazon.com/images/I/41Y6ylrMYfL.jpg | https://m.media-amazon.com/images/I/41SGsQ7BqWL.jpg | https://m.media-amazon.com/images/I/51sJAIwusiL.jpg | https://m.media-amazon.com/images/I/41B7Z87LVVL.jpg | https://m.media-amazon.com/images/I/51NoqcZL9eL.jpg | https://m.media-amazon.com/images/I/31PUwrSSx-L.jpg",
+      "productUrl": "https://www.amazon.in/dp/B0HBBXJ51J/ref=sr_1_226"
+    }
+  ]
+}

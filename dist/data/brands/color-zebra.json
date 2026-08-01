@@ -1,0 +1,26 @@
+{
+  "name": "Color Zebra",
+  "slug": "color-zebra",
+  "products": [
+    {
+      "sku": "JKE-IIYEOQ2TKNMVIOKY",
+      "slug": "color-zebra-car-wax-body-polish-carnauba-wax-infused",
+      "name": "Color Zebra Car Wax Body Polish, Carnauba Wax Infused...",
+      "brand": "Color Zebra",
+      "category": "Power Tools",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61mDmxYV94L.jpg | https://m.media-amazon.com/images/I/61mDmxYV94L.jpg",
+      "productUrl": "https://www.amazon.in/Color-Zebra-Carnauba-Protection-Oxidation/dp/B0GCSSYT9X/ref=sr_1_122"
+    },
+    {
+      "sku": "JKE-IIYEQNSRKBBDMU2I",
+      "slug": "color-zebra-liquid-wax-polish-200-ml-kit-deep-gloss",
+      "name": "Color Zebra Liquid Wax Polish 200 mL (Kit)| Deep Gloss...",
+      "brand": "Color Zebra",
+      "category": "Power Tools",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/61nCbK1b4XL.jpg | https://m.media-amazon.com/images/I/41pZCG-DS8L.jpg | https://m.media-amazon.com/images/I/41hyqQeRcbL.jpg | https://m.media-amazon.com/images/I/41McTUbjSnL.jpg | https://m.media-amazon.com/images/I/41bnlLY3eEL.jpg | https://m.media-amazon.com/images/I/41TwMaz--XL.jpg | https://m.media-amazon.com/images/I/41Ue-X6p8+L.jpg | https://m.media-amazon.com/images/I/51Qox9s2JSL.jpg",
+      "productUrl": "https://www.amazon.in/Color-Zebra-Protection-Carnauba-Formula/dp/B0H6QPB6SH/ref=sr_1_137"
+    }
+  ]
+}

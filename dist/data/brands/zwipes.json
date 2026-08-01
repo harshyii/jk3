@@ -1,0 +1,26 @@
+{
+  "name": "Zwipes",
+  "slug": "zwipes",
+  "products": [
+    {
+      "sku": "JKE-IIYDCRRWJNIESNSP",
+      "slug": "zwipes-auto-894-microfiber-car-wax-applicator-pads-5-inch",
+      "name": "Zwipes Auto 894 Microfiber Car Wax Applicator Pads, 5-inch,...",
+      "brand": "Zwipes",
+      "category": "Plumbing",
+      "price": 2466,
+      "image": "https://m.media-amazon.com/images/I/7122yOL4wHL.jpg | https://m.media-amazon.com/images/I/41Z5nmKDBjL.jpg | https://m.media-amazon.com/images/I/41PsilNKNtL.jpg | https://m.media-amazon.com/images/I/41TnImb1GVL.jpg | https://m.media-amazon.com/images/I/41zgSb3+HoL.jpg | https://m.media-amazon.com/images/I/51-MHvOIhqL.jpg",
+      "productUrl": "https://www.amazon.in/Zwipes-894-Microfiber-Applicator-5-Inch/dp/B01F6KPI6O/ref=sr_1_236"
+    },
+    {
+      "sku": "JKE-IIYDAMCPJ5MEUQSF",
+      "slug": "zwipes-auto-434-microfiber-ultra-car-wash-mitt",
+      "name": "Zwipes Auto 434 Microfiber Ultra Car Wash Mitt",
+      "brand": "Zwipes",
+      "category": "Measuring & Layout",
+      "price": 2765.78,
+      "image": "https://m.media-amazon.com/images/I/81QW-9EptpL.jpg | https://m.media-amazon.com/images/I/51ef+snRW5L.jpg | https://m.media-amazon.com/images/I/61A2QadiotL.jpg | https://m.media-amazon.com/images/I/61ul0DV1-ZL.jpg",
+      "productUrl": "https://www.amazon.in/Zwipes-Auto-434-Microfiber-Ultra/dp/B000OOXJBE/ref=sr_1_55"
+    }
+  ]
+}

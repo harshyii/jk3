@@ -8,24 +8,2474 @@
   "metaDescription": "Browse Groz industrial hand tools, fluid handling equipment, and workshop accessories.",
   "products": [
     {
-      "sku": "JKE-IIYDOQ2SIZGVSVCO",
-      "slug": "groz-27-pcs-12-inch-socket-tool-kit-for-mechanics-professionals-diys-chrome-vanadium-3x-durable-sockets-kitskth1-227ug",
-      "name": "Groz 27 pcs 1/2 inch Socket Tool Kit for Mechanics, Professionals, DIYs | Chrome Vanadium| 3X Durable Sockets| KIT/SKT/H/1-2/27/UG",
+      "sku": "JKE-IIYDAMZWKVHVMVSL",
+      "slug": "groz-engineers-precision-square-150mm-16-microns-high",
+      "name": "GROZ Engineer’s Precision Square 150mm, 16 Microns High...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 832.25,
+      "image": "https://m.media-amazon.com/images/I/61C+XoaTrhS.jpg | https://m.media-amazon.com/images/I/21m2Km0dlsS.jpg | https://m.media-amazon.com/images/I/31t1VvAAePS.jpg | https://m.media-amazon.com/images/I/41KQuvvZpYS.jpg | https://m.media-amazon.com/images/I/31L+A2YwglL.jpg | https://m.media-amazon.com/images/I/4105oBGBOAS.jpg | https://m.media-amazon.com/images/I/41OVvQujJsS.jpg",
+      "productUrl": "https://www.amazon.in/Engineers-Precision-checking-accuracy-Hardened/dp/B0036UOVVK/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYDQRRZKM3FQNCL",
+      "slug": "groz-coolant-mixer-with-mixing-ratio-control-knob-ideal",
+      "name": "GROZ Coolant Mixer with Mixing Ratio Control Knob| Ideal...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 9812,
+      "image": "https://m.media-amazon.com/images/I/61ss0S0IjQL.jpg | https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg | https://m.media-amazon.com/images/I/31Gg5mv8ZOL.jpg | https://m.media-amazon.com/images/I/316gbQvTC7L.jpg | https://m.media-amazon.com/images/I/41k-3uglyYL.jpg | https://m.media-amazon.com/images/I/41OHrcwtt6L.jpg | https://m.media-amazon.com/images/I/41CRRmiPcpL.jpg",
+      "productUrl": "https://www.amazon.in/Coolant-Control-blending-Portable-Maintenance/dp/B08F9S6X4K/ref=sr_1_274"
+    },
+    {
+      "sku": "JKE-IIYDCTRRLFFFETKI",
+      "slug": "groz-tool-spw14-adjustable-pipe-wrenches-stillson-pattern",
+      "name": "Groz Tool SPW/14 Adjustable Pipe Wrenches, Stillson Pattern",
       "brand": "Groz",
       "category": "Hand Tools",
-      "price": "₹8,564.88",
-      "image": "https://m.media-amazon.com/images/I/51hJLt4aQZL.jpg",
-      "productUrl": "https://www.amazon.in/GROZ-KIT-SKT-H1-2-27/dp/B07CRFMYTN/ref=sr_1_288"
+      "price": 933.75,
+      "image": "https://m.media-amazon.com/images/I/61ZsqUdqWZL.jpg | https://m.media-amazon.com/images/I/31bATAQhSJL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Tool-SPW-14-Adjustable/dp/B01N1YJRMH/ref=sr_1_153"
+    },
+    {
+      "sku": "JKE-IIYEOM2KGQ3UGSCZ",
+      "slug": "groz-professional-red-handle-hacksawhand-saw-frame-12",
+      "name": "Groz Professional Red Handle Hacksaw/Hand Saw Frame- 12...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 542.94,
+      "image": "https://m.media-amazon.com/images/I/51VK9UUcViL.jpg | https://m.media-amazon.com/images/I/31wIbk3H+hL.jpg | https://m.media-amazon.com/images/I/31KNPga7dUL.jpg | https://m.media-amazon.com/images/I/316N5id2NmL.jpg | https://m.media-amazon.com/images/I/419CDrIaknL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Professional-Handle-Hacksaw-Frame/dp/B0G3J47CHY/ref=sr_1_266"
+    },
+    {
+      "sku": "JKE-IIYDQSZYJA4TQUKQ",
+      "slug": "groz-double-piston-grease-gun-with-6-extension-coupler-",
+      "name": "Groz Double Piston Grease Gun with 6\" Extension, Coupler |...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 1204,
+      "image": "https://m.media-amazon.com/images/I/41EE9uus9OL.jpg | https://m.media-amazon.com/images/I/31h6GPN8svL.jpg | https://m.media-amazon.com/images/I/41cuYnmaDML.jpg | https://m.media-amazon.com/images/I/41dzAdh-gVL.jpg | https://m.media-amazon.com/images/I/41DmMn1-ucL.jpg | https://m.media-amazon.com/images/I/41dLfEAq61L.jpg | https://m.media-amazon.com/images/I/41O5f0vN10L.jpg",
+      "productUrl": "https://www.amazon.in/mechanism-voluminous-applications-Discharge-extension/dp/B08K8H98QP/ref=sr_1_4"
+    },
+    {
+      "sku": "JKE-IIYDQTKCKQ2VUWCR",
+      "slug": "groz-spring-divider-with-spring-joint-for-precision",
+      "name": "GROZ Spring Divider with Spring Joint for Precision...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 316.78,
+      "image": "https://m.media-amazon.com/images/I/611tKBxnTSL.jpg | https://m.media-amazon.com/images/I/31tBBr1mv5L.jpg",
+      "productUrl": "https://www.amazon.in/comparative-measurements-transferring-dimensions-Construction/dp/B08MBT5ZXQ/ref=sr_1_202"
+    },
+    {
+      "sku": "JKE-IIYDOOKSLBFFSUBX",
+      "slug": "groz-set-of-9-hex-keys-with-ball-end-extra-long-hex-keys",
+      "name": "GROZ Set of 9 Hex Keys with Ball End | Extra Long Hex Keys...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1527.74,
+      "image": "https://m.media-amazon.com/images/I/71taHSpRnzL.jpg | https://m.media-amazon.com/images/I/31kO38xYZVL.jpg | https://m.media-amazon.com/images/I/41BTSqAqIhL.jpg | https://m.media-amazon.com/images/I/412JWL3JhFL.jpg | https://m.media-amazon.com/images/I/41nX-9Ivu5L.jpg",
+      "productUrl": "https://www.amazon.in/Extra-Mechanics-Repair-Technicians-Durable/dp/B079RXJYP7/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYDQWCKJBNFMMK2",
+      "slug": "groz-impact-wrench-with-rocking-dog-mechanism-ideal-for",
+      "name": "GROZ Impact Wrench with Rocking Dog Mechanism| Ideal for...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 5367,
+      "image": "https://m.media-amazon.com/images/I/71UyITpU+5L.jpg | https://m.media-amazon.com/images/I/41dA4AdJPLL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Mechanism-maintenance-industry-Lightweight/dp/B08XJHZV1Z/ref=sr_1_130"
+    },
+    {
+      "sku": "JKE-IIYEMSSGG5KDETKN",
+      "slug": "groz-x-series-8-kg-bucket-grease-pump-with-2m-hose",
+      "name": "Groz X-series 8 Kg Bucket Grease Pump with 2m Hose,...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 4633.5,
+      "image": "https://m.media-amazon.com/images/I/713rI0r6y1L.jpg | https://m.media-amazon.com/images/I/41lugGnDxiL.jpg | https://m.media-amazon.com/images/I/41KYw9j4+FL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Extension-Follower-Pressure-X-8A/dp/B0FJF7T2MM/ref=sr_1_93"
+    },
+    {
+      "sku": "JKE-IIYDQUCDKJMTGVSO",
+      "slug": "groz-strap-wrench-with-anti-scratch-nylon-strap-ideal",
+      "name": "Groz Strap Wrench with Anti- Scratch Nylon Strap| Ideal...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 3023,
+      "image": "https://m.media-amazon.com/images/I/61KQEmwc0PL.jpg | https://m.media-amazon.com/images/I/314um-TvZhL.jpg | https://m.media-amazon.com/images/I/51rAEVRGohL.jpg",
+      "productUrl": "https://www.amazon.in/Scratch-Loosening-Tightening-Fittings-Irregular/dp/B08PCRY3VN/ref=sr_1_225"
+    },
+    {
+      "sku": "JKE-IIYDQSS2GY2FAWCE",
+      "slug": "groz-smart-funnel-for-petrol-diesel-kerosene-capacity",
+      "name": "Groz Smart Funnel for Petrol, Diesel, Kerosene | Capacity...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 411,
+      "image": "https://m.media-amazon.com/images/I/61SmLJn0o-L.jpg | https://m.media-amazon.com/images/I/316PGGLf0JL.jpg | https://m.media-amazon.com/images/I/41S7yKK1fxS.jpg | https://m.media-amazon.com/images/I/41r11YEl87S.jpg | https://m.media-amazon.com/images/I/31yPc8CGs0S.jpg | https://m.media-amazon.com/images/I/41QrsYIfrmS.jpg",
+      "productUrl": "https://www.amazon.in/Funnel-Diesel-Gasoline-Kerosene-Capacity/dp/B08JZ64PXD/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-IIYEIWCWJJDVCSBS",
+      "slug": "groz-rubber-mallet-black-567-gms-14-inch-for-automotive",
+      "name": "Groz Rubber Mallet Black 567 gms, 14 Inch | For Automotive,...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 744.19,
+      "image": "https://m.media-amazon.com/images/I/51tK+OYLUKL.jpg | https://m.media-amazon.com/images/I/21agLMgOZkL.jpg | https://m.media-amazon.com/images/I/41GTnUNUkdL.jpg | https://m.media-amazon.com/images/I/41Mpul0N0ML.jpg | https://m.media-amazon.com/images/I/41dvupB1X9L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Automotive-Industrial-MLTR-20B/dp/B0DXVJGQH2/ref=sr_1_190"
+    },
+    {
+      "sku": "JKE-IIYDQOCCHBJVSVCQ",
+      "slug": "groz-heavy-duty-analog-tyre-inflator-gauge-for-cars-",
+      "name": "Groz Heavy Duty Analog Tyre Inflator Gauge for Cars |...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 3059.79,
+      "image": "https://m.media-amazon.com/images/I/314weXet4LL.jpg | https://m.media-amazon.com/images/I/314weXet4LL.jpg",
+      "productUrl": "https://www.amazon.in/Inflator-Measures-Pressure-Inflate-Accuracy/dp/B088B8SYTP/ref=sr_1_87"
+    },
+    {
+      "sku": "JKE-IIYEQMZUGFGVCWSK",
+      "slug": "groz-cordless-impact-wrench-12-inch-drive-1000-nm-max",
+      "name": "GROZ Cordless Impact Wrench | 1/2 Inch Drive | 1000 Nm Max...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 39998,
+      "image": "https://m.media-amazon.com/images/I/618WMCBeDbL.jpg | https://m.media-amazon.com/images/I/31Al+a0DWjL.jpg | https://m.media-amazon.com/images/I/41vb6gZdEzL.jpg | https://m.media-amazon.com/images/I/41ROZ9G0DJL.jpg | https://m.media-amazon.com/images/I/410Whzg8T5L.jpg | https://m.media-amazon.com/images/I/41iuc34iCpL.jpg | https://m.media-amazon.com/images/I/512lqzSdGOL.jpg | https://m.media-amazon.com/images/I/41Be8gQ5cnL.jpg",
+      "productUrl": "https://www.amazon.in/Batteries-BIW-1-2-L2-EU/dp/B0H341MQZJ/ref=sr_1_118"
+    },
+    {
+      "sku": "JKE-IIYDON2YJYYTCOCY",
+      "slug": "groz-drill-press-vice-with-specially-designed-jaws-ideal",
+      "name": "GROZ Drill Press Vice with Specially Designed Jaws| Ideal...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 4735.5,
+      "image": "https://m.media-amazon.com/images/I/711tWDmNvYL.jpg | https://m.media-amazon.com/images/I/41nu0EJO2fL.jpg | https://m.media-amazon.com/images/I/41r8R7CQhTL.jpg | https://m.media-amazon.com/images/I/51Fph3x-CvL.jpg | https://m.media-amazon.com/images/I/51tk6SZsxoL.jpg | https://m.media-amazon.com/images/I/41NS-PT571L.jpg | https://m.media-amazon.com/images/I/51c0okbfPJL.jpg | https://m.media-amazon.com/images/I/51wm1CeP6yL.jpg",
+      "productUrl": "https://www.amazon.in/Specially-Designed-Stands-Presses-Durable/dp/B077XN118X/ref=sr_1_67"
+    },
+    {
+      "sku": "JKE-IIYDOOKUGRNFQTCR",
+      "slug": "groz-digital-caliper-with-dual-measurement-system-inches-",
+      "name": "GROZ Digital Caliper with Dual Measurement System (Inches &...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 16517.04,
+      "image": "https://m.media-amazon.com/images/I/61m8PGFX2GL.jpg | https://m.media-amazon.com/images/I/316Gwzp5pbL.jpg | https://m.media-amazon.com/images/I/41AY8XlfZZL.jpg | https://m.media-amazon.com/images/I/41oFpAhQJ7L.jpg | https://m.media-amazon.com/images/I/41StLNE5mmL.jpg | https://m.media-amazon.com/images/I/41wTxfufy4L.jpg | https://m.media-amazon.com/images/I/51BbQI8c30L.jpg | https://m.media-amazon.com/images/I/41GSwUk5bUL.jpg",
+      "productUrl": "https://www.amazon.in/Measurement-Stainless-Contrast-Transfer-Resistant/dp/B079T4ZXLQ/ref=sr_1_214"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFJVMVBY",
+      "slug": "groz-g-clamp-300mm-with-unbreakable-body-ideal-for-variety",
+      "name": "GROZ G Clamp 300mm with unbreakable body| Ideal for Variety...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 2539.81,
+      "image": "https://m.media-amazon.com/images/I/71p8xaF0B3L.jpg | https://m.media-amazon.com/images/I/41iDHRuqyBL.jpg | https://m.media-amazon.com/images/I/41vucXI+nLL.jpg | https://m.media-amazon.com/images/I/41Ny1GnpOuL.jpg | https://m.media-amazon.com/images/I/41P9+D2vL6L.jpg",
+      "productUrl": "https://www.amazon.in/unbreakable-Woodworking-Applications-Textured-Capacity/dp/B079SYSVT8/ref=sr_1_136"
+    },
+    {
+      "sku": "JKE-IIYDOOBZKJMEUWKG",
+      "slug": "groz-foot-operated-grease-pump-10-kg-12-months-warranty",
+      "name": "Groz Foot Operated Grease Pump 10 Kg | 12 Months Warranty|...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 9254,
+      "image": "https://m.media-amazon.com/images/I/61VSHSUnJNL.jpg | https://m.media-amazon.com/images/I/41yOdH+ePBL.jpg | https://m.media-amazon.com/images/I/61k6Pkly9qL.jpg | https://m.media-amazon.com/images/I/41Hr1H3mqYL.jpg | https://m.media-amazon.com/images/I/41BHHK7cm8L.jpg | https://m.media-amazon.com/images/I/41FzG2oV3PL.jpg | https://m.media-amazon.com/images/I/41341qrYrmL.jpg | https://m.media-amazon.com/images/I/51lu7fVpxOL.jpg",
+      "productUrl": "https://www.amazon.in/automotive-equipment-Discharge-FOP-10A/dp/B0789RXJYF/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-IIYEESRSKZMDEOBW",
+      "slug": "groz-vertical-lift-pump-with-push-back-handle-durable-and",
+      "name": "Groz Vertical Lift Pump with Push-Back Handle | Durable and...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 3259.28,
+      "image": "https://m.media-amazon.com/images/I/61wXqi-+TzL.jpg | https://m.media-amazon.com/images/I/31cMM1M2jbL.jpg",
+      "productUrl": "https://www.amazon.in/Vertical-Push-Back-Durable-Install-Industrial/dp/B0BJ2VX286/ref=sr_1_272"
+    },
+    {
+      "sku": "JKE-IIYDCRBZGQZVCRBW",
+      "slug": "groz-03522-3-center-square-finder-capacity",
+      "name": "Groz 03522 3\" Center Square, Finder Capacity",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 9433,
+      "image": "https://m.media-amazon.com/images/I/81OOeOii6nL.jpg | https://m.media-amazon.com/images/I/31OQ7ggD6HL.jpg | https://m.media-amazon.com/images/I/41tYvRndsbL.jpg | https://m.media-amazon.com/images/I/210toYC7TyL.jpg | https://m.media-amazon.com/images/I/31A1QDBMCIL.jpg | https://m.media-amazon.com/images/I/417pLotuqDL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Center-Square-Finder-Capacity/dp/B01D943QD6/ref=sr_1_144"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGZBDGTKS",
+      "slug": "groz-lightweight-retractable-utility-knife-with-5-blades",
+      "name": "Groz Lightweight Retractable Utility Knife with 5 Blades...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 436.7,
+      "image": "https://m.media-amazon.com/images/I/61sE07q192L.jpg | https://m.media-amazon.com/images/I/21lwAO6AVqL.jpg | https://m.media-amazon.com/images/I/31OCYqOX-FL.jpg | https://m.media-amazon.com/images/I/31bnBJ3I93L.jpg | https://m.media-amazon.com/images/I/41dGJMOY3vL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-KNV-Retractable-Utility-Knife/dp/B07J26B3MR/ref=sr_1_104"
+    },
+    {
+      "sku": "JKE-IIYDSURULJHEYURZ",
+      "slug": "groz-39703-fp6-fore-plane-6-60mm-458mm-length",
+      "name": "Groz 39703 FP/6 Fore Plane #6 60mm 458mm Length",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 18737,
+      "image": "https://m.media-amazon.com/images/I/61NOl0EhVEL.jpg | https://m.media-amazon.com/images/I/31OtChNpm+L.jpg | https://m.media-amazon.com/images/I/41UJ7d+zxwL.jpg | https://m.media-amazon.com/images/I/21GY7kCKOYL.jpg | https://m.media-amazon.com/images/I/31TcycgkuRL.jpg | https://m.media-amazon.com/images/I/31xHjxn7KOL.jpg | https://m.media-amazon.com/images/I/31aAXsI+AKL.jpg | https://m.media-amazon.com/images/I/31zq+SpFAlL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-39703-Plane-458mm-Length/dp/B09R4ZNLR9/ref=sr_1_122"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGZME2NKM",
+      "slug": "groz-durable-nylon-travel-back-pack-for-mechanics",
+      "name": "Groz Durable Nylon Travel Back Pack for Mechanics,...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 1914,
+      "image": "https://m.media-amazon.com/images/I/61ElVvxB6TL.jpg | https://m.media-amazon.com/images/I/31gNwSyBBnL.jpg | https://m.media-amazon.com/images/I/41PFQmQX+WL.jpg | https://m.media-amazon.com/images/I/41zUJ9zVpBL.jpg | https://m.media-amazon.com/images/I/41EQbzxlLYL.jpg | https://m.media-amazon.com/images/I/41EUUbAXqHL.jpg | https://m.media-amazon.com/images/I/51ktdvW9SRL.jpg | https://m.media-amazon.com/images/I/41aRxb0LitL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-NTB-Back-Pack-Holders/dp/B07J26XM5L/ref=sr_1_135"
+    },
+    {
+      "sku": "JKE-IIYDON2XKNBEMS2D",
+      "slug": "groz-outside-micrometers-with-balanced-frame-design-",
+      "name": "Groz Outside Micrometers with Balanced Frame Design |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 2857,
+      "image": "https://m.media-amazon.com/images/I/61m1LqPxdtL.jpg | https://m.media-amazon.com/images/I/31QeqWWTlBL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Micrometers-Balanced-Measures-Accuracy/dp/B077WSBFKC/ref=sr_1_283"
+    },
+    {
+      "sku": "JKE-IIYEMTCEINDU4TJU",
+      "slug": "groz-heavy-duty-truck-wheel-spannerwrench-30mm-x-33mm-",
+      "name": "Groz Heavy Duty Truck Wheel Spanner/Wrench 30mm x 33mm-...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1678.08,
+      "image": "https://m.media-amazon.com/images/I/51K+R9inAaL.jpg | https://m.media-amazon.com/images/I/2194WkGAONL.jpg | https://m.media-amazon.com/images/I/31uFxWonbpL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Spanner-Rust-Resistant-Tractors-Vehicles/dp/B0FLDCGNM4/ref=sr_1_90"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RI5ITSOKR",
+      "slug": "groz-durable-large-nylon-tool-bag-for-mechanics-plumbers",
+      "name": "Groz Durable, Large Nylon Tool Bag for Mechanics, Plumbers,...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 1448,
+      "image": "https://m.media-amazon.com/images/I/51EkqR1bPDL.jpg | https://m.media-amazon.com/images/I/31e4NTsCB4L.jpg | https://m.media-amazon.com/images/I/3172Utv-l2L.jpg | https://m.media-amazon.com/images/I/51MMnLvVzcL.jpg | https://m.media-amazon.com/images/I/41kyE+e-4JL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Mechanics-Plumbers-Electricians-Homeowners/dp/B07CQGQ99Q/ref=sr_1_27"
+    },
+    {
+      "sku": "JKE-IIYEMN2SKE3VQSSN",
+      "slug": "groz-15w-outdoor-flood-light-led-900lumens-upto-10m",
+      "name": "Groz 15W Outdoor Flood Light LED 900Lumens, Upto 10m...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 3769,
+      "image": "https://m.media-amazon.com/images/I/510k+dcD6jL.jpg | https://m.media-amazon.com/images/I/41V-MvFavIL.jpg | https://m.media-amazon.com/images/I/41wgLzA7frL.jpg | https://m.media-amazon.com/images/I/41LniyX6SDL.jpg | https://m.media-amazon.com/images/I/31iy712pi-L.jpg | https://m.media-amazon.com/images/I/41HiD3YwEDL.jpg | https://m.media-amazon.com/images/I/41oMlvclFpL.jpg | https://m.media-amazon.com/images/I/41cjvmflDjL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-900Lumens-Construction-501/dp/B0F7RQ7XJM/ref=sr_1_92"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFMEYSZX",
+      "slug": "groz-hf15bs-hacksaw-aluminium-die-cast-handle-with",
+      "name": "GROZ HF/15/BS Hacksaw Aluminium Die Cast Handle With...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 538.31,
+      "image": "https://m.media-amazon.com/images/I/71XXm6EaGTL.jpg | https://m.media-amazon.com/images/I/41KC-XufaIL.jpg | https://m.media-amazon.com/images/I/31PRsFH7GcL.jpg | https://m.media-amazon.com/images/I/31CR2TVoeoL.jpg | https://m.media-amazon.com/images/I/31QnVFWkyZL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Hacksaw-Frames-Handle-Tubular/dp/B079RQXLK7/ref=sr_1_197"
+    },
+    {
+      "sku": "JKE-IIYDSWCSGU4VQUCW",
+      "slug": "groz-smart-head-lamp-rechargeable-5w-flood-3w-spotlight",
+      "name": "Groz Smart Head Lamp Rechargeable | 5W Flood & 3W Spotlight...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 2099.5,
+      "image": "https://m.media-amazon.com/images/I/71nBuCbHp0L.jpg | https://m.media-amazon.com/images/I/31ONYdg4-jL.jpg | https://m.media-amazon.com/images/I/31NUiQdpjTL.jpg | https://m.media-amazon.com/images/I/31vzm6gJqqL.jpg | https://m.media-amazon.com/images/I/41yD0wZdzcL.jpg | https://m.media-amazon.com/images/I/41bSE-eQ4BL.jpg | https://m.media-amazon.com/images/I/41gIGtVn-5L.jpg | https://m.media-amazon.com/images/I/313k1aMA3UL.jpg",
+      "productUrl": "https://www.amazon.in/LED-Technology-Spotlight-Industrial-250/dp/B09XR59XPV/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RJNIUYWSW",
+      "slug": "groz-reversible-ratcheting-spanner-with-scratch-proof",
+      "name": "GROZ Reversible Ratcheting Spanner with Scratch Proof...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 870,
+      "image": "https://m.media-amazon.com/images/I/415LlmvhPuL.jpg | https://m.media-amazon.com/images/I/21OUg9sLWnL.jpg | https://m.media-amazon.com/images/I/21sk6cooBLL.jpg | https://m.media-amazon.com/images/I/21hbuCf--gL.jpg | https://m.media-amazon.com/images/I/21p1V58TAfL.jpg | https://m.media-amazon.com/images/I/31pdttvyCxL.jpg",
+      "productUrl": "https://www.amazon.in/Reversible-Ratcheting-Ultra-Premium-applications-Construction/dp/B07CQKQLZV/ref=sr_1_169"
+    },
+    {
+      "sku": "JKE-IIYEQMZYLA4DOUKW",
+      "slug": "groz-cordless-impact-wrench-12-drive-400-nm-max",
+      "name": "GROZ Cordless Impact Wrench | 1/2\" Drive | 400 Nm Max...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 20798,
+      "image": "https://m.media-amazon.com/images/I/611C8fwVI2L.jpg | https://m.media-amazon.com/images/I/313GDHHL19L.jpg | https://m.media-amazon.com/images/I/41LeHBv16CL.jpg | https://m.media-amazon.com/images/I/41NO5IodvaL.jpg | https://m.media-amazon.com/images/I/41yMZtL+a-L.jpg | https://m.media-amazon.com/images/I/41rwNzsvhOL.jpg | https://m.media-amazon.com/images/I/51gd1jcwOlL.jpg | https://m.media-amazon.com/images/I/413WftDcRJL.jpg",
+      "productUrl": "https://www.amazon.in/BIW-1-2-20-4-L1-EU/dp/B0H38X87QV/ref=sr_1_99"
+    },
+    {
+      "sku": "JKE-IIYEITSYLAZFEUJS",
+      "slug": "groz-flat-screwdriver-300mm-with-magnetic-tip-general",
+      "name": "Groz Flat Screwdriver 300mm with Magnetic Tip | General...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 132,
+      "image": "https://m.media-amazon.com/images/I/41AWsQmebgL.jpg | https://m.media-amazon.com/images/I/114jDq+X3BL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Magnetic-General-Purpose/dp/B0DNXX2RQ2/ref=sr_1_111"
+    },
+    {
+      "sku": "JKE-IIYEQMZTLBITCWKC",
+      "slug": "groz-cordless-impact-drill-driver-12-keyless-chuck-60",
+      "name": "GROZ Cordless Impact Drill Driver | 1/2\" Keyless Chuck | 60...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 14398,
+      "image": "https://m.media-amazon.com/images/I/71GgEpysvPL.jpg | https://m.media-amazon.com/images/I/31JPchYdNiL.jpg | https://m.media-amazon.com/images/I/41GoyN5B3IL.jpg | https://m.media-amazon.com/images/I/41VNGV65B-L.jpg | https://m.media-amazon.com/images/I/41PhZqEp3wL.jpg | https://m.media-amazon.com/images/I/41e65hyFeBL.jpg | https://m.media-amazon.com/images/I/41i4AQ6EIzL.jpg | https://m.media-amazon.com/images/I/51wFZbxjhoL.jpg",
+      "productUrl": "https://www.amazon.in/Brushless-BID-13-20-2-EU/dp/B0H33XQ1YB/ref=sr_1_307"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLI4DSTSX",
+      "slug": "groz-300-ml-oil-can-with-6-rigid-steel-spout-oil-can-for",
+      "name": "GROZ 300 ml Oil Can with 6” Rigid steel spout | Oil Can for...",
+      "brand": "Groz",
+      "category": "Plumbing",
+      "price": 244,
+      "image": "https://m.media-amazon.com/images/I/719uNuyxlyL.jpg | https://m.media-amazon.com/images/I/311JF35MjnL.jpg | https://m.media-amazon.com/images/I/41OwbkFZbrL.jpg | https://m.media-amazon.com/images/I/31LlWI2Xt8L.jpg | https://m.media-amazon.com/images/I/41Y1zJj82mL.jpg | https://m.media-amazon.com/images/I/31ve+X5DF-L.jpg",
+      "productUrl": "https://www.amazon.in/lubrication-household-automobiles-applications-Capacity/dp/B07J1Z89NW/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-IIYEMRRTLI3VEQ2G",
+      "slug": "groz-14-slotted-bit-sockets-s55-crv-steel-3x",
+      "name": "GROZ 1/4\" Slotted Bit Sockets S5.5, CrV Steel, 3x...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 58,
+      "image": "https://m.media-amazon.com/images/I/51XUFehbhKL.jpg | https://m.media-amazon.com/images/I/215iMZCF5VL.jpg",
+      "productUrl": "https://www.amazon.in/S5-5-Performance-SKT-1-4-UG/dp/B0FF3Z7RCF/ref=sr_1_98"
+    },
+    {
+      "sku": "JKE-IIYDOOBZKFLVMVCY",
+      "slug": "groz-conical-funnel-with-large-circular-mouth-funnel-for",
+      "name": "GROZ Conical Funnel with Large Circular Mouth| Funnel for...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 217.56,
+      "image": "https://m.media-amazon.com/images/I/71CiNj1P3vL.jpg | https://m.media-amazon.com/images/I/31gpUcEo-bL.jpg",
+      "productUrl": "https://www.amazon.in/Conical-versatile-Gasoline-Kerosene-Capacity/dp/B0789QWVTX/ref=sr_1_19"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RI5HFEM2Y",
+      "slug": "groz-113-kg-club-hammers-12-inch-indestructible-handle",
+      "name": "GROZ 1.13 Kg Club Hammers 12 Inch, Indestructible Handle,...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 2427,
+      "image": "https://m.media-amazon.com/images/I/41hoMv7025L.jpg | https://m.media-amazon.com/images/I/31PpqMfZQpL.jpg | https://m.media-amazon.com/images/I/414wPNGegeL.jpg | https://m.media-amazon.com/images/I/31nvvGD4U-L.jpg | https://m.media-amazon.com/images/I/41Yu8dM0wOL.jpg | https://m.media-amazon.com/images/I/31LSPrksMWL.jpg | https://m.media-amazon.com/images/I/41o3xdWDNTL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-CHID-2-5-12-Indestructible/dp/B07CQGNR3X/ref=sr_1_101"
+    },
+    {
+      "sku": "JKE-IIYEITSYLE4VQMKL",
+      "slug": "groz-flat-screwdriver-200-mm-with-magnetic-tip-general",
+      "name": "Groz Flat Screwdriver 200 mm with Magnetic Tip | General...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 139,
+      "image": "https://m.media-amazon.com/images/I/41hxUHefq4L.jpg | https://m.media-amazon.com/images/I/11j1rY2+ZzL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Magnetic-General-Purpose/dp/B0DNXY9X1K/ref=sr_1_107"
+    },
+    {
+      "sku": "JKE-IIYEESRZGNMDOSBU",
+      "slug": "groz-scoop-and-swipe-set-hassle-free-grease-transfer-",
+      "name": "Groz Scoop and Swipe Set | Hassle-Free Grease Transfer |...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 311.22,
+      "image": "https://m.media-amazon.com/images/I/61xR9GFhQoL.jpg | https://m.media-amazon.com/images/I/21rWOT-wt9L.jpg | https://m.media-amazon.com/images/I/51s28ftEC5L.jpg",
+      "productUrl": "https://www.amazon.in/Hassle-Free-Zero-Wastage-Contamination-Free-GSW-ST/dp/B0BJ93X7H4/ref=sr_1_159"
+    },
+    {
+      "sku": "JKE-IIYDOTRWJJDTSNRZ",
+      "slug": "groz-led711-led-72w-light-barcool-white-colournon",
+      "name": "Groz LED/711 LED 72W Light Bar/Cool White Colour/Non...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 10613,
+      "image": "https://m.media-amazon.com/images/I/61KxtUT3UGL.jpg | https://m.media-amazon.com/images/I/41wvq4MSYlL.jpg | https://m.media-amazon.com/images/I/31iR78uWWSL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-711-Colour-Dimmable/dp/B07N6JG969/ref=sr_1_296"
+    },
+    {
+      "sku": "JKE-IIYEQMZUGFMDGQSN",
+      "slug": "groz-cordless-impact-drill-driver-12-keyless-chuck-60",
+      "name": "GROZ Cordless Impact Drill Driver | 1/2\" Keyless Chuck | 60...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 17598,
+      "image": "https://m.media-amazon.com/images/I/71GgEpysvPL.jpg | https://m.media-amazon.com/images/I/31JPchYdNiL.jpg | https://m.media-amazon.com/images/I/41GoyN5B3IL.jpg | https://m.media-amazon.com/images/I/41VNGV65B-L.jpg | https://m.media-amazon.com/images/I/41PhZqEp3wL.jpg | https://m.media-amazon.com/images/I/41e65hyFeBL.jpg | https://m.media-amazon.com/images/I/41Z1jZlWdCL.jpg | https://m.media-amazon.com/images/I/41i4AQ6EIzL.jpg",
+      "productUrl": "https://www.amazon.in/Batteries-BID-13-20-2-EU/dp/B0H341X3BM/ref=sr_1_212"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFJFENKO",
+      "slug": "groz-7-inch-side-cutting-plier-with-insulation-to-1000v-ac",
+      "name": "GROZ 7 inch Side Cutting Plier with Insulation to 1000V AC|...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 431,
+      "image": "https://m.media-amazon.com/images/I/611DqulPBEL.jpg | https://m.media-amazon.com/images/I/31g+YADtwmL.jpg | https://m.media-amazon.com/images/I/31zZOsTHrUS.jpg",
+      "productUrl": "https://www.amazon.in/insulation-Construction-Corrosion-Resistant-Ergonomic/dp/B079RQRR5N/ref=sr_1_77"
+    },
+    {
+      "sku": "JKE-IIYDQOKRGJNDMSCL",
+      "slug": "groz-dual-drive-ratchet-handle-with-52-gear-design-quick",
+      "name": "Groz Dual Drive Ratchet Handle with 52 Gear Design & Quick...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 4699.2,
+      "image": "https://m.media-amazon.com/images/I/61vYRD5u-0L.jpg | https://m.media-amazon.com/images/I/31pJGmrI1EL.jpg | https://m.media-amazon.com/images/I/414RohD5zSL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Ratchet-Handle-Design-Release/dp/B089Q2Z6HK/ref=sr_1_175"
+    },
+    {
+      "sku": "JKE-IIYDOOBVJNFEINJR",
+      "slug": "groz-fully-automatic-centre-punch-spring-loaded-no",
+      "name": "GROZ Fully Automatic Centre Punch | Spring Loaded, No...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 268.04,
+      "image": "https://m.media-amazon.com/images/I/71abfgLq1sL.jpg | https://m.media-amazon.com/images/I/31W8gg-4T9L.jpg | https://m.media-amazon.com/images/I/41vOSotuJ8L.jpg | https://m.media-amazon.com/images/I/411Ca5JjIgL.jpg | https://m.media-amazon.com/images/I/411TD6cR1TL.jpg | https://m.media-amazon.com/images/I/41H6PTsomYL.jpg | https://m.media-amazon.com/images/I/41+SoTv-wXL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Automatic-Hammering-Adjustable-Impression/dp/B0785KJD51/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKNLDSNBW",
+      "slug": "groz-34-inch-npt-manual-fuel-nozzle-with-swivel-15-gpm-",
+      "name": "GROZ 3/4-Inch NPT Manual Fuel Nozzle with Swivel | 15 GPM |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 13440,
+      "image": "https://m.media-amazon.com/images/I/81NPUANNKNL.jpg | https://m.media-amazon.com/images/I/41NEaCbyKbL.jpg | https://m.media-amazon.com/images/I/412Ld110oJL.jpg | https://m.media-amazon.com/images/I/41MqreQ9NVL.jpg | https://m.media-amazon.com/images/I/31wLnRgh2TL.jpg | https://m.media-amazon.com/images/I/319TEsCjAWL.jpg | https://m.media-amazon.com/images/I/31A5b7odQUL.jpg | https://m.media-amazon.com/images/I/31igcvm+3aL.jpg",
+      "productUrl": "https://www.amazon.in/Electric-Continuous-Unattended-Dispensing-45593/dp/B079RSV946/ref=sr_1_184"
+    },
+    {
+      "sku": "JKE-IIYDQTCWIJDEONBU",
+      "slug": "groz-external-straight-circlip-plier-with-precise-solid",
+      "name": "GROZ External Straight Circlip Plier with Precise & Solid...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 355.56,
+      "image": "https://m.media-amazon.com/images/I/6131QOoOh7L.jpg | https://m.media-amazon.com/images/I/31J0ueiNIML.jpg | https://m.media-amazon.com/images/I/317DJ5cv16S.jpg",
+      "productUrl": "https://www.amazon.in/External-Straight-Vanadium-Construction-Resistant/dp/B08LVBFG44/ref=sr_1_226"
+    },
+    {
+      "sku": "JKE-IIYDOQ2SIZGVSVCO",
+      "slug": "groz-27-pcs-12-inch-socket-tool-kit-for-mechanics",
+      "name": "Groz 27 pcs 1/2 inch Socket Tool Kit for Mechanics,...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 8564.88,
+      "image": "https://m.media-amazon.com/images/I/71z56MypVpL.jpg | https://m.media-amazon.com/images/I/51hJLt4aQZL.jpg | https://m.media-amazon.com/images/I/51nksZxsTUL.jpg | https://m.media-amazon.com/images/I/411lVSCOnML.jpg | https://m.media-amazon.com/images/I/41LRxG5ze6L.jpg | https://m.media-amazon.com/images/I/51kCn-A-T9L.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-KIT-SKT-H1-2-27/dp/B07CRFMYTN/ref=sr_1_132"
+    },
+    {
+      "sku": "JKE-IIYDQSBYGY3TONKI",
+      "slug": "groz-heavy-duty-long-arm-hand-riveter-with-built-in-mandrel",
+      "name": "GROZ Heavy Duty Long Arm Hand Riveter with built in mandrel...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 2995.52,
+      "image": "https://m.media-amazon.com/images/I/71Dm3AeXhFL.jpg | https://m.media-amazon.com/images/I/31hlLrfYbEL.jpg",
+      "productUrl": "https://www.amazon.in/Riveter-collector-manufacturing-applications-Maintenance/dp/B08H86775H/ref=sr_1_230"
+    },
+    {
+      "sku": "JKE-IIYEITSZGFGVMWRS",
+      "slug": "groz-2-in-1-screwdriver-interchangeable-heads-flat",
+      "name": "Groz 2 in 1 Screwdriver | Interchangeable Heads | Flat...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 98,
+      "image": "https://m.media-amazon.com/images/I/51+noIttiaL.jpg | https://m.media-amazon.com/images/I/21+rVjgtViL.jpg | https://m.media-amazon.com/images/I/31KdSSDtBxL.jpg | https://m.media-amazon.com/images/I/21FNRnCIoYL.jpg | https://m.media-amazon.com/images/I/21KAhLjuTjL.jpg | https://m.media-amazon.com/images/I/21XthY5uXlL.jpg | https://m.media-amazon.com/images/I/31fvMorrxsL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Interchangeable-Reversible-Professional/dp/B0DNY1MVZ2/ref=sr_1_85"
+    },
+    {
+      "sku": "JKE-IIYEEUSCGVKDQNCZ",
+      "slug": "groz-flat-head-stubby-screwdriver-with-magnetic-tip-fl65",
+      "name": "Groz Flat-Head Stubby Screwdriver with Magnetic Tip, FL6.5...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 156,
+      "image": "https://m.media-amazon.com/images/I/51UC4c5fq3L.jpg | https://m.media-amazon.com/images/I/21gr9xJtlKL.jpg | https://m.media-amazon.com/images/I/316OfAjDGhL.jpg | https://m.media-amazon.com/images/I/41e7Du+iiNL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Cushion-Grip-Screwdrivers-Professional/dp/B0BRB5T84Y/ref=sr_1_109"
+    },
+    {
+      "sku": "JKE-IIYDOM2XGZMFUQRY",
+      "slug": "groz-rotary-barrel-pump-with-dual-direction-operation-12",
+      "name": "GROZ Rotary Barrel Pump with Dual Direction Operation| 12...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 3144,
+      "image": "https://m.media-amazon.com/images/I/71YPUbt-f7S.jpg | https://m.media-amazon.com/images/I/41JC5-CiGnS.jpg | https://m.media-amazon.com/images/I/31GvtHTKPRS.jpg | https://m.media-amazon.com/images/I/21k8sATvfaS.jpg | https://m.media-amazon.com/images/I/31rLZZBIHyS.jpg | https://m.media-amazon.com/images/I/5163FvyU6KS.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Rotary-Barrel-Direction-Operation/dp/B073W6XZB8/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG5ETCTBU",
+      "slug": "groz-grease-gun-with-push-type-mechanism-ideal-for",
+      "name": "GROZ Grease Gun with Push Type Mechanism| Ideal for...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 526.88,
+      "image": "https://m.media-amazon.com/images/I/511SzLRSrlL.jpg | https://m.media-amazon.com/images/I/21r4XnDxTqL.jpg | https://m.media-amazon.com/images/I/21fnqAQitWL.jpg | https://m.media-amazon.com/images/I/31DoZqHwjPL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-mechanism-Discharge-universal-connector/dp/B00VX7I1L4/ref=sr_1_95"
+    },
+    {
+      "sku": "JKE-IIYDQRSKGVDEOSCX",
+      "slug": "groz-movable-drum-cradle-with-self-storing-lever-bar-",
+      "name": "GROZ Movable Drum Cradle with Self-Storing Lever Bar |...",
+      "brand": "Groz",
+      "category": "Plumbing",
+      "price": 5122,
+      "image": "https://m.media-amazon.com/images/I/71JzQZvCykL.jpg | https://m.media-amazon.com/images/I/41OvbLa5GyL.jpg | https://m.media-amazon.com/images/I/517DpdpirYL.jpg | https://m.media-amazon.com/images/I/411C1DVY1tL.jpg | https://m.media-amazon.com/images/I/41ZKdvw0a-L.jpg",
+      "productUrl": "https://www.amazon.in/Movable-Self-Storing-Tipping-Rotating-Draining/dp/B08FJ5FGHW/ref=sr_1_83"
+    },
+    {
+      "sku": "JKE-IIYDQTBUJRBEYSCS",
+      "slug": "groz-screwdriver-with-magnetized-tip-ideal-for-home",
+      "name": "Groz Screwdriver with Magnetized Tip| Ideal for Home,...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 121,
+      "image": "https://m.media-amazon.com/images/I/613OnwewRsL.jpg | https://m.media-amazon.com/images/I/21UIY4JbpPL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Magnetized-Industrial-Applications/dp/B08L4LBLHR/ref=sr_1_82"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGVEFOVCN",
+      "slug": "groz-3-in-1-tyre-inflator-gauge-with-dual-unit-measurement",
+      "name": "GROZ 3 in 1 Tyre Inflator Gauge with Dual Unit Measurement|...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 4134.67,
+      "image": "https://m.media-amazon.com/images/I/614eMwutWoL.jpg | https://m.media-amazon.com/images/I/41d4SW0SS7L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-TIG-24D-BSP-Inflator/dp/B07J25HWTM/ref=sr_1_183"
+    },
+    {
+      "sku": "JKE-IIYDSWRSGRDFUNSS",
+      "slug": "groz-set-of-4-multipurpose-funnels-for-kitchen-and",
+      "name": "GROZ Set of 4 Multipurpose Funnels for Kitchen and...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 341.76,
+      "image": "https://m.media-amazon.com/images/I/61T6ch7tRkL.jpg | https://m.media-amazon.com/images/I/31MZQ42HQZL.jpg | https://m.media-amazon.com/images/I/41EOTmX6y9L.jpg | https://m.media-amazon.com/images/I/41aWe24M6kL.jpg | https://m.media-amazon.com/images/I/31MUTuWpfjL.jpg | https://m.media-amazon.com/images/I/31B6OFZKOYL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Multipurpose-Industrial-Spill-Free-Transferring/dp/B09Z24FZ6R/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLFLDSOKK",
+      "slug": "groz-kitskth1-49lhug-hand-socket-14-inch-drive-hex-9",
+      "name": "Groz KIT/SKT/H/1-4/9LH/UG Hand Socket 1/4 Inch Drive Hex 9...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 1729,
+      "image": "https://m.media-amazon.com/images/I/71-7WflavML.jpg | https://m.media-amazon.com/images/I/414xFeHP8OL.jpg | https://m.media-amazon.com/images/I/312MHfPvzEL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-KIT-SKT-1-4-9LH/dp/B07J1YV99J/ref=sr_1_124"
+    },
+    {
+      "sku": "JKE-IIYEERRUG5CDIRC2",
+      "slug": "groz-plastic-lever-action-pump-with-lever-adjustment-",
+      "name": "Groz Plastic Lever Action Pump with Lever Adjustment |...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 1394,
+      "image": "https://m.media-amazon.com/images/I/41Fu17DpjML.jpg | https://m.media-amazon.com/images/I/31AbSyqe01L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Adjustment-Telescopic-Industrial-Agricuture/dp/B0BF47D4DZ/ref=sr_1_138"
+    },
+    {
+      "sku": "JKE-IIYDQRZUJZJEQNSD",
+      "slug": "groz-ring-slogging-wrench-ideal-for-tightening-and",
+      "name": "Groz Ring Slogging Wrench| Ideal for tightening and...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1430.08,
+      "image": "https://m.media-amazon.com/images/I/71xtDiduy0L.jpg | https://m.media-amazon.com/images/I/417dUKnBFIL.jpg | https://m.media-amazon.com/images/I/41dCMUAkUoS.jpg | https://m.media-amazon.com/images/I/41FLH1Vo14S.jpg",
+      "productUrl": "https://www.amazon.in/Tightening-Maintenance-Industrial-Applications-Construction/dp/B08G4NRH6C/ref=sr_1_297"
+    },
+    {
+      "sku": "JKE-IIYDQR2LINMEQSSY",
+      "slug": "groz-grease-fitting-thread-tester-with-lightweight-aluminum",
+      "name": "GROZ Grease Fitting Thread Tester with Lightweight Aluminum...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 1248.97,
+      "image": "https://m.media-amazon.com/images/I/61TMI+SdHSL.jpg | https://m.media-amazon.com/images/I/31XrvLRftLL.jpg | https://m.media-amazon.com/images/I/31NrNh6EUhL.jpg | https://m.media-amazon.com/images/I/31HnE0E6FML.jpg | https://m.media-amazon.com/images/I/41dvlIg27AL.jpg",
+      "productUrl": "https://www.amazon.in/Fitting-Lightweight-Aluminum-Construction-Designed/dp/B08GKCXHJX/ref=sr_1_186"
+    },
+    {
+      "sku": "JKE-IIYDOTRWJJBVUSZS",
+      "slug": "groz-dual-power-30w-cob-rechargeable-work-floodlight-with",
+      "name": "Groz Dual Power 30W COB Rechargeable Work Floodlight with...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 16120.22,
+      "image": "https://m.media-amazon.com/images/I/71JlGhKrqqL.jpg | https://m.media-amazon.com/images/I/41AMUVHzCLL.jpg | https://m.media-amazon.com/images/I/41ymnvS8oiL.jpg | https://m.media-amazon.com/images/I/413nLCtWb+L.jpg | https://m.media-amazon.com/images/I/41U0xJq0A2L.jpg | https://m.media-amazon.com/images/I/41H7XOIXDAL.jpg | https://m.media-amazon.com/images/I/41ywryUviGL.jpg | https://m.media-amazon.com/images/I/41D-QwTS4WL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-670-Rechargeable-Telescopic/dp/B07N6JCZK2/ref=sr_1_68"
+    },
+    {
+      "sku": "JKE-IIYEINKZGZDEOWKR",
+      "slug": "groz-wire-solder-clamp-with-built-in-coil-thumb-control",
+      "name": "Groz Wire Solder Clamp with Built in Coil | Thumb Control...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1700.04,
+      "image": "https://m.media-amazon.com/images/I/61AZtE8anUL.jpg | https://m.media-amazon.com/images/I/21GqyyAXpML.jpg | https://m.media-amazon.com/images/I/412QzZZYlyL.jpg | https://m.media-amazon.com/images/I/412zwU01wYL.jpg | https://m.media-amazon.com/images/I/31rPSU5bhZL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Aluminum-WST-01-ST/dp/B0D5Y6FGYQ/ref=sr_1_208"
+    },
+    {
+      "sku": "JKE-IIYDCTRQLAZTGUSK",
+      "slug": "groz-penetrating-rust-solvent-spray-ideal-for-releasing-",
+      "name": "GROZ Penetrating Rust Solvent Spray| Ideal for releasing &...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 589,
+      "image": "https://m.media-amazon.com/images/I/71q+r8s5JlL.jpg | https://m.media-amazon.com/images/I/41zXbvcm2eL.jpg | https://m.media-amazon.com/images/I/31eCEeKe5sL.jpg | https://m.media-amazon.com/images/I/31ekk5AQaQL.jpg | https://m.media-amazon.com/images/I/51va2mtIKzL.jpg | https://m.media-amazon.com/images/I/51un6YidUuL.jpg | https://m.media-amazon.com/images/I/51R46iZITuL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Tool-GO10-Penetrating-Solvent/dp/B01N0X33RJ/ref=sr_1_102"
+    },
+    {
+      "sku": "JKE-IIYDQUZTHAZVEWBS",
+      "slug": "groz-extension-bar-with-chrome-plated-finish-ideal-for-use",
+      "name": "GROZ Extension Bar with Chrome Plated Finish| Ideal for use...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 222,
+      "image": "https://m.media-amazon.com/images/I/41SllDun20L.jpg | https://m.media-amazon.com/images/I/11ZyycixSLL.jpg | https://m.media-amazon.com/images/I/21q02zuUYuL.jpg | https://m.media-amazon.com/images/I/21Q9HEJSq0L.jpg | https://m.media-amazon.com/images/I/11MvBPu6j9L.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Extension-Confined-Vanadium-Durable/dp/B08S383RX2/ref=sr_1_112"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG5ETSQ2L",
+      "slug": "groz-v-series-bucket-grease-pump-6-kg12-months-warranty",
+      "name": "GROZ V Series Bucket Grease Pump 6 KG,12 Months Warranty,...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 4000,
+      "image": "https://m.media-amazon.com/images/I/51qATz7Fs0L.jpg | https://m.media-amazon.com/images/I/41IuBr6GroL.jpg | https://m.media-amazon.com/images/I/41dmc5fU0ML.jpg | https://m.media-amazon.com/images/I/41YxoYHzbxL.jpg | https://m.media-amazon.com/images/I/41FoquSgXkL.jpg | https://m.media-amazon.com/images/I/41oDT5rM2eL.jpg | https://m.media-amazon.com/images/I/41U-85s0gjL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Bucket-Grease-VGP-6A/dp/B00VX7I9CK/ref=sr_1_21"
+    },
+    {
+      "sku": "JKE-IIYEITJZGQZUGM2E",
+      "slug": "groz-3-in-1-rechargeable-smd-light-worklight-inspection",
+      "name": "Groz 3-in-1, Rechargeable SMD Light | Worklight, Inspection...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 4834.5,
+      "image": "https://m.media-amazon.com/images/I/51dOHKiNWAL.jpg | https://m.media-amazon.com/images/I/319pqFUahPL.jpg | https://m.media-amazon.com/images/I/31u3xN1w1tL.jpg | https://m.media-amazon.com/images/I/31tOUqYLztL.jpg | https://m.media-amazon.com/images/I/31ieNVBZxML.jpg | https://m.media-amazon.com/images/I/31DL-bSGPVL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Rechargeable-Inspection-Brightness-Impact-Proof/dp/B0DM943C3D/ref=sr_1_48"
+    },
+    {
+      "sku": "JKE-IIYDOWJZLJGU4OCW",
+      "slug": "groz-15w-cob-led-rechargeable-under-hood-light-for-car",
+      "name": "Groz 15W COB LED Rechargeable Under-Hood Light for Car...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 13296.62,
+      "image": "https://m.media-amazon.com/images/I/61ZClKlnnSL.jpg | https://m.media-amazon.com/images/I/31rytQ5no6L.jpg | https://m.media-amazon.com/images/I/31nqmQeZycL.jpg | https://m.media-amazon.com/images/I/319InlRtwML.jpg | https://m.media-amazon.com/images/I/41DyUvomY3L.jpg | https://m.media-amazon.com/images/I/5187qlngAyL.jpg | https://m.media-amazon.com/images/I/41mf1vvSupL.jpg | https://m.media-amazon.com/images/I/51nQJzZZYtL.jpg",
+      "productUrl": "https://www.amazon.in/Rechargeable-Under-Hood-Mechanics-Workshop-Maintenance/dp/B07Y9ZMN8V/ref=sr_1_140"
+    },
+    {
+      "sku": "JKE-IIYEMTCEJA2EMQRU",
+      "slug": "groz-heavy-duty-truck-spannerwheel-wrench-27mm-x-33mm",
+      "name": "Groz Heavy Duty Truck Spanner/Wheel Wrench -27mm x 33mm...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1678.08,
+      "image": "https://m.media-amazon.com/images/I/51K+R9inAaL.jpg | https://m.media-amazon.com/images/I/2194WkGAONL.jpg | https://m.media-amazon.com/images/I/21cAutr2LmL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Spanner-Rust-Resistant-Tractors-Vehicles/dp/B0FLDH4FB4/ref=sr_1_286"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFJVOWSN",
+      "slug": "groz-41900-plastic-measures-with-lid-capacity-1-litre-1",
+      "name": "Groz 41900 Plastic Measures with Lid Capacity 1 litre (1...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 311,
+      "image": "https://m.media-amazon.com/images/I/71jBsY90s6L.jpg | https://m.media-amazon.com/images/I/31G406BdstL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-41900-Plastic-Measures-Capacity/dp/B079SYSWZM/ref=sr_1_38"
+    },
+    {
+      "sku": "JKE-IIYDOOKTGEZUQMKC",
+      "slug": "groz-external-bent-circlip-plier-with-precise-solid",
+      "name": "GROZ External Bent Circlip Plier with Precise & Solid...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 341.25,
+      "image": "https://m.media-amazon.com/images/I/6137OsKX0YL.jpg | https://m.media-amazon.com/images/I/31zffo2Z1yL.jpg | https://m.media-amazon.com/images/I/31IuK9Nzm6S.jpg | https://m.media-amazon.com/images/I/31Hdx4EqBfL.jpg",
+      "productUrl": "https://www.amazon.in/External-Vanadium-Construction-Resistant-Ergonomic/dp/B079S13H1B/ref=sr_1_75"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKI3UIRCY",
+      "slug": "groz-super-precision-toolmakers-vice-ideal-for-inspection",
+      "name": "GROZ Super Precision Toolmakers Vice| Ideal for inspection...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 9342,
+      "image": "https://m.media-amazon.com/images/I/81F8hL9sucL.jpg | https://m.media-amazon.com/images/I/41Vrgp+f-LL.jpg | https://m.media-amazon.com/images/I/41hZZfzEVgL.jpg | https://m.media-amazon.com/images/I/4121qvm9LyL.jpg",
+      "productUrl": "https://www.amazon.in/Precision-Toolmakers-inspection-manufacturing-processes/dp/B079RR7DDX/ref=sr_1_268"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKNLDOVCW",
+      "slug": "groz-8-inch-mig-welding-pliers-heavy-duty-c50-forged",
+      "name": "Groz 8-inch MIG Welding Pliers | Heavy Duty | C50 Forged...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 5323,
+      "image": "https://m.media-amazon.com/images/I/714pwkiePyL.jpg | https://m.media-amazon.com/images/I/31VbUwiMEGL.jpg | https://m.media-amazon.com/images/I/31N5Y+zovtL.jpg | https://m.media-amazon.com/images/I/31MScWabPhL.jpg | https://m.media-amazon.com/images/I/41UFCfHxBcL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-8-inch-Welding-Pliers-31660/dp/B079RSV7TV/ref=sr_1_277"
+    },
+    {
+      "sku": "JKE-IIYDON2XKNBEMRBY",
+      "slug": "groz-engineers-precision-square-ideal-for-setting-up-",
+      "name": "GROZ Engineer’s Precision Square| Ideal for setting up &...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 627.83,
+      "image": "https://m.media-amazon.com/images/I/51Ydma+zchS.jpg | https://m.media-amazon.com/images/I/11+W701mKmS.jpg | https://m.media-amazon.com/images/I/31yQDNp-nmS.jpg | https://m.media-amazon.com/images/I/41KQuvvZpYS.jpg | https://m.media-amazon.com/images/I/41zFLiNtyRS.jpg | https://m.media-amazon.com/images/I/51-mrxkkvGS.jpg | https://m.media-amazon.com/images/I/31Ood793-zL.jpg",
+      "productUrl": "https://www.amazon.in/Engineers-Precision-checking-accuracy-Hardened/dp/B077WSBFD8/ref=sr_1_104"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG5HTONSN",
+      "slug": "groz-revolving-punch-plier-with-6-punch-sizes-durable-and",
+      "name": "Groz Revolving Punch Plier with 6 Punch Sizes | Durable and...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 463,
+      "image": "https://m.media-amazon.com/images/I/41XzvYmCe4L.jpg | https://m.media-amazon.com/images/I/31Q3j+CiszL.jpg | https://m.media-amazon.com/images/I/31ODw5GtbXL.jpg | https://m.media-amazon.com/images/I/41H4m5+hYgL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-RPL-6-Revolving-Leather-Punch/dp/B00VX7O76M/ref=sr_1_148"
+    },
+    {
+      "sku": "JKE-IIYDQTBUJAZU4VZZ",
+      "slug": "groz-screwdriver-with-magnetized-tip-ideal-for-home",
+      "name": "Groz Screwdriver with Magnetized Tip| Ideal for Home,...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 89,
+      "image": "https://m.media-amazon.com/images/I/41nCHGZJXAL.jpg | https://m.media-amazon.com/images/I/21aUrQ5eN8L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Magnetized-Industrial-Applications/dp/B08L4H3NW9/ref=sr_1_105"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG5FESMSV",
+      "slug": "groz-plastic-lever-pump-ideal-for-use-with-high-viscosity",
+      "name": "GROZ Plastic Lever Pump| Ideal for use with high viscosity...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 5257,
+      "image": "https://m.media-amazon.com/images/I/61nIohORblL.jpg | https://m.media-amazon.com/images/I/31lnvLdzKlL.jpg | https://m.media-amazon.com/images/I/41-049GnDAL.jpg | https://m.media-amazon.com/images/I/41UxbDuwyWL.jpg | https://m.media-amazon.com/images/I/31LmTMYqpRL.jpg | https://m.media-amazon.com/images/I/418lBSE51QL.jpg",
+      "productUrl": "https://www.amazon.in/Plastic-viscosity-agricultural-chemicals-Operation/dp/B00VX7JI2U/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-IIYDOQ2SINJFSWKM",
+      "slug": "groz-reversible-ratcheting-spanner-with-scratch-proof",
+      "name": "GROZ Reversible Ratcheting Spanner with Scratch Proof...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 965.09,
+      "image": "https://m.media-amazon.com/images/I/41mi4qKQ67L.jpg | https://m.media-amazon.com/images/I/11DB9RNC6UL.jpg | https://m.media-amazon.com/images/I/21N8dGFBoJL.jpg | https://m.media-amazon.com/images/I/212m15GOSjL.jpg | https://m.media-amazon.com/images/I/21CVVhJbLdL.jpg | https://m.media-amazon.com/images/I/3127oMgnekL.jpg",
+      "productUrl": "https://www.amazon.in/Reversible-Ratcheting-Ultra-Premium-applications-Construction/dp/B07CRCRYYL/ref=sr_1_125"
+    },
+    {
+      "sku": "JKE-IIYEMRRUJJKE2USK",
+      "slug": "groz-hex-impact-socket-34-drive-30mm-premium-chrome",
+      "name": "GROZ Hex Impact Socket 3/4\" Drive, 30mm | Premium Chrome...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 716,
+      "image": "https://m.media-amazon.com/images/I/41kp0E4pBTL.jpg | https://m.media-amazon.com/images/I/21m8a9Nb4HL.jpg | https://m.media-amazon.com/images/I/21Agm2sUEiL.jpg | https://m.media-amazon.com/images/I/21Z8UU4OBlL.jpg | https://m.media-amazon.com/images/I/214rzOstHSL.jpg",
+      "productUrl": "https://www.amazon.in/Molybdenum-Rustproof-ISKT-3-4-30/dp/B0FF4JTMRJ/ref=sr_1_69"
+    },
+    {
+      "sku": "JKE-IIYDOOCCGVEDOWJZ",
+      "slug": "groz-extra-large-funnel-for-tractor-bus-trucks-funnel",
+      "name": "GROZ Extra- Large funnel for Tractor, Bus, Trucks, | Funnel...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 521.19,
+      "image": "https://m.media-amazon.com/images/I/51nNPj6-KTL.jpg | https://m.media-amazon.com/images/I/31eKHy4tG6L.jpg | https://m.media-amazon.com/images/I/41MnuM1HsRL.jpg | https://m.media-amazon.com/images/I/31o6JlfzfML.jpg | https://m.media-amazon.com/images/I/311eSs4TUgL.jpg | https://m.media-amazon.com/images/I/31EBUoSKUJL.jpg | https://m.media-amazon.com/images/I/317d+yAsXTL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-extra-large-Gasoline-Kerosene-Capacity/dp/B078B5H7Y9/ref=sr_1_7"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGZBDGUJW",
+      "slug": "groz-heavy-duty-digital-tyre-inflator-gauge-for-trucks-",
+      "name": "Groz Heavy Duty Digital Tyre Inflator Gauge for Trucks |...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 4848.41,
+      "image": "https://m.media-amazon.com/images/I/71ZQ3qKEIdL.jpg | https://m.media-amazon.com/images/I/31c3BdW62sL.jpg | https://m.media-amazon.com/images/I/41xtGl4VeZL.jpg | https://m.media-amazon.com/images/I/513bcxniKvL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-TIG-24D-BSP-Inflator/dp/B07J26B3Q6/ref=sr_1_110"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFJFGNKC",
+      "slug": "groz-heavy-duty-adjustable-tap-reamer-wrenches-bar-type",
+      "name": "Groz Heavy Duty Adjustable Tap & Reamer Wrenches| Bar Type...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 582.52,
+      "image": "https://m.media-amazon.com/images/I/61UQjRNgVPL.jpg | https://m.media-amazon.com/images/I/21h2WV0igNL.jpg | https://m.media-amazon.com/images/I/417+G2rRrvL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Adjustable-Reamer-Wrenches-Length/dp/B079RQRS5B/ref=sr_1_115"
+    },
+    {
+      "sku": "JKE-IIYDOOKUGRFDQTSO",
+      "slug": "groz-digital-caliper-with-dual-measurement-system-inches-",
+      "name": "GROZ Digital Caliper with Dual Measurement System (Inches &...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 11975.25,
+      "image": "https://m.media-amazon.com/images/I/41TEyP+IeBL.jpg | https://m.media-amazon.com/images/I/313XuH-1UkL.jpg",
+      "productUrl": "https://www.amazon.in/Digital-Measurement-Stainless-Contrast-Transfer/dp/B079T4J8NN/ref=sr_1_278"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG5ITITSH",
+      "slug": "groz-dial-comparator-stand-with-precisely-ground-cast-iron",
+      "name": "GROZ Dial Comparator Stand with Precisely Ground Cast Iron...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 9456.83,
+      "image": "https://m.media-amazon.com/images/I/71J5f8UbWcL.jpg | https://m.media-amazon.com/images/I/41xXHA+oirL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Comparator-Precisely-measurement-Measuring/dp/B00VX7Q4NG/ref=sr_1_216"
+    },
+    {
+      "sku": "JKE-IIYEQMZZGRHDKN2O",
+      "slug": "groz-cordless-impact-wrench-12-drive-1000-nm-max",
+      "name": "GROZ Cordless Impact Wrench | 1/2\" Drive | 1000 Nm Max...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 30398,
+      "image": "https://m.media-amazon.com/images/I/618WMCBeDbL.jpg | https://m.media-amazon.com/images/I/31Al+a0DWjL.jpg | https://m.media-amazon.com/images/I/41vb6gZdEzL.jpg | https://m.media-amazon.com/images/I/41ROZ9G0DJL.jpg | https://m.media-amazon.com/images/I/410Whzg8T5L.jpg | https://m.media-amazon.com/images/I/41iuc34iCpL.jpg | https://m.media-amazon.com/images/I/512lqzSdGOL.jpg | https://m.media-amazon.com/images/I/41Qvee4UQyL.jpg",
+      "productUrl": "https://www.amazon.in/Brushless-BIW-1-2-L1-EU/dp/B0H394N57N/ref=sr_1_156"
+    },
+    {
+      "sku": "JKE-IIYEITSZKZBUUSRR",
+      "slug": "groz-1-drive-impact-socket-chrome-molybdenum",
+      "name": "Groz 1\" Drive Impact socket | Chrome Molybdenum...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 765,
+      "image": "https://m.media-amazon.com/images/I/61aCnTo0HyL.jpg | https://m.media-amazon.com/images/I/31lifj13vbL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Impact-Molybdenum-Construction-Engagement/dp/B0DNYVCJJ1/ref=sr_1_139"
+    },
+    {
+      "sku": "JKE-IIYEMUCGLE3E2SRY",
+      "slug": "groz-20-inch-cross-wheel-spanner-wrench-17mm-x-19mm-21mm-x",
+      "name": "Groz 20 Inch Cross Wheel Spanner Wrench 17mm x 19mm, 21mm x...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 927.84,
+      "image": "https://m.media-amazon.com/images/I/41guVbq-AAL.jpg | https://m.media-amazon.com/images/I/21gsPq+yFaL.jpg | https://m.media-amazon.com/images/I/21bDw0ROfEL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Heavy-Duty-Chrome-Plated-4-Socket-Universal/dp/B0FPFY6MJ8/ref=sr_1_149"
+    },
+    {
+      "sku": "JKE-IIYDCQKEGIYFUUBU",
+      "slug": "groz-professional-grade-8-inch-combination-plier-12",
+      "name": "Groz PROFESSIONAL GRADE 8\" Inch Combination Plier | 12...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 511,
+      "image": "https://m.media-amazon.com/images/I/61n-8clOo2L.jpg | https://m.media-amazon.com/images/I/312-McRVj6L.jpg | https://m.media-amazon.com/images/I/31QOLbn4egL.jpg | https://m.media-amazon.com/images/I/31-XgljM3nL.jpg | https://m.media-amazon.com/images/I/31gfD9EXvaL.jpg | https://m.media-amazon.com/images/I/41lUS73QUSL.jpg | https://m.media-amazon.com/images/I/41G-DoHtS4L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Combination-Applications-Shock-proof-Straightening/dp/B01AD20ZP4/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-IIYDQVCUGVBUITSR",
+      "slug": "groz-speeder-handle-12-inch-drive-chrome-vanadium",
+      "name": "GROZ Speeder Handle 1/2 Inch Drive | Chrome Vanadium...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 1369,
+      "image": "https://m.media-amazon.com/images/I/61MCRFuLcML.jpg | https://m.media-amazon.com/images/I/21Te4Oc5C8L.jpg | https://m.media-amazon.com/images/I/31a8AE5Ly6S.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-loosening-tightening-fasteners-Construction/dp/B08TT5CDNQ/ref=sr_1_145"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG4YUST2H",
+      "slug": "groz-machinists-square-for-carpenters-wood-working-diy",
+      "name": "Groz Machinist’s Square for carpenters, wood working , DIY...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 3635.14,
+      "image": "https://m.media-amazon.com/images/I/61wS0y74NgS.jpg | https://m.media-amazon.com/images/I/11S5xyUF8ZS.jpg | https://m.media-amazon.com/images/I/318xQUkV9TS.jpg | https://m.media-amazon.com/images/I/41KQuvvZpYS.jpg | https://m.media-amazon.com/images/I/41ngess0VDS.jpg | https://m.media-amazon.com/images/I/41FgICD6oMS.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Machinists-Square-Blade-Length/dp/B00VX71IOG/ref=sr_1_181"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKNLUQTSW",
+      "slug": "groz-medium-duty-siphon-pump-for-transferring-soaps",
+      "name": "Groz Medium Duty Siphon Pump for Transferring Soaps,...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 3362,
+      "image": "https://m.media-amazon.com/images/I/61Zvw3esXgL.jpg | https://m.media-amazon.com/images/I/311yLemEJaL.jpg | https://m.media-amazon.com/images/I/31OXGMu6U+L.jpg | https://m.media-amazon.com/images/I/313iApvj3gL.jpg | https://m.media-amazon.com/images/I/21WcEYExdFL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Transferring-Cleaners-Antifreeze-44400/dp/B079RSWHNV/ref=sr_1_185"
+    },
+    {
+      "sku": "JKE-IIYDQRSSIZGE2OJV",
+      "slug": "groz-hand-vice-with-grey-cast-iron-body-ideal-for-working",
+      "name": "GROZ Hand Vice with Grey Cast Iron Body| Ideal for Working...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 419.04,
+      "image": "https://m.media-amazon.com/images/I/41P4Q3GKnxL.jpg | https://m.media-amazon.com/images/I/41P4Q3GKnxL.jpg | https://m.media-amazon.com/images/I/41YI3sj1YtL.jpg",
+      "productUrl": "https://www.amazon.in/Working-Attractive-Enamelled-Operated-Overall/dp/B08FRFLM95/ref=sr_1_73"
+    },
+    {
+      "sku": "JKE-IIYDQS2IIY3TMRBT",
+      "slug": "groz-drum-wrench-with-high-strength-cast-aluminium-body-",
+      "name": "GROZ Drum Wrench with High Strength Cast Aluminium Body |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 934,
+      "image": "https://m.media-amazon.com/images/I/61SK+ytkawS.jpg | https://m.media-amazon.com/images/I/21nXsELhEVS.jpg | https://m.media-amazon.com/images/I/31XSVcWjtyS.jpg | https://m.media-amazon.com/images/I/41lI+Cwc5aL.jpg | https://m.media-amazon.com/images/I/41PEwjbeuTL.jpg",
+      "productUrl": "https://www.amazon.in/Strength-Aluminium-Opening-Perfect-Compact/dp/B08KHF76D3/ref=sr_1_79"
+    },
+    {
+      "sku": "JKE-IIYDCQKUKZGTMRSR",
+      "slug": "groz-steel-wall-mount-clamp-for-air-regulators-and",
+      "name": "Groz Steel Wall Mount Clamp for Air Regulators and...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 3047,
+      "image": "https://m.media-amazon.com/images/I/71J+CC4X9yL.jpg | https://m.media-amazon.com/images/I/41eZ9YBhXiL.jpg | https://m.media-amazon.com/images/I/31+Pl4wrP2L.jpg | https://m.media-amazon.com/images/I/31H31h5ORwL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Regulators-Filter-Regulator-Combinations-Standard/dp/B01ATVM6FQ/ref=sr_1_155"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLI2EWM2T",
+      "slug": "groz-12-inch-drive-slim-line-ratchet-handle-with-60",
+      "name": "Groz 1/2 Inch Drive - Slim Line Ratchet Handle With 60...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 2463,
+      "image": "https://m.media-amazon.com/images/I/618IkJXU1wL.jpg | https://m.media-amazon.com/images/I/31t68GEX8pL.jpg | https://m.media-amazon.com/images/I/312XPNzFXgL.jpg | https://m.media-amazon.com/images/I/31JJptVaaiL.jpg | https://m.media-amazon.com/images/I/31AqoQK99EL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Inch-Drive-Ratchet-Professionals/dp/B07J1Z4K3S/ref=sr_1_172"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLFNFGVS2",
+      "slug": "groz-outside-micrometers-with-balanced-frame-design-",
+      "name": "Groz Outside Micrometers with Balanced Frame Design |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 3186,
+      "image": "https://m.media-amazon.com/images/I/61wE7F-U+9L.jpg | https://m.media-amazon.com/images/I/31iVGzYAYSL.jpg | https://m.media-amazon.com/images/I/41koB1i2FlL.jpg | https://m.media-amazon.com/images/I/41wYgSLkM1L.jpg | https://m.media-amazon.com/images/I/41AQcey6fNL.jpg | https://m.media-amazon.com/images/I/41wBMcZkn-L.jpg | https://m.media-amazon.com/images/I/41pSsp3+ZbL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Micrometers-Balanced-Measures-Accuracy/dp/B07J1YZSVZ/ref=sr_1_179"
+    },
+    {
+      "sku": "JKE-IIYDQWJYLFFEMS2C",
+      "slug": "groz-spinner-handle-14-drive-with-chrome-vanadium",
+      "name": "GROZ Spinner Handle 1/4\" Drive with Chrome Vanadium...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 289.65,
+      "image": "https://m.media-amazon.com/images/I/61mU9OTjDAL.jpg | https://m.media-amazon.com/images/I/31RVuzPy6pL.jpg | https://m.media-amazon.com/images/I/41ElR3IDKoL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Vanadium-Construction-installation-extension/dp/B08Y8YJFKB/ref=sr_1_102"
+    },
+    {
+      "sku": "JKE-IIYDQOKOKFBFSRSR",
+      "slug": "groz-analog-dial-indicator-with-lug-on-center-back-range",
+      "name": "Groz Analog Dial Indicator with Lug-on Center Back | Range:...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 4383.58,
+      "image": "https://m.media-amazon.com/images/I/71ptS4zekjL.jpg | https://m.media-amazon.com/images/I/41v+brve7zL.jpg | https://m.media-amazon.com/images/I/51mD9SVQbRL.jpg | https://m.media-amazon.com/images/I/41kIEFNRUjL.jpg | https://m.media-amazon.com/images/I/41ZOkEzfZSL.jpg | https://m.media-amazon.com/images/I/413Cfzhq8AL.jpg | https://m.media-amazon.com/images/I/41ZLQf0-n+L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Analog-Indicator-Center-Range/dp/B089NQBYFQ/ref=sr_1_210"
+    },
+    {
+      "sku": "JKE-IIYDQR2ZK5CFON2H",
+      "slug": "groz-heavy-duty-measuring-jug-set-of-3-5l1l-600ml-",
+      "name": "GROZ Heavy Duty Measuring Jug Set of 3 (5L,1L, 600ml) |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 1363.2,
+      "image": "https://m.media-amazon.com/images/I/61i420goEqS.jpg | https://m.media-amazon.com/images/I/31c9tDZ5cSS.jpg | https://m.media-amazon.com/images/I/51NzHwU960S.jpg",
+      "productUrl": "https://www.amazon.in/Industrial-Automotive-Transparent-JUG-5-1-600/dp/B08GYWDW7G/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-IIYDQVCUGVFUOQRS",
+      "slug": "groz-sliding-t-bar-with-chrome-plated-finish-ideal-for",
+      "name": "GROZ Sliding T Bar with Chrome Plated Finish| Ideal for...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 223.91,
+      "image": "https://m.media-amazon.com/images/I/612Kq6suEUL.jpg | https://m.media-amazon.com/images/I/21HHekKf2xL.jpg | https://m.media-amazon.com/images/I/3189A3ajArS.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Applications-Tightening-Loosening-Construction/dp/B08TT5KGB2/ref=sr_1_209"
+    },
+    {
+      "sku": "JKE-IIYDON2XJVIU4OKO",
+      "slug": "groz-2-inch-drum-faucettap-with-fluid-level-checker-",
+      "name": "GROZ 2 inch Drum Faucet/Tap with Fluid Level Checker| |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 934,
+      "image": "https://m.media-amazon.com/images/I/71F-mzCeL5L.jpg | https://m.media-amazon.com/images/I/41AkSy+8GZL.jpg | https://m.media-amazon.com/images/I/41+CMIjuw1L.jpg | https://m.media-amazon.com/images/I/31pjiVq9ywL.jpg | https://m.media-amazon.com/images/I/31euBNIGWML.jpg",
+      "productUrl": "https://www.amazon.in/Polyethylene-Threaded-Openings-FAU-0-2/dp/B077WMQN9N/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYEMNBZHFHDSSSH",
+      "slug": "groz-5-liter-high-density-graduated-measuring-container-",
+      "name": "Groz 5 Liter High Density Graduated Measuring Container |...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 8562,
+      "image": "https://m.media-amazon.com/images/I/318EghnwGpL.jpg | https://m.media-amazon.com/images/I/318EghnwGpL.jpg | https://m.media-amazon.com/images/I/51kKV3GcFeL.jpg | https://m.media-amazon.com/images/I/311-tpGG5kL.jpg | https://m.media-amazon.com/images/I/418dTOCwT2L.jpg | https://m.media-amazon.com/images/I/31-txH+WSBL.jpg | https://m.media-amazon.com/images/I/41jmVWi2BsL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Graduated-Measuring-Container-41880/dp/B0F499N9JG/ref=sr_1_137"
+    },
+    {
+      "sku": "JKE-IIYDQSCRJNJEITSS",
+      "slug": "groz-ring-slogging-wrench-ideal-for-tightening-and",
+      "name": "Groz Ring Slogging Wrench| Ideal for tightening and...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 872.77,
+      "image": "https://m.media-amazon.com/images/I/71xtDiduy0L.jpg | https://m.media-amazon.com/images/I/417dUKnBFIL.jpg | https://m.media-amazon.com/images/I/41dCMUAkUoS.jpg | https://m.media-amazon.com/images/I/41FLH1Vo14S.jpg",
+      "productUrl": "https://www.amazon.in/Tightening-Maintenance-Industrial-Applications-Construction/dp/B08HQKRDNR/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYDQTCHLJCFSTST",
+      "slug": "groz-heavy-duty-bench-vice-with-hardened-jaw-ideal-for",
+      "name": "GROZ Heavy Duty Bench Vice with Hardened Jaw| Ideal for...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 5136.55,
+      "image": "https://m.media-amazon.com/images/I/71gh4bckkzL.jpg | https://m.media-amazon.com/images/I/41fEMfee8lL.jpg",
+      "productUrl": "https://www.amazon.in/Hardened-hammering-chipping-applications-Robust/dp/B08LGZDYNS/ref=sr_1_46"
+    },
+    {
+      "sku": "JKE-IIYDQQ2WJIZDMQ2U",
+      "slug": "groz-heavy-duty-open-jaw-slogging-wrench-for-removing-very",
+      "name": "Groz Heavy Duty Open Jaw Slogging Wrench for removing very...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 952.5,
+      "image": "https://m.media-amazon.com/images/I/61R110rmJ4L.jpg | https://m.media-amazon.com/images/I/313v7+c-suL.jpg | https://m.media-amazon.com/images/I/51u1z4U5u4L.jpg | https://m.media-amazon.com/images/I/51blc3kYnOL.jpg | https://m.media-amazon.com/images/I/41e+vDmh5QL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Heavy-Slogging-Wrench-Removing/dp/B08CVJ26CT/ref=sr_1_256"
+    },
+    {
+      "sku": "JKE-IIYDON2XJVFFCUSL",
+      "slug": "groz-clpsti150-circlip-plier-length-150-mm-internal",
+      "name": "GROZ CLP/ST/I/150 Circlip Plier, Length: 150 mm, Internal...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 320,
+      "image": "https://m.media-amazon.com/images/I/51jyXx+djwL.jpg | https://m.media-amazon.com/images/I/312XwHCjOwL.jpg | https://m.media-amazon.com/images/I/31ZUiIhj6CL.jpg | https://m.media-amazon.com/images/I/31gH+we96XL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-CLP-Circlip-Plier-Length/dp/B077WMJQRK/ref=sr_1_260"
+    },
+    {
+      "sku": "JKE-IIYDOOKUGRGTIUKR",
+      "slug": "groz-articulating-arm-magnetic-base-with-3-articulating",
+      "name": "GROZ Articulating Arm Magnetic Base with 3 articulating...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 8843.25,
+      "image": "https://m.media-amazon.com/images/I/71iKA-KU+aL.jpg | https://m.media-amazon.com/images/I/31FaYB+TWML.jpg",
+      "productUrl": "https://www.amazon.in/Articulating-Magnetic-articulating-variety-indicators/dp/B079T4M4QQ/ref=sr_1_262"
+    },
+    {
+      "sku": "JKE-IIYDQQ2WJJEFONSN",
+      "slug": "groz-heavy-duty-open-jaw-slogging-wrench-for-removing-very",
+      "name": "Groz Heavy Duty Open Jaw Slogging Wrench for removing very...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 874.13,
+      "image": "https://m.media-amazon.com/images/I/61R110rmJ4L.jpg | https://m.media-amazon.com/images/I/313v7+c-suL.jpg | https://m.media-amazon.com/images/I/51u1z4U5u4L.jpg | https://m.media-amazon.com/images/I/51blc3kYnOL.jpg | https://m.media-amazon.com/images/I/41e+vDmh5QL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Heavy-Slogging-Wrench-Removing/dp/B08CVJHW6M/ref=sr_1_289"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFJVAU2S",
+      "slug": "groz-g-clamp-with-unbreakable-body-ideal-for-variety-of",
+      "name": "GROZ G Clamp with unbreakable body| Ideal for Variety of...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 582.75,
+      "image": "https://m.media-amazon.com/images/I/61f69XxUzDL.jpg | https://m.media-amazon.com/images/I/31zQbQsAAmL.jpg | https://m.media-amazon.com/images/I/31G9LxQri2L.jpg | https://m.media-amazon.com/images/I/31tXEZxD1DL.jpg | https://m.media-amazon.com/images/I/315IYW1-UhL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-GCL-Clamps-Iron-Capacity/dp/B079SYSPSR/ref=sr_1_117"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFJVSRCC",
+      "slug": "groz-55020-work-light-led-dry-cell-multi-use-worklight",
+      "name": "Groz 55020 Work Light -LED Dry Cell Multi-use Worklight....",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 7667,
+      "image": "https://m.media-amazon.com/images/I/71HXCN0r6cL.jpg | https://m.media-amazon.com/images/I/31bmpGDQTNL.jpg | https://m.media-amazon.com/images/I/41a8kORHclL.jpg | https://m.media-amazon.com/images/I/31KcA2Uaq8L.jpg | https://m.media-amazon.com/images/I/31Sf4QqQzzL.jpg | https://m.media-amazon.com/images/I/31BE4yBjaJL.jpg | https://m.media-amazon.com/images/I/31EfVPM5VyL.jpg | https://m.media-amazon.com/images/I/31lndjD0myL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-55020-Multi-use-Worklight-Batteries/dp/B079SYSYDB/ref=sr_1_219"
+    },
+    {
+      "sku": "JKE-IIYDORCDJUYUEQZX",
+      "slug": "groz-stillson-pattern-adjustable-pipe-wrench-33-mm-spw10",
+      "name": "Groz Stillson Pattern Adjustable Pipe Wrench 33 mm SPW/10",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 660,
+      "image": "https://m.media-amazon.com/images/I/51qC5zZEMiL.jpg | https://m.media-amazon.com/images/I/3104F6+K9oL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Stillson-Pattern-Adjustable-Wrench/dp/B07DCM1BC7/ref=sr_1_120"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKJCEUURZ",
+      "slug": "groz-03560-height-off-set-gauge-2",
+      "name": "Groz 03560 Height Off-Set Gauge - 2\"",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 21850,
+      "image": "https://m.media-amazon.com/images/I/512e7j992iL.jpg | https://m.media-amazon.com/images/I/31zwNfZN2wL.jpg | https://m.media-amazon.com/images/I/31XmcBHexVL.jpg | https://m.media-amazon.com/images/I/31ukFF+cKKL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-03560-Height-Off-Set-Gauge/dp/B079RRDJR9/ref=sr_1_275"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFMEQUKM",
+      "slug": "groz-7-hexagon-keys-with-ball-end-sae-ideal-for",
+      "name": "Groz 7 Hexagon Keys with Ball End - SAE| Ideal for...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 352,
+      "image": "https://m.media-amazon.com/images/I/711-QFnZR9L.jpg | https://m.media-amazon.com/images/I/41KgsdRKJNL.jpg | https://m.media-amazon.com/images/I/41WhOzcZD+L.jpg | https://m.media-amazon.com/images/I/51Fn9bcfWfL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Hexagon-Keys-Ball-End/dp/B079RQXHQL/ref=sr_1_25"
+    },
+    {
+      "sku": "JKE-IIYDQSZYJVJVSUBT",
+      "slug": "groz-hydraulic-coupler-18-bsp-thread-15mm-diameter-up",
+      "name": "GROZ Hydraulic Coupler 1/8\" BSP Thread, 15mm Diameter, Up...",
+      "brand": "Groz",
+      "category": "Plumbing",
+      "price": 81,
+      "image": "https://m.media-amazon.com/images/I/51xHRRLqvTL.jpg | https://m.media-amazon.com/images/I/31V5uzfSyTL.jpg | https://m.media-amazon.com/images/I/31DIJ4+adHL.jpg | https://m.media-amazon.com/images/I/31aoUPY7gtL.jpg | https://m.media-amazon.com/images/I/31lbAUoLzQL.jpg",
+      "productUrl": "https://www.amazon.in/Hydraulic-Coupler-prevent-backflow-maintenance/dp/B08K8MSYP3/ref=sr_1_157"
+    },
+    {
+      "sku": "JKE-IIYDQOKOKFHFQNZZ",
+      "slug": "groz-analog-dial-test-indicator-with-dovetail-stems-of",
+      "name": "Groz Analog Dial Test Indicator with Dovetail Stems of...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 14226,
+      "image": "https://m.media-amazon.com/images/I/711d-d6G9qL.jpg | https://m.media-amazon.com/images/I/41fNnvMevsL.jpg | https://m.media-amazon.com/images/I/41W3dtTiHUL.jpg | https://m.media-amazon.com/images/I/41RzVd0uJ8L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Analog-Indicator-Dovetail-Diameter/dp/B089NQNX79/ref=sr_1_199"
+    },
+    {
+      "sku": "JKE-IIYDQRSEG5LUIU2E",
+      "slug": "groz-bluetooth-earphone-with-inbuilt-mic-for-hands-free",
+      "name": "GROZ Bluetooth Earphone with inbuilt mic for hands free...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 3750,
+      "image": "https://m.media-amazon.com/images/I/71E0sI+KAeL.jpg | https://m.media-amazon.com/images/I/3183S974l6L.jpg | https://m.media-amazon.com/images/I/51T9yIn7AnL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51+Z88EnQFL.jpg | https://m.media-amazon.com/images/I/511htq7YB3L.jpg | https://m.media-amazon.com/images/I/51ogYyHKEVL.jpg",
+      "productUrl": "https://www.amazon.in/Bluetooth-Earphone-inbuilt-Reduction-Compatible/dp/B08FD7WDSD/ref=sr_1_276"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RI5HFQMZU",
+      "slug": "groz-18-kg-16-club-hammer-indestructible-handle-hammer",
+      "name": "GROZ 1.8 Kg, 16\" Club Hammer Indestructible Handle, Hammer...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 3417.94,
+      "image": "https://m.media-amazon.com/images/I/41hoMv7025L.jpg | https://m.media-amazon.com/images/I/31PpqMfZQpL.jpg | https://m.media-amazon.com/images/I/414wPNGegeL.jpg | https://m.media-amazon.com/images/I/410HVUn5OwL.jpg | https://m.media-amazon.com/images/I/41Yu8dM0wOL.jpg | https://m.media-amazon.com/images/I/31LSPrksMWL.jpg | https://m.media-amazon.com/images/I/41o3xdWDNTL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-CHID-16-Hammers-Indestructible/dp/B07CQGNX34/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-IIYEES22JBMUWMKY",
+      "slug": "groz-heavy-duty-digital-tyre-inflator-gauge-3-in-1-tyre",
+      "name": "Groz Heavy Duty Digital Tyre Inflator Gauge | 3 in 1 Tyre...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 3567.09,
+      "image": "https://m.media-amazon.com/images/I/61YwCTWomRL.jpg | https://m.media-amazon.com/images/I/41uN3TgsGkL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Inflator-Inflates-Deflates-Accuracy/dp/B0BKZHYK1X/ref=sr_1_173"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFJFGNBW",
+      "slug": "groz-grease-cartridge-nlgi-grade-2-400-gms-red-grease-",
+      "name": "GROZ Grease Cartridge (NLGI Grade 2) 400 gms, Red Grease |...",
+      "brand": "Groz",
+      "category": "Adhesives & Chemicals",
+      "price": 396,
+      "image": "https://m.media-amazon.com/images/I/61YuYl8QX8L.jpg | https://m.media-amazon.com/images/I/31-PL9FYZgL.jpg | https://m.media-amazon.com/images/I/31kFrGL0-pL.jpg",
+      "productUrl": "https://www.amazon.in/Cartridge-Automotive-Industrial-Agricultural-Applications/dp/B079RQRS46/ref=sr_1_72"
+    },
+    {
+      "sku": "JKE-IIYDCMKJKNIDIVBU",
+      "slug": "groz-professional-hacksaw-frame-12-inch-300mm-heavy",
+      "name": "Groz Professional Hacksaw Frame -12 Inch (300mm) | Heavy...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 594.93,
+      "image": "https://m.media-amazon.com/images/I/71I9a92NTVL.jpg | https://m.media-amazon.com/images/I/31pBA8kSnRL.jpg | https://m.media-amazon.com/images/I/315nH+JoLLL.jpg | https://m.media-amazon.com/images/I/31SRW3CqypL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-HF-12-BC-Professionals/dp/B011ISP4T4/ref=sr_1_191"
+    },
+    {
+      "sku": "JKE-IIYEMQSHG42UUOKU",
+      "slug": "groz-2-in-1-measuring-funnel-2-ltrs-with-lever-control",
+      "name": "Groz 2-in-1 Measuring Funnel 2 Ltrs. with Lever Control...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 1452.7,
+      "image": "https://m.media-amazon.com/images/I/51wZe5YN3zL.jpg | https://m.media-amazon.com/images/I/31qrVOnspRL.jpg | https://m.media-amazon.com/images/I/31rBDRlkQeL.jpg | https://m.media-amazon.com/images/I/31baFEvZ5JL.jpg | https://m.media-amazon.com/images/I/31VeIdAVVfL.jpg | https://m.media-amazon.com/images/I/51o2YbUwqyL.jpg | https://m.media-amazon.com/images/I/41Sk7rMi0EL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Dispensing-Multipurpose-MFNL-2BC/dp/B0FBG75J9T/ref=sr_1_103"
+    },
+    {
+      "sku": "JKE-IIYEMTCEIRLEWTRY",
+      "slug": "groz-heavy-duty-truck-spannerwrench-24mm-x-27mm-double",
+      "name": "Groz Heavy Duty Truck Spanner/Wrench- 24mm x 27mm- Double...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1481.19,
+      "image": "https://m.media-amazon.com/images/I/51K+R9inAaL.jpg | https://m.media-amazon.com/images/I/2194WkGAONL.jpg | https://m.media-amazon.com/images/I/31uFxWonbpL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Spanner-Rust-Resistant-Tractors-Vehicles/dp/B0FLDDVKN8/ref=sr_1_257"
+    },
+    {
+      "sku": "JKE-IIYDQRRZINHFCNCU",
+      "slug": "groz-coolant-mixer-with-mixing-ratio-control-knob-ideal",
+      "name": "GROZ Coolant Mixer with Mixing Ratio Control Knob| Ideal...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 14998.5,
+      "image": "https://m.media-amazon.com/images/I/61ss0S0IjQL.jpg | https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg",
+      "productUrl": "https://www.amazon.in/Coolant-Control-blending-Portable-Maintenance/dp/B08F9CNQ4T/ref=sr_1_218"
+    },
+    {
+      "sku": "JKE-IIYEMSRYIJGUEQSK",
+      "slug": "groz-combination-spanner-28-mm-length-310-mm-din-3113",
+      "name": "Groz Combination Spanner 28 mm, Length 310 mm | DIN 3113...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 500,
+      "image": "https://m.media-amazon.com/images/I/41EiwskWTBL.jpg | https://m.media-amazon.com/images/I/11K8UF9P3xL.jpg | https://m.media-amazon.com/images/I/21afdIpe9gL.jpg | https://m.media-amazon.com/images/I/21DU8Dhiw9L.jpg | https://m.media-amazon.com/images/I/21J3hJp5DhL.jpg | https://m.media-amazon.com/images/I/31gNKZ-ZeWL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Combination-DIN-CSP-28G/dp/B0FJ8BMBBJ/ref=sr_1_47"
+    },
+    {
+      "sku": "JKE-IIYDQUCDKRFDOURT",
+      "slug": "groz-vde-certified-voltage-tester-ideal-for-use-in",
+      "name": "GROZ VDE Certified Voltage Tester | Ideal for use in...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 274.64,
+      "image": "https://m.media-amazon.com/images/I/61Hyf3OWMHL.jpg | https://m.media-amazon.com/images/I/311kGmvbOZL.jpg | https://m.media-amazon.com/images/I/21g8pnr92BL.jpg | https://m.media-amazon.com/images/I/21XIblmUocL.jpg | https://m.media-amazon.com/images/I/31IOOZ1QaFL.jpg | https://m.media-amazon.com/images/I/41b0B0fezpL.jpg",
+      "productUrl": "https://www.amazon.in/Certified-Terminal-Cabinets-Switches-Integrated/dp/B08PCTJ7R3/ref=sr_1_133"
+    },
+    {
+      "sku": "JKE-IIYDQSZUHFDEGQ2G",
+      "slug": "groz-button-head-coupler-with-wear-resistant-metal-seal",
+      "name": "GROZ Button Head Coupler with wear resistant metal seal|...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 272,
+      "image": "https://m.media-amazon.com/images/I/61HVEuPAjDL.jpg | https://m.media-amazon.com/images/I/41jELrFtKtL.jpg",
+      "productUrl": "https://www.amazon.in/Coupler-resistant-fitting-machinery-Fitting/dp/B08K49FCCF/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFITKU2I",
+      "slug": "groz-professional-grade-6-inch-combination-plier-12",
+      "name": "Groz PROFESSIONAL GRADE 6\" Inch Combination Plier |12...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 384.13,
+      "image": "https://m.media-amazon.com/images/I/61026DN3-7L.jpg | https://m.media-amazon.com/images/I/31Si9UDdI4L.jpg | https://m.media-amazon.com/images/I/31h4UbgknTS.jpg",
+      "productUrl": "https://www.amazon.in/Combination-insulation-Construction-Corrosion-Resistant/dp/B079RQQ5SH/ref=sr_1_28"
+    },
+    {
+      "sku": "JKE-IIYDOMSMLE3E4UJT",
+      "slug": "groz-lever-action-pump-with-steel-suction-tube-built-in",
+      "name": "Groz Lever Action Pump with Steel Suction Tube | Built in...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 1992.98,
+      "image": "https://m.media-amazon.com/images/I/51u-7fcVioL.jpg | https://m.media-amazon.com/images/I/31WA06oMajL.jpg | https://m.media-amazon.com/images/I/31LyHOOS+XL.jpg | https://m.media-amazon.com/images/I/41NZy5HMQdL.jpg | https://m.media-amazon.com/images/I/31aer3080FL.jpg | https://m.media-amazon.com/images/I/31SBPMQr8LL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Chemicals-Kerosene-Transfer-Warranty/dp/B072LY6NQ3/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYDOOBZKFMDGVCX",
+      "slug": "groz-diaphragm-pump-with-zero-maintenance-ideal-for-use",
+      "name": "GROZ Diaphragm Pump with Zero Maintenance| Ideal for use...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 14291,
+      "image": "https://m.media-amazon.com/images/I/714qi62UdRL.jpg | https://m.media-amazon.com/images/I/41yv2m3-qyL.jpg | https://m.media-amazon.com/images/I/31uLtATLRIL.jpg | https://m.media-amazon.com/images/I/41GYcS6WDQL.jpg",
+      "productUrl": "https://www.amazon.in/Diaphragm-Maintenance-Diesel-Kerosene-position/dp/B0789QX3TW/ref=sr_1_160"
+    },
+    {
+      "sku": "JKE-IIYDOOKUIRFFSRRR",
+      "slug": "groz-8-inch-c-clamp-heavy-duty-ductile-cast-iron-",
+      "name": "GROZ 8-inch C-Clamp | Heavy Duty | Ductile Cast Iron |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1364.03,
+      "image": "https://m.media-amazon.com/images/I/71p8xaF0B3L.jpg | https://m.media-amazon.com/images/I/41iDHRuqyBL.jpg | https://m.media-amazon.com/images/I/41Sv2Z4OfrL.jpg | https://m.media-amazon.com/images/I/41GxeXDBPtL.jpg | https://m.media-amazon.com/images/I/313M6WoH8iL.jpg",
+      "productUrl": "https://www.amazon.in/C-Clamp-Ductile-Tensile-Strength-35803/dp/B079TDJYF1/ref=sr_1_86"
+    },
+    {
+      "sku": "JKE-IIYEEV2EKRFUYOJT",
+      "slug": "groz-ball-pein-hammer-226-gms-12-fibreglass-handle-with",
+      "name": "Groz Ball Pein Hammer, 226 gms 12\" Fibreglass Handle with...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 745.97,
+      "image": "https://m.media-amazon.com/images/I/51MAt8WUtSL.jpg | https://m.media-amazon.com/images/I/31eA6sGL4uL.jpg | https://m.media-amazon.com/images/I/41KtcbRU57L.jpg | https://m.media-amazon.com/images/I/31tFo5QQAgL.jpg | https://m.media-amazon.com/images/I/417lGYIrYDL.jpg | https://m.media-amazon.com/images/I/41J2ve14DJL.jpg | https://m.media-amazon.com/images/I/31UQXyN6rYL.jpg | https://m.media-amazon.com/images/I/518G5yGnBNL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Overstrike-Protection-Fibreglass-Lightweight/dp/B0BWDTKL93/ref=sr_1_101"
+    },
+    {
+      "sku": "JKE-IIYEEMZRGUZEENCM",
+      "slug": "groz-handy-bearing-packer-with-hand-press-mechanism-quick",
+      "name": "Groz Handy Bearing Packer with Hand Press Mechanism | Quick...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 1070.19,
+      "image": "https://m.media-amazon.com/images/I/71qemCUo1VL.jpg | https://m.media-amazon.com/images/I/31j2mtiSKVL.jpg | https://m.media-amazon.com/images/I/51x2Ytr0QQL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41X6tL1-VOL.jpg | https://m.media-amazon.com/images/I/41lfPmhNl2L.jpg | https://m.media-amazon.com/images/I/41jh1fAw6tL.jpg | https://m.media-amazon.com/images/I/41fy7itmS9L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Mechanism-Portable-Trailers-45mm-89mm/dp/B0B3152B4L/ref=sr_1_187"
+    },
+    {
+      "sku": "JKE-IIYDOQ2SI43EYSSD",
+      "slug": "groz-reversible-ratcheting-spanner-with-scratch-proof",
+      "name": "GROZ Reversible Ratcheting Spanner with Scratch Proof...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1139.38,
+      "image": "https://m.media-amazon.com/images/I/41tRZjKQFnL.jpg | https://m.media-amazon.com/images/I/21voawYpJeL.jpg | https://m.media-amazon.com/images/I/21O3r4z1h9L.jpg | https://m.media-amazon.com/images/I/21FEMnBC5yL.jpg | https://m.media-amazon.com/images/I/212If2+PlYL.jpg | https://m.media-amazon.com/images/I/31gWiK9RgcL.jpg",
+      "productUrl": "https://www.amazon.in/Reversible-Ratcheting-Ultra-Premium-applications-Construction/dp/B07CRG6LJC/ref=sr_1_195"
+    },
+    {
+      "sku": "JKE-IIYDQTKUKBBVIWRS",
+      "slug": "groz-inside-spring-caliper-with-spring-joint-for-precision",
+      "name": "GROZ Inside Spring Caliper with Spring Joint for Precision...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 193.64,
+      "image": "https://m.media-amazon.com/images/I/619KAx4RvZL.jpg | https://m.media-amazon.com/images/I/31K2F8G00bL.jpg",
+      "productUrl": "https://www.amazon.in/Comparative-Measurements-Transferring-Dimensions-Construction/dp/B08MTPCTZ2/ref=sr_1_113"
+    },
+    {
+      "sku": "JKE-IIYEMRRRK4ZDGV2O",
+      "slug": "groz-12-hex-spark-plug-socket-21mm-chrome-vanadium",
+      "name": "GROZ 1/2\" Hex Spark Plug Socket 21MM, Chrome Vanadium...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 285,
+      "image": "https://m.media-amazon.com/images/I/41Tbpst-fBL.jpg | https://m.media-amazon.com/images/I/21P3qq9ZhFL.jpg | https://m.media-amazon.com/images/I/21ORW7JPsXL.jpg | https://m.media-amazon.com/images/I/21A3kBFa3xL.jpg | https://m.media-amazon.com/images/I/21tFahNSh-L.jpg",
+      "productUrl": "https://www.amazon.in/Performance-SKT-1-2-SP-UG/dp/B0FF1W23WN/ref=sr_1_205"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFJVCVSH",
+      "slug": "groz-submersible-diesel-pump-with-rust-proof-motor-cover",
+      "name": "Groz Submersible Diesel Pump with rust Proof Motor Cover...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 5769.57,
+      "image": "https://m.media-amazon.com/images/I/61NpHxnwXnL.jpg | https://m.media-amazon.com/images/I/21Up1udmx+L.jpg",
+      "productUrl": "https://www.amazon.in/Submersible-Diesel-diesel-refueling-construction/dp/B079SYSQVG/ref=sr_1_308"
+    },
+    {
+      "sku": "JKE-IIYDMV2MKFCEYOJZ",
+      "slug": "groz-mini-pistol-grease-gun-with-pull-type-operating",
+      "name": "GROZ Mini Pistol Grease Gun with Pull Type Operating...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 722,
+      "image": "https://m.media-amazon.com/images/I/51ONyKqQUiL.jpg | https://m.media-amazon.com/images/I/31YvJzz6loL.jpg | https://m.media-amazon.com/images/I/41fCkRvgJuL.jpg | https://m.media-amazon.com/images/I/31UXSBxpLPL.jpg | https://m.media-amazon.com/images/I/41ySruycJpL.jpg | https://m.media-amazon.com/images/I/31ndYl9k5SL.jpg | https://m.media-amazon.com/images/I/31EcPTWjmPL.jpg | https://m.media-amazon.com/images/I/31Z1l5gaCTL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-G-16-Mini-Pistol-Grease/dp/B06WLQDL99/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-IIYDOOKUGUYVIOBU",
+      "slug": "groz-self-locking-plier-with-curved-jaw-design-ideal-for",
+      "name": "GROZ Self Locking Plier with Curved Jaw Design| Ideal for...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1592.7,
+      "image": "https://m.media-amazon.com/images/I/81VVQUJAYrL.jpg | https://m.media-amazon.com/images/I/312g-Ze7oEL.jpg | https://m.media-amazon.com/images/I/31wGwvIWw3L.jpg | https://m.media-amazon.com/images/I/41O5LrJBFgL.jpg",
+      "productUrl": "https://www.amazon.in/components-Molybdenum-Construction-Adjustment-Rubberized/dp/B079T51T84/ref=sr_1_177"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLA3UYQSY",
+      "slug": "groz-retra-lite-retractable-7-in-1-cartridge-screwdriver",
+      "name": "Groz Retra Lite Retractable 7 in 1 Cartridge Screwdriver...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 1060,
+      "image": "https://m.media-amazon.com/images/I/31+P2JyOYSL.jpg | https://m.media-amazon.com/images/I/21EFpvmZJEL.jpg | https://m.media-amazon.com/images/I/31xCnCMSpRL.jpg | https://m.media-amazon.com/images/I/3152HGMVsfL.jpg | https://m.media-amazon.com/images/I/41fbg8bOeoL.jpg | https://m.media-amazon.com/images/I/41aCiWGiJBL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-RTL-Retra-Lite-Screwdriver/dp/B07J1X7LBX/ref=sr_1_66"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGZIDETSQ",
+      "slug": "groz-digital-depth-gauge-with-free-wheeling-thumb-roller-",
+      "name": "Groz Digital Depth Gauge with Free-wheeling Thumb Roller &...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 5713.28,
+      "image": "https://m.media-amazon.com/images/I/71KwRY30oXL.jpg | https://m.media-amazon.com/images/I/31lB4QT1IBL.jpg | https://m.media-amazon.com/images/I/41WR3Zdi11L.jpg | https://m.media-amazon.com/images/I/41e5PDt2GyL.jpg | https://m.media-amazon.com/images/I/41gbn6IsBzL.jpg | https://m.media-amazon.com/images/I/413hxxwfKbL.jpg | https://m.media-amazon.com/images/I/41JubCX4PLL.jpg | https://m.media-amazon.com/images/I/41q1BGQp93L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-DDG-Digital-Depth-Gauge/dp/B07J26P2NP/ref=sr_1_176"
+    },
+    {
+      "sku": "JKE-IIYEIQRRKAZVUTBS",
+      "slug": "groz-rubber-mallet-14-inch-453-gms-white-head-hickory",
+      "name": "Groz Rubber Mallet 14 inch, 453 gms White Head | Hickory...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 841.4,
+      "image": "https://m.media-amazon.com/images/I/612L1f1vPHL.jpg | https://m.media-amazon.com/images/I/215qR5pr93L.jpg | https://m.media-amazon.com/images/I/31ir+nP9y0L.jpg | https://m.media-amazon.com/images/I/41Q5bjSTxWL.jpg | https://m.media-amazon.com/images/I/41v7ngRzL0L.jpg | https://m.media-amazon.com/images/I/41Byoee1AWL.jpg | https://m.media-amazon.com/images/I/41Y7fRAIe3L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Hickory-Automotive-Industrial-Carpentry/dp/B0DB1P3ZL2/ref=sr_1_165"
+    },
+    {
+      "sku": "JKE-IIYEMSRYHFLVOTRU",
+      "slug": "groz-deep-offset-combination-spanner-254mm-length-343mm-",
+      "name": "Groz Deep Offset Combination Spanner 254mm, Length 343mm |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 165,
+      "image": "https://m.media-amazon.com/images/I/418W15ugJNL.jpg | https://m.media-amazon.com/images/I/11vH5Qf5hEL.jpg | https://m.media-amazon.com/images/I/21NwWyOX03L.jpg | https://m.media-amazon.com/images/I/21LkycGByLL.jpg | https://m.media-amazon.com/images/I/21+JTfF7trL.jpg | https://m.media-amazon.com/images/I/31TDcbRxFCL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Combination-CSP-SF-25G/dp/B0FJ89WWN4/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYDQRRZLBGTKUSU",
+      "slug": "groz-coolant-mixer-with-mixing-ratio-control-knob-ideal",
+      "name": "GROZ Coolant Mixer with Mixing Ratio Control Knob| Ideal...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 9812,
+      "image": "https://m.media-amazon.com/images/I/61ss0S0IjQL.jpg | https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg",
+      "productUrl": "https://www.amazon.in/Coolant-Control-blending-Portable-Maintenance/dp/B08F9XM5RT/ref=sr_1_41"
     },
     {
       "sku": "JKE-IIYDOQ2RJRBEQMZX",
-      "slug": "groz-42-pc-14-inch-socket-tool-kit-for-mechanics-professionals-diy-enthusiasts-etc-chrome-vanadium-3x-durable-sockets-kitskth1-442ug",
-      "name": "Groz 42 pc 1/4 inch Socket Tool Kit for Mechanics, Professionals, DIY Enthusiasts, etc. | Chrome Vanadium| 3X Durable Sockets | KIT/SKT/H/1-4/42/UG",
+      "slug": "groz-42-pc-14-inch-socket-tool-kit-for-mechanics",
+      "name": "Groz 42 pc 1/4 inch Socket Tool Kit for Mechanics,...",
       "brand": "Groz",
       "category": "Electrical & Wiring",
-      "price": "₹5,406.00",
-      "image": "https://m.media-amazon.com/images/I/51hJLt4aQZL.jpg",
-      "productUrl": "https://www.amazon.in/GROZ-KIT-SKT-H1-4-42/dp/B07CQLBH37/ref=sr_1_274"
+      "price": 5406,
+      "image": "https://m.media-amazon.com/images/I/71z56MypVpL.jpg | https://m.media-amazon.com/images/I/51hJLt4aQZL.jpg | https://m.media-amazon.com/images/I/51nksZxsTUL.jpg | https://m.media-amazon.com/images/I/411lVSCOnML.jpg | https://m.media-amazon.com/images/I/41d+f20HDtL.jpg | https://m.media-amazon.com/images/I/41LRxG5ze6L.jpg | https://m.media-amazon.com/images/I/51kCn-A-T9L.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-KIT-SKT-H1-4-42/dp/B07CQLBH37/ref=sr_1_44"
+    },
+    {
+      "sku": "JKE-IIYDCTRUJM4DQTJQ",
+      "slug": "groz-mini-cutting-saw-6-inch-150mm-plated-steel-wire",
+      "name": "Groz Mini Cutting Saw 6 Inch (150mm) | Plated Steel Wire...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 86.33,
+      "image": "https://m.media-amazon.com/images/I/610BywYOtlL.jpg | https://m.media-amazon.com/images/I/31bCXpomC6L.jpg | https://m.media-amazon.com/images/I/413fes3LmML.jpg | https://m.media-amazon.com/images/I/41ewSCFVg3L.jpg | https://m.media-amazon.com/images/I/41eNLToILmL.jpg | https://m.media-amazon.com/images/I/41qyo+9bo3L.jpg | https://m.media-amazon.com/images/I/41CpkzbSntL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-JHF-Junior-Saw-Frame/dp/B01N4K88M0/ref=sr_1_150"
+    },
+    {
+      "sku": "JKE-IIYDOOKUGRMEEM2S",
+      "slug": "groz-33734-slotted-screwdriver-sl12x65x38mmx55mm-hex-shank",
+      "name": "Groz 33734 Slotted screwdriver SL1.2x6.5x38mmx55mm Hex Shank",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 1924,
+      "image": "https://m.media-amazon.com/images/I/71PmNCzW4lL.jpg | https://m.media-amazon.com/images/I/31aUV0nvO9L.jpg | https://m.media-amazon.com/images/I/31ZE5en1kGL.jpg | https://m.media-amazon.com/images/I/31ENbvoT7HL.jpg | https://m.media-amazon.com/images/I/31L90ySTHsL.jpg | https://m.media-amazon.com/images/I/31yF8Kwl2UL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-33734-Slotted-screwdriver-SL1-2x6-5x38mmx55mm/dp/B079T4XB3R/ref=sr_1_304"
+    },
+    {
+      "sku": "JKE-IIYEINKZI5BUOTCN",
+      "slug": "groz-flexible-magnetic-tool-holder-8-inch-200mm-tool",
+      "name": "Groz Flexible Magnetic Tool Holder, 8 Inch (200mm) | Tool...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1684.29,
+      "image": "https://m.media-amazon.com/images/I/51AzrqlvqoL.jpg | https://m.media-amazon.com/images/I/31VJsxjGM0L.jpg | https://m.media-amazon.com/images/I/513x1YVBMqL.jpg | https://m.media-amazon.com/images/I/51vXRFEYXYL.jpg | https://m.media-amazon.com/images/I/41uDlSfjfLL.jpg | https://m.media-amazon.com/images/I/51gG8TB4jdL.jpg | https://m.media-amazon.com/images/I/51lzwcnmhoL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Magnetic-Portable-Storage-Organizer/dp/B0D5YGCGLM/ref=sr_1_222"
+    },
+    {
+      "sku": "JKE-IIYDOSRSHBEEEOCH",
+      "slug": "groz-500ml-oil-can-with-spout-easy-and-spill-free-oiling",
+      "name": "Groz 500ml Oil Can with Spout | Easy and Spill Free Oiling...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 297,
+      "image": "https://m.media-amazon.com/images/I/71OmxtYqZ5L.jpg | https://m.media-amazon.com/images/I/31QNXFILdsL.jpg | https://m.media-amazon.com/images/I/31XIZjAgCmL.jpg | https://m.media-amazon.com/images/I/31SCGuwuVbL.jpg | https://m.media-amazon.com/images/I/41OwbkFZbrL.jpg | https://m.media-amazon.com/images/I/41kBbdXAj9L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-V500R-Transfer-Gun/dp/B07J28HB8G/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-IIYEITSYLFNEQWS2",
+      "slug": "groz-flat-screwdriver-400-mm-with-striking-head-and",
+      "name": "Groz Flat Screwdriver 400 mm with Striking Head and...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 242,
+      "image": "https://m.media-amazon.com/images/I/41ioPs3xbBL.jpg | https://m.media-amazon.com/images/I/11V9PQay2-L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Striking-Magnetic-General/dp/B0DNXYZHZZ/ref=sr_1_119"
+    },
+    {
+      "sku": "JKE-IIYEESRRLI4VETBY",
+      "slug": "groz-air-operated-transfer-pump-quick-and-easy-safe",
+      "name": "Groz Air Operated Transfer Pump | Quick and Easy | Safe...",
+      "brand": "Groz",
+      "category": "Safety & PPE",
+      "price": 7173,
+      "image": "https://m.media-amazon.com/images/I/417tRnGKa5L.jpg | https://m.media-amazon.com/images/I/21RlawarqKL.jpg | https://m.media-amazon.com/images/I/41JwGxAu8JL.jpg | https://m.media-amazon.com/images/I/41HrKYIhwaL.jpg | https://m.media-amazon.com/images/I/41RWsLABvTL.jpg | https://m.media-amazon.com/images/I/418dNAYGiDL.jpg | https://m.media-amazon.com/images/I/517DaDTD0vL.jpg",
+      "productUrl": "https://www.amazon.in/Operated-Transfer-Operation-Kerosene-50-205litres/dp/B0BJ1Z9RL8/ref=sr_1_99"
+    },
+    {
+      "sku": "JKE-IIYDQUKSGVLVOSCX",
+      "slug": "groz-torx-head-screwdriver-with-magnetized-tip-ideal-for",
+      "name": "Groz Torx Head Screwdriver with Magnetized Tip| Ideal for...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 167,
+      "image": "https://m.media-amazon.com/images/I/51tuFCWGHZL.jpg | https://m.media-amazon.com/images/I/21VRBRQCEpL.jpg",
+      "productUrl": "https://www.amazon.in/Screwdriver-Magnetized-industrial-applications-Construction/dp/B08QR5WWHW/ref=sr_1_151"
+    },
+    {
+      "sku": "JKE-IIYEEUSCGY2EEQSM",
+      "slug": "groz-pozidriv-screwdriver-with-magnetized-tip-cushion",
+      "name": "Groz Pozidriv Screwdriver with Magnetized Tip | Cushion...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 135.83,
+      "image": "https://m.media-amazon.com/images/I/41EeTLjZSWL.jpg | https://m.media-amazon.com/images/I/21pk+8m071L.jpg | https://m.media-amazon.com/images/I/31qyf1J8vnL.jpg | https://m.media-amazon.com/images/I/21FbtFHMaaL.jpg | https://m.media-amazon.com/images/I/411gqlrDMiL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Magnetized-Screwdrivers-Professional/dp/B0BRB64BBL/ref=sr_1_55"
+    },
+    {
+      "sku": "JKE-IIYDOSRSG5FFCWSR",
+      "slug": "groz-outside-micrometers-with-balanced-frame-design-",
+      "name": "Groz Outside Micrometers with Balanced Frame Design |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 2853.75,
+      "image": "https://m.media-amazon.com/images/I/61m1LqPxdtL.jpg | https://m.media-amazon.com/images/I/31QeqWWTlBL.jpg | https://m.media-amazon.com/images/I/41GKeove9jL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Micrometers-Balanced-Measures-Accuracy/dp/B07J27JQZQ/ref=sr_1_290"
+    },
+    {
+      "sku": "JKE-IIYDQRCLIZLVMTRZ",
+      "slug": "groz-reusable-face-shield-with-anti-fog-visor-durable",
+      "name": "Groz Reusable Face Shield with Anti-Fog Visor| Durable|...",
+      "brand": "Groz",
+      "category": "Safety & PPE",
+      "price": 680,
+      "image": "https://m.media-amazon.com/images/I/71WtJSaFheL.jpg | https://m.media-amazon.com/images/I/41Mcw09AW3L.jpg | https://m.media-amazon.com/images/I/51F40WUm4qL.jpg | https://m.media-amazon.com/images/I/41Id1BSKX8L.jpg | https://m.media-amazon.com/images/I/51wGFI26yGL.jpg | https://m.media-amazon.com/images/I/31IuUEFyvIL.jpg | https://m.media-amazon.com/images/I/517MIqGCfoL.jpg",
+      "productUrl": "https://www.amazon.in/Reusable-Anti-Fog-Healthcare-Housekeeping-Lightweight/dp/B08DKFWVN9/ref=sr_1_134"
+    },
+    {
+      "sku": "JKE-IIYDQOCCKE4U2SSW",
+      "slug": "groz-heavy-duty-ring-slogging-wrench-for-ship-maintenance",
+      "name": "Groz Heavy Duty Ring Slogging Wrench for Ship maintenance,...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 789.14,
+      "image": "https://m.media-amazon.com/images/I/71xtDiduy0L.jpg | https://m.media-amazon.com/images/I/417dUKnBFIL.jpg | https://m.media-amazon.com/images/I/41dCMUAkUoS.jpg | https://m.media-amazon.com/images/I/41FLH1Vo14S.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Slogging-Wrench-Maintenance-Mining/dp/B088BQ9MJV/ref=sr_1_161"
+    },
+    {
+      "sku": "JKE-IIYDON2YIZJUOUCR",
+      "slug": "groz-8-inch-spring-caliper-inside-solid-nut-01403",
+      "name": "GROZ 8-inch Spring Caliper | Inside | Solid Nut (01403)",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 4840,
+      "image": "https://m.media-amazon.com/images/I/61QLZ08YhqL.jpg | https://m.media-amazon.com/images/I/21vumQRMNML.jpg | https://m.media-amazon.com/images/I/21gfkMx00dL.jpg | https://m.media-amazon.com/images/I/21yFO8w9h3L.jpg | https://m.media-amazon.com/images/I/41Gkw+wBHML.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-8-inch-Spring-Caliper-Inside/dp/B077XFSGPQ/ref=sr_1_164"
+    },
+    {
+      "sku": "JKE-IIYEMRRSGY2TON2S",
+      "slug": "groz-14-hex-bit-sockets-6mm-crv-steel-3x-performance-",
+      "name": "GROZ 1/4\" Hex Bit Sockets 6mm, CrV Steel, 3x Performance, |...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 111,
+      "image": "https://m.media-amazon.com/images/I/51i2Bs8dOSL.jpg | https://m.media-amazon.com/images/I/21X0UEA38-L.jpg | https://m.media-amazon.com/images/I/21Rj6VBhWfL.jpg | https://m.media-amazon.com/images/I/21m-82UF4rL.jpg | https://m.media-amazon.com/images/I/21k7k5Wl3VL.jpg",
+      "productUrl": "https://www.amazon.in/Performance-SKT-1-4-H6-UG/dp/B0FF26577R/ref=sr_1_206"
+    },
+    {
+      "sku": "JKE-IIYEMQSHKJHEUVCS",
+      "slug": "groz-extra-long-ratcheting-spanner-12mm-15-longer-high",
+      "name": "Groz Extra Long Ratcheting Spanner 12mm | 15% Longer |High...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 868,
+      "image": "https://m.media-amazon.com/images/I/4131L9NHufL.jpg | https://m.media-amazon.com/images/I/11RHhyMNw2L.jpg | https://m.media-amazon.com/images/I/21cFTKfuBuL.jpg | https://m.media-amazon.com/images/I/21Xwi6WTeQL.jpg | https://m.media-amazon.com/images/I/31edao8zzYL.jpg | https://m.media-amazon.com/images/I/31fq-5PPkRL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Ratcheting-Spanner-Standards-Automotive/dp/B0FBGRNJTR/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-IIYEMUJSG4ZVSTBX",
+      "slug": "groz-plastic-measure-3-litres-with-flexible-spout-high",
+      "name": "Groz Plastic Measure 3 Litres with Flexible Spout | High...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 438.33,
+      "image": "https://m.media-amazon.com/images/I/415hUTJS55L.jpg | https://m.media-amazon.com/images/I/31jVSYx0KOL.jpg | https://m.media-amazon.com/images/I/31tAvU-+BBL.jpg | https://m.media-amazon.com/images/I/315eWb+BocL.jpg | https://m.media-amazon.com/images/I/31GAO2zdtlL.jpg | https://m.media-amazon.com/images/I/51bYUWN94bL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Flexible-Construction-Measuring-Transfering/dp/B0FQ273YL7/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-IIYEGUZTJA4UMNCM",
+      "slug": "groz-14-drive-46-pcs-hand-socket-set-with-chrome-vandium",
+      "name": "Groz 1/4\" Drive 46 Pcs Hand Socket Set with Chrome Vandium...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 3178.5,
+      "image": "https://m.media-amazon.com/images/I/81ZADTeVyGL.jpg | https://m.media-amazon.com/images/I/41IuYzzeGeL.jpg | https://m.media-amazon.com/images/I/41qeYdFkO3L.jpg | https://m.media-amazon.com/images/I/41E3J3splRL.jpg | https://m.media-amazon.com/images/I/41zAmQjy50L.jpg | https://m.media-amazon.com/images/I/51z-Wp27EnL.jpg | https://m.media-amazon.com/images/I/41JAghaHgdL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Vandium-CERTIFIED-Workshops-Professional/dp/B0CS3H9F4L/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-IIYDQTCHGUYTINBZ",
+      "slug": "groz-polyurethane-coil-hose-with-solid-brass-swivel",
+      "name": "GROZ Polyurethane Coil Hose with Solid brass swivel...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 1011,
+      "image": "https://m.media-amazon.com/images/I/61VoItmF6FL.jpg | https://m.media-amazon.com/images/I/41Qu2R2uC-L.jpg",
+      "productUrl": "https://www.amazon.in/Polyurethane-fittings-assembly-Working-Pressure/dp/B08LG51449/ref=sr_1_192"
+    },
+    {
+      "sku": "JKE-IIYDOTRWJRCDCQST",
+      "slug": "groz-portable-pocket-slim-pen-light-torch-multi-mode",
+      "name": "Groz Portable, Pocket Slim Pen Light Torch, Multi-Mode,...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 2145,
+      "image": "https://m.media-amazon.com/images/I/61cEhUN7rrL.jpg | https://m.media-amazon.com/images/I/21MF5xljPCL.jpg | https://m.media-amazon.com/images/I/31dzwvrnCzL.jpg | https://m.media-amazon.com/images/I/31CPXex-xVL.jpg | https://m.media-amazon.com/images/I/31VpWg0YajL.jpg | https://m.media-amazon.com/images/I/31nUH5d9hPL.jpg | https://m.media-amazon.com/images/I/31BjWgiWsVL.jpg | https://m.media-amazon.com/images/I/41jpVXoS8rL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-160-Light-Pocket/dp/B07N6LD1BS/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-IIYDOM2UKNHDCU2E",
+      "slug": "groz-g1rhdb-lever-grease-gun-heavy-duty",
+      "name": "Groz G1R/HD/B Lever Grease Gun Heavy Duty",
+      "brand": "Groz",
+      "category": "Plumbing",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/61zIe1KBCAL.jpg | https://m.media-amazon.com/images/I/21rwEIALtaL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-G1R-HD-Lever-Grease/dp/B073TSN1SD/ref=sr_1_168"
+    },
+    {
+      "sku": "JKE-IIYDAMZWKVFFQRKB",
+      "slug": "groz-engineers-precision-square-ideal-for-setting-up-",
+      "name": "GROZ Engineer’s Precision Square| Ideal for setting up &...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 697,
+      "image": "https://m.media-amazon.com/images/I/61C+XoaTrhS.jpg | https://m.media-amazon.com/images/I/21m2Km0dlsS.jpg | https://m.media-amazon.com/images/I/31on94HG1vS.jpg | https://m.media-amazon.com/images/I/41KQuvvZpYS.jpg | https://m.media-amazon.com/images/I/51-mrxkkvGS.jpg | https://m.media-amazon.com/images/I/41zFLiNtyRS.jpg",
+      "productUrl": "https://www.amazon.in/Engineers-Precision-checking-accuracy-Hardened/dp/B0036UJXEA/ref=sr_1_106"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLFNE2N2M",
+      "slug": "groz-durable-extra-large-nylon-tool-bag-for-mechanics",
+      "name": "Groz Durable, Extra Large Nylon Tool Bag for Mechanics,...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 1725,
+      "image": "https://m.media-amazon.com/images/I/51EkqR1bPDL.jpg | https://m.media-amazon.com/images/I/31e4NTsCB4L.jpg | https://m.media-amazon.com/images/I/61EeNTVSi8L.jpg | https://m.media-amazon.com/images/I/3172Utv-l2L.jpg | https://m.media-amazon.com/images/I/51MMnLvVzcL.jpg | https://m.media-amazon.com/images/I/41JL69hyXXL.jpg | https://m.media-amazon.com/images/I/41kyE+e-4JL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-NTB-Nylon-Tool-Bag/dp/B07J1YZM7L/ref=sr_1_108"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGZJFUNKT",
+      "slug": "groz-mm4-5-outside-micrometer-inch-rangepack-of-1",
+      "name": "Groz MM/4-5 Outside Micrometer (Inch Range)(Pack of 1)",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 4912,
+      "image": "https://m.media-amazon.com/images/I/61NQwBTT+uL.jpg | https://m.media-amazon.com/images/I/31uUGadY-lL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-MM-4-5-Outside-Micrometer/dp/B07J26RZ5S/ref=sr_1_143"
+    },
+    {
+      "sku": "JKE-IIYDQU2KLJJEOOCI",
+      "slug": "groz-die-stock-holder-ideal-for-holding-round-dies-for",
+      "name": "GROZ Die Stock Holder| Ideal for Holding Round Dies for...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 207.75,
+      "image": "https://m.media-amazon.com/images/I/61qpbl+CmCL.jpg | https://m.media-amazon.com/images/I/31qbIA9ffrL.jpg",
+      "productUrl": "https://www.amazon.in/Holding-Efficient-External-Construction-Suitable/dp/B08SJZRG8H/ref=sr_1_152"
+    },
+    {
+      "sku": "JKE-IIYDOOBZKFGU2TSI",
+      "slug": "groz-tyre-lever-with-hook-and-taper-ends-ideal-for-tyre",
+      "name": "GROZ Tyre Lever with Hook and Taper Ends| Ideal for Tyre...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 6776,
+      "image": "https://m.media-amazon.com/images/I/71YiIMQIyQL.jpg | https://m.media-amazon.com/images/I/218xX-FT5YL.jpg | https://m.media-amazon.com/images/I/2193nIpQ3WL.jpg | https://m.media-amazon.com/images/I/21KHmnbsMZL.jpg",
+      "productUrl": "https://www.amazon.in/commercial-vehicles-Corrosion-Resistant-Construction/dp/B0789QMMNH/ref=sr_1_201"
+    },
+    {
+      "sku": "JKE-IIYEESRWKNBDEQRS",
+      "slug": "groz-5-piece-hook-value-set-1-body-4-replaceable-shafts",
+      "name": "Groz 5 Piece Hook Value Set | 1 Body & 4 Replaceable Shafts...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 712.54,
+      "image": "https://m.media-amazon.com/images/I/61d-N-2OhQL.jpg | https://m.media-amazon.com/images/I/31kADza-tEL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Replaceable-Multipurpose-Automotive-Household/dp/B0BJ6SB2B2/ref=sr_1_121"
+    },
+    {
+      "sku": "JKE-IIYDQS2XGFCEMMKK",
+      "slug": "groz-7-inch-long-nose-insulation-plier-with-insulation-to",
+      "name": "GROZ 7 inch Long Nose Insulation Plier with Insulation to...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 433,
+      "image": "https://m.media-amazon.com/images/I/71sON2FQXyL.jpg | https://m.media-amazon.com/images/I/31LllVBGC6L.jpg | https://m.media-amazon.com/images/I/31PPN3bIs0S.jpg | https://m.media-amazon.com/images/I/41F6dZdb5lL.jpg | https://m.media-amazon.com/images/I/41uaR6sJv3L.jpg | https://m.media-amazon.com/images/I/51CuK72EqJL.jpg",
+      "productUrl": "https://www.amazon.in/Insulation-insulation-Construction-Corrosion-Resistant/dp/B08KW1DF1J/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLA3UYR2W",
+      "slug": "groz-vernier-caliper-with-free-wheeling-thumb-mechanism",
+      "name": "Groz Vernier Caliper with Free Wheeling Thumb Mechanism|...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 5301.75,
+      "image": "https://m.media-amazon.com/images/I/617yaC9e-qL.jpg | https://m.media-amazon.com/images/I/21pQ5rwfsNL.jpg | https://m.media-amazon.com/images/I/41H9EHZA-5L.jpg | https://m.media-amazon.com/images/I/41FOLjhF3dL.jpg | https://m.media-amazon.com/images/I/41EMNDR91mL.jpg | https://m.media-amazon.com/images/I/41hYz5YURJL.jpg | https://m.media-amazon.com/images/I/5150WHcWGUL.jpg | https://m.media-amazon.com/images/I/4133DZxVzRL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-DLC-150-Dial-Caliper/dp/B07J1X7LGV/ref=sr_1_211"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKFMEYS2G",
+      "slug": "groz-double-face-mallet-with-interchangeable-heads-plastic",
+      "name": "GROZ Double Face Mallet with Interchangeable Heads, Plastic...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 694,
+      "image": "https://m.media-amazon.com/images/I/61Ur4hznOXL.jpg | https://m.media-amazon.com/images/I/317hiYUoEQL.jpg | https://m.media-amazon.com/images/I/31dY370m0FL.jpg | https://m.media-amazon.com/images/I/418jLYFkr5L.jpg | https://m.media-amazon.com/images/I/516eqTOhqsL.jpg | https://m.media-amazon.com/images/I/41+gNcXEizL.jpg | https://m.media-amazon.com/images/I/31ZcHrjLFwL.jpg | https://m.media-amazon.com/images/I/41X6UE42TgL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Non-Slip-Assembly-Applications-Diameter/dp/B079RQXLKF/ref=sr_1_182"
+    },
+    {
+      "sku": "JKE-IIYEEQSSII2EUOKQ",
+      "slug": "groz-rechargeable-fluid-pump-with-flow-control-lever",
+      "name": "GROZ Rechargeable Fluid Pump with Flow Control Lever,...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 8628.45,
+      "image": "https://m.media-amazon.com/images/I/61EQQsw0xDL.jpg | https://m.media-amazon.com/images/I/31tPbG5-vLL.jpg | https://m.media-amazon.com/images/I/91sciUBIv2L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/41C5v2sA98L.jpg | https://m.media-amazon.com/images/I/41WubWgVbfL.jpg | https://m.media-amazon.com/images/I/41vndK5IoRL.jpg | https://m.media-amazon.com/images/I/51S1mLa5TGL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Rechargeable-Convenient-Antifreeze-Detergents/dp/B0BBRB4J9P/ref=sr_1_6"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLI2FAWCY",
+      "slug": "groz-kitskth1-419ug-hand-socket-14-inch-drive-hex-19",
+      "name": "Groz KIT/SKT/H/1-4/19/UG Hand Socket 1/4 Inch Drive Hex 19...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 3274,
+      "image": "https://m.media-amazon.com/images/I/91V9l-2F2OL.jpg | https://m.media-amazon.com/images/I/51WOzXvQFZL.jpg | https://m.media-amazon.com/images/I/31kcUzuUOmL.jpg | https://m.media-amazon.com/images/I/31ym0CAm8DL.jpg | https://m.media-amazon.com/images/I/31tZ0THmRtL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-KIT-SKT-1-4-19/dp/B07J1Z4PXX/ref=sr_1_227"
+    },
+    {
+      "sku": "JKE-IIYDQR2XLBNEQTCE",
+      "slug": "groz-8-inch-combination-plier-with-induction-hardened",
+      "name": "GROZ 8 Inch Combination Plier with Induction Hardened...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 411,
+      "image": "https://m.media-amazon.com/images/I/61VYWPo6wrL.jpg | https://m.media-amazon.com/images/I/31F51FOgGcL.jpg",
+      "productUrl": "https://www.amazon.in/Combination-Induction-Hardened-Construction-Ergonomic/dp/B08GWXZHLD/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-IIYDON2XJUZFGQRV",
+      "slug": "groz-paint-mixer-rod-60mm-suitable-with-10mm-drill-",
+      "name": "Groz Paint Mixer Rod - 60mm | Suitable with 10mm Drill |...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 316.26,
+      "image": "https://m.media-amazon.com/images/I/51N92mSZi5L.jpg | https://m.media-amazon.com/images/I/31nVGY4tarL.jpg | https://m.media-amazon.com/images/I/21H0hj8NlKL.jpg | https://m.media-amazon.com/images/I/51AhNFqsB7L.jpg | https://m.media-amazon.com/images/I/31kFbiQAJKL.jpg | https://m.media-amazon.com/images/I/41rXP-CYN+L.jpg | https://m.media-amazon.com/images/I/31O49Xyk7-L.jpg | https://m.media-amazon.com/images/I/41pri7EvprL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Paint-Mixer-Diameter-14620/dp/B077WM2SB5/ref=sr_1_131"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLBBVAQ2Q",
+      "slug": "groz-outside-micrometers-with-balanced-frame-design-",
+      "name": "Groz Outside Micrometers with Balanced Frame Design |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 5110.41,
+      "image": "https://m.media-amazon.com/images/I/61sqdik+HmL.jpg | https://m.media-amazon.com/images/I/31EcrJmkDrL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Micrometers-Balanced-Measures-Accuracy/dp/B07J1XCPCP/ref=sr_1_299"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGZLFGVCR",
+      "slug": "groz-outside-micrometers-with-balanced-frame-design-",
+      "name": "Groz Outside Micrometers with Balanced Frame Design |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 4143.86,
+      "image": "https://m.media-amazon.com/images/I/71F8T0pnztL.jpg | https://m.media-amazon.com/images/I/31IISTLJ87L.jpg | https://m.media-amazon.com/images/I/413PHquYGtL.jpg | https://m.media-amazon.com/images/I/41fqDZ3GfOL.jpg | https://m.media-amazon.com/images/I/41aGHffAPoL.jpg | https://m.media-amazon.com/images/I/41HVC2IS1eL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Micrometers-Balanced-Measures-Accuracy/dp/B07J26VSTQ/ref=sr_1_302"
+    },
+    {
+      "sku": "JKE-IIYEIMKSGVCFMNJU",
+      "slug": "groz-manual-siphon-pump-for-fish-tanks-draining-water",
+      "name": "Groz Manual Siphon Pump for Fish Tanks, Draining Water,...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 226.95,
+      "image": "https://m.media-amazon.com/images/I/51ClDeloAQL.jpg | https://m.media-amazon.com/images/I/21DA31V6KKL.jpg | https://m.media-amazon.com/images/I/41ob0v4O+IL.jpg | https://m.media-amazon.com/images/I/31q2AA449HL.jpg | https://m.media-amazon.com/images/I/41SOxssB8SL.jpg | https://m.media-amazon.com/images/I/41Bx2RDZm4L.jpg | https://m.media-amazon.com/images/I/41wgvBbvfWL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Manual-Aquarium-Transfer-Operated/dp/B0D1R5DV54/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-IIYDON2XKEZTCTJT",
+      "slug": "groz-adjustable-wrench-10250mm-adjustable-spanner",
+      "name": "Groz Adjustable Wrench 10\",250mm | Adjustable Spanner...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 556.5,
+      "image": "https://m.media-amazon.com/images/I/71RaGu5ba1L.jpg | https://m.media-amazon.com/images/I/31D-fl568OL.jpg | https://m.media-amazon.com/images/I/41vc3+l++WL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Adjustable-Wrench-Spanner-Plumber/dp/B077WQ31M3/ref=sr_1_71"
+    },
+    {
+      "sku": "JKE-IIYDOM2XGZBDOMKH",
+      "slug": "groz-lever-action-barrel-pump-lever-pump-for-oil-diesel",
+      "name": "GROZ Lever Action Barrel Pump| Lever Pump for Oil, Diesel,...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 1394,
+      "image": "https://m.media-amazon.com/images/I/61Zwm915HcL.jpg | https://m.media-amazon.com/images/I/31GtgX0cJAL.jpg | https://m.media-amazon.com/images/I/71a1QScEfNL.jpg | https://m.media-amazon.com/images/I/31JFXevswBL.jpg | https://m.media-amazon.com/images/I/41LKLxF6RBL.jpg | https://m.media-amazon.com/images/I/31e9O8mNRwL.jpg | https://m.media-amazon.com/images/I/31uoda0dg1L.jpg | https://m.media-amazon.com/images/I/51HWQ8E8MCL.jpg",
+      "productUrl": "https://www.amazon.in/Kerosene-Antifreeze-Telescopic-Suction-Delivers/dp/B073W6B71G/ref=sr_1_1"
+    },
+    {
+      "sku": "JKE-IIYEMRRVKM4UGVCM",
+      "slug": "groz-hex-socket-34-drive-32mm-crv-steel-3x-performance",
+      "name": "GROZ Hex Socket 3/4\" Drive, 32mm CrV Steel, 3x Performance,...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 701,
+      "image": "https://m.media-amazon.com/images/I/51asCqlslKL.jpg | https://m.media-amazon.com/images/I/21zRj15k-aL.jpg | https://m.media-amazon.com/images/I/21VeBLUeqPL.jpg | https://m.media-amazon.com/images/I/21lM3k77ccL.jpg | https://m.media-amazon.com/images/I/21-EmjOWy2L.jpg",
+      "productUrl": "https://www.amazon.in/Performance-SKT-3-4-32-MT/dp/B0FF5S9CTL/ref=sr_1_57"
+    },
+    {
+      "sku": "JKE-IIYDOOKUIZIEGR2S",
+      "slug": "groz-g-clamp-with-unbreakable-body-ideal-for-variety-of",
+      "name": "GROZ G Clamp with unbreakable body| Ideal for Variety of...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 556.74,
+      "image": "https://m.media-amazon.com/images/I/71p8xaF0B3L.jpg | https://m.media-amazon.com/images/I/41iDHRuqyBL.jpg | https://m.media-amazon.com/images/I/41sT1YBTJQL.jpg | https://m.media-amazon.com/images/I/41O8lkyNlCL.jpg | https://m.media-amazon.com/images/I/31P4cnQl+xL.jpg | https://m.media-amazon.com/images/I/41t0LhN1goL.jpg | https://m.media-amazon.com/images/I/41lhOGF7tuL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-GCL-Clamps-Iron-Capacity/dp/B079TFPCGR/ref=sr_1_100"
+    },
+    {
+      "sku": "JKE-IIYEGOBZKM2TIOKT",
+      "slug": "groz-cordless-triple-head-site-lamp-with-360-brightness-",
+      "name": "Groz Cordless Triple Head Site Lamp with 360° Brightness |...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 7467,
+      "image": "https://m.media-amazon.com/images/I/81v5XdDoWkL.jpg | https://m.media-amazon.com/images/I/41F1YNGYPvL.jpg | https://m.media-amazon.com/images/I/416ZnlZakAL.jpg | https://m.media-amazon.com/images/I/41iBteWd-bL.jpg | https://m.media-amazon.com/images/I/41ZKUdXj9SL.jpg | https://m.media-amazon.com/images/I/413CxrCpaxL.jpg | https://m.media-amazon.com/images/I/51y9hUIoCKL.jpg | https://m.media-amazon.com/images/I/51lZn8DNEUL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Multidirection-Rechargeable-LED-685/dp/B0C89S549S/ref=sr_1_103"
+    },
+    {
+      "sku": "JKE-IIYDCMCRK5IEMVCN",
+      "slug": "groz-16oz-claw-hammer-with-13-inch-indestructible-handle-",
+      "name": "Groz 16oz Claw Hammer with 13-Inch Indestructible Handle |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 19809,
+      "image": "https://m.media-amazon.com/images/I/71+v9tqGf-L.jpg | https://m.media-amazon.com/images/I/31woL3hUSjL.jpg | https://m.media-amazon.com/images/I/412Rkp0q8hL.jpg | https://m.media-amazon.com/images/I/31G93LccMWL.jpg | https://m.media-amazon.com/images/I/31gnAUQRZCL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Indestructible-Hi-Visibility-Vulcanized-34535/dp/B010QWPFTM/ref=sr_1_207"
+    },
+    {
+      "sku": "JKE-IIYDQWJZGIZEGOJZ",
+      "slug": "groz-l-handle-12-inch-drive-length-125mm-spring-loaded",
+      "name": "GROZ L-Handle 1/2\" inch Drive, Length 125mm | Spring Loaded...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 544.5,
+      "image": "https://m.media-amazon.com/images/I/619PEYP5OfL.jpg | https://m.media-amazon.com/images/I/31DS8Op4w1L.jpg",
+      "productUrl": "https://www.amazon.in/L-Handle-L-Shaped-LDH-1-2-UG/dp/B08Y922C99/ref=sr_1_189"
+    },
+    {
+      "sku": "JKE-IIYDQSSHKNBFCRSS",
+      "slug": "groz-tap-wrench-with-t-type-ratchet-handle-ideal-for",
+      "name": "Groz Tap Wrench with T Type Ratchet Handle | Ideal for...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1074,
+      "image": "https://m.media-amazon.com/images/I/7108CkcgnIL.jpg | https://m.media-amazon.com/images/I/31XNLfvLoDL.jpg | https://m.media-amazon.com/images/I/31h3WZA9ZNS.jpg | https://m.media-amazon.com/images/I/41ceBJr76+S.jpg | https://m.media-amazon.com/images/I/41ta3rUY92S.jpg | https://m.media-amazon.com/images/I/41UcoiW2X+S.jpg | https://m.media-amazon.com/images/I/41xCWTdwR8S.jpg",
+      "productUrl": "https://www.amazon.in/Wrench-Ratchet-Holding-extractors-Hardened/dp/B08JGSBQFR/ref=sr_1_89"
+    },
+    {
+      "sku": "JKE-IIYDCMCRK5IECRJS",
+      "slug": "groz-34523-16-indestructible-sledge-hammer-8-lb",
+      "name": "Groz 34523 16\" Indestructible Sledge Hammer, 8 lb",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 27056,
+      "image": "https://m.media-amazon.com/images/I/51TZI6mCarL.jpg | https://m.media-amazon.com/images/I/3118F9fEL6L.jpg | https://m.media-amazon.com/images/I/41xabopRbXL.jpg | https://m.media-amazon.com/images/I/31zBkheNnPL.jpg | https://m.media-amazon.com/images/I/41ZGgmaFbeL.jpg | https://m.media-amazon.com/images/I/41j0vsjhJCL.jpg | https://m.media-amazon.com/images/I/41z9xQiEq5L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-34523-Indestructible-Sledge-Hammer/dp/B010QWPAE2/ref=sr_1_116"
+    },
+    {
+      "sku": "JKE-IIYEIWCRGM3FQTCL",
+      "slug": "groz-rubber-mallet-black-567gms14-inch-hickory-wood",
+      "name": "Groz Rubber Mallet (Black) 567gms,14 Inch Hickory Wood...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 687.75,
+      "image": "https://m.media-amazon.com/images/I/612L1f1vPHL.jpg | https://m.media-amazon.com/images/I/215qR5pr93L.jpg | https://m.media-amazon.com/images/I/31ir+nP9y0L.jpg | https://m.media-amazon.com/images/I/41Q5bjSTxWL.jpg | https://m.media-amazon.com/images/I/41v7ngRzL0L.jpg | https://m.media-amazon.com/images/I/41Y7fRAIe3L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Carpentry-MLTR-20B-HW/dp/B0DXQ36XLK/ref=sr_1_196"
+    },
+    {
+      "sku": "JKE-IIYDQSSHIQ3FMM2H",
+      "slug": "groz-vernier-depth-gauge-with-stainless-steel-body-ideal",
+      "name": "GROZ Vernier Depth Gauge with Stainless Steel Body| Ideal...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 2872.28,
+      "image": "https://m.media-amazon.com/images/I/61Nlzz-6T0L.jpg | https://m.media-amazon.com/images/I/21HyNHdTr0L.jpg | https://m.media-amazon.com/images/I/41rBTpn-lTL.jpg",
+      "productUrl": "https://www.amazon.in/Vernier-Stainless-measuring-Movement-Locking/dp/B08JGD6V3G/ref=sr_1_305"
+    },
+    {
+      "sku": "JKE-IIYEQMZZGRIVEMRT",
+      "slug": "groz-cordless-impact-wrench-12-drive-600-nm-max",
+      "name": "GROZ Cordless Impact Wrench | 1/2\" Drive | 600 Nm Max...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 27198,
+      "image": "https://m.media-amazon.com/images/I/61MQJ+NgyfL.jpg | https://m.media-amazon.com/images/I/31S92TIYasL.jpg | https://m.media-amazon.com/images/I/413J2D+jDkL.jpg | https://m.media-amazon.com/images/I/410ZqzcTggL.jpg | https://m.media-amazon.com/images/I/41yMZtL+a-L.jpg | https://m.media-amazon.com/images/I/419tOkYF47L.jpg | https://m.media-amazon.com/images/I/51pBmbJRowL.jpg | https://m.media-amazon.com/images/I/41VTM3ywc8L.jpg",
+      "productUrl": "https://www.amazon.in/BIW-1-2-20-4-L1-EU/dp/B0H394QR23/ref=sr_1_128"
+    },
+    {
+      "sku": "JKE-IIYDOOKUIZGUIU2H",
+      "slug": "groz-slim-line-ratchet-handle-with-quick-release-switch-",
+      "name": "Groz Slim Line Ratchet Handle with Quick Release Switch |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1604.47,
+      "image": "https://m.media-amazon.com/images/I/61TNXVNFBtL.jpg | https://m.media-amazon.com/images/I/31963LfcOCL.jpg | https://m.media-amazon.com/images/I/319nfQt-byL.jpg",
+      "productUrl": "https://www.amazon.in/Ratchet-Handle-Quick-Release-Switch/dp/B079TFMDSG/ref=sr_1_203_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYEMQSHKNGFAVSX",
+      "slug": "groz-extra-long-ratcheting-spanner-14mm-15-longer-high",
+      "name": "Groz Extra Long Ratcheting Spanner 14mm| 15% Longer | High...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1042,
+      "image": "https://m.media-amazon.com/images/I/41Un86-tWzL.jpg | https://m.media-amazon.com/images/I/21kitEvmmKL.jpg | https://m.media-amazon.com/images/I/21QedmvB4QL.jpg | https://m.media-amazon.com/images/I/21+caHOp2jL.jpg | https://m.media-amazon.com/images/I/31LtsoQp9hL.jpg | https://m.media-amazon.com/images/I/31CwKBXKoGL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Ratcheting-Spanner-Standards-Automotive/dp/B0FBGSLPVW/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFKDCUJV",
+      "slug": "groz-medium-duty-magnetic-base-with-fine-adjustment",
+      "name": "GROZ Medium Duty Magnetic Base with fine adjustment...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 2099.25,
+      "image": "https://m.media-amazon.com/images/I/813ltIGy-yL.jpg | https://m.media-amazon.com/images/I/41dKm8E6R7L.jpg",
+      "productUrl": "https://www.amazon.in/Medium-Magnetic-adjustment-fitting-applications/dp/B079SYT1Q5/ref=sr_1_129"
+    },
+    {
+      "sku": "JKE-IIYDQU2MKNJEOQ2X",
+      "slug": "groz-adjustable-pipe-wrench-ideal-for-all-plumbing-related",
+      "name": "GROZ Adjustable Pipe Wrench| Ideal for All Plumbing Related...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1382,
+      "image": "https://m.media-amazon.com/images/I/61ZsqUdqWZL.jpg | https://m.media-amazon.com/images/I/31bATAQhSJL.jpg | https://m.media-amazon.com/images/I/31mOsCEu99S.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Adjustable-Industrial-Construction-Ergonomic/dp/B08SLSRGCW/ref=sr_1_224"
+    },
+    {
+      "sku": "JKE-IIYDONCDLE2E2M2O",
+      "slug": "groz-led530-outdoor-led-super-cool-flood-light-non",
+      "name": "Groz LED/530 Outdoor LED Super Cool Flood Light | Non...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 2210,
+      "image": "https://m.media-amazon.com/images/I/81A+hHpd-VL.jpg | https://m.media-amazon.com/images/I/51WGArb85YL.jpg | https://m.media-amazon.com/images/I/51ZLvqk9beL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-530-18W-Floodlight/dp/B074CY4M3N/ref=sr_1_70"
+    },
+    {
+      "sku": "JKE-IIYDQUKWJJNDSN2D",
+      "slug": "groz-ezee-flow-upstroke-pump-push-down-mechanism-with",
+      "name": "GROZ Ezee Flow Upstroke Pump (Push Down Mechanism) with...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 596,
+      "image": "https://m.media-amazon.com/images/I/51fgk7mXpFL.jpg | https://m.media-amazon.com/images/I/31DKJ5Hr1TL.jpg | https://m.media-amazon.com/images/I/41hgTaMTIwS.jpg | https://m.media-amazon.com/images/I/41iLK6vLgIS.jpg | https://m.media-amazon.com/images/I/41cvjoc8EoS.jpg | https://m.media-amazon.com/images/I/41vmTB8+HXS.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Upstroke-Interchangeable-Adaptors-Engine/dp/B08QVJZ97C/ref=sr_1_174"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKNLDOVBS",
+      "slug": "groz-adjustable-wrench-for-garage-ideal-for-metric-",
+      "name": "Groz Adjustable Wrench for Garage | Ideal for Metric &...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 378.54,
+      "image": "https://m.media-amazon.com/images/I/61NvnU8SAwL.jpg | https://m.media-amazon.com/images/I/317OU8FNBWL.jpg | https://m.media-amazon.com/images/I/412MNYiHVCL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Adjustable-fasteners-Cr-Vanadium-Precision/dp/B079RSV7T2/ref=sr_1_91"
+    },
+    {
+      "sku": "JKE-IIYDCRBZGQZU6VKR",
+      "slug": "groz-01000-ssa2-precision-steel-engineering-square-blade",
+      "name": "Groz 01000 SS/A2 Precision Steel Engineering Square Blade",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 4407,
+      "image": "https://m.media-amazon.com/images/I/71nUS+zQQPL.jpg | https://m.media-amazon.com/images/I/31wD46+gAbL.jpg | https://m.media-amazon.com/images/I/31qVnG8SBVL.jpg | https://m.media-amazon.com/images/I/31e6eNmZEwL.jpg | https://m.media-amazon.com/images/I/318w2iwUUYL.jpg | https://m.media-amazon.com/images/I/51naople5AL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-01000-Precision-Engineering-Square/dp/B01D943OUQ/ref=sr_1_215"
+    },
+    {
+      "sku": "JKE-IIYDQTCWHFIEOOBX",
+      "slug": "groz-internal-bent-circlip-plier-with-precise-solid",
+      "name": "GROZ Internal Bent Circlip Plier with Precise & Solid...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 345.76,
+      "image": "https://m.media-amazon.com/images/I/61PoGZQw2VL.jpg | https://m.media-amazon.com/images/I/31+vadMnAtL.jpg | https://m.media-amazon.com/images/I/31CqleD2mWS.jpg",
+      "productUrl": "https://www.amazon.in/Internal-Circlip-Vanadium-Construction-Resistant/dp/B08LV9PG87/ref=sr_1_105"
+    },
+    {
+      "sku": "JKE-IIYDOOKUGRFDOS2S",
+      "slug": "groz-screw-extractor-set-with-chrome-molybdenum",
+      "name": "GROZ Screw Extractor Set with Chrome Molybdenum...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 685.7,
+      "image": "https://m.media-amazon.com/images/I/71wTkOcRvuL.jpg | https://m.media-amazon.com/images/I/418BHTNfZFL.jpg",
+      "productUrl": "https://www.amazon.in/5-Piece-Screw-Extractor-Chrome-Molybdenum/dp/B079T4J7KR/ref=sr_1_98"
+    },
+    {
+      "sku": "JKE-IIYDONCDLFHDQVRR",
+      "slug": "groz-led350-led-200-smd-rechargeable-underhood-work-light",
+      "name": "Groz LED/350 LED 200 SMD Rechargeable Underhood Work Light...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 10930,
+      "image": "https://m.media-amazon.com/images/I/61qGvpH6WnL.jpg | https://m.media-amazon.com/images/I/21-93i9DcPL.jpg | https://m.media-amazon.com/images/I/41jVvngBmnL.jpg | https://m.media-amazon.com/images/I/41QudYZ9DfL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-350-Rechargeable-Underhood/dp/B074CYN8V1/ref=sr_1_141"
+    },
+    {
+      "sku": "JKE-IIYDQTCWI5EEWWC2",
+      "slug": "groz-internal-straight-circlip-plier-with-solid-contact",
+      "name": "GROZ Internal Straight Circlip Plier with Solid Contact...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 345.76,
+      "image": "https://m.media-amazon.com/images/I/61PejqtR3ZL.jpg | https://m.media-amazon.com/images/I/31H2jBFakCL.jpg | https://m.media-amazon.com/images/I/31+lSuPnp+S.jpg",
+      "productUrl": "https://www.amazon.in/Internal-Straight-Vanadium-Construction-Resistant/dp/B08LVGHKXZ/ref=sr_1_220"
+    },
+    {
+      "sku": "JKE-IIYDQVSOGMZUIN2O",
+      "slug": "groz-universal-joint-with-ultra-premium-finish-ideal-for",
+      "name": "GROZ Universal Joint with Ultra-Premium Finish| Ideal for...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 525,
+      "image": "https://m.media-amazon.com/images/I/711zYHDTorL.jpg | https://m.media-amazon.com/images/I/41qfPcpv3pL.jpg | https://m.media-amazon.com/images/I/31XDX2Ze6CL.jpg | https://m.media-amazon.com/images/I/312kklh9H1S.jpg",
+      "productUrl": "https://www.amazon.in/Universal-Ultra-Premium-Loosening-Tightening-Inaccessible/dp/B08VN33D7N/ref=sr_1_147"
+    },
+    {
+      "sku": "JKE-IIYDONBTGNDTKOJV",
+      "slug": "groz-digital-pressure-gauge-with-ip65-waterproof-rating-",
+      "name": "GROZ Digital Pressure Gauge with IP65 Waterproof Rating |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 2857.8,
+      "image": "https://m.media-amazon.com/images/I/415uHohj5EL.jpg | https://m.media-amazon.com/images/I/31oIAILysUL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Digital-Pressure-Gauges-Dpg/dp/B07433G595/ref=sr_1_213"
+    },
+    {
+      "sku": "JKE-IIYEQMZTLFMUYWCW",
+      "slug": "groz-cordless-impact-wrench-12-inch-drive-400-nm-max",
+      "name": "GROZ Cordless Impact Wrench | 1/2 Inch Drive | 400 Nm Max...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 25598,
+      "image": "https://m.media-amazon.com/images/I/611C8fwVI2L.jpg | https://m.media-amazon.com/images/I/313GDHHL19L.jpg | https://m.media-amazon.com/images/I/41LeHBv16CL.jpg | https://m.media-amazon.com/images/I/41NO5IodvaL.jpg | https://m.media-amazon.com/images/I/41yMZtL+a-L.jpg | https://m.media-amazon.com/images/I/41rwNzsvhOL.jpg | https://m.media-amazon.com/images/I/51gd1jcwOlL.jpg | https://m.media-amazon.com/images/I/41fykAMyskL.jpg",
+      "productUrl": "https://www.amazon.in/BIW-1-2-20-4-L2-EU/dp/B0H33YYLXV/ref=sr_1_270"
+    },
+    {
+      "sku": "JKE-IIYDQS2YJZMVSMSR",
+      "slug": "groz-7-inch-water-pump-plier-with-7-position-size",
+      "name": "GROZ 7 inch Water Pump Plier with 7 Position Size...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 361.6,
+      "image": "https://m.media-amazon.com/images/I/61v0Ih-wMqL.jpg | https://m.media-amazon.com/images/I/21YfPV9ViYL.jpg | https://m.media-amazon.com/images/I/41283Pgk3yL.jpg | https://m.media-amazon.com/images/I/41S48doUQ3L.jpg | https://m.media-amazon.com/images/I/31zBpRjEw5L.jpg | https://m.media-amazon.com/images/I/41BEI-KFyfL.jpg | https://m.media-amazon.com/images/I/31Pq1wJO7nL.jpg",
+      "productUrl": "https://www.amazon.in/Position-Adjustment-Corrosion-Resistant-Ergonomic/dp/B08KXNYY2Q/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-IIYDOOKSKI3UWTSK",
+      "slug": "groz-alnhx-bl7lgrz-s2-steel-7-piece-set-hex-keys",
+      "name": "GROZ ALN/HX-BL/7L/GRZ, S2 Steel, 7 Piece Set Hex Keys,...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1326,
+      "image": "https://m.media-amazon.com/images/I/71X9lpkWVBL.jpg | https://m.media-amazon.com/images/I/41BayTqARzL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-HX-BL-Piece-Metric-Steel/dp/B079RR7KNJ/ref=sr_1_64"
+    },
+    {
+      "sku": "JKE-IIYDOTRWJBGFUWKN",
+      "slug": "groz-2-in-1-360-swivel-rechargeable-slim-work-light-",
+      "name": "Groz 2 in 1 360° Swivel Rechargeable Slim Work Light |...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 7407.75,
+      "image": "https://m.media-amazon.com/images/I/61ncCkYLkbL.jpg | https://m.media-amazon.com/images/I/31C4ZlxwfnL.jpg | https://m.media-amazon.com/images/I/41z9tV0Tc1L.jpg | https://m.media-amazon.com/images/I/31LnSG5O2WL.jpg | https://m.media-amazon.com/images/I/31bWkFWjRcL.jpg | https://m.media-amazon.com/images/I/41bmLRngZiL.jpg | https://m.media-amazon.com/images/I/516i4bKA2GL.jpg | https://m.media-amazon.com/images/I/51ph6ujyY6L.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-370-Rechargeable-Brightness/dp/B07N6HLZYM/ref=sr_1_146"
+    },
+    {
+      "sku": "JKE-IIYDQRSCGJFE4U2Y",
+      "slug": "groz-coolant-mixer-with-mixing-ratio-control-knob-ideal",
+      "name": "GROZ Coolant Mixer with Mixing Ratio Control Knob| Ideal...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 13545,
+      "image": "https://m.media-amazon.com/images/I/61ss0S0IjQL.jpg | https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg",
+      "productUrl": "https://www.amazon.in/Coolant-Control-blending-Portable-Maintenance/dp/B08FB2JNSX/ref=sr_1_221"
+    },
+    {
+      "sku": "JKE-IIYDQSCMKZLTQSBS",
+      "slug": "groz-set-of-3-pliers-7-side-cutting-plier-8",
+      "name": "GROZ Set of 3 Pliers | 7\" Side Cutting Plier, 8\"...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1490,
+      "image": "https://m.media-amazon.com/images/I/61E66gkA1FL.jpg | https://m.media-amazon.com/images/I/41d6JrKMbuL.jpg | https://m.media-amazon.com/images/I/41qeBGUEQ1L.jpg",
+      "productUrl": "https://www.amazon.in/Combination-Electrical-Plumbing-Applications-Ergonomic/dp/B08HLVW8H2/ref=sr_1_259"
+    },
+    {
+      "sku": "JKE-IIYDOVRZIZHEGUST",
+      "slug": "groz-mini-cob-flashlightpocket-torch-with-magnetic-clip-",
+      "name": "Groz Mini COB Flashlight/Pocket Torch with Magnetic Clip |...",
+      "brand": "Groz",
+      "category": "General Hardware",
+      "price": 608,
+      "image": "https://m.media-amazon.com/images/I/41RBIPzxJXL.jpg | https://m.media-amazon.com/images/I/31SjtIHyIFL.jpg | https://m.media-amazon.com/images/I/51gbTUBy2VL.jpg | https://m.media-amazon.com/images/I/41LD-9wEdrL.jpg | https://m.media-amazon.com/images/I/31G8U6yQmYL.jpg | https://m.media-amazon.com/images/I/31qpz7RKFHL.jpg | https://m.media-amazon.com/images/I/41WFHggHbRL.jpg | https://m.media-amazon.com/images/I/314QXPqJ4zL.jpg",
+      "productUrl": "https://www.amazon.in/Portable-Pocket-Sized-Flashlight-Emergencies-Automobile/dp/B07V9FNCRS/ref=sr_1_3"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RIZCEGR2D",
+      "slug": "groz-reversible-ratcheting-spanner-with-scratch-proof",
+      "name": "GROZ Reversible Ratcheting Spanner with Scratch Proof...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1670.42,
+      "image": "https://m.media-amazon.com/images/I/41cMSSzTlYL.jpg | https://m.media-amazon.com/images/I/21Q-9yR9D0L.jpg | https://m.media-amazon.com/images/I/21ptrLn+GIL.jpg | https://m.media-amazon.com/images/I/21JsM4ZxKFL.jpg | https://m.media-amazon.com/images/I/21bfW5svmYL.jpg | https://m.media-amazon.com/images/I/317x0PyFGxL.jpg",
+      "productUrl": "https://www.amazon.in/Reversible-Ratcheting-Ultra-Premium-applications-Construction/dp/B07CQFDCGC/ref=sr_1_114"
+    },
+    {
+      "sku": "JKE-IIYEGTSUIJFEMSSM",
+      "slug": "groz-all-new-6-kg-bucket-grease-pump-with-quick-lock",
+      "name": "Groz All New 6 Kg Bucket Grease Pump with Quick Lock...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 4713,
+      "image": "https://m.media-amazon.com/images/I/7165y0P+j-L.jpg | https://m.media-amazon.com/images/I/41ESGA-OsDL.jpg | https://m.media-amazon.com/images/I/414SRlJpyKL.jpg | https://m.media-amazon.com/images/I/51gX3A8yHDL.jpg | https://m.media-amazon.com/images/I/51YZIp0RsxL.jpg | https://m.media-amazon.com/images/I/41jOiuwyWqL.jpg | https://m.media-amazon.com/images/I/51Z-ZvHFTPL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Coupler-Operation-Multiple-Pressure/dp/B0CNTBJFJL/ref=sr_1_5"
+    },
+    {
+      "sku": "JKE-IIYEMTCEIRJDMTSG",
+      "slug": "groz-heavy-duty-truck-wheel-wrench-30mm-x-32mm-double",
+      "name": "Groz Heavy Duty Truck Wheel Wrench 30mm x 32mm (Double...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1678.08,
+      "image": "https://m.media-amazon.com/images/I/51K+R9inAaL.jpg | https://m.media-amazon.com/images/I/2194WkGAONL.jpg | https://m.media-amazon.com/images/I/31uFxWonbpL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Wrench-Rust-Resistant-Tractors-Vehicles/dp/B0FLDDR6NF/ref=sr_1_287"
+    },
+    {
+      "sku": "JKE-IIYDOOKTLFKDCUCO",
+      "slug": "groz-oil-drain-pan-for-antifreeze-fluids-coolants-hdpe",
+      "name": "Groz Oil Drain Pan for Antifreeze Fluids, Coolants | HDPE...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 1383,
+      "image": "https://m.media-amazon.com/images/I/61-f+8L6-VL.jpg | https://m.media-amazon.com/images/I/31BkJdGeJ8L.jpg | https://m.media-amazon.com/images/I/51l8GIH-87L.jpg | https://m.media-amazon.com/images/I/31UwP1dB4YL.jpg | https://m.media-amazon.com/images/I/41C0U-wotcL.jpg | https://m.media-amazon.com/images/I/31brh6SxX3L.jpg | https://m.media-amazon.com/images/I/31ONuvvg0PL.jpg | https://m.media-amazon.com/images/I/3112xvdTCJL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Antifreeze-Coolants-Convenient-Capacity/dp/B079SYT1PN/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYDON2XKEYTIRCX",
+      "slug": "groz-number-stamp-set-with-induction-hardened-ends-ideal",
+      "name": "GROZ Number Stamp Set with Induction Hardened Ends| Ideal...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 492.24,
+      "image": "https://m.media-amazon.com/images/I/41zea1piUJL.jpg | https://m.media-amazon.com/images/I/41zea1piUJL.jpg",
+      "productUrl": "https://www.amazon.in/Induction-Hardened-permanent-imprints-Construction/dp/B077WQ14DW/ref=sr_1_126"
+    },
+    {
+      "sku": "JKE-IIYDQUZXGQ4VUQSD",
+      "slug": "groz-flex-handle-with-spring-loaded-ball-bearing-joint",
+      "name": "GROZ Flex Handle with Spring Loaded Ball Bearing Joint|...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 822.16,
+      "image": "https://m.media-amazon.com/images/I/61qHEgjIGBL.jpg | https://m.media-amazon.com/images/I/31NSXu3JP8L.jpg | https://m.media-amazon.com/images/I/31Ta9mOB-yS.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Applications-Tightening-Releasing-Fastener/dp/B08S749ZBC/ref=sr_1_223"
+    },
+    {
+      "sku": "JKE-IIYDQQ2WJJKFSV2N",
+      "slug": "groz-heavy-duty-open-jaw-slogging-wrench-for-removing-very",
+      "name": "Groz Heavy Duty Open Jaw Slogging Wrench for removing very...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 793.23,
+      "image": "https://m.media-amazon.com/images/I/61R110rmJ4L.jpg | https://m.media-amazon.com/images/I/313v7+c-suL.jpg | https://m.media-amazon.com/images/I/51u1z4U5u4L.jpg | https://m.media-amazon.com/images/I/51blc3kYnOL.jpg | https://m.media-amazon.com/images/I/41e+vDmh5QL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Heavy-Slogging-Wrench-Removing/dp/B08CVJTYWM/ref=sr_1_200"
+    },
+    {
+      "sku": "JKE-IIYDQVSOGU2EQOBY",
+      "slug": "groz-9-pcs-torx-bit-socket-set-with-ultra-premium-finish",
+      "name": "GROZ 9 pcs Torx Bit Socket Set with Ultra-Premium Finish|...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 2007.45,
+      "image": "https://m.media-amazon.com/images/I/71F2yWXCLHL.jpg | https://m.media-amazon.com/images/I/41kcnahaKsL.jpg",
+      "productUrl": "https://www.amazon.in/Ultra-Premium-loosening-tightening-fasteners-Non-Slip/dp/B08VN54H88/ref=sr_1_217"
+    },
+    {
+      "sku": "JKE-IIYEES22JJIVGWBS",
+      "slug": "groz-heavy-duty-digital-tyre-inflator-gauge-3-in-1-tyre",
+      "name": "Groz Heavy Duty Digital Tyre Inflator Gauge | 3 in 1 Tyre...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 4833.43,
+      "image": "https://m.media-amazon.com/images/I/61YwCTWomRL.jpg | https://m.media-amazon.com/images/I/41uN3TgsGkL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Inflator-Inflates-Deflates-Accuracy/dp/B0BKZJQSX2/ref=sr_1_154"
+    },
+    {
+      "sku": "JKE-IIYDAVSYG5ETAM2T",
+      "slug": "groz-air-operated-grease-gun-with-bulk-loader-valve-12",
+      "name": "GROZ Air Operated Grease Gun with Bulk Loader Valve | 12...",
+      "brand": "Groz",
+      "category": "Plumbing",
+      "price": 3782,
+      "image": "https://m.media-amazon.com/images/I/61Wm3Vhd+PL.jpg | https://m.media-amazon.com/images/I/31ddFEFLzfL.jpg | https://m.media-amazon.com/images/I/41fgdkkpFNL.jpg | https://m.media-amazon.com/images/I/31TEuBJL8iL.jpg | https://m.media-amazon.com/images/I/41R5DxdIqfS.jpg | https://m.media-amazon.com/images/I/41ZKpNFFU7S.jpg | https://m.media-amazon.com/images/I/415TK3GYNuS.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-industries-agricultural-equipment-Discharge/dp/B00VX7I03S/ref=sr_1_39"
+    },
+    {
+      "sku": "JKE-IIYDMWBTK4ZDSOCG",
+      "slug": "groz-tap-wrench-with-t-type-handle-for-use-in-hard-to-reach",
+      "name": "Groz Tap Wrench with T-Type Handle for use in Hard to Reach...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 271.45,
+      "image": "https://m.media-amazon.com/images/I/61hIl+kGMPL.jpg | https://m.media-amazon.com/images/I/41s6xq7bfBL.jpg | https://m.media-amazon.com/images/I/312z63Y9osS.jpg | https://m.media-amazon.com/images/I/41Xd6ECim3S.jpg | https://m.media-amazon.com/images/I/41ivDN2Hk2S.jpg | https://m.media-amazon.com/images/I/415RmFZuzES.jpg | https://m.media-amazon.com/images/I/41iswRgBOeS.jpg | https://m.media-amazon.com/images/I/41q64uI1hHS.jpg",
+      "productUrl": "https://www.amazon.in/Wrench-Holding-reamers-extractors-Hardened/dp/B06X3W298F/ref=sr_1_100"
+    },
+    {
+      "sku": "JKE-IIYDQSZTG5JTKM2Z",
+      "slug": "groz-grease-gun-hose-300mm-12-with-zinc-plated-steel-end",
+      "name": "GROZ Grease Gun Hose 300mm, 12\" with Zinc Plated Steel End...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 195.02,
+      "image": "https://m.media-amazon.com/images/I/61rQVpfN53L.jpg | https://m.media-amazon.com/images/I/31UTyVDaL-L.jpg | https://m.media-amazon.com/images/I/21ghVR-cmqL.jpg | https://m.media-amazon.com/images/I/31iE+Qu1HcL.jpg | https://m.media-amazon.com/images/I/319+rBk0ZvL.jpg",
+      "productUrl": "https://www.amazon.in/Grease-Plated-Connections-spaces-operated/dp/B08K37S53Y/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-IIYDOSRSIZGVIWCI",
+      "slug": "groz-rechargeable-360-swivel-work-light-7-smds-3w-led",
+      "name": "Groz Rechargeable 360° Swivel Work Light | 7 SMDs + 3W LED...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 6154.35,
+      "image": "https://m.media-amazon.com/images/I/61j44-NzptL.jpg | https://m.media-amazon.com/images/I/31DTZqOd1dL.jpg | https://m.media-amazon.com/images/I/313PzUBuCFL.jpg | https://m.media-amazon.com/images/I/31w+ipQQoaL.jpg | https://m.media-amazon.com/images/I/31AstW1rIZL.jpg | https://m.media-amazon.com/images/I/31p-FEUwrNL.jpg | https://m.media-amazon.com/images/I/31X9UwzjS2L.jpg | https://m.media-amazon.com/images/I/41kf4JjwNAL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-360-Rechargeable-direction/dp/B07J2FMTXH/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-IIYEESRSGRJTCUCG",
+      "slug": "groz-air-operated-transfer-pump-with-discharge-hose-quick",
+      "name": "Groz Air Operated Transfer Pump with Discharge Hose | Quick...",
+      "brand": "Groz",
+      "category": "Safety & PPE",
+      "price": 8032.05,
+      "image": "https://m.media-amazon.com/images/I/51US1v54+IL.jpg | https://m.media-amazon.com/images/I/31tdQmGO7EL.jpg | https://m.media-amazon.com/images/I/41iaG9EsfyL.jpg | https://m.media-amazon.com/images/I/41X8FuAyqSL.jpg | https://m.media-amazon.com/images/I/41zBzN-5gPL.jpg | https://m.media-amazon.com/images/I/418dNAYGiDL.jpg | https://m.media-amazon.com/images/I/517DaDTD0vL.jpg",
+      "productUrl": "https://www.amazon.in/Operated-Transfer-Discharge-Operation-50-205litres/dp/B0BJ24S1PF/ref=sr_1_29"
+    },
+    {
+      "sku": "JKE-IIYDQVBXGVBEQMK2",
+      "slug": "groz-5-tray-cantilever-tool-box-with-trolley-ideal-for",
+      "name": "GROZ 5 Tray Cantilever Tool Box with Trolley| Ideal for...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 4440,
+      "image": "https://m.media-amazon.com/images/I/71oJOpJutAL.jpg | https://m.media-amazon.com/images/I/41M3NOE5bZL.jpg | https://m.media-amazon.com/images/I/41jpk0+We+L.jpg | https://m.media-amazon.com/images/I/31Kjn7bjc0L.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Cantilever-organizing-applications-Construction/dp/B08T75BH1Z/ref=sr_1_94"
+    },
+    {
+      "sku": "JKE-IIYDON2YKBHDKN2I",
+      "slug": "groz-letter-stamp-set-with-induction-hardened-ends-ideal",
+      "name": "GROZ Letter Stamp Set with Induction Hardened Ends| Ideal...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 1862.3,
+      "image": "https://m.media-amazon.com/images/I/61t-JWjMTXL.jpg | https://m.media-amazon.com/images/I/41lkuUFN62L.jpg | https://m.media-amazon.com/images/I/41qMP4zdfnL.jpg | https://m.media-amazon.com/images/I/51ov2Pv9zIL.jpg",
+      "productUrl": "https://www.amazon.in/Induction-Hardened-permanent-imprints-Construction/dp/B077XPN57H/ref=sr_1_96"
+    },
+    {
+      "sku": "JKE-IIYEIRSUIRCDITCZ",
+      "slug": "groz-13-pcs-screwdriver-set-4-philips-4-flat-4-torx-",
+      "name": "Groz 13 Pcs Screwdriver Set | 4 Philips, 4 Flat, 4 Torx |...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 494,
+      "image": "https://m.media-amazon.com/images/I/61Fb7POvVpL.jpg | https://m.media-amazon.com/images/I/31V3718t+QL.jpg | https://m.media-amazon.com/images/I/31F3eXSINoL.jpg | https://m.media-amazon.com/images/I/31xzJRoRMgL.jpg | https://m.media-amazon.com/images/I/41FN8ZJxUGL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Screwdriver-Set-Multipurpose-Professional/dp/B0DFTDD4LY/ref=sr_1_88"
+    },
+    {
+      "sku": "JKE-IIYDOTKRJRBE4TSE",
+      "slug": "groz-vernier-caliper-with-stainless-steel-body-ideal-for",
+      "name": "GROZ Vernier Caliper with Stainless Steel Body| Ideal for...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 8622.71,
+      "image": "https://m.media-amazon.com/images/I/512BjNOnqjL.jpg | https://m.media-amazon.com/images/I/11FuB9mgfLL.jpg | https://m.media-amazon.com/images/I/31bpzHk9hDL.jpg | https://m.media-amazon.com/images/I/31JDit1S9lL.jpg | https://m.media-amazon.com/images/I/41+MxDswIiL.jpg | https://m.media-amazon.com/images/I/41+w0vFSXIL.jpg | https://m.media-amazon.com/images/I/312LJ+i3J+L.jpg",
+      "productUrl": "https://www.amazon.in/Vernier-Stainless-measuring-diameter-Movement/dp/B07MQLBNND/ref=sr_1_162"
+    },
+    {
+      "sku": "JKE-IIYDOSRRLFNFGURR",
+      "slug": "groz-alnhx-bl7lsaegrz-7-hexagon-key-with-ball-end-",
+      "name": "Groz ALN/HX-BL/7L/SAE/GRZ 7 Hexagon Key with Ball End -...",
+      "brand": "Groz",
+      "category": "Fasteners & Hardware",
+      "price": 679,
+      "image": "https://m.media-amazon.com/images/I/712wLuglb0L.jpg | https://m.media-amazon.com/images/I/31g6UaCOuGL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-ALN-HX-BL-SAE-GRZ/dp/B07J1YZSR1/ref=sr_1_170"
+    },
+    {
+      "sku": "JKE-IIYDQUCDKFKEUMSD",
+      "slug": "groz-ratcheting-gear-puller-with-quick-changing-mechanism",
+      "name": "GROZ Ratcheting Gear Puller with Quick Changing Mechanism|...",
+      "brand": "Groz",
+      "category": "Abrasives & Finishing",
+      "price": 12213.36,
+      "image": "https://m.media-amazon.com/images/I/61esCsUbgrL.jpg | https://m.media-amazon.com/images/I/31kCbVgjK5L.jpg | https://m.media-amazon.com/images/I/71OCgxFmOTL.png | https://m.media-amazon.com/images/I/41ZJKkr0sjL.jpg | https://m.media-amazon.com/images/I/31l6iULodBL.jpg | https://m.media-amazon.com/images/I/41h6NxDFT5L.jpg | https://m.media-amazon.com/images/I/41WYPTNGKpL.jpg | https://m.media-amazon.com/images/I/41jLAAILlzL.jpg",
+      "productUrl": "https://www.amazon.in/Ratcheting-Mechanism-Flywheels-Reversible-Resistant/dp/B08PCQTJ2C/ref=sr_1_180"
+    },
+    {
+      "sku": "JKE-IIYDQRZUKY4DQQ2T",
+      "slug": "groz-2in1-roll-head-pry-bar-with-tapered-end-ideal-for",
+      "name": "GROZ 2in1 Roll Head Pry Bar with tapered end| Ideal for...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 1308.41,
+      "image": "https://m.media-amazon.com/images/I/31Xob4EnN4L.jpg | https://m.media-amazon.com/images/I/11dHmaplqnL.jpg",
+      "productUrl": "https://www.amazon.in/automotive-applications-Construction-Corrosion-Resistant/dp/B08G4V88CS/ref=sr_1_123"
+    },
+    {
+      "sku": "JKE-IIYEOVRUJRCDCVBT",
+      "slug": "groz-mini-multipurpose-storage-box-with-2-drawers-top-lid",
+      "name": "Groz Mini Multipurpose Storage Box with 2 Drawers & Top Lid...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 2896.62,
+      "image": "https://m.media-amazon.com/images/I/61zYY6Y1fJL.jpg | https://m.media-amazon.com/images/I/31mWay4QxTL.jpg | https://m.media-amazon.com/images/I/41OY1zLeTuL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Multipurpose-Christmas-Organizer-Accessories/dp/B0GV4LD1T3/ref=sr_1_42"
+    },
+    {
+      "sku": "JKE-IIYDQSZSKM3EWNZR",
+      "slug": "groz-smart-funnel-with-dust-cap-mesh-screen-funnel-for",
+      "name": "GROZ Smart Funnel with Dust Cap, Mesh Screen | Funnel for...",
+      "brand": "Groz",
+      "category": "Electrical & Wiring",
+      "price": 545.71,
+      "image": "https://m.media-amazon.com/images/I/61f5RFCIfQL.jpg | https://m.media-amazon.com/images/I/311HZ1tf-JL.jpg | https://m.media-amazon.com/images/I/31SgyxnKUUS.jpg | https://m.media-amazon.com/images/I/31mYXruRYiS.jpg | https://m.media-amazon.com/images/I/41DdV1Z5yxS.jpg | https://m.media-amazon.com/images/I/31x9EfdbDbS.jpg | https://m.media-amazon.com/images/I/41LRzWigbmS.jpg",
+      "productUrl": "https://www.amazon.in/Smart-Funnel-Diesel-Gasoline-Capacity/dp/B08K2S6K71/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RIZCEGRZW",
+      "slug": "groz-reversible-ratcheting-spanner-12-mm-high-torque",
+      "name": "GROZ Reversible Ratcheting Spanner 12 mm | High torque...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1083.03,
+      "image": "https://m.media-amazon.com/images/I/41o9KirSm8L.jpg | https://m.media-amazon.com/images/I/21L5xYcHlGL.jpg | https://m.media-amazon.com/images/I/21lt2iNTIXL.jpg | https://m.media-amazon.com/images/I/21bxHynQ6HL.jpg | https://m.media-amazon.com/images/I/21drpmOOEtL.jpg | https://m.media-amazon.com/images/I/31huPuQsaYL.jpg",
+      "productUrl": "https://www.amazon.in/Reversible-Ratcheting-Ultra-Premium-applications-Construction/dp/B07CQFDCG6/ref=sr_1_171"
+    },
+    {
+      "sku": "JKE-IIYEMUCGKBHDCOKQ",
+      "slug": "groz-set-of-3-funnels-for-petrol-fluid-transfer-",
+      "name": "Groz Set of 3 Funnels for Petrol, Fluid Transfer, |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 190.46,
+      "image": "https://m.media-amazon.com/images/I/51k241t4NWL.jpg | https://m.media-amazon.com/images/I/31cu7sayuNL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Universal-Polypropylene-Multipurpose-Automotive/dp/B0FPFPN19P/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-IIYDQS2WKNJUEN2Z",
+      "slug": "groz-airwater-hose-reel-with-slow-rewinding-mechanism",
+      "name": "GROZ Air/Water Hose Reel with slow rewinding mechanism|...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 9646.05,
+      "image": "https://m.media-amazon.com/images/I/71XiL4zRQIL.jpg | https://m.media-amazon.com/images/I/41Q275jYV+L.jpg | https://m.media-amazon.com/images/I/51wYU6g288L.jpg",
+      "productUrl": "https://www.amazon.in/rewinding-mechanism-Enclosed-Locking-Mechanism/dp/B08KVSSB7Y/ref=sr_1_84"
+    },
+    {
+      "sku": "JKE-IIYDQUBRIRIUWNSR",
+      "slug": "groz-outside-spring-caliper-with-spring-joint-for-precision",
+      "name": "GROZ Outside Spring Caliper with Spring Joint for Precision...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 322.02,
+      "image": "https://m.media-amazon.com/images/I/51cSgRUXTwL.jpg | https://m.media-amazon.com/images/I/21ZYFYHuu-L.jpg",
+      "productUrl": "https://www.amazon.in/Comparative-Measurements-Transferring-Dimensions-Construction/dp/B08P1DQK6Q/ref=sr_1_166"
+    },
+    {
+      "sku": "JKE-IIYDOTRWJJIUOQ2Y",
+      "slug": "groz-multimode-18w-led-rechargeable-worklight-ce-rohs-",
+      "name": "Groz Multimode 18W LED Rechargeable Worklight | CE, RoHs &...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 10455.94,
+      "image": "https://m.media-amazon.com/images/I/810WaB+BozL.jpg | https://m.media-amazon.com/images/I/41waXtEaDFL.jpg | https://m.media-amazon.com/images/I/412iCvSaAzL.jpg | https://m.media-amazon.com/images/I/41E-pGAwLoL.jpg | https://m.media-amazon.com/images/I/414ZIM7GMLL.jpg | https://m.media-amazon.com/images/I/41JEZh9XxpL.jpg | https://m.media-amazon.com/images/I/410HKmFpMnL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-LED-621-Portable-Rechargeable/dp/B07N6JQGCX/ref=sr_1_14"
+    },
+    {
+      "sku": "JKE-IIYDOVSMI5BVSTSQ",
+      "slug": "groz-v-series-bucket-grease-pump-6-kg-3-modes-high",
+      "name": "GROZ V Series Bucket Grease Pump 6 KG | 3 Modes - High...",
+      "brand": "Groz",
+      "category": "Garden & Outdoor",
+      "price": 5480,
+      "image": "https://m.media-amazon.com/images/I/51w3gMpD56L.jpg | https://m.media-amazon.com/images/I/315QvmTtkLL.jpg | https://m.media-amazon.com/images/I/412wCcQQXUL.jpg | https://m.media-amazon.com/images/I/41hoUcbkSiL.jpg | https://m.media-amazon.com/images/I/41zSBSqCGsL.jpg | https://m.media-amazon.com/images/I/41zoAO6qzpL.jpg",
+      "productUrl": "https://www.amazon.in/GROZ-Bucket-Grease-Pump-VGP/dp/B07VLGCYNP/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYDSWJZG5EEQMJR",
+      "slug": "groz-ratcheting-pipe-cutter-with-one-handed-operation-",
+      "name": "GROZ Ratcheting Pipe Cutter with One-Handed Operation |...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 2850,
+      "image": "https://m.media-amazon.com/images/I/71ROO4eIjvL.jpg | https://m.media-amazon.com/images/I/31WIS3w4oTL.jpg | https://m.media-amazon.com/images/I/41aRF6sdCPL.jpg | https://m.media-amazon.com/images/I/41B-aeEysyL.jpg | https://m.media-amazon.com/images/I/41efMhkzJBL.jpg | https://m.media-amazon.com/images/I/419NC5Xk5sL.jpg | https://m.media-amazon.com/images/I/41u-1I38AgL.jpg | https://m.media-amazon.com/images/I/41JNtGvAqsL.jpg",
+      "productUrl": "https://www.amazon.in/Ratcheting-One-Handed-Triangular-PCT-RT/dp/B09Y97HH11/ref=sr_1_194"
+    },
+    {
+      "sku": "JKE-IIYDOSRSGVEFOUSX",
+      "slug": "groz-digital-depth-gauge-with-free-wheeling-thumb-roller-",
+      "name": "Groz Digital Depth Gauge with Free-wheeling Thumb Roller &...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 11424.49,
+      "image": "https://m.media-amazon.com/images/I/61Qur8XdMmL.jpg | https://m.media-amazon.com/images/I/219Th1IvmaL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-DDG-12-Digital-Depth/dp/B07J25HWRW/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYDQS2IHFMDETKE",
+      "slug": "groz-digital-pressure-gauge-with-ip65-waterproof-rating-",
+      "name": "GROZ Digital Pressure Gauge with IP65 Waterproof Rating |...",
+      "brand": "Groz",
+      "category": "Measuring & Layout",
+      "price": 2857.8,
+      "image": "https://m.media-amazon.com/images/I/612maoReSVL.jpg | https://m.media-amazon.com/images/I/31KZXEOLNcL.jpg",
+      "productUrl": "https://www.amazon.in/Pressure-Waterproof-Regulators-Displays-Aluminium/dp/B08KH9X2MD/ref=sr_1_204"
+    },
+    {
+      "sku": "JKE-IIYDQOCCIMYTCOKR",
+      "slug": "groz-analog-tyre-inflator-gauge-14-nptupto-60-psi-3",
+      "name": "Groz Analog Tyre Inflator Gauge 1/4\" (NPT),Upto 60 psi | 3...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 1262,
+      "image": "https://m.media-amazon.com/images/I/516icqP3PNL.jpg | https://m.media-amazon.com/images/I/31M07X1N1TL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-Inflator-Workshops-TIG-2-5/dp/B088BC119Q/ref=sr_1_81"
+    },
+    {
+      "sku": "JKE-IIYEMM2KIQZVIOCE",
+      "slug": "groz-set-of-2-magnetic-tool-holder-12-300mm-easy",
+      "name": "Groz Set of 2 Magnetic Tool Holder 12\" (300mm), | Easy...",
+      "brand": "Groz",
+      "category": "Storage & Organization",
+      "price": 853,
+      "image": "https://m.media-amazon.com/images/I/51wd8tkdB1L.jpg | https://m.media-amazon.com/images/I/31RtnhwP0zL.jpg | https://m.media-amazon.com/images/I/51ZtUUgEBvL.jpg | https://m.media-amazon.com/images/I/41lgpftihTL.jpg | https://m.media-amazon.com/images/I/41W8dDb-1mL.jpg | https://m.media-amazon.com/images/I/51Z+zDbFg0L.jpg | https://m.media-amazon.com/images/I/41NgtW+6ihL.jpg",
+      "productUrl": "https://www.amazon.in/Groz-12-Installation-workshops-MTH/dp/B0F3JD3T8D/ref=sr_1_80"
+    },
+    {
+      "sku": "JKE-IIYDOQ2RJNIFCWKZ",
+      "slug": "groz-reversible-ratcheting-spanner-with-scratch-proof",
+      "name": "GROZ Reversible Ratcheting Spanner with Scratch Proof...",
+      "brand": "Groz",
+      "category": "Hand Tools",
+      "price": 1217,
+      "image": "https://m.media-amazon.com/images/I/41OYOHBHjuL.jpg | https://m.media-amazon.com/images/I/11NiedHfNkL.jpg | https://m.media-amazon.com/images/I/21hENaIAAmL.jpg | https://m.media-amazon.com/images/I/21AYND5wReL.jpg | https://m.media-amazon.com/images/I/21o-x6306+L.jpg | https://m.media-amazon.com/images/I/31OW+eyhp+L.jpg",
+      "productUrl": "https://www.amazon.in/Reversible-Ratcheting-Ultra-Premium-applications-Construction/dp/B07CQKPQYY/ref=sr_1_163"
+    },
+    {
+      "sku": "JKE-IIYDOVRZIRBVINKE",
+      "slug": "groz-12-ton-hydraulic-bottle-jack-with-load-limiting",
+      "name": "GROZ 12 Ton Hydraulic Bottle Jack with Load Limiting...",
+      "brand": "Groz",
+      "category": "Power Tools",
+      "price": 4318.21,
+      "image": "https://m.media-amazon.com/images/I/71n7Us1ljdL.jpg | https://m.media-amazon.com/images/I/41zziFAYqkL.jpg | https://m.media-amazon.com/images/I/41KjfjUWKAL.jpg | https://m.media-amazon.com/images/I/41gSqAc1ykS.jpg | https://m.media-amazon.com/images/I/414ERarTxDS.jpg | https://m.media-amazon.com/images/I/41lksGpWbqS.jpg",
+      "productUrl": "https://www.amazon.in/12-Hydraulic-Limiting-Portable-Leak-proof/dp/B07V9DCT5D/ref=sr_1_31"
     }
   ]
 }

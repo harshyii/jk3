@@ -1,0 +1,26 @@
+{
+  "name": "Indrico",
+  "slug": "indrico",
+  "products": [
+    {
+      "sku": "JKE-IIYEGWSKJJHFIUKO",
+      "slug": "indrico-twin-flat-2-core-copper-wires-and-cables-05-mm-for",
+      "name": "INDRICO Twin Flat 2 core Copper Wires and Cables 0.5 mm for...",
+      "brand": "Indrico",
+      "category": "Power Tools",
+      "price": 489,
+      "image": "https://m.media-amazon.com/images/I/51cQZwrR7AL.jpg | https://m.media-amazon.com/images/I/418kym5RgAL.jpg | https://m.media-amazon.com/images/I/41RYhiHGqqL.jpg | https://m.media-amazon.com/images/I/41SMnrp4HYL.jpg | https://m.media-amazon.com/images/I/41dOWwUqF2L.jpg | https://m.media-amazon.com/images/I/418X137vodL.jpg | https://m.media-amazon.com/images/I/41UtEiNuLiL.jpg",
+      "productUrl": "https://www.amazon.in/INDRICO-Domestic-Industrial-Electric-Connections/dp/B0CZJJNTQN/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-IIYEEOCWHFLFCQSW",
+      "slug": "indrico-extension-board-heavy-duty-1-socket-15a-16a-20a",
+      "name": "INDRICO Extension Board Heavy Duty 1 Socket 15A 16A 20A...",
+      "brand": "Indrico",
+      "category": "Power Tools",
+      "price": 939.55,
+      "image": "https://m.media-amazon.com/images/I/51XZbGYMKfL.jpg | https://m.media-amazon.com/images/I/31pivsx7o0L.jpg | https://m.media-amazon.com/images/I/31U0wxd4WFL.jpg | https://m.media-amazon.com/images/I/31GVeCwE6xL.jpg | https://m.media-amazon.com/images/I/31DZGo8rxeL.jpg | https://m.media-amazon.com/images/I/41fODW+ZD1L.jpg | https://m.media-amazon.com/images/I/415feF5xmsL.jpg",
+      "productUrl": "https://www.amazon.in/INDRICO-Extension-Heavy-Duty-Socket/dp/B0B8V9VQBV/ref=sr_1_206"
+    }
+  ]
+}

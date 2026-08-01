@@ -1,0 +1,16 @@
+{
+  "name": "Amaze",
+  "slug": "amaze",
+  "products": [
+    {
+      "sku": "JKE-IIYEEMRZGJBDONZV",
+      "slug": "amaze-aq-900-inverter-black-14-amp-charging-current",
+      "name": "Amaze AQ 900+ Inverter (Black) | 14 Amp Charging Current",
+      "brand": "Amaze",
+      "category": "Measuring & Layout",
+      "price": 5000,
+      "image": "https://m.media-amazon.com/images/I/41rMBWnqbpL.jpg | https://m.media-amazon.com/images/I/31rAsvDTcPL.jpg | https://m.media-amazon.com/images/I/31DG6K31i4L.jpg | https://m.media-amazon.com/images/I/31351jqVG0L.jpg",
+      "productUrl": "https://www.amazon.in/Amaze-AQ-900-Inverter-Black/dp/B0B292B775/ref=sr_1_258"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEMMS2LA3FSNBR",
-  "title": "Leosportz Hand Grip Strength Trainer (100 kgs) - Forearm Strength Trainer Adjustable Gripper | New Improved Design for Heavy Strength Training (Orange, 100 kg)",
+  "title": "Leosportz Hand Grip Strength Trainer (100 kgs) - Forearm...",
   "brand": "Leosportz",
-  "current_price": "₹316.00",
-  "mrp": "₹599",
+  "current_price": 316,
+  "mrp": 599,
   "product_url": "https://www.amazon.in/Leosportz-Hand-Grip-Strength-Trainer/dp/B0F2ZX6Y41/ref=sr_1_237",
   "rating": "3.93.9 out of 5 stars(431)3.9 out of 5 stars",
   "description": "Leosportz Hand Grip Strength Trainer (100 kgs) - Forearm Strength Trainer Adjustable Gripper | New Improved Design for Heavy Strength Training (Orange, 100 kg) - Distributed/Packaged by Leosportz. Product Details: nan",
@@ -27,26 +27,26 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51wZIMvIlwL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/51FQ+2TFjwL.jpg",
   "specifications": {
-    "Material Type": "Metal",
     "Brand Name": "Leosportz",
-    "Unit Count": "1.0 Count",
     "Manufacturer": "Leosportz",
-    "Item Weight": "0.3 Kilograms",
     "Item Type Name": "Hand Grip 100 Kg",
     "Packer Contact Information": "serveuttam",
     "Best Sellers Rank": "#4,437 in Sports, Fitness & Outdoors (See Top 100 in Sports, Fitness & Outdoors)#99 inStrength Training Grip Strengtheners",
     "ASIN": "B0F2ZX6Y41",
     "Customer Reviews": "3.93.9 out of 5 stars(431)3.9 out of 5 stars",
     "Colour": "Orange",
-    "Item Dimensions L x W": "20L x 12W Centimeters",
+    "Unit Count": "1.0 Count",
+    "Item Weight": "0.3 Kilograms",
     "Style Name": "Finger Grip",
+    "Material Type": "Metal",
     "Part Number": "LE-FHS-300325",
+    "Item Dimensions L x W": "20L x 12W Centimeters",
     "Item Shape": "Adjustable shape",
     "Tension Supported": "100 kgs"
   },
   "SKU": "JKE-IIYEMMS2LA3FSNBR",
-  "Name": "Leosportz Hand Grip Strength Trainer (100 kgs) - Forearm Strength Trainer Adjustable Gripper | New Improved Design for Heavy Strength Training (Orange, 100 kg)",
-  "Slug": "leosportz-hand-grip-strength-trainer-100-kgs-forearm-strength-trainer-adjustable-gripper-new-improved-design-for-heavy-strength-training-orange-100-kg",
+  "Name": "Leosportz Hand Grip Strength Trainer (100 kgs) - Forearm...",
+  "Slug": "leosportz-hand-grip-strength-trainer-100-kgs-forearm",
   "Category": "General Hardware",
   "Subcategory1": "Other",
   "Images": [
@@ -61,8 +61,8 @@
     "https://m.media-amazon.com/images/I/41FvbIwKu2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61R0FleWYsL.jpg | https://m.media-amazon.com/images/I/41pxofBzGiL.jpg | https://m.media-amazon.com/images/I/51BJP++EmOL.jpg | https://m.media-amazon.com/images/I/41932SmJMAL.jpg | https://m.media-amazon.com/images/I/41qMs-PqEAL.jpg | https://m.media-amazon.com/images/I/51wZIMvIlwL.jpg | https://m.media-amazon.com/images/I/51FQ+2TFjwL.jpg | https://m.media-amazon.com/images/I/41FvbIwKu2L.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.0 Count",
-  "Discount": 0,
-  "SalePrice": "₹316.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 47.25,
+  "SalePrice": 316
 }

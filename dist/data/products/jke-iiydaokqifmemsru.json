@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDAOKQIFMEMSRU",
-  "title": "Imperial Eastman 312FC Hi-Duty tube cutter for 1/4 to 1-5/8 OD tubing Length 5-1/2 Wt 70 oz",
+  "title": "Imperial Eastman 312FC Hi-Duty tube cutter for 1/4 to 1-5/8...",
   "brand": "JK Enterprises",
-  "current_price": "₹26,390.00",
-  "mrp": "₹39,779",
+  "current_price": 26390,
+  "mrp": 39779,
   "product_url": "https://www.amazon.in/Imperial-Eastman-Hi-Duty-cutter-tubing/dp/B009PAXFJ4/ref=sr_1_170",
   "description": "Imperial Eastman 312FC Hi-Duty tube cutter for 1/4 to 1-5/8 OD tubing Length 5-1/2 Wt 70 oz - Distributed/Packaged by JK Enterprises. Product Details: nan",
   "image_urls": [
@@ -15,17 +15,17 @@
   "image_url_2": "https://m.media-amazon.com/images/I/61v6fH1jttL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/417kZ6+f30L.jpg",
   "specifications": {
-    "Item Weight": "‎454 g",
+    "Country of Origin": "‎USA",
     "Item Type Name": "General",
+    "Item Weight": "‎454 g",
     "Product Dimensions": "‎6.35 x 3.81 x 15.24 cm; 453.59 g",
     "Item Height": "‎6 Inches",
     "Item Width": "‎1.5 Inches",
-    "Country of Origin": "‎USA",
     "Item part number": "‎312-FC"
   },
   "SKU": "JKE-IIYDAOKQIFMEMSRU",
-  "Name": "Imperial Eastman 312FC Hi-Duty tube cutter for 1/4 to 1-5/8 OD tubing Length 5-1/2 Wt 70 oz",
-  "Slug": "imperial-eastman-312fc-hi-duty-tube-cutter-for-14-to-1-58-od-tubing-length-5-12-wt-70-oz",
+  "Name": "Imperial Eastman 312FC Hi-Duty tube cutter for 1/4 to 1-5/8...",
+  "Slug": "imperial-eastman-312fc-hi-duty-tube-cutter-for-14-to-1-58",
   "Category": "Hand Tools",
   "Subcategory1": "General Hand Tools",
   "Images": [
@@ -34,9 +34,9 @@
     "https://m.media-amazon.com/images/I/417kZ6+f30L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61v6fH1jttL.jpg | https://m.media-amazon.com/images/I/417kZ6+f30L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹26,390.00",
+  "Discount": 33.66,
+  "SalePrice": 26390,
   "Country": "‎USA"
 }

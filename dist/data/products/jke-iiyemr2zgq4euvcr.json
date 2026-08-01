@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEMR2ZGQ4EUVCR",
-  "title": "CALANDIS™ Portable Solar Panel Kit with Solar Charge Controller for Car RV Fishing | Solar Panels | Alternative & Solar Energy | Electrical & Solar | Home Improvement",
+  "title": "CALANDIS™ Portable Solar Panel Kit with Solar Charge...",
   "brand": "Calandis",
-  "current_price": "₹5,117.00",
-  "mrp": "₹6,660",
+  "current_price": 5117,
+  "mrp": 6660,
   "product_url": "https://www.amazon.in/CALANDISTM-Controller-Alternative-Electrical-Improvement/dp/B0FGY48JTQ/ref=sr_1_88",
   "description": "CALANDIS™ Portable Solar Panel Kit with Solar Charge Controller for Car RV Fishing | Solar Panels | Alternative & Solar Energy | Electrical & Solar | Home Improvement - Distributed/Packaged by Calandis. Product Details: Description:MaterialThis solar panel is constructed with high performance polycrystalline silicon that offer higher efficiency, provides a long service life.Widely UsedWide compatibility makes solar panel able to charge almost any electronic device, such as mobile phones, tablet, laptops, and cameras.Easy to UsePlace the solar panel in the position facing the sun. Then connected to the products that need electricity (such as fans, lamps, etc.)FeatureLightweight solar panel, easy to carry. Resistance is strong, can resist different environments. Can be easily taken to outdoor activity to charge cell phone or camping light.ApplicationPortable solar panel fit for traveling, camping, hiking, picnic, riding, automobiles, RVs, ships, outdoor breeding, planting, tourism, and any outdoor activities.Specification:Material: Polycrystalline Silicon,Power: 20WSize Chart:42cmx28cmx3cm/16.54inchx11.02inchx1.18inchPackage Includes:1 Solar Panel,120A Controller Adapter,1 Alligator Clip Cable,1 Piece DC + Car Charging Cable,4 Suction Cups,2 Hanging BucklesNote:Please allow slightly errors due to manual measurement and different monitors.",
   "image_urls": [
@@ -26,22 +26,22 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51fQcuUs3fL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/51dgbLI4NRL.jpg",
   "specifications": {
-    "Material Type": "Polycrystalline Silicon",
     "Brand Name": "CALANDIS",
     "Model Number": "PMDL60063294",
-    "Unit Count": "1.00 Count",
     "Manufacturer": "PMDL Décor, Pmdl Decor, puspmaladelhi3@gmail.com, 9355995870",
-    "Country of Publication": "Hong Kong",
+    "Importer Contact Information": "PMDL Decor, Plot No 225, Udyog Vihar Phase 4, Sector 18, Gurugram Haryana 122015",
     "Item Type Name": "Electrical & Solar",
-    "Manufacturer Part Number": "PMDL60063294",
+    "Manufacturer Contact Information": "Pmdl Decor, puspmaladelhi3@gmail.com, 9355995870",
     "Packer Contact Information": "PMDL Decor, puspmaladelhi3@gmail.com, 9355995870",
     "ASIN": "B0FGY48JTQ",
-    "Manufacturer Contact Information": "Pmdl Decor, puspmaladelhi3@gmail.com, 9355995870",
-    "Importer Contact Information": "PMDL Decor, Plot No 225, Udyog Vihar Phase 4, Sector 18, Gurugram Haryana 122015"
+    "Unit Count": "1.00 Count",
+    "Manufacturer Part Number": "PMDL60063294",
+    "Material Type": "Polycrystalline Silicon",
+    "Country of Publication": "Hong Kong"
   },
   "SKU": "JKE-IIYEMR2ZGQ4EUVCR",
-  "Name": "CALANDIS™ Portable Solar Panel Kit with Solar Charge Controller for Car RV Fishing | Solar Panels | Alternative & Solar Energy | Electrical & Solar | Home Improvement",
-  "Slug": "calandis-portable-solar-panel-kit-with-solar-charge-controller-for-car-rv-fishing-solar-panels-alternative-solar-energy-electrical-solar-home-improvement",
+  "Name": "CALANDIS™ Portable Solar Panel Kit with Solar Charge...",
+  "Slug": "calandis-portable-solar-panel-kit-with-solar-charge",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51HyxpNanzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61U-L+UpiUL.jpg | https://m.media-amazon.com/images/I/51OsBqBWqKL.jpg | https://m.media-amazon.com/images/I/41N-WjQf-0L.jpg | https://m.media-amazon.com/images/I/51jsxbJaAaL.jpg | https://m.media-amazon.com/images/I/51OViMdVDkL.jpg | https://m.media-amazon.com/images/I/51fQcuUs3fL.jpg | https://m.media-amazon.com/images/I/51dgbLI4NRL.jpg | https://m.media-amazon.com/images/I/51HyxpNanzL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.00 Count",
-  "Discount": 0,
-  "SalePrice": "₹5,117.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 23.17,
+  "SalePrice": 5117,
   "Model": "PMDL60063294"
 }

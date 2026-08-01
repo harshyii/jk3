@@ -3,24 +3,54 @@
   "slug": "black-duck",
   "products": [
     {
-      "sku": "JKE-IIYEGVZWIZEDCQZR",
-      "slug": "carbon-brush-suit-for-eastman-5-inch-new",
-      "name": "Carbon Brush Suit for Eastman 5\" Inch New",
-      "brand": "Black Duck",
-      "category": "General Hardware",
-      "price": "₹120.00",
-      "image": "https://m.media-amazon.com/images/I/51EqDxYvOML.jpg",
-      "productUrl": "https://www.amazon.in/Carbon-Brush-Eastman-Inch-New/dp/B0CW6FH1C1/ref=sr_1_235"
-    },
-    {
       "sku": "JKE-IIYEEOBUKRBUIOKO",
       "slug": "carbon-brush-suitable-for-ralli-wolf-sd4c",
       "name": "Carbon Brush Suitable For Ralli Wolf SD4C",
       "brand": "Black Duck",
       "category": "Power Tools",
-      "price": "₹120.00",
+      "price": 120,
       "image": "https://m.media-amazon.com/images/I/61zEuPRVi7L.jpg | https://m.media-amazon.com/images/I/31tBZAxdxHL.jpg | https://m.media-amazon.com/images/I/21FzPrF8L1L.jpg | https://m.media-amazon.com/images/I/61gjvwpmknL.jpg",
       "productUrl": "https://www.amazon.in/Blakck-Duck-Carbon-RALLi-WOLF/dp/B0B84TCD9N/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-IIYEGVZWINLDGN2R",
+      "slug": "carbon-brush-suit-for-dongcheng-8-100",
+      "name": "Carbon Brush Suit For Dongcheng 8-100",
+      "brand": "Black Duck",
+      "category": "Power Tools",
+      "price": 180,
+      "image": "https://m.media-amazon.com/images/I/61NE882flHL.jpg | https://m.media-amazon.com/images/I/31AiIDyH96L.jpg | https://m.media-amazon.com/images/I/31F-eE-R42L.jpg | https://m.media-amazon.com/images/I/31KhqeWpwVL.jpg | https://m.media-amazon.com/images/I/31Z4foy9aGL.jpg",
+      "productUrl": "https://www.amazon.in/Carbon-Brush-Suit-Dongcheng-8-100/dp/B0CW6CV37Q/ref=sr_1_193"
+    },
+    {
+      "sku": "JKE-IIYEEOBUJYZFGUCQ",
+      "slug": "black-duck-carbon-brush-suitable-for-dong-cheng-trimmer",
+      "name": "Black Duck Carbon Brush suitable for DONG CHENG- Trimmer",
+      "brand": "Black Duck",
+      "category": "General Hardware",
+      "price": 130,
+      "image": "https://m.media-amazon.com/images/I/71Kqe7mEeTL.jpg | https://m.media-amazon.com/images/I/31gXgyAATxL.jpg | https://m.media-amazon.com/images/I/31uWmraElSL.jpg",
+      "productUrl": "https://www.amazon.in/Black-Duck-Carbon-suitable-Trimmer/dp/B0B84N2SPP/ref=sr_1_220"
+    },
+    {
+      "sku": "JKE-IIYEENCEKQZUURZU",
+      "slug": "carbon-brush-suitable-for-dongcheng",
+      "name": "Carbon Brush Suitable for DongCheng",
+      "brand": "Black Duck",
+      "category": "Hand Tools",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/71g77JPDryL.jpg | https://m.media-amazon.com/images/I/41K-nVuTGeL.jpg | https://m.media-amazon.com/images/I/51-EfJucIRL.jpg | https://m.media-amazon.com/images/I/41dsqqkJTvL.jpg",
+      "productUrl": "https://www.amazon.in/Carbon-Brush-Suitable-for-DongCheng/dp/B0B4DT3JG4/ref=sr_1_200"
+    },
+    {
+      "sku": "JKE-IIYEEOBUKRFDQTCC",
+      "slug": "carbon-brush-suit-for-makita-cb-415",
+      "name": "Carbon Brush Suit For Makita CB-415",
+      "brand": "Black Duck",
+      "category": "Power Tools",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/61jkwJRAUsL.jpg | https://m.media-amazon.com/images/I/31EakSVoOdL.jpg | https://m.media-amazon.com/images/I/31Li+-gulBL.jpg | https://m.media-amazon.com/images/I/31fpTnISDnL.jpg | https://m.media-amazon.com/images/I/41i4CuI06sL.jpg",
+      "productUrl": "https://www.amazon.in/Black-Duck-Carbon-Brush-MAKITA/dp/B0B84TJ8LB/ref=sr_1_218"
     }
   ]
 }

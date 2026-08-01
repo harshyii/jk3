@@ -1,0 +1,16 @@
+{
+  "name": "The House",
+  "slug": "the-house",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNKRKREDKUSS",
+      "slug": "400g-forged-steel-claw-hammer-heavy-duty-professional-tool",
+      "name": "400g Forged Steel Claw Hammer Heavy Duty Professional Tool...",
+      "brand": "The House",
+      "category": "Hand Tools",
+      "price": 204,
+      "image": "https://m.media-amazon.com/images/I/51EDWJPi78L.jpg | https://m.media-amazon.com/images/I/31Fsq-G+N9L.jpg | https://m.media-amazon.com/images/I/41ZwtUOoFqL.jpg | https://m.media-amazon.com/images/I/51-dUsLpLwL.jpg | https://m.media-amazon.com/images/I/514yTrCrUTL.jpg | https://m.media-amazon.com/images/I/41RtedHvK9L.jpg | https://m.media-amazon.com/images/I/41RTMHr6yOL.jpg",
+      "productUrl": "https://www.amazon.in/House-Premium-Hardware-Professional-Construction/dp/B0H5QTH5RR/ref=sr_1_102"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Myshq",
+  "slug": "myshq",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMSELE4EEU2K",
+      "slug": "microfiber-cleaning-cloth-roll-20-towels-25x25-cm-soft",
+      "name": "Microfiber Cleaning Cloth Roll, 20 Towels, 25x25 CM, Soft,...",
+      "brand": "Myshq",
+      "category": "Measuring & Layout",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61Rn1KAygFL.jpg | https://m.media-amazon.com/images/I/51K9AL8Z+UL.jpg | https://m.media-amazon.com/images/I/41lw78S8TXL.jpg | https://m.media-amazon.com/images/I/51dMzWyu3nL.jpg | https://m.media-amazon.com/images/I/511nREKmYGL.jpg | https://m.media-amazon.com/images/I/51VGTc-gvOL.jpg | https://m.media-amazon.com/images/I/51Md3EVGeML.jpg",
+      "productUrl": "https://www.amazon.in/MYSHQ-Microfiber-Cleaning-Absorbent-Reusable/dp/B0H2DY8BSJ/ref=sr_1_34"
+    }
+  ]
+}

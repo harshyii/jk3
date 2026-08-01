@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNC2KQ4UENBS",
-  "title": "Premium 4-Piece Wood Chisel Set for Woodworking & Carpentry | Sharp Bevel Edge Carving Chisels (6mm, 12mm, 19mm, 25mm) | Durable Ergonomic Handles for Carpenters, DIY & Wood Craft (SET OF 4)",
+  "title": "Premium 4-Piece Wood Chisel Set for Woodworking & Carpentry...",
   "brand": "Kalanjari",
-  "current_price": "₹699.00",
-  "mrp": "₹1,400",
+  "current_price": 699,
+  "mrp": 1400,
   "product_url": "https://www.amazon.in/Premium-Woodworking-Carpentry-Ergonomic-Carpenters/dp/B0H4ZT9B42/ref=sr_1_218",
   "description": "Premium 4-Piece Wood Chisel Set for Woodworking & Carpentry | Sharp Bevel Edge Carving Chisels (6mm, 12mm, 19mm, 25mm) | Durable Ergonomic Handles for Carpenters, DIY & Wood Craft (SET OF 4) - Distributed/Packaged by Kalanjari. Product Details: nan",
   "image_urls": [
@@ -27,26 +27,26 @@
   "image_url_8": "https://m.media-amazon.com/images/I/41zPb44s3wL.jpg",
   "specifications": {
     "Brand Name": "Kalanjari",
-    "Unit Count": "1 Pack",
     "Manufacturer": "KALANJARI TOOLS",
-    "Country of Publication": "China",
-    "Included Components": "set",
-    "Item Weight": "500 Grams",
+    "Importer Contact Information": "kalanjaritools@gmail.com",
     "Item Type Name": "4-Piece Wood Chisel Set",
     "Packer Contact Information": "kalanjari Tools",
     "Best Sellers Rank": "#12,248 in Home Improvement (See Top 100 in Home Improvement)#12 inWood Chisels",
     "ASIN": "B0H4ZT9B42",
-    "Set Name": "4-Piece Wood Chisel Set",
-    "Importer Contact Information": "kalanjaritools@gmail.com",
-    "Blade Material": "Alloy Steel",
-    "Handle Material": "Silicon Grip",
-    "Item Dimensions L x W": "19L x 13W Centimeters",
+    "Unit Count": "1 Pack",
+    "Included Components": "set",
+    "Item Weight": "500 Grams",
     "Size": "Standard",
+    "Blade Material": "Alloy Steel",
+    "Set Name": "4-Piece Wood Chisel Set",
+    "Item Dimensions L x W": "19L x 13W Centimeters",
+    "Country of Publication": "China",
+    "Handle Material": "Silicon Grip",
     "Blade Edge": "Bevel"
   },
   "SKU": "JKE-IIYEQNC2KQ4UENBS",
-  "Name": "Premium 4-Piece Wood Chisel Set for Woodworking & Carpentry | Sharp Bevel Edge Carving Chisels (6mm, 12mm, 19mm, 25mm) | Durable Ergonomic Handles for Carpenters, DIY & Wood Craft (SET OF 4)",
-  "Slug": "premium-4-piece-wood-chisel-set-for-woodworking-carpentry-sharp-bevel-edge-carving-chisels-6mm-12mm-19mm-25mm-durable-ergonomic-handles-for-carpenters-diy-wood-craft-set-of-4",
+  "Name": "Premium 4-Piece Wood Chisel Set for Woodworking & Carpentry...",
+  "Slug": "premium-4-piece-wood-chisel-set-for-woodworking-carpentry",
   "Category": "Hand Tools",
   "Subcategory1": "Chisels & Punches",
   "Images": [
@@ -61,8 +61,8 @@
     "https://m.media-amazon.com/images/I/41wtRqBPlHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ow0pN4LvL.jpg | https://m.media-amazon.com/images/I/41EBDI80rkL.jpg | https://m.media-amazon.com/images/I/51uh7of69bL.jpg | https://m.media-amazon.com/images/I/51uI6388NhL.jpg | https://m.media-amazon.com/images/I/51FdoEZJY3L.jpg | https://m.media-amazon.com/images/I/41OXtq2b3iL.jpg | https://m.media-amazon.com/images/I/41zPb44s3wL.jpg | https://m.media-amazon.com/images/I/41wtRqBPlHL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Pack",
-  "Discount": 0,
-  "SalePrice": "₹699.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 50.07,
+  "SalePrice": 699
 }

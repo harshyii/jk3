@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEIVBWK5LDOQSW",
-  "title": "SECRET DESIRE™ 1/4 Inch Mini Hex Torque Wrench Heat Treated and Chrome Plated Length 10.7Cm",
+  "title": "SECRET DESIRE™ 1/4 Inch Mini Hex Torque Wrench Heat Treated...",
   "brand": "Secret Desire",
-  "current_price": "₹1,405.00",
-  "mrp": "₹2,539",
+  "current_price": 1405,
+  "mrp": 2539,
   "product_url": "https://www.amazon.in/SECRET-DESIRETM-Torque-Wrench-Treated/dp/B0DT6WV7BV/ref=sr_1_203",
   "description": "SECRET DESIRE™ 1/4 Inch Mini Hex Torque Wrench Heat Treated and Chrome Plated Length 10.7Cm - Distributed/Packaged by Secret Desire. Product Details: nan",
   "image_urls": [
@@ -17,20 +17,20 @@
   "image_url_3": "https://m.media-amazon.com/images/I/21qsv4cRaWL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/31QwJJk6SfL.jpg",
   "specifications": {
-    "Number of Pieces": "‎1",
     "Manufacturer": "‎ELYSSION DESIGNS PRIVATE LIMITED",
     "Item Type Name": "General",
+    "Finish Type": "‎Painted",
+    "Number of Pieces": "‎1",
+    "Item Part Number": "‎SECRET DESIRE73025923",
     "Color": "‎Multicolour",
     "Item Model Number": "‎SECRET DESIRE73025923",
-    "Item Part Number": "‎SECRET DESIRE73025923",
     "Primary material": "‎metal",
-    "Finish Type": "‎Painted",
     "Capacity": "‎As per Decription",
     "What is in the box?": "‎1 Mini Ratchet Wrench"
   },
   "SKU": "JKE-IIYEIVBWK5LDOQSW",
-  "Name": "SECRET DESIRE™ 1/4 Inch Mini Hex Torque Wrench Heat Treated and Chrome Plated Length 10.7Cm",
-  "Slug": "secret-desire-14-inch-mini-hex-torque-wrench-heat-treated-and-chrome-plated-length-107cm",
+  "Name": "SECRET DESIRE™ 1/4 Inch Mini Hex Torque Wrench Heat Treated...",
+  "Slug": "secret-desire-14-inch-mini-hex-torque-wrench-heat-treated",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -40,8 +40,8 @@
     "https://m.media-amazon.com/images/I/31QwJJk6SfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/419k25KormL.jpg | https://m.media-amazon.com/images/I/21qsv4cRaWL.jpg | https://m.media-amazon.com/images/I/31QwJJk6SfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,405.00"
+  "Discount": 44.66,
+  "SalePrice": 1405
 }

@@ -1,0 +1,36 @@
+{
+  "name": "Oem",
+  "slug": "oem",
+  "products": [
+    {
+      "sku": "JKE-IIYEMNSWII4TENCK",
+      "slug": "oem-professional-20mm-rotary-hammer-drill-500w-heavy-duty",
+      "name": "OEM Professional 20mm Rotary Hammer Drill | 500W Heavy-Duty...",
+      "brand": "Oem",
+      "category": "Hand Tools",
+      "price": 3139,
+      "image": "https://m.media-amazon.com/images/I/61mqlJSVxtL.jpg | https://m.media-amazon.com/images/I/41NFRyQwk5L.jpg | https://m.media-amazon.com/images/I/41VbBn2-lEL.jpg | https://m.media-amazon.com/images/I/51jj1Mvmj7L.jpg | https://m.media-amazon.com/images/I/41q3sqpTR1L.jpg | https://m.media-amazon.com/images/I/513Dr1ELnIL.jpg | https://m.media-amazon.com/images/I/41JLnApnFVL.jpg | https://m.media-amazon.com/images/I/51ezOoFS0-L.jpg",
+      "productUrl": "https://www.amazon.in/OEM-Professional-20mm-Hammer-Drill/dp/B0F6VB924J/ref=sr_1_228"
+    },
+    {
+      "sku": "JKE-IIYEITCHJIZFQVRT",
+      "slug": "oem-professinal-demolition-hammer-7kg-1500w-20j-impact",
+      "name": "OEM Professinal Demolition Hammer 7Kg 1500W, 20J Impact...",
+      "brand": "Oem",
+      "category": "Hand Tools",
+      "price": 10582,
+      "image": "https://m.media-amazon.com/images/I/712uGH80GNL.jpg | https://m.media-amazon.com/images/I/41SlTwEWfCL.jpg | https://m.media-amazon.com/images/I/41YPcbUKxfL.jpg | https://m.media-amazon.com/images/I/41bbmdHSY+L.jpg | https://m.media-amazon.com/images/I/51jWGeLLQHL.jpg | https://m.media-amazon.com/images/I/61FVV8YM7QL.jpg | https://m.media-amazon.com/images/I/51Lt8wPmDNL.jpg | https://m.media-amazon.com/images/I/51lSRAcZGXL.jpg",
+      "productUrl": "https://www.amazon.in/OEM-Professinal-Demolition-6-Month-Warranty/dp/B0DLGJ2XV3/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYEIUKUJBLFAOKR",
+      "slug": "oem-professional-heavy-duty-diamond-core-drilling-machine",
+      "name": "OEM Professional Heavy-Duty Diamond Core Drilling Machine...",
+      "brand": "Oem",
+      "category": "Power Tools",
+      "price": 5609,
+      "image": "https://m.media-amazon.com/images/I/61yEnWCa-5L.jpg | https://m.media-amazon.com/images/I/41oitJWTxRL.jpg | https://m.media-amazon.com/images/I/51V2QmHiB5L.jpg | https://m.media-amazon.com/images/I/51Xkv+3vitL.jpg | https://m.media-amazon.com/images/I/51IkCfb1yML.jpg | https://m.media-amazon.com/images/I/5143dBxtO0L.jpg | https://m.media-amazon.com/images/I/41ul+Sp-iXL.jpg",
+      "productUrl": "https://www.amazon.in/OEM-Professional-Heavy-Duty-Core-Drilling/dp/B0DQTHVP9Q/ref=sr_1_130"
+    }
+  ]
+}

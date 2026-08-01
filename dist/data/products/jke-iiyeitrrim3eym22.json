@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEITRRIM3EYM22",
-  "title": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit Powered by The Sun-Multicolor",
+  "title": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit...",
   "brand": "Urbane Chic",
-  "current_price": "₹1,199.00",
-  "mrp": "₹1,699",
+  "current_price": 1199,
+  "mrp": 1699,
   "product_url": "https://www.amazon.in/Urbane-Educational-Build-Your-Own-Powered-Sun-Multicolor/dp/B0DN1C6L3Z/ref=sr_1_57",
   "description": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit Powered by The Sun-Multicolor - Distributed/Packaged by Urbane Chic. Product Details: The solar powered robot can be transformed into 14 different robot modes which include a multitude of comical and functional movements. The user can easily change from a wagging-tail, running beetle, walking crab, surfer, and speedster or to a 'zombie chaser'.With alternative energy playing such a pivotal role, there is no better time than now to start children on the path to learning basic concepts behind robotics and renewable energy resources. Fortunately, this product is powered by the sun, so there are no batteries required. The robot moves in the direct sunlight and allows children to create and use their infinite imagination.There are two levels in building the robot kit. Level one includes: Turtle-bot, Beetle-bot, Quadru-bot, Boat-bot, Walker-bot, Dog-bot, and Wheel-bot. After they amuse themselves with the entry level, can challenge their manipulative skills with second level: Roly Poly-bot, Auto-bot, Slither-bot, Surf-bot, Zombie-bot, Crab-bot, and Row-bot.",
   "image_urls": [
@@ -22,26 +22,26 @@
   "image_url_6": "https://m.media-amazon.com/images/I/41VQxlgqcmL.jpg",
   "specifications": {
     "Model Number": "14 in solar",
+    "Country of Origin": "India",
     "Manufacturer": "uc saket-17",
-    "Included Components": "14 in 1 solar part",
-    "Item Weight": "400 Grams",
     "Item Type Name": "Educational Toys",
-    "Manufacturer Part Number": "14 in 1 solar",
     "Packer Contact Information": "uc saket-17",
     "Best Sellers Rank": "#176,507 in Toys & Games (See Top 100 in Toys & Games)#259 inSolar Power Kits",
     "ASIN": "B0DN1C6L3Z",
-    "Brand": "URBANE CHIC",
-    "Set Name": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit",
-    "Country of Origin": "India",
+    "Manufacturer Part Number": "14 in 1 solar",
+    "Included Components": "14 in 1 solar part",
     "Item Dimensions": "42 x 28 x 10 Centimeters",
+    "Brand": "URBANE CHIC",
+    "Item Weight": "400 Grams",
     "Size": "large",
     "Material": "plastic",
     "Minimum Recommended age": 96,
-    "Is Assembly Required": "Yes"
+    "Is Assembly Required": "Yes",
+    "Set Name": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit"
   },
   "SKU": "JKE-IIYEITRRIM3EYM22",
-  "Name": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit Powered by The Sun-Multicolor",
-  "Slug": "14-in-1-educational-solar-robot-build-your-own-robot-kit-powered-by-the-sun-multicolor",
+  "Name": "14-in-1 Educational Solar Robot Build-Your-Own Robot Kit...",
+  "Slug": "14-in-1-educational-solar-robot-build-your-own-robot-kit",
   "Category": "Measuring & Layout",
   "Subcategory1": "Spirit Levels",
   "Images": [
@@ -53,10 +53,10 @@
     "https://m.media-amazon.com/images/I/41VQxlgqcmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Puk7xX7GL.jpg | https://m.media-amazon.com/images/I/41l20u6tG9L.jpg | https://m.media-amazon.com/images/I/41pU0U0wodL.jpg | https://m.media-amazon.com/images/I/51lKgcy6faL.jpg | https://m.media-amazon.com/images/I/41VQxlgqcmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹1,199.00",
+  "Discount": 29.43,
+  "SalePrice": 1199,
   "Model": "14 in solar",
   "Country": "India"
 }

@@ -4,11 +4,11 @@
   "products": [
     {
       "sku": "JKE-IIYEGOKKIQ2FASZU",
-      "slug": "xtra-power-tct-saw-blade-wood-cutting-blade-4-inch-pack-of-5-pcs-30-teeth",
-      "name": "Xtra Power TCT Saw Blade | Wood Cutting Blade 4 Inch (Pack of 5 Pcs) (30 Teeth)",
+      "slug": "xtra-power-tct-saw-blade-wood-cutting-blade-4-inch-pack",
+      "name": "Xtra Power TCT Saw Blade | Wood Cutting Blade 4 Inch (Pack...",
       "brand": "Glider",
       "category": "Power Tools",
-      "price": "₹995.00",
+      "price": 995,
       "image": "https://m.media-amazon.com/images/I/71bw2s+Lo+L.jpg | https://m.media-amazon.com/images/I/41Cgc6I4+QL.jpg | https://m.media-amazon.com/images/I/41NvXZ0MbaL.jpg | https://m.media-amazon.com/images/I/510ALZKphSL.jpg",
       "productUrl": "https://www.amazon.in/Xtra-Power-Blade-Cutting-Teeth/dp/B0C9JD4PK4/ref=sr_1_47"
     },
@@ -18,7 +18,7 @@
       "name": "Xtra Power Zero Chipping Tile Cutting Blade (Pack of 5 Pcs)",
       "brand": "Glider",
       "category": "Hand Tools",
-      "price": "₹724.00",
+      "price": 724,
       "image": "https://m.media-amazon.com/images/I/51I1uM1m+dL.jpg | https://m.media-amazon.com/images/I/51I1uM1m+dL.jpg | https://m.media-amazon.com/images/I/51lZYd-UciL.jpg | https://m.media-amazon.com/images/I/41SkR22lapL.jpg",
       "productUrl": "https://www.amazon.in/Xtra-Power-Chipping-Cutting-Blade/dp/B0C96Z81HQ/ref=sr_1_198"
     },
@@ -28,17 +28,17 @@
       "name": "Xtra Power Blue Diamond Saw Blade (Pack of 5 Pcs)",
       "brand": "Glider",
       "category": "Power Tools",
-      "price": "₹839.00",
+      "price": 839,
       "image": "https://m.media-amazon.com/images/I/61WPRjaQBRL.jpg | https://m.media-amazon.com/images/I/41R6E-cXLjL.jpg | https://m.media-amazon.com/images/I/51Om9awmWiL.jpg | https://m.media-amazon.com/images/I/51I1web+O6L.jpg",
       "productUrl": "https://www.amazon.in/Xtra-Power-Blue-Diamond-Blade/dp/B0C96ZJHL4/ref=sr_1_235"
     },
     {
       "sku": "JKE-IIYEGOJWK5IUWMKK",
-      "slug": "xtra-power-nano-blade-tile-cutting-blade-rim-with-laser-slot-pack-of-5-pcs",
-      "name": "Xtra Power Nano Blade Tile Cutting Blade RIM With Laser Slot (Pack of 5 Pcs)",
+      "slug": "xtra-power-nano-blade-tile-cutting-blade-rim-with-laser",
+      "name": "Xtra Power Nano Blade Tile Cutting Blade RIM With Laser...",
       "brand": "Glider",
       "category": "Hand Tools",
-      "price": "₹879.00",
+      "price": 879,
       "image": "https://m.media-amazon.com/images/I/616mQ68Q6wL.jpg | https://m.media-amazon.com/images/I/414plxwN-qL.jpg | https://m.media-amazon.com/images/I/41XnLI1+NAL.jpg | https://m.media-amazon.com/images/I/51A+0XWeJXL.jpg",
       "productUrl": "https://www.amazon.in/Xtra-Power-Blade-Cutting-Laser/dp/B0C96WQK1J/ref=sr_1_228"
     }

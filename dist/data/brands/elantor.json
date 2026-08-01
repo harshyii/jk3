@@ -1,0 +1,36 @@
+{
+  "name": "Elantor",
+  "slug": "elantor",
+  "products": [
+    {
+      "sku": "JKE-IIYDQMSGIRFU4URR",
+      "slug": "chemical-anchor-fastener-bolt-fully-threaded-stud-m20-x",
+      "name": "Chemical Anchor Fastener Bolt - Fully Threaded Stud M20 X...",
+      "brand": "Elantor",
+      "category": "Fasteners & Hardware",
+      "price": 1000,
+      "image": "https://m.media-amazon.com/images/I/518R-7lxpuL.jpg | https://m.media-amazon.com/images/I/31Z6gLQpmnL.jpg | https://m.media-amazon.com/images/I/51JZBHSj0xL.jpg | https://m.media-amazon.com/images/I/41NVbG4vhkL.jpg",
+      "productUrl": "https://www.amazon.in/Elantor-Chemical-Anchor-Fastener-Bolt/dp/B082FDKNR1/ref=sr_1_258"
+    },
+    {
+      "sku": "JKE-IIYDQMSGIRLFQR2T",
+      "slug": "chemical-anchor-fastener-bolt-fully-threaded-stud-m24-x",
+      "name": "Chemical Anchor Fastener Bolt - Fully Threaded Stud M24 X...",
+      "brand": "Elantor",
+      "category": "Fasteners & Hardware",
+      "price": 1500,
+      "image": "https://m.media-amazon.com/images/I/518R-7lxpuL.jpg | https://m.media-amazon.com/images/I/31Z6gLQpmnL.jpg | https://m.media-amazon.com/images/I/41mTDQwvCtL.jpg | https://m.media-amazon.com/images/I/41NVbG4vhkL.jpg",
+      "productUrl": "https://www.amazon.in/Elantor-Chemical-Anchor-Fastener-Bolt/dp/B082FDVXGS/ref=sr_1_230"
+    },
+    {
+      "sku": "JKE-IIYDOTJXGM2EUVSE",
+      "slug": "chemical-anchor-fastener-bolt-fully-threaded-stud-m12-x",
+      "name": "Chemical Anchor Fastener Bolt - Fully Threaded Stud M12 X...",
+      "brand": "Elantor",
+      "category": "Fasteners & Hardware",
+      "price": 1100,
+      "image": "https://m.media-amazon.com/images/I/41hT2dDkb-L.jpg | https://m.media-amazon.com/images/I/31zU8Agl-xL.jpg | https://m.media-amazon.com/images/I/512YTQwJOML.jpg | https://m.media-amazon.com/images/I/41QEPeamyXL.jpg",
+      "productUrl": "https://www.amazon.in/Chemical-Anchor-Fastener-Bolt-Threaded/dp/B07M734JVD/ref=sr_1_240"
+    }
+  ]
+}

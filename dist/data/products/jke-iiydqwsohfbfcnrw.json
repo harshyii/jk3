@@ -2,7 +2,7 @@
   "asin": "JKE-IIYDQWSOHFBFCNRW",
   "title": "Solar Panel-10W-12V",
   "brand": "Generic",
-  "current_price": "₹1,599.00",
+  "current_price": 1599,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Generic-Solar-Panel-10W-12V/dp/B08ZN9BQ66/ref=sr_1_86",
   "description": "Solar Panel-10W-12V - Distributed/Packaged by Generic. Product Details: A solar cell is a key device that converts light energy into electrical energy in photovoltaic energy conversion. Solar cells are generally classified into four generations depending on time and categories of materials that are used for their fabrication.",
@@ -13,11 +13,11 @@
   "image_url_1": "https://m.media-amazon.com/images/I/41v2Km+LqFL.jpg | https://m.media-amazon.com/images/I/41v2Km+LqFL.jpg",
   "image_url_2": "https://m.media-amazon.com/images/I/41v2Km+LqFL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Sharvi Electronics",
     "Item Type Name": "General",
     "Brand": "‎Generic",
     "Number of Memory Sticks": "‎1",
-    "Country of Origin": "‎India",
     "Item part number": "‎ST-2001PS0167"
   },
   "SKU": "JKE-IIYDQWSOHFBFCNRW",
@@ -30,9 +30,9 @@
     "https://m.media-amazon.com/images/I/41v2Km+LqFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41v2Km+LqFL.jpg | https://m.media-amazon.com/images/I/41v2Km+LqFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹1,599.00",
+  "SalePrice": 1599,
   "Country": "‎India"
 }

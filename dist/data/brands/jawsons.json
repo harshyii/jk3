@@ -1,0 +1,66 @@
+{
+  "name": "Jawsons",
+  "slug": "jawsons",
+  "products": [
+    {
+      "sku": "JKE-IIYEMNSKLJJEIVSI",
+      "slug": "dongcheng-dsj03-10-die-grinder-105w-motor-14000-30000",
+      "name": "Dongcheng DSJ03-10 Die Grinder | 105W Motor | 14,000-30,000...",
+      "brand": "Jawsons",
+      "category": "Power Tools",
+      "price": 2940,
+      "image": "https://m.media-amazon.com/images/I/315jTbBhBsL.jpg | https://m.media-amazon.com/images/I/315jTbBhBsL.jpg | https://m.media-amazon.com/images/I/41nM3ywCA5L.jpg | https://m.media-amazon.com/images/I/31SBHNK9iJL.jpg | https://m.media-amazon.com/images/I/21vcivg8cEL.jpg | https://m.media-amazon.com/images/I/41hu3HSlthL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSJ03-10-Grinder-Grinding-Polishing/dp/B0F6JZRDVH/ref=sr_1_91"
+    },
+    {
+      "sku": "JKE-IIYEMNZYLI3E2M2M",
+      "slug": "dongcheng-dcjz2050-dcjz2050i-cordless-drill-driver-20v",
+      "name": "Dongcheng DCJZ2050 & DCJZ2050i Cordless Drill Driver, 20V,...",
+      "brand": "Jawsons",
+      "category": "Power Tools",
+      "price": 10710,
+      "image": "https://m.media-amazon.com/images/I/41NPcyVw9PL.jpg | https://m.media-amazon.com/images/I/41NPcyVw9PL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DCJZ2050-DCJZ2050i-Cordless-Brushless/dp/B0F78Z6M3L/ref=sr_1_115"
+    },
+    {
+      "sku": "JKE-IIYEMNSLGVDTMV2M",
+      "slug": "dongcheng-mat-max-dczc02-26-20v-cordless-brushless-rotary",
+      "name": "Dongcheng Mat Max DCZC02-26 20V Cordless Brushless Rotary...",
+      "brand": "Jawsons",
+      "category": "Hand Tools",
+      "price": 17430,
+      "image": "https://m.media-amazon.com/images/I/41XQ9MLSU9L.jpg | https://m.media-amazon.com/images/I/41XQ9MLSU9L.jpg | https://m.media-amazon.com/images/I/51lwp3l6BcL.jpg | https://m.media-amazon.com/images/I/51a2-c4gB9L.jpg | https://m.media-amazon.com/images/I/518byfzI7yL.jpg | https://m.media-amazon.com/images/I/41t379UPHiL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DCZC02-26-Brushless-Demolition-Blue-Black/dp/B0F6K5G6WL/ref=sr_1_79"
+    },
+    {
+      "sku": "JKE-IIYEMNSLGVNFIS2G",
+      "slug": "dongcheng-dcsm03-100em-cordless-brushless-angle-grinder-",
+      "name": "DONGCHENG DCSM03-100EM Cordless Brushless Angle Grinder |...",
+      "brand": "Jawsons",
+      "category": "Power Tools",
+      "price": 13020,
+      "image": "https://m.media-amazon.com/images/I/41lUQmwphwL.jpg | https://m.media-amazon.com/images/I/41lUQmwphwL.jpg | https://m.media-amazon.com/images/I/41MMeo5ae0L.jpg | https://m.media-amazon.com/images/I/41vFo1YiHxL.jpg | https://m.media-amazon.com/images/I/51WWHjuFeyL.jpg | https://m.media-amazon.com/images/I/5126euGCZuL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-DCSM03-100EM-Brushless-Professional-Heavy-Duty/dp/B0F6K5ZTKF/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYEMNSKLJMEEUCK",
+      "slug": "dongcheng-dsf02-180-drywall-sander-750w-powerful-motor",
+      "name": "Dongcheng DSF02-180 Drywall Sander, 750W Powerful Motor,...",
+      "brand": "Jawsons",
+      "category": "Power Tools",
+      "price": 6900,
+      "image": "https://m.media-amazon.com/images/I/41nscam2GmL.jpg | https://m.media-amazon.com/images/I/31NCx5YYlxL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSF02-180-Powerful-1500-2700-Lightweight/dp/B0F6JZXBPJ/ref=sr_1_92"
+    },
+    {
+      "sku": "JKE-IIYEMNSKK43DON2H",
+      "slug": "dong-cheng-djg02-355-electric-cut-off-machine-200w-motor",
+      "name": "Dong Cheng DJG02-355 Electric Cut-Off Machine | 200W Motor...",
+      "brand": "Jawsons",
+      "category": "Power Tools",
+      "price": 12600,
+      "image": "https://m.media-amazon.com/images/I/517Mx1oRGyL.jpg | https://m.media-amazon.com/images/I/517Mx1oRGyL.jpg | https://m.media-amazon.com/images/I/31H7I6ObJlL.jpg | https://m.media-amazon.com/images/I/41eX583X4-L.jpg",
+      "productUrl": "https://www.amazon.in/DJG02-355-High-Speed-Lightweight-Vibration-Extraction/dp/B0F6JW677G/ref=sr_1_125"
+    }
+  ]
+}

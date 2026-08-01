@@ -4,21 +4,21 @@
   "products": [
     {
       "sku": "JKE-IIYEMOKZGVDDOTJW",
-      "slug": "hi-spec-basic-home-tool-kit-diy-and-repair-tool-set-essential-tools-for-home-office-or-workshop",
-      "name": "Hi-Spec Basic Home Tool Kit - DIY and Repair Tool Set, Essential Tools for Home, Office or Workshop",
+      "slug": "hi-spec-basic-home-tool-kit-diy-and-repair-tool-set",
+      "name": "Hi-Spec Basic Home Tool Kit - DIY and Repair Tool Set,...",
       "brand": "Hi-Spec",
       "category": "General Hardware",
-      "price": "₹999.99",
+      "price": 999.99,
       "image": "https://m.media-amazon.com/images/I/71aiOb61XmL.jpg | https://m.media-amazon.com/images/I/51Ah3DOMHNL.jpg | https://m.media-amazon.com/images/I/51FMLTtK1qL.jpg | https://m.media-amazon.com/images/I/41ybyIzGaEL.jpg | https://m.media-amazon.com/images/I/51G1Bd2GocL.jpg | https://m.media-amazon.com/images/I/51fgvu-VHbL.jpg | https://m.media-amazon.com/images/I/51hDpvzSJfL.jpg | https://m.media-amazon.com/images/I/51lzaLFam2L.jpg",
       "productUrl": "https://www.amazon.in/Hi-Spec-Yellow-Household-small-office/dp/B0F9Y5F7M6/ref=sr_1_131"
     },
     {
       "sku": "JKE-IIYEMNZTKEYUGVC2",
-      "slug": "hi-spec-cordless-electric-screwdriver-power-screw-driver-set-with-pink-compact-tool-kit-for-small-repair-and-maintenance-ideal-housewarming-gift19-piece-green",
-      "name": "Hi-Spec Cordless Electric Screwdriver, Power Screw Driver Set with Pink Compact Tool Kit for Small Repair and Maintenance- Ideal Housewarming Gift,19 Piece (Green)",
+      "slug": "hi-spec-cordless-electric-screwdriver-power-screw-driver",
+      "name": "Hi-Spec Cordless Electric Screwdriver, Power Screw Driver...",
       "brand": "Hi-Spec",
       "category": "Hand Tools",
-      "price": "₹2,499.99",
+      "price": 2499.99,
       "image": "https://m.media-amazon.com/images/I/81KwgJjsLYL.jpg | https://m.media-amazon.com/images/I/51+3YEjpNGL.jpg | https://m.media-amazon.com/images/I/51O6VxxWkfL.jpg | https://m.media-amazon.com/images/I/51eEncjYb9L.jpg | https://m.media-amazon.com/images/I/519UWOKfcPL.jpg | https://m.media-amazon.com/images/I/412N32+LPkL.jpg | https://m.media-amazon.com/images/I/51U0Q63MGqL.jpg",
       "productUrl": "https://www.amazon.in/Hi-Spec-Screwdriver-Cordless-Rechargeable-Electric/dp/B0F73Q1CTZ/ref=sr_1_140"
     }

@@ -1,0 +1,26 @@
+{
+  "name": "Ebl",
+  "slug": "ebl",
+  "products": [
+    {
+      "sku": "JKE-IIYEEVCOKRCFUTCU",
+      "slug": "ebl-200w-portable-solar-panel-for-power-station-waterproof",
+      "name": "EBL 200W Portable Solar Panel for Power Station, Waterproof...",
+      "brand": "Ebl",
+      "category": "Electrical & Wiring",
+      "price": 67381,
+      "image": "https://m.media-amazon.com/images/I/71Vb0phu9BL.jpg | https://m.media-amazon.com/images/I/41salPO2KuL.jpg | https://m.media-amazon.com/images/I/412ij8aUgUL.jpg | https://m.media-amazon.com/images/I/51fWvL1Dr4L.jpg | https://m.media-amazon.com/images/I/41eXKXWUiDL.jpg | https://m.media-amazon.com/images/I/41YZY3zCIaL.jpg | https://m.media-amazon.com/images/I/51P9PCOARfL.jpg | https://m.media-amazon.com/images/I/51xSDn6G6RL.jpg",
+      "productUrl": "https://www.amazon.in/EBL-Portable-Waterproof-Foldable-Connector/dp/B0BTNTDZLT/ref=sr_1_162"
+    },
+    {
+      "sku": "JKE-IIYEEOCZKZBEQWCH",
+      "slug": "ebl-solar-panel-100w-portable-solar-panel-upgraded-for",
+      "name": "EBL Solar Panel 100W Portable Solar Panel (Upgraded) for...",
+      "brand": "Ebl",
+      "category": "Electrical & Wiring",
+      "price": 39081,
+      "image": "https://m.media-amazon.com/images/I/81DkxWLlVrL.jpg | https://m.media-amazon.com/images/I/41C0dipdfdL.jpg | https://m.media-amazon.com/images/I/416kLu43ohL.jpg | https://m.media-amazon.com/images/I/41hMVyuzzHL.jpg | https://m.media-amazon.com/images/I/51o1iRsEUSL.jpg | https://m.media-amazon.com/images/I/517sVRk+atL.jpg | https://m.media-amazon.com/images/I/41FwPpiypxL.jpg | https://m.media-amazon.com/images/I/512bdQOyuFL.jpg",
+      "productUrl": "https://www.amazon.in/EBL-Portable-Adjustable-Kickstand-Waterproof/dp/B0B8YVBHXG/ref=sr_1_212"
+    }
+  ]
+}

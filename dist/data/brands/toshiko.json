@@ -1,0 +1,26 @@
+{
+  "name": "Toshiko",
+  "slug": "toshiko",
+  "products": [
+    {
+      "sku": "JKE-IIYEOV2LGVHEWUCX",
+      "slug": "card-holder-for-car-card-cover-windshield-glass-and-all-4",
+      "name": "Card Holder for Car Card Cover Windshield Glass and All 4...",
+      "brand": "Toshiko",
+      "category": "Measuring & Layout",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61xlKrVChaL.jpg | https://m.media-amazon.com/images/I/31EHFgUHHWL.jpg | https://m.media-amazon.com/images/I/41u2iT+ZlYL.jpg | https://m.media-amazon.com/images/I/51pQLzaV+AL.jpg | https://m.media-amazon.com/images/I/41sxujfro-L.jpg | https://m.media-amazon.com/images/I/411URjgbTLL.jpg",
+      "productUrl": "https://www.amazon.in/Windshield-Wheelers-Replacement-Warranty-Universal/dp/B0GWK5NKPW/ref=sr_1_241"
+    },
+    {
+      "sku": "JKE-IIYEOTSOJBGTIUCE",
+      "slug": "card-holder-for-car-card-cover-windshield-glass-and-all-4",
+      "name": "Card Holder for Car Card Cover Windshield Glass and All 4...",
+      "brand": "Toshiko",
+      "category": "Measuring & Layout",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/5145O929NgL.jpg | https://m.media-amazon.com/images/I/21WoU6Y8OvL.jpg | https://m.media-amazon.com/images/I/61tqzuh+4gL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41DwmZjE6iL.jpg | https://m.media-amazon.com/images/I/315mUxidR3L.jpg | https://m.media-amazon.com/images/I/217UPJt6lZL.jpg | https://m.media-amazon.com/images/I/411URjgbTLL.jpg",
+      "productUrl": "https://www.amazon.in/Holder-Windshield-Wheelers-Double-Button/dp/B0GNNHM4PD/ref=sr_1_233"
+    }
+  ]
+}

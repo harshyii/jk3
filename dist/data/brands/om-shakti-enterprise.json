@@ -1,0 +1,26 @@
+{
+  "name": "Om Shakti Enterprise",
+  "slug": "om-shakti-enterprise",
+  "products": [
+    {
+      "sku": "JKE-IIYEMTKYLI2DIU2E",
+      "slug": "aluminum-wall-light-die-cast-outdoor-sconce-weatherproof",
+      "name": "Aluminum Wall Light - Die-Cast Outdoor Sconce, Weatherproof...",
+      "brand": "Om Shakti Enterprise",
+      "category": "General Hardware",
+      "price": 650,
+      "image": "https://m.media-amazon.com/images/I/61kj3calxrL.jpg | https://m.media-amazon.com/images/I/21gYLDhv7YL.jpg | https://m.media-amazon.com/images/I/319iIrMEoQL.jpg | https://m.media-amazon.com/images/I/31sugKXcEML.jpg | https://m.media-amazon.com/images/I/31-JcmRTk5L.jpg | https://m.media-amazon.com/images/I/213xJxpic+L.jpg | https://m.media-amazon.com/images/I/31XuGU92QHL.jpg | https://m.media-amazon.com/images/I/31XfcHJheUL.jpg",
+      "productUrl": "https://www.amazon.in/OM-SHAKTI-ENTERPRISE-Aluminum-Light/dp/B0FMXZ44SD/ref=sr_1_128"
+    },
+    {
+      "sku": "JKE-IIYEMTKYLE3TGRCN",
+      "slug": "black-white-hanging-light-led-pendant-ceiling-modern",
+      "name": "Black & White Hanging Light LED Pendant Ceiling | Modern...",
+      "brand": "Om Shakti Enterprise",
+      "category": "General Hardware",
+      "price": 4200,
+      "image": "https://m.media-amazon.com/images/I/71MXQP2GwAL.jpg | https://m.media-amazon.com/images/I/41a0TaFJ0IL.jpg | https://m.media-amazon.com/images/I/51WD1+EbuDL.jpg | https://m.media-amazon.com/images/I/418MVHXDNyL.jpg | https://m.media-amazon.com/images/I/310J2ZFzWVL.jpg | https://m.media-amazon.com/images/I/31++MgoqvzL.jpg | https://m.media-amazon.com/images/I/31GQKhnF6jL.jpg | https://m.media-amazon.com/images/I/41QKWKVdM4L.jpg",
+      "productUrl": "https://www.amazon.in/OM-SHAKTI-ENTERPRISE-Black-Hanging/dp/B0FMXY73DM/ref=sr_1_254"
+    }
+  ]
+}

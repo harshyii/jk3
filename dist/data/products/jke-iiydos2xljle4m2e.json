@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDOS2XLJLE4M2E",
-  "title": "Electronic Spices 6v- 70 Mah Mini Solar Panel (110mm×40mm×03mm) in Rectangle Shape",
+  "title": "Electronic Spices 6v- 70 Mah Mini Solar Panel...",
   "brand": "Electronic Spices",
-  "current_price": "₹99.00",
-  "mrp": "₹250",
+  "current_price": 99,
+  "mrp": 250,
   "product_url": "https://www.amazon.in/Electronic-Spices-solar-panel-rectangle/dp/B07KWZVN3D/ref=sr_1_112",
   "rating": "3.53.5 out of 5 stars(5)3.5 out of 5 stars",
   "description": "Electronic Spices 6v- 70 Mah Mini Solar Panel (110mm×40mm×03mm) in Rectangle Shape - Distributed/Packaged by Electronic Spices. Product Details: Solar for DIY / Solar Panel 6v- 70 mah / 110mm*40mm*03mm/ Solar Panel in rectangle Shape / Mini Solar Panel solar output voltage - 6v solar size 110mmx40mmx3mm",
@@ -16,22 +16,22 @@
   "image_url_2": "https://m.media-amazon.com/images/I/31hOsqI4OoL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/31debLPhrhL.jpg",
   "specifications": {
-    "Material Type": "Monocrystalline Silicon, Tempered Glass",
     "Brand Name": "Electronic Spices",
     "Manufacturer": "Electronic Spices, delhi",
-    "Country of Publication": "India",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "solarDIY6v70mah",
+    "Manufacturer Contact Information": "delhi",
     "Best Sellers Rank": "#273,708 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#1,883 inSolar & Wind Power Parts & Accessories",
     "ASIN": "B07KWZVN3D",
     "Customer Reviews": "3.53.5 out of 5 stars(5)3.5 out of 5 stars",
-    "Manufacturer Contact Information": "delhi",
     "Connector Type": "USB",
+    "Manufacturer Part Number": "solarDIY6v70mah",
+    "Material Type": "Monocrystalline Silicon, Tempered Glass",
+    "Country of Publication": "India",
     "Maximum Voltage": "6 Volts"
   },
   "SKU": "JKE-IIYDOS2XLJLE4M2E",
-  "Name": "Electronic Spices 6v- 70 Mah Mini Solar Panel (110mm×40mm×03mm) in Rectangle Shape",
-  "Slug": "electronic-spices-6v-70-mah-mini-solar-panel-110mm40mm03mm-in-rectangle-shape",
+  "Name": "Electronic Spices 6v- 70 Mah Mini Solar Panel...",
+  "Slug": "electronic-spices-6v-70-mah-mini-solar-panel",
   "Category": "General Hardware",
   "Subcategory1": "Accessories",
   "Images": [
@@ -40,8 +40,8 @@
     "https://m.media-amazon.com/images/I/31debLPhrhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31hOsqI4OoL.jpg | https://m.media-amazon.com/images/I/31hOsqI4OoL.jpg | https://m.media-amazon.com/images/I/31debLPhrhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹99.00"
+  "Discount": 60.4,
+  "SalePrice": 99
 }

@@ -3,22 +3,12 @@
   "slug": "zaptec",
   "products": [
     {
-      "sku": "JKE-IIYEGWJSKQ2VASZT",
-      "slug": "zaptec-2-in-1-screw-extractor-for-tap-faucet-valve-damaged-broken-wire-water-pipe-bolt-remover",
-      "name": "Zaptec 2 in 1 Screw Extractor for Tap Faucet Valve Damaged Broken Wire Water Pipe Bolt Remover",
-      "brand": "Zaptec",
-      "category": "Fasteners & Hardware",
-      "price": "₹199.00",
-      "image": "https://m.media-amazon.com/images/I/41G3uwwXwwL.jpg",
-      "productUrl": "https://www.amazon.in/Zaptec-Extractor-Faucet-Damaged-Remover/dp/B0CY2T5PK3/ref=sr_1_250"
-    },
-    {
       "sku": "JKE-IIYDQV2ILBDDSM2O",
       "slug": "zaptec-wheeled-tile-nipper-red",
       "name": "Zaptec Wheeled Tile Nipper (Red)",
       "brand": "Zaptec",
       "category": "Measuring & Layout",
-      "price": "₹649.00",
+      "price": 649,
       "image": "https://m.media-amazon.com/images/I/412B65whOEL.jpg | https://m.media-amazon.com/images/I/412B65whOEL.jpg | https://m.media-amazon.com/images/I/41JU1jfgaJL.jpg | https://m.media-amazon.com/images/I/513-Fo6PmWL.jpg | https://m.media-amazon.com/images/I/51E14GCZbPL.jpg | https://m.media-amazon.com/images/I/51cW4ZKYPeL.jpg | https://m.media-amazon.com/images/I/61MtQDkfXHL.jpg",
       "productUrl": "https://www.amazon.in/Zaptec-Wheeled-Nipper-Ceramic-Comfort/dp/B08WHXF93N/ref=sr_1_211"
     }

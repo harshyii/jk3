@@ -2,7 +2,7 @@
   "asin": "JKE-IIYEGTCQJA2VEWSL",
   "title": "Solar Panel/Cell - 3.5V/100mA - Water Proof (2 pcs)",
   "brand": "Robodo",
-  "current_price": "₹129.00",
+  "current_price": 129,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Solar-Panel-Cell-100mA-Water/dp/B0CLPH5RZK/ref=sr_1_137",
   "description": "Solar Panel/Cell - 3.5V/100mA - Water Proof (2 pcs) - Distributed/Packaged by Robodo. Product Details: Description:-A solar cell is a device that converts light energy into electrical energy in photovoltaic energy conversion.Solar cells are generally classified into four generations depending on time and categories of materials that are used for their fabrication.This solar panel is mini size circular and very effective panel.Feature:Portable- The solar panel is thin and extremely lightweight, making them ideal for use in portable projects.IP65 Water-proof Solar Panel- Environmental and water-proof solar panel with long-lasting material provides a long lifespan.Eco-friendly-A solar panel will lower the costs on your power bill and help curb your carbon emissions.High Conversion Efficiency-Highly efficient solar cells convert up to 20.5% of solar power into free electric energy.Widely Applicable: Suitable for all kinds of low-power electrical DIY projects such as emergency lights, advertising lights, traffic lights, household lights, electric fans, etc.Specifications:-Output Type: SingleVoltage Rating: 3.5 VDCPower Rating: 100mAWorking Temp(C): -25 - 100Shape: RectangularBrand: Industrial Usage BrandProduct Includes:-2x Solar Panel / Cell – 3.5V/100mA - Water Proof",
@@ -20,13 +20,13 @@
   "image_url_5": "https://m.media-amazon.com/images/I/31ddH9vtmaL.jpg",
   "specifications": {
     "Manufacturer": "‎Bombay Electronics",
-    "Included Components": "‎1x Solar Panel/Cell - 3.5V/100mA - Water Proof",
-    "Item Weight": "‎1 kg",
     "Item Type Name": "General",
+    "Colour": "‎black",
+    "Included Components": "‎1x Solar Panel/Cell - 3.5V/100mA - Water Proof",
     "Brand": "‎Robodo",
     "Model number": "‎BE01720",
-    "Colour": "‎black",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎1 kg",
     "Product Dimensions": "‎5 x 5 x 5 cm; 1 kg",
     "Item model number": "‎BE01720",
     "Item Height": "‎50 Millimeters",
@@ -45,8 +45,8 @@
     "https://m.media-amazon.com/images/I/31ddH9vtmaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51FNK42YMVL.jpg | https://m.media-amazon.com/images/I/31GvddsMSVL.jpg | https://m.media-amazon.com/images/I/31t15-Hu+6L.jpg | https://m.media-amazon.com/images/I/31ddH9vtmaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹129.00"
+  "SalePrice": 129
 }

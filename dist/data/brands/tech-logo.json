@@ -1,0 +1,26 @@
+{
+  "name": "Tech Logo",
+  "slug": "tech-logo",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMKSG5HEINRR",
+      "slug": "180w-led-solar-street-light-outdoor10000lm-ip65-waterproof",
+      "name": "180W Led Solar Street Light Outdoor,10000LM IP65 Waterproof...",
+      "brand": "Tech Logo",
+      "category": "Hand Tools",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/71eSeBzHjcL.jpg | https://m.media-amazon.com/images/I/51D8kaYBT8L.jpg | https://m.media-amazon.com/images/I/61RuHcqg4+L.jpg | https://m.media-amazon.com/images/I/41C3BGnKmtL.jpg | https://m.media-amazon.com/images/I/61oyWWb4S2L.jpg | https://m.media-amazon.com/images/I/41OOLDc+p4L.jpg | https://m.media-amazon.com/images/I/41cndlEQp0L.jpg | https://m.media-amazon.com/images/I/41gdSo+7UnL.jpg",
+      "productUrl": "https://www.amazon.in/Outdoor-10000LM-Waterproof-Security-Powered/dp/B0H1R7ND61/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYEIOCUKRDEURSU",
+      "slug": "4-way-wall-outdoor-solar-light-fence-decor-light-outdoor",
+      "name": "4 Way Wall Outdoor Solar Light Fence Decor Light Outdoor...",
+      "brand": "Tech Logo",
+      "category": "Measuring & Layout",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/61n4Ix6bZLL.jpg | https://m.media-amazon.com/images/I/61n4Ix6bZLL.jpg | https://m.media-amazon.com/images/I/61mvQPd24gL.jpg | https://m.media-amazon.com/images/I/612K2w4iSOL.jpg | https://m.media-amazon.com/images/I/61TWFpyaL9L.jpg | https://m.media-amazon.com/images/I/31SRlU18VVL.jpg | https://m.media-amazon.com/images/I/41F0B6FMzgL.jpg",
+      "productUrl": "https://www.amazon.in/Outdoor-Solar-Waterproof-Sensor-Light-Yellow/dp/B0D8TTFJFT/ref=sr_1_209"
+    }
+  ]
+}

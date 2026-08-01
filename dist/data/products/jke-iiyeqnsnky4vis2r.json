@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNSNKY4VIS2R",
-  "title": "4 Pieces Roof Rack Solar Mount Stainless Steel Photovoltaic Panel Mounting Kit Silver Alloy Roof Fastening Bracket",
+  "title": "4 Pieces Roof Rack Solar Mount Stainless Steel Photovoltaic...",
   "brand": "Loom Tree",
-  "current_price": "₹6,250.00",
-  "mrp": "₹10,000",
+  "current_price": 6250,
+  "mrp": 10000,
   "product_url": "https://www.amazon.in/LOOM-TREE-Stainless-Photovoltaic-Fastening/dp/B0H6MV9TKQ/ref=sr_1_260",
   "description": "4 Pieces Roof Rack Solar Mount Stainless Steel Photovoltaic Panel Mounting Kit Silver Alloy Roof Fastening Bracket - Distributed/Packaged by Loom Tree. Product Details: Description:?Set Of 4?: Includes Four Stainless Steel Mounting Brackets For Roof Rack Or Photovoltaic Installation, Giving You A Complete Set Of Fastening Hardware For A Coordinated Setup.?Mounting Structure?: Each Mounting Bracket Features A Rectangular Clamp-Style Channel With A Top Plate Secured By Two Threaded Fasteners And Nuts For Stable Attachment.?Roof Use?: Designed As A Roof Fastening Bracket, The Silver Metal Body And Black Guarding Strip Help Its Securely While Keeping Interface Points Neatly Protected.?Panel Installation Bracket?: Built As A Photovoltaic Panel Bracket, It Provides A Practical Way To Secure Panel Components In Place During Installation On Compatible Structures.?Firm Hold?: The Clamp Bracket Design Helps Hold The Mounted Parts Firmly, Making It Suitable For Installations Where Stable Positioning And Reliable Fastening Are Needed.Specification:Material: 304 Stainless SteelPackage Includes:1 Vehicle Roof RackNote:Please Allow Slightly Errors Due To Manual Measurement And Different Monitors.",
   "image_urls": [
@@ -23,15 +23,15 @@
   "image_url_6": "https://m.media-amazon.com/images/I/41EWH5ZMQZL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/411U-KZfM-L.jpg",
   "specifications": {
+    "Country of Origin": "‎Hong Kong",
     "Manufacturer": "‎Salesio Labs ,Salesio.labs@outlook.com, 9355965055",
     "Item Type Name": "General",
     "ASIN": "‎B0H6MV9TKQ",
-    "Item model number": "‎52097749SLAB",
-    "Country of Origin": "‎Hong Kong"
+    "Item model number": "‎52097749SLAB"
   },
   "SKU": "JKE-IIYEQNSNKY4VIS2R",
-  "Name": "4 Pieces Roof Rack Solar Mount Stainless Steel Photovoltaic Panel Mounting Kit Silver Alloy Roof Fastening Bracket",
-  "Slug": "4-pieces-roof-rack-solar-mount-stainless-steel-photovoltaic-panel-mounting-kit-silver-alloy-roof-fastening-bracket",
+  "Name": "4 Pieces Roof Rack Solar Mount Stainless Steel Photovoltaic...",
+  "Slug": "4-pieces-roof-rack-solar-mount-stainless-steel-photovoltaic",
   "Category": "Hand Tools",
   "Subcategory1": "General Hand Tools",
   "Images": [
@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/411U-KZfM-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/516uYtJOjTL.jpg | https://m.media-amazon.com/images/I/31bkA5TTHyL.jpg | https://m.media-amazon.com/images/I/31eoGVGnL4L.jpg | https://m.media-amazon.com/images/I/41vx8DJ9x2L.jpg | https://m.media-amazon.com/images/I/41EWH5ZMQZL.jpg | https://m.media-amazon.com/images/I/411U-KZfM-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹6,250.00",
+  "Discount": 37.5,
+  "SalePrice": 6250,
   "Country": "‎Hong Kong"
 }

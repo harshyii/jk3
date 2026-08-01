@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOVCUKY2VSM2M",
-  "title": "Artflow - 6.5 Inch to 16-Inch Back Scratcher & Itching Stick Extendable – Durable & Comfortable Khujli Stick for Men, Women & Kids – Body Massage Stick for Instant Relief . Metal Stainless Steel Telescoping Itching Hand Stick Tool (Pack of 1 )",
+  "title": "Artflow - 6.5 Inch to 16-Inch Back Scratcher & Itching...",
   "brand": "Artflow",
-  "current_price": "₹109.00",
-  "mrp": "₹599",
+  "current_price": 109,
+  "mrp": 599,
   "product_url": "https://www.amazon.in/Artflow-Scratcher-Extendable-Comfortable-Telescoping/dp/B0GTTV5Y3L/ref=sr_1_299",
   "description": "Artflow - 6.5 Inch to 16-Inch Back Scratcher & Itching Stick Extendable – Durable & Comfortable Khujli Stick for Men, Women & Kids – Body Massage Stick for Instant Relief . Metal Stainless Steel Telescoping Itching Hand Stick Tool (Pack of 1 ) - Distributed/Packaged by Artflow. Product Details: nan",
   "image_urls": [
@@ -21,26 +21,26 @@
   "image_url_5": "https://m.media-amazon.com/images/I/41T5GOIT7RL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/51PlKj+90QL.jpg",
   "specifications": {
-    "Unit Count": "1.0 Count",
+    "Model Name": "Model1",
     "Manufacturer": "SK Mart",
-    "Item Weight": "75 Grams",
+    "Importer Contact Information": "SK Mart Hisar, 125001",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "Itching Stick",
     "Packer Contact Information": "SK Mart Hisar, 125001",
     "Best Sellers Rank": "#13,938 in Health & Personal Care (See Top 100 in Health & Personal Care)#181 inManual Massage Tools",
     "ASIN": "B0GTTV5Y3L",
+    "Colour": "Multicolour",
+    "Unit Count": "1.0 Count",
+    "Manufacturer Part Number": "Itching Stick",
+    "Item Dimensions": "19 x 1 x 1 Centimeters",
     "Brand": "Artflow",
     "Model number": "Artflow Itching Stick pack of 1",
-    "Colour": "Multicolour",
-    "Importer Contact Information": "SK Mart Hisar, 125001",
-    "Item Dimensions": "19 x 1 x 1 Centimeters",
-    "Model Name": "Model1",
-    "Material": "Stainless Steel",
-    "Item Nype Name": "Itching Stick"
+    "Item Weight": "75 Grams",
+    "Item Nype Name": "Itching Stick",
+    "Material": "Stainless Steel"
   },
   "SKU": "JKE-IIYEOVCUKY2VSM2M",
-  "Name": "Artflow - 6.5 Inch to 16-Inch Back Scratcher & Itching Stick Extendable – Durable & Comfortable Khujli Stick for Men, Women & Kids – Body Massage Stick for Instant Relief . Metal Stainless Steel Telescoping Itching Hand Stick Tool (Pack of 1 )",
-  "Slug": "artflow-65-inch-to-16-inch-back-scratcher-itching-stick-extendable-durable-comfortable-khujli-stick-for-men-women-kids-body-massage-stick-for-instant-relief-metal-stainless-steel-telescoping-itching-hand-stick-tool-pack-of-1-",
+  "Name": "Artflow - 6.5 Inch to 16-Inch Back Scratcher & Itching...",
+  "Slug": "artflow-65-inch-to-16-inch-back-scratcher-itching",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -52,8 +52,8 @@
     "https://m.media-amazon.com/images/I/51PlKj+90QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51p31CJjWiL.jpg | https://m.media-amazon.com/images/I/31uhBl3ZmmL.jpg | https://m.media-amazon.com/images/I/21sWrpUHylL.jpg | https://m.media-amazon.com/images/I/41T5GOIT7RL.jpg | https://m.media-amazon.com/images/I/51PlKj+90QL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.0 Count",
-  "Discount": 0,
-  "SalePrice": "₹109.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 81.8,
+  "SalePrice": 109
 }

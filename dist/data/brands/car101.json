@@ -1,0 +1,176 @@
+{
+  "name": "Car101",
+  "slug": "car101",
+  "products": [
+    {
+      "sku": "JKE-IIYEGUCIK5GEYWCC",
+      "slug": "car101-graphene-coating-spray-300ml-ceramic-",
+      "name": "CAR101 Graphene Coating Spray - 300ml | Ceramic +...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 782,
+      "image": "https://m.media-amazon.com/images/I/71Nt2FFJLlL.jpg | https://m.media-amazon.com/images/I/41mWxGRYJBL.jpg | https://m.media-amazon.com/images/I/61jHt2jM0zL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/417wocS0XrL.jpg | https://m.media-amazon.com/images/I/51FUpkxx+SL.jpg | https://m.media-amazon.com/images/I/515SJortmsL.jpg | https://m.media-amazon.com/images/I/51EDzAC+YfL.jpg | https://m.media-amazon.com/images/I/51Zxj3RryRL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101s-Graphene-Ceramic-Coating-Application/dp/B0CPHWLLXB/ref=sr_1_243"
+    },
+    {
+      "sku": "JKE-IIYEMWCNIJJDOM2T",
+      "slug": "car101-ceramic-coating-shampoo-300ml-2-in-1-effect",
+      "name": "CAR101 Ceramic Coating Shampoo 300ml | 2-in-1 Effect...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 695,
+      "image": "https://m.media-amazon.com/images/I/61i+7TOT0nL.jpg | https://m.media-amazon.com/images/I/41lQJrwduTL.jpg | https://m.media-amazon.com/images/I/51Z68hK0vrL.jpg | https://m.media-amazon.com/images/I/51pAZ2OLisL.jpg | https://m.media-amazon.com/images/I/51xcuzVH8XL.jpg | https://m.media-amazon.com/images/I/51l-f199-7L.jpg | https://m.media-amazon.com/images/I/51MIz-w+SKL.jpg | https://m.media-amazon.com/images/I/41rU7oBkTqL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Graphene-Ceramic-Shampoo-Coating/dp/B0FXMBR73S/ref=sr_1_179"
+    },
+    {
+      "sku": "JKE-IIYEMWCNHFBFIUKM",
+      "slug": "car101-windshield-washer-tablets-25pcs-car-accessories",
+      "name": "CAR101 Windshield Washer Tablets – 25Pcs | Car Accessories...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 247,
+      "image": "https://m.media-amazon.com/images/I/61BdSJ-aPCL.jpg | https://m.media-amazon.com/images/I/41Shj0EL0QL.jpg | https://m.media-amazon.com/images/I/51Bb6LKuWPL.jpg | https://m.media-amazon.com/images/I/519lYhF0aGL.jpg | https://m.media-amazon.com/images/I/517V5AgJ0TL.jpg | https://m.media-amazon.com/images/I/51Va9wbWfIL.jpg | https://m.media-amazon.com/images/I/51--1BTou6L.jpg | https://m.media-amazon.com/images/I/41fI7OiqKXL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Windshield-Washer-Tablets-Concentrated/dp/B0FXM9BTQL/ref=sr_1_228"
+    },
+    {
+      "sku": "JKE-IIYEMMKRIRHDINKC",
+      "slug": "car101-tyre-trim-restorer-250ml-pack-of-1",
+      "name": "CAR101 Tyre & Trim Restorer | 250ml - Pack of 1|...",
+      "brand": "Car101",
+      "category": "Fasteners & Hardware",
+      "price": 613,
+      "image": "https://m.media-amazon.com/images/I/71ZRxqX5HHL.jpg | https://m.media-amazon.com/images/I/41x+uEqi7HL.jpg | https://m.media-amazon.com/images/I/51nI+-YW3wL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41HTQeM5ohL.jpg | https://m.media-amazon.com/images/I/51EDzAC+YfL.jpg | https://m.media-amazon.com/images/I/51DJwxGIdnL.jpg | https://m.media-amazon.com/images/I/410YGjv3wAL.jpg | https://m.media-amazon.com/images/I/51Ova7Nz1DL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Tyre-Trim-Restorer-250ml/dp/B0F1QDN45B/ref=sr_1_216"
+    },
+    {
+      "sku": "JKE-IIYEMSSTGVEEURSH",
+      "slug": "car101-ultimate-zip-zap-combo-car-duster-",
+      "name": "CAR101 Ultimate Zip Zap Combo – Car Duster +...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 875,
+      "image": "https://m.media-amazon.com/images/I/71L0GtTt1fL.jpg | https://m.media-amazon.com/images/I/41MruKBa1XL.jpg | https://m.media-amazon.com/images/I/41XuHKwmZdL.jpg | https://m.media-amazon.com/images/I/51uLOJ6z9IL.jpg | https://m.media-amazon.com/images/I/41JeMbZhCHL.jpg | https://m.media-amazon.com/images/I/51yVJokxt1L.jpg | https://m.media-amazon.com/images/I/41NrJu-fJFL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Ultimate-Zip-Combo-Dust-Trapping/dp/B0FJS5HJFG/ref=sr_1_301"
+    },
+    {
+      "sku": "JKE-IIYEMSSTGQZE2USI",
+      "slug": "car101-zip-zap-recharge-duster-rechargerejuvenator-spray",
+      "name": "CAR101 Zip Zap Recharge – Duster Recharge/Rejuvenator Spray...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 357,
+      "image": "https://m.media-amazon.com/images/I/61Fmdjov82L.jpg | https://m.media-amazon.com/images/I/313n-MrBnNL.jpg | https://m.media-amazon.com/images/I/41rX276CVoL.jpg | https://m.media-amazon.com/images/I/51CLaUFrjoL.jpg | https://m.media-amazon.com/images/I/41XuHKwmZdL.jpg | https://m.media-amazon.com/images/I/51uLOJ6z9IL.jpg | https://m.media-amazon.com/images/I/41JeMbZhCHL.jpg | https://m.media-amazon.com/images/I/41OhqL-9-7L.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Zip-Zap-Recharge-Dust-Trapping/dp/B0FJS42MRH/ref=sr_1_278"
+    },
+    {
+      "sku": "JKE-IIYEMTJTKZBFUU2C",
+      "slug": "car101-graphene-coating-spray-300ml-pack-of-4-ceramic",
+      "name": "CAR101 Graphene Coating Spray - 300ml (Pack of 4) | Ceramic...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 1996,
+      "image": "https://m.media-amazon.com/images/I/81pZE9FtEFL.jpg | https://m.media-amazon.com/images/I/51-exIrFM0L.jpg | https://m.media-amazon.com/images/I/61J9hQx20aL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/417wocS0XrL.jpg | https://m.media-amazon.com/images/I/51FUpkxx+SL.jpg | https://m.media-amazon.com/images/I/515SJortmsL.jpg | https://m.media-amazon.com/images/I/51EDzAC+YfL.jpg | https://m.media-amazon.com/images/I/51Zxj3RryRL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Graphene-Coating-Spray-Hydrophobic/dp/B0FM3VBZSB/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEOSBYJJEEWS2E",
+      "slug": "car101-windshield-washer-fluid-300ml-pack-of-1-car",
+      "name": "CAR101 Windshield Washer Fluid - 300ML (Pack Of 1) | Car...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 379,
+      "image": "https://m.media-amazon.com/images/I/61ZCSpCzrSL.jpg | https://m.media-amazon.com/images/I/31Nw+uK2mML.jpg | https://m.media-amazon.com/images/I/510daXSVdzL.jpg | https://m.media-amazon.com/images/I/51KMdTSVvIL.jpg | https://m.media-amazon.com/images/I/41eqhIywGJL.jpg | https://m.media-amazon.com/images/I/515yIotgfxL.jpg | https://m.media-amazon.com/images/I/4108bb3g0JL.jpg | https://m.media-amazon.com/images/I/51HuweVQIVL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Windshield-Washer-Fluid-Concentrate/dp/B0GH8JHKKD/ref=sr_1_266"
+    },
+    {
+      "sku": "JKE-IIYEMSSTG44DMTBW",
+      "slug": "car101-foam-canon-chenille-microfiber-wash-mitt-1800-gsm",
+      "name": "CAR101 Foam Canon + Chenille Microfiber Wash Mitt 1800 GSM...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 1347,
+      "image": "https://m.media-amazon.com/images/I/71plOLttH3L.jpg | https://m.media-amazon.com/images/I/41WQxDE8ZmL.jpg | https://m.media-amazon.com/images/I/41jejuMmw8L.jpg | https://m.media-amazon.com/images/I/51e1xMDnQHL.jpg | https://m.media-amazon.com/images/I/51Fnz-l+jyL.jpg | https://m.media-amazon.com/images/I/41Ll9E0qTvL.jpg | https://m.media-amazon.com/images/I/51vRA8lExLL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Foam-Canon-Microfiber-Double-Sided/dp/B0FJS786L6/ref=sr_1_293"
+    },
+    {
+      "sku": "JKE-IIYEIQ2XGJIEQNKQ",
+      "slug": "car101-zip-zap-car-duster-ceramic-wax-infused-",
+      "name": "CAR101 Zip Zap Car Duster | Ceramic Wax Infused |...",
+      "brand": "Car101",
+      "category": "Safety & PPE",
+      "price": 781,
+      "image": "https://m.media-amazon.com/images/I/71+-7+YkZHL.jpg | https://m.media-amazon.com/images/I/4130m0-FO+L.jpg | https://m.media-amazon.com/images/I/41PIrJywvIL.jpg | https://m.media-amazon.com/images/I/416p+yQs2XL.jpg | https://m.media-amazon.com/images/I/51PDQG9TraL.jpg | https://m.media-amazon.com/images/I/51wQr6uBvEL.jpg | https://m.media-amazon.com/images/I/418zTOpinZL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Ceramic-Scratch-Free-Cleaning-Effortless/dp/B0DCW2PH5P/ref=sr_1_278"
+    },
+    {
+      "sku": "JKE-IIYEIUBSKRMFISSC",
+      "slug": "car101-graphene-coating-1200-gsm-multipurpose-microfiber",
+      "name": "CAR101 Graphene Coating & 1200 GSM Multipurpose Microfiber...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/71x8gC59+8L.jpg | https://m.media-amazon.com/images/I/51iS2SVz16L.jpg | https://m.media-amazon.com/images/I/61J9hQx20aL.jpg | https://m.media-amazon.com/images/I/41q45D7zQCL.jpg | https://m.media-amazon.com/images/I/610n4fyQLAL.jpg | https://m.media-amazon.com/images/I/51wmMPsFIAL.jpg | https://m.media-amazon.com/images/I/51FBL1BEYoL.jpg | https://m.media-amazon.com/images/I/41tzufGW3CL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Graphene-Coating-Microfiber-Cloth/dp/B0DP2TXTJB/ref=sr_1_154"
+    },
+    {
+      "sku": "JKE-IIYEMTJTK5GUMWSD",
+      "slug": "car101-graphene-coating-spray-300ml-pack-of-2-ceramic",
+      "name": "CAR101 Graphene Coating Spray - 300ml (Pack of 2) | Ceramic...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 1295,
+      "image": "https://m.media-amazon.com/images/I/71T+QuSmoZL.jpg | https://m.media-amazon.com/images/I/41YQ11ZLAKL.jpg | https://m.media-amazon.com/images/I/61J9hQx20aL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/417wocS0XrL.jpg | https://m.media-amazon.com/images/I/51FUpkxx+SL.jpg | https://m.media-amazon.com/images/I/515SJortmsL.jpg | https://m.media-amazon.com/images/I/51EDzAC+YfL.jpg | https://m.media-amazon.com/images/I/51Zxj3RryRL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Graphene-Coating-Spray-Hydrophobic/dp/B0FM3WMFZC/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEMUKXKRBTOMZW",
+      "slug": "car101-550gsm-multipurpose-microfiber-cloth-pack-of-2-",
+      "name": "CAR101 550GSM Multipurpose Microfiber Cloth (Pack of 2) +...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 997,
+      "image": "https://m.media-amazon.com/images/I/61TqtKjI01L.jpg | https://m.media-amazon.com/images/I/41EpfDB1fnL.jpg | https://m.media-amazon.com/images/I/51nRMYlGJUL.jpg | https://m.media-amazon.com/images/I/41EHSK+-HDL.jpg | https://m.media-amazon.com/images/I/31fl8QHNohL.jpg | https://m.media-amazon.com/images/I/51pgHX+hZxL.jpg | https://m.media-amazon.com/images/I/41ROjqSrXLL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Multipurpose-Microfiber-Ceramic-Duster/dp/B0FQWTC736/ref=sr_1_185"
+    },
+    {
+      "sku": "JKE-IIYEIUBSKQ3DENSW",
+      "slug": "car101-car-duster-graphene-coating-combo-ceramic-wax",
+      "name": "CAR101 Car Duster & Graphene Coating - Combo | Ceramic Wax...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 1398,
+      "image": "https://m.media-amazon.com/images/I/71F35JlhdDL.jpg | https://m.media-amazon.com/images/I/411IoGcXp9L.jpg | https://m.media-amazon.com/images/I/41PIrJywvIL.jpg | https://m.media-amazon.com/images/I/41uCNBhZjbL.jpg | https://m.media-amazon.com/images/I/41NrJu-fJFL.jpg | https://m.media-amazon.com/images/I/517vuFz4kPL.jpg | https://m.media-amazon.com/images/I/41s4hhHOknL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Duster-Graphene-Coating-Combo/dp/B0DP2T626V/ref=sr_1_142"
+    },
+    {
+      "sku": "JKE-IIYEGR2TLFGFCS22",
+      "slug": "car101-chenille-microfiber-wash-mitt-1800-gsm-super-soft",
+      "name": "CAR101 Chenille Microfiber Wash Mitt 1800 GSM | Super Soft,...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 273,
+      "image": "https://m.media-amazon.com/images/I/81RlbpYVXVL.jpg | https://m.media-amazon.com/images/I/51llDi5WHxL.jpg | https://m.media-amazon.com/images/I/31636OP86eL.jpg | https://m.media-amazon.com/images/I/51ZvV3BTpOL.jpg | https://m.media-amazon.com/images/I/51sNkmFrXkL.jpg | https://m.media-amazon.com/images/I/51Fnz-l+jyL.jpg | https://m.media-amazon.com/images/I/51kpOBrDTUL.jpg | https://m.media-amazon.com/images/I/51OmjtPJHsL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Chenille-Microfiber-Double-Sided-Cleaning/dp/B0CGSYLQKZ/ref=sr_1_131"
+    },
+    {
+      "sku": "JKE-IIYEGS2ZGU2UQMKL",
+      "slug": "car101-microfiber-car-cleaning-cloth-600-gsm-60x50cm-",
+      "name": "CAR101 Microfiber Car Cleaning Cloth - 600 GSM (60x50cm) |...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 453,
+      "image": "https://m.media-amazon.com/images/I/61UJg5LbSAL.jpg | https://m.media-amazon.com/images/I/41UMaJ8ImrL.jpg | https://m.media-amazon.com/images/I/41uH5T+BkjL.jpg | https://m.media-amazon.com/images/I/51PSNc1srKL.jpg | https://m.media-amazon.com/images/I/51kxu0YhwQL.jpg | https://m.media-amazon.com/images/I/41+6Z+atSAL.jpg | https://m.media-amazon.com/images/I/51ioh-U91rL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Microfiber-Cloth-Multipurpose-Absorbency/dp/B0CKY55H1K/ref=sr_1_156"
+    },
+    {
+      "sku": "JKE-IIYEGS2ZGRJEWWCX",
+      "slug": "car101-microfiber-cloth-with-plush-pile-1200-gsm-60x40cm",
+      "name": "CAR101 Microfiber Cloth with Plush Pile 1200 GSM (60x40cm)...",
+      "brand": "Car101",
+      "category": "Power Tools",
+      "price": 548,
+      "image": "https://m.media-amazon.com/images/I/71eTEb8TxhL.jpg | https://m.media-amazon.com/images/I/51JasdlOFTL.jpg | https://m.media-amazon.com/images/I/41APCqrNzkL.jpg | https://m.media-amazon.com/images/I/610n4fyQLAL.jpg | https://m.media-amazon.com/images/I/51wmMPsFIAL.jpg | https://m.media-amazon.com/images/I/51iAs4Mtv3L.jpg | https://m.media-amazon.com/images/I/519M1OZMhPL.jpg",
+      "productUrl": "https://www.amazon.in/CAR101-Microfiber-Cleaning-Absorption-Household/dp/B0CKY4RKXW/ref=sr_1_104"
+    }
+  ]
+}

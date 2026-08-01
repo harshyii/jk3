@@ -1,0 +1,26 @@
+{
+  "name": "Episkey",
+  "slug": "episkey",
+  "products": [
+    {
+      "sku": "JKE-IIYEEVCIKY4UEUKG",
+      "slug": "episkey-heavy-duty-10-meter-garden-hose-flexible",
+      "name": "Episkey Heavy Duty 10 Meter Garden Hose | Flexible...",
+      "brand": "Episkey",
+      "category": "Hand Tools",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/71i04uwaiPL.jpg | https://m.media-amazon.com/images/I/51LHZK-6oSL.jpg | https://m.media-amazon.com/images/I/51s7Ts0g3rL.jpg | https://m.media-amazon.com/images/I/51HHtRL8kAL.jpg | https://m.media-amazon.com/images/I/51ICM8ugxuL.jpg | https://m.media-amazon.com/images/I/515VZ7eJzyL.jpg | https://m.media-amazon.com/images/I/61PFCUr26QL.jpg",
+      "productUrl": "https://www.amazon.in/EPISKEY-Expandable-Flexible-Braided-Multicoloured/dp/B0BTHV9BQF/ref=sr_1_280"
+    },
+    {
+      "sku": "JKE-IIYEIMJRKY3FOURY",
+      "slug": "episkey-premium-water-spray-nozzle-for-car-wash-gardening",
+      "name": "Episkey Premium Water Spray Nozzle for Car Wash & Gardening...",
+      "brand": "Episkey",
+      "category": "Garden & Outdoor",
+      "price": 249,
+      "image": "https://m.media-amazon.com/images/I/51P2cU4R7qL.jpg | https://m.media-amazon.com/images/I/31a+qy274DL.jpg | https://m.media-amazon.com/images/I/51iLsOoZIbL.jpg | https://m.media-amazon.com/images/I/51EejAvNURL.jpg | https://m.media-amazon.com/images/I/51FZ2P1GRCL.jpg | https://m.media-amazon.com/images/I/51-6yT3Y4QL.jpg | https://m.media-amazon.com/images/I/410CGEmmppL.jpg",
+      "productUrl": "https://www.amazon.in/Episkey-Water-Spray-Pressure-Adjustable/dp/B0D11V6WR8/ref=sr_1_150"
+    }
+  ]
+}

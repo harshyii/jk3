@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGVSUJAYVUNCT",
-  "title": "MOREL Solar Panel MOUNTING MID CLAMP END Water Drain CLAMP 35MM & Spring NUT, Allen Bolt 32MM with Water Drain Clip |4 END Clamps with 4 MID Clamps & 4 Spring NUT+4 Allen Bolt & 2 Water Drain Clip",
+  "title": "MOREL Solar Panel MOUNTING MID CLAMP END Water Drain CLAMP...",
   "brand": "Morel",
-  "current_price": "₹484.00",
-  "mrp": "₹1,299",
+  "current_price": 484,
+  "mrp": 1299,
   "product_url": "https://www.amazon.in/MOREL-Solar-MOUNTING-Spring-Clamps/dp/B0CVTH1Z4S/ref=sr_1_244",
   "rating": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
   "description": "MOREL Solar Panel MOUNTING MID CLAMP END Water Drain CLAMP 35MM & Spring NUT, Allen Bolt 32MM with Water Drain Clip |4 END Clamps with 4 MID Clamps & 4 Spring NUT+4 Allen Bolt & 2 Water Drain Clip - Distributed/Packaged by Morel. Product Details: MOREL SOLAR PANEL MOUNTING MID CLAMP END CLAMP 35MM & SPRING NUT, ALLEN BOLT 32MM WITH WATER DRAIN CLIP |4 END CLAMPS WITH 4 MID CLAMPS & 4 SPRING NUT+4 ALLEN BOLT & 2 WATER DRAIN CLIP|",
@@ -27,24 +27,24 @@
   "image_url_7": "https://m.media-amazon.com/images/I/314cYMM0gyL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41Q8Flsa+3L.jpg",
   "specifications": {
-    "Material Type": "Aluminium",
     "Brand Name": "morel",
     "Model Number": "971 combo",
     "Manufacturer": "9967795338, LOCAL PURCHASE",
-    "Country of Publication": "India",
-    "Included Components": "SOLAR PANET PART",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "1",
+    "Manufacturer Contact Information": "9967795338",
     "Packer Contact Information": "MOREL IMAGETONE SOLUTIONS PVT LTD",
     "Best Sellers Rank": "#121,950 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#970 inSolar & Wind Power Parts & Accessories",
     "ASIN": "B0CVTH1Z4S",
     "Customer Reviews": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
-    "Manufacturer Contact Information": "9967795338",
-    "Connector Type": "MC4"
+    "Connector Type": "MC4",
+    "Manufacturer Part Number": "1",
+    "Included Components": "SOLAR PANET PART",
+    "Material Type": "Aluminium",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEGVSUJAYVUNCT",
-  "Name": "MOREL Solar Panel MOUNTING MID CLAMP END Water Drain CLAMP 35MM & Spring NUT, Allen Bolt 32MM with Water Drain Clip |4 END Clamps with 4 MID Clamps & 4 Spring NUT+4 Allen Bolt & 2 Water Drain Clip",
-  "Slug": "morel-solar-panel-mounting-mid-clamp-end-water-drain-clamp-35mm-spring-nut-allen-bolt-32mm-with-water-drain-clip-4-end-clamps-with-4-mid-clamps-4-spring-nut4-allen-bolt-2-water-drain-clip",
+  "Name": "MOREL Solar Panel MOUNTING MID CLAMP END Water Drain CLAMP...",
+  "Slug": "morel-solar-panel-mounting-mid-clamp-end-water-drain-clamp",
   "Category": "Hand Tools",
   "Subcategory1": "Clamps & Vises",
   "Images": [
@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31LL+FmGWyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mypf11nIL.jpg | https://m.media-amazon.com/images/I/41qPN+hcSrL.jpg | https://m.media-amazon.com/images/I/41JR7L0RSIL.jpg | https://m.media-amazon.com/images/I/31ms+jqcJ0L.jpg | https://m.media-amazon.com/images/I/31wFTu0O7mL.jpg | https://m.media-amazon.com/images/I/314cYMM0gyL.jpg | https://m.media-amazon.com/images/I/41Q8Flsa+3L.jpg | https://m.media-amazon.com/images/I/31LL+FmGWyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹484.00",
+  "Discount": 62.74,
+  "SalePrice": 484,
   "Model": "971 combo"
 }

@@ -3,24 +3,284 @@
   "slug": "portronics",
   "products": [
     {
+      "sku": "JKE-IIYEIMZVHE3FSURU",
+      "slug": "portronics-luxcell-b-20k-advanced-20000-mah-power-bank-with",
+      "name": "Portronics Luxcell B 20K Advanced 20000 mAh Power Bank with...",
+      "brand": "Portronics",
+      "category": "Measuring & Layout",
+      "price": 1309,
+      "image": "https://m.media-amazon.com/images/I/51irEDFZOTL.jpg | https://m.media-amazon.com/images/I/31ZQFlZ1gOL.jpg | https://m.media-amazon.com/images/I/71gX8BXBYzL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41fhbs+Ac2L.jpg | https://m.media-amazon.com/images/I/41u1QuNppHL.jpg | https://m.media-amazon.com/images/I/51sFb3k+WOL.jpg | https://m.media-amazon.com/images/I/515MKtJ62TL.jpg | https://m.media-amazon.com/images/I/51fKY2cA3RL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Luxcell-Advanced-Battery-Display/dp/B0D3596YR4/ref=sr_1_195"
+    },
+    {
+      "sku": "JKE-IIYEOWKTLBGEYUCG",
+      "slug": "portronics-toad-neo-wireless-bluetooth-mouse-with-dual",
+      "name": "Portronics Toad Neo Wireless Bluetooth Mouse with Dual...",
+      "brand": "Portronics",
+      "category": "Measuring & Layout",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/51tVTTJuBYL.jpg | https://m.media-amazon.com/images/I/31pKec7t1HL.jpg | https://m.media-amazon.com/images/I/41Mx1NM43CL.jpg | https://m.media-amazon.com/images/I/51htXAGViIL.jpg | https://m.media-amazon.com/images/I/41wox3MrSQL.jpg | https://m.media-amazon.com/images/I/41iLRBiaJfL.jpg | https://m.media-amazon.com/images/I/41whxmG87uL.jpg | https://m.media-amazon.com/images/I/41TUm4g58uL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Connectivity-Rechargeable-Multi-Device-Sensitivity/dp/B0GYSXLLPF/ref=sr_1_267"
+    },
+    {
+      "sku": "JKE-IIYEMRCQK5DU4NRW",
+      "slug": "portronics-toad-8-transparent-wireless-bluetooth-mouse-with",
+      "name": "Portronics Toad 8 Transparent Wireless Bluetooth Mouse with...",
+      "brand": "Portronics",
+      "category": "Storage & Organization",
+      "price": 680,
+      "image": "https://m.media-amazon.com/images/I/71KlKUFt7OL.jpg | https://m.media-amazon.com/images/I/41kdv91mxXL.jpg | https://m.media-amazon.com/images/I/41uGbvDno9L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41KvAYpe1BL.jpg | https://m.media-amazon.com/images/I/416lGvYfZtL.jpg | https://m.media-amazon.com/images/I/518xKxPcrVL.jpg | https://m.media-amazon.com/images/I/41758aM+-7L.jpg | https://m.media-amazon.com/images/I/41v04FExP8L.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Transparent-Rechargeable-Multi-Device-Sensitivity/dp/B0FDPWGN66/ref=sr_1_223"
+    },
+    {
+      "sku": "JKE-IIYEOUZUKJDVMTKQ",
+      "slug": "portronics-torque-x-cordless-pressure-washer-gun-with",
+      "name": "Portronics Torque X Cordless Pressure Washer Gun with...",
+      "brand": "Portronics",
+      "category": "Power Tools",
+      "price": 5028.06,
+      "image": "https://m.media-amazon.com/images/I/712kiDaFqQL.jpg | https://m.media-amazon.com/images/I/41JpgMjFwtL.jpg | https://m.media-amazon.com/images/I/51uVKQN6z5L.jpg | https://m.media-amazon.com/images/I/51nFDBo0GRL.jpg | https://m.media-amazon.com/images/I/51XJ3Ty3qmL.jpg | https://m.media-amazon.com/images/I/51CcfHxW4gL.jpg | https://m.media-amazon.com/images/I/51mbt9gCZQL.jpg | https://m.media-amazon.com/images/I/41qotmAY-qL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Cordless-Pressure-Batteries-Rechargeable/dp/B0GS4RGVMP/ref=sr_1_295"
+    },
+    {
+      "sku": "JKE-IIYEMN2KGQ4VEUCZ",
+      "slug": "portronics-coolcube-portable-desktop-fan-with-2400mah",
+      "name": "Portronics CoolCube Portable Desktop Fan with 2400mAh...",
+      "brand": "Portronics",
+      "category": "Power Tools",
+      "price": 1138,
+      "image": "https://m.media-amazon.com/images/I/715hWAD-yEL.jpg | https://m.media-amazon.com/images/I/51JHp64iJeL.jpg | https://m.media-amazon.com/images/I/61sCc01mnEL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/412UkR1g2IL.jpg | https://m.media-amazon.com/images/I/51AzpRXfICL.jpg | https://m.media-amazon.com/images/I/51AWIN6sO7L.jpg | https://m.media-amazon.com/images/I/41Yu+FyJJAL.jpg | https://m.media-amazon.com/images/I/41mW4tuC21L.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-CoolCube-Portable-Charging-Operation/dp/B0F7J49RPY/ref=sr_1_208"
+    },
+    {
+      "sku": "JKE-IIYEGUKLGUZTOUSR",
+      "slug": "portronics-luxcell-b-10k-10000-mah-225w-fast-charging",
+      "name": "Portronics Luxcell B 10K 10000 mAh 22.5W Fast Charging...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 880,
+      "image": "https://m.media-amazon.com/images/I/61SRdzgwPTL.jpg | https://m.media-amazon.com/images/I/41VeyTOBkOL.jpg | https://m.media-amazon.com/images/I/51ZBhdZkROL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41AZdfYOi5L.jpg | https://m.media-amazon.com/images/I/41nWCKYdrUL.jpg | https://m.media-amazon.com/images/I/410TOx2AlFL.jpg | https://m.media-amazon.com/images/I/41ZK-LoLQnL.jpg | https://m.media-amazon.com/images/I/416rhNu2hIL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Luxcell-Charging-Output-Button/dp/B0CQK537RQ/ref=sr_1_230"
+    },
+    {
+      "sku": "JKE-IIYEOVBRHA4DINCQ",
+      "slug": "portronics-toadgo-wireless-rechargeable-bluetooth-mouse",
+      "name": "Portronics ToadGo Wireless Rechargeable Bluetooth Mouse...",
+      "brand": "Portronics",
+      "category": "Garden & Outdoor",
+      "price": 575,
+      "image": "https://m.media-amazon.com/images/I/51hQuiunNSL.jpg | https://m.media-amazon.com/images/I/31rFiBnj9WL.jpg | https://m.media-amazon.com/images/I/61oYMQ+wI9L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51wCyP34EML.jpg | https://m.media-amazon.com/images/I/41k-f9VJofL.jpg | https://m.media-amazon.com/images/I/51b2Fd8-nOL.jpg | https://m.media-amazon.com/images/I/41oXZzLekkL.jpg | https://m.media-amazon.com/images/I/41jhUsPmNcL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Rechargeable-Connectivity-Adjustable-Compatibility/dp/B0GT18844P/ref=sr_1_239"
+    },
+    {
+      "sku": "JKE-IIYEGVSYKIYTOS2H",
+      "slug": "portronics-luxcell-b12-10000mah-12w-power-bank-ultra-slim",
+      "name": "Portronics Luxcell B12 10,000mAh 12W Power Bank, Ultra Slim...",
+      "brand": "Portronics",
+      "category": "Storage & Organization",
+      "price": 649,
+      "image": "https://m.media-amazon.com/images/I/51nFKF7a4dL.jpg | https://m.media-amazon.com/images/I/31YwIrFH84L.jpg | https://m.media-amazon.com/images/I/41ElB08Bu1L.jpg | https://m.media-amazon.com/images/I/41ubytmkj1L.jpg | https://m.media-amazon.com/images/I/51Mw7oqWAZL.jpg | https://m.media-amazon.com/images/I/41k6SvwzM2L.jpg | https://m.media-amazon.com/images/I/41IadZlDYnL.jpg | https://m.media-amazon.com/images/I/4179sFWn2sL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Luxcell-000mAh-Output-Certified/dp/B0CVXR17KG/ref=sr_1_213"
+    },
+    {
+      "sku": "JKE-IIYEQMSKHE2TSWCL",
+      "slug": "portronics-power-shutter-20000mah-15w-magnetic-wireless",
+      "name": "Portronics Power Shutter 20000mAh 15W Magnetic Wireless...",
+      "brand": "Portronics",
+      "category": "Storage & Organization",
+      "price": 2236,
+      "image": "https://m.media-amazon.com/images/I/61ZovZ2Gj0L.jpg | https://m.media-amazon.com/images/I/41EYETUjS+L.jpg | https://m.media-amazon.com/images/I/71KXSsZt68L.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41-NLzLEehL.jpg | https://m.media-amazon.com/images/I/41CoZNhqE0L.jpg | https://m.media-amazon.com/images/I/418XReuqcuL.jpg | https://m.media-amazon.com/images/I/41onrefmasL.jpg | https://m.media-amazon.com/images/I/41UfhHmrmPL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-20000mAh-Magnetic-Powerbank-Bidirectional/dp/B0H2J959XK/ref=sr_1_232"
+    },
+    {
+      "sku": "JKE-IIYEOWSOJVLFIMSD",
+      "slug": "portronics-titan-35-20000mah-fast-charging-powerbank-with",
+      "name": "Portronics Titan 35 20000mAh Fast Charging Powerbank with...",
+      "brand": "Portronics",
+      "category": "Storage & Organization",
+      "price": 2099,
+      "image": "https://m.media-amazon.com/images/I/61HZoA8+boL.jpg | https://m.media-amazon.com/images/I/31tT5iagcxL.jpg | https://m.media-amazon.com/images/I/61rZNKite3L.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41Yb2k+zuhL.jpg | https://m.media-amazon.com/images/I/41PKTYHhjxL.jpg | https://m.media-amazon.com/images/I/51L+Je7eKAL.jpg | https://m.media-amazon.com/images/I/41wCZDa5yoL.jpg | https://m.media-amazon.com/images/I/41TYlE8UQKL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-20000mAh-Charging-Powerbank-Bidirectional/dp/B0GZNMVT2C/ref=sr_1_205"
+    },
+    {
+      "sku": "JKE-IIYEIUCNLE2DGWJX",
+      "slug": "portronics-luxcell-bind-mini-20k-20000mah-powerbank-with",
+      "name": "Portronics Luxcell Bind Mini 20k 20000mAh Powerbank with...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 1809,
+      "image": "https://m.media-amazon.com/images/I/51aOeGh0u-L.jpg | https://m.media-amazon.com/images/I/41UaUoJK5eL.jpg | https://m.media-amazon.com/images/I/61ETdRKEnLL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41nrCur66gL.jpg | https://m.media-amazon.com/images/I/41LrSl9Z-5L.jpg | https://m.media-amazon.com/images/I/41ov3i6uCkL.jpg | https://m.media-amazon.com/images/I/51L0mkuqnzL.jpg | https://m.media-amazon.com/images/I/41u7T5qPIVL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-20000mAh-Powerbank-Charging-Compatible/dp/B0DPMY43Y7/ref=sr_1_165"
+    },
+    {
+      "sku": "JKE-IIYEOMKZJRDUITRS",
+      "slug": "portronics-aa-lithius-type-c-rechargeable-batteries-pack",
+      "name": "Portronics AA Lithius Type C Rechargeable Batteries, Pack...",
+      "brand": "Portronics",
+      "category": "Safety & PPE",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/61tpLEbIgsL.jpg | https://m.media-amazon.com/images/I/41Pk-xRLeOL.jpg | https://m.media-amazon.com/images/I/61Ezc5WH9+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41dPW1XNSfL.jpg | https://m.media-amazon.com/images/I/41Fbo6rm6NL.jpg | https://m.media-amazon.com/images/I/41DGs0XquvL.jpg | https://m.media-amazon.com/images/I/41YUtVKis-L.jpg | https://m.media-amazon.com/images/I/41VNL34rXmL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Rechargeable-Batteries-Composition-Discharge/dp/B0G1YLGDN2/ref=sr_1_25"
+    },
+    {
+      "sku": "JKE-IIYEGURXJY4U2RBZ",
+      "slug": "portronics-konnect-x-usb-to-type-c-cable-with-3a-output",
+      "name": "Portronics Konnect X USB to Type C Cable with 3A Output,...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/61qsIhub23L.jpg | https://m.media-amazon.com/images/I/41LY9ntFGqL.jpg | https://m.media-amazon.com/images/I/41wRmCNOxBL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/415Ml-ejmdL.jpg | https://m.media-amazon.com/images/I/515bPi0azWL.jpg | https://m.media-amazon.com/images/I/41ebfZXjcVL.jpg | https://m.media-amazon.com/images/I/41DouwldomL.jpg | https://m.media-amazon.com/images/I/41uNWzEQRXL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Charging-Aluminium-compatible-Smartphones/dp/B0CR7N9MD9/ref=sr_1_140"
+    },
+    {
+      "sku": "JKE-IIYDSS2IGU4EUWSS",
+      "slug": "portronics-konnect-l-por-1403-fast-charging-3a-type-c-cable",
+      "name": "Portronics Konnect L POR-1403 Fast Charging 3A Type-C Cable...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 145,
+      "image": "https://m.media-amazon.com/images/I/61TAAu1LrqL.jpg | https://m.media-amazon.com/images/I/41l4+ksyBTL.jpg | https://m.media-amazon.com/images/I/81hXS1BOzmL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/419Lo9+SAlL.jpg | https://m.media-amazon.com/images/I/41SQQP8jyfL.jpg | https://m.media-amazon.com/images/I/41ymV9TChqL.jpg | https://m.media-amazon.com/images/I/413F2q8RoAL.jpg | https://m.media-amazon.com/images/I/31zUv8QEchL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Konnect-POR-1403-Charging-Function/dp/B09KH58JZR/ref=sr_1_128"
+    },
+    {
+      "sku": "JKE-IIYEGVRUHBBTOUZT",
+      "slug": "portronics-konnect-x-60w-type-c-to-type-c-unbreakable-nylon",
+      "name": "Portronics Konnect X 60W Type C to Type C Unbreakable Nylon...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 232,
+      "image": "https://m.media-amazon.com/images/I/61Zp3KE1XzL.jpg | https://m.media-amazon.com/images/I/41hPYfJJ1hL.jpg | https://m.media-amazon.com/images/I/51xhaMcdqvL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41XU5TknWAL.jpg | https://m.media-amazon.com/images/I/513+fRfRhvL.jpg | https://m.media-amazon.com/images/I/41HOtocz6AL.jpg | https://m.media-amazon.com/images/I/41NtXGMRxOL.jpg | https://m.media-amazon.com/images/I/41q0PwuCSWL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Konnect-Unbreakable-Braided-Charging/dp/B0CV48C7S3/ref=sr_1_146"
+    },
+    {
+      "sku": "JKE-IIYEIVCKGVDUYUKW",
+      "slug": "portronics-konnect-core-3-usb-a-to-micro-fast-charging",
+      "name": "Portronics Konnect Core 3 USB-A to Micro Fast Charging...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/61i6IefHQHL.jpg | https://m.media-amazon.com/images/I/417Jn-2ep0L.jpg | https://m.media-amazon.com/images/I/41QHLRdyEKL.jpg | https://m.media-amazon.com/images/I/410RCb2TU5L.jpg | https://m.media-amazon.com/images/I/41MKQiRYf1L.jpg | https://m.media-amazon.com/images/I/41tYkzHqbtL.jpg | https://m.media-amazon.com/images/I/41fT1VBxOFL.jpg | https://m.media-amazon.com/images/I/41IFLenw0mL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Charging-Smartphones-Speakers-Management/dp/B0DTJ5GLQV/ref=sr_1_137"
+    },
+    {
+      "sku": "JKE-IIYEQNBVGJIVEOJZ",
+      "slug": "portronics-100w-konnect-halo-type-c-to-type-c-cable-with",
+      "name": "Portronics 100W Konnect Halo Type C to Type C Cable with...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/61OL9P+J04L.jpg | https://m.media-amazon.com/images/I/41VZmmgsueL.jpg | https://m.media-amazon.com/images/I/61gv1KhMg9L.jpg | https://m.media-amazon.com/images/I/41hkFRV97WL.jpg | https://m.media-amazon.com/images/I/413fMcftwzL.jpg | https://m.media-amazon.com/images/I/51JDeoyr0IL.jpg | https://m.media-amazon.com/images/I/41o+KyCQWYL.jpg | https://m.media-amazon.com/images/I/41o0CYKD34L.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Konnect-Indicator-Charging-Compatible/dp/B0H452QR99/ref=sr_1_82"
+    },
+    {
+      "sku": "JKE-IIYEOV2RKMZVMOKO",
+      "slug": "portronics-60w-quadline-4-in-1-multifunctional-fast",
+      "name": "Portronics 60W Quadline 4-In-1 Multifunctional Fast...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 669,
+      "image": "https://m.media-amazon.com/images/I/61vb+0cnQjL.jpg | https://m.media-amazon.com/images/I/417UDLZLLvL.jpg | https://m.media-amazon.com/images/I/61I2CdY3HJL.jpg | https://m.media-amazon.com/images/I/416PMyDy1oL.jpg | https://m.media-amazon.com/images/I/41kWvz68ogL.jpg | https://m.media-amazon.com/images/I/41kclfYMrFL.jpg | https://m.media-amazon.com/images/I/41+s9YDMSLL.jpg | https://m.media-amazon.com/images/I/4127RMJ76YL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Quadline-Multifunctional-Retractable-Lightening/dp/B0GWQS3V9N/ref=sr_1_255"
+    },
+    {
+      "sku": "JKE-IIYEGVSRJZJFSU2W",
+      "slug": "portronics-konnect-x-type-c-to-8-pin-27w-fast-charging",
+      "name": "Portronics Konnect X Type C to 8-Pin 27W Fast Charging...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/61mtp-UIXdL.jpg | https://m.media-amazon.com/images/I/319E65hHRYL.jpg | https://m.media-amazon.com/images/I/81FMiWAjzRL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41mcr6yNDFL.jpg | https://m.media-amazon.com/images/I/5172prR4+CL.jpg | https://m.media-amazon.com/images/I/41cE6Ae9duL.jpg | https://m.media-amazon.com/images/I/41LwYCWhKQL.jpg | https://m.media-amazon.com/images/I/41Gm8MKOrPL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Konnect-Charging-Material-Lightning/dp/B0CVQNRYSV/ref=sr_1_144"
+    },
+    {
+      "sku": "JKE-IIYEQMRZJU2FUTSK",
+      "slug": "portronics-net-x2-cat-6-ethernet-cable-2m-rj45-to-rj45-lan",
+      "name": "Portronics Net X2 CAT-6 Ethernet Cable 2M, RJ45 to RJ45 LAN...",
+      "brand": "Portronics",
+      "category": "Power Tools",
+      "price": 149,
+      "image": "https://m.media-amazon.com/images/I/71AmTF6W16L.jpg | https://m.media-amazon.com/images/I/41VrJkaaBML.jpg | https://m.media-amazon.com/images/I/51R4wmui5IL.jpg | https://m.media-amazon.com/images/I/41KFTLkGJnL.jpg | https://m.media-amazon.com/images/I/41QWIjRVTtL.jpg | https://m.media-amazon.com/images/I/41Qt7+vq9TL.jpg | https://m.media-amazon.com/images/I/41HkrO0EW1L.jpg | https://m.media-amazon.com/images/I/41pvgSVnMKL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Ethernet-Bandwidth-Copper-Plated-Connectors/dp/B0H29M4ZNJ/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-IIYEQMRYJZGFUWCM",
+      "slug": "portronics-net-x1-cat-6-ethernet-cable-1m-rj45-to-rj45-lan",
+      "name": "Portronics Net X1 CAT-6 Ethernet Cable 1M, RJ45 to RJ45 LAN...",
+      "brand": "Portronics",
+      "category": "Power Tools",
+      "price": 129,
+      "image": "https://m.media-amazon.com/images/I/71AmTF6W16L.jpg | https://m.media-amazon.com/images/I/41VrJkaaBML.jpg | https://m.media-amazon.com/images/I/51R4wmui5IL.jpg | https://m.media-amazon.com/images/I/41KFTLkGJnL.jpg | https://m.media-amazon.com/images/I/41XcfmpAxUL.jpg | https://m.media-amazon.com/images/I/41Qt7+vq9TL.jpg | https://m.media-amazon.com/images/I/41HkrO0EW1L.jpg | https://m.media-amazon.com/images/I/41pvgSVnMKL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Ethernet-Bandwidth-Copper-Plated-Connectors/dp/B0H28NLZXL/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYEIRCIJU3EIM2M",
+      "slug": "portronics-conch-theta-c-in-ear-type-c-wired-earphones-with",
+      "name": "Portronics Conch Theta C in Ear Type C Wired Earphones with...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 322,
+      "image": "https://m.media-amazon.com/images/I/51GGwjwSr0L.jpg | https://m.media-amazon.com/images/I/31jwfIOURoL.jpg | https://m.media-amazon.com/images/I/51rVVLwylzL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41Z549yd2cL.jpg | https://m.media-amazon.com/images/I/410rbtKvanL.jpg | https://m.media-amazon.com/images/I/51Bpc8m3U7L.jpg | https://m.media-amazon.com/images/I/41nWEkOqB7L.jpg | https://m.media-amazon.com/images/I/418ykfJAHKL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Earphones-Powerful-Controls-Compatibility/dp/B0DDHM6D3L/ref=sr_1_271"
+    },
+    {
+      "sku": "JKE-IIYEGUCZGRJUYVSS",
+      "slug": "portronics-konnect-sync-4k60hz-hdmi-to-hdmi-cable-3m",
+      "name": "Portronics Konnect Sync 4K@60Hz HDMI to HDMI Cable, 3M...",
+      "brand": "Portronics",
+      "category": "Storage & Organization",
+      "price": 269,
+      "image": "https://m.media-amazon.com/images/I/61RmnItTPvL.jpg | https://m.media-amazon.com/images/I/41cLDkoi8RL.jpg | https://m.media-amazon.com/images/I/61NmCFFQl3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51SA-VPTJWL.jpg | https://m.media-amazon.com/images/I/415u7IBr1cL.jpg | https://m.media-amazon.com/images/I/41olx9roqFL.jpg | https://m.media-amazon.com/images/I/41RP351qC6L.jpg | https://m.media-amazon.com/images/I/41vGggNM73L.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Konnect-Compatible-Projector-Soundbar/dp/B0CPY4SLVR/ref=sr_1_187"
+    },
+    {
+      "sku": "JKE-IIYEIUCDKA2U4NRX",
+      "slug": "portronics-printlink-3-printer-cable-with-usb-type-a-to-usb",
+      "name": "Portronics PrintLink 3 Printer Cable with USB Type-A to USB...",
+      "brand": "Portronics",
+      "category": "Electrical & Wiring",
+      "price": 162,
+      "image": "https://m.media-amazon.com/images/I/51KyzfC9NpL.jpg | https://m.media-amazon.com/images/I/31Y4YuesLyL.jpg | https://m.media-amazon.com/images/I/81A4bIwocnL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/4164gqrk1hL.jpg | https://m.media-amazon.com/images/I/41JthByr6sL.jpg | https://m.media-amazon.com/images/I/51L739ExMTL.jpg | https://m.media-amazon.com/images/I/51mnj2qj0GL.jpg | https://m.media-amazon.com/images/I/41dqMsVtdjL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-PrintLink-Connectors-High-Speed-Transfer/dp/B0DPCP5N67/ref=sr_1_217"
+    },
+    {
       "sku": "JKE-IIYEIV2MII4TGQSH",
-      "slug": "portronics-bit-box24-in-1-screwdriver-kitcompactdurableand-travel-friendly-tool-kit-with-a-magnetic-bit-holderperfect-for-householdauto-repair-black",
-      "name": "Portronics Bit Box,24-in-1 Screwdriver Kit,Compact,Durable,and Travel-Friendly Tool Kit with a Magnetic Bit Holder,Perfect for Household&Auto Repair (Black)",
+      "slug": "portronics-bit-box24-in-1-screwdriver",
+      "name": "Portronics Bit Box,24-in-1 Screwdriver...",
       "brand": "Portronics",
       "category": "Fasteners & Hardware",
-      "price": "₹348.00",
+      "price": 348,
       "image": "https://m.media-amazon.com/images/I/61uoP1zJoLL.jpg | https://m.media-amazon.com/images/I/41s-ZdqU7BL.jpg | https://m.media-amazon.com/images/I/517LHfPCi+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41P6c1Z-b9L.jpg | https://m.media-amazon.com/images/I/51JRROgNA6L.jpg | https://m.media-amazon.com/images/I/41ZYfcAh9CL.jpg | https://m.media-amazon.com/images/I/41IAXI0OiBL.jpg | https://m.media-amazon.com/images/I/41vSbqT8IsL.jpg",
       "productUrl": "https://www.amazon.in/Portronics-Screwdriver-Travel-Friendly-Magnetic-Household/dp/B0DWLB93BG/ref=sr_1_37"
     },
     {
       "sku": "JKE-IIYEOTS2GZBE2SSK",
-      "slug": "portronics-vayu-cop-6-in-1-rechargeable-bldc-car-emergency-kit-with-12v-jump-starter-tyre-inflator-5000pa-vacuum-cleaner-10000-rpm-air-blower-led-flashlight-5w-power-bank-4x-2000mah-batteries",
-      "name": "Portronics Vayu Cop 6-in-1 Rechargeable BLDC Car Emergency Kit with 12V Jump Starter, Tyre Inflator, 5000Pa Vacuum Cleaner, 10,000 RPM Air Blower, LED Flashlight, 5W Power Bank, 4X 2000mAh Batteries",
+      "slug": "portronics-vayu-cop-6-in-1-rechargeable-bldc-car-emergency",
+      "name": "Portronics Vayu Cop 6-in-1 Rechargeable BLDC Car Emergency...",
       "brand": "Portronics",
       "category": "Power Tools",
-      "price": "₹5,599.00",
+      "price": 5599,
       "image": "https://m.media-amazon.com/images/I/61EM1FBkZBL.jpg | https://m.media-amazon.com/images/I/41hWFiQrAQL.jpg | https://m.media-amazon.com/images/I/71WFxy-OmnL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51uhjCrbhQL.jpg | https://m.media-amazon.com/images/I/51uVdh--SoL.jpg | https://m.media-amazon.com/images/I/51zAAeQccaL.jpg | https://m.media-amazon.com/images/I/51S3bUfhmoL.jpg | https://m.media-amazon.com/images/I/51wafQ2NGiL.jpg",
       "productUrl": "https://www.amazon.in/Portronics-Rechargeable-Emergency-Flashlight-Batteries/dp/B0GNZ6BMJJ/ref=sr_1_44"
+    },
+    {
+      "sku": "JKE-IIYEMURYKFFFGNKQ",
+      "slug": "portronics-vayu-50-lite-portable-12v-dc-corded-tyre",
+      "name": "Portronics Vayu 5.0 Lite, Portable 12V DC Corded Tyre...",
+      "brand": "Portronics",
+      "category": "Power Tools",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/617Wdq5BOVL.jpg | https://m.media-amazon.com/images/I/41Dwqz730NL.jpg | https://m.media-amazon.com/images/I/51YL+CbAn6L.jpg | https://m.media-amazon.com/images/I/51t-K2S3czL.jpg | https://m.media-amazon.com/images/I/515p3AjSgTL.jpg | https://m.media-amazon.com/images/I/41eRcgqjC+L.jpg | https://m.media-amazon.com/images/I/41-2r8P2ShL.jpg | https://m.media-amazon.com/images/I/41S3lvNoAiL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Portable-Inflation-Detection-Emergency/dp/B0FR8QJS5P/ref=sr_1_200"
+    },
+    {
+      "sku": "JKE-IIYEMVZUK5FUYNKY",
+      "slug": "portronics-vayu-90-portable-rechargeable-tyre-inflator",
+      "name": "Portronics Vayu 9.0 Portable & Rechargeable Tyre Inflator...",
+      "brand": "Portronics",
+      "category": "Power Tools",
+      "price": 2199,
+      "image": "https://m.media-amazon.com/images/I/61uZdQ73OvL.jpg | https://m.media-amazon.com/images/I/413smlcbBsL.jpg | https://m.media-amazon.com/images/I/51-3QMwniJL.jpg | https://m.media-amazon.com/images/I/515DAfxNSvL.jpg | https://m.media-amazon.com/images/I/51OP9UaCHPL.jpg | https://m.media-amazon.com/images/I/51dnMN2iUvL.jpg | https://m.media-amazon.com/images/I/51NGfsMuEML.jpg | https://m.media-amazon.com/images/I/51VKAX3V4RL.jpg",
+      "productUrl": "https://www.amazon.in/Portronics-Portable-Rechargeable-Inflator-Cordless/dp/B0FW4WKL5X/ref=sr_1_248"
     }
   ]
 }

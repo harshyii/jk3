@@ -1,0 +1,36 @@
+{
+  "name": "Sunway Solar",
+  "slug": "sunway-solar",
+  "products": [
+    {
+      "sku": "JKE-IIYDMV2QHE2VONJR",
+      "slug": "sunway-solar-car-battery-trickle-charger-maintainer-12v",
+      "name": "Sunway Solar Car Battery Trickle Charger & Maintainer 12V...",
+      "brand": "Sunway Solar",
+      "category": "Hand Tools",
+      "price": 6081.29,
+      "image": "https://m.media-amazon.com/images/I/61xvKDajdyL.jpg | https://m.media-amazon.com/images/I/41EyKnsC45L.jpg | https://m.media-amazon.com/images/I/51YsI9GWimL.jpg | https://m.media-amazon.com/images/I/51g+35hSf2L.jpg | https://m.media-amazon.com/images/I/51ejyb163kL.jpg | https://m.media-amazon.com/images/I/41qwB1iv4NL.jpg | https://m.media-amazon.com/images/I/4103ZVfvxhL.jpg | https://m.media-amazon.com/images/I/41cYdtIcrPS.jpg",
+      "productUrl": "https://www.amazon.in/Sunway-Solar-Maintainer-Automotive-Motorcycle/dp/B06WP95W51/ref=sr_1_105"
+    },
+    {
+      "sku": "JKE-IIYDQNCZKY3EMN2X",
+      "slug": "sunway-solar-panel-car-battery-trickle-charger-maintainer",
+      "name": "Sunway Solar Panel Car Battery Trickle Charger & Maintainer...",
+      "brand": "Sunway Solar",
+      "category": "Hand Tools",
+      "price": 8333.45,
+      "image": "https://m.media-amazon.com/images/I/616lxXHQDmL.jpg | https://m.media-amazon.com/images/I/41cSP2BYJXL.jpg | https://m.media-amazon.com/images/I/41xcqDDFdQL.jpg | https://m.media-amazon.com/images/I/41htl+Z4FLL.jpg | https://m.media-amazon.com/images/I/41xWPD9Ut7L.jpg | https://m.media-amazon.com/images/I/41UhsdGtPdL.jpg | https://m.media-amazon.com/images/I/41tE7nyox6L.jpg | https://m.media-amazon.com/images/I/41c+F7XwWwL.jpg",
+      "productUrl": "https://www.amazon.in/Sunway-Solar-Maintainer-Powersports-Snowmobiles/dp/B084YV6F7W/ref=sr_1_87"
+    },
+    {
+      "sku": "JKE-IIYDOU2DHFDDOM2W",
+      "slug": "sunway-solar-solar-aa-aaa-battery-charger-for-rechargeable",
+      "name": "Sunway Solar Solar AA AAA Battery Charger for Rechargeable...",
+      "brand": "Sunway Solar",
+      "category": "Electrical & Wiring",
+      "price": 10004.21,
+      "image": "https://m.media-amazon.com/images/I/91mqgza+7cL.jpg | https://m.media-amazon.com/images/I/4101pSAU0GL.jpg | https://m.media-amazon.com/images/I/41h6ZB9XGgL.jpg | https://m.media-amazon.com/images/I/41jcBqZzOUL.jpg | https://m.media-amazon.com/images/I/51Fq6C0yT3L.jpg | https://m.media-amazon.com/images/I/31xI3RHE9BL.jpg | https://m.media-amazon.com/images/I/41-Km5BRL0L.jpg | https://m.media-amazon.com/images/I/41Gp+6s1umL.jpg",
+      "productUrl": "https://www.amazon.in/Solar-AA-AAA-Rechargeable-Batteries/dp/B07SC9F73V/ref=sr_1_86"
+    }
+  ]
+}

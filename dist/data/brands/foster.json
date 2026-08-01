@@ -4,13 +4,23 @@
   "products": [
     {
       "sku": "JKE-IIYEIRCIG5FUER2L",
-      "slug": "foster-fk-5513-pro-reversible-impact-driver-drill-machine-160pcs-hand-tool-kit-13mm-chuck-size-650w",
-      "name": "Foster Fk-5513 Pro Reversible Impact Driver Drill Machine 160Pcs Hand Tool Kit (13Mm Chuck Size, 650W)",
+      "slug": "foster-fk-5513-pro-reversible-impact-driver-drill-machine",
+      "name": "Foster Fk-5513 Pro Reversible Impact Driver Drill Machine...",
       "brand": "Foster",
       "category": "Hand Tools",
-      "price": "₹4,495.00",
+      "price": 4495,
       "image": "https://m.media-amazon.com/images/I/71zZXmabCaL.jpg | https://m.media-amazon.com/images/I/41dYkHsh6dL.jpg | https://m.media-amazon.com/images/I/51ExcVlKwUL.jpg | https://m.media-amazon.com/images/I/51Up-NNUaaL.jpg | https://m.media-amazon.com/images/I/519ppiZnMcL.jpg | https://m.media-amazon.com/images/I/41h7TgWCUmL.jpg",
       "productUrl": "https://www.amazon.in/Foster-Fk-5513-Reversible-Impact-Machine/dp/B0DDH7KBGK/ref=sr_1_115"
+    },
+    {
+      "sku": "JKE-IIYDOMSYKZFTGTKT",
+      "slug": "foster-fhd-2-26dre-26mm-850w-heavy-duty-copper",
+      "name": "FOSTER FHD 2-26DRE | 26mm, 850W | Heavy Duty | Copper...",
+      "brand": "Foster",
+      "category": "Hand Tools",
+      "price": 3299,
+      "image": "https://m.media-amazon.com/images/I/41QtwyU5PgL.jpg | https://m.media-amazon.com/images/I/41QtwyU5PgL.jpg | https://m.media-amazon.com/images/I/41T1amTbp+L.jpg | https://m.media-amazon.com/images/I/41p9y566CsL.jpg | https://m.media-amazon.com/images/I/41BJtKxV8cL.jpg | https://m.media-amazon.com/images/I/41PMcEbHD3L.jpg | https://m.media-amazon.com/images/I/31GNM4KCYBL.jpg",
+      "productUrl": "https://www.amazon.in/FOSTER-FHD-2-26DRE-Seller-Armature/dp/B072XVK3MS/ref=sr_1_94"
     }
   ]
 }

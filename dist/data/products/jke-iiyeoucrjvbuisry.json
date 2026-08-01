@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOUCRJVBUISRY",
-  "title": "Eastman Tools 40 Pcs Metal Box Bit Set, S2 Bits, Sockets Multipurpose for Industrial and Automobiles, E-3004",
+  "title": "Eastman Tools 40 Pcs Metal Box Bit Set, S2 Bits, Sockets...",
   "brand": "Generic",
-  "current_price": "₹2,900.00",
-  "mrp": "₹3,360",
+  "current_price": 2900,
+  "mrp": 3360,
   "product_url": "https://www.amazon.in/Eastman-Sockets-Multipurpose-Industrial-Automobiles/dp/B0GPQMCDJ8/ref=sr_1_172",
   "description": "Eastman Tools 40 Pcs Metal Box Bit Set, S2 Bits, Sockets Multipurpose for Industrial and Automobiles, E-3004 - Distributed/Packaged by Generic. Product Details: nan",
   "image_urls": [
@@ -13,25 +13,25 @@
   "image_url_1": "https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg | https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg",
   "image_url_2": "https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg",
   "specifications": {
-    "Drive System": "Socket",
-    "Item Length": "30 Centimetres",
-    "Number of Pieces": "40",
-    "Material Type": "Chrome Vanadium Steel",
-    "Finish Types": "Chrome Plated",
     "Brand Name": "Generic",
     "Model Number": "E-3004",
-    "Unit Count": "1 Count",
     "Manufacturer": "Indian Spraying Industries",
-    "Country of Publication": "India",
-    "Item Weight": "2 Kilograms",
     "Item Type Name": "Socket Set",
     "Packer Contact Information": "Jipson Industries Pvt. Ltd.",
     "ASIN": "B0GPQMCDJ8",
-    "Set Name": "E-3004 Metal Box Bit Set"
+    "Unit Count": "1 Count",
+    "Item Weight": "2 Kilograms",
+    "Material Type": "Chrome Vanadium Steel",
+    "Finish Types": "Chrome Plated",
+    "Set Name": "E-3004 Metal Box Bit Set",
+    "Number of Pieces": "40",
+    "Country of Publication": "India",
+    "Item Length": "30 Centimetres",
+    "Drive System": "Socket"
   },
   "SKU": "JKE-IIYEOUCRJVBUISRY",
-  "Name": "Eastman Tools 40 Pcs Metal Box Bit Set, S2 Bits, Sockets Multipurpose for Industrial and Automobiles, E-3004",
-  "Slug": "eastman-tools-40-pcs-metal-box-bit-set-s2-bits-sockets-multipurpose-for-industrial-and-automobiles-e-3004",
+  "Name": "Eastman Tools 40 Pcs Metal Box Bit Set, S2 Bits, Sockets...",
+  "Slug": "eastman-tools-40-pcs-metal-box-bit-set-s2-bits-sockets",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg | https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹2,900.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 13.69,
+  "SalePrice": 2900,
   "Model": "E-3004"
 }

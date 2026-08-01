@@ -1,0 +1,26 @@
+{
+  "name": "Crossvolt",
+  "slug": "crossvolt",
+  "products": [
+    {
+      "sku": "JKE-IIYEGWCEKJNEMU2D",
+      "slug": "one-plus-fast-80w-original-usb-type-c-data-sync-fast",
+      "name": "One Plus Fast 80W Original USB Type C Data Sync Fast...",
+      "brand": "Crossvolt",
+      "category": "Electrical & Wiring",
+      "price": 291,
+      "image": "https://m.media-amazon.com/images/I/61CFmYmgQyL.jpg | https://m.media-amazon.com/images/I/31wEc7veBSL.jpg | https://m.media-amazon.com/images/I/81Wc9ICVF-L.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51Q4PlZMO7L.jpg | https://m.media-amazon.com/images/I/51eFJ5D7hYL.jpg | https://m.media-amazon.com/images/I/51mHSCNNLrL.jpg | https://m.media-amazon.com/images/I/41Z+VPOOWzL.jpg | https://m.media-amazon.com/images/I/41GwZLkawjL.jpg",
+      "productUrl": "https://www.amazon.in/Original-Supervooc-UltraDart-Charging-Compatible/dp/B0CXDRZFSC/ref=sr_1_110"
+    },
+    {
+      "sku": "JKE-IIYEMR2ZGQ4FATJR",
+      "slug": "samsung-superfast-original-25w-type-c-to-c-charging-cable",
+      "name": "Samsung Superfast Original 25W Type C to C Charging Cable...",
+      "brand": "Crossvolt",
+      "category": "Safety & PPE",
+      "price": 246,
+      "image": "https://m.media-amazon.com/images/I/712fMKjvwVL.jpg | https://m.media-amazon.com/images/I/31jGOJLgU2L.jpg | https://m.media-amazon.com/images/I/61k40BtJlsL.jpg | https://m.media-amazon.com/images/I/41of0kCAyrL.jpg | https://m.media-amazon.com/images/I/41lB09DTIdL.jpg | https://m.media-amazon.com/images/I/41JYbzn+FgL.jpg | https://m.media-amazon.com/images/I/41dIRIPt8SL.jpg | https://m.media-amazon.com/images/I/51qyzl9PFCL.jpg",
+      "productUrl": "https://www.amazon.in/Crossvolt-Superfast-Charging-Compatible-Tablet-White/dp/B0FGY48PM1/ref=sr_1_132"
+    }
+  ]
+}

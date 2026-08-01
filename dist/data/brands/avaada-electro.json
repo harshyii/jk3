@@ -4,21 +4,21 @@
   "products": [
     {
       "sku": "JKE-IIYEOU2WGZJUIRRS",
-      "slug": "avaada-720wp-solar-panel-topcon-n-type-bifacial-dual-glass-2318-efficiency-132-half-cut-cells18bb-ip68-30-year-performance-warranty-non-dcr-pack-of-2",
-      "name": "Avaada 720Wp Solar Panel (TOPCon N-Type, Bifacial Dual-Glass) | 23.18% Efficiency, 132 Half-Cut Cells,18BB, IP68, 30-Year Performance Warranty, Non-DCR| Pack of 2",
+      "slug": "avaada-720wp-solar-panel-topcon-n-type-bifacial",
+      "name": "Avaada 720Wp Solar Panel (TOPCon N-Type, Bifacial...",
       "brand": "Avaada Electro",
       "category": "Measuring & Layout",
-      "price": "₹22,999.00",
+      "price": 22999,
       "image": "https://m.media-amazon.com/images/I/818qW-X4z5L.jpg | https://m.media-amazon.com/images/I/51l6jVcBtAL.jpg | https://m.media-amazon.com/images/I/419G0ZFF73L.jpg | https://m.media-amazon.com/images/I/514d6pG-C5L.jpg | https://m.media-amazon.com/images/I/41i91R0Pz6L.jpg | https://m.media-amazon.com/images/I/510Sbyx2YsL.jpg | https://m.media-amazon.com/images/I/51wCUuQ11CL.jpg",
       "productUrl": "https://www.amazon.in/Avaada-Bifacial-Dual-Glass-Efficiency-Performance/dp/B0GSV6SDF2/ref=sr_1_7"
     },
     {
       "sku": "JKE-IIYEOU2ULJGU4TKT",
-      "slug": "avaada-620wp-bifacial-ntype-solar-panel-topcon-solar-technology-2330-efficiency-glass-to-glass-132-cellnon-dcr-panel-low-lid-high-output-bifacial-solar-panel-30-year-warranty-pack-of-2",
-      "name": "Avaada 620Wp Bifacial NType Solar Panel | TOPCon Solar Technology 23.30% Efficiency | Glass-to-Glass 132 Cell/Non-DCR Panel | Low LID High Output Bifacial Solar Panel | 30 Year Warranty, Pack of 2",
+      "slug": "avaada-620wp-bifacial-ntype-solar-panel-topcon-solar",
+      "name": "Avaada 620Wp Bifacial NType Solar Panel | TOPCon Solar...",
       "brand": "Avaada Electro",
       "category": "Storage & Organization",
-      "price": "₹21,499.00",
+      "price": 21499,
       "image": "https://m.media-amazon.com/images/I/818qW-X4z5L.jpg | https://m.media-amazon.com/images/I/51l6jVcBtAL.jpg | https://m.media-amazon.com/images/I/419G0ZFF73L.jpg | https://m.media-amazon.com/images/I/51P88VEDAcL.jpg | https://m.media-amazon.com/images/I/41iK1889GSL.jpg | https://m.media-amazon.com/images/I/51FOfHYyBZL.jpg | https://m.media-amazon.com/images/I/51eXyNH1U2L.jpg",
       "productUrl": "https://www.amazon.in/Avaada-Bifacial-Technology-Efficiency-Warranty/dp/B0GSTZMNMS/ref=sr_1_28"
     }

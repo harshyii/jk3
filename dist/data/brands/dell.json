@@ -1,0 +1,16 @@
+{
+  "name": "Dell",
+  "slug": "dell",
+  "products": [
+    {
+      "sku": "JKE-IIYDOQ2IGIYUINBX",
+      "slug": "dell-65wh-mr90y-battery-for-inspiron-14-3421-14-3437",
+      "name": "Dell 65WH MR90Y Battery for Inspiron 14-3421 14-3437...",
+      "brand": "Dell",
+      "category": "General Hardware",
+      "price": 2118.99,
+      "image": "https://m.media-amazon.com/images/I/21QYB3XJ7yL.jpg | https://m.media-amazon.com/images/I/21QYB3XJ7yL.jpg | https://m.media-amazon.com/images/I/61u3X21VEQL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
+      "productUrl": "https://www.amazon.in/Dell-MR90Y-14-3421-14-3443-15-3521/dp/B07CH21D47/ref=sr_1_94"
+    }
+  ]
+}

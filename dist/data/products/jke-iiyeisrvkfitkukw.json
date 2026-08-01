@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEISRVKFITKUKW",
-  "title": "Inditrust Hand Operated Professional Riveter Gun Kit | Includes 50 Pcs 5 Types Rivets & Safety Gloves | Heavy Duty Manual Rivet Tool for Metal, Sheet & Repair Work (Orange/Yellow)",
+  "title": "Inditrust Hand Operated Professional Riveter Gun Kit |...",
   "brand": "Inditrust",
-  "current_price": "₹399.00",
-  "mrp": "₹800",
+  "current_price": 399,
+  "mrp": 800,
   "product_url": "https://www.amazon.in/Inditrust-operating-Professional-Orange-Riveter/dp/B0DJ5QQ5QV/ref=sr_1_40",
   "description": "Inditrust Hand Operated Professional Riveter Gun Kit | Includes 50 Pcs 5 Types Rivets & Safety Gloves | Heavy Duty Manual Rivet Tool for Metal, Sheet & Repair Work (Orange/Yellow) - Distributed/Packaged by Inditrust. Product Details: nan",
   "image_urls": [
@@ -26,16 +26,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41T3KEyVH3L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/31VzBvNISoL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Inditrust",
     "Item Type Name": "General",
     "ASIN": "‎B0DJ5QQ5QV",
     "Product Dimensions": "‎20 x 10 x 3 cm; 400 g",
-    "Country of Origin": "‎India",
     "Item part number": "‎B1013"
   },
   "SKU": "JKE-IIYEISRVKFITKUKW",
-  "Name": "Inditrust Hand Operated Professional Riveter Gun Kit | Includes 50 Pcs 5 Types Rivets & Safety Gloves | Heavy Duty Manual Rivet Tool for Metal, Sheet & Repair Work (Orange/Yellow)",
-  "Slug": "inditrust-hand-operated-professional-riveter-gun-kit-includes-50-pcs-5-types-rivets-safety-gloves-heavy-duty-manual-rivet-tool-for-metal-sheet-repair-work-orangeyellow",
+  "Name": "Inditrust Hand Operated Professional Riveter Gun Kit |...",
+  "Slug": "inditrust-hand-operated-professional-riveter-gun-kit-",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "Rivets",
   "Images": [
@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31jcF8tUW+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bSlb201YL.jpg | https://m.media-amazon.com/images/I/41rc9oZR4yL.jpg | https://m.media-amazon.com/images/I/41WzSO-3VlL.jpg | https://m.media-amazon.com/images/I/31g-sf1T0LL.jpg | https://m.media-amazon.com/images/I/31MCfkWO5aL.jpg | https://m.media-amazon.com/images/I/41T3KEyVH3L.jpg | https://m.media-amazon.com/images/I/31VzBvNISoL.jpg | https://m.media-amazon.com/images/I/31jcF8tUW+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹399.00",
+  "Discount": 50.12,
+  "SalePrice": 399,
   "Country": "‎India"
 }

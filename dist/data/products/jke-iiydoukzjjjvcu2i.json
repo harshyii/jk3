@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDOUKZJJJVCU2I",
-  "title": "STANLEY STMT81243 110-Piece High Quality Multi-Toolkit containing Pliers, Spanners, Drivers, Sockets, Bits, Wrenches & Ratchets for Home, DIY & Professional Use, 1 Year Warranty, Yellow & Black",
+  "title": "STANLEY STMT81243 110-Piece High Quality Multi-Toolkit...",
   "brand": "Stanley",
-  "current_price": "₹7,899.00",
-  "mrp": "₹11,788",
+  "current_price": 7899,
+  "mrp": 11788,
   "product_url": "https://www.amazon.in/Stanley-110-Pieces-Multi-Tool-STMT81243/dp/B07QYJSQSH/ref=sr_1_36",
   "description": "STANLEY STMT81243 110-Piece High Quality Multi-Toolkit containing Pliers, Spanners, Drivers, Sockets, Bits, Wrenches & Ratchets for Home, DIY & Professional Use, 1 Year Warranty, Yellow & Black - Distributed/Packaged by Stanley. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51eYRh2qJHL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41n6kJJo0eL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎Stanley",
     "Item Type Name": "General",
     "ASIN": "‎B07QYJSQSH",
     "Product Dimensions": "‎42 x 40 x 40 cm; 450 g",
-    "Item model number": "‎STMT81243",
-    "Country of Origin": "‎China"
+    "Item model number": "‎STMT81243"
   },
   "SKU": "JKE-IIYDOUKZJJJVCU2I",
-  "Name": "STANLEY STMT81243 110-Piece High Quality Multi-Toolkit containing Pliers, Spanners, Drivers, Sockets, Bits, Wrenches & Ratchets for Home, DIY & Professional Use, 1 Year Warranty, Yellow & Black",
-  "Slug": "stanley-stmt81243-110-piece-high-quality-multi-toolkit-containing-pliers-spanners-drivers-sockets-bits-wrenches-ratchets-for-home-diy-professional-use-1-year-warranty-yellow-black",
+  "Name": "STANLEY STMT81243 110-Piece High Quality Multi-Toolkit...",
+  "Slug": "stanley-stmt81243-110-piece-high-quality-multi-toolkit",
   "Category": "Hand Tools",
   "Subcategory1": "Pliers & Grippers",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41n6kJJo0eL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81+2ddAQImL.jpg | https://m.media-amazon.com/images/I/41mQbArBqmL.jpg | https://m.media-amazon.com/images/I/41z2umiU+IL.jpg | https://m.media-amazon.com/images/I/41UsPHRbCBL.jpg | https://m.media-amazon.com/images/I/61XDSbVyLIL.jpg | https://m.media-amazon.com/images/I/51eYRh2qJHL.jpg | https://m.media-amazon.com/images/I/41n6kJJo0eL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹7,899.00",
+  "Discount": 32.99,
+  "SalePrice": 7899,
   "Country": "‎China"
 }

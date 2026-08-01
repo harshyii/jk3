@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSRRZIQ3UYWCL",
-  "title": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge Octogonal Chisel Drop Forges (Red And Silver) - E-2038",
+  "title": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge...",
   "brand": "Eastman",
-  "current_price": "₹179.00",
-  "mrp": "₹261",
+  "current_price": 179,
+  "mrp": 261,
   "product_url": "https://www.amazon.in/Eastman-Chisels-16X22X200-Cutting-Octogonal/dp/B09F9D7LXK/ref=sr_1_11",
   "description": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge Octogonal Chisel Drop Forges (Red And Silver) - E-2038 - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -21,16 +21,16 @@
   "image_url_5": "https://m.media-amazon.com/images/I/31amGclThzL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/318DPlK+tVL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman",
     "Item Type Name": "General",
     "ASIN": "‎B09F9D7LXK",
     "Product Dimensions": "‎21 x 6 x 4 cm; 300 g",
-    "Item model number": "‎ECH-2038_16x22x200",
-    "Country of Origin": "‎India"
+    "Item model number": "‎ECH-2038_16x22x200"
   },
   "SKU": "JKE-IIYDSRRZIQ3UYWCL",
-  "Name": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge Octogonal Chisel Drop Forges (Red And Silver) - E-2038",
-  "Slug": "eastman-chisels-set-of-1pcs-16x22x200-mm-cutting-edge-octogonal-chisel-drop-forges-red-and-silver-e-2038",
+  "Name": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge...",
+  "Slug": "eastman-chisels-set-of-1pcs-16x22x200-mm-cutting-edge",
   "Category": "Hand Tools",
   "Subcategory1": "Chisels & Punches",
   "Images": [
@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/318DPlK+tVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31efymeG1SL.jpg | https://m.media-amazon.com/images/I/31efymeG1SL.jpg | https://m.media-amazon.com/images/I/21eYLY+subL.jpg | https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg | https://m.media-amazon.com/images/I/31amGclThzL.jpg | https://m.media-amazon.com/images/I/318DPlK+tVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹179.00",
+  "Discount": 31.42,
+  "SalePrice": 179,
   "Country": "‎India"
 }

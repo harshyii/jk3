@@ -1,0 +1,16 @@
+{
+  "name": "Fluke",
+  "slug": "fluke",
+  "products": [
+    {
+      "sku": "JKE-IIYDAVRWIJCDCNBU",
+      "slug": "fluke-424d-laser-distance-meter",
+      "name": "Fluke 424d Laser Distance Meter",
+      "brand": "Fluke",
+      "category": "Measuring & Layout",
+      "price": 38750,
+      "image": "https://m.media-amazon.com/images/I/61UUP1cPZTL.jpg | https://m.media-amazon.com/images/I/41fDrniOHiL.jpg",
+      "productUrl": "https://www.amazon.in/Fluke-424D-Laser-Distance-Meter/dp/B00V6BD144/ref=sr_1_285_mod_primary_new"
+    }
+  ]
+}

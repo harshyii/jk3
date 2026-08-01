@@ -1,0 +1,16 @@
+{
+  "name": "Byr. Z.",
+  "slug": "byr-z",
+  "products": [
+    {
+      "sku": "JKE-GAYDQMJQGAZTAMJT",
+      "slug": "advances-in-solar-heating-and-cooling",
+      "name": "Advances in Solar Heating and Cooling",
+      "brand": "Byr. Z.",
+      "category": "General Hardware",
+      "price": 29400,
+      "image": "https://m.media-amazon.com/images/I/71Ukoqfsm6L.jpg | https://m.media-amazon.com/images/I/51x7L6w+yAL.jpg | https://m.media-amazon.com/images/I/51UW7xkeyPL.jpg",
+      "productUrl": "https://www.amazon.in/Advances-Heating-Cooling-Woodhead-Publishing/dp/0081003013/ref=sr_1_68"
+    }
+  ]
+}

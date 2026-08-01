@@ -3,24 +3,44 @@
   "slug": "skadioo",
   "products": [
     {
+      "sku": "JKE-IIYEIWSUGUZFAWCG",
+      "slug": "skadioo-3-meter-flexible-washing-machine-inlet-hose-water",
+      "name": "SKADIOO 3 Meter Flexible Washing Machine Inlet Hose water...",
+      "brand": "Skadioo",
+      "category": "Fasteners & Hardware",
+      "price": 379,
+      "image": "https://m.media-amazon.com/images/I/51VPsHCPJKL.jpg | https://m.media-amazon.com/images/I/51VPsHCPJKL.jpg | https://m.media-amazon.com/images/I/41UCtTFU5-L.jpg | https://m.media-amazon.com/images/I/51yOB2hWSPL.jpg | https://m.media-amazon.com/images/I/51lT+Mgg7oL.jpg",
+      "productUrl": "https://www.amazon.in/SKADIOO-pipe-resistant-Universal-Automatic/dp/B0DZT52PXF/ref=sr_1_216"
+    },
+    {
       "sku": "JKE-IIYEIR2HJRFEMMSL",
-      "slug": "skadioo-nose-pliers-for-house-use-nose-plier-long-nose-plier-power-and-hand-tools-plier-for-home-use-nose-pliers-set-tools-kit-blue-1-piece",
-      "name": "SKADIOO Nose pliers for house use | Nose plier | long nose plier | Power and Hand tools | Plier for home use, nose pliers set tools kit, Blue, 1 Piece",
+      "slug": "skadioo-nose-pliers-for-house-use-nose-plier-long-nose",
+      "name": "SKADIOO Nose pliers for house use | Nose plier | long nose...",
       "brand": "Skadioo",
       "category": "Hand Tools",
-      "price": "₹152.00",
+      "price": 152,
       "image": "https://m.media-amazon.com/images/I/613fk8Hbz0L.jpg | https://m.media-amazon.com/images/I/313BONdcy1L.jpg | https://m.media-amazon.com/images/I/21ukoIVFyyL.jpg | https://m.media-amazon.com/images/I/11XTYhZ3P-L.jpg | https://m.media-amazon.com/images/I/21z2jvSngoL.jpg",
       "productUrl": "https://www.amazon.in/SKADIOO-pliers-house-plier-Power/dp/B0DGGLJF2K/ref=sr_1_35"
     },
     {
       "sku": "JKE-IIYEQN2YGRFEOM2Z",
-      "slug": "skadioo-10-piece-tool-kit-set-for-home-hand-tool-kit-with-screwdrivers-combination-plier-adjustable-wrench-hammer-measuring-tape-cutter-insulation-tape-home-repair-diy-professional-use",
-      "name": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with Screwdrivers, Combination Plier, Adjustable Wrench, Hammer, Measuring Tape, Cutter & Insulation Tape | Home Repair, DIY & Professional Use",
+      "slug": "skadioo-10-piece-tool-kit-set-for-home-hand-tool-kit-with",
+      "name": "SKADIOO 10 Piece Tool Kit Set for Home | Hand Tool Kit with...",
       "brand": "Skadioo",
       "category": "Hand Tools",
-      "price": "₹749.00",
+      "price": 749,
       "image": "https://m.media-amazon.com/images/I/61reXs+THYL.jpg | https://m.media-amazon.com/images/I/41tSTMADZOL.jpg | https://m.media-amazon.com/images/I/51FdC8kPAcL.jpg | https://m.media-amazon.com/images/I/51mmGKMPg+L.jpg | https://m.media-amazon.com/images/I/41SNUJAI2jL.jpg | https://m.media-amazon.com/images/I/41Me3-no9rL.jpg | https://m.media-amazon.com/images/I/51RlCQn0E3L.jpg",
       "productUrl": "https://www.amazon.in/SKADIOO-10-Screwdrivers-Combination-Professional/dp/B0H7X4JG3Y/ref=sr_1_185"
+    },
+    {
+      "sku": "JKE-IIYEIR2HJZLTIOKZ",
+      "slug": "skadioo-8-inch-combination-pliers-heavy-duty-hand-tool",
+      "name": "SKADIOO 8-Inch Combination Pliers ? Heavy Duty Hand Tool...",
+      "brand": "Skadioo",
+      "category": "Hand Tools",
+      "price": 210,
+      "image": "https://m.media-amazon.com/images/I/61m7F4vwuZL.jpg | https://m.media-amazon.com/images/I/31XQgoWoprL.jpg | https://m.media-amazon.com/images/I/31oqxgkXJpS.jpg | https://m.media-amazon.com/images/I/41o2bYWWEpL.jpg | https://m.media-amazon.com/images/I/31fK25jPRZL.jpg | https://m.media-amazon.com/images/I/31WSixpTGSS.jpg",
+      "productUrl": "https://www.amazon.in/SKADIOO-Combination-Multi-Function-Electricians-Professional/dp/B0DGGNW49Y/ref=sr_1_37"
     }
   ]
 }

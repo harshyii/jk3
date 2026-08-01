@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSTCUJNBUGOCZ",
-  "title": "Ngosew 12PCS Wave Edge Knives Blades for Eastman Straight Cutting Machines (10EW)",
+  "title": "Ngosew 12PCS Wave Edge Knives Blades for Eastman Straight...",
   "brand": "Ngosew",
-  "current_price": "₹17,387.00",
-  "mrp": "₹23,889",
+  "current_price": 17387,
+  "mrp": 23889,
   "product_url": "https://www.amazon.in/Ngosew-Eastman-Straight-Cutting-Machines/dp/B09LTKCC8Y/ref=sr_1_180",
   "description": "Ngosew 12PCS Wave Edge Knives Blades for Eastman Straight Cutting Machines (10EW) - Distributed/Packaged by Ngosew. Product Details: nan",
   "image_urls": [
@@ -15,15 +15,15 @@
   "image_url_2": "https://m.media-amazon.com/images/I/81R9Nbvm1FL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/31DQBmc-h4L.jpg",
   "specifications": {
+    "Country of Origin": "‎USA",
     "Manufacturer": "‎NGOSEW",
     "Item Type Name": "General",
     "ASIN": "‎B09LTKCC8Y",
-    "Country of Origin": "‎USA",
     "Item part number": "‎Wave-knife"
   },
   "SKU": "JKE-IIYDSTCUJNBUGOCZ",
-  "Name": "Ngosew 12PCS Wave Edge Knives Blades for Eastman Straight Cutting Machines (10EW)",
-  "Slug": "ngosew-12pcs-wave-edge-knives-blades-for-eastman-straight-cutting-machines-10ew",
+  "Name": "Ngosew 12PCS Wave Edge Knives Blades for Eastman Straight...",
+  "Slug": "ngosew-12pcs-wave-edge-knives-blades-for-eastman-straight",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -32,9 +32,9 @@
     "https://m.media-amazon.com/images/I/31DQBmc-h4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81R9Nbvm1FL.jpg | https://m.media-amazon.com/images/I/31DQBmc-h4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹17,387.00",
+  "Discount": 27.22,
+  "SalePrice": 17387,
   "Country": "‎USA"
 }

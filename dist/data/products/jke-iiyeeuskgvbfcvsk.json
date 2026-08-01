@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEEUSKGVBFCVSK",
-  "title": "ENDICO ROUTER 12MM FIELD COIL (Compatible For-All 12 mm ENDICO ROUTER MODELS, AT12, AT12, PARA12FL, PARA12FLR, PARA12TP & PARA12TPR)",
+  "title": "ENDICO ROUTER 12MM FIELD COIL (Compatible For-All 12 mm...",
   "brand": "Endico",
-  "current_price": "₹1,169.00",
-  "mrp": "₹1,430",
+  "current_price": 1169,
+  "mrp": 1430,
   "product_url": "https://www.amazon.in/Compatible-PARA12FL-PARA12FLR-PARA12TP-PARA12TPR/dp/B0BRJ5BQVJ/ref=sr_1_38",
   "description": "ENDICO ROUTER 12MM FIELD COIL (Compatible For-All 12 mm ENDICO ROUTER MODELS, AT12, AT12, PARA12FL, PARA12FLR, PARA12TP & PARA12TPR) - Distributed/Packaged by Endico. Product Details: Endico Field Coil 12mm used in PARA12TPR",
   "image_urls": [
@@ -26,21 +26,21 @@
   "image_url_8": "https://m.media-amazon.com/images/I/31CCp67w7XL.jpg",
   "specifications": {
     "Brand Name": "Endico",
-    "Unit Count": "200.00 Count",
     "Manufacturer": "Endico",
-    "Country of Publication": "India",
-    "Included Components": "feild coil",
     "Item Type Name": "General",
     "Packer Contact Information": "ENDICO POWER TOOLS (INDIA)",
     "Best Sellers Rank": "#212,834 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#1,192 in3D Printer Parts & Accessories",
     "ASIN": "B0BRJ5BQVJ",
+    "Unit Count": "200.00 Count",
     "Power Source": "Compatible for all Endico 8MM Router models: AT8 AS8 PARA8L PARA8TPR",
-    "Base Type": "Fixed",
-    "Item Dimensions W x H": "10W x 11H Centimeters"
+    "Included Components": "feild coil",
+    "Country of Publication": "India",
+    "Item Dimensions W x H": "10W x 11H Centimeters",
+    "Base Type": "Fixed"
   },
   "SKU": "JKE-IIYEEUSKGVBFCVSK",
-  "Name": "ENDICO ROUTER 12MM FIELD COIL (Compatible For-All 12 mm ENDICO ROUTER MODELS, AT12, AT12, PARA12FL, PARA12FLR, PARA12TP & PARA12TPR)",
-  "Slug": "endico-router-12mm-field-coil-compatible-for-all-12-mm-endico-router-models-at12-at12-para12fl-para12flr-para12tp-para12tpr",
+  "Name": "ENDICO ROUTER 12MM FIELD COIL (Compatible For-All 12 mm...",
+  "Slug": "endico-router-12mm-field-coil-compatible-for-all-12-mm",
   "Category": "Power Tools",
   "Subcategory1": "Rotary Tools",
   "Images": [
@@ -54,8 +54,8 @@
     "https://m.media-amazon.com/images/I/31CCp67w7XL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zQMrXCb6L.jpg | https://m.media-amazon.com/images/I/31wVK4OcNjL.jpg | https://m.media-amazon.com/images/I/418+DQ5Dd6L.jpg | https://m.media-amazon.com/images/I/31GAqWTO1BL.jpg | https://m.media-amazon.com/images/I/41KOZKHSyRL.jpg | https://m.media-amazon.com/images/I/41RMTHfPBnL.jpg | https://m.media-amazon.com/images/I/31CCp67w7XL.jpg",
-  "StockQuantity": 0,
-  "Unit": "200.00 Count",
-  "Discount": 0,
-  "SalePrice": "₹1,169.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 18.25,
+  "SalePrice": 1169
 }

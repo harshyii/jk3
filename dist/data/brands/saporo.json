@@ -1,0 +1,16 @@
+{
+  "name": "Saporo",
+  "slug": "saporo",
+  "products": [
+    {
+      "sku": "JKE-IIYEIWRXKZMUYTCS",
+      "slug": "saporo-quickjet-pro-high-pressure-car-washer-2200w",
+      "name": "Saporo Quickjet Pro High Pressure Car Washer, 2200W...",
+      "brand": "Saporo",
+      "category": "Power Tools",
+      "price": 5399,
+      "image": "https://m.media-amazon.com/images/I/61f-qcsS2rL.jpg | https://m.media-amazon.com/images/I/419dZ9KhIfL.jpg | https://m.media-amazon.com/images/I/51FdOjhwLuL.jpg | https://m.media-amazon.com/images/I/41KObUMOyaL.jpg | https://m.media-amazon.com/images/I/41AQg6vngrL.jpg | https://m.media-amazon.com/images/I/41QI6J1HyiL.jpg | https://m.media-amazon.com/images/I/513Li-jjy4L.jpg",
+      "productUrl": "https://www.amazon.in/Saporo-Quickjet-Pro-Pressure-Washer/dp/B0DZ7VYLLR/ref=sr_1_52"
+    }
+  ]
+}

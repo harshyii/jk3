@@ -1,0 +1,36 @@
+{
+  "name": "Jazzy Pearls",
+  "slug": "jazzy-pearls",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNZRKBCDGNBY",
+      "slug": "strong-airflow-portable-fan-180-adjustable-angle",
+      "name": "Strong Airflow Portable Fan 180° Adjustable Angle...",
+      "brand": "Jazzy Pearls",
+      "category": "Power Tools",
+      "price": 2235,
+      "image": "https://m.media-amazon.com/images/I/51OTeItlj8L.jpg | https://m.media-amazon.com/images/I/319Zh7i39yL.jpg | https://m.media-amazon.com/images/I/41nAE86CiSL.jpg | https://m.media-amazon.com/images/I/410uJn0J1kL.jpg | https://m.media-amazon.com/images/I/41o7HCAUvhL.jpg | https://m.media-amazon.com/images/I/510x+LI+v0L.jpg | https://m.media-amazon.com/images/I/413-MuD8djL.jpg",
+      "productUrl": "https://www.amazon.in/JAZZY-Adjustable-Rechargeable-Enthusiasts-Dongcheng/dp/B0H71PD348/ref=sr_1_186"
+    },
+    {
+      "sku": "JKE-IIYEQOKZHFCEIUJS",
+      "slug": "electric-oil-pump-water-oil-diesel-fuel-transfer-for",
+      "name": "Electric Oil Pump Water Oil Diesel Fuel Transfer for...",
+      "brand": "Jazzy Pearls",
+      "category": "Power Tools",
+      "price": 1738,
+      "image": "https://m.media-amazon.com/images/I/61G41L+kchL.jpg | https://m.media-amazon.com/images/I/412T7qDkurL.jpg | https://m.media-amazon.com/images/I/41ijF1bQLSL.jpg | https://m.media-amazon.com/images/I/41ALaCtI8XL.jpg | https://m.media-amazon.com/images/I/41FPOq9KlaL.jpg | https://m.media-amazon.com/images/I/41+6e-NR8mL.jpg | https://m.media-amazon.com/images/I/41FogfwIi+L.jpg",
+      "productUrl": "https://www.amazon.in/JAZZY-Electric-Transfer-Vehicles-24V-Motors/dp/B0H9Y9DDQ2/ref=sr_1_194"
+    },
+    {
+      "sku": "JKE-IIYEMVSYLJFE2OBV",
+      "slug": "snow-shoveling-wax-lightweight-ski-wax-for-snow-ski",
+      "name": "Snow Shoveling Wax Lightweight Ski Wax for Snow Ski...",
+      "brand": "Jazzy Pearls",
+      "category": "Measuring & Layout",
+      "price": 1212,
+      "image": "https://m.media-amazon.com/images/I/51XpDhrcJjL.jpg | https://m.media-amazon.com/images/I/31NZoO-lGaL.jpg | https://m.media-amazon.com/images/I/31PSpZ7ro2L.jpg | https://m.media-amazon.com/images/I/31-FdRjKjeL.jpg | https://m.media-amazon.com/images/I/31RBr5SvsPL.jpg | https://m.media-amazon.com/images/I/31IbqL4bUfL.jpg | https://m.media-amazon.com/images/I/31Dnql3vL7L.jpg | https://m.media-amazon.com/images/I/313ii5j0c+L.jpg",
+      "productUrl": "https://www.amazon.in/JAZZY-Lightweight-Blue-Sporting-Goods-Winter-Sports-Accessories-Wax-1/dp/B0FVXZJM85/ref=sr_1_268"
+    }
+  ]
+}

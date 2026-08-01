@@ -1,0 +1,56 @@
+{
+  "name": "Bluth",
+  "slug": "bluth",
+  "products": [
+    {
+      "sku": "JKE-IIYEOWCELJFUMURR",
+      "slug": "bluth-solar-panel-system-5kw10kw-on-grid-dcr-3-phase-",
+      "name": "Bluth Solar Panel System 5kW–10kW On-Grid DCR 3 Phase |...",
+      "brand": "Bluth",
+      "category": "Safety & PPE",
+      "price": 592275,
+      "image": "https://m.media-amazon.com/images/I/818TySZqvQL.jpg | https://m.media-amazon.com/images/I/51R3462eoxL.jpg | https://m.media-amazon.com/images/I/51hHb4ksh-L.jpg | https://m.media-amazon.com/images/I/51ZANntXU2L.jpg | https://m.media-amazon.com/images/I/51nijMVTVLL.jpg | https://m.media-amazon.com/images/I/41LyIQ53+lL.jpg | https://m.media-amazon.com/images/I/51fbvRI-6AL.jpg | https://m.media-amazon.com/images/I/31TDMHDEPfL.jpg",
+      "productUrl": "https://www.amazon.in/Bluth-Solar-Bifacial-Efficiency-Residential/dp/B0GXDZKFR1/ref=sr_1_237"
+    },
+    {
+      "sku": "JKE-IIYEOWCCJVDTMTCU",
+      "slug": "bluth-solar-panel-on-grid-dcr-single-phase-solarsystem",
+      "name": "Bluth Solar Panel On-Grid DCR Single Phase SolarSystem...",
+      "brand": "Bluth",
+      "category": "General Hardware",
+      "price": 388313,
+      "image": "https://m.media-amazon.com/images/I/81sxuBu-YlL.jpg | https://m.media-amazon.com/images/I/41P5SYWnl7L.jpg | https://m.media-amazon.com/images/I/51hHb4ksh-L.jpg | https://m.media-amazon.com/images/I/51fbvRI-6AL.jpg | https://m.media-amazon.com/images/I/416YydsPQsL.jpg | https://m.media-amazon.com/images/I/31TDMHDEPfL.jpg | https://m.media-amazon.com/images/I/41LyIQ53+lL.jpg | https://m.media-amazon.com/images/I/51g3XhjBD0L.jpg",
+      "productUrl": "https://www.amazon.in/Bluth-Solar-SolarSystem-Bifacial-Efficiency/dp/B0GXBMG6LT/ref=sr_1_221"
+    },
+    {
+      "sku": "JKE-IIYEOV2EJY4FGWJX",
+      "slug": "bluth-solar-bifacial-solar-panel-144-half-cut-cells-high",
+      "name": "Bluth Solar Bifacial Solar Panel 144 Half-Cut Cells High...",
+      "brand": "Bluth",
+      "category": "General Hardware",
+      "price": 12066,
+      "image": "https://m.media-amazon.com/images/I/71Sjyv-nccL.jpg | https://m.media-amazon.com/images/I/411xD6Dp4rL.jpg | https://m.media-amazon.com/images/I/41hZ2jIvRNL.jpg | https://m.media-amazon.com/images/I/51SeNDrkIPL.jpg | https://m.media-amazon.com/images/I/51pZgCe1UtL.jpg",
+      "productUrl": "https://www.amazon.in/Bluth-Solar-Bifacial-Efficiency-Commercial/dp/B0GWDN8SY7/ref=sr_1_119"
+    },
+    {
+      "sku": "JKE-IIYEOWBRK5MVQMKX",
+      "slug": "bluth-solar-panels-bifacial-solar-panel-144-half-cell-high",
+      "name": "Bluth Solar Panels Bifacial Solar Panel 144 Half Cell High...",
+      "brand": "Bluth",
+      "category": "General Hardware",
+      "price": 11550,
+      "image": "https://m.media-amazon.com/images/I/71PcouOXHnL.jpg | https://m.media-amazon.com/images/I/417FTNBNRAL.jpg | https://m.media-amazon.com/images/I/51hHb4ksh-L.jpg | https://m.media-amazon.com/images/I/51+P1y2wYKL.jpg | https://m.media-amazon.com/images/I/41JuB44ipRL.jpg | https://m.media-amazon.com/images/I/41SyG9mQapL.jpg | https://m.media-amazon.com/images/I/41LyIQ53+lL.jpg | https://m.media-amazon.com/images/I/416YydsPQsL.jpg",
+      "productUrl": "https://www.amazon.in/Bluth-Solar-Bifacial-Efficiency-Commercial/dp/B0GX1WYX1W/ref=sr_1_129"
+    },
+    {
+      "sku": "JKE-IIYEOVSUHBJUETSU",
+      "slug": "bluth-solar-solar-panel-550w-bifacial-monoperc-144-half-cut",
+      "name": "Bluth Solar Solar Panel 550W Bifacial Monoperc 144 Half-Cut...",
+      "brand": "Bluth",
+      "category": "General Hardware",
+      "price": 11100,
+      "image": "https://m.media-amazon.com/images/I/71Sjyv-nccL.jpg | https://m.media-amazon.com/images/I/411xD6Dp4rL.jpg | https://m.media-amazon.com/images/I/519yRxCfoML.jpg | https://m.media-amazon.com/images/I/51SeNDrkIPL.jpg | https://m.media-amazon.com/images/I/41nCdYeS98L.jpg | https://m.media-amazon.com/images/I/51pZgCe1UtL.jpg | https://m.media-amazon.com/images/I/51+xJycdpSL.jpg",
+      "productUrl": "https://www.amazon.in/Bluth-Solar-Bifacial-Monoperc-Efficiency/dp/B0GVT8SBNT/ref=sr_1_76"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Epro Labs",
+  "slug": "epro-labs",
+  "products": [
+    {
+      "sku": "JKE-IIYDCQSMJJDVGN2N",
+      "slug": "kit-0010-breadboard-60-pieces-jumper-wires-set",
+      "name": "KIT-0010 Breadboard + 60 Pieces Jumper Wires Set",
+      "brand": "Epro Labs",
+      "category": "Electrical & Wiring",
+      "price": 179,
+      "image": "https://m.media-amazon.com/images/I/71oriyQCXIL.jpg | https://m.media-amazon.com/images/I/51syQnSkPyL.jpg | https://m.media-amazon.com/images/I/41KICCt8NDL.jpg | https://m.media-amazon.com/images/I/41QLGXpMPML.jpg | https://m.media-amazon.com/images/I/21bYKuKBCHL.jpg | https://m.media-amazon.com/images/I/31UWbVJuH3L.jpg",
+      "productUrl": "https://www.amazon.in/ePro-Labs-KIT-0010-Breadboard-Pieces/dp/B01BLJGS7M/ref=sr_1_170_mod_primary_new"
+    }
+  ]
+}

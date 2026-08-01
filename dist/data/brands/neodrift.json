@@ -1,0 +1,26 @@
+{
+  "name": "Neodrift",
+  "slug": "neodrift",
+  "products": [
+    {
+      "sku": "JKE-IIYEGQ2LKRHEGUCI",
+      "slug": "neodrift-800-gsm-microfiber-cloth-ultra-soft-cleaning",
+      "name": "Neodrift ‘800 GSM Microfiber Cloth' - Ultra Soft Cleaning...",
+      "brand": "Neodrift",
+      "category": "Power Tools",
+      "price": 379,
+      "image": "https://m.media-amazon.com/images/I/51X5qeRWfaL.jpg | https://m.media-amazon.com/images/I/51X5qeRWfaL.jpg | https://m.media-amazon.com/images/I/51S7J-ZjCcL.jpg | https://m.media-amazon.com/images/I/61mx-AaHDpL.jpg | https://m.media-amazon.com/images/I/51X8w6ZBYzL.jpg | https://m.media-amazon.com/images/I/512n3TP7XRL.jpg | https://m.media-amazon.com/images/I/512xZnrLSzL.jpg",
+      "productUrl": "https://www.amazon.in/Neodrift-800-GSM-Microfiber-Cloth/dp/B0CCKTNCPH/ref=sr_1_238"
+    },
+    {
+      "sku": "JKE-IIYEOU2HJNKFSRSY",
+      "slug": "neodrift-shinemitts-1800-gsm-microfiber-car-wash-mitt-",
+      "name": "Neodrift 'ShineMitts' 1800 GSM Microfiber Car Wash Mitt -...",
+      "brand": "Neodrift",
+      "category": "Power Tools",
+      "price": 398,
+      "image": "https://m.media-amazon.com/images/I/81bDtJGPesL.jpg | https://m.media-amazon.com/images/I/41wstDLcS5L.jpg | https://m.media-amazon.com/images/I/51DV18eTDgL.jpg | https://m.media-amazon.com/images/I/51TBOGHGe-L.jpg | https://m.media-amazon.com/images/I/51Fkg4UyNVL.jpg | https://m.media-amazon.com/images/I/51Ok84GO4ZL.jpg | https://m.media-amazon.com/images/I/51g-EbKOEsL.jpg | https://m.media-amazon.com/images/I/51H-Z8V5anL.jpg",
+      "productUrl": "https://www.amazon.in/Neodrift-ShineMitts-1800-Microfiber-Wash/dp/B0GSGKTYFX/ref=sr_1_198"
+    }
+  ]
+}

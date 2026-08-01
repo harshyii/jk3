@@ -1,0 +1,46 @@
+{
+  "name": "Widewings",
+  "slug": "widewings",
+  "products": [
+    {
+      "sku": "JKE-IIYEOUK2KBLEUNSG",
+      "slug": "widewings-outdoor-solar-light-solar-light-with-motion",
+      "name": "WIDEWINGS Outdoor Solar Light, Solar Light with Motion...",
+      "brand": "Widewings",
+      "category": "Fasteners & Hardware",
+      "price": 949,
+      "image": "https://m.media-amazon.com/images/I/51k33fm07fL.jpg | https://m.media-amazon.com/images/I/41St8GSBVgL.jpg | https://m.media-amazon.com/images/I/71Wwg2jSsJL.jpg | https://m.media-amazon.com/images/I/515QmTmkV1L.jpg | https://m.media-amazon.com/images/I/515iJ7I1mTL.jpg | https://m.media-amazon.com/images/I/41ZArkdCl0L.jpg | https://m.media-amazon.com/images/I/41ViD6khDIL.jpg | https://m.media-amazon.com/images/I/51LiZL+eQzL.jpg",
+      "productUrl": "https://www.amazon.in/WIDEWINGS-Outdoor-Motion-Waterproof-Floodlight/dp/B0GQZPVJ6F/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-IIYEMOBUG4ZUENSR",
+      "slug": "widewings-plastic-abs-solar-lights-outdoor-with-motion",
+      "name": "WIDEWINGS Plastic, Abs Solar Lights Outdoor with Motion...",
+      "brand": "Widewings",
+      "category": "Fasteners & Hardware",
+      "price": 569,
+      "image": "https://m.media-amazon.com/images/I/61YH0PxdR7L.jpg | https://m.media-amazon.com/images/I/41qYGa9OVIL.jpg | https://m.media-amazon.com/images/I/51SSGj7Oi7L.jpg | https://m.media-amazon.com/images/I/51GqpJIC6nL.jpg | https://m.media-amazon.com/images/I/41kkprkBCbL.jpg | https://m.media-amazon.com/images/I/51pks4VviDL.jpg | https://m.media-amazon.com/images/I/51c9J87lgEL.jpg",
+      "productUrl": "https://www.amazon.in/WIDEWINGS-Lighting-Mounting-Waterproof-Suitable/dp/B0F8473B6Q/ref=sr_1_110"
+    },
+    {
+      "sku": "JKE-IIYEMSCXK5IEISSG",
+      "slug": "widewings-solar-pathway-lights-waterproof-outdoor-garden",
+      "name": "WIDEWINGS Solar Pathway Lights – Waterproof Outdoor Garden...",
+      "brand": "Widewings",
+      "category": "Measuring & Layout",
+      "price": 3799,
+      "image": "https://m.media-amazon.com/images/I/81BX6tjHVJL.jpg | https://m.media-amazon.com/images/I/51b0T2Sn9lL.jpg | https://m.media-amazon.com/images/I/51aHWMtJtGL.jpg | https://m.media-amazon.com/images/I/51kzGk2gjgL.jpg | https://m.media-amazon.com/images/I/51W66Bek2oL.jpg | https://m.media-amazon.com/images/I/4135KnrEbNL.jpg | https://m.media-amazon.com/images/I/51necgLq5iL.jpg | https://m.media-amazon.com/images/I/61BBM2gaALL.jpg",
+      "productUrl": "https://www.amazon.in/WIDEWINGS-Solar-Pathway-Lights-Waterproof/dp/B0FHWWPDJF/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEOUK2JRNEWSCR",
+      "slug": "widewings-outdoor-solar-light-solar-light-with-motion",
+      "name": "WIDEWINGS Outdoor Solar Light, Solar Light with Motion...",
+      "brand": "Widewings",
+      "category": "General Hardware",
+      "price": 1890,
+      "image": "https://m.media-amazon.com/images/I/61+7T7SwMgL.jpg | https://m.media-amazon.com/images/I/41wNjIlOjJL.jpg | https://m.media-amazon.com/images/I/71Wwg2jSsJL.jpg | https://m.media-amazon.com/images/I/515QmTmkV1L.jpg | https://m.media-amazon.com/images/I/515iJ7I1mTL.jpg | https://m.media-amazon.com/images/I/41ZArkdCl0L.jpg | https://m.media-amazon.com/images/I/41ViD6khDIL.jpg | https://m.media-amazon.com/images/I/51LiZL+eQzL.jpg",
+      "productUrl": "https://www.amazon.in/WIDEWINGS-Outdoor-Motion-Waterproof-Floodlight/dp/B0GQZLZKHQ/ref=sr_1_60"
+    }
+  ]
+}

@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGNKGJZGUIMKT",
-  "title": "Solar Panel Cleaning Sprinkler Shower PVC Set of 25 pcs (1/2 inch,Standard Size) Short",
+  "title": "Solar Panel Cleaning Sprinkler Shower PVC Set of 25 pcs...",
   "brand": "Aerowell",
-  "current_price": "₹520.00",
-  "mrp": "₹1,599",
+  "current_price": 520,
+  "mrp": 1599,
   "product_url": "https://www.amazon.in/Aerowell-Cleaning-Sprinkler-Shower-Standard/dp/B0C5FNMD1S/ref=sr_1_142",
   "rating": "4.14.1 out of 5 stars(191)4.1 out of 5 stars",
   "description": "Solar Panel Cleaning Sprinkler Shower PVC Set of 25 pcs (1/2 inch,Standard Size) Short - Distributed/Packaged by Aerowell. Product Details: Solar Auto Cleaning System Sprinkler or Shower Increases your electricity generation. Saves time: no time invested in maintaining and cleaning the system. enables the system to keep producing more efficiently. The Spark unit maintains steady, well-aligned micro- sprinklers on the panels for optimal cleaning.",
@@ -23,20 +23,20 @@
   "image_url_6": "https://m.media-amazon.com/images/I/51dFJ3DIs0L.jpg",
   "specifications": {
     "Model Number": "Aerowellsolarsprikler",
-    "Country of Publication": "India",
     "Item Type Name": "General",
     "Best Sellers Rank": "#5,093 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#43 inSolar & Wind Power Parts & Accessories",
     "ASIN": "B0C5FNMD1S",
     "Customer Reviews": "4.14.1 out of 5 stars(191)4.1 out of 5 stars",
-    "Brand": "Aerowell",
-    "Item Dimensions": "7 x 16 x 3 Centimeters",
     "Enclosure Material": "Polyvinyl Chloride",
+    "Item Dimensions": "7 x 16 x 3 Centimeters",
+    "Brand": "Aerowell",
     "Maximum Pressure": "75",
-    "Style": "Short Thread"
+    "Style": "Short Thread",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEGNKGJZGUIMKT",
-  "Name": "Solar Panel Cleaning Sprinkler Shower PVC Set of 25 pcs (1/2 inch,Standard Size) Short",
-  "Slug": "solar-panel-cleaning-sprinkler-shower-pvc-set-of-25-pcs-12-inchstandard-size-short",
+  "Name": "Solar Panel Cleaning Sprinkler Shower PVC Set of 25 pcs...",
+  "Slug": "solar-panel-cleaning-sprinkler-shower-pvc-set-of-25-pcs",
   "Category": "Safety & PPE",
   "Subcategory1": "General Safety",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51dFJ3DIs0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81qE5B6p1DL.jpg | https://m.media-amazon.com/images/I/51ZTZ1-P43L.jpg | https://m.media-amazon.com/images/I/41QaD3x-VpL.jpg | https://m.media-amazon.com/images/I/516LyldizTL.jpg | https://m.media-amazon.com/images/I/51dFJ3DIs0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹520.00",
+  "Discount": 67.48,
+  "SalePrice": 520,
   "Model": "Aerowellsolarsprikler"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Dealx",
+  "slug": "dealx",
+  "products": [
+    {
+      "sku": "JKE-IIYEMU2TKM2TQMKX",
+      "slug": "pack-of-2-microfiber-car-cleaning-cloth-og-soft-500-gsm",
+      "name": "Pack of 2 Microfiber Car Cleaning Cloth OG Soft 500 GSM...",
+      "brand": "Dealx",
+      "category": "Power Tools",
+      "price": 198,
+      "image": "https://m.media-amazon.com/images/I/618qsS1OVVL.jpg | https://m.media-amazon.com/images/I/41BHwQ3z78L.jpg | https://m.media-amazon.com/images/I/51+g2EHZ0nL.jpg | https://m.media-amazon.com/images/I/51Cz7ZehoLL.jpg | https://m.media-amazon.com/images/I/41fU8sHewUL.jpg | https://m.media-amazon.com/images/I/51b5XCR139L.jpg | https://m.media-amazon.com/images/I/51i-VyoATSL.jpg | https://m.media-amazon.com/images/I/41m2BQhkMSL.jpg",
+      "productUrl": "https://www.amazon.in/DealX-Microfiber-Scratchless-Detailing-Multicolour/dp/B0FSSS581W/ref=sr_1_138"
+    }
+  ]
+}

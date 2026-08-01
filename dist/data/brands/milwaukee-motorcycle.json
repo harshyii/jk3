@@ -1,0 +1,16 @@
+{
+  "name": "Milwaukee Motorcycle",
+  "slug": "milwaukee-motorcycle",
+  "products": [
+    {
+      "sku": "JKE-IIYEMSSTI5JFUTSC",
+      "slug": "milwaukee-mens-quick-draw-stylesh-leather-vest",
+      "name": "Milwaukee Men's Quick Draw Stylesh Leather Vest",
+      "brand": "Milwaukee Motorcycle",
+      "category": "Power Tools",
+      "price": 0,
+      "image": "https://m.media-amazon.com/images/I/8190+iI+4uL.jpg | https://m.media-amazon.com/images/I/41y2h99YfcL.jpg | https://m.media-amazon.com/images/I/51vSMHbZIqL.jpg | https://m.media-amazon.com/images/I/31aOhMzJ-vL.jpg | https://m.media-amazon.com/images/I/41mCm6FSvNL.jpg | https://m.media-amazon.com/images/I/61A21f-I3hL.jpg | https://m.media-amazon.com/images/I/61FUWSE3X+L.jpg | https://m.media-amazon.com/images/I/41oEbv6kMhL.jpg",
+      "productUrl": "https://www.amazon.in/Milwaukee-Quick-Stylesh-Leather-black/dp/B0FJSGRZNB/ref=sr_1_302"
+    }
+  ]
+}

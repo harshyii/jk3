@@ -1,0 +1,49 @@
+{
+  "asin": "JKE-IIYDOTSCKBHEYQ2R",
+  "title": "Panel",
+  "brand": "Australian Premium",
+  "current_price": 8900,
+  "mrp": 12000,
+  "product_url": "https://www.amazon.in/Australian-Premium-Solar-Panel/dp/B07NBPNLCQ/ref=sr_1_190",
+  "description": "Panel - Distributed/Packaged by Australian Premium Solar. Product Details: nan",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg | https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg | https://m.media-amazon.com/images/I/41w-XNchGjL.jpg",
+    "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg",
+    "https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg",
+    "https://m.media-amazon.com/images/I/41w-XNchGjL.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg | https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg | https://m.media-amazon.com/images/I/41w-XNchGjL.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg",
+  "image_url_4": "https://m.media-amazon.com/images/I/41w-XNchGjL.jpg",
+  "specifications": {
+    "Brand Name": "Australian Premium Solar",
+    "Manufacturer": "Australian Premium Solar",
+    "Item Type Name": "General",
+    "ASIN": "B07NBPNLCQ",
+    "Unit Count": "1 Count",
+    "Connector Type": "MC4",
+    "Manufacturer Part Number": "APS 100101",
+    "Included Components": "Solar panel",
+    "Material Type": "Aluminium, Polycrystalline Silicon, Tempered Glass",
+    "Efficiency": "High Efficiency",
+    "Country of Publication": "India",
+    "Number Of Cells": 72
+  },
+  "SKU": "JKE-IIYDOTSCKBHEYQ2R",
+  "Name": "Panel",
+  "Slug": "panel",
+  "Category": "General Hardware",
+  "Subcategory1": "General Items",
+  "Images": [
+    "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg | https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg | https://m.media-amazon.com/images/I/41w-XNchGjL.jpg",
+    "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg",
+    "https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg",
+    "https://m.media-amazon.com/images/I/41w-XNchGjL.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/515uNj2H5FL.jpg | https://m.media-amazon.com/images/I/41CsuBZTX1L.jpg | https://m.media-amazon.com/images/I/41w-XNchGjL.jpg",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 25.83,
+  "SalePrice": 8900
+}

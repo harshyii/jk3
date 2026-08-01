@@ -1,0 +1,46 @@
+{
+  "name": "Tetraclean",
+  "slug": "tetraclean",
+  "products": [
+    {
+      "sku": "JKE-IIYDOTBYG5HDOQST",
+      "slug": "tetraclean-rinseless-and-waterless-car-washing-liquid-for",
+      "name": "Tetraclean Rinseless and Waterless Car Washing Liquid For...",
+      "brand": "Tetraclean",
+      "category": "Power Tools",
+      "price": 309,
+      "image": "https://m.media-amazon.com/images/I/61vxQ1cvDTL.jpg | https://m.media-amazon.com/images/I/31jHyUh7TUL.jpg | https://m.media-amazon.com/images/I/41W53FktWsL.jpg | https://m.media-amazon.com/images/I/51saZvYqJ9L.jpg | https://m.media-amazon.com/images/I/51ZAtYv6O4L.jpg | https://m.media-amazon.com/images/I/515PlqKh+aL.jpg | https://m.media-amazon.com/images/I/51a2YShdh9L.jpg | https://m.media-amazon.com/images/I/41iw3hsy8nL.jpg",
+      "productUrl": "https://www.amazon.in/Tetraclean-Rinseless-Waterless-Exterior-Interior/dp/B07L87N7BS/ref=sr_1_217"
+    },
+    {
+      "sku": "JKE-IIYEMQ2DJRBE4USQ",
+      "slug": "tetraclean-car-polish-i-car-wax-polish-i-superior-car",
+      "name": "TetraClean Car Polish I Car Wax Polish I Superior Car...",
+      "brand": "Tetraclean",
+      "category": "Power Tools",
+      "price": 251,
+      "image": "https://m.media-amazon.com/images/I/514oRfXhxzL.jpg | https://m.media-amazon.com/images/I/31Fb72ho7UL.jpg | https://m.media-amazon.com/images/I/41YX4g3ze6L.jpg | https://m.media-amazon.com/images/I/514iah4ArrL.jpg | https://m.media-amazon.com/images/I/51VvYciUZ3L.jpg | https://m.media-amazon.com/images/I/51wfttZrLDL.jpg",
+      "productUrl": "https://www.amazon.in/TetraClean-Car-Polish-Superior-Mirror-like/dp/B0FCCLBNRP/ref=sr_1_178"
+    },
+    {
+      "sku": "JKE-IIYDOQ2SGJMEUMKZ",
+      "slug": "tetraclean-paste-car-polish-for-exterior-1000-g-",
+      "name": "Tetraclean Paste Car Polish For Exterior (1000 G) -...",
+      "brand": "Tetraclean",
+      "category": "Power Tools",
+      "price": 483,
+      "image": "https://m.media-amazon.com/images/I/51ylsGRE9uL.jpg | https://m.media-amazon.com/images/I/51ylsGRE9uL.jpg | https://m.media-amazon.com/images/I/51vv3ki8SjL.jpg",
+      "productUrl": "https://www.amazon.in/TetraClean-Paste-Polish-Exterior-1000/dp/B07CR2XJ1Y/ref=sr_1_158"
+    },
+    {
+      "sku": "JKE-IIYEIM2WJZFDIQ2U",
+      "slug": "tetraclean-premium-car-shampoo-ph-neutral-formula-thick",
+      "name": "Tetraclean Premium Car Shampoo | PH Neutral Formula | Thick...",
+      "brand": "Tetraclean",
+      "category": "Power Tools",
+      "price": 1399,
+      "image": "https://m.media-amazon.com/images/I/71MFBdICDQL.jpg | https://m.media-amazon.com/images/I/4158ImHjCDL.jpg | https://m.media-amazon.com/images/I/51D7pfsr-zL.jpg | https://m.media-amazon.com/images/I/51AzxvjW9tL.jpg | https://m.media-amazon.com/images/I/51Z8sFq2SZL.jpg | https://m.media-amazon.com/images/I/41s0pwAyTWL.jpg",
+      "productUrl": "https://www.amazon.in/Tetraclean-Premium-Shampoo-Concentrated-Brilliant/dp/B0D3VNJ4CT/ref=sr_1_241"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Lenovo",
+  "slug": "lenovo",
+  "products": [
+    {
+      "sku": "JKE-IIYEON22G5MUOUSH",
+      "slug": "lenovo-210-wireless-usb-a-compact-mouse1600-dpi-optical",
+      "name": "Lenovo 210 Wireless USB A Compact Mouse,1600 DPI Optical...",
+      "brand": "Lenovo",
+      "category": "Measuring & Layout",
+      "price": 569,
+      "image": "https://m.media-amazon.com/images/I/51cNYAxIY2L.jpg | https://m.media-amazon.com/images/I/21rISX-mE+L.jpg | https://m.media-amazon.com/images/I/21PCrjK1LSL.jpg | https://m.media-amazon.com/images/I/21qhATTA9lL.jpg | https://m.media-amazon.com/images/I/31n5sLYNedL.jpg | https://m.media-amazon.com/images/I/31YEoC1orgL.jpg | https://m.media-amazon.com/images/I/31LqEWELeLL.jpg",
+      "productUrl": "https://www.amazon.in/Lenovo-Wireless-Warranty-3-Button-GY51U02463/dp/B0G7Z7YGRG/ref=sr_1_218"
+    },
+    {
+      "sku": "JKE-IIYDSOKTIQ4FAUSQ",
+      "slug": "lenovo-130-wireless-compact-mouse-1k-dpi-optical-sensor",
+      "name": "Lenovo 130 Wireless Compact Mouse, 1K DPI Optical sensor,...",
+      "brand": "Lenovo",
+      "category": "Measuring & Layout",
+      "price": 645,
+      "image": "https://m.media-amazon.com/images/I/51cHxUkjZzL.jpg | https://m.media-amazon.com/images/I/3189oRC5hnL.jpg | https://m.media-amazon.com/images/I/51TNjY1MXjL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/417vVipPIOL.jpg | https://m.media-amazon.com/images/I/41kJo06D37L.jpg | https://m.media-amazon.com/images/I/41ZykaxhJJL.jpg | https://m.media-amazon.com/images/I/31YRUoySxYL.jpg | https://m.media-amazon.com/images/I/41qLeAgzZpL.jpg",
+      "productUrl": "https://www.amazon.in/Lenovo-Optical-Compact-Mouse-Black/dp/B099SD8PRP/ref=sr_1_199"
+    }
+  ]
+}

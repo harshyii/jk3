@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDQTCLKQ4DMVSR",
-  "title": "Renew Oil Home Care Kit | Anti-age | Powerful Antioxidant | High Emollient Power | Fights Free Radicals | Nutritious Shampoo 8.4 & Conditioner 8.8 & Mask 8.8 Oz Daily Care with Olive Elixir",
+  "title": "Renew Oil Home Care Kit | Anti-age | Powerful Antioxidant |...",
   "brand": "Ybera Paris",
-  "current_price": "₹19,680.00",
-  "mrp": "₹28,119",
+  "current_price": 19680,
+  "mrp": 28119,
   "product_url": "https://www.amazon.in/GYP-Antioxidant-Emollient-Nutritious-Conditioner/dp/B08LKT86VQ/ref=sr_1_17",
   "rating": "4.64.6 out of 5 stars(244)4.6 out of 5 stars",
   "description": "Renew Oil Home Care Kit | Anti-age | Powerful Antioxidant | High Emollient Power | Fights Free Radicals | Nutritious Shampoo 8.4 & Conditioner 8.8 & Mask 8.8 Oz Daily Care with Olive Elixir - Distributed/Packaged by Ybera Paris. Product Details: GYP Renew Oil products recover hair in a continuous and natural way. Its powerful hydrating and anti-oxidants agents nourish, purify, give elasticity and provide shine.",
@@ -27,22 +27,22 @@
   "image_url_7": "https://m.media-amazon.com/images/I/418ChS9Ns2L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/414laEyo7qL.jpg",
   "specifications": {
+    "Country of Origin": "USA",
     "Manufacturer": "GYP",
-    "Item Weight": "0.86 Kilograms",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "C34",
     "ASIN": "B08LKT86VQ",
     "Customer Reviews": "4.64.6 out of 5 stars(244)4.6 out of 5 stars",
-    "Brand": "YBERA PARIS",
-    "Set Name": "Renew Oil Home Care Kit",
+    "Manufacturer Part Number": "C34",
     "UPC": 768253536904,
-    "Country of Origin": "USA",
-    "Item Form": "Liquid",
-    "Hair Type": "All"
+    "Brand": "YBERA PARIS",
+    "Item Weight": "0.86 Kilograms",
+    "Hair Type": "All",
+    "Set Name": "Renew Oil Home Care Kit",
+    "Item Form": "Liquid"
   },
   "SKU": "JKE-IIYDQTCLKQ4DMVSR",
-  "Name": "Renew Oil Home Care Kit | Anti-age | Powerful Antioxidant | High Emollient Power | Fights Free Radicals | Nutritious Shampoo 8.4 & Conditioner 8.8 & Mask 8.8 Oz Daily Care with Olive Elixir",
-  "Slug": "renew-oil-home-care-kit-anti-age-powerful-antioxidant-high-emollient-power-fights-free-radicals-nutritious-shampoo-84-conditioner-88-mask-88-oz-daily-care-with-olive-elixir",
+  "Name": "Renew Oil Home Care Kit | Anti-age | Powerful Antioxidant |...",
+  "Slug": "renew-oil-home-care-kit-anti-age-powerful-antioxidant-",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "General Fasteners",
   "Images": [
@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41lqydUJg5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71MebgoMoNL.jpg | https://m.media-amazon.com/images/I/410Oq0oMRtL.jpg | https://m.media-amazon.com/images/I/41HcI8mGF9L.jpg | https://m.media-amazon.com/images/I/315OI4m+BUL.jpg | https://m.media-amazon.com/images/I/41VRBxKs8vL.jpg | https://m.media-amazon.com/images/I/418ChS9Ns2L.jpg | https://m.media-amazon.com/images/I/414laEyo7qL.jpg | https://m.media-amazon.com/images/I/41lqydUJg5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹19,680.00",
+  "Discount": 30.01,
+  "SalePrice": 19680,
   "Country": "USA"
 }

@@ -1,0 +1,16 @@
+{
+  "name": "Netvue",
+  "slug": "netvue",
+  "products": [
+    {
+      "sku": "JKE-IIYEEOKCG44EOOBW",
+      "slug": "netvue-birdfy-solar-panel",
+      "name": "Netvue Birdfy Solar Panel",
+      "brand": "Netvue",
+      "category": "Fasteners & Hardware",
+      "price": 5948,
+      "image": "https://m.media-amazon.com/images/I/71ArW2bemML.jpg | https://m.media-amazon.com/images/I/418iSVw9kOL.jpg | https://m.media-amazon.com/images/I/51JqBaduVzL.jpg | https://m.media-amazon.com/images/I/51WSIiY3zRL.jpg | https://m.media-amazon.com/images/I/51cI5+oRAvL.jpg | https://m.media-amazon.com/images/I/41AHMmZfoWL.jpg",
+      "productUrl": "https://www.amazon.in/NETVUE-Type-C-Netvue-Birdfy/dp/B0B9B78G86/ref=sr_1_296"
+    }
+  ]
+}

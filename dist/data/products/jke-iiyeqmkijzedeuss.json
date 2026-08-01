@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQMKIJZEDEUSS",
-  "title": "Faucet Broken Head Extractor Tool | Broken Tap Remover for Rusted, Jammed & Slipped Faucet Heads Easily | Plumbing Repair Tool for Bathroom & Kitchen Taps",
+  "title": "Faucet Broken Head Extractor Tool | Broken Tap Remover for...",
   "brand": "Radhav Mart",
-  "current_price": "₹239.00",
-  "mrp": "₹599",
+  "current_price": 239,
+  "mrp": 599,
   "product_url": "https://www.amazon.in/Radhav-Mart-Extractor-Plumbing-Bathroom/dp/B0H1HNH2RR/ref=sr_1_232",
   "description": "Faucet Broken Head Extractor Tool | Broken Tap Remover for Rusted, Jammed & Slipped Faucet Heads Easily | Plumbing Repair Tool for Bathroom & Kitchen Taps - Distributed/Packaged by Radhav Mart. Product Details: nan",
   "image_urls": [
@@ -25,15 +25,15 @@
   "image_url_7": "https://m.media-amazon.com/images/I/419fD+z7p0L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41DMSKM-7nL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Radhav Mart, Gujarat, India",
     "Item Type Name": "General",
     "ASIN": "‎B0H1HNH2RR",
-    "Product Dimensions": "‎7.5 x 4 x 1 cm; 150 g",
-    "Country of Origin": "‎India"
+    "Product Dimensions": "‎7.5 x 4 x 1 cm; 150 g"
   },
   "SKU": "JKE-IIYEQMKIJZEDEUSS",
-  "Name": "Faucet Broken Head Extractor Tool | Broken Tap Remover for Rusted, Jammed & Slipped Faucet Heads Easily | Plumbing Repair Tool for Bathroom & Kitchen Taps",
-  "Slug": "faucet-broken-head-extractor-tool-broken-tap-remover-for-rusted-jammed-slipped-faucet-heads-easily-plumbing-repair-tool-for-bathroom-kitchen-taps",
+  "Name": "Faucet Broken Head Extractor Tool | Broken Tap Remover for...",
+  "Slug": "faucet-broken-head-extractor-tool-broken-tap-remover-for",
   "Category": "Plumbing",
   "Subcategory1": "General Plumbing",
   "Images": [
@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41DMSKM-7nL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61VyLtO8OjL.jpg | https://m.media-amazon.com/images/I/41lnN1E4qVL.jpg | https://m.media-amazon.com/images/I/5176Rq1XLkL.jpg | https://m.media-amazon.com/images/I/5188vuw80YL.jpg | https://m.media-amazon.com/images/I/51KTPErdRhL.jpg | https://m.media-amazon.com/images/I/419fD+z7p0L.jpg | https://m.media-amazon.com/images/I/41DMSKM-7nL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹239.00",
+  "Discount": 60.1,
+  "SalePrice": 239,
   "Country": "‎India"
 }

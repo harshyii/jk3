@@ -1,0 +1,96 @@
+{
+  "name": "Envie",
+  "slug": "envie",
+  "products": [
+    {
+      "sku": "JKE-IIYDOQ2UJVIDKWCR",
+      "slug": "envie-1100mah-aaa-infinite-plus-rechargable-batteries",
+      "name": "Envie 1100mah AAA Infinite Plus Rechargable Batteries...",
+      "brand": "Envie",
+      "category": "General Hardware",
+      "price": 530,
+      "image": "https://m.media-amazon.com/images/I/7197otmJrkL.jpg | https://m.media-amazon.com/images/I/51g2hdLFtrL.jpg | https://m.media-amazon.com/images/I/51mI0K1I7UL.jpg | https://m.media-amazon.com/images/I/51F4VdRRMTL.jpg",
+      "productUrl": "https://www.amazon.in/Envie-1100mah-Infinite-Rechargable-Battery/dp/B07CTMP5XQ/ref=sr_1_102_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDATSRIJLUYQ2B",
+      "slug": "envie-9v-infinite-ni-mh-300mah-capacity-ready-to-use",
+      "name": "ENVIE® (9v Infinite) Ni-Mh 300mAh Capacity Ready to Use...",
+      "brand": "Envie",
+      "category": "Safety & PPE",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/51yhhWS+VbL.jpg | https://m.media-amazon.com/images/I/41Cc5MktFVL.jpg | https://m.media-amazon.com/images/I/41HuPGlMeiL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/414to7NA29L.jpg | https://m.media-amazon.com/images/I/41N3dI3urSL.jpg | https://m.media-amazon.com/images/I/41hJjU5MRtL.jpg | https://m.media-amazon.com/images/I/41CpZmGTU-L.jpg | https://m.media-amazon.com/images/I/41bPBuJBLIL.jpg",
+      "productUrl": "https://www.amazon.in/Envie-9V-Rechargeable-Chargable-Batteries/dp/B00NQBWLCA/ref=sr_1_303"
+    },
+    {
+      "sku": "JKE-IIYEOTS2GZMDKN2U",
+      "slug": "envie-9v-infinite-900mah-usb-type-c-rechargeable-battery",
+      "name": "Envie 9V Infinite 900mAh USB Type-C Rechargeable Battery,...",
+      "brand": "Envie",
+      "category": "General Hardware",
+      "price": 359,
+      "image": "https://m.media-amazon.com/images/I/417334EEwLL.jpg | https://m.media-amazon.com/images/I/31Nuvzn03mL.jpg | https://m.media-amazon.com/images/I/41nIPiMrt0L.jpg",
+      "productUrl": "https://www.amazon.in/Infinite-900mAh-Rechargeable-Multimeters-Microphones/dp/B0GNZ6X57T/ref=sr_1_6"
+    },
+    {
+      "sku": "JKE-IIYDAQSOGYZEKWSZ",
+      "slug": "envie-aaa11002pl-aaa-rechargeable-batteries",
+      "name": "ENVIE® (AAA11002PL) AAA Rechargeable Batteries,...",
+      "brand": "Envie",
+      "category": "General Hardware",
+      "price": 219,
+      "image": "https://m.media-amazon.com/images/I/61VZYaRCuIL.jpg | https://m.media-amazon.com/images/I/41IQS6JIMIL.jpg | https://m.media-amazon.com/images/I/51NWVA4B2UL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41pMXyzghaL.jpg | https://m.media-amazon.com/images/I/51HNHUHbZBL.jpg | https://m.media-amazon.com/images/I/51lv2idrIqL.jpg | https://m.media-amazon.com/images/I/51+-h+U8P8L.jpg",
+      "productUrl": "https://www.amazon.in/Rechargeable-Batteries-High-Capacity-Pre-Charged-AAA11002PL/dp/B00BN62EZY/ref=sr_1_126_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDAQSOGVJU4RRQ",
+      "slug": "envie-aa10004plni-cd-quick-rechargeable-aa-1000mah-ni-cd",
+      "name": "ENVIE® (AA10004PLNi-CD) Quick Rechargeable AA 1000mAh Ni-CD...",
+      "brand": "Envie",
+      "category": "Safety & PPE",
+      "price": 218,
+      "image": "https://m.media-amazon.com/images/I/71CO8XOhKVL.jpg | https://m.media-amazon.com/images/I/41tcZ6fcJML.jpg | https://m.media-amazon.com/images/I/51Cpx8UMygL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/415uu2KRQiL.jpg | https://m.media-amazon.com/images/I/512+XYeFJJL.jpg | https://m.media-amazon.com/images/I/41aVi9Y+ZCL.jpg | https://m.media-amazon.com/images/I/519vbVthjVL.jpg | https://m.media-amazon.com/images/I/51QpfTZog3L.jpg",
+      "productUrl": "https://www.amazon.in/Envie-1000-4PL-Ni-CD-Rechargeable/dp/B00BN5SNF0/ref=sr_1_82_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDQTBZI5MUUWKN",
+      "slug": "envie-ecr11mc-2800-4pl-sprintx-ultra-fast-rechargeable",
+      "name": "ENVIE® (ECR11MC + 2800 4PL) SprintX Ultra Fast Rechargeable...",
+      "brand": "Envie",
+      "category": "Safety & PPE",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/71NEqqoSE2L.jpg | https://m.media-amazon.com/images/I/41Z2K2lW+-L.jpg | https://m.media-amazon.com/images/I/61oWnQ4kQfL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41KR7Nu5nQL.jpg | https://m.media-amazon.com/images/I/51TaFUDoBzL.jpg | https://m.media-amazon.com/images/I/41XVu75jQCL.jpg | https://m.media-amazon.com/images/I/51RAz1NetoL.jpg | https://m.media-amazon.com/images/I/51ap4cmvFkL.jpg",
+      "productUrl": "https://www.amazon.in/Charger-Rechargeable-Batteries-4xAA2800-Protection/dp/B08L9GYJYM/ref=sr_1_120"
+    },
+    {
+      "sku": "JKE-IIYEOTS2JQ4EGVSS",
+      "slug": "envie-ecr-32-curvv-ni-mh-battery-charger-for-aaaaa",
+      "name": "Envie (ECR 32 CURVV) Ni-MH Battery Charger for AA/AAA...",
+      "brand": "Envie",
+      "category": "General Hardware",
+      "price": 262,
+      "image": "https://m.media-amazon.com/images/I/51hmQnUkF6L.jpg | https://m.media-amazon.com/images/I/31XRKodYIBL.jpg",
+      "productUrl": "https://www.amazon.in/Rechargeable-Batteries-Indicator-Overcharge-Protection/dp/B0GNZL8CVR/ref=sr_1_161"
+    },
+    {
+      "sku": "JKE-IIYDOQ2UKBJEUNRV",
+      "slug": "envie-1100mah-aaa-infinite-plus-rechargable-battery-pack",
+      "name": "Envie 1100mah AAA Infinite Plus Rechargable Battery (Pack...",
+      "brand": "Envie",
+      "category": "General Hardware",
+      "price": 900,
+      "image": "https://m.media-amazon.com/images/I/71pt6sh7sVL.jpg | https://m.media-amazon.com/images/I/51hYyMYwQbL.jpg | https://m.media-amazon.com/images/I/51mI0K1I7UL.jpg | https://m.media-amazon.com/images/I/51F4VdRRMTL.jpg",
+      "productUrl": "https://www.amazon.in/Envie-1100mah-Infinite-Rechargable-Battery/dp/B07CTPRJ65/ref=sr_1_122"
+    },
+    {
+      "sku": "JKE-IIYDCNBUIJCUUMCX",
+      "slug": "envie-4-pcs-aaa-rechargeable-infinite-ready-to-use-800mah",
+      "name": "Envie 4 pcs AAA Rechargeable Infinite Ready To Use 800mAh...",
+      "brand": "Envie",
+      "category": "Safety & PPE",
+      "price": 480,
+      "image": "https://m.media-amazon.com/images/I/71XY1VsI3mL.jpg | https://m.media-amazon.com/images/I/415flcBxQVL.jpg | https://m.media-amazon.com/images/I/41KPJeSblrL.jpg | https://m.media-amazon.com/images/I/51dIBnbRrEL.jpg | https://m.media-amazon.com/images/I/41k6Qs6xYqL.jpg | https://m.media-amazon.com/images/I/41btIauTDxL.jpg",
+      "productUrl": "https://www.amazon.in/Envie-Rechargeable-Infinite-800mAh-remotes/dp/B0144BEJ0W/ref=sr_1_134_mod_primary_new"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Shinecare",
+  "slug": "shinecare",
+  "products": [
+    {
+      "sku": "JKE-IIYDOVCCKFEEOWCK",
+      "slug": "microfiber-car-cleaning-cloth-towel-multicolor-pack-of-5",
+      "name": "Microfiber Car Cleaning Cloth Towel -Multicolor (Pack of 5)",
+      "brand": "Shinecare",
+      "category": "General Hardware",
+      "price": 348,
+      "image": "https://m.media-amazon.com/images/I/71he3zXiklL.jpg | https://m.media-amazon.com/images/I/51u5VvoEbcL.jpg | https://m.media-amazon.com/images/I/41eNBIXnknL.jpg | https://m.media-amazon.com/images/I/41bg7esCn-L.jpg | https://m.media-amazon.com/images/I/51D5FVQM95L.jpg | https://m.media-amazon.com/images/I/31aus-kbmuL.jpg",
+      "productUrl": "https://www.amazon.in/Shinecare-Microfiber-Cleaning-Cloth-Multicolor/dp/B07TBQHGXJ/ref=sr_1_57"
+    },
+    {
+      "sku": "JKE-IIYDOVBZJQZVGVCN",
+      "slug": "microfiber-car-cleaning-cloth-towel-multicolor-pack-of-5",
+      "name": "Microfiber Car Cleaning Cloth Towel -Multicolor (Pack of 5)",
+      "brand": "Shinecare",
+      "category": "General Hardware",
+      "price": 341,
+      "image": "https://m.media-amazon.com/images/I/61-rBvqaWJL.jpg | https://m.media-amazon.com/images/I/51CfaRjPtEL.jpg | https://m.media-amazon.com/images/I/51D5FVQM95L.jpg | https://m.media-amazon.com/images/I/41bg7esCn-L.jpg | https://m.media-amazon.com/images/I/31aus-kbmuL.jpg | https://m.media-amazon.com/images/I/412pdRBlIAL.jpg | https://m.media-amazon.com/images/I/41mIjzClWUL.jpg",
+      "productUrl": "https://www.amazon.in/Shinecare-Microfiber-Cleaning-Cloth-Multicolor/dp/B07T9L3STM/ref=sr_1_60"
+    }
+  ]
+}

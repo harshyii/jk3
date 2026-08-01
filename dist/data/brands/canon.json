@@ -1,0 +1,16 @@
+{
+  "name": "Canon",
+  "slug": "canon",
+  "products": [
+    {
+      "sku": "JKE-IIYDAVBTIVJVEVCV",
+      "slug": "canon-lp-e17-battery-pack",
+      "name": "Canon LP-E17 Battery Pack",
+      "brand": "Canon",
+      "category": "General Hardware",
+      "price": 3099,
+      "image": "https://m.media-amazon.com/images/I/81TgTI3c5cL.jpg | https://m.media-amazon.com/images/I/41hJSJMBltL.jpg | https://m.media-amazon.com/images/I/51ra6mqjwOL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41jIiGYG2ZL.jpg | https://m.media-amazon.com/images/I/31tePTn61IL.jpg",
+      "productUrl": "https://www.amazon.in/Canon-9967B002-LP-E17-Battery-Pack/dp/B00T3ESRTU/ref=sr_1_95"
+    }
+  ]
+}

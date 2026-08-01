@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNSQGM3UETCI",
-  "title": "Solar Bird Feeder House Roofed Hanging Bird Feeder House for Outdoor White",
+  "title": "Solar Bird Feeder House Roofed Hanging Bird Feeder House...",
   "brand": "Loom Tree",
-  "current_price": "₹5,325.00",
-  "mrp": "₹8,684",
+  "current_price": 5325,
+  "mrp": 8684,
   "product_url": "https://www.amazon.in/LOOM-TREE-Feeder-Hanging-Outdoor/dp/B0H6P37BLH/ref=sr_1_61",
   "description": "Solar Bird Feeder House Roofed Hanging Bird Feeder House for Outdoor White - Distributed/Packaged by Loom Tree. Product Details: Description:【Design】: This Hanging Bird Feeder House Features A House-Shaped Body With A Metal Frame, Mesh Side Panels, A Dark Roof, And A Small Light-Collecting Panel On Top For A Balanced Outdoor Look.【Function】: Designed As A Bird Feeder, It Provides A Central Opening, Wide Base Tray, And Small Side Cups To Help Hold And Present In A Practical Feeding Layout.【Construction】: The Solar Bird Feeder House Combines Sturdy Metal Framing With Metal Mesh Bird Feeder Side Panels, Creating An Open Structure That Is Easy To Place In A Garden Or Yard.【Display Value】: As A Garden Ornament, This Hanging Bird Feeder House Adds A Decorative Touch While Serving A Useful Purpose, Making It Suitable For Outdoor Areas With A Theme.【Purpose】: Built For Hanging Use, The Roofed Hanging Bird Feeder House Is Intended To Attract Birds And Create A Convenient Feeding Point With A Visible, Elevated Design.Specification:Material: IronPackage Includes:1 Outdoor Bird FeederNote:Please Allow Slightly Errors Due To Manual Measurement And Different Monitors.",
   "image_urls": [
@@ -21,15 +21,15 @@
   "image_url_5": "https://m.media-amazon.com/images/I/51IgiBo4wYL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/51F7Cdst4-L.jpg",
   "specifications": {
+    "Country of Origin": "‎Hong Kong",
     "Manufacturer": "‎Salesio Labs ,Salesio.labs@outlook.com, 9355965055",
     "Item Type Name": "General",
     "ASIN": "‎B0H6P37BLH",
-    "Item model number": "‎60097646SLAB",
-    "Country of Origin": "‎Hong Kong"
+    "Item model number": "‎60097646SLAB"
   },
   "SKU": "JKE-IIYEQNSQGM3UETCI",
-  "Name": "Solar Bird Feeder House Roofed Hanging Bird Feeder House for Outdoor White",
-  "Slug": "solar-bird-feeder-house-roofed-hanging-bird-feeder-house-for-outdoor-white",
+  "Name": "Solar Bird Feeder House Roofed Hanging Bird Feeder House...",
+  "Slug": "solar-bird-feeder-house-roofed-hanging-bird-feeder-house",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51F7Cdst4-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61R41yIQdSL.jpg | https://m.media-amazon.com/images/I/31sVhaJKD8L.jpg | https://m.media-amazon.com/images/I/51AGx7IE+qL.jpg | https://m.media-amazon.com/images/I/51IgiBo4wYL.jpg | https://m.media-amazon.com/images/I/51F7Cdst4-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹5,325.00",
+  "Discount": 38.68,
+  "SalePrice": 5325,
   "Country": "‎Hong Kong"
 }

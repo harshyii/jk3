@@ -1,0 +1,16 @@
+{
+  "name": "Dirt Drift",
+  "slug": "dirt-drift",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNJWIY3DOVRU",
+      "slug": "foam-rush-car-wash-shampoo-500ml-ph-neutral-high-foam",
+      "name": "Foam Rush Car Wash Shampoo 500ml | pH Neutral | High Foam...",
+      "brand": "Dirt Drift",
+      "category": "Power Tools",
+      "price": 585,
+      "image": "https://m.media-amazon.com/images/I/51SZfiW2n6L.jpg | https://m.media-amazon.com/images/I/3121vDMCybL.jpg | https://m.media-amazon.com/images/I/41OCMRrwJUL.jpg | https://m.media-amazon.com/images/I/41MFeI3FvDL.jpg | https://m.media-amazon.com/images/I/41CDfm6blJL.jpg | https://m.media-amazon.com/images/I/312OHByOBWL.jpg",
+      "productUrl": "https://www.amazon.in/DRIFT-Shampoo-Neutral-Formula-Finish/dp/B0H56F67V4/ref=sr_1_305"
+    }
+  ]
+}

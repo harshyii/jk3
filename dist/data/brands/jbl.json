@@ -1,0 +1,16 @@
+{
+  "name": "Jbl",
+  "slug": "jbl",
+  "products": [
+    {
+      "sku": "JKE-IIYEOVZZGQYTINCI",
+      "slug": "jbl-commercial-cshm10-handheld-dynamic-unidirectional",
+      "name": "JBL Commercial CSHM10 Handheld Dynamic Unidirectional...",
+      "brand": "Jbl",
+      "category": "Electrical & Wiring",
+      "price": 2650,
+      "image": "https://m.media-amazon.com/images/I/6125hFiV7SL.jpg | https://m.media-amazon.com/images/I/31U1SB301rL.jpg | https://m.media-amazon.com/images/I/41cC61GPX8L.jpg | https://m.media-amazon.com/images/I/31JnkOPqOcL.jpg",
+      "productUrl": "https://www.amazon.in/JBL-Commercial-Handheld-Unidirectional-Microphone/dp/B0GW94144H/ref=sr_1_268"
+    }
+  ]
+}

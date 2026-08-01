@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNSWJA2VGM2C",
-  "title": "Solar Water Heater Model | Working Renewable Energy Demonstration Kit | Solar Thermal Heating Educational Equipment | Physics & Environmental Science Laboratory Teaching Model |",
+  "title": "Solar Water Heater Model | Working Renewable Energy...",
   "brand": "Witeg",
-  "current_price": "₹3,499.00",
-  "mrp": "₹4,999",
+  "current_price": 3499,
+  "mrp": 4999,
   "product_url": "https://www.amazon.in/Renewable-Demonstration-Educational-Environmental-Laboratory/dp/B0H6VH5S3B/ref=sr_1_86",
   "description": "Solar Water Heater Model | Working Renewable Energy Demonstration Kit | Solar Thermal Heating Educational Equipment | Physics & Environmental Science Laboratory Teaching Model | - Distributed/Packaged by Witeg. Product Details: Solar Water Heater Model Is A High-Quality Educational Demonstration Kit Designed To Explain The Working Principle Of Solar Water Heating Systems. The Model Demonstrates How Solar Radiation Is Absorbed By A Black-Coated Solar Collector And Converted Into Thermal Energy To Heat Water Stored In The Tank. Students Can Observe Heat Transfer, Water Circulation, And Renewable Energy Applications Through Practical Demonstration. Manufactured From Durable Laboratory-Grade Materials, This Model Is Ideal For Physics, Environmental Science, Engineering, And Renewable Energy Laboratories. Its Compact Design Makes It Suitable For Classroom Demonstrations, Laboratory Experiments, Science Fairs, And STEM Learning Activities.",
   "image_urls": [
@@ -15,21 +15,21 @@
   "image_url_2": "https://m.media-amazon.com/images/I/61tl9yoa0WL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/3117CR75B7L.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Witeg,Ambala Cantt,Haryana 133001",
-    "Item Weight": "‎2 kg",
     "Item Type Name": "General",
+    "Colour": "‎Multi Colour",
+    "Special Feature": "‎Durable Laboratory Construction, Solar Thermal Heating Principle, Working Demonstration Model",
     "Brand": "‎WITEG",
     "Model number": "‎Solar-Water-Heater-1",
-    "Colour": "‎Multi Colour",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎2 kg",
     "Item model number": "‎Solar-Water-Heater-1",
-    "Country of Origin": "‎India",
-    "Special Feature": "‎Durable Laboratory Construction, Solar Thermal Heating Principle, Working Demonstration Model",
     "Are batteries included?": "‎No"
   },
   "SKU": "JKE-IIYEQNSWJA2VGM2C",
-  "Name": "Solar Water Heater Model | Working Renewable Energy Demonstration Kit | Solar Thermal Heating Educational Equipment | Physics & Environmental Science Laboratory Teaching Model |",
-  "Slug": "solar-water-heater-model-working-renewable-energy-demonstration-kit-solar-thermal-heating-educational-equipment-physics-environmental-science-laboratory-teaching-model-",
+  "Name": "Solar Water Heater Model | Working Renewable Energy...",
+  "Slug": "solar-water-heater-model-working-renewable-energy",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/3117CR75B7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tl9yoa0WL.jpg | https://m.media-amazon.com/images/I/3117CR75B7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹3,499.00",
+  "Discount": 30.01,
+  "SalePrice": 3499,
   "Country": "‎India"
 }

@@ -4,43 +4,1473 @@
   "products": [
     {
       "sku": "JKE-IIYEQNZSI5CFGMKX",
-      "slug": "dong-cheng-wire-stripper-7-175mm-multi-gauge-stripping-built-in-wire-cutter-wire-stripper-for-electrician-electronics-work-dong-cheng-hand-tools",
-      "name": "Dong Cheng Wire Stripper 7\" / 175mm — Multi-Gauge Stripping | Built-In Wire Cutter | Wire Stripper for Electrician & Electronics Work | Dong Cheng Hand Tools",
+      "slug": "dong-cheng-wire-stripper-7-175mm-multi-gauge-stripping",
+      "name": "Dong Cheng Wire Stripper 7\" / 175mm — Multi-Gauge Stripping...",
       "brand": "Dong Cheng",
       "category": "Hand Tools",
-      "price": "₹232.00",
+      "price": 232,
       "image": "https://m.media-amazon.com/images/I/61apIF-tnkL.jpg | https://m.media-amazon.com/images/I/31QkFM7YKML.jpg | https://m.media-amazon.com/images/I/41KQQOjhviL.jpg",
       "productUrl": "https://www.amazon.in/Dong-Cheng-Stripper-175mm-Built/dp/B0H72GDS1W/ref=sr_1_198"
     },
     {
+      "sku": "JKE-IIYEOTCIGRBFQWKO",
+      "slug": "dong-cheng-20v-brushless-cordless-impact-wrench-kit-380w",
+      "name": "Dong Cheng 20V Brushless Cordless Impact Wrench Kit, 380W...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 5699,
+      "image": "https://m.media-amazon.com/images/I/71KBPc5BKZL.jpg | https://m.media-amazon.com/images/I/41Yq2sy9MgL.jpg | https://m.media-amazon.com/images/I/51ZxS5uuQcL.jpg | https://m.media-amazon.com/images/I/51NiL24xjbL.jpg | https://m.media-amazon.com/images/I/51UgoAN7q6L.jpg | https://m.media-amazon.com/images/I/51JnpW9zR8L.jpg | https://m.media-amazon.com/images/I/519OlxYtFFL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Brushless-Cordless-Working/dp/B0GLH4BXYN/ref=sr_1_285"
+    },
+    {
       "sku": "JKE-IIYEOTBXK5FFUS22",
-      "slug": "dongcheng-dcjz1202e-cordless-drill-driver-10mm-12v-li-ion-battery-drill-machine-with-2-x-20ah-batteries-35nm-torque-2-speed-for-drilling-screw-driving",
-      "name": "DongCheng DCJZ1202E Cordless Drill Driver, 10mm, 12V Li-Ion Battery Drill Machine with 2 x 2.0Ah Batteries, 35Nm Torque, 2-Speed for Drilling & Screw Driving",
+      "slug": "dongcheng-dcjz1202e-cordless-drill-driver-10mm-12v-li-ion",
+      "name": "DongCheng DCJZ1202E Cordless Drill Driver, 10mm, 12V Li-Ion...",
       "brand": "Dong Cheng",
       "category": "Power Tools",
-      "price": "₹2,367.00",
+      "price": 2367,
       "image": "https://m.media-amazon.com/images/I/61ETy8O9ktL.jpg | https://m.media-amazon.com/images/I/41-bs4WOAJL.jpg | https://m.media-amazon.com/images/I/41YIsNhVJEL.jpg | https://m.media-amazon.com/images/I/51l2peQcolL.jpg | https://m.media-amazon.com/images/I/41-mpVw9jOL.jpg | https://m.media-amazon.com/images/I/41Or9Uw7EkL.jpg | https://m.media-amazon.com/images/I/41EQtdAaz6L.jpg",
       "productUrl": "https://www.amazon.in/DongCheng-DCJZ1202E-Cordless-Batteries-Drilling/dp/B0GL7WJZKZ/ref=sr_1_29"
     },
     {
-      "sku": "JKE-IIYEOTCIGRBFQWKO",
-      "slug": "dong-cheng-20v-brushless-cordless-impact-wrench-kit-380w-motor-300nm-max-torque-2-working-modea-210300nm-4000mah-battery-fast-charger-auto-stop-reverse-led-work-light",
-      "name": "Dong Cheng 20V Brushless Cordless Impact Wrench Kit, 380W Motor, 300N·m Max Torque, 2 Working Modea (210/300N·m), 4000mAh Battery + Fast Charger, Auto Stop Reverse, LED Work Light",
-      "brand": "Dong Cheng",
-      "category": "Hand Tools",
-      "price": "₹5,699.00",
-      "image": "https://m.media-amazon.com/images/I/71KBPc5BKZL.jpg | https://m.media-amazon.com/images/I/41Yq2sy9MgL.jpg | https://m.media-amazon.com/images/I/51ZxS5uuQcL.jpg | https://m.media-amazon.com/images/I/51NiL24xjbL.jpg | https://m.media-amazon.com/images/I/51UgoAN7q6L.jpg | https://m.media-amazon.com/images/I/51JnpW9zR8L.jpg | https://m.media-amazon.com/images/I/519OlxYtFFL.jpg",
-      "productUrl": "https://www.amazon.in/Dong-Cheng-Brushless-Cordless-Working/dp/B0GLH4BXYN/ref=sr_1_43"
-    },
-    {
       "sku": "JKE-IIYEQN2GIZNDOWKG",
-      "slug": "dongcheng-cordless-drill-12-v-10-mm-35-nm-torque-2-speed-mode-1-x-battery-1-x-charger-1-x-multipurpose-drill-bit-1-x-screwdriver-bit-1-x-pair-of-hand-gloves-dcjz1202-e-",
-      "name": "DongCheng Cordless Drill 12 V | 10 mm | 35 N.m Torque | 2 Speed Mode | 1 x Battery | 1 x Charger | 1 x MultiPurpose Drill Bit | 1 x ScrewDriver Bit | 1 x Pair Of Hand Gloves | DCJZ1202 E |",
+      "slug": "dongcheng-cordless-drill-12-v-10-mm-35-nm-torque-2",
+      "name": "DongCheng Cordless Drill 12 V | 10 mm | 35 N.m Torque | 2...",
       "brand": "Dong Cheng",
       "category": "Power Tools",
-      "price": "₹2,299.00",
+      "price": 2299,
       "image": "https://m.media-amazon.com/images/I/71pjqe-YGqL.jpg | https://m.media-amazon.com/images/I/41lvY+Xr9CL.jpg | https://m.media-amazon.com/images/I/51tlX9Wn+0L.jpg | https://m.media-amazon.com/images/I/51D63q+6-sL.jpg | https://m.media-amazon.com/images/I/41jcVScL5LL.jpg | https://m.media-amazon.com/images/I/41H7+AAEGmL.jpg | https://m.media-amazon.com/images/I/41yh+YYS7hL.jpg",
       "productUrl": "https://www.amazon.in/DongCheng-Cordless-MultiPurpose-ScrewDriver-DCJZ1202/dp/B0H7FFZ7YF/ref=sr_1_167"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBE4NSD",
+      "slug": "dongcheng-djz10a-corded-electric-drill-10mm-300w-black",
+      "name": "DONGCHENG DJZ10A Corded Electric Drill (10mm, 300W, Black)",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 1764,
+      "image": "https://m.media-amazon.com/images/I/41WsmMVbI4L.jpg | https://m.media-amazon.com/images/I/41WsmMVbI4L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DJZ10A-Electric-Drill-10mm/dp/B01HB4BN6C/ref=sr_1_150"
+    },
+    {
+      "sku": "JKE-IIYEOTCIGVBU4V2Z",
+      "slug": "dong-cheng-20v-brushless-cordless-impact-wrench-kit-380w",
+      "name": "Dong Cheng 20V Brushless Cordless Impact Wrench Kit, 380W...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 7219,
+      "image": "https://m.media-amazon.com/images/I/71qQR77bUdL.jpg | https://m.media-amazon.com/images/I/51-Cz-HCNOL.jpg | https://m.media-amazon.com/images/I/51S6KhoLMxL.jpg | https://m.media-amazon.com/images/I/51L6wLcL-WL.jpg | https://m.media-amazon.com/images/I/51NiL24xjbL.jpg | https://m.media-amazon.com/images/I/51UgoAN7q6L.jpg | https://m.media-amazon.com/images/I/51JnpW9zR8L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Brushless-2%C3%974000mAh-Batteries/dp/B0GLH5CNWY/ref=sr_1_208"
+    },
+    {
+      "sku": "JKE-IIYEOTCHLE3DKRBT",
+      "slug": "dongcheng-12v-cordless-drill-machine-for-home-use-35nm-max",
+      "name": "DongCheng 12V Cordless Drill Machine for Home Use, 35Nm Max...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3514,
+      "image": "https://m.media-amazon.com/images/I/81wy8oB95yL.jpg | https://m.media-amazon.com/images/I/51iKzv95zZL.jpg | https://m.media-amazon.com/images/I/51biFf1rZQL.jpg | https://m.media-amazon.com/images/I/51W9UsoTYoL.jpg | https://m.media-amazon.com/images/I/510M8rLDpNL.jpg | https://m.media-amazon.com/images/I/519d7-phdpL.jpg | https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Machine-2000mAh-2-Variable/dp/B0GLGY65D3/ref=sr_1_270"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKEZEGWBU",
+      "slug": "dong-cheng-combination-pliers-6-150mm-forged-55-steel",
+      "name": "Dong Cheng Combination Pliers 6\" / 150mm — Forged 55# Steel...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 291,
+      "image": "https://m.media-amazon.com/images/I/616lG6C9nyL.jpg | https://m.media-amazon.com/images/I/31RrJWBx75L.jpg | https://m.media-amazon.com/images/I/413raoOVv4L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Combination-Pliers-150mm/dp/B0H71Q2CX4/ref=sr_1_306"
+    },
+    {
+      "sku": "JKE-IIYEOU2UINFFMUBR",
+      "slug": "dong-cheng-20v-cordless-angle-grinder-cordless-angle",
+      "name": "Dong Cheng 20V Cordless Angle Grinder (Cordless Angle...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 6999,
+      "image": "https://m.media-amazon.com/images/I/81kLofQ6GTL.jpg | https://m.media-amazon.com/images/I/511KAw3r6uL.jpg | https://m.media-amazon.com/images/I/51mhU57N5aL.jpg | https://m.media-amazon.com/images/I/51M9shVBCML.jpg | https://m.media-amazon.com/images/I/51LBmCBPsNL.jpg | https://m.media-amazon.com/images/I/51V3xv8NSbL.jpg | https://m.media-amazon.com/images/I/414BJFfwdYL.jpg | https://m.media-amazon.com/images/I/51Kfa7TC0VL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Cordless-Grinder-Battery/dp/B0GSTCJVP1/ref=sr_1_185"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBEYOCD",
+      "slug": "dongcheng-dqb2000-heat-gun-2000w",
+      "name": "Dongcheng Dqb2000 Heat Gun 2000W",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 1441,
+      "image": "https://m.media-amazon.com/images/I/41ek6g8EUGL.jpg | https://m.media-amazon.com/images/I/41ek6g8EUGL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DQB2000-Heat-Gun-2000W/dp/B01HB4BL8C/ref=sr_1_96"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGFJFCNRR",
+      "slug": "dong-cheng-hex-key-set-9set-folding-multi-piece-allen-key",
+      "name": "Dong Cheng Hex Key Set 9set — Folding Multi-Piece Allen Key...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 284,
+      "image": "https://m.media-amazon.com/images/I/714xZ+CKkOL.jpg | https://m.media-amazon.com/images/I/31cDNGE1tXL.jpg | https://m.media-amazon.com/images/I/41sDKuaWrKL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Hex-Key-9set/dp/B0H721RQ61/ref=sr_1_131"
+    },
+    {
+      "sku": "JKE-IIYEOTC2K5MUWU2H",
+      "slug": "dongcheng-electric-wood-trimmer-635mm-550w-powerful",
+      "name": "DongCheng Electric Wood Trimmer, 6.35mm 550W Powerful...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3649,
+      "image": "https://m.media-amazon.com/images/I/71n-T0LIzQL.jpg | https://m.media-amazon.com/images/I/41+c-EIRVqL.jpg | https://m.media-amazon.com/images/I/31e1H7c0deL.jpg | https://m.media-amazon.com/images/I/31DGwdXyAUL.jpg | https://m.media-amazon.com/images/I/31b5FjxDm9L.jpg | https://m.media-amazon.com/images/I/413Vv14Uq4L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Trimmer-Powerful-Aluminium/dp/B0GLZWYKSG/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFAVSB",
+      "slug": "dong-cheng-electric-channel-hard-anodized-aluminium-cutter",
+      "name": "Dong Cheng Electric Channel Hard-Anodized Aluminium Cutter...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 12400,
+      "image": "https://m.media-amazon.com/images/I/61HGkDUOntL.jpg | https://m.media-amazon.com/images/I/4128HSHfUUL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Electric-Hard-Anodized-Aluminium/dp/B01HB4BPVA/ref=sr_1_163"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGNDVMNSX",
+      "slug": "dong-cheng-pump-pliers-12-300mm-multi-position",
+      "name": "Dong Cheng Pump Pliers 12\" / 300mm — Multi-Position...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 673,
+      "image": "https://m.media-amazon.com/images/I/61dxgHJ-m9L.jpg | https://m.media-amazon.com/images/I/21nsQjY2weL.jpg | https://m.media-amazon.com/images/I/41LyrCUnswL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Pump-Pliers-300mm/dp/B0H723GV6W/ref=sr_1_149"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBEWQ2P",
+      "slug": "dongcheng-1240-w-plastic-corded-electric-marble-cutter-110",
+      "name": "DONGCHENG 1240 W Plastic Corded Electric Marble Cutter (110...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3470,
+      "image": "https://m.media-amazon.com/images/I/51gvcDrUhFL.jpg | https://m.media-amazon.com/images/I/51gvcDrUhFL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-Plastic-Corded-Electric-Marble/dp/B01HB4BKCO/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-IIYEOTCZHFBEIUCY",
+      "slug": "dongcheng-6-mm-electric-drill-machine-with-13-pcs-drill-bit",
+      "name": "DongCheng 6 mm Electric Drill Machine with 13 Pcs Drill Bit...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2349,
+      "image": "https://m.media-amazon.com/images/I/31R8leRmqrL.jpg | https://m.media-amazon.com/images/I/31R8leRmqrL.jpg | https://m.media-amazon.com/images/I/41mpgAOu34L.jpg | https://m.media-amazon.com/images/I/41XVXkT60GL.jpg | https://m.media-amazon.com/images/I/41rsXOGPpXL.jpg | https://m.media-amazon.com/images/I/4119BgbcMlL.jpg | https://m.media-amazon.com/images/I/41PrhoymSPL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Machine-Carbon-Drilling/dp/B0GLY9BDPX/ref=sr_1_93"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKNJEQUJX",
+      "slug": "dong-cheng-f-clamp-with-plastic-handle-50150mm-forged",
+      "name": "Dong Cheng F Clamp With Plastic Handle 50×150mm — Forged...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 281,
+      "image": "https://m.media-amazon.com/images/I/61dfHHPqBdL.jpg | https://m.media-amazon.com/images/I/2105KQMKdML.jpg | https://m.media-amazon.com/images/I/41w-56pReDL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Plastic-Handle-50%C3%97150mm/dp/B0H71SRHQ7/ref=sr_1_183"
+    },
+    {
+      "sku": "JKE-IIYEOU2UIRLEGURZ",
+      "slug": "dong-cheng-20v-cordless-angle-grinder-cordless-angle",
+      "name": "Dong Cheng 20V Cordless Angle Grinder (Cordless Angle...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/81-HQXONnuL.jpg | https://m.media-amazon.com/images/I/51CPVQHFkKL.jpg | https://m.media-amazon.com/images/I/51mhU57N5aL.jpg | https://m.media-amazon.com/images/I/51M9shVBCML.jpg | https://m.media-amazon.com/images/I/51LBmCBPsNL.jpg | https://m.media-amazon.com/images/I/51HsPhXfF-L.jpg | https://m.media-amazon.com/images/I/414BJFfwdYL.jpg | https://m.media-amazon.com/images/I/518cyDDSJrL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Cordless-Grinder-Batteries/dp/B0GSTDVCR9/ref=sr_1_69"
+    },
+    {
+      "sku": "JKE-IIYEOTSTHFBFMOJW",
+      "slug": "dongcheng-26mm-rotary-hammer-drill-800w-electric-sds-plus",
+      "name": "DongCheng 26mm Rotary Hammer Drill 800W Electric SDS Plus...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 5899,
+      "image": "https://m.media-amazon.com/images/I/517j62ytkWL.jpg | https://m.media-amazon.com/images/I/31E20JEvW2L.jpg | https://m.media-amazon.com/images/I/31Ie17HyKTL.jpg | https://m.media-amazon.com/images/I/21a5EnvNH5L.jpg | https://m.media-amazon.com/images/I/31lH-Qdov+L.jpg | https://m.media-amazon.com/images/I/41Szm7cpjML.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Function-Concrete-Auxiliary/dp/B0GNS9BV96/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-IIYEOWSGHBGUESBT",
+      "slug": "dongcheng-electric-circular-saw-7-1100w-0-45-",
+      "name": "DongCheng Electric Circular Saw 7\" | 1100W | 0-45° |...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/51LIZzbEaiL.jpg | https://m.media-amazon.com/images/I/51LIZzbEaiL.jpg | https://m.media-amazon.com/images/I/41dHc88yPtL.jpg | https://m.media-amazon.com/images/I/31CF7kI81qL.jpg | https://m.media-amazon.com/images/I/310t+QX+X2L.jpg | https://m.media-amazon.com/images/I/3128oT6IpJL.jpg | https://m.media-amazon.com/images/I/411MYbOd-RL.jpg | https://m.media-amazon.com/images/I/31GHguFdQCL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Adjustable-Accesories-DMY02-185/dp/B0GZF8MBH3/ref=sr_1_75"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGFLUWVSZ",
+      "slug": "dong-cheng-hand-riveter-9-230mm-cr-mo-alloy-jaw-",
+      "name": "Dong Cheng Hand Riveter 9\" / 230mm — CR-Mo Alloy Jaw |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 334,
+      "image": "https://m.media-amazon.com/images/I/61+hr5d43iL.jpg | https://m.media-amazon.com/images/I/31wAo4GcbNL.jpg | https://m.media-amazon.com/images/I/41hzTRlm+yL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Riveter-230mm-Built/dp/B0H721WKVY/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYEOTBXLFEEQRZU",
+      "slug": "dongcheng13-mm-electric-drill-machine-with-accessories-",
+      "name": "DongCheng13 mm Electric Drill Machine with Accessories |...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/61k+vZLSYNL.jpg | https://m.media-amazon.com/images/I/31J+OfmcsiL.jpg | https://m.media-amazon.com/images/I/31SdI0P4c1L.jpg | https://m.media-amazon.com/images/I/41Koo+sG2hL.jpg | https://m.media-amazon.com/images/I/41JMLebS6fL.jpg | https://m.media-amazon.com/images/I/41R-uVCh4FL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng13-Electric-Accessories-Portable-Workshop/dp/B0GL7YHHG4/ref=sr_1_139"
+    },
+    {
+      "sku": "JKE-IIYDOQSGHFBUESSN",
+      "slug": "dongcheng-dca-dzz90-diamond-drill-with-water-source-blue",
+      "name": "Dongcheng DCA DZZ90 Diamond Drill with Water Source (Blue)",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 7951,
+      "image": "https://m.media-amazon.com/images/I/510FdBP6UuL.jpg | https://m.media-amazon.com/images/I/41czbFzQQ5L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZZ90-Diamond-Drill-Source/dp/B07BF9CBJM/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-IIYDOQSGGRKDKUKD",
+      "slug": "dongcheng-dqu160-300w-electric-mixer-blue",
+      "name": "Dongcheng DQU160 300W Electric Mixer (Blue)",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3745,
+      "image": "https://m.media-amazon.com/images/I/41ZZD9EjrKL.jpg | https://m.media-amazon.com/images/I/31p2F2jwqBL.jpg | https://m.media-amazon.com/images/I/21NG+FNucLL.jpg | https://m.media-amazon.com/images/I/315QDmeakdL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DQU160-Electric-Mixer-Blue/dp/B07BF4T5QC/ref=sr_1_67"
+    },
+    {
+      "sku": "JKE-IIYEOVSWLE3UQWRR",
+      "slug": "dongcheng-machinist-hammer-fiberglass-handle-red-blue",
+      "name": "DongCheng Machinist Hammer | Fiberglass Handle | Red & Blue...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/412gK-ZsZ7L.jpg | https://m.media-amazon.com/images/I/21qdfFHZoGL.jpg | https://m.media-amazon.com/images/I/21noWREEq-L.jpg | https://m.media-amazon.com/images/I/21MCvKOhbkL.jpg | https://m.media-amazon.com/images/I/41bHaATGTXL.jpg | https://m.media-amazon.com/images/I/41mBHFWEorL.jpg | https://m.media-amazon.com/images/I/41oLdD2k8fL.jpg | https://m.media-amazon.com/images/I/41k74eCLw0L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Machinist-Hammer-Fiberglass-D100601/dp/B0GVVY7HZ1/ref=sr_1_100"
+    },
+    {
+      "sku": "JKE-IIYEQNCCLJDFEVCR",
+      "slug": "dongcheng-electric-concrete-vibrator-1200w-cast",
+      "name": "DongCheng Electric Concrete Vibrator | 1200W | Cast...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2900,
+      "image": "https://m.media-amazon.com/images/I/51i9R09dEtL.jpg | https://m.media-amazon.com/images/I/31edHh0Z4sL.jpg | https://m.media-amazon.com/images/I/51PwKJlGMAL.jpg | https://m.media-amazon.com/images/I/51t1dcfOBEL.jpg | https://m.media-amazon.com/images/I/419-TfQUveL.jpg | https://m.media-amazon.com/images/I/31OBJid7LcL.jpg | https://m.media-amazon.com/images/I/41G8NJ-zvWL.jpg | https://m.media-amazon.com/images/I/31R5X1IJVtL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Concrete-Vibrator-Aluminium/dp/B0H4BZFRTQ/ref=sr_1_63"
+    },
+    {
+      "sku": "JKE-IIYEQNZRJVLEISC2",
+      "slug": "dong-cheng-12-pcs-12-socket-set-12pcs-12-piece-12-inch",
+      "name": "Dong Cheng 12 Pcs 1/2\" Socket Set 12pcs — 12-Piece 1/2-Inch...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 1801,
+      "image": "https://m.media-amazon.com/images/I/71Zm6JUxrbL.jpg | https://m.media-amazon.com/images/I/41+ehOFEnyL.jpg | https://m.media-amazon.com/images/I/41WNDr5tIFL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Socket-12pcs-Quick-Release/dp/B0H71MVDHZ/ref=sr_1_156"
+    },
+    {
+      "sku": "JKE-IIYEOTKMJZDTMWCN",
+      "slug": "dongcheng-heat-gun-dqb05-2000-2000w-high-power-dual",
+      "name": "DongCheng Heat Gun DQB05-2000, 2000W High Power, Dual...",
+      "brand": "Dong Cheng",
+      "category": "Plumbing",
+      "price": 2099,
+      "image": "https://m.media-amazon.com/images/I/516706wKZKL.jpg | https://m.media-amazon.com/images/I/31tD8LRy4KL.jpg | https://m.media-amazon.com/images/I/319t818YQYL.jpg | https://m.media-amazon.com/images/I/41SXOHogWOL.jpg | https://m.media-amazon.com/images/I/31qmg8q32zL.jpg | https://m.media-amazon.com/images/I/51vM3LTgr4L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-DQB05-2000-Heating-Temperature-Adjustment/dp/B0GMLNG6XM/ref=sr_1_55"
+    },
+    {
+      "sku": "JKE-IIYDONCMKNCFEQ2G",
+      "slug": "dongcheng-industrial-die-grinder-500-watts-blue",
+      "name": "Dongcheng Industrial Die Grinder 500 Watts (Blue)",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3299,
+      "image": "https://m.media-amazon.com/images/I/61QKit6RwkL.jpg | https://m.media-amazon.com/images/I/41L1hg0iw1L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Industrial-Grinder-Watts-Blue/dp/B074LSDRCF/ref=sr_1_72"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKZNEUVSM",
+      "slug": "dong-cheng-straight-jaw-plier-10-250mm-forged",
+      "name": "Dong Cheng Straight Jaw Plier 10\" / 250mm — Forged...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 355,
+      "image": "https://m.media-amazon.com/images/I/61i5p+Wi2HL.jpg | https://m.media-amazon.com/images/I/21oo1qwWJxL.jpg | https://m.media-amazon.com/images/I/41x0V++eWEL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Straight-Plier-250mm/dp/B0H71VZJVL/ref=sr_1_135"
+    },
+    {
+      "sku": "JKE-IIYEGRRVIZGFONKI",
+      "slug": "dong-cheng-10mm-drilling-machune-djz10a",
+      "name": "Dong Cheng 10mm drilling machune DJZ10A",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2300,
+      "image": "https://m.media-amazon.com/images/I/51GlHrFs9hL.jpg | https://m.media-amazon.com/images/I/31vLjIA7EjL.jpg | https://m.media-amazon.com/images/I/310aXtJFiML.jpg | https://m.media-amazon.com/images/I/41cCO6LBTcL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-drilling-machune-DJZ10A/dp/B0CF5FLW5H/ref=sr_1_170"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBE2NJU",
+      "slug": "dong-cheng-dongcheng-dmy02-corded-electric-circular-saw",
+      "name": "Dong Cheng Dongcheng Dmy02 Corded Electric Circular Saw...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 4801,
+      "image": "https://m.media-amazon.com/images/I/51c7l9g00CL.jpg | https://m.media-amazon.com/images/I/51c7l9g00CL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-Dmy02-Corded-Electric-Circular/dp/B01HB4BM54/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLIZE2U2C",
+      "slug": "dong-cheng-tool-bag-16-400mm-sturdy-carry-handle-",
+      "name": "Dong Cheng Tool Bag 16″ / 400mm — Sturdy Carry Handle |...",
+      "brand": "Dong Cheng",
+      "category": "Storage & Organization",
+      "price": 814,
+      "image": "https://m.media-amazon.com/images/I/91JHtmSiLzL.jpg | https://m.media-amazon.com/images/I/41PcLf0aGvL.jpg | https://m.media-amazon.com/images/I/41SYdRoLAKL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Tool-Bag-400mm/dp/B0H71Z2MSB/ref=sr_1_159"
+    },
+    {
+      "sku": "JKE-IIYDONCMKZDUYUKX",
+      "slug": "dong-cheng-corded-electric-powerful-jigsaw-580-watts",
+      "name": "Dong Cheng Corded Electric Powerful Jigsaw - 580 Watts",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 5500,
+      "image": "https://m.media-amazon.com/images/I/4149m3TsN4L.jpg | https://m.media-amazon.com/images/I/4149m3TsN4L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Powerful-Jigsaw-580-Watts/dp/B074LVGLQW/ref=sr_1_184"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLBEFIU2I",
+      "slug": "dong-cheng-9-in-1-screwdriver-set-nine-in-one-cr-v",
+      "name": "Dong Cheng 9 In 1 Screwdriver Set nine-in-one — CR-V...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 485,
+      "image": "https://m.media-amazon.com/images/I/610X49I77VL.jpg | https://m.media-amazon.com/images/I/41UUB77a2mL.jpg | https://m.media-amazon.com/images/I/41EH0spzPXL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Screwdriver-nine-one/dp/B0H71XHTSH/ref=sr_1_124"
+    },
+    {
+      "sku": "JKE-IIYDONCGLBHDGTKZ",
+      "slug": "dongcheng-corded-electric-straight-grindersander-for",
+      "name": "DONGCHENG Corded Electric Straight Grinder/Sander For...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 5302,
+      "image": "https://m.media-amazon.com/images/I/319KArnyzAL.jpg | https://m.media-amazon.com/images/I/319KArnyzAL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Straight-Grinder-Sander-Professionals/dp/B074FXN3MY/ref=sr_1_82"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFGNSN",
+      "slug": "dongcheng-dsb234-520w-orbital-sander-with-switch-114x234-mm",
+      "name": "DONGCHENG Dsb234 520W Orbital Sander with Switch, 114X234 mm",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 4994,
+      "image": "https://m.media-amazon.com/images/I/51MMLxaH4qL.jpg | https://m.media-amazon.com/images/I/51MMLxaH4qL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSB234-Orbital-Sander-114X234mm/dp/B01HB4BS6M/ref=sr_1_106"
+    },
+    {
+      "sku": "JKE-IIYEQNZRIRJUIVBS",
+      "slug": "dong-cheng-wood-chisel-6140mm-cr-v-chrome-vanadium-steel",
+      "name": "Dong Cheng Wood Chisel 6×140mm — CR-V Chrome Vanadium Steel...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 291,
+      "image": "https://m.media-amazon.com/images/I/51k9fMcUaML.jpg | https://m.media-amazon.com/images/I/31bC4+If4vL.jpg | https://m.media-amazon.com/images/I/41WSsCZt-eL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Wood-Chisel-6%C3%97140mm/dp/B0H71DSDT2/ref=sr_1_104"
+    },
+    {
+      "sku": "JKE-IIYEQNZRJBHDSUBY",
+      "slug": "dong-cheng-circlip-pliers-external-bent-head-7-175mm-",
+      "name": "Dong Cheng Circlip Pliers External Bent Head — 7\" / 175mm |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 309,
+      "image": "https://m.media-amazon.com/images/I/61+XDC9Cm-L.jpg | https://m.media-amazon.com/images/I/311ywE3dN8L.jpg | https://m.media-amazon.com/images/I/4140goC+1bL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Circlip-Pliers-External/dp/B0H71HN9P8/ref=sr_1_119"
+    },
+    {
+      "sku": "JKE-IIYEOVSWJJLTIVSR",
+      "slug": "dongcheng-machinist-hammer-300g-fibreglass-handle-",
+      "name": "DongCheng Machinist Hammer | 300g | Fibreglass Handle |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 449,
+      "image": "https://m.media-amazon.com/images/I/419QPz022QL.jpg | https://m.media-amazon.com/images/I/21T1F2M3wDL.jpg | https://m.media-amazon.com/images/I/21Bir-2FYdL.jpg | https://m.media-amazon.com/images/I/21MijWtCRGL.jpg | https://m.media-amazon.com/images/I/51naBF9uArL.jpg | https://m.media-amazon.com/images/I/51IFSGHCkQL.jpg | https://m.media-amazon.com/images/I/51hffi4thiL.jpg | https://m.media-amazon.com/images/I/51B3TdpqRrL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Machinist-Fibreglass-Anti-Slip-D100602/dp/B0GVVJW4VQ/ref=sr_1_120"
+    },
+    {
+      "sku": "JKE-IIYEOTCIGFMFMRRW",
+      "slug": "dongcheng-12v-cordless-drill-machine-for-home-use-35nm-max",
+      "name": "DongCheng 12V Cordless Drill Machine for Home Use, 35Nm Max...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/71vfuvqmP-L.jpg | https://m.media-amazon.com/images/I/51S+0Hvw3TL.jpg | https://m.media-amazon.com/images/I/51iqU2k3IAL.jpg | https://m.media-amazon.com/images/I/51W9UsoTYoL.jpg | https://m.media-amazon.com/images/I/51OhIF+BZdL.jpg | https://m.media-amazon.com/images/I/519d7-phdpL.jpg | https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg | https://m.media-amazon.com/images/I/41tGUbi8f+L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Machine-2000mAh-2-Variable/dp/B0GLH1XVF6/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-IIYDOQSIKA4DCS2D",
+      "slug": "dongcheng-industrial-die-grinder-400-watts-44-x-10-x-11",
+      "name": "DONGCHENG Industrial Die Grinder 400 Watts, 44 x 10 x 11",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2322,
+      "image": "https://m.media-amazon.com/images/I/31XsXZkqPmL.jpg | https://m.media-amazon.com/images/I/31XsXZkqPmL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-Industrial-Die-Grinder-Watts/dp/B07BHP81KC/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-IIYEOTJXIZIEUS2S",
+      "slug": "dongcheng-electric-air-blower-high-speed-dust-cleaner",
+      "name": "DongCheng Electric Air Blower | High Speed Dust Cleaner...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3399,
+      "image": "https://m.media-amazon.com/images/I/51fgOLf9NvL.jpg | https://m.media-amazon.com/images/I/31eVik9cAuL.jpg | https://m.media-amazon.com/images/I/41F9r0vCyHL.jpg | https://m.media-amazon.com/images/I/41BQmvFXS0L.jpg | https://m.media-amazon.com/images/I/41y4BK2eoPL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Function-Portable-Workshop/dp/B0GM7FPJKR/ref=sr_1_132"
+    },
+    {
+      "sku": "JKE-IIYEQN2CHE2DSWSO",
+      "slug": "dong-cheng-21pcs-screwdriver-bit-set-21set-s2-tool-steel",
+      "name": "Dong Cheng 21Pcs Screwdriver Bit Set 21set — S2 Tool Steel...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 316,
+      "image": "https://m.media-amazon.com/images/I/71hHTvijpBL.jpg | https://m.media-amazon.com/images/I/41KIrg-QYoL.jpg | https://m.media-amazon.com/images/I/41q74VrxT8L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-21Pcs-Screwdriver-21set/dp/B0H7B949ZN/ref=sr_1_187"
+    },
+    {
+      "sku": "JKE-IIYEOVRXJJHFEWKE",
+      "slug": "dong-cheng-12v-cordless-drill-drivers-double-battery-drill",
+      "name": "Dong Cheng 12V Cordless Drill Drivers (Double Battery Drill...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 4699,
+      "image": "https://m.media-amazon.com/images/I/81J1u5CBm7L.jpg | https://m.media-amazon.com/images/I/5115FfQF3tL.jpg | https://m.media-amazon.com/images/I/51WQ1aWWcLL.jpg | https://m.media-amazon.com/images/I/51Ee5QTk7ZL.jpg | https://m.media-amazon.com/images/I/51X+GD6gUyL.jpg | https://m.media-amazon.com/images/I/41LLd4KEpYL.jpg | https://m.media-amazon.com/images/I/51JAgT4wegL.jpg | https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Cordless-Drivers-Accessories/dp/B0GV7JNRYD/ref=sr_1_171"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBEQQ2X",
+      "slug": "dongcheng-1600-w-wood-router-127-mm-black",
+      "name": "Dongcheng 1600 W Wood Router 12.7 mm (Black)",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 6129,
+      "image": "https://m.media-amazon.com/images/I/916QAaxvdyL.jpg | https://m.media-amazon.com/images/I/51JU3S6CmVL.jpg | https://m.media-amazon.com/images/I/51ORP9UHobL.jpg | https://m.media-amazon.com/images/I/51sttphqfCL.jpg | https://m.media-amazon.com/images/I/51i9E-wcT4L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DMR12-Router-12-7mm-1600W/dp/B01HB4BHCW/ref=sr_1_25"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFASKJ",
+      "slug": "dong-cheng-djz02-6a-electric-drill-65mm-230-w-blue",
+      "name": "Dong Cheng Djz02-6A Electric Drill 6.5Mm 230 W, Blue",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 1929,
+      "image": "https://m.media-amazon.com/images/I/51pXC+4RZML.jpg | https://m.media-amazon.com/images/I/31BMijDuljL.jpg | https://m.media-amazon.com/images/I/31Nrwo3lZhL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DJZ02-6A-Electric-Drill-6-5mm/dp/B01HB4BPII/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-IIYEOTKSK5CE2SRV",
+      "slug": "dongcheng-electric-wood-trimmer-router-plastic-body-350w",
+      "name": "DongCheng Electric Wood Trimmer Router, Plastic Body, 350W,...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3499,
+      "image": "https://m.media-amazon.com/images/I/61wesOp4uxL.jpg | https://m.media-amazon.com/images/I/41gmZWjVJ6L.jpg | https://m.media-amazon.com/images/I/31VblLGQ1xL.jpg | https://m.media-amazon.com/images/I/31mEIglZSLL.jpg | https://m.media-amazon.com/images/I/31XjbGGmeiL.jpg | https://m.media-amazon.com/images/I/51rvxbNiSdL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Trimmer-Transparent-Accessories/dp/B0GMRWDMJ5/ref=sr_1_142"
+    },
+    {
+      "sku": "JKE-IIYEQN2UGVITON22",
+      "slug": "dongcheng-angle-grinder-7-2200w-180mm-wheel-diameter-",
+      "name": "DongCheng Angle Grinder 7\" | 2200W | 180mm Wheel Diameter |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/61lCMz2IlXL.jpg | https://m.media-amazon.com/images/I/31VcjABfMwL.jpg | https://m.media-amazon.com/images/I/51w47pfcK8L.jpg | https://m.media-amazon.com/images/I/51xxF+d4rNL.jpg | https://m.media-amazon.com/images/I/317OXeXM-AL.jpg | https://m.media-amazon.com/images/I/31CS5142H6L.jpg | https://m.media-amazon.com/images/I/21qDPq0Xz2L.jpg | https://m.media-amazon.com/images/I/31W6Wfjqj3L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Diameter-Industrial-Auxiliary-DSM180A/dp/B0H7T5Q77Z/ref=sr_1_147"
+    },
+    {
+      "sku": "JKE-IIYDOVSNGRMTCSZS",
+      "slug": "dongcheng-krost-df30-ff-f30-air-brad-nailer-multicolour",
+      "name": "DONGCHENG KROST DF30 FF-F30 AIR Brad Nailer, Multicolour",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 2099,
+      "image": "https://m.media-amazon.com/images/I/61l6e-IdevL.jpg | https://m.media-amazon.com/images/I/41M3tUV8+6L.jpg | https://m.media-amazon.com/images/I/41PXCpTHJcL.jpg | https://m.media-amazon.com/images/I/31ubo85h6vL.jpg | https://m.media-amazon.com/images/I/411vhhDcCtL.jpg | https://m.media-amazon.com/images/I/51nlIeJAvNL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-DF30-FF-F30-Brad-Nailer/dp/B07VM4Y1K2/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLI3TQVCE",
+      "slug": "dong-cheng-ball-pein-hammer-16-oz-450g-forged-head-with",
+      "name": "Dong Cheng Ball Pein Hammer 16 oz / 450g — Forged Head with...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 344,
+      "image": "https://m.media-amazon.com/images/I/6177GScuHrL.jpg | https://m.media-amazon.com/images/I/21ptJhAl6IL.jpg | https://m.media-amazon.com/images/I/41sHxHxIpWL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Ball-Pein-Hammer/dp/B0H71Z78TD/ref=sr_1_162"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKNJDGSZY",
+      "slug": "dong-cheng-mini-claw-hammer-8-oz-225g-forged-head-with",
+      "name": "Dong Cheng Mini Claw Hammer 8 oz / 225g — Forged Head with...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 268,
+      "image": "https://m.media-amazon.com/images/I/71UEmx6rN-L.jpg | https://m.media-amazon.com/images/I/31ePIEJLz6L.jpg | https://m.media-amazon.com/images/I/41duzegJLZL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Mini-Claw-Hammer/dp/B0H71SR3K8/ref=sr_1_103"
+    },
+    {
+      "sku": "JKE-IIYEOVCOGYZEIRCR",
+      "slug": "dongcheng-heat-gun-2000w-electric-power-source-",
+      "name": "DongCheng Heat Gun | 2000W | Electric Power Source |...",
+      "brand": "Dong Cheng",
+      "category": "Safety & PPE",
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/41pxtrwJWKL.jpg | https://m.media-amazon.com/images/I/41pxtrwJWKL.jpg | https://m.media-amazon.com/images/I/31464VA858L.jpg | https://m.media-amazon.com/images/I/31B+VaYHbLL.jpg | https://m.media-amazon.com/images/I/41Og8IsyGoL.jpg | https://m.media-amazon.com/images/I/41KR6vOUNoL.jpg | https://m.media-amazon.com/images/I/31uvpRn6z7L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Efficient-Attachements-DQB2000/dp/B0GTN62DDQ/ref=sr_1_34"
+    },
+    {
+      "sku": "JKE-IIYDMWJWIZLEOOCT",
+      "slug": "dong-cheng-dpb12-electric-wrench-12-7mm-300w-fixed-square",
+      "name": "Dong Cheng Dpb12 Electric Wrench 12. 7Mm 300W, Fixed Square",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3540,
+      "image": "https://m.media-amazon.com/images/I/31GqxZls8nL.jpg | https://m.media-amazon.com/images/I/31GqxZls8nL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Dpb12-Electric-Wrench-300W/dp/B06Y6FVG8S/ref=sr_1_5"
+    },
+    {
+      "sku": "JKE-IIYDOQ22JI2FAWBW",
+      "slug": "dongcheng-180mm-blue-marble-cutter-1520w-5000rpm-keyed",
+      "name": "Dongcheng 180mm Blue Marble Cutter, 1520W, 5000RPM, Keyed...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 7234,
+      "image": "https://m.media-amazon.com/images/I/618RZMzRY+L.jpg | https://m.media-amazon.com/images/I/41lAOZ5zwxL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZE180-Marble-Cutter-180mm/dp/B07CZJ4PX6/ref=sr_1_85"
+    },
+    {
+      "sku": "JKE-IIYEQNZRJRLUQWBU",
+      "slug": "dong-cheng-cable-cutter-14-350mm-sharp-hardened-steel",
+      "name": "Dong Cheng Cable Cutter 14\" / 350mm — Sharp Hardened-Steel...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 791,
+      "image": "https://m.media-amazon.com/images/I/61NAk8oxGkL.jpg | https://m.media-amazon.com/images/I/21notxw-k8L.jpg | https://m.media-amazon.com/images/I/41cMxur8MaL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Cable-Cutter-350mm/dp/B0H71LWHX4/ref=sr_1_169"
+    },
+    {
+      "sku": "JKE-IIYEOVRXIREFGQSR",
+      "slug": "dongcheng-20v-cordless-drilling-machine-40nm-torque-350w",
+      "name": "DongCheng 20V Cordless Drilling Machine, 40Nm Torque, 350W...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3999,
+      "image": "https://m.media-amazon.com/images/I/81faaAPW03L.jpg | https://m.media-amazon.com/images/I/51DL3p+JnQL.jpg | https://m.media-amazon.com/images/I/51O0f2C7GlL.jpg | https://m.media-amazon.com/images/I/41luLUlB-EL.jpg | https://m.media-amazon.com/images/I/51fAH7WpVsL.jpg | https://m.media-amazon.com/images/I/517o8bwB28L.jpg | https://m.media-amazon.com/images/I/51n5uI4nXxL.jpg | https://m.media-amazon.com/images/I/51UB46BGavL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Drilling-Accessories-Professional/dp/B0GV7DHSBQ/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBESNZW",
+      "slug": "dongcheng-350-w-trimmer-635-mm-black",
+      "name": "Dongcheng 350 W Trimmer 6.35 Mm (Black)",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2598,
+      "image": "https://m.media-amazon.com/images/I/51+I7q6u1ZL.jpg | https://m.media-amazon.com/images/I/31kYK9NLqGL.jpg | https://m.media-amazon.com/images/I/713pkRy1WEL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DMP02-6-Trimmer-6-35mm-350W/dp/B01HB4BI76/ref=sr_1_7"
+    },
+    {
+      "sku": "JKE-IIYEOTJYKNJVCNKO",
+      "slug": "dongcheng-electric-planer-dmb82-500w-82mm-planing-width",
+      "name": "DongCheng Electric Planer DMB82, 500W, 82mm Planing Width,...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3950,
+      "image": "https://m.media-amazon.com/images/I/51V41hvyReL.jpg | https://m.media-amazon.com/images/I/51V41hvyReL.jpg | https://m.media-amazon.com/images/I/318O+OwLzLL.jpg | https://m.media-amazon.com/images/I/41e5kn9LPuL.jpg | https://m.media-amazon.com/images/I/41StEJcqVCL.jpg | https://m.media-amazon.com/images/I/31tZ+FSa2AL.jpg | https://m.media-amazon.com/images/I/310CmL8QC1L.jpg | https://m.media-amazon.com/images/I/21tZ-AnNklL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-DMB82-16000rpm-Ergonomic/dp/B0GM8SSQ5N/ref=sr_1_71"
+    },
+    {
+      "sku": "JKE-IIYDQM2KIRKEINZT",
+      "slug": "dongcheng-7-inch-dsm180a-angle-grinder-180mm",
+      "name": "DONGCHENG 7 inch DSM180A ANGLE GRINDER 180MM",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 5881,
+      "image": "https://m.media-amazon.com/images/I/31twJwEPMIL.jpg | https://m.media-amazon.com/images/I/31twJwEPMIL.jpg | https://m.media-amazon.com/images/I/31wKnu511FL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-DSM180A-ANGLE-GRINDER-180MM/dp/B083JDTD73/ref=sr_1_89"
+    },
+    {
+      "sku": "JKE-IIYDOQ22JJBVUNSE",
+      "slug": "dongcheng-djz16a-electric-drill-machine-16mm-800w-blue",
+      "name": "Dongcheng Djz16A Electric Drill Machine 16Mm, 800W - Blue",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 4899,
+      "image": "https://m.media-amazon.com/images/I/51EiVLYQSGL.jpg | https://m.media-amazon.com/images/I/410FlcHK8-L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DJZ16A-Electric-Drill-Machine/dp/B07CZJCZ6D/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-IIYEQN2CJBJTEVCQ",
+      "slug": "dong-cheng-snap-off-knife-18mm-pack-of-5-sk5-",
+      "name": "Dong Cheng Snap-Off Knife 18mm — Pack of 5 | SK5 /...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 321,
+      "image": "https://m.media-amazon.com/images/I/717VTTCufbL.jpg | https://m.media-amazon.com/images/I/41dLMzE3WIL.jpg | https://m.media-amazon.com/images/I/41Zuo-YYFgL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Snap-Off-Knife-18mm/dp/B0H7BHS2TP/ref=sr_1_129"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBE4NSN",
+      "slug": "dongcheng-dzg10-corded-electric-demolition-hammer-105kg",
+      "name": "DONGCHENG DZG10 Corded Electric Demolition Hammer (10.5kg,...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 11091,
+      "image": "https://m.media-amazon.com/images/I/51bs3lPgOUL.jpg | https://m.media-amazon.com/images/I/31xAKvjkKkL.jpg | https://m.media-amazon.com/images/I/71YXKG7efwL.jpg | https://m.media-amazon.com/images/I/411XO49WcnL.jpg | https://m.media-amazon.com/images/I/410VN0u-U6L.jpg | https://m.media-amazon.com/images/I/41CoBEN9fsL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZG10-Demolition-Hammer-1500W/dp/B01HB4BN6M/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-IIYEQNZRK44EGUCS",
+      "slug": "dong-cheng-glass-cutter-2-12mm-sharp-cutting-wheel-",
+      "name": "Dong Cheng Glass Cutter 2-12mm — Sharp Cutting Wheel |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 239,
+      "image": "https://m.media-amazon.com/images/I/51YAuVGiq3L.jpg | https://m.media-amazon.com/images/I/218aHOLXYBL.jpg | https://m.media-amazon.com/images/I/31qDBYWo2SL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Glass-Cutter-2-12mm/dp/B0H71W8CPR/ref=sr_1_138"
+    },
+    {
+      "sku": "JKE-IIYEOVRXKM4FES2K",
+      "slug": "dongcheng-12v-cordless-drill-machine-for-home-use-35nm-max",
+      "name": "DongCheng 12V Cordless Drill Machine for Home Use, 35Nm Max...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2899,
+      "image": "https://m.media-amazon.com/images/I/813fD18c3kL.jpg | https://m.media-amazon.com/images/I/51sTjewYj5L.jpg | https://m.media-amazon.com/images/I/512duzo8jeL.jpg | https://m.media-amazon.com/images/I/51Ee5QTk7ZL.jpg | https://m.media-amazon.com/images/I/51W9UsoTYoL.jpg | https://m.media-amazon.com/images/I/51OhIF+BZdL.jpg | https://m.media-amazon.com/images/I/51JAgT4wegL.jpg | https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Machine-2000mAh-2-Variable/dp/B0GV7S8RKJ/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-IIYDONCNGE3TIUZX",
+      "slug": "dongcheng-corded-electric-powerful-20mm-hammer-drill-for",
+      "name": "DONGCHENG Corded Electric Powerful 20Mm Hammer Drill For...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 5499,
+      "image": "https://m.media-amazon.com/images/I/41LlphZmj9L.jpg | https://m.media-amazon.com/images/I/41LlphZmj9L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Powerfull-Hammer-Drill-Professional/dp/B074M174S7/ref=sr_1_114_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYEORSEIY4VCTSQ",
+      "slug": "dong-cheng-dsm21-100b-angle-grinder-900w-heavy-duty-",
+      "name": "Dong Cheng DSM21-100B Angle Grinder | 900W Heavy Duty |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2750,
+      "image": "https://m.media-amazon.com/images/I/61R83MH3FDL.jpg | https://m.media-amazon.com/images/I/31docq5J2gL.jpg | https://m.media-amazon.com/images/I/4149I7ZWOGL.jpg | https://m.media-amazon.com/images/I/31kMcDCmISL.jpg | https://m.media-amazon.com/images/I/419vDnNp0nL.jpg | https://m.media-amazon.com/images/I/41yQ-3hIDEL.jpg | https://m.media-amazon.com/images/I/41U5EsDmB8L.jpg | https://m.media-amazon.com/images/I/41aW-A9yOzL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-DSM21-100B-Professional-Polisher/dp/B0GFDF9QNP/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-IIYDOVSEHBCE2TSL",
+      "slug": "dong-cheng-dongcheng-1600-watts-corded-electric-handsaw",
+      "name": "Dong Cheng Dongcheng 1600-Watts Corded Electric Handsaw...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 6599,
+      "image": "https://m.media-amazon.com/images/I/31ZDAWS3OkL.jpg | https://m.media-amazon.com/images/I/31ZDAWS3OkL.jpg | https://m.media-amazon.com/images/I/21n9w3EaQLL.jpg | https://m.media-amazon.com/images/I/51L3kEQFN4L.jpg | https://m.media-amazon.com/images/I/31GM6UofghL.jpg | https://m.media-amazon.com/images/I/414Aaw0K-sL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-110mm-Electric-Chaser-1600watts/dp/B07VD8DMNK/ref=sr_1_48"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGMZVEVCT",
+      "slug": "dong-cheng-quick-bar-clamp-63450mm-forged-steel-quick",
+      "name": "Dong Cheng Quick Bar Clamp 63×450mm — Forged Steel | Quick...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 434,
+      "image": "https://m.media-amazon.com/images/I/51xfmHOnJ6L.jpg | https://m.media-amazon.com/images/I/21jLB3Hy6wL.jpg | https://m.media-amazon.com/images/I/31b2mSE7BfL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Quick-Clamp-63%C3%97450mm/dp/B0H7233RTS/ref=sr_1_179"
+    },
+    {
+      "sku": "JKE-IIYDOQSGHFCE4RRT",
+      "slug": "dongcheng-dzc03-26-corded-electric-rotary-hammer-blue",
+      "name": "DONGCHENG (Dzc03-26) Corded Electric Rotary Hammer - Blue,...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 6231,
+      "image": "https://m.media-amazon.com/images/I/51Bz-bW-QgL.jpg | https://m.media-amazon.com/images/I/41JhbK0KGEL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZC03-26-Eletric-Rotary-Hammer/dp/B07BF9DNF3/ref=sr_1_39"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKNJTSMSI",
+      "slug": "dong-cheng-machinist-hammer-200g-forged-head-with",
+      "name": "Dong Cheng Machinist Hammer 200g — Forged Head with...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 255,
+      "image": "https://m.media-amazon.com/images/I/610hbX86PtL.jpg | https://m.media-amazon.com/images/I/21i3GCFp7zL.jpg | https://m.media-amazon.com/images/I/41ctFJdJTzL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Machinist-Hammer-200g/dp/B0H71SS92H/ref=sr_1_94"
+    },
+    {
+      "sku": "JKE-IIYEQNZRIJNFSU2R",
+      "slug": "dong-cheng-2-in-1-screwdriver-set-sl6ph2100mm-cr-v",
+      "name": "Dong Cheng 2 In 1 Screwdriver Set SL6×PH2×100mm — CR-V...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 163,
+      "image": "https://m.media-amazon.com/images/I/515uqtr3CAL.jpg | https://m.media-amazon.com/images/I/515uqtr3CAL.jpg | https://m.media-amazon.com/images/I/41Jo7+h8dvL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Screwdriver-SL6%C3%97PH2%C3%97100mm-Electroplated/dp/B0H71BZYSQ/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-IIYEQNZUKNDDQQSO",
+      "slug": "dong-cheng-test-pencil-140mm-pack-of-5-neon-indicator-",
+      "name": "Dong Cheng Test Pencil 140mm — Pack of 5 | Neon Indicator |...",
+      "brand": "Dong Cheng",
+      "category": "Electrical & Wiring",
+      "price": 306,
+      "image": "https://m.media-amazon.com/images/I/71jc-WV-QmL.jpg | https://m.media-amazon.com/images/I/41iH33DiB6L.jpg | https://m.media-amazon.com/images/I/31HRhgcZE-L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Test-Pencil-140mm/dp/B0H74SF8BN/ref=sr_1_133"
+    },
+    {
+      "sku": "JKE-IIYDQRCNKRNEMVBS",
+      "slug": "dongcheng-dzz02-200-3500-w-ac-diamond-core-drill-with-water",
+      "name": "DONGCHENG DZZ02 200-3500 W AC Diamond Core Drill with Water...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 29990,
+      "image": "https://m.media-amazon.com/images/I/415xRhO3RSL.jpg | https://m.media-amazon.com/images/I/415xRhO3RSL.jpg | https://m.media-amazon.com/images/I/41TuEhIW6OL.jpg | https://m.media-amazon.com/images/I/41-y1QiA+wL.jpg | https://m.media-amazon.com/images/I/41kMZ3adphL.jpg | https://m.media-amazon.com/images/I/41y4aytaFGL.jpg | https://m.media-amazon.com/images/I/41Qhj98UhNL.jpg | https://m.media-amazon.com/images/I/41QLlLxZNVL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZZ02-200-3500-Diamond-Source/dp/B08DMTZFT2/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-IIYEOVSHKFDFOQZT",
+      "slug": "dongcheng-angle-grinder-5-1200w-125mm-11800rmin-",
+      "name": "DongCheng Angle Grinder 5\" | 1200W | 125mm | 11800r/min |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3799,
+      "image": "https://m.media-amazon.com/images/I/71+Prn+exwL.jpg | https://m.media-amazon.com/images/I/41nF504fw8L.jpg | https://m.media-amazon.com/images/I/318nW761sZL.jpg | https://m.media-amazon.com/images/I/31IVamTt6xL.jpg | https://m.media-amazon.com/images/I/51luTOBEBwL.jpg | https://m.media-amazon.com/images/I/41pIilrvFFL.jpg | https://m.media-amazon.com/images/I/41iXrkbnP-L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Grinder-11800r-Wrench-DSM02-125B/dp/B0GVGQFWC3/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFESCD",
+      "slug": "dongcheng-dsm08-100-angle-grinder-100mm4-800w",
+      "name": "Dongcheng DSM08-100 Angle Grinder 100mm(4\") 800W",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2219,
+      "image": "https://m.media-amazon.com/images/I/61vlLfGTnOL.jpg | https://m.media-amazon.com/images/I/31ZUcoFMHaL.jpg | https://m.media-amazon.com/images/I/41yqR8oyYYL.jpg | https://m.media-amazon.com/images/I/41NoLsZx1ML.jpg | https://m.media-amazon.com/images/I/41xPZIRittL.jpg | https://m.media-amazon.com/images/I/41nr2rnrqTL.jpg | https://m.media-amazon.com/images/I/41oNqOYiuYL.jpg | https://m.media-amazon.com/images/I/414deYpjoYL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSM08-100-Angle-Grinder-100mm/dp/B01HB4BRHC/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-IIYEQNZRIZBTOUSK",
+      "slug": "dong-cheng-pipe-wrench-36-900mm-one-piece-clamp-body",
+      "name": "Dong Cheng Pipe Wrench 36\" / 900mm — One-Piece Clamp Body...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2825,
+      "image": "https://m.media-amazon.com/images/I/713imMhT4VL.jpg | https://m.media-amazon.com/images/I/311Ydfeep0L.jpg | https://m.media-amazon.com/images/I/41ElxTwAogL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Pipe-Wrench-900mm/dp/B0H71FC7RJ/ref=sr_1_174"
+    },
+    {
+      "sku": "JKE-IIYEOVSMGY3DIVCH",
+      "slug": "dongcheng-electric-drill-300w-10mm-chuck-stepless",
+      "name": "DongCheng Electric Drill | 300W |10mm Chuck | Stepless...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2399,
+      "image": "https://m.media-amazon.com/images/I/61+I5BUnB2L.jpg | https://m.media-amazon.com/images/I/31x7fEz2gkL.jpg | https://m.media-amazon.com/images/I/31QMqxQStZL.jpg | https://m.media-amazon.com/images/I/31JoCDyev4L.jpg | https://m.media-amazon.com/images/I/41oVEUdSS4L.jpg | https://m.media-amazon.com/images/I/41vcx5RmNuL.jpg | https://m.media-amazon.com/images/I/41DfKbxwM-L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Stepless-Adjustment-Original/dp/B0GVL664TG/ref=sr_1_88"
+    },
+    {
+      "sku": "JKE-IIYEQNZRIZMFGSBW",
+      "slug": "dong-cheng-bolt-cutter-8-200mm-cr-v-forged",
+      "name": "Dong Cheng Bolt Cutter 8\" / 200mm — Cr-V Forged...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 344,
+      "image": "https://m.media-amazon.com/images/I/61OkaBtfITL.jpg | https://m.media-amazon.com/images/I/31YgGYQI1AL.jpg | https://m.media-amazon.com/images/I/41VLw-3K0ZL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Bolt-Cutter-200mm/dp/B0H71FXSH6/ref=sr_1_166"
+    },
+    {
+      "sku": "JKE-IIYEQNZRK5JVUTCY",
+      "slug": "dong-cheng-ratchet-wrench-14-crmo-alloy-ratchet-head-",
+      "name": "Dong Cheng Ratchet Wrench 1/4\" — CrMo Alloy Ratchet Head |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 462,
+      "image": "https://m.media-amazon.com/images/I/51+nkiL0bhL.jpg | https://m.media-amazon.com/images/I/21ySau17OiL.jpg | https://m.media-amazon.com/images/I/41hygq2vN4L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Ratchet-Wrench-Quick-Release/dp/B0H71WSZLX/ref=sr_1_167"
+    },
+    {
+      "sku": "JKE-IIYEQNZRK4ZTKWKO",
+      "slug": "dong-cheng-long-hex-key-set-9set-long-arm-multi-piece",
+      "name": "Dong Cheng Long Hex Key Set 9set — Long-Arm Multi-Piece...",
+      "brand": "Dong Cheng",
+      "category": "General Hardware",
+      "price": 319,
+      "image": "https://m.media-amazon.com/images/I/714xZ+CKkOL.jpg | https://m.media-amazon.com/images/I/31cDNGE1tXL.jpg | https://m.media-amazon.com/images/I/41k150PFrLL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Long-Hard-Reach/dp/B0H71W35YN/ref=sr_1_154"
+    },
+    {
+      "sku": "JKE-IIYEQMKGG5FTCWJT",
+      "slug": "dongcheng-straight-grinder-710w-125mm-wheel-diameter-",
+      "name": "DongCheng Straight Grinder | 710W | 125mm Wheel Diameter |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 5499,
+      "image": "https://m.media-amazon.com/images/I/51UOfkBmTHL.jpg | https://m.media-amazon.com/images/I/315VQVJjYYL.jpg | https://m.media-amazon.com/images/I/21VFjSE9OgL.jpg | https://m.media-amazon.com/images/I/21RpvV+AR5L.jpg | https://m.media-amazon.com/images/I/41uNm+YQF1L.jpg | https://m.media-amazon.com/images/I/31KcRY0-+BL.jpg | https://m.media-amazon.com/images/I/31ICUhprvFL.jpg | https://m.media-amazon.com/images/I/31fCy068v6L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Straight-Diameter-Aluminum-DSS125B/dp/B0H1F7K1Y3/ref=sr_1_153"
+    },
+    {
+      "sku": "JKE-IIYDOVSEGNGFCWCM",
+      "slug": "dongcheng-dck-110mm-marble-cutter-machine-1050watts",
+      "name": "Dongcheng DCK 110mm Marble Cutter Machine 1050watts",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3796,
+      "image": "https://m.media-amazon.com/images/I/31A2YLf4cGL.jpg | https://m.media-amazon.com/images/I/31A2YLf4cGL.jpg",
+      "productUrl": "https://www.amazon.in/110mm-Marble-Cutter-Machine-1050watts/dp/B07VD3LQXL/ref=sr_1_102"
+    },
+    {
+      "sku": "JKE-IIYDOQSGHBFUEOKN",
+      "slug": "dongcheng-dmq85-jig-saw-blue",
+      "name": "Dongcheng (DMQ85) Jig Saw - Blue",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 5487,
+      "image": "https://m.media-amazon.com/images/I/51oHKrQbxzL.jpg | https://m.media-amazon.com/images/I/41cqt9qt5OL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DMQ85-Jig-Saw-Blue/dp/B07BF8KB9M/ref=sr_1_99"
+    },
+    {
+      "sku": "JKE-IIYEQNZUJYZFINCK",
+      "slug": "dong-cheng-staples-811312mm-pack-of-3-boxes-3000",
+      "name": "Dong Cheng Staples 8×11.3×1.2mm — Pack of 3 Boxes (3,000...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 191,
+      "image": "https://m.media-amazon.com/images/I/71nuURd0JyL.jpg | https://m.media-amazon.com/images/I/41UeFp5jC2L.jpg | https://m.media-amazon.com/images/I/41esu0J+KSL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Staples-8%C3%9711-3%C3%971-2mm-Billboards/dp/B0H74N2T4J/ref=sr_1_189"
+    },
+    {
+      "sku": "JKE-IIYEQOBVGNNEGS2S",
+      "slug": "dongcheng-electric-wood-router-1850w-22000-rpm-127",
+      "name": "DongCheng Electric Wood Router | 1850W | 22000 RPM | 12.7...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 8499,
+      "image": "https://m.media-amazon.com/images/I/51hCAFwgIXL.jpg | https://m.media-amazon.com/images/I/51hCAFwgIXL.jpg | https://m.media-amazon.com/images/I/51Kzf4eQU4L.jpg | https://m.media-amazon.com/images/I/51CcjUU7IHL.jpg | https://m.media-amazon.com/images/I/311LKqfKfAL.jpg | https://m.media-amazon.com/images/I/311aYY62bDL.jpg | https://m.media-amazon.com/images/I/416j3fOd+hL.jpg | https://m.media-amazon.com/images/I/414xT4XX6RL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Included-Accesories-DMR04-12/dp/B0H853ZCKR/ref=sr_1_73"
+    },
+    {
+      "sku": "JKE-IIYEOV2EGVJFASBT",
+      "slug": "dongcheng-electric-polisher-570w-variable-speed",
+      "name": "DongCheng Electric Polisher | 570W | Variable Speed...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 4149,
+      "image": "https://m.media-amazon.com/images/I/51q0EylzOML.jpg | https://m.media-amazon.com/images/I/51q0EylzOML.jpg | https://m.media-amazon.com/images/I/318SX9hniTL.jpg | https://m.media-amazon.com/images/I/31YQ6pp9b9L.jpg | https://m.media-amazon.com/images/I/31UEHpTTnvL.jpg | https://m.media-amazon.com/images/I/31wNalhu6UL.jpg | https://m.media-amazon.com/images/I/41E90GjuM9L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Polisher-1000-2400-DSP02-180/dp/B0GWD5RPH3/ref=sr_1_99"
+    },
+    {
+      "sku": "JKE-IIYEQNBXG42DQMZV",
+      "slug": "dongcheng-rotary-hammer-20-mm-500w-sds-plus-",
+      "name": "DongCheng Rotary Hammer | 20 mm | 500W | SDS Plus |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 5299,
+      "image": "https://m.media-amazon.com/images/I/61x72c6Jv9L.jpg | https://m.media-amazon.com/images/I/31f914mw7gL.jpg | https://m.media-amazon.com/images/I/51Okjvfp+dL.jpg | https://m.media-amazon.com/images/I/41rnFGUYCHL.jpg | https://m.media-amazon.com/images/I/31E9NECSnzL.jpg | https://m.media-amazon.com/images/I/31s+q4GbQtL.jpg | https://m.media-amazon.com/images/I/31VK+yYaB6L.jpg | https://m.media-amazon.com/images/I/41CTgvgvSbL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-2-Functions-Drilling-Included-DZC02-20/dp/B0H4774835/ref=sr_1_107"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFKMSP",
+      "slug": "dongcheng-dsp180-750w-corded-sander-polisher-with-switch",
+      "name": "DONGCHENG Dsp180 750W Corded Sander Polisher with Switch...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3152,
+      "image": "https://m.media-amazon.com/images/I/41ZC9xWEwHL.jpg | https://m.media-amazon.com/images/I/41ZC9xWEwHL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSP180-Sander-Polisher-180mm/dp/B01HB4BU2O/ref=sr_1_100"
+    },
+    {
+      "sku": "JKE-IIYEQNZULJMTKVCR",
+      "slug": "dong-cheng-staples-811307mm-pack-of-5-boxes-5000",
+      "name": "Dong Cheng Staples 8×11.3×0.7mm — Pack of 5 Boxes (5,000...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 243,
+      "image": "https://m.media-amazon.com/images/I/81zMXungq3L.jpg | https://m.media-amazon.com/images/I/41u1QlNbY6L.jpg | https://m.media-amazon.com/images/I/41LVQyBY2eL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Staples-8%C3%9711-3%C3%970-7mm-Billboards/dp/B0H74ZY5TQ/ref=sr_1_177"
+    },
+    {
+      "sku": "JKE-IIYEQNZTJA3FIVBZ",
+      "slug": "dongcheng-cordless-drill-20-v-2300-rpm-2-speed-mode-",
+      "name": "DongCheng Cordless Drill 20 V | 2300 RPM | 2-Speed Mode |...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 7199,
+      "image": "https://m.media-amazon.com/images/I/71ybZYLk3mL.jpg | https://m.media-amazon.com/images/I/31lUS7GM5rL.jpg | https://m.media-amazon.com/images/I/5113qqdR9GL.jpg | https://m.media-amazon.com/images/I/51c6V5Sa59L.jpg | https://m.media-amazon.com/images/I/31ny9eVQSGL.jpg | https://m.media-amazon.com/images/I/41TjrWEMehL.jpg | https://m.media-amazon.com/images/I/31rKGaXtyjL.jpg | https://m.media-amazon.com/images/I/41SyY8+28kL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Lithium-Ion-ScrewDriver-DCJZ2060/dp/B0H73H6TT9/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-IIYEQNZSJBFUGS2G",
+      "slug": "dong-cheng-wire-rope-cutter-8-200mm-sharp-hardened",
+      "name": "Dong Cheng Wire Rope Cutter 8\" / 200mm — Sharp Hardened...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 408,
+      "image": "https://m.media-amazon.com/images/I/71aBoaqfXdL.jpg | https://m.media-amazon.com/images/I/311f8Ie5TkL.jpg | https://m.media-amazon.com/images/I/41dDwVFFWDL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Wire-Cutter-200mm/dp/B0H72HKCKF/ref=sr_1_157"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGFLEIMKK",
+      "slug": "dong-cheng-sucker-118mm-single-jaw-40kg-abs-disc-body-",
+      "name": "Dong Cheng Sucker 118mm single-jaw / 40kg — ABS Disc Body |...",
+      "brand": "Dong Cheng",
+      "category": "Abrasives & Finishing",
+      "price": 203,
+      "image": "https://m.media-amazon.com/images/I/71LacqFIiIL.jpg | https://m.media-amazon.com/images/I/41KeF-3P2GL.jpg | https://m.media-amazon.com/images/I/415tVh2LHWL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Sucker-118mm-single-jaw/dp/B0H721VD1J/ref=sr_1_164"
+    },
+    {
+      "sku": "JKE-IIYEQNZUKJIVUMSR",
+      "slug": "dong-cheng-screwdriver-combo-set-phillips-ph238mm-",
+      "name": "Dong Cheng Screwdriver Combo Set — Phillips PH2×38mm +...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 177,
+      "image": "https://m.media-amazon.com/images/I/61nbKfOtdoL.jpg | https://m.media-amazon.com/images/I/31jyvYuRoJL.jpg | https://m.media-amazon.com/images/I/41h1ZqeGAlL.jpg | https://m.media-amazon.com/images/I/41ncIqOtXkL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Screwdriver-Combo-Family-Designed/dp/B0H74RQZ2Q/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-IIYDOVZXKQ3EOSBU",
+      "slug": "dongcheng-dsm-180a-angle-grinder",
+      "name": "DONGCHENG DSM-180A Angle Grinder",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 6159,
+      "image": "https://m.media-amazon.com/images/I/5184CGCcNdL.jpg | https://m.media-amazon.com/images/I/31r9vIf4ekL.jpg | https://m.media-amazon.com/images/I/31jT3Ecg2vL.jpg | https://m.media-amazon.com/images/I/31D-JJ6WvWL.jpg | https://m.media-amazon.com/images/I/316xK4EEEXL.jpg | https://m.media-amazon.com/images/I/31EtZCBsxjL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-DSM-180A-Angle-Grinder/dp/B07W7T6GH4/ref=sr_1_80"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGJHEEOKN",
+      "slug": "dong-cheng-glass-cutter-5-15mm-sharp-cutting-wheel-",
+      "name": "Dong Cheng Glass Cutter 5-15mm — Sharp Cutting Wheel |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 271,
+      "image": "https://m.media-amazon.com/images/I/51-uwLYyxdL.jpg | https://m.media-amazon.com/images/I/212Kd6WLlBL.jpg | https://m.media-amazon.com/images/I/31qIKnl33RL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Glass-Cutter-5-15mm/dp/B0H722NB9M/ref=sr_1_146"
+    },
+    {
+      "sku": "JKE-IIYDOVCZK5MU4N2L",
+      "slug": "dongcheng-5inch-angle-grinder-1200w",
+      "name": "Dongcheng 5\"inch Angle Grinder 1200w",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3700,
+      "image": "https://m.media-amazon.com/images/I/31WExUf6W9L.jpg | https://m.media-amazon.com/images/I/31WExUf6W9L.jpg | https://m.media-amazon.com/images/I/61scqcwc-VL.jpg | https://m.media-amazon.com/images/I/51hNHVV6GAL.jpg | https://m.media-amazon.com/images/I/51229Hzc0VL.jpg | https://m.media-amazon.com/images/I/51nYBom-dEL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-inch-Angle-Grinder-1200w/dp/B07TYWYN7K/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYEOWSGG5GTGSSC",
+      "slug": "dongcheng-20v-cordless-impact-wrench-brushless-motor-",
+      "name": "DongCheng 20V Cordless Impact Wrench | Brushless Motor |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 17799,
+      "image": "https://m.media-amazon.com/images/I/4188V6htiVL.jpg | https://m.media-amazon.com/images/I/4188V6htiVL.jpg | https://m.media-amazon.com/images/I/516oT4KUOPL.jpg | https://m.media-amazon.com/images/I/414Io3iNJtL.jpg | https://m.media-amazon.com/images/I/31H4O4-rzrL.jpg | https://m.media-amazon.com/images/I/41SJxVdPZWL.jpg | https://m.media-amazon.com/images/I/41nOd+APWiL.jpg | https://m.media-amazon.com/images/I/31khbyPfCHL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Brushless-Busting-Lithium-Ion/dp/B0GZF7M3JB/ref=sr_1_68"
+    },
+    {
+      "sku": "JKE-IIYEQNZSHFHE4TCG",
+      "slug": "dong-cheng-staple-gun-4-8mm-steel-housing-compact-",
+      "name": "Dong Cheng Staple Gun 4-8mm — Steel Housing | Compact &...",
+      "brand": "Dong Cheng",
+      "category": "General Hardware",
+      "price": 436,
+      "image": "https://m.media-amazon.com/images/I/61KIY0lamsL.jpg | https://m.media-amazon.com/images/I/41jkwwH85JL.jpg | https://m.media-amazon.com/images/I/41TcQ6Z0MjL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Staple-4-8mm-Spot/dp/B0H729NNLF/ref=sr_1_143"
+    },
+    {
+      "sku": "JKE-IIYEQN2CGZIVIV2M",
+      "slug": "dong-cheng-snap-off-knife-9mm-pack-of-5-sk5-",
+      "name": "Dong Cheng Snap-Off Knife 9mm — Pack of 5 | SK5 /...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 243,
+      "image": "https://m.media-amazon.com/images/I/715NuVfXvQL.jpg | https://m.media-amazon.com/images/I/41N056AXVOL.jpg | https://m.media-amazon.com/images/I/41y0zt9ghnL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Snap-Off-Knife-9mm/dp/B0H7B6QTWL/ref=sr_1_137"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGVDDIOCL",
+      "slug": "dong-cheng-aviation-snip-10-compound-leverage-cutting-",
+      "name": "Dong Cheng Aviation Snip 10\" — Compound-Leverage Cutting |...",
+      "brand": "Dong Cheng",
+      "category": "General Hardware",
+      "price": 452,
+      "image": "https://m.media-amazon.com/images/I/51IqQncIUxL.jpg | https://m.media-amazon.com/images/I/21A4F+BDUwL.jpg | https://m.media-amazon.com/images/I/41bgCZ0VHiL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Aviation-Snip-Compound-Leverage/dp/B0H725F48K/ref=sr_1_122"
+    },
+    {
+      "sku": "JKE-IIYEQNZRK5MDEWK2",
+      "slug": "dong-cheng-claw-hammer-8-oz-225g-forged-head-with",
+      "name": "Dong Cheng Claw Hammer 8 oz / 225g — Forged Head with...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 291,
+      "image": "https://m.media-amazon.com/images/I/61JPgdQliSL.jpg | https://m.media-amazon.com/images/I/2104gPOFY3L.jpg | https://m.media-amazon.com/images/I/41+TDfj51JL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Claw-Hammer-225g/dp/B0H71WX2YZ/ref=sr_1_57"
+    },
+    {
+      "sku": "JKE-IIYDOQSGIM3U4QSD",
+      "slug": "dongcheng-dca-dmp02-6-trimmer-29-l-x-16-w-x-11-h-750",
+      "name": "DONGCHENG DCA DMP02-6 Trimmer (29 L x 16 W x 11 H) 750...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2950,
+      "image": "https://m.media-amazon.com/images/I/519wNCy88wL.jpg | https://m.media-amazon.com/images/I/21yF1T4N3gL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DCA-DMP02-6-Trimmer-Blue/dp/B07BFC7NBC/ref=sr_1_64"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLJBDITKC",
+      "slug": "dong-cheng-pvc-pipe-cutter-42mm-sk5-teflon-coated-blade-",
+      "name": "Dong Cheng Pvc Pipe Cutter 42mm — SK5 Teflon-Coated Blade |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 533,
+      "image": "https://m.media-amazon.com/images/I/71rSxn8m2HL.jpg | https://m.media-amazon.com/images/I/31LoFAwOBEL.jpg | https://m.media-amazon.com/images/I/41AGsRDnEYL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Pipe-Cutter-42mm/dp/B0H71ZB4MB/ref=sr_1_113"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBEUSKP",
+      "slug": "dongcheng-1050-w-marble-cutter-110-mm-black",
+      "name": "Dongcheng 1050 W Marble Cutter, 110 Mm (Black)",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3359,
+      "image": "https://m.media-amazon.com/images/I/51c6CuSDyvL.jpg | https://m.media-amazon.com/images/I/31-jouPdEvL.jpg | https://m.media-amazon.com/images/I/41mK-c3nGcL.jpg | https://m.media-amazon.com/images/I/415Acm6TUTL.jpg | https://m.media-amazon.com/images/I/31Nmbjt9XGL.jpg | https://m.media-amazon.com/images/I/318RSpXBJbL.jpg | https://m.media-amazon.com/images/I/41W5jTucPiL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZE03-110-Marble-Cutter-110mm/dp/B01HB4BJIO/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKMZDSTRX",
+      "slug": "dong-cheng-sledge-hammer-2-lb-900g-forged-head-with",
+      "name": "Dong Cheng Sledge Hammer 2 lb / 900g — Forged Head with...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 528,
+      "image": "https://m.media-amazon.com/images/I/61XiHO80UXL.jpg | https://m.media-amazon.com/images/I/21sxFFGHJVL.jpg | https://m.media-amazon.com/images/I/41e-I5fQ0oL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Sledge-Hammer-900g/dp/B0H71S29N7/ref=sr_1_77"
+    },
+    {
+      "sku": "JKE-IIYEQNZRK4YTIMZT",
+      "slug": "dong-cheng-3-in-1-staple-gun-three-in-one-steel-housing-",
+      "name": "Dong Cheng 3 In 1 Staple Gun three-in-one — Steel Housing |...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 510,
+      "image": "https://m.media-amazon.com/images/I/61DhFXSpwyL.jpg | https://m.media-amazon.com/images/I/41PYZIbdRKL.jpg | https://m.media-amazon.com/images/I/41Uan2Q5c7L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Staple-three-one/dp/B0H71W1433/ref=sr_1_126"
+    },
+    {
+      "sku": "JKE-IIYEOVRXKBGTIRRY",
+      "slug": "dongcheng-20v-cordless-drilling-machine-40nm-torque-350w",
+      "name": "DongCheng 20V Cordless Drilling Machine, 40Nm Torque, 350W...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/71olXqutYXL.jpg | https://m.media-amazon.com/images/I/412CauSEzzL.jpg | https://m.media-amazon.com/images/I/41luLUlB-EL.jpg | https://m.media-amazon.com/images/I/51fAH7WpVsL.jpg | https://m.media-amazon.com/images/I/51n5uI4nXxL.jpg | https://m.media-amazon.com/images/I/51UB46BGavL.jpg | https://m.media-amazon.com/images/I/51JAwhC0fGL.jpg | https://m.media-amazon.com/images/I/51dhAdBHfPL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Excluding-Batteries-Accessories/dp/B0GV7PM4F8/ref=sr_1_29"
+    },
+    {
+      "sku": "JKE-IIYDOVCXKFDEWM2H",
+      "slug": "dongcheng-4inch-angle-grinder-800w",
+      "name": "Dongcheng 4\"inch Angle Grinder 800w",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2549,
+      "image": "https://m.media-amazon.com/images/I/21sHPjbNfZL.jpg | https://m.media-amazon.com/images/I/21sHPjbNfZL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-inch-Angle-Grinder-800w/dp/B07TWQFK3G/ref=sr_1_90"
+    },
+    {
+      "sku": "JKE-IIYEOVSMHFDEMRSU",
+      "slug": "dongcheng-electric-impact-drill-500w-stepless-speed-",
+      "name": "DongCheng Electric Impact Drill | 500W | Stepless Speed |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2825,
+      "image": "https://m.media-amazon.com/images/I/51TPuUvvftL.jpg | https://m.media-amazon.com/images/I/31iqeRJjyFL.jpg | https://m.media-amazon.com/images/I/31ODi67f0qL.jpg | https://m.media-amazon.com/images/I/31Na68a1oDL.jpg | https://m.media-amazon.com/images/I/41n2j3oLOJL.jpg | https://m.media-amazon.com/images/I/414z717y9ML.jpg | https://m.media-amazon.com/images/I/51lq4jr68KL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Stepless-Strength-Function/dp/B0GVL9FFFT/ref=sr_1_87"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFANCX",
+      "slug": "dong-cheng-dzg02-15-corded-electric-demolition-hammer",
+      "name": "Dong Cheng Dzg02-15 Corded Electric Demolition Hammer...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 7370,
+      "image": "https://m.media-amazon.com/images/I/41MrR2+LsTL.jpg | https://m.media-amazon.com/images/I/41MrR2+LsTL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZG02-15-Demolition-Hammer-1010W/dp/B01HB4BP4W/ref=sr_1_128"
+    },
+    {
+      "sku": "JKE-IIYDQR2DKE2DKOKZ",
+      "slug": "dong-cheng-rtc-dpb-20c-fixed-square-electric-wrench-heavy",
+      "name": "Dong Cheng RTC DPB 20C Fixed Square Electric Wrench Heavy...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 5700,
+      "image": "https://m.media-amazon.com/images/I/51xbkdUSQuL.jpg | https://m.media-amazon.com/images/I/31-4eJkYiDL.jpg | https://m.media-amazon.com/images/I/61jtBJpndzL.jpg | https://m.media-amazon.com/images/I/4102GsuWSxL.jpg | https://m.media-amazon.com/images/I/51SK6DMYpWL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Electric-Wrench-Heavy-Duty/dp/B08GCQ459Y/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYEOVCNGRJU2M2E",
+      "slug": "dongcheng-dsj02-25-electric-die-grinder-25mm-rotary-tool",
+      "name": "DongCheng DSJ02-25 Electric Die Grinder 25mm Rotary Tool...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2445,
+      "image": "https://m.media-amazon.com/images/I/61gpIQGgIzL.jpg | https://m.media-amazon.com/images/I/31vw4O1HR+L.jpg | https://m.media-amazon.com/images/I/41VbfcWsbgL.jpg | https://m.media-amazon.com/images/I/31nQnUUNKIL.jpg | https://m.media-amazon.com/images/I/31iZXCuh39L.jpg | https://m.media-amazon.com/images/I/51seL1uAj3L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-DSJ02-25-High-Speed-Polishing-Deburring/dp/B0GTM4SM3D/ref=sr_1_28"
+    },
+    {
+      "sku": "JKE-IIYEQNZUKY4EUU2W",
+      "slug": "dong-cheng-brad-nails-102012mm-pack-of-4-boxes-4000",
+      "name": "Dong Cheng Brad Nails 10×2.0×1.2mm — Pack of 4 Boxes (4,000...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 218,
+      "image": "https://m.media-amazon.com/images/I/71Sia4uZ91L.jpg | https://m.media-amazon.com/images/I/41jNeUYOlfL.jpg | https://m.media-amazon.com/images/I/41AekVnyjRL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Brad-Nails-10%C3%972-0%C3%971-2mm/dp/B0H74V8JSV/ref=sr_1_182"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGY3EGRCR",
+      "slug": "dong-cheng-putty-trowel-3-75mm-stainless-steel-blade-",
+      "name": "Dong Cheng Putty Trowel 3\" / 75mm — Stainless Steel Blade |...",
+      "brand": "Dong Cheng",
+      "category": "General Hardware",
+      "price": 166,
+      "image": "https://m.media-amazon.com/images/I/61hQy4dUThL.jpg | https://m.media-amazon.com/images/I/215xnZekQiL.jpg | https://m.media-amazon.com/images/I/21k1XqN9cDL.jpg | https://m.media-amazon.com/images/I/31EhU5K3C-L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Putty-Trowel-75mm/dp/B0H7266CDQ/ref=sr_1_158"
+    },
+    {
+      "sku": "JKE-IIYEOVRXJBMTMTCH",
+      "slug": "dongcheng-20v-cordless-drilling-machine-40nm-torque-350w",
+      "name": "DongCheng 20V Cordless Drilling Machine, 40Nm Torque, 350W...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 5299,
+      "image": "https://m.media-amazon.com/images/I/81zrg1Djy2L.jpg | https://m.media-amazon.com/images/I/51D85y2OMWL.jpg | https://m.media-amazon.com/images/I/51SUZjChMlL.jpg | https://m.media-amazon.com/images/I/41luLUlB-EL.jpg | https://m.media-amazon.com/images/I/51fAH7WpVsL.jpg | https://m.media-amazon.com/images/I/517o8bwB28L.jpg | https://m.media-amazon.com/images/I/51n5uI4nXxL.jpg | https://m.media-amazon.com/images/I/51UB46BGavL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Drilling-Settings-Accessories/dp/B0GV7HY6LG/ref=sr_1_46"
+    },
+    {
+      "sku": "JKE-IIYDOQSGGVDEYVSY",
+      "slug": "dongcheng-dpb22c-electric-wrench-blue",
+      "name": "Dongcheng DPB22C Electric Wrench (Blue)",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 6730,
+      "image": "https://m.media-amazon.com/images/I/51l+9l4a39L.jpg | https://m.media-amazon.com/images/I/31R3Q7AyAcL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DPB22C-Electric-Wrench-Blue/dp/B07BF5FLVX/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEQNSTINGUGRRR",
+      "slug": "dong-cheng-long-nose-pliers-8-200mm-forged-55-steel-",
+      "name": "Dong Cheng Long Nose Pliers 8\" / 200mm — Forged 55# Steel |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 319,
+      "image": "https://m.media-amazon.com/images/I/614EVDH21nL.jpg | https://m.media-amazon.com/images/I/31SvBQ5pD-L.jpg | https://m.media-amazon.com/images/I/41+xhUhS2+L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Long-Pliers-200mm/dp/B0H6SCMCF1/ref=sr_1_145"
+    },
+    {
+      "sku": "JKE-IIYEQOCWLJEFQS2G",
+      "slug": "dongcheng-battery-12-v-for-12-v-cordless-drill-for",
+      "name": "DongCheng Battery 12 V | for 12 V Cordless Drill | for...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 1399,
+      "image": "https://m.media-amazon.com/images/I/61z7Zxw7RBL.jpg | https://m.media-amazon.com/images/I/31Yz3hgjpsL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-DCJZ1202-Lithium-Ion-LB1220/dp/B0H8VZHXKF/ref=sr_1_112"
+    },
+    {
+      "sku": "JKE-IIYEQNZRKIZUQS2R",
+      "slug": "dong-cheng-phillips-screwdriver-ph2125mm-cr-v",
+      "name": "Dong Cheng Phillips Screwdriver PH2×125mm — CR-V...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 133,
+      "image": "https://m.media-amazon.com/images/I/41O0xMIzilL.jpg | https://m.media-amazon.com/images/I/31chhI9ag9L.jpg | https://m.media-amazon.com/images/I/415zhF6bLCL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Phillips-Screwdriver-PH2%C3%97125mm/dp/B0H71R3HKQ/ref=sr_1_150"
+    },
+    {
+      "sku": "JKE-IIYEOVZUGFIEYWKI",
+      "slug": "dongcheng-angle-grinder-5-850w-125mm-wheel-11800-rpm",
+      "name": "DongCheng Angle Grinder 5\"| 850W | 125mm Wheel | 11800 RPM...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 3149,
+      "image": "https://m.media-amazon.com/images/I/41aX9JschuL.jpg | https://m.media-amazon.com/images/I/41aX9JschuL.jpg | https://m.media-amazon.com/images/I/31p1TbNZPUL.jpg | https://m.media-amazon.com/images/I/31Rl5tIUupL.jpg | https://m.media-amazon.com/images/I/51DIa4mT7JL.jpg | https://m.media-amazon.com/images/I/31TBMqAWcoL.jpg | https://m.media-amazon.com/images/I/31h7oszJYPL.jpg | https://m.media-amazon.com/images/I/41pkSd3hNfL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Angle-Grinder-125mm-Wheel/dp/B0GW41PLYH/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGJDVQNBZ",
+      "slug": "dong-cheng-magnetizer-492951mm-magnetiserdemagnetiser",
+      "name": "Dong Cheng Magnetizer 49×29×51mm — Magnetiser/Demagnetiser...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 180,
+      "image": "https://m.media-amazon.com/images/I/611Kr6UaB3L.jpg | https://m.media-amazon.com/images/I/41IlvU4hWNL.jpg | https://m.media-amazon.com/images/I/41-qoRFoxFL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Magnetizer-49%C3%9729%C3%9751mm-Demagnetiser/dp/B0H722GX49/ref=sr_1_19"
+    },
+    {
+      "sku": "JKE-IIYEOTCOIJIU2URT",
+      "slug": "dongcheng-electric-10-mm-drill-machine-kit-with-13pcs-hss",
+      "name": "DongCheng Electric 10 mm Drill Machine Kit with 13pcs HSS...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2549,
+      "image": "https://m.media-amazon.com/images/I/41joUVXakUL.jpg | https://m.media-amazon.com/images/I/41joUVXakUL.jpg | https://m.media-amazon.com/images/I/411RTsdIabL.jpg | https://m.media-amazon.com/images/I/41Q0xcazTVL.jpg | https://m.media-amazon.com/images/I/419ObKpCJuL.jpg | https://m.media-amazon.com/images/I/41ez-xz5EZL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Machine-Carbon-Multipurpose/dp/B0GLNBQMR3/ref=sr_1_108"
+    },
+    {
+      "sku": "JKE-IIYEOV2YLFBU4WS2",
+      "slug": "dongcheng-angle-grinder-900w-100mm-wheel-diameter-",
+      "name": "DongCheng Angle Grinder | 900W | 100mm Wheel Diameter |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2549,
+      "image": "https://m.media-amazon.com/images/I/61G6ROoMysL.jpg | https://m.media-amazon.com/images/I/315IzDVvXiL.jpg | https://m.media-amazon.com/images/I/3101PoRgA6L.jpg | https://m.media-amazon.com/images/I/31tYNuPbtpL.jpg | https://m.media-amazon.com/images/I/31A9YgLVc9L.jpg | https://m.media-amazon.com/images/I/41mh6jcPIPL.jpg | https://m.media-amazon.com/images/I/41Q6ZK80JXL.jpg | https://m.media-amazon.com/images/I/41FGDrZuv5L.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Labyrinth-Dustproof-Structure-DSM21-100B/dp/B0GWXYCNZZ/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYEQN2GIZBUUQ2K",
+      "slug": "dongcheng-cordless-drill-12-v-10-mm-35-nm-torque-2",
+      "name": "DongCheng Cordless Drill 12 V | 10 mm | 35 N.m Torque | 2...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2799,
+      "image": "https://m.media-amazon.com/images/I/7176kVzNxmL.jpg | https://m.media-amazon.com/images/I/415nhqMCUlL.jpg | https://m.media-amazon.com/images/I/51KZd4QLO4L.jpg | https://m.media-amazon.com/images/I/51D25Xr3vSL.jpg | https://m.media-amazon.com/images/I/41BqzxG-bFL.jpg | https://m.media-amazon.com/images/I/41H7+AAEGmL.jpg | https://m.media-amazon.com/images/I/41yh+YYS7hL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-MultiPurpose-ScrewDriver-DCJZ1202/dp/B0H7FFCJCJ/ref=sr_1_83"
+    },
+    {
+      "sku": "JKE-IIYEQOCXHE2DMOKN",
+      "slug": "dongcheng-battery-12-v-for-12-v-cordless-drill-for",
+      "name": "DongCheng Battery 12 V | for 12 V Cordless Drill | for...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/51wxgnZnTFL.jpg | https://m.media-amazon.com/images/I/21s-dj5x2BL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-DCJZ1202-Lithium-Ion-LB1220/dp/B0H8W9469M/ref=sr_1_31"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBE6T2J",
+      "slug": "dongcheng-dzj03-13-electric-impact-drill-13mm-500w",
+      "name": "Dongcheng Dzj03-13 Electric Impact Drill 13Mm 500W",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 3100,
+      "image": "https://m.media-amazon.com/images/I/81qRm-YcRgL.jpg | https://m.media-amazon.com/images/I/51R6M-iZlgL.jpg | https://m.media-amazon.com/images/I/41DXlQmbe6L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZJ03-13-Electric-Impact-Drill/dp/B01HB4BOOI/ref=sr_1_81"
+    },
+    {
+      "sku": "JKE-IIYEOTKMGFJUWTCW",
+      "slug": "dongcheng-angle-grinder-800w-100mm-wheel-13000-rpm-",
+      "name": "DongCheng Angle Grinder | 800W | 100mm Wheel | 13000 RPM |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2549,
+      "image": "https://m.media-amazon.com/images/I/61RYX77YpoL.jpg | https://m.media-amazon.com/images/I/31t4Y9yibKL.jpg | https://m.media-amazon.com/images/I/31unER0xvdL.jpg | https://m.media-amazon.com/images/I/31eC16E9NbL.jpg | https://m.media-amazon.com/images/I/41NnXHJR+mL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Grinder-Compact-Included-DSM08-100/dp/B0GML1SKLV/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLJBTQRSG",
+      "slug": "dong-cheng-24-pcs-12-socket-set-24pcs-24-piece-12-inch",
+      "name": "Dong Cheng 24 Pcs 1/2\" Socket Set 24pcs — 24-Piece 1/2-Inch...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 4435,
+      "image": "https://m.media-amazon.com/images/I/81TLx0Vhx1L.jpg | https://m.media-amazon.com/images/I/41lZRxyxJWL.jpg | https://m.media-amazon.com/images/I/41sEyG6MhLL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Socket-24pcs-Quick-Release/dp/B0H71ZC8FF/ref=sr_1_180"
+    },
+    {
+      "sku": "JKE-IIYEQNZRI5FEINBW",
+      "slug": "dong-cheng-adjustable-wrench-12-300mm-forged-premium",
+      "name": "Dong Cheng Adjustable Wrench 12\" / 300mm — Forged Premium...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 546,
+      "image": "https://m.media-amazon.com/images/I/61x0rebFVjL.jpg | https://m.media-amazon.com/images/I/31g-ga7IAwL.jpg | https://m.media-amazon.com/images/I/41hSeWNAKyL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Adjustable-Wrench-300mm/dp/B0H71GJD46/ref=sr_1_98"
+    },
+    {
+      "sku": "JKE-IIYDSMJYJNDVMNCS",
+      "slug": "dongcheng-dong-cheng-demolitionconcrete-breakerwhite",
+      "name": "DONGCHENG Dong Cheng Demolition/Concrete Breaker,White",
+      "brand": "Dong Cheng",
+      "category": "Electrical & Wiring",
+      "price": 7370,
+      "image": "https://m.media-amazon.com/images/I/41YeAmnWUFL.jpg | https://m.media-amazon.com/images/I/41YeAmnWUFL.jpg | https://m.media-amazon.com/images/I/41II9PZJV0L.jpg | https://m.media-amazon.com/images/I/31ekdOWjKdL.jpg | https://m.media-amazon.com/images/I/41nC5vjKpiL.jpg | https://m.media-amazon.com/images/I/41uqdvAFIdL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Demolition-Concrete-Breaker/dp/B0918KGV4R/ref=sr_1_4"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBEUNKD",
+      "slug": "dongcheng-dsj25-die-grinder-25mm-240w",
+      "name": "Dongcheng Dsj25 Die Grinder 25Mm 240W",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2080,
+      "image": "https://m.media-amazon.com/images/I/31pj3piF36L.jpg | https://m.media-amazon.com/images/I/31pj3piF36L.jpg | https://m.media-amazon.com/images/I/618DroA7m-L.jpg | https://m.media-amazon.com/images/I/41edFVWjbkL.jpg | https://m.media-amazon.com/images/I/418LWUriIHL.jpg | https://m.media-amazon.com/images/I/41F+YOy5jeL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSJ25-Grinder-25mm-240W/dp/B01HB4BJ5C/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-IIYEQNBXHE4TMRBT",
+      "slug": "dongcheng-cordless-brushless-impact-wrench-20v-488-nm",
+      "name": "DongCheng Cordless Brushless Impact Wrench | 20V | 488 N·m...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 8999,
+      "image": "https://m.media-amazon.com/images/I/51tTDnj2x0L.jpg | https://m.media-amazon.com/images/I/51tTDnj2x0L.jpg | https://m.media-amazon.com/images/I/51K+VRaoaOL.jpg | https://m.media-amazon.com/images/I/51M6SgSF8fL.jpg | https://m.media-amazon.com/images/I/41QtQvQ44zL.jpg | https://m.media-amazon.com/images/I/41l5CQA4zjL.jpg | https://m.media-amazon.com/images/I/41lnX3W8QRL.jpg | https://m.media-amazon.com/images/I/315b2WKSDKL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Brushless-488-3-Speed/dp/B0H47996D3/ref=sr_1_27"
+    },
+    {
+      "sku": "JKE-IIYEQNZRK44DMTC2",
+      "slug": "dong-cheng-tin-snip-10-250mm-sharp-quick-cutting",
+      "name": "Dong Cheng Tin Snip 10\" / 250mm — Sharp Quick-Cutting...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 479,
+      "image": "https://m.media-amazon.com/images/I/71S0N7BPgjL.jpg | https://m.media-amazon.com/images/I/31vWDiQUFeL.jpg | https://m.media-amazon.com/images/I/41LvvxfoB7L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Snip-250mm-Quick-Cutting/dp/B0H71W86LZ/ref=sr_1_134"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGMZUUSSO",
+      "slug": "dong-cheng-high-leverage-combination-pliers-8-200mm-",
+      "name": "Dong Cheng High Leverage Combination Pliers 8\" / 200mm —...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 500,
+      "image": "https://m.media-amazon.com/images/I/61EoHS-XvNL.jpg | https://m.media-amazon.com/images/I/31X8gc08saL.jpg | https://m.media-amazon.com/images/I/419iJA8UBHL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Leverage-Combination-Pliers/dp/B0H7233JJN/ref=sr_1_47"
+    },
+    {
+      "sku": "JKE-IIYEQNZRJZGFGVBY",
+      "slug": "dong-cheng-metal-pipe-cutter-4-32mm-sharp-cutting-wheel-",
+      "name": "Dong Cheng Metal Pipe Cutter 4-32MM — Sharp Cutting Wheel |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 1130,
+      "image": "https://m.media-amazon.com/images/I/610aKOp1OiL.jpg | https://m.media-amazon.com/images/I/31UAIKz3t9L.jpg | https://m.media-amazon.com/images/I/41NSNm26R0L.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Metal-Cutter-4-32MM/dp/B0H71NLST8/ref=sr_1_160"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLBIVCVSK",
+      "slug": "dong-cheng-curved-jaw-locking-plier-10-250mm-forged",
+      "name": "Dong Cheng Curved Jaw Locking Plier 10\" / 250mm — Forged...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 355,
+      "image": "https://m.media-amazon.com/images/I/61wQgyVGVFL.jpg | https://m.media-amazon.com/images/I/21zJWWri9OL.jpg | https://m.media-amazon.com/images/I/41M4AtkNirL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Curved-Locking-Plier/dp/B0H71XQQVJ/ref=sr_1_155"
+    },
+    {
+      "sku": "JKE-IIYDONCMKNMUON2N",
+      "slug": "dongcheng-plastic-dmr08-wood-router-8-mm-900-watts-blue",
+      "name": "Dongcheng Plastic Dmr08 Wood Router, 8 Mm 900 Watts (Blue)",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 6678,
+      "image": "https://m.media-amazon.com/images/I/71gUjBM7kWL.jpg | https://m.media-amazon.com/images/I/51nRs62dv8L.jpg | https://m.media-amazon.com/images/I/413RTupo8dL.jpg | https://m.media-amazon.com/images/I/51ZCChPcseL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-Dmr08-Wood-Router-Watts/dp/B074LSYG7M/ref=sr_1_117"
+    },
+    {
+      "sku": "JKE-IIYEOTSNIMYVIV2S",
+      "slug": "dongcheng-cordless-brushless-impact-wrench-20v-298-nm",
+      "name": "DongCheng Cordless Brushless Impact Wrench | 20V | 298 N·m...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 6699,
+      "image": "https://m.media-amazon.com/images/I/71f6SKJUM2L.jpg | https://m.media-amazon.com/images/I/31BgQBcAh-L.jpg | https://m.media-amazon.com/images/I/41EX+Ip7AVL.jpg | https://m.media-amazon.com/images/I/41WWnzcn2YL.jpg | https://m.media-amazon.com/images/I/41zUFF6sRUL.jpg | https://m.media-amazon.com/images/I/41F7fyiq-FL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cordless-Brushless-2-Speed-Control/dp/B0GNMC1TWR/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBE6MCN",
+      "slug": "tools-4-all-dongcheng-dzj02-13-500w-electric-impact-drill",
+      "name": "Tools-4-All Dongcheng Dzj02-13 500W Electric Impact Drill...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 2215,
+      "image": "https://m.media-amazon.com/images/I/61+Cy7BQuTL.jpg | https://m.media-amazon.com/images/I/417EeM3854L.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZJ02-13-Electric-Impact-Drill/dp/B01HB4BO0M/ref=sr_1_70"
+    },
+    {
+      "sku": "JKE-IIYDOQSGIJNFARBR",
+      "slug": "dongcheng-dzc05-26-hammer-drill-blue",
+      "name": "Dongcheng (DZC05-26) Hammer Drill - Blue",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 4909,
+      "image": "https://m.media-amazon.com/images/I/514DnItC-xL.jpg | https://m.media-amazon.com/images/I/41Q0lvEoLyL.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DZC05-26-Hammer-Drill-Blue/dp/B07BFBZPD1/ref=sr_1_14"
+    },
+    {
+      "sku": "JKE-IIYEOTSNJQ2FSTCQ",
+      "slug": "dongcheng-cut-off-wheel-green-107x10x16mm-a46t-bf-t41",
+      "name": "DongCheng Cut Off Wheel Green, 107x1.0x16mm, A46T-BF T41,...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/710OI-31a5L.jpg | https://m.media-amazon.com/images/I/41KY6TCX68L.jpg | https://m.media-amazon.com/images/I/41nfKD1lGGL.jpg | https://m.media-amazon.com/images/I/41Yqz587JVL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Cut-107x1-0x16mm-A46T-BF-Stainless/dp/B0GNML4YLP/ref=sr_1_151"
+    },
+    {
+      "sku": "JKE-IIYEQNZSGEZUQNRR",
+      "slug": "dong-cheng-u-type-nails-126312mm-pack-of-3-boxes",
+      "name": "Dong Cheng U-Type Nails 12×6.3×1.2mm — Pack of 3 Boxes...",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 230,
+      "image": "https://m.media-amazon.com/images/I/814QYZC4jDL.jpg | https://m.media-amazon.com/images/I/41Saw-JVqCL.jpg | https://m.media-amazon.com/images/I/41PmX8upEOL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-U-Type-Nails-12%C3%976-3%C3%971-2mm/dp/B0H7213H61/ref=sr_1_181"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLBLEIVCX",
+      "slug": "dong-cheng-machinist-hammer-300g-forged-head-with",
+      "name": "Dong Cheng Machinist Hammer 300g — Forged Head with...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 291,
+      "image": "https://m.media-amazon.com/images/I/610hbX86PtL.jpg | https://m.media-amazon.com/images/I/21i3GCFp7zL.jpg | https://m.media-amazon.com/images/I/414CTBWtXwL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Machinist-Hammer-300g/dp/B0H71XVDTW/ref=sr_1_130"
+    },
+    {
+      "sku": "JKE-IIYDCSCCGRBFGUKX",
+      "slug": "dongcheng-dsb100-150w-orbital-sander-110x100mm",
+      "name": "DONGCHENG Dsb100 150W Orbital Sander, 110X100mm",
+      "brand": "Dong Cheng",
+      "category": "Power Tools",
+      "price": 2770,
+      "image": "https://m.media-amazon.com/images/I/414ikInzjML.jpg | https://m.media-amazon.com/images/I/414ikInzjML.jpg",
+      "productUrl": "https://www.amazon.in/Dongcheng-DSB100-Orbital-Sander-110X100mm/dp/B01HB4BSQW/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-IIYEQNZRLEZEMTKE",
+      "slug": "dong-cheng-slotted-screwdriver-6125mm-cr-v-heat-treated",
+      "name": "Dong Cheng Slotted Screwdriver 6×125mm — CR-V Heat-Treated...",
+      "brand": "Dong Cheng",
+      "category": "Fasteners & Hardware",
+      "price": 133,
+      "image": "https://m.media-amazon.com/images/I/41rCrLv0B8L.jpg | https://m.media-amazon.com/images/I/318Ftuf-1oL.jpg | https://m.media-amazon.com/images/I/41N3PM-vovL.jpg",
+      "productUrl": "https://www.amazon.in/Dong-Cheng-Slotted-Screwdriver-6%C3%97125mm/dp/B0H71Y2FMD/ref=sr_1_152"
+    },
+    {
+      "sku": "JKE-IIYEQNZYKA4EQUKO",
+      "slug": "dongcheng-electric-impact-wrench-620w-588-nm-torque-",
+      "name": "DongCheng Electric Impact Wrench | 620W | 588 N.m Torque |...",
+      "brand": "Dong Cheng",
+      "category": "Hand Tools",
+      "price": 7999,
+      "image": "https://m.media-amazon.com/images/I/41ywHdTBboL.jpg | https://m.media-amazon.com/images/I/41ywHdTBboL.jpg | https://m.media-amazon.com/images/I/41mWuOU37WL.jpg | https://m.media-amazon.com/images/I/510AQh5a7-L.jpg | https://m.media-amazon.com/images/I/41tisgLyiXL.jpg | https://m.media-amazon.com/images/I/311o7fgGQ3L.jpg | https://m.media-amazon.com/images/I/31Zn25khFAL.jpg | https://m.media-amazon.com/images/I/312ycFoxTbL.jpg",
+      "productUrl": "https://www.amazon.in/DongCheng-Electric-Included-DPB22C-Carrying/dp/B0H78P8HQN/ref=sr_1_84"
     }
   ]
 }

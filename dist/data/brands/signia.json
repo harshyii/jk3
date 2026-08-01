@@ -1,0 +1,46 @@
+{
+  "name": "Signia",
+  "slug": "signia",
+  "products": [
+    {
+      "sku": "JKE-IIYEMQSZGRNEGOKG",
+      "slug": "signia-hearing-aid-batteries-size-13-6-x-2-pack-12-pcs",
+      "name": "Signia Hearing Aid Batteries Size 13 (6 X 2 Pack) 12 Pcs",
+      "brand": "Signia",
+      "category": "Measuring & Layout",
+      "price": 273,
+      "image": "https://m.media-amazon.com/images/I/51+ter4kNSL.jpg | https://m.media-amazon.com/images/I/51+ter4kNSL.jpg | https://m.media-amazon.com/images/I/41X1x+qJvCL.jpg | https://m.media-amazon.com/images/I/51lZbsxbr5L.jpg",
+      "productUrl": "https://www.amazon.in/Signia-Hearing-Batteries-Size-Pack/dp/B0FBY4ZC9F/ref=sr_1_110"
+    },
+    {
+      "sku": "JKE-IIYDQM2HLFITINSU",
+      "slug": "signia-premium-hearing-aid-batteries-superior-power-for",
+      "name": "Signia Premium Hearing Aid Batteries – Superior Power for...",
+      "brand": "Signia",
+      "category": "Measuring & Layout",
+      "price": 545,
+      "image": "https://m.media-amazon.com/images/I/41wJf3bWswL.jpg | https://m.media-amazon.com/images/I/41wJf3bWswL.jpg | https://m.media-amazon.com/images/I/415G1bd0s-L.jpg | https://m.media-amazon.com/images/I/41d9eNZb7QL.jpg | https://m.media-amazon.com/images/I/41eEsuJnVbL.jpg",
+      "productUrl": "https://www.amazon.in/Signia-Hearing-Battery-Size-Batteries/dp/B083GYQ46T/ref=sr_1_51"
+    },
+    {
+      "sku": "JKE-IIYDSTCRKRCDGOJZ",
+      "slug": "signia-hearing-aid-batteries-size-675-hearcom-pack-of",
+      "name": "Signia Hearing Aid Batteries- Size 675- Hear.com (Pack of...",
+      "brand": "Signia",
+      "category": "Measuring & Layout",
+      "price": 551,
+      "image": "https://m.media-amazon.com/images/I/51yrl2Fks6L.jpg | https://m.media-amazon.com/images/I/41mcfus9TeL.jpg | https://m.media-amazon.com/images/I/51OSe-DcX4L.jpg | https://m.media-amazon.com/images/I/41CAyg6Z2+L.jpg | https://m.media-amazon.com/images/I/51dZqQ5-e3L.jpg | https://m.media-amazon.com/images/I/41m4v8RSuxL.jpg",
+      "productUrl": "https://www.amazon.in/Signia-Hearing-Batteries-Size-Hear-com/dp/B09LQTD399/ref=sr_1_127"
+    },
+    {
+      "sku": "JKE-IIYDQM2HLFDEOWK2",
+      "slug": "signia-hearing-aid-batteries-size-13-hearstorein-24",
+      "name": "Signia Hearing Aid Batteries- Size 13- Hearstore.in (24)",
+      "brand": "Signia",
+      "category": "Measuring & Layout",
+      "price": 548,
+      "image": "https://m.media-amazon.com/images/I/712DczmVX-L.jpg | https://m.media-amazon.com/images/I/41UVsO9dj-L.jpg",
+      "productUrl": "https://www.amazon.in/Signia-Hearing-Battery-Size-Batteries/dp/B083GYFGYZ/ref=sr_1_41"
+    }
+  ]
+}

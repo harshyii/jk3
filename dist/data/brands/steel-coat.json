@@ -1,0 +1,16 @@
+{
+  "name": "Steel Coat",
+  "slug": "steel-coat",
+  "products": [
+    {
+      "sku": "JKE-IIYEQN2IJJJVIUCU",
+      "slug": "shinex-4-in-1-automotive-care-spray-multi-purpose",
+      "name": "SHINEX 4-in-1 Automotive Care Spray | Multi-Purpose...",
+      "brand": "Steel Coat",
+      "category": "Adhesives & Chemicals",
+      "price": 800,
+      "image": "https://m.media-amazon.com/images/I/31j71KmtUQL.jpg | https://m.media-amazon.com/images/I/31j71KmtUQL.jpg | https://m.media-amazon.com/images/I/41mFWgOxJcL.jpg | https://m.media-amazon.com/images/I/61odhShLCaL.jpg | https://m.media-amazon.com/images/I/41hD9yrOGML.jpg | https://m.media-amazon.com/images/I/41kofYb2swL.jpg",
+      "productUrl": "https://www.amazon.in/Care-Spray-Multi-Purpose-Interior-Exterior/dp/B0H7HJSTPT/ref=sr_1_46"
+    }
+  ]
+}

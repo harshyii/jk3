@@ -1,0 +1,26 @@
+{
+  "name": "Elbme",
+  "slug": "elbme",
+  "products": [
+    {
+      "sku": "JKE-IIYEMM2YG5DDKUZZ",
+      "slug": "solar-panel-kit-300w-12v-24v-waterproof-high-efficiency",
+      "name": "Solar Panel Kit, 300W 12V 24V Waterproof High Efficiency...",
+      "brand": "Elbme",
+      "category": "Storage & Organization",
+      "price": 10059,
+      "image": "https://m.media-amazon.com/images/I/71ofREUQ9LL.jpg | https://m.media-amazon.com/images/I/41NH91TdgVL.jpg | https://m.media-amazon.com/images/I/41mvcCWHGML.jpg | https://m.media-amazon.com/images/I/51N0NuVCHUL.jpg | https://m.media-amazon.com/images/I/51VDZLj-E9L.jpg | https://m.media-amazon.com/images/I/41BeigKgatL.jpg | https://m.media-amazon.com/images/I/419Bb-0iYeL.jpg",
+      "productUrl": "https://www.amazon.in/Waterproof-Efficiency-Charger-Controller-Caravan_1/dp/B0F3X7F5S9/ref=sr_1_153"
+    },
+    {
+      "sku": "JKE-IIYEQOCEKJNDKNBX",
+      "slug": "20w-monocrystalline-solar-panel-charger-dc-5v-portable",
+      "name": "20W Monocrystalline Solar Panel Charger, DC 5V Portable...",
+      "brand": "Elbme",
+      "category": "General Hardware",
+      "price": 5719,
+      "image": "https://m.media-amazon.com/images/I/71Dl2eBj-jL.jpg | https://m.media-amazon.com/images/I/410O32lplVL.jpg",
+      "productUrl": "https://www.amazon.in/Monocrystalline-Portable-Charging-Backpacking-Emergency/dp/B0H8DRZ547/ref=sr_1_305"
+    }
+  ]
+}

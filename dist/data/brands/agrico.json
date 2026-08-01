@@ -3,44 +3,44 @@
   "slug": "agrico",
   "products": [
     {
-      "sku": "JKE-IIYDCTCYJ5HFGSZX",
-      "slug": "agrico-tata-8-inch-adjustable-spanner-heavy-duty-wrench-with-rust-proof-black-phosphate-finish-universal-hand-tool-for-plumbing-nuts-bolts-wra001-black",
-      "name": "AGRICO TATA 8 Inch Adjustable Spanner | Heavy-Duty Wrench with Rust-Proof Black Phosphate Finish | Universal Hand Tool for Plumbing, Nuts & Bolts (WRA001, Black)",
+      "sku": "JKE-IIYDONKDIYZFMU2U",
+      "slug": "tata-agrico-combination-plier-7-inch-wire-cutter-heavy",
+      "name": "TATA Agrico Combination Plier 7 Inch (Wire Cutter) | Heavy...",
       "brand": "Agrico",
       "category": "Hand Tools",
-      "price": "₹299.00",
+      "price": 301,
+      "image": "https://m.media-amazon.com/images/I/41gD+oLZF4L.jpg | https://m.media-amazon.com/images/I/31lS6wJZWTL.jpg | https://m.media-amazon.com/images/I/31VRhevMNJL.jpg | https://m.media-amazon.com/images/I/31X81FonnDL.jpg | https://m.media-amazon.com/images/I/41rF35AEcLL.jpg | https://m.media-amazon.com/images/I/41jgdEZoY0L.jpg | https://m.media-amazon.com/images/I/3159q8Q5z7L.jpg",
+      "productUrl": "https://www.amazon.in/TATA-AGRICO-Combination-Cutters-Purpose/dp/B075CF2VST/ref=sr_1_120"
+    },
+    {
+      "sku": "JKE-IIYDCTCYJ5HFGSZX",
+      "slug": "agrico-tata-8-inch-adjustable-spanner-heavy-duty-wrench",
+      "name": "AGRICO TATA 8 Inch Adjustable Spanner | Heavy-Duty Wrench...",
+      "brand": "Agrico",
+      "category": "Hand Tools",
+      "price": 299,
       "image": "https://m.media-amazon.com/images/I/41mm4Y-2OmL.jpg | https://m.media-amazon.com/images/I/3151SyaaeTL.jpg | https://m.media-amazon.com/images/I/41fdQOXiLzL.jpg | https://m.media-amazon.com/images/I/51IDKFd8hlL.jpg | https://m.media-amazon.com/images/I/31o0vZcLUSL.jpg | https://m.media-amazon.com/images/I/31IIpbXJKtL.jpg | https://m.media-amazon.com/images/I/41020K-pC8L.jpg",
       "productUrl": "https://www.amazon.in/TATA-AGRICO-Chrome-Vanadium-Adjustable/dp/B01LXONSK7/ref=sr_1_185"
     },
     {
       "sku": "JKE-IIYEIQRWGU2UGNKI",
-      "slug": "tata-agrico-engineering-hammer-2lb-hmc020-double-faced-heavy-duty-hammer-with-shot-blasted-smooth-head-10-inch-fiberglass-handle-is-certified-rust-resistant-paint-pack-of-1",
-      "name": "TATA Agrico Engineering Hammer 2lb (HMC020) | Double Faced Heavy Duty Hammer with Shot Blasted Smooth Head | 10 Inch Fiberglass Handle | IS Certified | Rust Resistant Paint | Pack of 1",
+      "slug": "tata-agrico-engineering-hammer-2lb-hmc020-double-faced",
+      "name": "TATA Agrico Engineering Hammer 2lb (HMC020) | Double Faced...",
       "brand": "Agrico",
       "category": "Hand Tools",
-      "price": "₹464.00",
+      "price": 464,
       "image": "https://m.media-amazon.com/images/I/61ayD-hKxWL.jpg | https://m.media-amazon.com/images/I/31MEei8TFOL.jpg | https://m.media-amazon.com/images/I/41KyzO+z7WL.jpg",
       "productUrl": "https://www.amazon.in/Agrico-Engineering-Hammer-Fiberglass-Handle/dp/B0DB655C5H/ref=sr_1_151"
     },
     {
       "sku": "JKE-IIYDOWBZGJJFEWRV",
-      "slug": "agrico-tata-chrome-vanadium-steel-open-jaw-spanner-setwrench-settool-kit-multipurpose-home-use-and-professional-spanners-corrosion-resistant-chrome-plating-doe-jaw-spanners-silver-set-of-8",
-      "name": "AGRICO TATA Chrome Vanadium Steel Open Jaw Spanner Set/Wrench Set/Tool Kit Multipurpose Home Use and Professional Spanners Corrosion Resistant Chrome Plating DOE Jaw Spanners- (Silver Set of 8)",
+      "slug": "agrico-tata-chrome-vanadium-steel-open-jaw-spanner",
+      "name": "AGRICO TATA Chrome Vanadium Steel Open Jaw Spanner...",
       "brand": "Agrico",
       "category": "Hand Tools",
-      "price": "₹324.00",
+      "price": 324,
       "image": "https://m.media-amazon.com/images/I/61vykcF9LIL.jpg | https://m.media-amazon.com/images/I/31SZ1VrNyLL.jpg | https://m.media-amazon.com/images/I/51eTqYYwFqL.jpg | https://m.media-amazon.com/images/I/51-8SM47xTL.jpg | https://m.media-amazon.com/images/I/51mHQRYiQvL.jpg | https://m.media-amazon.com/images/I/31vkZ4Ff0rL.jpg | https://m.media-amazon.com/images/I/41J1nSX8h7L.jpg",
       "productUrl": "https://www.amazon.in/AGRICO-Multipurpose-Professional-Corrosion-Resistant/dp/B07X92RRZ5/ref=sr_1_135"
-    },
-    {
-      "sku": "JKE-IIYDONKDIYZFMU2U",
-      "slug": "tata-agrico-combination-plier-7-inch-wire-cutter-heavy-duty-alloy-steel-multipurpose-plier-insulated-grip-for-cutting-gripping-bending-wires-durable-hand-tool-for-home-professional-use",
-      "name": "TATA Agrico Combination Plier 7 Inch (Wire Cutter) | Heavy Duty Alloy Steel Multipurpose Plier | Insulated Grip for Cutting, Gripping & Bending Wires | Durable Hand Tool for Home & Professional Use",
-      "brand": "Agrico",
-      "category": "Hand Tools",
-      "price": "₹301.00",
-      "image": "https://m.media-amazon.com/images/I/41gD+oLZF4L.jpg | https://m.media-amazon.com/images/I/31lS6wJZWTL.jpg | https://m.media-amazon.com/images/I/31VRhevMNJL.jpg | https://m.media-amazon.com/images/I/31X81FonnDL.jpg | https://m.media-amazon.com/images/I/41rF35AEcLL.jpg | https://m.media-amazon.com/images/I/41jgdEZoY0L.jpg | https://m.media-amazon.com/images/I/3159q8Q5z7L.jpg",
-      "productUrl": "https://www.amazon.in/TATA-AGRICO-Combination-Cutters-Purpose/dp/B075CF2VST/ref=sr_1_289"
     }
   ]
 }

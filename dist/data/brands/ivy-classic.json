@@ -1,0 +1,36 @@
+{
+  "name": "Ivy Classic",
+  "slug": "ivy-classic",
+  "products": [
+    {
+      "sku": "JKE-IIYDANJSJFHUKOCP",
+      "slug": "ivy-classic-45058-1-inch-2-phillips-drywall-screw-setter",
+      "name": "IVY Classic 45058 1-Inch #2 Phillips Drywall Screw Setter,...",
+      "brand": "Ivy Classic",
+      "category": "Fasteners & Hardware",
+      "price": 2648.32,
+      "image": "https://m.media-amazon.com/images/I/612LVvTasXL.jpg | https://m.media-amazon.com/images/I/41tPAZO4YeL.jpg | https://m.media-amazon.com/images/I/41gsjXpIX+L.jpg | https://m.media-amazon.com/images/I/51XR05p7z4L.jpg",
+      "productUrl": "https://www.amazon.in/IVY-Classic-45058-Phillips-Drywall/dp/B0052IOE8O/ref=sr_1_300"
+    },
+    {
+      "sku": "JKE-IIYDANJSJFHUGTRW",
+      "slug": "ivy-classic-45036-1-inch-2-square-insert-bit-impact-plus",
+      "name": "IVY Classic 45036 1-Inch #2 Square Insert Bit, Impact Plus,...",
+      "brand": "Ivy Classic",
+      "category": "Measuring & Layout",
+      "price": 3778.2,
+      "image": "https://m.media-amazon.com/images/I/51ukOn6zHNL.jpg | https://m.media-amazon.com/images/I/41fT1HlSGIL.jpg | https://m.media-amazon.com/images/I/4133YyeQZRL.jpg | https://m.media-amazon.com/images/I/51XR05p7z4L.jpg",
+      "productUrl": "https://www.amazon.in/IVY-Classic-45036-1-Inch-50-Pack/dp/B0052IOCN6/ref=sr_1_296"
+    },
+    {
+      "sku": "JKE-IIYDANJSJFHTQNJY",
+      "slug": "ivy-classic-44798-12-x-2-12-sds-plus-magnetic-nut",
+      "name": "IVY Classic 44798 1/2 x 2-1/2\" SDS-Plus Magnetic Nut...",
+      "brand": "Ivy Classic",
+      "category": "Hand Tools",
+      "price": 2855.6,
+      "image": "https://m.media-amazon.com/images/I/51gsCct2DeL.jpg | https://m.media-amazon.com/images/I/41cO54XQFdL.jpg | https://m.media-amazon.com/images/I/41c+6yH2bsL.jpg | https://m.media-amazon.com/images/I/41-dCHQ9vPL.jpg | https://m.media-amazon.com/images/I/41t66qVqgUL.jpg | https://m.media-amazon.com/images/I/51oyHgCiocL.jpg | https://m.media-amazon.com/images/I/519BEr71biL.jpg | https://m.media-amazon.com/images/I/51ehj2yfPDL.jpg",
+      "productUrl": "https://www.amazon.in/IVY-Classic-44798-SDS-Plus-Magnetic/dp/B0052IO858/ref=sr_1_265"
+    }
+  ]
+}

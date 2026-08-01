@@ -4,23 +4,53 @@
   "products": [
     {
       "sku": "JKE-IIYEQNSXKBITCNKU",
-      "slug": "wt-hg16-35-hot-air-tool-1600w-350c500c-temperature-range-300550lmin-air-flow-heat-gun-for-diy-workshop-use-6-months-warranty",
-      "name": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature Range, 300–550L/min Air Flow Heat Gun for DIY & Workshop Use - 6 Months Warranty",
+      "slug": "wt-hg16-35-hot-air-tool-1600w-350c500c-temperature",
+      "name": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature...",
       "brand": "Wintech Pro",
       "category": "General Hardware",
-      "price": "₹711.00",
+      "price": 711,
       "image": "https://m.media-amazon.com/images/I/617F9lfEUTL.jpg | https://m.media-amazon.com/images/I/41vfusqJmYL.jpg | https://m.media-amazon.com/images/I/51eoNWVQUdL.jpg | https://m.media-amazon.com/images/I/51B-4mTji8L.jpg | https://m.media-amazon.com/images/I/51+rstVuWfL.jpg | https://m.media-amazon.com/images/I/515lFw823RL.jpg",
       "productUrl": "https://www.amazon.in/WINTECH-PRO-HG16-35-350%C2%B0C-500%C2%B0C-Temperature/dp/B0H6WPQ15T/ref=sr_1_175"
     },
     {
       "sku": "JKE-IIYEMWBVGZFTCSCG",
-      "slug": "wt-gk17-42-mini-die-grinder-rotary-130w-tool-kit-with-52pcs-accessories-variable-speed-for-drilling-sanding-buffing-polishing-engraving-and-more",
-      "name": "WT GK17-42 Mini Die Grinder Rotary 130W Tool Kit with 52pcs Accessories, Variable Speed for Drilling, Sanding, Buffing, Polishing, Engraving, and More",
+      "slug": "wt-gk17-42-mini-die-grinder-rotary-130w-tool-kit-with-52pcs",
+      "name": "WT GK17-42 Mini Die Grinder Rotary 130W Tool Kit with 52pcs...",
       "brand": "Wintech Pro",
       "category": "Power Tools",
-      "price": "₹1,999.00",
+      "price": 1999,
       "image": "https://m.media-amazon.com/images/I/81n+8mUzO8L.jpg | https://m.media-amazon.com/images/I/515MQCptZtL.jpg | https://m.media-amazon.com/images/I/511x59Y-1yL.jpg | https://m.media-amazon.com/images/I/510+jUulp9L.jpg | https://m.media-amazon.com/images/I/51Ig0IBbFPL.jpg | https://m.media-amazon.com/images/I/51E-d7FOZEL.jpg | https://m.media-amazon.com/images/I/51GW64SPRJL.jpg | https://m.media-amazon.com/images/I/51m+NQEPV+L.jpg",
       "productUrl": "https://www.amazon.in/WINTECH-PRO-Accessories-Polishing-Engraving/dp/B0FX56K1HF/ref=sr_1_290"
+    },
+    {
+      "sku": "JKE-IIYEMWKOGRBU2WCE",
+      "slug": "wt-pw6500-1600w-high-pressure-washer-induction-motor-130",
+      "name": "WT PW6500 1600W High Pressure Washer Induction Motor | 130...",
+      "brand": "Wintech Pro",
+      "category": "Power Tools",
+      "price": 4599,
+      "image": "https://m.media-amazon.com/images/I/714nQOexsuL.jpg | https://m.media-amazon.com/images/I/41+pEneKR7L.jpg | https://m.media-amazon.com/images/I/41dWsCfANjL.jpg | https://m.media-amazon.com/images/I/51MXFYMwOCL.jpg | https://m.media-amazon.com/images/I/51EnZXb+7+L.jpg | https://m.media-amazon.com/images/I/51dsw8-JemL.jpg | https://m.media-amazon.com/images/I/41-KrYPqB+L.jpg",
+      "productUrl": "https://www.amazon.in/WINTECH-PRO-WT-PW6500-High-Efficiency/dp/B0FYN4CMXD/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-IIYEMUJRKNDFEVZR",
+      "slug": "20v-cordless-impact-drill-wt-cm18-35-32nm-3-mode",
+      "name": "20V Cordless Impact Drill WT CM18-35 | 32Nm | 3 Mode...",
+      "brand": "Wintech Pro",
+      "category": "Power Tools",
+      "price": 2599,
+      "image": "https://m.media-amazon.com/images/I/71ojWVVTMML.jpg | https://m.media-amazon.com/images/I/41DzHwoNeSL.jpg | https://m.media-amazon.com/images/I/51F7XKEBPNL.jpg | https://m.media-amazon.com/images/I/51r--fQLuvL.jpg | https://m.media-amazon.com/images/I/5165oGCLmfL.jpg | https://m.media-amazon.com/images/I/51m7Jj6rOCL.jpg",
+      "productUrl": "https://www.amazon.in/WINTECH-PRO-Cordless-WT-CM18-35/dp/B0FQ1SFRW1/ref=sr_1_293"
+    },
+    {
+      "sku": "JKE-IIYEMUJSGZFU2TJZ",
+      "slug": "angle-grinder-wt-ag10-75-750w-power-100mm4-disc-m10",
+      "name": "Angle Grinder WT AG10-75 | 750W Power | 100mm/4\" Disc | M10...",
+      "brand": "Wintech Pro",
+      "category": "Power Tools",
+      "price": 1599,
+      "image": "https://m.media-amazon.com/images/I/71EsHcmwZpL.jpg | https://m.media-amazon.com/images/I/41anAi7kJfL.jpg | https://m.media-amazon.com/images/I/41cFS0sIGAL.jpg | https://m.media-amazon.com/images/I/511Swq-ghlL.jpg | https://m.media-amazon.com/images/I/51VEqndQVOL.jpg | https://m.media-amazon.com/images/I/51ZzuqWMG2L.jpg",
+      "productUrl": "https://www.amazon.in/WINTECH-PRO-WT-AG10-75-Polishing/dp/B0FQ26KMM9/ref=sr_1_77"
     }
   ]
 }

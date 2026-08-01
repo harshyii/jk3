@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGURXKE4UIVSK",
-  "title": "Eastman Claw Hammer, 1/2 lbs Drop Forged Steel Induction Hardened Teeth with Rubber Coated Metal Handle Fittings for Home, DIY, Mechanic, Industrial & Professional Use (E-2061S)",
+  "title": "Eastman Claw Hammer, 1/2 lbs Drop Forged Steel Induction...",
   "brand": "Eastman",
-  "current_price": "₹201.00",
-  "mrp": "₹330",
+  "current_price": 201,
+  "mrp": 330,
   "product_url": "https://www.amazon.in/Eastman-Claw-Hammer-227g-2061S/dp/B0CR7Q9DVJ/ref=sr_1_66",
   "description": "Eastman Claw Hammer, 1/2 lbs Drop Forged Steel Induction Hardened Teeth with Rubber Coated Metal Handle Fittings for Home, DIY, Mechanic, Industrial & Professional Use (E-2061S) - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -23,16 +23,16 @@
   "image_url_6": "https://m.media-amazon.com/images/I/21gNhF+VwBL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/212l9gM4GbL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman Cast & Forge Limited",
     "Item Type Name": "General",
     "ASIN": "‎B0CR7Q9DVJ",
     "Product Dimensions": "‎25 x 10 x 2 cm; 400 g",
-    "Item model number": "‎E-2061S_1/2lb",
-    "Country of Origin": "‎India"
+    "Item model number": "‎E-2061S_1/2lb"
   },
   "SKU": "JKE-IIYEGURXKE4UIVSK",
-  "Name": "Eastman Claw Hammer, 1/2 lbs Drop Forged Steel Induction Hardened Teeth with Rubber Coated Metal Handle Fittings for Home, DIY, Mechanic, Industrial & Professional Use (E-2061S)",
-  "Slug": "eastman-claw-hammer-12-lbs-drop-forged-steel-induction-hardened-teeth-with-rubber-coated-metal-handle-fittings-for-home-diy-mechanic-industrial-professional-use-e-2061s",
+  "Name": "Eastman Claw Hammer, 1/2 lbs Drop Forged Steel Induction...",
+  "Slug": "eastman-claw-hammer-12-lbs-drop-forged-steel-induction",
   "Category": "Hand Tools",
   "Subcategory1": "Hand Saws",
   "Images": [
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/212l9gM4GbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61e7zD5-ieL.jpg | https://m.media-amazon.com/images/I/21s2Xifp8xL.jpg | https://m.media-amazon.com/images/I/21SMl0H0MKL.jpg | https://m.media-amazon.com/images/I/21PAWiIVgAL.jpg | https://m.media-amazon.com/images/I/21gNhF+VwBL.jpg | https://m.media-amazon.com/images/I/212l9gM4GbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹201.00",
+  "Discount": 39.09,
+  "SalePrice": 201,
   "Country": "‎India"
 }

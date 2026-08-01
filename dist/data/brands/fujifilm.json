@@ -1,0 +1,26 @@
+{
+  "name": "Fujifilm",
+  "slug": "fujifilm",
+  "products": [
+    {
+      "sku": "JKE-IIYDCSJUKJHFAUJW",
+      "slug": "fujifilm-np-w126-lithium-ion-battery-black",
+      "name": "Fujifilm NP-W126 Lithium-Ion Battery, Black",
+      "brand": "Fujifilm",
+      "category": "General Hardware",
+      "price": 5293,
+      "image": "https://m.media-amazon.com/images/I/71CBaex20jL.jpg | https://m.media-amazon.com/images/I/51+gT2e9blL.jpg",
+      "productUrl": "https://www.amazon.in/Fujifilm-NP-W126S-Li-Ion-Battery-Pack/dp/B01I4RNPQ6/ref=sr_1_111"
+    },
+    {
+      "sku": "JKE-IIYDAMBSIFBEQNSZ",
+      "slug": "fuji-storage-media-floppy-disk-144-mb",
+      "name": "Fuji Storage Media Floppy Disk 1.44 MB",
+      "brand": "Fujifilm",
+      "category": "General Hardware",
+      "price": 7073,
+      "image": "https://m.media-amazon.com/images/I/510SGvi2WaL.jpg | https://m.media-amazon.com/images/I/31ZoZ+rzzSL.jpg | https://m.media-amazon.com/images/I/51WZou0ZB9L.jpg",
+      "productUrl": "https://www.amazon.in/Fuji-Storage-Media-Floppy-Disk/dp/B0002ABH6Y/ref=sr_1_195"
+    }
+  ]
+}

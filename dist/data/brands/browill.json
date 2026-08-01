@@ -1,0 +1,16 @@
+{
+  "name": "Browill",
+  "slug": "browill",
+  "products": [
+    {
+      "sku": "JKE-IIYEQMSEIY3VMNKS",
+      "slug": "12-in-1-soldering-iron-tool-kit-80w-fast-heat-up-lcd",
+      "name": "12-in-1 Soldering Iron Tool Kit 80W Fast Heat up LCD...",
+      "brand": "Browill",
+      "category": "Measuring & Layout",
+      "price": 1399,
+      "image": "https://m.media-amazon.com/images/I/61FD53m7pQL.jpg | https://m.media-amazon.com/images/I/41sQ83GdzqL.jpg | https://m.media-amazon.com/images/I/41rcmrBRnuL.jpg | https://m.media-amazon.com/images/I/41g-2Ex3DNL.jpg | https://m.media-amazon.com/images/I/51xrlfdX1CL.jpg | https://m.media-amazon.com/images/I/51ec57fHV8L.jpg | https://m.media-amazon.com/images/I/51V0ByXhEuL.jpg | https://m.media-amazon.com/images/I/517eRBrnQKL.jpg",
+      "productUrl": "https://www.amazon.in/Soldering-180-500%C2%B0C-Adjustable-Desoldering-Tweezers/dp/B0H2DF7V5R/ref=sr_1_266"
+    }
+  ]
+}

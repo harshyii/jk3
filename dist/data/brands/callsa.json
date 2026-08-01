@@ -4,11 +4,11 @@
   "products": [
     {
       "sku": "JKE-IIYEOUCSGFGUYVSC",
-      "slug": "21v-1a-fast-lithium-ion-battery-charger-with-auto-cut-feature-100-240v-ac-input-replacement-power-tool-charger-for-21v-cordless-drill-warrior-drill-21-volt-li-ion-battery-pack",
-      "name": "21V 1A Fast Lithium Ion Battery Charger with Auto-Cut Feature, 100-240V AC Input, Replacement Power Tool Charger for 21V Cordless Drill, Warrior Drill & 21 Volt Li-Ion Battery Pack",
+      "slug": "21v-1a-fast-lithium-ion-battery-charger-with-auto-cut",
+      "name": "21V 1A Fast Lithium Ion Battery Charger with Auto-Cut...",
       "brand": "Callsa",
       "category": "Power Tools",
-      "price": "₹399.00",
+      "price": 399,
       "image": "https://m.media-amazon.com/images/I/61Px3-VqeSL.jpg | https://m.media-amazon.com/images/I/31tH5gZk3GL.jpg | https://m.media-amazon.com/images/I/51NvE+rsBDL.jpg | https://m.media-amazon.com/images/I/51j4ZLccp7L.jpg | https://m.media-amazon.com/images/I/411lV6dxvaL.jpg | https://m.media-amazon.com/images/I/41KndzmCi-L.jpg",
       "productUrl": "https://www.amazon.in/Lithium-Auto-Cut-100-240V-Replacement-Cordless/dp/B0GPR1MLVB/ref=sr_1_214"
     }

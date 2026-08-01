@@ -1,0 +1,36 @@
+{
+  "name": "Nimmz Collection",
+  "slug": "nimmz-collection",
+  "products": [
+    {
+      "sku": "JKE-IIYEIUSLGFMDOMRY",
+      "slug": "motor-rotor-part-for-dongcheng-s1m-ff03-100a-bosch-tws6000",
+      "name": "Motor Rotor Part for Dongcheng S1M-FF03-100A Bosch TWS6000...",
+      "brand": "Nimmz Collection",
+      "category": "Power Tools",
+      "price": 4115.2,
+      "image": "https://m.media-amazon.com/images/I/51c8ESa72VL.jpg | https://m.media-amazon.com/images/I/41An6aQ+s+L.jpg | https://m.media-amazon.com/images/I/31rwmumTsvS.jpg | https://m.media-amazon.com/images/I/41rTD1zst8L.jpg",
+      "productUrl": "https://www.amazon.in/Nimmz-Collection-Dongcheng-S1M-FF03-100A-60020156NMZ/dp/B0DRK1X728/ref=sr_1_194"
+    },
+    {
+      "sku": "JKE-IIYEOWSGIM2TMVC2",
+      "slug": "1pc-angle-grinder-rotor-equipment-for-dongcheng",
+      "name": "1PC Angle Grinder Rotor Equipment for Dongcheng...",
+      "brand": "Nimmz Collection",
+      "category": "Power Tools",
+      "price": 1799,
+      "image": "https://m.media-amazon.com/images/I/61KP1q62ynL.jpg | https://m.media-amazon.com/images/I/51QOPYUOIwL.jpg | https://m.media-amazon.com/images/I/41UlmbSlmWL.jpg | https://m.media-amazon.com/images/I/414alqARNjS.jpg",
+      "productUrl": "https://www.amazon.in/Nimmz-Collection-Equipment-Dongcheng-S1M-FF-100A/dp/B0GZFC56TZ/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-IIYEOWSGJBEDONCT",
+      "slug": "motor-rotor-part-for-dongcheng-s1m-ff03-100a-bosch-tws6000",
+      "name": "Motor Rotor Part for Dongcheng S1M-FF03-100A BOSCH TWS6000...",
+      "brand": "Nimmz Collection",
+      "category": "Power Tools",
+      "price": 1886,
+      "image": "https://m.media-amazon.com/images/I/51c8ESa72VL.jpg | https://m.media-amazon.com/images/I/41An6aQ+s+L.jpg | https://m.media-amazon.com/images/I/31rwmumTsvS.jpg | https://m.media-amazon.com/images/I/41rTD1zst8L.jpg",
+      "productUrl": "https://www.amazon.in/Nimmz-Collection-Dongcheng-S1M-FF03-100A-TWS6000/dp/B0GZFHH74S/ref=sr_1_201"
+    }
+  ]
+}

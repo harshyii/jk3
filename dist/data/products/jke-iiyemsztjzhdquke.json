@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEMSZTJZHDQUKE",
-  "title": "Sam combo of 99�69 5 volt mini solar panel with 1 pcs single port type c charging module with 4 pcs 1200mah rechargeable cell with 20 pcs 1 watt white led with mini water pump and step up booster coil",
+  "title": "Sam combo of 99�69 5 volt mini solar panel with 1 pcs...",
   "brand": "Generic",
-  "current_price": "₹699.00",
-  "mrp": "₹900",
+  "current_price": 699,
+  "mrp": 900,
   "product_url": "https://www.amazon.in/single-charging-1200mah-rechargeable-booster/dp/B0FK3NN8QD/ref=sr_1_103",
   "description": "Sam combo of 99�69 5 volt mini solar panel with 1 pcs single port type c charging module with 4 pcs 1200mah rechargeable cell with 20 pcs 1 watt white led with mini water pump and step up booster coil - Distributed/Packaged by Generic. Product Details: Sam combo of 99×69 5 volt mini solar panel with 1 pcs single port type c charging module with 4 pcs 1200mah rechargeable cell with 20 pcs 1 watt white led with mini water pump and step up booster coil",
   "image_urls": [
@@ -28,21 +28,21 @@
   "specifications": {
     "Brand Name": "Generic",
     "Model Number": "Set",
-    "Unit Count": "3 Piece",
     "Manufacturer": "Samiksha Enterprises",
-    "Country of Publication": "China",
-    "Included Components": "Solar panel",
-    "Item Weight": "350 Grams",
+    "Importer Contact Information": "Samiksha Enterprises",
     "Item Type Name": "Health & Personal Care",
     "Packer Contact Information": "Samiksha Enterprises",
     "ASIN": "B0FK3NN8QD",
-    "Importer Contact Information": "Samiksha Enterprises",
-    "Maximum Voltage": "5 Volts (DC)",
-    "Number Of Cells": 1
+    "Unit Count": "3 Piece",
+    "Included Components": "Solar panel",
+    "Item Weight": "350 Grams",
+    "Country of Publication": "China",
+    "Number Of Cells": 1,
+    "Maximum Voltage": "5 Volts (DC)"
   },
   "SKU": "JKE-IIYEMSZTJZHDQUKE",
-  "Name": "Sam combo of 99�69 5 volt mini solar panel with 1 pcs single port type c charging module with 4 pcs 1200mah rechargeable cell with 20 pcs 1 watt white led with mini water pump and step up booster coil",
-  "Slug": "sam-combo-of-9969-5-volt-mini-solar-panel-with-1-pcs-single-port-type-c-charging-module-with-4-pcs-1200mah-rechargeable-cell-with-20-pcs-1-watt-white-led-with-mini-water-pump-and-step-up-booster-coil",
+  "Name": "Sam combo of 99�69 5 volt mini solar panel with 1 pcs...",
+  "Slug": "sam-combo-of-9969-5-volt-mini-solar-panel-with-1-pcs",
   "Category": "General Hardware",
   "Subcategory1": "Other",
   "Images": [
@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/311rEJSI95L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718WgyndWcL.jpg | https://m.media-amazon.com/images/I/41443C24iHL.jpg | https://m.media-amazon.com/images/I/21Z9yVnDJQL.jpg | https://m.media-amazon.com/images/I/41PW0vTJpTL.jpg | https://m.media-amazon.com/images/I/41Is-ebjPlL.jpg | https://m.media-amazon.com/images/I/31MVVQZpYHL.jpg | https://m.media-amazon.com/images/I/51fyr5Gmr8L.jpg | https://m.media-amazon.com/images/I/311rEJSI95L.jpg",
-  "StockQuantity": 0,
-  "Unit": "3 Piece",
-  "Discount": 0,
-  "SalePrice": "₹699.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 22.33,
+  "SalePrice": 699,
   "Model": "Set"
 }

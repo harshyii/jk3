@@ -1,0 +1,16 @@
+{
+  "name": "Max",
+  "slug": "max",
+  "products": [
+    {
+      "sku": "JKE-IIYDORCGGI2VEWBR",
+      "slug": "max-clean-and-shine-polish-200-ml-selected-formula-for",
+      "name": "Max Clean and Shine Polish 200 ML - Selected Formula for...",
+      "brand": "Max",
+      "category": "Power Tools",
+      "price": 205,
+      "image": "https://m.media-amazon.com/images/I/81LI3AJju8L.jpg | https://m.media-amazon.com/images/I/51D7DQD3mGL.jpg | https://m.media-amazon.com/images/I/51rY8lWX0hL.jpg",
+      "productUrl": "https://www.amazon.in/Clean-Shine-Polish-Rubbing-Compound/dp/B07DF25RX1/ref=sr_1_144"
+    }
+  ]
+}

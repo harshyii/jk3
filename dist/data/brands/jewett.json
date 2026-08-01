@@ -1,0 +1,46 @@
+{
+  "name": "Jewett",
+  "slug": "jewett",
+  "products": [
+    {
+      "sku": "JKE-IIYEOTJRHE3FEUSE",
+      "slug": "four-flap-file-a4-fs-size-premium-heavy-cardboard-four-flap",
+      "name": "Four Flap File A4 FS Size Premium Heavy Cardboard Four Flap...",
+      "brand": "Jewett",
+      "category": "Abrasives & Finishing",
+      "price": 314,
+      "image": "https://m.media-amazon.com/images/I/51x98JOnWNL.jpg | https://m.media-amazon.com/images/I/31DywO+g5fL.jpg | https://m.media-amazon.com/images/I/41xN6ZIlrSL.jpg | https://m.media-amazon.com/images/I/41-x8k8sPVL.jpg | https://m.media-amazon.com/images/I/315sWHTWj5L.jpg | https://m.media-amazon.com/images/I/41mZ8unMpKL.jpg | https://m.media-amazon.com/images/I/31owUEZLh1L.jpg",
+      "productUrl": "https://www.amazon.in/Jewett-Four-Premium-Heavy-Cardboard/dp/B0GM196RRD/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-IIYEGS2GIJJEGWJZ",
+      "slug": "spring-file-board-cobra-file-folder-for-documents-pack-of",
+      "name": "Spring File Board Cobra File Folder for Documents, Pack of...",
+      "brand": "Jewett",
+      "category": "Abrasives & Finishing",
+      "price": 386,
+      "image": "https://m.media-amazon.com/images/I/41ZmiEl8izL.jpg | https://m.media-amazon.com/images/I/41ZmiEl8izL.jpg | https://m.media-amazon.com/images/I/41zkc2B+IZL.jpg | https://m.media-amazon.com/images/I/41OimzrpR6L.jpg | https://m.media-amazon.com/images/I/319GL+isHYL.jpg | https://m.media-amazon.com/images/I/310bZ8drwWL.jpg | https://m.media-amazon.com/images/I/21g2L5Q1sEL.jpg",
+      "productUrl": "https://www.amazon.in/Jewett-Spring-Documents-Certificate-Multicolor/dp/B0CKFBRCY9/ref=sr_1_86"
+    },
+    {
+      "sku": "JKE-IIYEOTC2LBDFANJZ",
+      "slug": "four-flap-file-a4-fs-size-premium-heavy-cardboard-four-flap",
+      "name": "Four Flap File A4 FS Size Premium Heavy Cardboard Four Flap...",
+      "brand": "Jewett",
+      "category": "Abrasives & Finishing",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/51x98JOnWNL.jpg | https://m.media-amazon.com/images/I/31DywO+g5fL.jpg | https://m.media-amazon.com/images/I/41xN6ZIlrSL.jpg | https://m.media-amazon.com/images/I/41-x8k8sPVL.jpg | https://m.media-amazon.com/images/I/315sWHTWj5L.jpg | https://m.media-amazon.com/images/I/41mZ8unMpKL.jpg | https://m.media-amazon.com/images/I/31owUEZLh1L.jpg",
+      "productUrl": "https://www.amazon.in/Jewett-Four-Premium-Heavy-Cardboard/dp/B0GLZXFP59/ref=sr_1_63"
+    },
+    {
+      "sku": "JKE-IIYEGVCSLIZDQTCQ",
+      "slug": "cobra-spring-file-cobra-file-folder-for-documents-office",
+      "name": "Cobra Spring File, Cobra File Folder for Documents, Office...",
+      "brand": "Jewett",
+      "category": "Abrasives & Finishing",
+      "price": 409,
+      "image": "https://m.media-amazon.com/images/I/61yw-3jMpQL.jpg | https://m.media-amazon.com/images/I/61yw-3jMpQL.jpg | https://m.media-amazon.com/images/I/41PGR36MTvL.jpg | https://m.media-amazon.com/images/I/41sgyjl2TzL.jpg | https://m.media-amazon.com/images/I/41g8zuHqCEL.jpg | https://m.media-amazon.com/images/I/41OimzrpR6L.jpg | https://m.media-amazon.com/images/I/41ZmiEl8izL.jpg",
+      "productUrl": "https://www.amazon.in/Documents-folders-Schools-Colleges-Multicolor/dp/B0CTRZ28LP/ref=sr_1_56"
+    }
+  ]
+}

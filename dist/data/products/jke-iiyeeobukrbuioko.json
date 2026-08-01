@@ -2,8 +2,8 @@
   "asin": "JKE-IIYEEOBUKRBUIOKO",
   "title": "Carbon Brush Suitable For Ralli Wolf SD4C",
   "brand": "Black Duck",
-  "current_price": "₹120.00",
-  "mrp": "₹250",
+  "current_price": 120,
+  "mrp": 250,
   "product_url": "https://www.amazon.in/Blakck-Duck-Carbon-RALLi-WOLF/dp/B0B84TCD9N/ref=sr_1_45",
   "description": "Carbon Brush Suitable For Ralli Wolf SD4C - Distributed/Packaged by Black Duck. Product Details: This Carbon Brush Is Suitable For Ralli Wolf SD4C Size:- 5 X 10 X 19 MM, This Carbon Brush Is Used For Drill.",
   "image_urls": [
@@ -19,18 +19,18 @@
   "image_url_4": "https://m.media-amazon.com/images/I/21FzPrF8L1L.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/61gjvwpmknL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Grand Carbon",
-    "Item Weight": "‎0.05 g",
     "Item Type Name": "General",
+    "Colour": "‎Black",
     "Brand": "‎Black Duck",
     "Model number": "‎Carbon Brush Suit For Ralli Wolf SD4C",
-    "Colour": "‎Black",
     "Number of Memory Sticks": "‎100",
+    "Item Weight": "‎0.05 g",
     "Product Dimensions": "‎0.5 x 1 x 1.9 cm; 0.05 g",
     "Item model number": "‎Carbon Brush Suit For Ralli Wolf SD4C",
     "Item Height": "‎19 Millimeters",
-    "Item Width": "‎10 Millimeters",
-    "Country of Origin": "‎India"
+    "Item Width": "‎10 Millimeters"
   },
   "SKU": "JKE-IIYEEOBUKRBUIOKO",
   "Name": "Carbon Brush Suitable For Ralli Wolf SD4C",
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/61gjvwpmknL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zEuPRVi7L.jpg | https://m.media-amazon.com/images/I/31tBZAxdxHL.jpg | https://m.media-amazon.com/images/I/21FzPrF8L1L.jpg | https://m.media-amazon.com/images/I/61gjvwpmknL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹120.00",
+  "Discount": 52,
+  "SalePrice": 120,
   "Country": "‎India"
 }

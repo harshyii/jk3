@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOUJUGRMDKR2Z",
-  "title": "STHIRA® 2PCS 12V 24V Car Cigarette Lighter Socket Power Plug with 30cm Bare Wire Leads DC Adapter Connector Inline Fuse Replacement for Truck RV Accessories",
+  "title": "STHIRA® 2PCS 12V 24V Car Cigarette Lighter Socket Power...",
   "brand": "Sthira",
-  "current_price": "₹449.00",
-  "mrp": "₹789",
+  "current_price": 449,
+  "mrp": 789,
   "product_url": "https://www.amazon.in/STHIRA%C2%AE-Cigarette-Connector-Replacement-Accessories/dp/B0GQ44X5GY/ref=sr_1_249",
   "description": "STHIRA® 2PCS 12V 24V Car Cigarette Lighter Socket Power Plug with 30cm Bare Wire Leads DC Adapter Connector Inline Fuse Replacement for Truck RV Accessories - Distributed/Packaged by Sthira. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51WLAFjoMPL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/51pDlejjXHL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎STHIRA",
     "Item Type Name": "General",
     "ASIN": "‎B0GQ44X5GY",
     "Product Dimensions": "‎10 x 5 x 2 cm; 80 g",
-    "Item model number": "‎Standard",
-    "Country of Origin": "‎China"
+    "Item model number": "‎Standard"
   },
   "SKU": "JKE-IIYEOUJUGRMDKR2Z",
-  "Name": "STHIRA® 2PCS 12V 24V Car Cigarette Lighter Socket Power Plug with 30cm Bare Wire Leads DC Adapter Connector Inline Fuse Replacement for Truck RV Accessories",
-  "Slug": "sthira-2pcs-12v-24v-car-cigarette-lighter-socket-power-plug-with-30cm-bare-wire-leads-dc-adapter-connector-inline-fuse-replacement-for-truck-rv-accessories",
+  "Name": "STHIRA® 2PCS 12V 24V Car Cigarette Lighter Socket Power...",
+  "Slug": "sthira-2pcs-12v-24v-car-cigarette-lighter-socket-power",
   "Category": "Electrical & Wiring",
   "Subcategory1": "Wire Strippers",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51pDlejjXHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/519an0DUYhL.jpg | https://m.media-amazon.com/images/I/41RmYaj8iaL.jpg | https://m.media-amazon.com/images/I/417KLPUYpgL.jpg | https://m.media-amazon.com/images/I/41ZCfpTTImL.jpg | https://m.media-amazon.com/images/I/41pQZXZ817L.jpg | https://m.media-amazon.com/images/I/51WLAFjoMPL.jpg | https://m.media-amazon.com/images/I/51pDlejjXHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹449.00",
+  "Discount": 43.09,
+  "SalePrice": 449,
   "Country": "‎China"
 }

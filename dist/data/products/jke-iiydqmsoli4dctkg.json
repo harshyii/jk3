@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDQMSOLI4DCTKG",
   "title": "Generic Xtra Power TCT Saw Blade 4x40",
   "brand": "Generic",
-  "current_price": "₹299.00",
-  "mrp": "₹399",
+  "current_price": 299,
+  "mrp": 399,
   "product_url": "https://www.amazon.in/Xtra-Power-TCT-Blade-4x40/dp/B082NZ81MF/ref=sr_1_195",
   "description": "Generic Xtra Power TCT Saw Blade 4x40 - Distributed/Packaged by Generic. Product Details: nan",
   "image_urls": [
@@ -19,17 +19,17 @@
   "image_url_4": "https://m.media-amazon.com/images/I/41qCnZXmeVS.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/51tB0hxpUQS.jpg",
   "specifications": {
-    "Material Type": "Tungsten Carbide",
     "Brand Name": "Generic",
+    "Country of Origin": "India",
     "Manufacturer": "Xtra Power",
-    "Item Weight": "100 Grams",
     "Item Type Name": "General",
     "Packer Contact Information": "Anil Industries, Ahmedgarh Road, Chhapar, Ludhiana",
     "Best Sellers Rank": "#167,996 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#536 inCircular Saw Blades",
     "ASIN": "B082NZ81MF",
     "Colour": "Red",
-    "Country of Origin": "India",
-    "Style Name": "Modern"
+    "Item Weight": "100 Grams",
+    "Style Name": "Modern",
+    "Material Type": "Tungsten Carbide"
   },
   "SKU": "JKE-IIYDQMSOLI4DCTKG",
   "Name": "Generic Xtra Power TCT Saw Blade 4x40",
@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51tB0hxpUQS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jTVH7y8WS.jpg | https://m.media-amazon.com/images/I/419+OSvKEYS.jpg | https://m.media-amazon.com/images/I/41qCnZXmeVS.jpg | https://m.media-amazon.com/images/I/51tB0hxpUQS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹299.00",
+  "Discount": 25.06,
+  "SalePrice": 299,
   "Country": "India"
 }

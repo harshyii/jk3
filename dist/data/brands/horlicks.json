@@ -1,0 +1,36 @@
+{
+  "name": "Horlicks",
+  "slug": "horlicks",
+  "products": [
+    {
+      "sku": "JKE-IIYDCTKUGRBEYS2V",
+      "slug": "horlicks-mothers-plus-kesar-400-g-bib-for-pregnancy-and",
+      "name": "Horlicks Mother's Plus Kesar 400 g BIB, For Pregnancy and...",
+      "brand": "Horlicks",
+      "category": "Power Tools",
+      "price": 575,
+      "image": "https://m.media-amazon.com/images/I/61S6TmON1qL.jpg | https://m.media-amazon.com/images/I/41VRrmZKTQL.jpg | https://m.media-amazon.com/images/I/41xNAtNIJIL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41-b6TWDw2L.jpg | https://m.media-amazon.com/images/I/41k2s9BZIWL.jpg | https://m.media-amazon.com/images/I/41teNWPQUwL.jpg | https://m.media-amazon.com/images/I/51uxluAu88L.jpg | https://m.media-amazon.com/images/I/51f0hyC+w3L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Horlicks-Health-Nutrition-drink/dp/B01MT4BLKU/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-IIYDASKQII3EOT2L",
+      "slug": "horlicks-mothers-plus-vanilla-200-g-bib-for-pregnancy-and",
+      "name": "Horlicks Mother's Plus Vanilla 200 g BIB, For Pregnancy and...",
+      "brand": "Horlicks",
+      "category": "Fasteners & Hardware",
+      "price": 285,
+      "image": "https://m.media-amazon.com/images/I/614EC0jOqBL.jpg | https://m.media-amazon.com/images/I/41m3awsh2iL.jpg | https://m.media-amazon.com/images/I/41xNAtNIJIL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/416Of9YbTZL.jpg | https://m.media-amazon.com/images/I/41BJoePFqTL.jpg | https://m.media-amazon.com/images/I/51AETHAbNJL.jpg | https://m.media-amazon.com/images/I/41siPcB60WL.jpg | https://m.media-amazon.com/images/I/41mX7ezFwdL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Horlicks-Health-Nutrition-drink/dp/B00IPB6GOK/ref=sr_1_6_in_f3_0o_fs_mod_primary_alm"
+    },
+    {
+      "sku": "JKE-IIYDAUKZKJLTQTKH",
+      "slug": "horlicks-mothers-plus-vanilla-500-g-bib-for-pregnancy-and",
+      "name": "Horlicks Mother's Plus Vanilla 500 g BIB, For Pregnancy and...",
+      "brand": "Horlicks",
+      "category": "Power Tools",
+      "price": 565,
+      "image": "https://m.media-amazon.com/images/I/61nhXyCO0bL.jpg | https://m.media-amazon.com/images/I/41cDlVwYxuL.jpg | https://m.media-amazon.com/images/I/41xNAtNIJIL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41H1xdsoyLL.jpg | https://m.media-amazon.com/images/I/41teNWPQUwL.jpg | https://m.media-amazon.com/images/I/41-b6TWDw2L.jpg | https://m.media-amazon.com/images/I/51L5Tiq3X5L.jpg | https://m.media-amazon.com/images/I/51hX0HPyBVL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Horlicks-Health-Nutrition-Vanilla/dp/B00QYRW8MG/ref=sr_1_1"
+    }
+  ]
+}

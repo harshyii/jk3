@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDMV2EHBCDMSRX",
-  "title": "8\" Wave Edge Teflon Coated Blade Knife for Eastman Straight Cutting Machine",
-  "brand": "Cutex Sewing Supplies",
-  "current_price": "₹4,478.00",
-  "mrp": "₹6,329",
+  "title": "8\" Wave Edge Teflon Coated Blade Knife for Eastman Straight...",
+  "brand": "Cutex Sewing",
+  "current_price": 4478,
+  "mrp": 6329,
   "product_url": "https://www.amazon.in/Teflon-Eastman-Straight-Cutting-Machine/dp/B06WD8D6J7/ref=sr_1_171",
   "description": "8\" Wave Edge Teflon Coated Blade Knife for Eastman Straight Cutting Machine - Distributed/Packaged by Cutex Sewing Supplies. Product Details: nan",
   "image_urls": [
@@ -13,15 +13,15 @@
   "image_url_1": "https://m.media-amazon.com/images/I/21jznl74VtL.jpg | https://m.media-amazon.com/images/I/21jznl74VtL.jpg",
   "image_url_2": "https://m.media-amazon.com/images/I/21jznl74VtL.jpg",
   "specifications": {
+    "Country of Origin": "‎USA",
     "Manufacturer": "‎Cutex Sewing Supplies",
     "Item Type Name": "General",
     "ASIN": "‎B06WD8D6J7",
-    "Item model number": "‎1",
-    "Country of Origin": "‎USA"
+    "Item model number": "‎1"
   },
   "SKU": "JKE-IIYDMV2EHBCDMSRX",
-  "Name": "8\" Wave Edge Teflon Coated Blade Knife for Eastman Straight Cutting Machine",
-  "Slug": "8-wave-edge-teflon-coated-blade-knife-for-eastman-straight-cutting-machine",
+  "Name": "8\" Wave Edge Teflon Coated Blade Knife for Eastman Straight...",
+  "Slug": "8-wave-edge-teflon-coated-blade-knife-for-eastman-straight",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -29,9 +29,9 @@
     "https://m.media-amazon.com/images/I/21jznl74VtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21jznl74VtL.jpg | https://m.media-amazon.com/images/I/21jznl74VtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹4,478.00",
+  "Discount": 29.25,
+  "SalePrice": 4478,
   "Country": "‎USA"
 }

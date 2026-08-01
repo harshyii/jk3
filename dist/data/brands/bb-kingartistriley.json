@@ -1,0 +1,16 @@
+{
+  "name": "B.B. King(Artist),Riley",
+  "slug": "bb-kingartistriley",
+  "products": [
+    {
+      "sku": "JKE-IIYDAMBQGI2EITCM",
+      "slug": "live-well",
+      "name": "Live & Well",
+      "brand": "B.B. King(Artist),Riley",
+      "category": "General Hardware",
+      "price": 22016,
+      "image": "https://m.media-amazon.com/images/I/61En2vBHCHL.jpg | https://m.media-amazon.com/images/I/41CbdWn5kWL.jpg",
+      "productUrl": "https://www.amazon.in/Live-Well-B-B-King/dp/B000024DLL/ref=sr_1_298"
+    }
+  ]
+}

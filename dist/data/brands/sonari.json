@@ -1,0 +1,26 @@
+{
+  "name": "Sonari",
+  "slug": "sonari",
+  "products": [
+    {
+      "sku": "JKE-IIYDQUC2GZGFAV22",
+      "slug": "sonari-womens-cotton-sports-bra-non-padded-wire-free",
+      "name": "SONARI Women's Cotton Sports Bra | Non Padded, Wire Free...",
+      "brand": "Sonari",
+      "category": "Electrical & Wiring",
+      "price": 798,
+      "image": "https://m.media-amazon.com/images/I/61P3xTqqIpL.jpg | https://m.media-amazon.com/images/I/41qbCyQlYAL.jpg | https://m.media-amazon.com/images/I/31MAfYFCTPL.jpg | https://m.media-amazon.com/images/I/31sM1hDjJEL.jpg | https://m.media-amazon.com/images/I/31FcKzl404L.jpg | https://m.media-amazon.com/images/I/3160I6KXD7L.jpg | https://m.media-amazon.com/images/I/51YAYe2lfDL.jpg",
+      "productUrl": "https://www.amazon.in/SONARI-Non-Padded-Wire-Free-Coverage-Regular/dp/B08PZ6LPWZ/ref=sr_1_213"
+    },
+    {
+      "sku": "JKE-IIYEMMRZLFMUYNZW",
+      "slug": "sonari-womens-sports-bra-moulded-wire-free-comfortable",
+      "name": "SONARI Womens Sports Bra | Moulded, Wire Free, Comfortable...",
+      "brand": "Sonari",
+      "category": "Electrical & Wiring",
+      "price": 915,
+      "image": "https://m.media-amazon.com/images/I/61sWsL1jT1L.jpg | https://m.media-amazon.com/images/I/41V61tdby2L.jpg | https://m.media-amazon.com/images/I/413yW-cBS8L.jpg | https://m.media-amazon.com/images/I/418R94w3URL.jpg | https://m.media-amazon.com/images/I/41U4nQU-pXL.jpg | https://m.media-amazon.com/images/I/4150Kacv4qL.jpg",
+      "productUrl": "https://www.amazon.in/SONARI-Comfortable-Coverage-Breathable-Adjustable/dp/B0F29YYL76/ref=sr_1_300"
+    }
+  ]
+}

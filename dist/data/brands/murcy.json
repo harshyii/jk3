@@ -1,0 +1,16 @@
+{
+  "name": "Murcy",
+  "slug": "murcy",
+  "products": [
+    {
+      "sku": "JKE-IIYEMRBZKJEDCWSZ",
+      "slug": "murcy-solar-light-volt-50w",
+      "name": "MURCY Solar Light (Volt 50W)",
+      "brand": "Murcy",
+      "category": "General Hardware",
+      "price": 414,
+      "image": "https://m.media-amazon.com/images/I/51a3l96YJFL.jpg | https://m.media-amazon.com/images/I/51a3l96YJFL.jpg | https://m.media-amazon.com/images/I/61yjfejszDL.jpg | https://m.media-amazon.com/images/I/51uqAI9kkoL.jpg | https://m.media-amazon.com/images/I/51FsSzgrliL.jpg | https://m.media-amazon.com/images/I/61EPkxKsTQL.jpg | https://m.media-amazon.com/images/I/61N6IvS8duL.jpg | https://m.media-amazon.com/images/I/61-MvTshhlL.jpg",
+      "productUrl": "https://www.amazon.in/MURCY-Solar-Light-Volt-50W/dp/B0FD9RH1ZY/ref=sr_1_267"
+    }
+  ]
+}

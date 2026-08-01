@@ -1,0 +1,16 @@
+{
+  "name": "Ecocare Hygiene",
+  "slug": "ecocare-hygiene",
+  "products": [
+    {
+      "sku": "JKE-IIYEGOBWGQZVUM2O",
+      "slug": "ecocare-bike-care-500ml-and-helmet-care-300ml-foam-cleaner",
+      "name": "EcoCare Bike Care-500ML and Helmet Care-300ML Foam Cleaner...",
+      "brand": "Ecocare Hygiene",
+      "category": "Power Tools",
+      "price": 309,
+      "image": "https://m.media-amazon.com/images/I/51uev6RXEQL.jpg | https://m.media-amazon.com/images/I/416IbRpm7WL.jpg | https://m.media-amazon.com/images/I/41cf2M51yML.jpg | https://m.media-amazon.com/images/I/41HTzD1sOJL.jpg | https://m.media-amazon.com/images/I/41e793thytL.jpg | https://m.media-amazon.com/images/I/41mWSevx8kL.jpg | https://m.media-amazon.com/images/I/3105VTiCh6L.jpg | https://m.media-amazon.com/images/I/31SzgZ+fWVL.jpg",
+      "productUrl": "https://www.amazon.in/EcoCare-Care-500ML-Care-300ML-Cleaner-Bottles/dp/B0C8643Z3N/ref=sr_1_211"
+    }
+  ]
+}

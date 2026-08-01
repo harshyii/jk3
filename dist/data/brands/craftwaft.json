@@ -1,0 +1,26 @@
+{
+  "name": "Craftwaft",
+  "slug": "craftwaft",
+  "products": [
+    {
+      "sku": "JKE-IIYEGRRSKNKEIMJS",
+      "slug": "basic-rainbow-paper-board-shila-spring-cobra-file-flat",
+      "name": "Basic Rainbow Paper Board Shila Spring Cobra File, Flat...",
+      "brand": "Craftwaft",
+      "category": "Abrasives & Finishing",
+      "price": 469,
+      "image": "https://m.media-amazon.com/images/I/81s8il+OqVL.jpg | https://m.media-amazon.com/images/I/41ZPNMoi77L.jpg | https://m.media-amazon.com/images/I/41HslaqvURL.jpg | https://m.media-amazon.com/images/I/41+-GTRixEL.jpg | https://m.media-amazon.com/images/I/41c5sbaB3vL.jpg | https://m.media-amazon.com/images/I/41mwML+c-pL.jpg",
+      "productUrl": "https://www.amazon.in/CRAFTWAFT-Rainbow-Documents-Certificate-Multicolor/dp/B0CF2STD12/ref=sr_1_83"
+    },
+    {
+      "sku": "JKE-IIYEGNSSGRJFGVCT",
+      "slug": "spring-paper-board-flat-file-spring-cobra-file-multicolor",
+      "name": "Spring Paper Board Flat File Spring Cobra File Multicolor...",
+      "brand": "Craftwaft",
+      "category": "Measuring & Layout",
+      "price": 339,
+      "image": "https://m.media-amazon.com/images/I/61tviCam8gL.jpg | https://m.media-amazon.com/images/I/41208Brr4FL.jpg | https://m.media-amazon.com/images/I/41p2K8wXNuL.jpg | https://m.media-amazon.com/images/I/41Ak0q8rMyL.jpg | https://m.media-amazon.com/images/I/41A8GqRsYKL.jpg | https://m.media-amazon.com/images/I/41PzNx1g3lL.jpg | https://m.media-amazon.com/images/I/4142HDrzz-L.jpg | https://m.media-amazon.com/images/I/41GsZvjkMYL.jpg",
+      "productUrl": "https://www.amazon.in/CRAFTWAFT-Documents-Certificate-Multicolor-Premium/dp/B0C6R4RSTS/ref=sr_1_68"
+    }
+  ]
+}

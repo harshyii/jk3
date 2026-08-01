@@ -1,0 +1,606 @@
+{
+  "name": "Mother'S Recipe",
+  "slug": "mothers-recipe",
+  "products": [
+    {
+      "sku": "JKE-IIYDCNSXKNCUGOCZ",
+      "slug": "mothers-recipe-chana-masala-papad-7-pouch-180-gram",
+      "name": "Mother's Recipe Chana Masala Papad (7\") Pouch, 180 Gram",
+      "brand": "Mother'S Recipe",
+      "category": "Storage & Organization",
+      "price": 85,
+      "image": "https://m.media-amazon.com/images/I/61X5t0h9pCL.jpg | https://m.media-amazon.com/images/I/511-m5ly8lL.jpg | https://m.media-amazon.com/images/I/51MDbYSqVHL.jpg | https://m.media-amazon.com/images/I/417Jx3DZggL.jpg | https://m.media-amazon.com/images/I/41Bh3EFCyvL.jpg | https://m.media-amazon.com/images/I/51s-N2b28uL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Channa-Masala-Papad/dp/B016WSEC8Y/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-IIYEEVRWJQ4VSQZZ",
+      "slug": "mothers-recipe-paneer-butter-masla-75gm-pack-of-6ready-to",
+      "name": "Mother's RECIPE Paneer Butter Masla 75Gm Pack Of 6|Ready To...",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/514Wn8O9hCL.jpg | https://m.media-amazon.com/images/I/514Wn8O9hCL.jpg | https://m.media-amazon.com/images/I/A1zCdusnxiL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51eqJpfx3VL.jpg | https://m.media-amazon.com/images/I/61SlYbKkARL.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Paneer-Butter-Masla/dp/B0BV6L9YC9/ref=sr_1_86"
+    },
+    {
+      "sku": "JKE-IIYEGMKTKY4FCWSZ",
+      "slug": "mothers-recipe-chutney-combo-pack-of-tamarind-date-chutney",
+      "name": "Mother's RECIPE Chutney Combo Pack of Tamarind Date Chutney...",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 186,
+      "image": "https://m.media-amazon.com/images/I/61pZaXrxYLL.jpg | https://m.media-amazon.com/images/I/51XA66JYVWL.jpg | https://m.media-amazon.com/images/I/41bpT68IyeL.jpg | https://m.media-amazon.com/images/I/513-bcPTJYL.jpg | https://m.media-amazon.com/images/I/41DfZfe92DL.jpg | https://m.media-amazon.com/images/I/61O4T6sZI5L.jpg | https://m.media-amazon.com/images/I/51IhvV9xPqL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Chutney-Tamarind-Panipuri-Dhaniya/dp/B0C1SV8QZY/ref=sr_1_28"
+    },
+    {
+      "sku": "JKE-IIYDCRCZIFHE6RCX",
+      "slug": "mothers-recipe-tamarind-paste-pouch-200-g",
+      "name": "Mothers Recipe Tamarind Paste Pouch, 200 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 295,
+      "image": "https://m.media-amazon.com/images/I/51EGVxfCPFL.jpg | https://m.media-amazon.com/images/I/41QBGsI+M8L.jpg | https://m.media-amazon.com/images/I/91FOZbvRpCL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/41kizshN-4L.jpg | https://m.media-amazon.com/images/I/41knorT1mqL.jpg | https://m.media-amazon.com/images/I/31y+4mhCs3L.jpg | https://m.media-amazon.com/images/I/51EKuHyF13L.jpg | https://m.media-amazon.com/images/I/51+slycvS8L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Paste-Tamarind-Pouch/dp/B01DYANODW/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYDCNJSKJITQUCR",
+      "slug": "mothers-recipe-madras-thokku-pickle-bottle300-g",
+      "name": "Mother's RECIPE Madras Thokku Pickle Bottle,300 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 110,
+      "image": "https://m.media-amazon.com/images/I/611T9A-6N3L.jpg | https://m.media-amazon.com/images/I/417JZ3gT2kL.jpg | https://m.media-amazon.com/images/I/41gjJREps2L.jpg | https://m.media-amazon.com/images/I/51b2sD2of+L.jpg | https://m.media-amazon.com/images/I/41QNIWIKXDL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Receipe-Madras-Thokku-Pickle/dp/B0152RQ8PQ/ref=sr_1_75"
+    },
+    {
+      "sku": "JKE-IIYDCNJUKZLTSN2H",
+      "slug": "mothers-recipe-ginger-garlic-paste-pouch-200gm-no-added",
+      "name": "Mother's Recipe Ginger Garlic Paste Pouch, 200gm | No Added...",
+      "brand": "Mother'S Recipe",
+      "category": "Abrasives & Finishing",
+      "price": 38,
+      "image": "https://m.media-amazon.com/images/I/51t7socHvRL.jpg | https://m.media-amazon.com/images/I/41TLeQwu6oL.jpg | https://m.media-amazon.com/images/I/91Spr-bG8DL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41dfkyF+90L.jpg | https://m.media-amazon.com/images/I/317yvjdt8EL.jpg | https://m.media-amazon.com/images/I/41EeOJCMQ2L.jpg | https://m.media-amazon.com/images/I/51bmYF9AzML.jpg | https://m.media-amazon.com/images/I/51yPSVS704L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Ginger-Garlic-Paste/dp/B0154VW97G/ref=sr_1_20_in_f3_0o_fs"
+    },
+    {
+      "sku": "JKE-IIYDCNSXKNCFAVSF",
+      "slug": "mothers-recipe-garlic-pickle-200g",
+      "name": "Mother's Recipe Garlic Pickle, 200g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 67,
+      "image": "https://m.media-amazon.com/images/I/71fKF+IEdIL.jpg | https://m.media-amazon.com/images/I/41-O9iOxsML.jpg | https://m.media-amazon.com/images/I/51wTBBXe2kL.jpg | https://m.media-amazon.com/images/I/51DalWxq9CL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Garlic-Pickle-200g/dp/B016WSDPVE/ref=sr_1_287_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDONJTGE4UUWJU",
+      "slug": "mothers-recipe-potato-chip-papad-pouch-70-gm-potato",
+      "name": "Mother's RECIPE Potato Chip Papad Pouch, 70 Gm - Potato",
+      "brand": "Mother'S Recipe",
+      "category": "Storage & Organization",
+      "price": 50,
+      "image": "https://m.media-amazon.com/images/I/519hl+5SirL.jpg | https://m.media-amazon.com/images/I/41FwK6eABbL.jpg | https://m.media-amazon.com/images/I/A1SBOTT83jL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/41WuOyPLLmL.jpg | https://m.media-amazon.com/images/I/514W2B0eeCL.jpg | https://m.media-amazon.com/images/I/51+Yhx+qIJL.jpg | https://m.media-amazon.com/images/I/31W5Gonb4ML.jpg | https://m.media-amazon.com/images/I/41fuUr9OulL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Papad-Potato-Pouch/dp/B075319JY4/ref=sr_1_51"
+    },
+    {
+      "sku": "JKE-IIYDQRZVJZDTONRR",
+      "slug": "mothers-recipe-green-chilli-pickle-bottle400-g",
+      "name": "Mother's Recipe Green Chilli Pickle Bottle,400 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 123,
+      "image": "https://m.media-amazon.com/images/I/61oAhJ9uKyL.jpg | https://m.media-amazon.com/images/I/41dm0vfy-wL.jpg | https://m.media-amazon.com/images/I/41aoq3J6ALL.jpg | https://m.media-amazon.com/images/I/51Ow4+fx2NL.jpg | https://m.media-amazon.com/images/I/51+U657E3wL.jpg | https://m.media-amazon.com/images/I/4150RBqmXkL.jpg | https://m.media-amazon.com/images/I/51L4tXpfa7L.jpg | https://m.media-amazon.com/images/I/51pfodRrcjL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Chilli-Pickle-Bottle/dp/B08G5NG761/ref=sr_1_14_in_f3_0o_fs_mod_primary_alm"
+    },
+    {
+      "sku": "JKE-IIYDORSDJUYTONSY",
+      "slug": "mothers-recipe-paneer-butter-masala-mix-pouch-75-g",
+      "name": "Mother's Recipe Paneer Butter Masala Mix Pouch, 75 G",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/61X1YvBi+GL.jpg | https://m.media-amazon.com/images/I/41InmtdlyfL.jpg | https://m.media-amazon.com/images/I/41R+cPRWCML.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Garlic-Paste-200g/dp/B07FCM176X/ref=sr_1_31"
+    },
+    {
+      "sku": "JKE-IIYDQRCWGNMUWSCW",
+      "slug": "mothers-recipe-bhelpuri-chutney-pouch-200-g",
+      "name": "Mother's Recipe Bhelpuri Chutney Pouch, 200 g",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 60,
+      "image": "https://m.media-amazon.com/images/I/61ef6VlW3BL.jpg | https://m.media-amazon.com/images/I/41BG+ujToVL.jpg | https://m.media-amazon.com/images/I/51EY9Ts6HqL.jpg | https://m.media-amazon.com/images/I/41Pix90AfYL.jpg | https://m.media-amazon.com/images/I/41xip60tyOL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Bhelpuri-Chutney-Pouch/dp/B08DV3YKHV/ref=sr_1_52"
+    },
+    {
+      "sku": "JKE-IIYEIV2GKRDE2MZS",
+      "slug": "mothers-recipe-pickle-combo-pack-of-mixed-pickle-mango",
+      "name": "Mothers Recipe Pickle Combo Pack of Mixed Pickle, Mango...",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 220,
+      "image": "https://m.media-amazon.com/images/I/61myVDTQ4vL.jpg | https://m.media-amazon.com/images/I/411VeXG4Y-L.jpg | https://m.media-amazon.com/images/I/51E6IrLN77L.jpg | https://m.media-amazon.com/images/I/51OE+YyjURL.jpg | https://m.media-amazon.com/images/I/51HozF8QEuL.jpg | https://m.media-amazon.com/images/I/41EDQLnExoL.jpg | https://m.media-amazon.com/images/I/51QCUwNPndL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Combo-Chilli/dp/B0DWFTFM32/ref=sr_1_63"
+    },
+    {
+      "sku": "JKE-IIYDONZTKM3DKVRZ",
+      "slug": "mothers-recipe-punjabi-mango-theekha-400g",
+      "name": "Mother's Recipe Punjabi Mango Theekha, 400g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 140,
+      "image": "https://m.media-amazon.com/images/I/81DjhDlCSYL.jpg | https://m.media-amazon.com/images/I/51-Yimjb42L.jpg | https://m.media-amazon.com/images/I/51w08qw50+L.jpg | https://m.media-amazon.com/images/I/51XPB6czKQL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Punjabi-Mango-Theekha/dp/B0773S65V9/ref=sr_1_298"
+    },
+    {
+      "sku": "JKE-IIYDCN2JKVJTCWKR",
+      "slug": "mothers-recipe-appalam-4-pouch100-gramunflavoured",
+      "name": "Mother's Recipe Appalam 4 \" Pouch,100 Gram,Unflavoured",
+      "brand": "Mother'S Recipe",
+      "category": "Storage & Organization",
+      "price": 50,
+      "image": "https://m.media-amazon.com/images/I/51INaVWY1fL.jpg | https://m.media-amazon.com/images/I/41ck-I3AwoL.jpg | https://m.media-amazon.com/images/I/41tYJKXjhhL.jpg | https://m.media-amazon.com/images/I/41WeKAlNnAL.jpg | https://m.media-amazon.com/images/I/51GI0PoHwAL.jpg | https://m.media-amazon.com/images/I/51myqiRU1ML.jpg | https://m.media-amazon.com/images/I/51TTfuBuBoL.jpg | https://m.media-amazon.com/images/I/41hQ3+zgM-L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Madras-Appalam-100g/dp/B017IUS1YQ/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-IIYEGMKTLI2E4M2C",
+      "slug": "mothers-recipe-chutney-combo-pack-of-tamarind-date",
+      "name": "Mother's RECIPE Chutney Combo Pack Of Tamarind Date,...",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 440,
+      "image": "https://m.media-amazon.com/images/I/71w9bIRwvkL.jpg | https://m.media-amazon.com/images/I/51P5LzGy9HL.jpg | https://m.media-amazon.com/images/I/41bpT68IyeL.jpg | https://m.media-amazon.com/images/I/417KrUKHf5L.jpg | https://m.media-amazon.com/images/I/41WzxDwK-fL.jpg | https://m.media-amazon.com/images/I/417J-t+k2KL.jpg | https://m.media-amazon.com/images/I/41oKsmnr+6L.jpg | https://m.media-amazon.com/images/I/41DfZfe92DL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Chutney-Tamarind-Bhelpuri-Panipuri/dp/B0C1SZ4N3B/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-IIYEESCZJJCEWUKT",
+      "slug": "mothers-recipe-green-chilli-sauce-200g-pet-bottle",
+      "name": "Mother's Recipe Green Chilli Sauce, 200g Pet Bottle",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 54,
+      "image": "https://m.media-amazon.com/images/I/41whmKwzgEL.jpg | https://m.media-amazon.com/images/I/31uR2SUn8vL.jpg | https://m.media-amazon.com/images/I/31afxXhQOML.jpg | https://m.media-amazon.com/images/I/31-szjCkoHL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Green-Chilli-Bottle/dp/B0BHYJDKQS/ref=sr_1_39_in_f3_0o_fs_mod_primary_alm"
+    },
+    {
+      "sku": "JKE-IIYDCR2KKBATGUSF",
+      "slug": "mothers-recipe-pickle-red-stuffed-chilli-400g-jar",
+      "name": "Mother's Recipe Pickle - Red Stuffed Chilli, 400g Jar",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 185,
+      "image": "https://m.media-amazon.com/images/I/713+jywn5wL.jpg | https://m.media-amazon.com/images/I/41wMzUm1dLL.jpg | https://m.media-amazon.com/images/I/41LpUlGEQoL.jpg | https://m.media-amazon.com/images/I/51wxSgOWUHL.jpg | https://m.media-amazon.com/images/I/51sE0hlJNLL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Stuffed-Chilli/dp/B01GJPA3RE/ref=sr_1_72"
+    },
+    {
+      "sku": "JKE-IIYDQRCWGM3UOWSU",
+      "slug": "mothers-recipe-delhi-chaat-chutney-pouch200-g",
+      "name": "Mother's Recipe Delhi Chaat Chutney Pouch,200 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 65,
+      "image": "https://m.media-amazon.com/images/I/61VYgV5L4sL.jpg | https://m.media-amazon.com/images/I/41p8k3r92YL.jpg | https://m.media-amazon.com/images/I/518ccAhZ1yL.jpg | https://m.media-amazon.com/images/I/41TpK7E+YoL.jpg | https://m.media-amazon.com/images/I/41nO59TSR7L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Delhi-Chaat-Chutney/dp/B08DV37GZT/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-IIYEGRZYKJDDKU2D",
+      "slug": "mothers-recipe-mango-pickle-with-mustard-oil-1-kg",
+      "name": "Mother's Recipe Mango Pickle With Mustard Oil, 1 kg",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 145,
+      "image": "https://m.media-amazon.com/images/I/51SBxQVfr4L.jpg | https://m.media-amazon.com/images/I/419KzlQdGaL.jpg | https://m.media-amazon.com/images/I/51F5kDTe2lL.jpg | https://m.media-amazon.com/images/I/41M8tXTP1oL.jpg | https://m.media-amazon.com/images/I/41gs4WW5ueL.jpg | https://m.media-amazon.com/images/I/51SIGIidtlL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Mango-Pickle-Mustard/dp/B0CG8RF5SC/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-IIYDCNZZIFLVMTBU",
+      "slug": "mothers-recipe-chicken-biryani-mix-pouch-100-g",
+      "name": "Mother's Recipe Chicken Biryani Mix Pouch, 100 g",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 130,
+      "image": "https://m.media-amazon.com/images/I/61R1rtBdyLL.jpg | https://m.media-amazon.com/images/I/41XprAFm6pL.jpg | https://m.media-amazon.com/images/I/41uD1SLAEYL.jpg | https://m.media-amazon.com/images/I/512uqN3mCKL.jpg | https://m.media-amazon.com/images/I/51FRbu2INVL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Chicken-Biryani-100g/dp/B0179AWVL4/ref=sr_1_50"
+    },
+    {
+      "sku": "JKE-IIYDCN2JKVJFGNJU",
+      "slug": "mothers-recipe-mango-pickle-400g",
+      "name": "Mother's Recipe Mango Pickle, 400g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 145,
+      "image": "https://m.media-amazon.com/images/I/81zPdAUbDDL.jpg | https://m.media-amazon.com/images/I/51jlv3tLPVL.jpg | https://m.media-amazon.com/images/I/41wnQis2+GL.jpg | https://m.media-amazon.com/images/I/41Q3lEh1MbL.jpg | https://m.media-amazon.com/images/I/51Cj0YLZAUL.jpg | https://m.media-amazon.com/images/I/31AwipWpl6L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Mango-Pickle-400g/dp/B017IURS54/ref=sr_1_68"
+    },
+    {
+      "sku": "JKE-IIYEGMKWKRGFMTBU",
+      "slug": "mothers-recipe-pavbhaji-mix-combo-pack-of-6",
+      "name": "Mother’s Recipe Pavbhaji Mix, Combo Pack of 6",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 330,
+      "image": "https://m.media-amazon.com/images/I/81ztkMEDEHL.jpg | https://m.media-amazon.com/images/I/51peMxP4MuL.jpg | https://m.media-amazon.com/images/I/51jub3ekm+L.jpg | https://m.media-amazon.com/images/I/51TiD0lbgVL.jpg | https://m.media-amazon.com/images/I/616dJA0iW4L.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pavbhaji-Combo-Pack/dp/B0C1VTLVL4/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-IIYDCN2JKVJE4NCV",
+      "slug": "mothers-recipe-garlic-pickle-bottle-400-g",
+      "name": "Mother's Recipe Garlic Pickle Bottle, 400 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 167,
+      "image": "https://m.media-amazon.com/images/I/61q+d-r-3AL.jpg | https://m.media-amazon.com/images/I/41FenUhOsdL.jpg | https://m.media-amazon.com/images/I/51usmPivEnL.jpg | https://m.media-amazon.com/images/I/513QzIrlOML.jpg | https://m.media-amazon.com/images/I/51lgTffReUL.jpg | https://m.media-amazon.com/images/I/51Du76Avx4L.jpg | https://m.media-amazon.com/images/I/41Gk0C9KXmL.jpg | https://m.media-amazon.com/images/I/51pAte6EUIL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Garlic-Pickle-400g/dp/B017IURN4U/ref=sr_1_41"
+    },
+    {
+      "sku": "JKE-IIYDQRZVJY3EUQ2E",
+      "slug": "mothers-recipe-panipuri-chutney-pouch200-g",
+      "name": "Mother's Recipe Panipuri Chutney Pouch,200 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 65,
+      "image": "https://m.media-amazon.com/images/I/51Ps+ESzxQL.jpg | https://m.media-amazon.com/images/I/41ArKe436aL.jpg | https://m.media-amazon.com/images/I/516bGqsUmDL.jpg | https://m.media-amazon.com/images/I/510snv5b2EL.jpg | https://m.media-amazon.com/images/I/4131MAzoEpL.jpg | https://m.media-amazon.com/images/I/51ESAcXiZ6L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Panipuri-Chutney-Pouch/dp/B08G5N6JCD/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-IIYEEVRXG5EFAVCH",
+      "slug": "mothers-recipe-butter-chicken-masala-mix-80gm-pack-of-6-",
+      "name": "Mother's RECIPE Butter Chicken Masala Mix 80Gm Pack Of 6 |...",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/51msD9ymhVL.jpg | https://m.media-amazon.com/images/I/51msD9ymhVL.jpg | https://m.media-amazon.com/images/I/A1YN96yg4cL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/515IcobNVuL.jpg | https://m.media-amazon.com/images/I/614K6WyOQ7L.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Butter-Chicken-Masala/dp/B0BV77HPTG/ref=sr_1_84"
+    },
+    {
+      "sku": "JKE-IIYDAWJQGE3FSQKV",
+      "slug": "mothers-recipe-pickle-punjabi-teekha-mango-400g-bottle",
+      "name": "Mother's Recipe Pickle - Punjabi Teekha Mango, 400g Bottle",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/71ABYWdCRiL.jpg | https://m.media-amazon.com/images/I/41ThmulQqPL.jpg | https://m.media-amazon.com/images/I/410q+viOT7L.jpg | https://m.media-amazon.com/images/I/41BuPxdt1mL.jpg | https://m.media-amazon.com/images/I/41m9MPMhRoL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Punjabi-Teekha/dp/B00Y016YAU/ref=sr_1_260"
+    },
+    {
+      "sku": "JKE-IIYDASSDKNEEWQST",
+      "slug": "mothers-recipe-mango-pickle-pouch-500-g",
+      "name": "Mother's Recipe Mango Pickle Pouch, 500 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 145,
+      "image": "https://m.media-amazon.com/images/I/61imGLsSsjL.jpg | https://m.media-amazon.com/images/I/41B0vrtxxRL.jpg | https://m.media-amazon.com/images/I/41BeVMAT8XL.jpg | https://m.media-amazon.com/images/I/318nb8j+A-L.jpg | https://m.media-amazon.com/images/I/41y7UhV-4CL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Mango-Pickle-500g/dp/B00JCSHKBS/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-IIYEIVBUKAYUUTJR",
+      "slug": "mothers-recipe-crushed-mixed-pickle-300-g",
+      "name": "Mothers Recipe Crushed Mixed Pickle, 300 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 140,
+      "image": "https://m.media-amazon.com/images/I/51lmcv8nr2L.jpg | https://m.media-amazon.com/images/I/41TZNTk98EL.jpg | https://m.media-amazon.com/images/I/61kwJf8QEVL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41qMt97cHoL.jpg | https://m.media-amazon.com/images/I/41W7QTfRfGL.jpg | https://m.media-amazon.com/images/I/51E0+sHdXzL.jpg | https://m.media-amazon.com/images/I/51BnSj8VQyL.jpg | https://m.media-amazon.com/images/I/51aVyOrJmqL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Crushed-Mixed-Pickle/dp/B0DT4P1JM1/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-IIYDOSBTKY3UYURT",
+      "slug": "mothers-recipe-mixed-pickle-pouch-200-g",
+      "name": "Mother's Recipe Mixed Pickle Pouch, 200 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 195,
+      "image": "https://m.media-amazon.com/images/I/51yTLrghclL.jpg | https://m.media-amazon.com/images/I/41XR8K+a00L.jpg | https://m.media-amazon.com/images/I/41WfQac7+jL.jpg | https://m.media-amazon.com/images/I/31KjGvlBwzL.jpg | https://m.media-amazon.com/images/I/413m69uzAxL.jpg | https://m.media-amazon.com/images/I/51IkCgiJ+iL.jpg | https://m.media-amazon.com/images/I/51M5+DUekTL.jpg | https://m.media-amazon.com/images/I/31RsOVsBRZL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Mixed-Pickle-200g/dp/B07H3V7LR3/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-IIYDQRSSIYZU4UKS",
+      "slug": "mothers-recipe-tamarind-date-chutney-pouch200-g",
+      "name": "Mother's Recipe Tamarind Date Chutney Pouch,200 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 64,
+      "image": "https://m.media-amazon.com/images/I/61X58WQmnEL.jpg | https://m.media-amazon.com/images/I/41J1O3hu++L.jpg | https://m.media-amazon.com/images/I/51mM-DaCUsL.jpg | https://m.media-amazon.com/images/I/31keV+IA8KL.jpg | https://m.media-amazon.com/images/I/4196IHdrimL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Tamarind-Chutney-Pouch/dp/B08FRF3NQR/ref=sr_1_9_in_f3_0o_fs"
+    },
+    {
+      "sku": "JKE-IIYDSMRRGVJVAU22",
+      "slug": "mothers-recipe-dhania-pudina-chutney-pouch-200-g",
+      "name": "Mother's Recipe Dhania Pudina Chutney Pouch, 200 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 60,
+      "image": "https://m.media-amazon.com/images/I/61gYNKMw4TS.jpg | https://m.media-amazon.com/images/I/41XmHip0mUS.jpg | https://m.media-amazon.com/images/I/510+6G+Sr-S.jpg | https://m.media-amazon.com/images/I/51VRZX6sHtS.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Dhania-Pudina-Chutney/dp/B09215SPSZ/ref=sr_1_60_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDOMKWINCE4WRT",
+      "slug": "mothers-recipe-tamarind-paste-200-gram",
+      "name": "Mother's Recipe Tamarind Paste, 200 gram",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 60,
+      "image": "https://m.media-amazon.com/images/I/81OSiO8VwmL.jpg | https://m.media-amazon.com/images/I/413ITz-vysL.jpg | https://m.media-amazon.com/images/I/41zl9vylKdL.jpg | https://m.media-amazon.com/images/I/41qeC22mERL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Tamarind-Paste-200g/dp/B071VCDNZ3/ref=sr_1_276"
+    },
+    {
+      "sku": "JKE-IIYEEM2IK43TMNCX",
+      "slug": "mothers-recipe-chilli-vinegar-185ml-jar",
+      "name": "Mother's Recipe Chilli Vinegar, 185ml Jar",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 57,
+      "image": "https://m.media-amazon.com/images/I/510n3I44t9L.jpg | https://m.media-amazon.com/images/I/31htiQZ+KlL.jpg | https://m.media-amazon.com/images/I/31ziZPQxg1L.jpg | https://m.media-amazon.com/images/I/313AkuzMg7L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Chilli-Vinegar-185ml/dp/B0B3HW764W/ref=sr_1_305"
+    },
+    {
+      "sku": "JKE-IIYEGMSULIYUOVBZ",
+      "slug": "mothers-recipe-instant-upma-mix-pack-of-6",
+      "name": "Mother's RECIPE Instant Upma Mix | Pack Of 6",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 272,
+      "image": "https://m.media-amazon.com/images/I/613JJDI042L.jpg | https://m.media-amazon.com/images/I/51th2+GrGVL.jpg | https://m.media-amazon.com/images/I/51gOpjEkbYL.jpg | https://m.media-amazon.com/images/I/51b2IFbwjDL.jpg | https://m.media-amazon.com/images/I/41NLpRq6nQL.jpg | https://m.media-amazon.com/images/I/41MAt0XNuwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Instant-Upma-Pack/dp/B0C2TZ1GT9/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-IIYEGNCULJGUMRCO",
+      "slug": "mothers-recipe-kadhai-paneer-mix-pouch-80-g-pack-of-6",
+      "name": "Mothers Recipe Kadhai Paneer Mix Pouch 80 g Pack of 6",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/61NOxa-ZcJL.jpg | https://m.media-amazon.com/images/I/51-VIHJOhbL.jpg | https://m.media-amazon.com/images/I/51skcdbIqBL.jpg | https://m.media-amazon.com/images/I/31i-Us7HYKL.jpg | https://m.media-amazon.com/images/I/41j6WDTiI2L.jpg | https://m.media-amazon.com/images/I/51ZKsvHLaaL.jpg | https://m.media-amazon.com/images/I/51oWI3RqNPL.jpg | https://m.media-amazon.com/images/I/51pL2RqRRxL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Kadhai-Paneer-Pouch/dp/B0C4TZMFDN/ref=sr_1_299"
+    },
+    {
+      "sku": "JKE-IIYDCN2JKVJFAUCD",
+      "slug": "mothers-recipe-gujarati-choondo-pickle-bottle350-g",
+      "name": "Mother's RECIPE Gujarati Choondo Pickle Bottle,350 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 155,
+      "image": "https://m.media-amazon.com/images/I/51X5BVLE-UL.jpg | https://m.media-amazon.com/images/I/41V5dJ1e1lL.jpg | https://m.media-amazon.com/images/I/A10i8LGcbGL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/41fw6MsuZ+L.jpg | https://m.media-amazon.com/images/I/51k5Y88MKZL.jpg | https://m.media-amazon.com/images/I/51f60xvbjaL.jpg | https://m.media-amazon.com/images/I/410Q6u2vjWL.jpg | https://m.media-amazon.com/images/I/51LsNthZXwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Gujarati-Chhundo-Pickle/dp/B017IURPPC/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-IIYDCN2JKVJFGMSD",
+      "slug": "mothers-recipe-lime-pickle-bottle-400-g",
+      "name": "Mother's Recipe Lime Pickle Bottle, 400 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/51ONWYs9FUL.jpg | https://m.media-amazon.com/images/I/31TQf5BbmxL.jpg | https://m.media-amazon.com/images/I/41BIHaVZ5LL.jpg | https://m.media-amazon.com/images/I/310bC99QOKL.jpg | https://m.media-amazon.com/images/I/31sGUUFCn3L.jpg | https://m.media-amazon.com/images/I/51IuX53qT8L.jpg | https://m.media-amazon.com/images/I/51vqBs-xzhL.jpg | https://m.media-amazon.com/images/I/51M5+DUekTL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Lime-Pickle-400g/dp/B017IURS2C/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-IIYDAWJQGE3DCR2D",
+      "slug": "mothers-recipe-pickle-rajasthani-sweet-lime-350g-bottle",
+      "name": "Mother's Recipe Pickle - Rajasthani Sweet Lime, 350g Bottle",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 155,
+      "image": "https://m.media-amazon.com/images/I/71Zjt-E-5kL.jpg | https://m.media-amazon.com/images/I/41hMn+J8gGL.jpg | https://m.media-amazon.com/images/I/41Gz-PTFToL.jpg | https://m.media-amazon.com/images/I/41cJ3xbdYDL.jpg | https://m.media-amazon.com/images/I/41CaUQ4K+fL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Rajasthani-Bottle/dp/B00Y0161GC/ref=sr_1_70"
+    },
+    {
+      "sku": "JKE-IIYDCNSXKNCUCTZQ",
+      "slug": "mothers-recipe-garlic-green-chilli-papad-5-pouch-180gm",
+      "name": "Mother's Recipe Garlic Green Chilli Papad 5\" Pouch, 180gm",
+      "brand": "Mother'S Recipe",
+      "category": "Storage & Organization",
+      "price": 75,
+      "image": "https://m.media-amazon.com/images/I/61OIne+obdL.jpg | https://m.media-amazon.com/images/I/51xzN3kc4ZL.jpg | https://m.media-amazon.com/images/I/51tVgyL92SL.jpg | https://m.media-amazon.com/images/I/417n0hEppXL.jpg | https://m.media-amazon.com/images/I/41B3aEL0ohL.jpg | https://m.media-amazon.com/images/I/51YfD79G3uL.jpg | https://m.media-amazon.com/images/I/51y6Ud3JGTL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Garlic-Green-Chilli/dp/B016WSEAO0/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-IIYDORCDKBJE2TRS",
+      "slug": "mothers-recipe-vegetable-biryani-mix-pouch-75-g",
+      "name": "Mother's Recipe Vegetable Biryani Mix Pouch, 75 G",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/61govxOjYpL.jpg | https://m.media-amazon.com/images/I/51lyqe-A0eL.jpg | https://m.media-amazon.com/images/I/51R05Zk6nWL.jpg | https://m.media-amazon.com/images/I/31E1IlW4SdL.jpg | https://m.media-amazon.com/images/I/31sZb2mpDBL.jpg | https://m.media-amazon.com/images/I/51NL+U36HLL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Veg-Biryani-Mix/dp/B07DCPRMN2/ref=sr_1_55"
+    },
+    {
+      "sku": "JKE-IIYDAWJQGE3EEQ2R",
+      "slug": "mothers-recipe-pickle-gujrathi-choondo-350g-bottle",
+      "name": "Mother's Recipe Pickle - Gujrathi Choondo, 350g Bottle",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 150,
+      "image": "https://m.media-amazon.com/images/I/71s7VoPGD9L.jpg | https://m.media-amazon.com/images/I/41NK5qluJ2L.jpg | https://m.media-amazon.com/images/I/41Vn9CWtysL.jpg | https://m.media-amazon.com/images/I/41BtxNjbFpL.jpg | https://m.media-amazon.com/images/I/413xpi7zlwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Gujrathi-Choondo/dp/B00Y016BCQ/ref=sr_1_85"
+    },
+    {
+      "sku": "JKE-IIYEEVRWJNCEUR2D",
+      "slug": "mothers-recipe-vegetable-biryani-masala-mix-75gm-pack-of",
+      "name": "Mother's RECIPE Vegetable Biryani Masala Mix 75Gm Pack Of...",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/51yK6Fon-IL.jpg | https://m.media-amazon.com/images/I/51yK6Fon-IL.jpg | https://m.media-amazon.com/images/I/A1MMmhFNdOL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51R05Zk6nWL.jpg | https://m.media-amazon.com/images/I/61ACj5l38eL.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg | https://m.media-amazon.com/images/I/61eQOjsEY-L.jpg | https://m.media-amazon.com/images/I/61HT53Fs-HL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Vegetable-Biryani-Masala/dp/B0BV6KDJGC/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYDATJXJVJVIU2P",
+      "slug": "mothers-recipe-pickle-tomato-300g-bottle",
+      "name": "Mother's Recipe Pickle - Tomato, 300G Bottle",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 115,
+      "image": "https://m.media-amazon.com/images/I/719dribdX0L.jpg | https://m.media-amazon.com/images/I/51OKHROU7GL.jpg | https://m.media-amazon.com/images/I/41zh8hsx+SL.jpg | https://m.media-amazon.com/images/I/516wC54HOUL.jpg | https://m.media-amazon.com/images/I/51mIyPxBp6L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Tomato-Bottle/dp/B00M7MSTSO/ref=sr_1_83"
+    },
+    {
+      "sku": "JKE-IIYEIUBUHBDEQUBT",
+      "slug": "mothers-recipe-tamarind-paste-200g-pack-of-5",
+      "name": "Mothers Recipe Tamarind Paste 200g, Pack of 5",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 295,
+      "image": "https://m.media-amazon.com/images/I/51U7nm0O7iL.jpg | https://m.media-amazon.com/images/I/31P54m1EvEL.jpg | https://m.media-amazon.com/images/I/41ImdhxEcAL.jpg | https://m.media-amazon.com/images/I/41m6-uw1i7L.jpg | https://m.media-amazon.com/images/I/41OioCjYjLL.jpg | https://m.media-amazon.com/images/I/41vVveSchqL.jpg | https://m.media-amazon.com/images/I/31-mUZrTJSL.jpg | https://m.media-amazon.com/images/I/51IIVz-DJAL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Tamarind-Paste-200g/dp/B0DP48FHP3/ref=sr_1_89"
+    },
+    {
+      "sku": "JKE-IIYDQSBYLFGTSMSY",
+      "slug": "mothers-recipe-gujarati-gorkeri-pickle-bottle-500-g",
+      "name": "Mother's Recipe Gujarati Gorkeri Pickle Bottle, 500 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 155,
+      "image": "https://m.media-amazon.com/images/I/51AxoIGVMkL.jpg | https://m.media-amazon.com/images/I/41EIoZQLmEL.jpg | https://m.media-amazon.com/images/I/41kRq1aps1L.jpg | https://m.media-amazon.com/images/I/51GMd9ySQvL.jpg | https://m.media-amazon.com/images/I/41YuQPsH1cL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Gujarati-Gorkeri-Pickle/dp/B08H8YM92X/ref=sr_1_53"
+    },
+    {
+      "sku": "JKE-IIYDCNSXKNCFAQJQ",
+      "slug": "mothers-recipe-stuffed-green-chilli-pickle-pouch-200-g",
+      "name": "Mother's Recipe Stuffed Green Chilli Pickle Pouch, 200 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 62,
+      "image": "https://m.media-amazon.com/images/I/51ADjVHuOfL.jpg | https://m.media-amazon.com/images/I/41GLe4FcIpL.jpg | https://m.media-amazon.com/images/I/41mvxdNHo4L.jpg | https://m.media-amazon.com/images/I/51WJ0YtFIZL.jpg | https://m.media-amazon.com/images/I/51xuDkEpsTL.jpg | https://m.media-amazon.com/images/I/51IrshUr1VL.jpg | https://m.media-amazon.com/images/I/51UFTjkg54L.jpg | https://m.media-amazon.com/images/I/41vs3obf0gL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Stuffed-Chilli-Pickle/dp/B016WSDPA0/ref=sr_1_69_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYEGNJTKZBFQVSN",
+      "slug": "mothers-recipe-chicken-chettinad-mix-pouch-80-g-pack-of-6",
+      "name": "Mothers Recipe Chicken Chettinad Mix Pouch 80 g Pack of 6",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/61IvSPqdkLL.jpg | https://m.media-amazon.com/images/I/415oZNzvoGL.jpg | https://m.media-amazon.com/images/I/51wYSWt4Z7L.jpg | https://m.media-amazon.com/images/I/31VZpdb4HXL.jpg | https://m.media-amazon.com/images/I/319rP7ACtML.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Chicken-Chettinad-Pouch/dp/B0C53VBXVM/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-IIYEGMKTKNKFUNRV",
+      "slug": "mothers-recipe-chutney-combo-pack-tamarind-date-chutney",
+      "name": "Mother's RECIPE Chutney Combo Pack - Tamarind Date Chutney...",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 193,
+      "image": "https://m.media-amazon.com/images/I/61MbpBlTJyL.jpg | https://m.media-amazon.com/images/I/51K03jyMejL.jpg | https://m.media-amazon.com/images/I/41bpT68IyeL.jpg | https://m.media-amazon.com/images/I/417KrUKHf5L.jpg | https://m.media-amazon.com/images/I/41WzxDwK-fL.jpg | https://m.media-amazon.com/images/I/51IhvV9xPqL.jpg | https://m.media-amazon.com/images/I/61E5iiag23L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Chutney-Combo-Pack/dp/B0C1SSTZ65/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-IIYDCNSXKNCTETRU",
+      "slug": "mothers-recipe-lime-pickle-pouch-200-g",
+      "name": "Mother's Recipe Lime Pickle Pouch, 200 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 60,
+      "image": "https://m.media-amazon.com/images/I/51Krx3wRTjL.jpg | https://m.media-amazon.com/images/I/51Krx3wRTjL.jpg | https://m.media-amazon.com/images/I/51CTtkwAuvL.jpg | https://m.media-amazon.com/images/I/31hTQyH2l9L.jpg | https://m.media-amazon.com/images/I/41V6x5NFb0L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Lime-Pickle-200g/dp/B016WSE2N4/ref=sr_1_62"
+    },
+    {
+      "sku": "JKE-IIYDAVCYHEYUQQ2F",
+      "slug": "mothers-recipe-green-chilli-pickle-pouch-200-g",
+      "name": "Mother's Recipe Green Chilli Pickle Pouch, 200 G",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 54,
+      "image": "https://m.media-amazon.com/images/I/41uwT8G-McL.jpg | https://m.media-amazon.com/images/I/41uwT8G-McL.jpg | https://m.media-amazon.com/images/I/51-3TgUgjjL.jpg | https://m.media-amazon.com/images/I/313vqk6K6OL.jpg | https://m.media-amazon.com/images/I/41RrIjoT-EL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Green-Chilli/dp/B00TX91HCE/ref=sr_1_34_in_f3_0o_fs"
+    },
+    {
+      "sku": "JKE-IIYDCNSXKNCFEMJS",
+      "slug": "mothers-recipe-stuffed-red-chilli-pickle-pouch-200-g",
+      "name": "Mother's RECIPE Stuffed Red Chilli Pickle Pouch, 200 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 83,
+      "image": "https://m.media-amazon.com/images/I/61qXdZoaA7L.jpg | https://m.media-amazon.com/images/I/41aDRZRDJkL.jpg | https://m.media-amazon.com/images/I/41+qhpOTxfL.jpg | https://m.media-amazon.com/images/I/41ef9toGvhL.jpg | https://m.media-amazon.com/images/I/41KCvF0xGbL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Stuffed-Chilli-Pickle/dp/B016WSDR12/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-IIYEEVRWJJJDEQSS",
+      "slug": "mothers-recipe-paneer-butter-masala-3-veg-biryani-3-",
+      "name": "Mothers Recipe Paneer Butter Masala-3, Veg Biryani-3 |...",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/61H86PzV3HL.jpg | https://m.media-amazon.com/images/I/41LavFw+bKL.jpg | https://m.media-amazon.com/images/I/51NiDGSYpAL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51D1jXVaf1L.jpg | https://m.media-amazon.com/images/I/51lyqe-A0eL.jpg | https://m.media-amazon.com/images/I/61SlYbKkARL.jpg | https://m.media-amazon.com/images/I/61ACj5l38eL.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Paneer-Masala-3-Biryani-3/dp/B0BV6JR2BR/ref=sr_1_300"
+    },
+    {
+      "sku": "JKE-IIYEEVRXGE4EQTRZ",
+      "slug": "mothers-recipe-non-veg-combo-of-8-butter-chicken-2",
+      "name": "Mothers Recipe Non Veg Combo of 8 (Butter Chicken-2,...",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 420,
+      "image": "https://m.media-amazon.com/images/I/71SNW8p2DtL.jpg | https://m.media-amazon.com/images/I/51XgNUxSSvL.jpg | https://m.media-amazon.com/images/I/51NiDGSYpAL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51egrpbZQlL.jpg | https://m.media-amazon.com/images/I/614K6WyOQ7L.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg | https://m.media-amazon.com/images/I/51wvRpqRGPL.jpg | https://m.media-amazon.com/images/I/61mRrRbsygL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Chicken-2-Biryani-2-Chettinad-2/dp/B0BV718HN9/ref=sr_1_88"
+    },
+    {
+      "sku": "JKE-IIYEGMSULA4DSVRX",
+      "slug": "mothers-recipe-instant-poha-mix-pack-of-6",
+      "name": "Mothers Recipe Instant Poha Mix | Pack of 6",
+      "brand": "Mother'S Recipe",
+      "category": "Fasteners & Hardware",
+      "price": 335,
+      "image": "https://m.media-amazon.com/images/I/61wzyf5Dh2L.jpg | https://m.media-amazon.com/images/I/51-o+whffdL.jpg | https://m.media-amazon.com/images/I/51iiL18CxIL.jpg | https://m.media-amazon.com/images/I/41he+hCfonL.jpg | https://m.media-amazon.com/images/I/516684-6S+L.jpg | https://m.media-amazon.com/images/I/412QLkbSFOL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Instant-Poha-Pack/dp/B0C2TX89V7/ref=sr_1_66"
+    },
+    {
+      "sku": "JKE-IIYEIVCELFGTGVZT",
+      "slug": "mothers-recipe-fryums-papad-garlic-green-chilli-x-2-onion-x",
+      "name": "Mothers Recipe Fryums Papad Garlic Green Chilli X 2 Onion X...",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 180,
+      "image": "https://m.media-amazon.com/images/I/61MzSwOCZYL.jpg | https://m.media-amazon.com/images/I/41zaeqgrLfL.jpg | https://m.media-amazon.com/images/I/51OOxk1K0jL.jpg | https://m.media-amazon.com/images/I/51HMBMG59WL.jpg | https://m.media-amazon.com/images/I/51uBupoeggL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Crispy-Garlic-Chilli/dp/B0DTDYM3W3/ref=sr_1_77"
+    },
+    {
+      "sku": "JKE-IIYDORCDJNLEQMSN",
+      "slug": "mothers-recipe-rice-papad-ajwain-pouch-75-g",
+      "name": "Mothers Recipe Rice Papad Ajwain Pouch, 75 g",
+      "brand": "Mother'S Recipe",
+      "category": "Storage & Organization",
+      "price": 50,
+      "image": "https://m.media-amazon.com/images/I/7188ZinCz9L.jpg | https://m.media-amazon.com/images/I/519cLUPrcZL.jpg | https://m.media-amazon.com/images/I/51YW7JJ5JQL.jpg | https://m.media-amazon.com/images/I/41GLxVcyR5L.jpg | https://m.media-amazon.com/images/I/51Oz5ajQ-4L.jpg | https://m.media-amazon.com/images/I/41pgBofNGjL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Ajwain-Rice-Papad/dp/B07DCKVH2M/ref=sr_1_64"
+    },
+    {
+      "sku": "JKE-IIYDATJXJVDUEWBU",
+      "slug": "mothers-recipe-garlic-pickle-bottle-300-g",
+      "name": "Mother's Recipe Garlic Pickle Bottle, 300 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 167,
+      "image": "https://m.media-amazon.com/images/I/613gHQZqZqL.jpg | https://m.media-amazon.com/images/I/51uRQMqqBXL.jpg | https://m.media-amazon.com/images/I/51v+Dn4CPFL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Garlic-Pickle-300g/dp/B00M7MGBX4/ref=sr_1_67"
+    },
+    {
+      "sku": "JKE-IIYEER2MKJDEEVZZ",
+      "slug": "mothers-recipe-garlic-chilli-sauce-220gm",
+      "name": "Mothers Recipe Garlic chilli Sauce, 220gm",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 51,
+      "image": "https://m.media-amazon.com/images/I/41wD8Ywoe5L.jpg | https://m.media-amazon.com/images/I/213zRAIlBOL.jpg | https://m.media-amazon.com/images/I/51xpM-uNkKL.jpg | https://m.media-amazon.com/images/I/51pP6U-e05L.jpg | https://m.media-amazon.com/images/I/51c8+zS7j9L.jpg | https://m.media-amazon.com/images/I/31Qmt1ukV7L.jpg | https://m.media-amazon.com/images/I/51oIVu8bPQL.jpg | https://m.media-amazon.com/images/I/51-s5-GAVtL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Garlic-chilli-Bottle/dp/B0BGLRFBW9/ref=sr_1_29_in_f3_0o_fs"
+    },
+    {
+      "sku": "JKE-IIYDCNSXKNCE2M2L",
+      "slug": "mothers-recipe-mixed-pickle-roi-pouch-500-g",
+      "name": "Mother's RECIPE Mixed Pickle (Roi) Pouch, 500 g",
+      "brand": "Mother'S Recipe",
+      "category": "General Hardware",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/61u0xCb39HL.jpg | https://m.media-amazon.com/images/I/41zdmkBGeUL.jpg | https://m.media-amazon.com/images/I/41USTEd0LpL.jpg | https://m.media-amazon.com/images/I/41qo8CQeotL.jpg | https://m.media-amazon.com/images/I/41dbntudcwL.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Mixed-Pickle-500g/dp/B016WSDM3K/ref=sr_1_15_in_f3_0o_fs"
+    },
+    {
+      "sku": "JKE-IIYDCRSYGRGDEVKZ",
+      "slug": "mothers-recipe-ginger-garlic-paste-jar500-g",
+      "name": "Mother's Recipe Ginger Garlic Paste Jar,500 G",
+      "brand": "Mother'S Recipe",
+      "category": "Abrasives & Finishing",
+      "price": 85,
+      "image": "https://m.media-amazon.com/images/I/51tatqLYuPL.jpg | https://m.media-amazon.com/images/I/31L2J0DnS2L.jpg | https://m.media-amazon.com/images/I/41LWurKuEuL.jpg | https://m.media-amazon.com/images/I/41T7w7ZvAaL.jpg | https://m.media-amazon.com/images/I/31luPnvF4JL.jpg | https://m.media-amazon.com/images/I/31mC0nHsnGL.jpg | https://m.media-amazon.com/images/I/51xlhqMktBL.jpg | https://m.media-amazon.com/images/I/51S3NbbCb1L.jpg",
+      "productUrl": "https://www.amazon.in/Mothers-Recipe-Ginger-Garlic-Paste/dp/B01FX4L2UY/ref=sr_1_10"
+    }
+  ]
+}

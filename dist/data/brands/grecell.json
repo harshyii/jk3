@@ -1,0 +1,46 @@
+{
+  "name": "Grecell",
+  "slug": "grecell",
+  "products": [
+    {
+      "sku": "JKE-IIYEINS2GFEEGVCH",
+      "slug": "grecell-solar-panel-350w-for-power-station",
+      "name": "GRECELL Solar Panel 350W for Power Station",
+      "brand": "Grecell",
+      "category": "General Hardware",
+      "price": 1349,
+      "image": "https://m.media-amazon.com/images/I/81nT6FueigL.jpg | https://m.media-amazon.com/images/I/41nDg+AlpsL.jpg | https://m.media-amazon.com/images/I/51qf2PesPbL.jpg | https://m.media-amazon.com/images/I/51fJ-9chiOL.jpg | https://m.media-amazon.com/images/I/5160r0LS8hL.jpg | https://m.media-amazon.com/images/I/51U0hkCXrhL.jpg | https://m.media-amazon.com/images/I/51pqr6IeR9L.jpg | https://m.media-amazon.com/images/I/41+YKAKf+FL.jpg",
+      "productUrl": "https://www.amazon.in/GRECELL-Solar-Panel-350W-Station/dp/B0D6Z1HCTG/ref=sr_1_163"
+    },
+    {
+      "sku": "JKE-IIYEEOKTKA3EETSI",
+      "slug": "grecell-200w-portable-solar-panel-for-power-station",
+      "name": "GRECELL 200W Portable Solar Panel for Power Station,...",
+      "brand": "Grecell",
+      "category": "Electrical & Wiring",
+      "price": 42125.55,
+      "image": "https://m.media-amazon.com/images/I/71jcQ+GgkWL.jpg | https://m.media-amazon.com/images/I/41lrBBQkUnL.jpg | https://m.media-amazon.com/images/I/51NIg-ffNAL.jpg | https://m.media-amazon.com/images/I/41hmqOuQ0HL.jpg | https://m.media-amazon.com/images/I/513dZDucrfL.jpg | https://m.media-amazon.com/images/I/51EP5mod0kL.jpg | https://m.media-amazon.com/images/I/41A8+Bds0HL.jpg | https://m.media-amazon.com/images/I/511bUVXvQZL.jpg",
+      "productUrl": "https://www.amazon.in/GRECELL-Portable-Foldable-Kickstands-Waterproof/dp/B0B9SP6BNH/ref=sr_1_117_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYEEOKTJVCDQQSD",
+      "slug": "200w-portable-solar-panel-for-power-station-generator",
+      "name": "200W Portable Solar Panel for Power Station Generator,...",
+      "brand": "Grecell",
+      "category": "Safety & PPE",
+      "price": 31929.91,
+      "image": "https://m.media-amazon.com/images/I/71hc7CmsgOL.jpg | https://m.media-amazon.com/images/I/41EY-TitQPL.jpg | https://m.media-amazon.com/images/I/51irmBCO6mL.jpg | https://m.media-amazon.com/images/I/61LkALinWnL.jpg | https://m.media-amazon.com/images/I/41U-myaQbSL.jpg | https://m.media-amazon.com/images/I/51S9WbOkHTL.jpg | https://m.media-amazon.com/images/I/515PVt9EDCL.jpg | https://m.media-amazon.com/images/I/51msCbbxdbL.jpg",
+      "productUrl": "https://www.amazon.in/Portable-Generator-Flexible-Lightweight-High-Efficiency/dp/B0B9SMD8BC/ref=sr_1_268"
+    },
+    {
+      "sku": "JKE-IIYEGNSYLFFFUMKS",
+      "slug": "grecell-monocrystalline-silicon-etfe-100w-solar-panel-for",
+      "name": "GRECELL Monocrystalline Silicon, Etfe 100W Solar Panel for...",
+      "brand": "Grecell",
+      "category": "General Hardware",
+      "price": 13583.85,
+      "image": "https://m.media-amazon.com/images/I/71v9S3hQVQL.jpg | https://m.media-amazon.com/images/I/41n32oVuuzL.jpg | https://m.media-amazon.com/images/I/51wGWDIy0oL.jpg | https://m.media-amazon.com/images/I/51zopeWPbwL.jpg | https://m.media-amazon.com/images/I/51rTmE5I4cL.jpg | https://m.media-amazon.com/images/I/51kvhvaKmHL.jpg | https://m.media-amazon.com/images/I/51RCguCLSXL.jpg | https://m.media-amazon.com/images/I/51dxNqqruEL.jpg",
+      "productUrl": "https://www.amazon.in/GRECELL-S100-Solar-Panel-100W/dp/B0C6XYJZ1R/ref=sr_1_151"
+    }
+  ]
+}

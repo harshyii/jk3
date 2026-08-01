@@ -1,0 +1,46 @@
+{
+  "name": "Pluspoint",
+  "slug": "pluspoint",
+  "products": [
+    {
+      "sku": "JKE-IIYDQQRVGU4TMWCT",
+      "slug": "pluspoint-brain-teasers-metal-wire-puzzle-iq-mental-puzzle",
+      "name": "PLUSPOINT Brain Teasers Metal Wire Puzzle IQ Mental Puzzle...",
+      "brand": "Pluspoint",
+      "category": "Electrical & Wiring",
+      "price": 395,
+      "image": "https://m.media-amazon.com/images/I/71-TwVPRKlL.jpg | https://m.media-amazon.com/images/I/51piTG-hVWL.jpg | https://m.media-amazon.com/images/I/61EfQ17+s0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/515SrFB0j2L.jpg | https://m.media-amazon.com/images/I/51IjySP5obL.jpg | https://m.media-amazon.com/images/I/51OA2M1ExgL.jpg | https://m.media-amazon.com/images/I/51r9GLUQsCL.jpg | https://m.media-amazon.com/images/I/510gkxeDkiL.jpg",
+      "productUrl": "https://www.amazon.in/PLUSPOINT-Brain-Teasers-Metal-Puzzle/dp/B08B5596XS/ref=sr_1_167"
+    },
+    {
+      "sku": "JKE-IIYEOV2KGVEEEOCE",
+      "slug": "pluspoint-formula-1-racing-die-cast-metal-cars-for-kids",
+      "name": "PLUSPOINT Formula 1 Racing Die cast Metal Cars for Kids...",
+      "brand": "Pluspoint",
+      "category": "Power Tools",
+      "price": 350,
+      "image": "https://m.media-amazon.com/images/I/51B4W8vJ9eL.jpg | https://m.media-amazon.com/images/I/51B4W8vJ9eL.jpg | https://m.media-amazon.com/images/I/51Y8tmId0YL.jpg | https://m.media-amazon.com/images/I/51LPs1c2IxL.jpg | https://m.media-amazon.com/images/I/41HedpNaDAL.jpg | https://m.media-amazon.com/images/I/41W6XeJ8hpL.jpg | https://m.media-amazon.com/images/I/51LxBkKmSKL.jpg | https://m.media-amazon.com/images/I/41VleHpl9lL.jpg",
+      "productUrl": "https://www.amazon.in/PLUSPOINT-Simulation-High-Speed-Vehicles-Collectible/dp/B0GWJ5HB8D/ref=sr_1_158"
+    },
+    {
+      "sku": "JKE-IIYEOV2KJJDU2WJY",
+      "slug": "pluspoint-formula1-racing-die-cast-metal-cars-for-kids-pull",
+      "name": "PLUSPOINT Formula1 Racing Die cast Metal Cars for Kids Pull...",
+      "brand": "Pluspoint",
+      "category": "Power Tools",
+      "price": 450,
+      "image": "https://m.media-amazon.com/images/I/51tQEy6uOkL.jpg | https://m.media-amazon.com/images/I/51tQEy6uOkL.jpg | https://m.media-amazon.com/images/I/61x-DImFRJL.jpg | https://m.media-amazon.com/images/I/51JEwXn8wVL.jpg | https://m.media-amazon.com/images/I/51cjrcFDZpL.jpg | https://m.media-amazon.com/images/I/418xfbpNj1L.jpg | https://m.media-amazon.com/images/I/51oIFKCI-yL.jpg | https://m.media-amazon.com/images/I/510+f5dC3tL.jpg",
+      "productUrl": "https://www.amazon.in/PLUSPOINT-Formula1-Simulation-High-Speed-Collectible/dp/B0GWJJGMY8/ref=sr_1_220"
+    },
+    {
+      "sku": "JKE-IIYEOVZVLFFFIQ2X",
+      "slug": "pluspoint-formula-1-racing-die-cast-metal-cars-for-kids",
+      "name": "PLUSPOINT Formula 1 Racing Die cast Metal Cars for Kids...",
+      "brand": "Pluspoint",
+      "category": "Power Tools",
+      "price": 450,
+      "image": "https://m.media-amazon.com/images/I/51r3gUy7LuL.jpg | https://m.media-amazon.com/images/I/41doOVUgbvL.jpg | https://m.media-amazon.com/images/I/51MNnTwMzJL.jpg | https://m.media-amazon.com/images/I/41mqGDut2LL.jpg | https://m.media-amazon.com/images/I/41hwA1BQpBL.jpg | https://m.media-amazon.com/images/I/41XQz+QFzoL.jpg | https://m.media-amazon.com/images/I/41Gy-s1DmWL.jpg | https://m.media-amazon.com/images/I/419r8vX8qYL.jpg",
+      "productUrl": "https://www.amazon.in/PLUSPOINT-Simulation-High-Speed-Vehicles-Collectible/dp/B0GW5YJTCW/ref=sr_1_36"
+    }
+  ]
+}

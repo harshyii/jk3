@@ -1,0 +1,26 @@
+{
+  "name": "Varta",
+  "slug": "varta",
+  "products": [
+    {
+      "sku": "JKE-IIYDAMKGJZLTAOKV",
+      "slug": "varta-power-one-p312-hearing-aid-battery-10-packs-of-6",
+      "name": "Varta Power One p312 Hearing Aid Battery (10 Packs of 6...",
+      "brand": "Varta",
+      "category": "Safety & PPE",
+      "price": 878,
+      "image": "https://m.media-amazon.com/images/I/71MCnsQT-yL.jpg | https://m.media-amazon.com/images/I/41dRBkUBujL.jpg | https://m.media-amazon.com/images/I/51FXgQkinkL.jpg | https://m.media-amazon.com/images/I/415pjp1EPOL.jpg | https://m.media-amazon.com/images/I/31iRj+tgxuL.jpg | https://m.media-amazon.com/images/I/31dy+d9-M0L.jpg | https://m.media-amazon.com/images/I/51tMCjbdtJL.jpg | https://m.media-amazon.com/images/I/41jUsuwJsdL.jpg",
+      "productUrl": "https://www.amazon.in/Power-One-Hearing-Battery-Packs/dp/B001FNW09U/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-IIYDAMCXG5DEIMSH",
+      "slug": "power-one-size-10-zinc-air-hearing-aid-batteries-60",
+      "name": "Power One Size 10 Zinc Air Hearing Aid Batteries (60...",
+      "brand": "Varta",
+      "category": "General Hardware",
+      "price": 924,
+      "image": "https://m.media-amazon.com/images/I/71TTbz0KX0L.jpg | https://m.media-amazon.com/images/I/41TpRh0+T8L.jpg | https://m.media-amazon.com/images/I/41CEvXVl-4L.jpg | https://m.media-amazon.com/images/I/51QkXTXLHAL.jpg | https://m.media-amazon.com/images/I/518y847liaL.jpg | https://m.media-amazon.com/images/I/41D3q+7JkxL.jpg | https://m.media-amazon.com/images/I/414S91XMFTL.jpg | https://m.media-amazon.com/images/I/41Dv5MDH5KL.jpg",
+      "productUrl": "https://www.amazon.in/Power-One-Hearing-Batteries-batteries/dp/B000W7FD2G/ref=sr_1_96"
+    }
+  ]
+}

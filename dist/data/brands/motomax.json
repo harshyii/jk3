@@ -1,0 +1,66 @@
+{
+  "name": "Motomax",
+  "slug": "motomax",
+  "products": [
+    {
+      "sku": "JKE-IIYDAVCEI5LFMQSP",
+      "slug": "motomax-cream-polish-60gm-with-carnuba-wax-with-sponge",
+      "name": "Motomax Cream Polish, 60gm with Carnuba Wax, with Sponge,...",
+      "brand": "Motomax",
+      "category": "Power Tools",
+      "price": 114,
+      "image": "https://m.media-amazon.com/images/I/61QwDdnY3uL.jpg | https://m.media-amazon.com/images/I/41CNU-f+wyL.jpg | https://m.media-amazon.com/images/I/71Geo239QAL.jpg | https://m.media-amazon.com/images/I/41BtXC2XzyL.jpg | https://m.media-amazon.com/images/I/41TilST8-2S.jpg | https://m.media-amazon.com/images/I/518SmCXXYVL.jpg | https://m.media-amazon.com/images/I/51Z6yRyR-8L.jpg | https://m.media-amazon.com/images/I/51ijSk-Dz+L.jpg",
+      "productUrl": "https://www.amazon.in/Motorcycle-Protection-pollutant-repellant-surfaces/dp/B00TDGVVBO/ref=sr_1_3"
+    },
+    {
+      "sku": "JKE-IIYDON2UKFJFAWST",
+      "slug": "motomax-2k-rubbing-compound-100g-removes-minor-scratches",
+      "name": "Motomax 2K Rubbing Compound 100g | Removes Minor Scratches,...",
+      "brand": "Motomax",
+      "category": "Power Tools",
+      "price": 64,
+      "image": "https://m.media-amazon.com/images/I/51yMh9Hg1XL.jpg | https://m.media-amazon.com/images/I/41L3GSZRcuL.jpg | https://m.media-amazon.com/images/I/51ReoBtAxWL.jpg | https://m.media-amazon.com/images/I/41FzCVPjQwL.jpg | https://m.media-amazon.com/images/I/41wf9HvfsxL.jpg | https://m.media-amazon.com/images/I/51pFi1MduxL.jpg | https://m.media-amazon.com/images/I/41mYoXd2l0L.jpg | https://m.media-amazon.com/images/I/41n7rhTd55L.jpg",
+      "productUrl": "https://www.amazon.in/Motomax-2K-Rubbing-Compound-100g/dp/B077TQRPZS/ref=sr_1_141"
+    },
+    {
+      "sku": "JKE-IIYDAVCMJNJUUTJW",
+      "slug": "motomax-bike-car-cream-polish-230gm-carnuba-wax-micro",
+      "name": "Motomax Bike & Car Cream Polish 230gm | Carnuba Wax & Micro...",
+      "brand": "Motomax",
+      "category": "Power Tools",
+      "price": 290,
+      "image": "https://m.media-amazon.com/images/I/616dGe06RuS.jpg | https://m.media-amazon.com/images/I/41iDCHBJKvS.jpg | https://m.media-amazon.com/images/I/51vNe+NIw5L.jpg | https://m.media-amazon.com/images/I/413MGwNH7aS.jpg | https://m.media-amazon.com/images/I/41TilST8-2S.jpg | https://m.media-amazon.com/images/I/518SmCXXYVL.jpg | https://m.media-amazon.com/images/I/51R3u4jQ-+L.jpg | https://m.media-amazon.com/images/I/51FoFky4gQS.jpg",
+      "productUrl": "https://www.amazon.in/Polishing-Protects-Motorcycle-Repellent-scratches/dp/B00TLKSJM6/ref=sr_1_289"
+    },
+    {
+      "sku": "JKE-IIYDAWCSINAUKQ2X",
+      "slug": "motomax-2k-rubbing-compound-200g-removes-minor-scratches",
+      "name": "Motomax 2K Rubbing Compound 200g | Removes Minor Scratches,...",
+      "brand": "Motomax",
+      "category": "Power Tools",
+      "price": 125,
+      "image": "https://m.media-amazon.com/images/I/61unbiwjgvL.jpg | https://m.media-amazon.com/images/I/414QtOZHnPL.jpg | https://m.media-amazon.com/images/I/614+s6JGvLL.jpg | https://m.media-amazon.com/images/I/41I7XRR0aCL.jpg | https://m.media-amazon.com/images/I/512PWoocrjL.jpg | https://m.media-amazon.com/images/I/51r756gf6rL.jpg | https://m.media-amazon.com/images/I/51UoC-pL+OL.jpg | https://m.media-amazon.com/images/I/41nuGK0G9nL.jpg",
+      "productUrl": "https://www.amazon.in/MOTOMAX-Scratches-Motorbikes-Scratch-Remover/dp/B00XRCAECW/ref=sr_1_304_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYDAVCEI5LFETCT",
+      "slug": "motomax-dashboard-polish100ml-restore-shine-dull",
+      "name": "Motomax Dashboard Polish,100ml. Restore, shine dull...",
+      "brand": "Motomax",
+      "category": "Power Tools",
+      "price": 165,
+      "image": "https://m.media-amazon.com/images/I/51bR-tmNkeL.jpg | https://m.media-amazon.com/images/I/41XdmU7PHKL.jpg | https://m.media-amazon.com/images/I/51EyXX2+K0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51+1cTVoZaL.jpg | https://m.media-amazon.com/images/I/416Z1FPFbgL.jpg | https://m.media-amazon.com/images/I/51Ast58WgjL.jpg | https://m.media-amazon.com/images/I/41hE7Xm4iqL.jpg | https://m.media-amazon.com/images/I/41Bhf37RTXL.jpg",
+      "productUrl": "https://www.amazon.in/Motomax-Dashboard-Polish-100-ml/dp/B00TDGVRLS/ref=sr_1_207_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYEEUSHIJNFQTRT",
+      "slug": "motomax-2k-rubbing-compound-200g-motomax-bike-car-cream",
+      "name": "MOTOMAX 2K Rubbing Compound 200g & Motomax Bike & Car Cream...",
+      "brand": "Motomax",
+      "category": "Power Tools",
+      "price": 284,
+      "image": "https://m.media-amazon.com/images/I/71FfO5RsOkL.jpg | https://m.media-amazon.com/images/I/416358MMYEL.jpg | https://m.media-amazon.com/images/I/41BMORvAYvL.jpg | https://m.media-amazon.com/images/I/41zc6dOZZIS.jpg | https://m.media-amazon.com/images/I/51tHpQDGT5S.jpg | https://m.media-amazon.com/images/I/41CNU-f+wyL.jpg | https://m.media-amazon.com/images/I/41PK5FbDV4L.jpg",
+      "productUrl": "https://www.amazon.in/MOTOMAX-Rubbing-Compound-Motomax-Polishing/dp/B0BRGBZXN3/ref=sr_1_190"
+    }
+  ]
+}

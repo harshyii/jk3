@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOWBWHBDDERCM",
-  "title": "48V Cordless Mini Chainsaw 6 Inch | Portable Electric Wood Cutter with Double Battery | Handheld Chain Saw for Wood Cutting, Tree Trimming & Garden Use",
+  "title": "48V Cordless Mini Chainsaw 6 Inch | Portable Electric Wood...",
   "brand": "Culture Creative",
-  "current_price": "₹2,061.00",
-  "mrp": "₹3,999",
+  "current_price": 2061,
+  "mrp": 3999,
   "product_url": "https://www.amazon.in/Cordless-Chainsaw-Portable-Electric-Handheld/dp/B0GX68F2DL/ref=sr_1_181",
   "rating": "2.72.7 out of 5 stars(29)2.7 out of 5 stars",
   "description": "48V Cordless Mini Chainsaw 6 Inch | Portable Electric Wood Cutter with Double Battery | Handheld Chain Saw for Wood Cutting, Tree Trimming & Garden Use - Distributed/Packaged by Culture Creative. Product Details: nan",
@@ -28,18 +28,18 @@
   "specifications": {
     "Brand Name": "Culture Creative",
     "Manufacturer": "S K CRATION",
-    "Country of Publication": "India",
-    "Item Weight": "1600 Grams",
     "Item Type Name": "Tools & Machinery",
     "Packer Contact Information": "S K CRATION",
     "Best Sellers Rank": "#3,125 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#8 inChain Saws",
     "ASIN": "B0GX68F2DL",
     "Customer Reviews": "2.72.7 out of 5 stars(29)2.7 out of 5 stars",
-    "Item Dimensions L x W x H": "10L x 10W x 10H Centimeters"
+    "Item Dimensions L x W x H": "10L x 10W x 10H Centimeters",
+    "Item Weight": "1600 Grams",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEOWBWHBDDERCM",
-  "Name": "48V Cordless Mini Chainsaw 6 Inch | Portable Electric Wood Cutter with Double Battery | Handheld Chain Saw for Wood Cutting, Tree Trimming & Garden Use",
-  "Slug": "48v-cordless-mini-chainsaw-6-inch-portable-electric-wood-cutter-with-double-battery-handheld-chain-saw-for-wood-cutting-tree-trimming-garden-use",
+  "Name": "48V Cordless Mini Chainsaw 6 Inch | Portable Electric Wood...",
+  "Slug": "48v-cordless-mini-chainsaw-6-inch-portable-electric-wood",
   "Category": "Hand Tools",
   "Subcategory1": "Multi-tools",
   "Images": [
@@ -53,8 +53,8 @@
     "https://m.media-amazon.com/images/I/41Lo2PllrqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31N6gCxSOwL.jpg | https://m.media-amazon.com/images/I/31N6gCxSOwL.jpg | https://m.media-amazon.com/images/I/61fEkiEstkL.jpg | https://m.media-amazon.com/images/I/41iI+cmfgOL.jpg | https://m.media-amazon.com/images/I/51ePD7mU4JL.jpg | https://m.media-amazon.com/images/I/41NxvMwMZ5L.jpg | https://m.media-amazon.com/images/I/61UWZXDXRNL.jpg | https://m.media-amazon.com/images/I/41Lo2PllrqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹2,061.00"
+  "Discount": 48.46,
+  "SalePrice": 2061
 }

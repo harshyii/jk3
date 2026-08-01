@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDOTBZKNNDKUK2",
-  "title": "Electronic Spices Mini Solar Panel, 6V-60mAh, 80mm*40mm*3mm, Pack of 5",
+  "title": "Electronic Spices Mini Solar Panel, 6V-60mAh,...",
   "brand": "Electronic Spices",
-  "current_price": "₹369.00",
-  "mrp": "₹499",
+  "current_price": 369,
+  "mrp": 499,
   "product_url": "https://www.amazon.in/Electronic-Spices-Solar-Panel-Rectangle/dp/B07L9SZ5QZ/ref=sr_1_122",
   "description": "Electronic Spices Mini Solar Panel, 6V-60mAh, 80mm*40mm*3mm, Pack of 5 - Distributed/Packaged by Electronic Spices. Product Details: solar for DIY/solar panel 6v- 60 mah / 80mm*40mm*03mm/ solar panel in rectangle shape/mini solar panel/pack of 5",
   "image_urls": [
@@ -19,17 +19,17 @@
   "specifications": {
     "Brand Name": "Electronic Spices",
     "Manufacturer": "Electronic Spices",
-    "Country of Publication": "China",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "5solarDIY6V60MAH4",
     "Best Sellers Rank": "#308,142 in Toys & Games (See Top 100 in Toys & Games)#8,051 inScience Toys & Kits",
     "ASIN": "B07L9SZ5QZ",
     "Connector Type": "USB",
+    "Manufacturer Part Number": "5solarDIY6V60MAH4",
+    "Country of Publication": "China",
     "Maximum Voltage": "6 Volts"
   },
   "SKU": "JKE-IIYDOTBZKNNDKUK2",
-  "Name": "Electronic Spices Mini Solar Panel, 6V-60mAh, 80mm*40mm*3mm, Pack of 5",
-  "Slug": "electronic-spices-mini-solar-panel-6v-60mah-80mm40mm3mm-pack-of-5",
+  "Name": "Electronic Spices Mini Solar Panel, 6V-60mAh,...",
+  "Slug": "electronic-spices-mini-solar-panel-6v-60mah",
   "Category": "General Hardware",
   "Subcategory1": "Hardware Kits",
   "Images": [
@@ -39,8 +39,8 @@
     "https://m.media-amazon.com/images/I/41jFsvTNysL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31j-fWF-SfL.jpg | https://m.media-amazon.com/images/I/31j-fWF-SfL.jpg | https://m.media-amazon.com/images/I/311e0e2yvKL.jpg | https://m.media-amazon.com/images/I/41jFsvTNysL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹369.00"
+  "Discount": 26.05,
+  "SalePrice": 369
 }

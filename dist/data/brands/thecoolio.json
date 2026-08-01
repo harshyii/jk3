@@ -1,0 +1,16 @@
+{
+  "name": "Thecoolio",
+  "slug": "thecoolio",
+  "products": [
+    {
+      "sku": "JKE-IIYDAWCYKNHUGQKB",
+      "slug": "freemans-combination-plier-8-200mm",
+      "name": "Freemans Combination Plier 8\" (200Mm)",
+      "brand": "Thecoolio",
+      "category": "Hand Tools",
+      "price": 300,
+      "image": "https://m.media-amazon.com/images/I/712r4nWw3AL.jpg | https://m.media-amazon.com/images/I/31IFyds-8UL.jpg | https://m.media-amazon.com/images/I/31XwiJTZAYL.jpg | https://m.media-amazon.com/images/I/41lwKZ4ypqL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-Combination-Plier-8-200mm/dp/B00XXSOCAA/ref=sr_1_115"
+    }
+  ]
+}

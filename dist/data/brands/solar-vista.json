@@ -1,0 +1,36 @@
+{
+  "name": "Solar Vista",
+  "slug": "solar-vista",
+  "products": [
+    {
+      "sku": "JKE-IIYEMS2NIJBEGWS2",
+      "slug": "solarvista-100w-solar-street-lamp-high-brightness-led-for",
+      "name": "Solarvista 100W Solar Street Lamp: High-Brightness LED for...",
+      "brand": "Solar Vista",
+      "category": "Electrical & Wiring",
+      "price": 2429,
+      "image": "https://m.media-amazon.com/images/I/51-K0OsA81L.jpg | https://m.media-amazon.com/images/I/414s55ES2IL.jpg | https://m.media-amazon.com/images/I/51gHS2X4jUL.jpg | https://m.media-amazon.com/images/I/51mdL37eVKL.jpg | https://m.media-amazon.com/images/I/41DxTU+hvKL.jpg | https://m.media-amazon.com/images/I/31ggyTLu1-L.jpg | https://m.media-amazon.com/images/I/31c8mXSvjsL.jpg | https://m.media-amazon.com/images/I/41HTSW6w1FL.jpg",
+      "productUrl": "https://www.amazon.in/SOLAR-VISTA-High-Brightness-Solar-Street/dp/B0FKMBBCZZ/ref=sr_1_179"
+    },
+    {
+      "sku": "JKE-IIYEMS2OGVBDQNRS",
+      "slug": "solarvista-90w-solar-street-light-ultra-bright-led-for",
+      "name": "Solarvista 90W Solar Street Light: Ultra-Bright LED for...",
+      "brand": "Solar Vista",
+      "category": "Measuring & Layout",
+      "price": 2429,
+      "image": "https://m.media-amazon.com/images/I/71P7egODRuL.jpg | https://m.media-amazon.com/images/I/51-tJ6ynG5L.jpg | https://m.media-amazon.com/images/I/41vgrfA1xAL.jpg | https://m.media-amazon.com/images/I/5176buCjRvL.jpg | https://m.media-amazon.com/images/I/4136ONWm8zL.jpg | https://m.media-amazon.com/images/I/51GYr8qHmTL.jpg | https://m.media-amazon.com/images/I/41KX7RiktyL.jpg | https://m.media-amazon.com/images/I/218AfeRUwXL.jpg",
+      "productUrl": "https://www.amazon.in/SOLAR-VISTA-Solar-Street-Light/dp/B0FKN5B862/ref=sr_1_59"
+    },
+    {
+      "sku": "JKE-IIYEMS2OGZFVUUCG",
+      "slug": "solarvista-120w-solar-street-light-all-in-one-led-outdoor",
+      "name": "Solarvista 120W Solar Street Light: All-in-One LED Outdoor...",
+      "brand": "Solar Vista",
+      "category": "Electrical & Wiring",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/71T2-NwkyKL.jpg | https://m.media-amazon.com/images/I/41zzh1tByfL.jpg | https://m.media-amazon.com/images/I/41WlXU4ozYL.jpg | https://m.media-amazon.com/images/I/41PwgNAJ+gL.jpg | https://m.media-amazon.com/images/I/41Qb2QdD8bL.jpg | https://m.media-amazon.com/images/I/31Tt0OTd4ZL.jpg | https://m.media-amazon.com/images/I/31i-DAdDyuL.jpg | https://m.media-amazon.com/images/I/410QAKjNDVL.jpg",
+      "productUrl": "https://www.amazon.in/SOLAR-VISTA-Solar-Street-Light/dp/B0FKN6KZPF/ref=sr_1_52"
+    }
+  ]
+}

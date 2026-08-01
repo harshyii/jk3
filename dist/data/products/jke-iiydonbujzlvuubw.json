@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDONBUJZLVUUBW",
-  "title": "BLACK+DECKER BMT108C Hand Tool Kit for Home & DIY Use (108-Piece) - Includes Screwdriver, Wrench, Ratchet, Utility Knife, Saw, Claw Hammer, Measuring Tape and Plier, ORANGE & BLACK",
+  "title": "BLACK+DECKER BMT108C Hand Tool Kit for Home & DIY Use...",
   "brand": "Black+Decker",
-  "current_price": "₹2,089.00",
-  "mrp": "₹2,849",
+  "current_price": 2089,
+  "mrp": 2849,
   "product_url": "https://www.amazon.in/Black-Decker-Hand-108-Piece-Orange/dp/B0744NWZP6/ref=sr_1_149",
   "description": "BLACK+DECKER BMT108C Hand Tool Kit for Home & DIY Use (108-Piece) - Includes Screwdriver, Wrench, Ratchet, Utility Knife, Saw, Claw Hammer, Measuring Tape and Plier, ORANGE & BLACK - Distributed/Packaged by Black+Decker. Product Details: nan",
   "image_urls": [
@@ -25,16 +25,16 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41g+p-Y0PiL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎BLACK+DECKER",
     "Item Type Name": "General",
     "ASIN": "‎B0744NWZP6",
     "Product Dimensions": "‎35 x 27 x 6.8 cm; 2.34 kg",
-    "Item model number": "‎BMT108C",
-    "Country of Origin": "‎China"
+    "Item model number": "‎BMT108C"
   },
   "SKU": "JKE-IIYDONBUJZLVUUBW",
-  "Name": "BLACK+DECKER BMT108C Hand Tool Kit for Home & DIY Use (108-Piece) - Includes Screwdriver, Wrench, Ratchet, Utility Knife, Saw, Claw Hammer, Measuring Tape and Plier, ORANGE & BLACK",
-  "Slug": "blackdecker-bmt108c-hand-tool-kit-for-home-diy-use-108-piece-includes-screwdriver-wrench-ratchet-utility-knife-saw-claw-hammer-measuring-tape-and-plier-orange-black",
+  "Name": "BLACK+DECKER BMT108C Hand Tool Kit for Home & DIY Use...",
+  "Slug": "blackdecker-bmt108c-hand-tool-kit-for-home-diy-use",
   "Category": "Hand Tools",
   "Subcategory1": "Hand Saws",
   "Images": [
@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81dNVvSMcfL.jpg | https://m.media-amazon.com/images/I/41LqOpp7-JL.jpg | https://m.media-amazon.com/images/I/61J3w1hqueL.jpg | https://m.media-amazon.com/images/I/61gk7kKu02L.jpg | https://m.media-amazon.com/images/I/51ajppUkCwL.jpg | https://m.media-amazon.com/images/I/41g+p-Y0PiL.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹2,089.00",
+  "Discount": 26.68,
+  "SalePrice": 2089,
   "Country": "‎China"
 }

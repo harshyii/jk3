@@ -1,0 +1,36 @@
+{
+  "name": "Bburago",
+  "slug": "bburago",
+  "products": [
+    {
+      "sku": "JKE-IIYEONCGIZIFCNCU",
+      "slug": "bburago-164-scale-mclaren-mcl39-australian-gp-2025-formula",
+      "name": "Bburago 1/64 Scale Mclaren MCL39 Australian GP 2025 Formula...",
+      "brand": "Bburago",
+      "category": "General Hardware",
+      "price": 995,
+      "image": "https://m.media-amazon.com/images/I/71GncDsryIL.jpg | https://m.media-amazon.com/images/I/315QuDq6woL.jpg | https://m.media-amazon.com/images/I/51u1EaRnKeL.jpg | https://m.media-amazon.com/images/I/41kY-g8qyCL.jpg | https://m.media-amazon.com/images/I/51feJfeL5aL.jpg | https://m.media-amazon.com/images/I/41oTRdky06L.jpg | https://m.media-amazon.com/images/I/41G4vhb8NNL.jpg | https://m.media-amazon.com/images/I/31HCGboslyL.jpg",
+      "productUrl": "https://www.amazon.in/Bburago-Mclaren-Australian-Formula-Piastr/dp/B0G4FFPQ4T/ref=sr_1_251"
+    },
+    {
+      "sku": "JKE-IIYEONCXJBKFQWSH",
+      "slug": "bburago-164-scale-scuderia-ferrari-2025-sf-25-formula-1",
+      "name": "Bburago 1/64 Scale Scuderia Ferrari 2025 SF-25 Formula 1...",
+      "brand": "Bburago",
+      "category": "General Hardware",
+      "price": 1449,
+      "image": "https://m.media-amazon.com/images/I/51csA-RJDXL.jpg | https://m.media-amazon.com/images/I/31CKvXruACL.jpg | https://m.media-amazon.com/images/I/31ocha0gblL.jpg",
+      "productUrl": "https://www.amazon.in/Bburago-Scuderia-Ferrari-Formula-Charles/dp/B0G4WHTXZG/ref=sr_1_169"
+    },
+    {
+      "sku": "JKE-IIYEONCGIJJUIV2E",
+      "slug": "bburago-164-scale-scuderia-ferrari-2025-sf-25-formula-1",
+      "name": "Bburago 1/64 Scale Scuderia Ferrari 2025 SF-25 Formula 1...",
+      "brand": "Bburago",
+      "category": "General Hardware",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71YVhGMmeCL.jpg | https://m.media-amazon.com/images/I/41Aq6yejamL.jpg | https://m.media-amazon.com/images/I/31GyNptRA1L.jpg",
+      "productUrl": "https://www.amazon.in/Bburago-Scuderia-Ferrari-Formula-Hamilton/dp/B0G4FBSDWD/ref=sr_1_171"
+    }
+  ]
+}

@@ -1,10 +1,10 @@
 {
   "asin": "JKE-IIYDSRSHJA4TMWJU",
-  "title": "Electronic Spices 6V-100 MAH (70 x 70 x 03 mm) Mini Solar Panel Square Shape With 5V Boost Step Up Power Module Lithium Battery Charging Protection Board 134N3P",
+  "title": "Electronic Spices 6V-100 MAH (70 x 70 x 03 mm) Mini Solar...",
   "brand": "Electronic Spices",
-  "current_price": "₹189.00",
-  "mrp": "₹699",
-  "product_url": "https://www.amazon.in/Electronic-Spices-Lithium-Charging-Protection/dp/B09FGH96Y4/ref=sr_1_158",
+  "current_price": 189,
+  "mrp": 699,
+  "product_url": "https://www.amazon.in/Electronic-Spices-Lithium-Charging-Protection/dp/B09FGH96Y4/ref=sr_1_95",
   "description": "Electronic Spices 6V-100 MAH (70 x 70 x 03 mm) Mini Solar Panel Square Shape With 5V Boost Step Up Power Module Lithium Battery Charging Protection Board 134N3P - Distributed/Packaged by Electronic Spices. Product Details: Board Size: 22 * 17 * 10mm/0.87 * 0.67 * 0.39inch(L * W * H) Input Voltage: 3.7V-5.5V Charging Current: Z 1A Output Current: Z is 1A Output Voltage: 5V BAT Discharge Termination Voltage: 2.9V Preset 4.2V Charge Voltage with ±1% accuracy Discharge Efficiency: 85% (input 3.7V, output 5V/1A) Solar for DIY, Solar Panel 6v- 100 mah, 70mm*70mm*03mm, Solar Panel in Square Shape, Mini Solar Panel",
   "image_urls": [
     "https://m.media-amazon.com/images/I/61Z1xX6JeyL.jpg | https://m.media-amazon.com/images/I/41UiPCIVyoL.jpg | https://m.media-amazon.com/images/I/517MyS5bERL.jpg | https://m.media-amazon.com/images/I/41jrVIkSovL.jpg | https://m.media-amazon.com/images/I/31+pTvWdI3L.jpg | https://m.media-amazon.com/images/I/41gPD6RO6iL.jpg | https://m.media-amazon.com/images/I/41J20eRopUL.jpg",
@@ -25,23 +25,23 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41gPD6RO6iL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41J20eRopUL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Electronic Spices",
-    "Included Components": "‎Mini Solar Panel",
-    "Item Weight": "‎20 g",
     "Item Type Name": "General",
+    "Colour": "‎MULTI",
+    "Included Components": "‎Mini Solar Panel",
     "Brand": "‎Electronic Spices",
     "Model number": "‎SOR134NP1",
-    "Colour": "‎MULTI",
     "Number of Memory Sticks": "‎2",
+    "Item Weight": "‎20 g",
     "Product Dimensions": "‎17 x 10 x 5 cm; 20 g",
     "Item model number": "‎SOR134NP1",
     "Item Height": "‎50 Millimeters",
-    "Item Width": "‎10 Centimeters",
-    "Country of Origin": "‎India"
+    "Item Width": "‎10 Centimeters"
   },
   "SKU": "JKE-IIYDSRSHJA4TMWJU",
-  "Name": "Electronic Spices 6V-100 MAH (70 x 70 x 03 mm) Mini Solar Panel Square Shape With 5V Boost Step Up Power Module Lithium Battery Charging Protection Board 134N3P",
-  "Slug": "electronic-spices-6v-100-mah-70-x-70-x-03-mm-mini-solar-panel-square-shape-with-5v-boost-step-up-power-module-lithium-battery-charging-protection-board-134n3p",
+  "Name": "Electronic Spices 6V-100 MAH (70 x 70 x 03 mm) Mini Solar...",
+  "Slug": "electronic-spices-6v-100-mah-70-x-70-x-03-mm-mini-solar",
   "Category": "Measuring & Layout",
   "Subcategory1": "General Measuring",
   "Images": [
@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41J20eRopUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Z1xX6JeyL.jpg | https://m.media-amazon.com/images/I/41UiPCIVyoL.jpg | https://m.media-amazon.com/images/I/517MyS5bERL.jpg | https://m.media-amazon.com/images/I/41jrVIkSovL.jpg | https://m.media-amazon.com/images/I/31+pTvWdI3L.jpg | https://m.media-amazon.com/images/I/41gPD6RO6iL.jpg | https://m.media-amazon.com/images/I/41J20eRopUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹189.00",
+  "Discount": 72.96,
+  "SalePrice": 189,
   "Country": "‎India"
 }

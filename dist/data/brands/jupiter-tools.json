@@ -1,0 +1,26 @@
+{
+  "name": "Jupiter Tools",
+  "slug": "jupiter-tools",
+  "products": [
+    {
+      "sku": "JKE-IIYDON2UKJDUESCK",
+      "slug": "dongcheng-dml405-16-chain-saw",
+      "name": "DONGCHENG DML405 16\" CHAIN SAW",
+      "brand": "Jupiter Tools",
+      "category": "Power Tools",
+      "price": 5111,
+      "image": "https://m.media-amazon.com/images/I/31kkvWy3bfL.jpg | https://m.media-amazon.com/images/I/31kkvWy3bfL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-DML405-16-CHAIN-SAW/dp/B077TRGBHJ/ref=sr_1_101"
+    },
+    {
+      "sku": "JKE-IIYDOOBVGFEEYRSK",
+      "slug": "dongcheng-dzg6s-810-percussion-hammer",
+      "name": "DONGCHENG DZG6S. 810 PERCUSSION HAMMER",
+      "brand": "Jupiter Tools",
+      "category": "Hand Tools",
+      "price": 8398,
+      "image": "https://m.media-amazon.com/images/I/51tXvApmB9L.jpg | https://m.media-amazon.com/images/I/31v+Q1nYwcL.jpg",
+      "productUrl": "https://www.amazon.in/DONGCHENG-DZG6S-810-PERCUSSION-HAMMER/dp/B07851HLFJ/ref=sr_1_109"
+    }
+  ]
+}

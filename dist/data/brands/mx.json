@@ -1,0 +1,26 @@
+{
+  "name": "Mx",
+  "slug": "mx",
+  "products": [
+    {
+      "sku": "JKE-IIYEGVSNKRLE2WKK",
+      "slug": "mx-plastic-garden-twist-tie-wire-rope-spool-with-magic",
+      "name": "MX plastic garden twist tie wire rope spool with magic...",
+      "brand": "Mx",
+      "category": "Hand Tools",
+      "price": 130,
+      "image": "https://m.media-amazon.com/images/I/51HTUEwspoL.jpg | https://m.media-amazon.com/images/I/31spABsK7lL.jpg | https://m.media-amazon.com/images/I/516HsJTtzmL.jpg | https://m.media-amazon.com/images/I/41yA5DpDnmL.jpg | https://m.media-amazon.com/images/I/51D9DOlrxXL.jpg | https://m.media-amazon.com/images/I/41G6CoeY5pL.jpg",
+      "productUrl": "https://www.amazon.in/MX-plastic-plantation-gardening-organization/dp/B0CVMTVMYJ/ref=sr_1_158"
+    },
+    {
+      "sku": "JKE-IIYEEMZWGZEDKUBT",
+      "slug": "mx-22-awg-red-black-speaker-cable-50-meter-copper-audio",
+      "name": "MX 22 AWG Red & Black Speaker Cable – 50 Meter Copper Audio...",
+      "brand": "Mx",
+      "category": "Electrical & Wiring",
+      "price": 548,
+      "image": "https://m.media-amazon.com/images/I/61IMXTaOcNL.jpg | https://m.media-amazon.com/images/I/519436uxsCL.jpg | https://m.media-amazon.com/images/I/51vR+uQ1ZPL.jpg | https://m.media-amazon.com/images/I/514mbBkvWXL.jpg | https://m.media-amazon.com/images/I/514AViv0rVL.jpg | https://m.media-amazon.com/images/I/51f9oyAKuEL.jpg | https://m.media-amazon.com/images/I/51DTmhQND+L.jpg",
+      "productUrl": "https://www.amazon.in/MX-Performance-Black-Speaker-cable/dp/B0B366H5P3/ref=sr_1_76"
+    }
+  ]
+}

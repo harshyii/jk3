@@ -1,0 +1,26 @@
+{
+  "name": "Newvent",
+  "slug": "newvent",
+  "products": [
+    {
+      "sku": "JKE-IIYEIU2XHBLEIQ2G",
+      "slug": "12pcs-glow-in-dark-wheel-valve-caps-green-luminous-tyre",
+      "name": "12PCS Glow in Dark Wheel Valve Caps – Green Luminous Tyre...",
+      "brand": "Newvent",
+      "category": "Power Tools",
+      "price": 170,
+      "image": "https://m.media-amazon.com/images/I/61w7QAvrtpL.jpg | https://m.media-amazon.com/images/I/41uud5ZYwZL.jpg | https://m.media-amazon.com/images/I/51jbl97D6rL.jpg | https://m.media-amazon.com/images/I/51+H1vuHRqL.jpg | https://m.media-amazon.com/images/I/41QMlCA1N+L.jpg | https://m.media-amazon.com/images/I/41TOoMCiYQL.jpg | https://m.media-amazon.com/images/I/41aKutI2GuL.jpg | https://m.media-amazon.com/images/I/4185Nz0chsL.jpg",
+      "productUrl": "https://www.amazon.in/Radium-Valve-Cap-Vehicles-Motorcycles/dp/B0DSW8VDCF/ref=sr_1_239"
+    },
+    {
+      "sku": "JKE-IIYEIU2XHFKEYSCS",
+      "slug": "4pcs-glow-in-the-dark-tire-valve-stem-caps-luminous",
+      "name": "4PCS Glow in The Dark Tire Valve Stem Caps – Luminous...",
+      "brand": "Newvent",
+      "category": "Power Tools",
+      "price": 133,
+      "image": "https://m.media-amazon.com/images/I/61-2kDyhA+L.jpg | https://m.media-amazon.com/images/I/41vyo81I2wL.jpg | https://m.media-amazon.com/images/I/51+H1vuHRqL.jpg | https://m.media-amazon.com/images/I/41TxbhTwolL.jpg | https://m.media-amazon.com/images/I/51g7aTkhFkL.jpg | https://m.media-amazon.com/images/I/41aKutI2GuL.jpg | https://m.media-amazon.com/images/I/41TMQB-Z+rL.jpg | https://m.media-amazon.com/images/I/41TOoMCiYQL.jpg",
+      "productUrl": "https://www.amazon.in/Newvent%C2%AE-Valve-Universal-Radium-Motorcycles/dp/B0DSW9TLHR/ref=sr_1_275"
+    }
+  ]
+}

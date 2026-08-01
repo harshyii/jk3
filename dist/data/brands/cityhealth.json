@@ -1,0 +1,16 @@
+{
+  "name": "Cityhealth",
+  "slug": "cityhealth",
+  "products": [
+    {
+      "sku": "JKE-IIYEOWSLLFFFCV2O",
+      "slug": "phonak-size-p13-hearing-aid-battery-zinc-air-mercury-free",
+      "name": "Phonak Size P13 Hearing Aid Battery Zinc Air Mercury-Free...",
+      "brand": "Cityhealth",
+      "category": "General Hardware",
+      "price": 450,
+      "image": "https://m.media-amazon.com/images/I/516KtTomdcL.jpg | https://m.media-amazon.com/images/I/41VdeWCoQFL.jpg",
+      "productUrl": "https://www.amazon.in/Phonak-Hearing-Battery-Mercury-Free-Batteries/dp/B0GZKYJQWN/ref=sr_1_138"
+    }
+  ]
+}

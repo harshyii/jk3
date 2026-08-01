@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYDQRRTKRNEQMSS",
-  "title": "XTRA POWER 16MM Diamond Core Bit For Granite/Marble/Concrete/Stone suitable for Angle Grinder",
+  "title": "XTRA POWER 16MM Diamond Core Bit For...",
   "brand": "Xtra Power",
-  "current_price": "₹650.00",
+  "current_price": 650,
   "mrp": 0,
   "product_url": "https://www.amazon.in/XTRA-POWER-Diamond-Concrete-suitable/dp/B08F3TZH2R/ref=sr_1_193",
   "rating": "4.24.2 out of 5 stars(4)4.2 out of 5 stars",
@@ -18,23 +18,23 @@
   "image_url_3": "https://m.media-amazon.com/images/I/41Gwudl3QsL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/21XDonJ7tnL.jpg",
   "specifications": {
-    "Material Type": "Diamond",
     "Brand Name": "XTRA POWER",
-    "Unit Count": "1 Count",
+    "Country of Origin": "India",
     "Manufacturer": "XTRA POWER",
     "Item Type Name": "General",
     "Best Sellers Rank": "#150,523 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#59 inCore Drill Bits",
     "ASIN": "B08F3TZH2R",
     "Customer Reviews": "4.24.2 out of 5 stars(4)4.2 out of 5 stars",
     "Colour": "Red",
-    "Country of Origin": "India",
+    "Unit Count": "1 Count",
     "Style Name": "Classic",
+    "Material Type": "Diamond",
     "Part Number": "1234567890",
     "Compatible Material": "Marble"
   },
   "SKU": "JKE-IIYDQRRTKRNEQMSS",
-  "Name": "XTRA POWER 16MM Diamond Core Bit For Granite/Marble/Concrete/Stone suitable for Angle Grinder",
-  "Slug": "xtra-power-16mm-diamond-core-bit-for-granitemarbleconcretestone-suitable-for-angle-grinder",
+  "Name": "XTRA POWER 16MM Diamond Core Bit For...",
+  "Slug": "xtra-power-16mm-diamond-core-bit-for",
   "Category": "Power Tools",
   "Subcategory1": "General Power Tools",
   "Images": [
@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/21XDonJ7tnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mvprahzBL.jpg | https://m.media-amazon.com/images/I/41Gwudl3QsL.jpg | https://m.media-amazon.com/images/I/21XDonJ7tnL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹650.00",
+  "SalePrice": 650,
   "Country": "India"
 }

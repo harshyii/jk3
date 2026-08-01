@@ -1,0 +1,26 @@
+{
+  "name": "Goclassik",
+  "slug": "goclassik",
+  "products": [
+    {
+      "sku": "JKE-IIYEONBYJZHFMV2Z",
+      "slug": "timex-punchless-file-with-pocket-holds-150-sheets-without",
+      "name": "Timex Punchless File with Pocket | Holds 150 Sheets Without...",
+      "brand": "Goclassik",
+      "category": "Abrasives & Finishing",
+      "price": 289,
+      "image": "https://m.media-amazon.com/images/I/71yvqDpnOfL.jpg | https://m.media-amazon.com/images/I/41-nUemJaQL.jpg | https://m.media-amazon.com/images/I/41boWS5vraL.jpg | https://m.media-amazon.com/images/I/31i3OzXfw0L.jpg | https://m.media-amazon.com/images/I/517Lc85VVsL.jpg | https://m.media-amazon.com/images/I/41zRJbHWptL.jpg",
+      "productUrl": "https://www.amazon.in/GoClassik%C2%AE-Punchless-Punching-Non-Tearable-Stainless/dp/B0G48NNVWY/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-IIYEIUZSIQZVMWKC",
+      "slug": "a4-legal-document-file-folder-snap-button-lock-",
+      "name": "A4 & Legal Document File Folder | Snap Button Lock |...",
+      "brand": "Goclassik",
+      "category": "Abrasives & Finishing",
+      "price": 320,
+      "image": "https://m.media-amazon.com/images/I/816mEWdmDDL.jpg | https://m.media-amazon.com/images/I/417RyOW1-oL.jpg | https://m.media-amazon.com/images/I/41atzp4hM5L.jpg | https://m.media-amazon.com/images/I/51JSPe-q3aL.jpg | https://m.media-amazon.com/images/I/518KDD-JwQL.jpg | https://m.media-amazon.com/images/I/41YCQBgRhyL.jpg",
+      "productUrl": "https://www.amazon.in/GoClassik%C2%AE-Document-Non-Tearable-Lightweight-Water-Resistant/dp/B0DS2D3VYB/ref=sr_1_64"
+    }
+  ]
+}

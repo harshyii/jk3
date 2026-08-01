@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQM22GRKEMOCG",
-  "title": "Pack of 1 Pcs 99mm X 69mm 6v 180mah Rectangle Shape Polycrystalline Mini Epoxy Solar Panels with Alligator Clip",
+  "title": "Pack of 1 Pcs 99mm X 69mm 6v 180mah Rectangle Shape...",
   "brand": "Sp Electron",
-  "current_price": "₹79.00",
-  "mrp": "₹299",
+  "current_price": 79,
+  "mrp": 299,
   "product_url": "https://www.amazon.in/SP-Electron-Rectangle-Polycrystalline-Alligator/dp/B0H3Z4TF8F/ref=sr_1_145",
   "description": "Pack of 1 Pcs 99mm X 69mm 6v 180mah Rectangle Shape Polycrystalline Mini Epoxy Solar Panels with Alligator Clip - Distributed/Packaged by Sp Electron. Product Details: This is a mini solar panel. It consumes sun rays to produce electricity directly. It does not need any special equipment. Just put this device in sun ray's and the board is ready to produce electricity. This is light in weight and also can be a place where space is an issue because it does not take much space either. This Mini device produces 6V of electricity. Because of its excellent design and high electricity production, it is very popular in solar DIY projects. So, if you want an unlimited source of electricity, then this might be the right choice for you.",
   "image_urls": [
@@ -17,25 +17,25 @@
   "image_url_3": "https://m.media-amazon.com/images/I/51yHsOBWM6L.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/31P9ClT0URL.jpg",
   "specifications": {
-    "Material Type": "Polycrystalline Silicon",
     "Brand Name": "SP ELECTRON",
     "Model Number": "SP-Solar",
-    "Unit Count": "1 Count",
     "Manufacturer": "SP ELECRON",
-    "Country of Publication": "India",
-    "Included Components": "Aligator Clip, SOlar Panel",
-    "Item Weight": "70 Grams",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "SP-1299",
     "Packer Contact Information": "SP ELECRON",
     "Best Sellers Rank": "#64,660 in Garden & Outdoors (See Top 100 in Garden & Outdoors)#7 inPolycrystalline Solar Panels",
     "ASIN": "B0H3Z4TF8F",
+    "Unit Count": "1 Count",
+    "Manufacturer Part Number": "SP-1299",
+    "Included Components": "Aligator Clip, SOlar Panel",
     "Item Dimensions L x W x H": "6L x 4W x 8H Centimeters",
-    "Output Voltage": "6 Volts"
+    "Item Weight": "70 Grams",
+    "Material Type": "Polycrystalline Silicon",
+    "Output Voltage": "6 Volts",
+    "Country of Publication": "India"
   },
   "SKU": "JKE-IIYEQM22GRKEMOCG",
-  "Name": "Pack of 1 Pcs 99mm X 69mm 6v 180mah Rectangle Shape Polycrystalline Mini Epoxy Solar Panels with Alligator Clip",
-  "Slug": "pack-of-1-pcs-99mm-x-69mm-6v-180mah-rectangle-shape-polycrystalline-mini-epoxy-solar-panels-with-alligator-clip",
+  "Name": "Pack of 1 Pcs 99mm X 69mm 6v 180mah Rectangle Shape...",
+  "Slug": "pack-of-1-pcs-99mm-x-69mm-6v-180mah-rectangle-shape",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31P9ClT0URL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41CbVk63kML.jpg | https://m.media-amazon.com/images/I/41CbVk63kML.jpg | https://m.media-amazon.com/images/I/51yHsOBWM6L.jpg | https://m.media-amazon.com/images/I/31P9ClT0URL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹79.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 73.58,
+  "SalePrice": 79,
   "Model": "SP-Solar"
 }

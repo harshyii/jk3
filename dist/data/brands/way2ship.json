@@ -1,0 +1,36 @@
+{
+  "name": "Way2Ship",
+  "slug": "way2ship",
+  "products": [
+    {
+      "sku": "JKE-IIYEMRRTJVIFMSSQ",
+      "slug": "chimaphila-umbellata-1x-q-30ml-homeopathic-mother",
+      "name": "Chimaphila Umbellata 1X (Q) (30ml) || Homeopathic Mother...",
+      "brand": "Way2Ship",
+      "category": "General Hardware",
+      "price": 235,
+      "image": "https://m.media-amazon.com/images/I/61n4nZU1W7L.jpg | https://m.media-amazon.com/images/I/41epyzaOqLL.jpg | https://m.media-amazon.com/images/I/51IN3EPBR6L.jpg",
+      "productUrl": "https://www.amazon.in/Chimaphila-Umbellata-Homeopathic-Mother-tincture/dp/B0FF3MPVJP/ref=sr_1_231"
+    },
+    {
+      "sku": "JKE-IIYEMRRTLJDUYV2C",
+      "slug": "eucalyptus-globules-1x-q-30ml-homeopathic-mother",
+      "name": "Eucalyptus Globules 1X (Q) (30ml) || Homeopathic Mother...",
+      "brand": "Way2Ship",
+      "category": "General Hardware",
+      "price": 105,
+      "image": "https://m.media-amazon.com/images/I/616OQAOqGpL.jpg | https://m.media-amazon.com/images/I/41FhJSO7c2L.jpg",
+      "productUrl": "https://www.amazon.in/Eucalyptus-Globules-Homeopathic-Mother-tincture/dp/B0FF3ZGLWB/ref=sr_1_225"
+    },
+    {
+      "sku": "JKE-IIYEMRRTKZFVASCZ",
+      "slug": "terminalia-chebula-1x-q-30ml-homeopathic-mother",
+      "name": "Terminalia Chebula 1X (Q) (30ml) || Homeopathic Mother...",
+      "brand": "Way2Ship",
+      "category": "Electrical & Wiring",
+      "price": 115,
+      "image": "https://m.media-amazon.com/images/I/615npILzHoL.jpg | https://m.media-amazon.com/images/I/419pY0tsByL.jpg | https://m.media-amazon.com/images/I/51IN3EPBR6L.jpg",
+      "productUrl": "https://www.amazon.in/Terminalia-Chebula-Homeopathic-Mother-tincture/dp/B0FF3VKPHY/ref=sr_1_234"
+    }
+  ]
+}

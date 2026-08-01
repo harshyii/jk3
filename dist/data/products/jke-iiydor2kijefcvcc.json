@@ -2,8 +2,8 @@
   "asin": "JKE-IIYDOR2KIJEFCVCC",
   "title": "Xtra-Power Grit 60 Fiber Disc (Dia 5 inch)",
   "brand": "Xtra Power",
-  "current_price": "₹3,095.00",
-  "mrp": "₹3,098",
+  "current_price": 3095,
+  "mrp": 3098,
   "product_url": "https://www.amazon.in/Xtra-Power-Grit-Fiber-Disc-inch/dp/B07GJBHQTB/ref=sr_1_141",
   "description": "Xtra-Power Grit 60 Fiber Disc (Dia 5 inch) - Distributed/Packaged by Xtra Power. Product Details: Diameter 5 inch | Specification/Grit 60",
   "image_urls": [
@@ -13,12 +13,12 @@
   "image_url_1": "https://m.media-amazon.com/images/I/3177Wl+2UOL.jpg | https://m.media-amazon.com/images/I/3177Wl+2UOL.jpg",
   "image_url_2": "https://m.media-amazon.com/images/I/3177Wl+2UOL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Xtra Power",
     "Item Type Name": "General",
     "ASIN": "‎B07GJBHQTB",
     "Product Dimensions": "‎12.7 x 12.7 x 0.2 cm; 100 g",
-    "Item model number": "‎AB.CO.AB4.450922",
-    "Country of Origin": "‎India"
+    "Item model number": "‎AB.CO.AB4.450922"
   },
   "SKU": "JKE-IIYDOR2KIJEFCVCC",
   "Name": "Xtra-Power Grit 60 Fiber Disc (Dia 5 inch)",
@@ -30,9 +30,9 @@
     "https://m.media-amazon.com/images/I/3177Wl+2UOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/3177Wl+2UOL.jpg | https://m.media-amazon.com/images/I/3177Wl+2UOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹3,095.00",
+  "Discount": 0.1,
+  "SalePrice": 3095,
   "Country": "‎India"
 }

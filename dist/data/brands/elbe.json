@@ -1,0 +1,16 @@
+{
+  "name": "Elbe",
+  "slug": "elbe",
+  "products": [
+    {
+      "sku": "JKE-IIYEQNSLGRHDSM2C",
+      "slug": "elbe-high-pressure-washer-4-hp-3000w-copper-motor",
+      "name": "ELBE High Pressure Washer, 4 HP 3000W Copper Motor,...",
+      "brand": "Elbe",
+      "category": "Power Tools",
+      "price": 49999,
+      "image": "https://m.media-amazon.com/images/I/514hzNovHAL.jpg | https://m.media-amazon.com/images/I/41-f0Coe-uL.jpg | https://m.media-amazon.com/images/I/51vwRKVbyuL.jpg | https://m.media-amazon.com/images/I/51cybsggLxL.jpg | https://m.media-amazon.com/images/I/51lq4CQlXfL.jpg | https://m.media-amazon.com/images/I/51TMmuV6gJL.jpg | https://m.media-amazon.com/images/I/51WB5XlYzNL.jpg | https://m.media-amazon.com/images/I/51vT+jr4qeL.jpg",
+      "productUrl": "https://www.amazon.in/ELBE-Pressure-Auto-Stop-Driveways-Cleaning/dp/B0H6K4N93B/ref=sr_1_296"
+    }
+  ]
+}

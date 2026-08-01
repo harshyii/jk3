@@ -1,0 +1,26 @@
+{
+  "name": "Tanoshee",
+  "slug": "tanoshee",
+  "products": [
+    {
+      "sku": "JKE-IIYEEMKYJZJFQVSK",
+      "slug": "turtle-shape-floating-decorative-candle-set-candle-green",
+      "name": "Turtle Shape Floating, Decorative Candle Set Candle (Green,...",
+      "brand": "Tanoshee",
+      "category": "General Hardware",
+      "price": 449,
+      "image": "https://m.media-amazon.com/images/I/71eh1tUX23L.jpg | https://m.media-amazon.com/images/I/31tsYJBVeuL.jpg | https://m.media-amazon.com/images/I/412oocD+K9L.jpg | https://m.media-amazon.com/images/I/31hbz3V7X3L.jpg",
+      "productUrl": "https://www.amazon.in/TANOSHEE-Turtle-Floating-Decorative-Candle/dp/B0B1XNRXVJ/ref=sr_1_262"
+    },
+    {
+      "sku": "JKE-IIYDSS2IGZNFUN2T",
+      "slug": "turtle-shape-floating-decorative-candle-set-candle-green",
+      "name": "Turtle Shape Floating, Decorative Candle Set Candle (Green,...",
+      "brand": "Tanoshee",
+      "category": "General Hardware",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/71eh1tUX23L.jpg | https://m.media-amazon.com/images/I/31tsYJBVeuL.jpg | https://m.media-amazon.com/images/I/21sGPS+Mx+L.jpg | https://m.media-amazon.com/images/I/412oocD+K9L.jpg | https://m.media-amazon.com/images/I/31hbz3V7X3L.jpg",
+      "productUrl": "https://www.amazon.in/TANOSHEE-Turtle-Floating-Decorative-Candle/dp/B09KH6ZZ7S/ref=sr_1_275"
+    }
+  ]
+}

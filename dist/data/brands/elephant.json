@@ -4,41 +4,21 @@
   "products": [
     {
       "sku": "JKE-IIYEEUKSJJCEQUZV",
-      "slug": "elephant-metal-1-inch-square-drive-std-impact-socket-6-point-90-mm-length-32-mm-size",
-      "name": "Elephant Metal 1 Inch Square Drive STD Impact Socket | 6-Point | 90 mm Length | 32 mm Size",
+      "slug": "elephant-metal-1-inch-square-drive-std-impact-socket-",
+      "name": "Elephant Metal 1 Inch Square Drive STD Impact Socket |...",
       "brand": "Elephant",
       "category": "Measuring & Layout",
-      "price": "₹525.00",
+      "price": 525,
       "image": "https://m.media-amazon.com/images/I/61xRSvOi07L.jpg | https://m.media-amazon.com/images/I/31ht9ggFyaL.jpg | https://m.media-amazon.com/images/I/31aXTINK3BL.jpg | https://m.media-amazon.com/images/I/31oUGcCKiSL.jpg | https://m.media-amazon.com/images/I/31pJY3NKExL.jpg | https://m.media-amazon.com/images/I/31xlqO77qWL.jpg",
       "productUrl": "https://www.amazon.in/Elephant-Square-6-Point-Impact-Sockets/dp/B0BQRJDHS5/ref=sr_1_149"
     },
     {
-      "sku": "JKE-IIYEEUKSIRFTOUJR",
-      "slug": "elephant-34-inch-square-drive-deep-impact-socket-set-6-point-90-mm-length-set-of-14",
-      "name": "Elephant 3/4 Inch Square Drive Deep Impact Socket Set | 6-Point | 90 mm Length | Set of 14",
-      "brand": "Elephant",
-      "category": "Measuring & Layout",
-      "price": "₹6,100.00",
-      "image": "https://m.media-amazon.com/images/I/31p0Uk8YALL.jpg",
-      "productUrl": "https://www.amazon.in/Elephant-Square-6-Point-Impact-Sockets/dp/B0BQRDK7Q1/ref=sr_1_305"
-    },
-    {
-      "sku": "JKE-IIYEEUKSI5NFORCR",
-      "slug": "elephant-12-inch-square-drive-6-point-std-impact-socket-set-38-mm-length-set-of-15-socket-sizes-8-9-10-11-12-13-14-15-17-19-21-22-24-27-32-mm",
-      "name": "Elephant 1/2 Inch Square Drive 6-Point STD Impact Socket Set | 38 mm Length | Set of 15 | Socket Sizes: 8, 9, 10, 11, 12, 13, 14, 15, 17, 19, 21, 22, 24, 27, 32 mm",
-      "brand": "Elephant",
-      "category": "Power Tools",
-      "price": "₹2,152.00",
-      "image": "https://m.media-amazon.com/images/I/41hNcax1G8L.jpg",
-      "productUrl": "https://www.amazon.in/Elephant-Square-6-Point-Impact-Sockets/dp/B0BQRGZWDQ/ref=sr_1_267"
-    },
-    {
       "sku": "JKE-IIYDQNCGLE3UESSS",
-      "slug": "elephant-supply-xtra-power-electric-orbital-sander-110x100mm-pad-size-square-sanding-grinding-machine-for-wood-wall-polisher-220240v-160w-model-xpt451",
-      "name": "Elephant Supply XTRA-POWER Electric Orbital Sander 110x100mm Pad Size Square Sanding Grinding Machine for Wood Wall Polisher 220/240V 160W Model XPT451",
+      "slug": "elephant-supply-xtra-power-electric-orbital-sander",
+      "name": "Elephant Supply XTRA-POWER Electric Orbital Sander...",
       "brand": "Elephant",
       "category": "Power Tools",
-      "price": "₹2,600.00",
+      "price": 2600,
       "image": "https://m.media-amazon.com/images/I/51KhCTlpBsL.jpg | https://m.media-amazon.com/images/I/3190tRpvLNL.jpg | https://m.media-amazon.com/images/I/312o2YbIOiL.jpg | https://m.media-amazon.com/images/I/51P9hLs539L.jpg | https://m.media-amazon.com/images/I/41Br32flyeL.jpg | https://m.media-amazon.com/images/I/31X4yvqEudL.jpg",
       "productUrl": "https://www.amazon.in/Elephant-Electric-90x187mm-Grinding-Polisher/dp/B084FY7BJR/ref=sr_1_61"
     }

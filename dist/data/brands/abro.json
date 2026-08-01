@@ -1,0 +1,16 @@
+{
+  "name": "Abro",
+  "slug": "abro",
+  "products": [
+    {
+      "sku": "JKE-IIYDAUS2INHEOOCZ",
+      "slug": "abro-lw-900-carnauba-liquid-wax-473-ml",
+      "name": "ABRO LW-900 Carnauba Liquid Wax (473 ml)",
+      "brand": "Abro",
+      "category": "Power Tools",
+      "price": 671,
+      "image": "https://m.media-amazon.com/images/I/71H-xVRdKWL.jpg | https://m.media-amazon.com/images/I/41FFgTyX6nL.jpg | https://m.media-amazon.com/images/I/41e88ZJcSUL.jpg | https://m.media-amazon.com/images/I/31a+-tYnu3L.jpg | https://m.media-amazon.com/images/I/51c06o-6qDL.jpg | https://m.media-amazon.com/images/I/51pbPlZukbL.jpg | https://m.media-amazon.com/images/I/516K4TlRZHL.jpg",
+      "productUrl": "https://www.amazon.in/Abro-LW-900-Carnauba-Liquid-Wax/dp/B00RZCNG8Y/ref=sr_1_187"
+    }
+  ]
+}

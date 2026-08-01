@@ -1,0 +1,16 @@
+{
+  "name": "Blucky",
+  "slug": "blucky",
+  "products": [
+    {
+      "sku": "JKE-IIYEIUKEGU2U4TSR",
+      "slug": "cordless-pressure-washer-65bar-portable-pressure-washer",
+      "name": "Cordless Pressure Washer, 65Bar Portable Pressure Washer...",
+      "brand": "Blucky",
+      "category": "Power Tools",
+      "price": 32780,
+      "image": "https://m.media-amazon.com/images/I/8178Y-P0A2L.jpg | https://m.media-amazon.com/images/I/51+LApN+uLL.jpg | https://m.media-amazon.com/images/I/51f-OnZ9uoL.jpg | https://m.media-amazon.com/images/I/51wrwi0E5hL.jpg | https://m.media-amazon.com/images/I/51ACiOulrgL.jpg | https://m.media-amazon.com/images/I/517qdvZpdEL.jpg | https://m.media-amazon.com/images/I/51MSFMqZ-OL.jpg | https://m.media-amazon.com/images/I/51hCt-KNiFL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Pressure-Portable-Adjustable-Batteries/dp/B0DQD55NNQ/ref=sr_1_256"
+    }
+  ]
+}

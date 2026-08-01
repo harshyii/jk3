@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQQSLJQ3VIRZV",
-  "title": "Xtra Power Herbal Body Massage Oil for Men 50ml | Ayurvedic Massage Oil with Ashwagandha, Shilajit, Safed Musli, Gokshura, Kaunch Beej & Macroot | Non-Greasy Nourishing Body Care Oil for Daily Massage",
+  "title": "Xtra Power Herbal Body Massage Oil for Men 50ml | Ayurvedic...",
   "brand": "Sylvera",
-  "current_price": "₹249.00",
-  "mrp": "₹449",
+  "current_price": 249,
+  "mrp": 449,
   "product_url": "https://www.amazon.in/dp/B0HBKL7TG5/ref=sr_1_121",
   "description": "Xtra Power Herbal Body Massage Oil for Men 50ml | Ayurvedic Massage Oil with Ashwagandha, Shilajit, Safed Musli, Gokshura, Kaunch Beej & Macroot | Non-Greasy Nourishing Body Care Oil for Daily Massage - Distributed/Packaged by Sylvera. Product Details: Experience premium body care with XTRA POWER Men's Herbal Body Massage Oil, a lightweight, herbal-infused massage oil specially formulated for men. Crafted with a blend of natural botanical extracts, this fast-absorbing oil helps moisturize the skin while providing a smooth, comfortable massage experience. Its non-greasy formula glides effortlessly over the skin, leaving it feeling soft, refreshed, and nourished without a sticky residue. Perfect for daily use, this versatile massage oil is ideal after workouts, long workdays, or whenever you want to relax and unwind. The convenient spray bottle allows for easy, mess-free application, while the compact 50ml size makes it easy to carry in your gym bag, travel kit, or luggage.",
   "image_urls": [
@@ -25,22 +25,22 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51ExMOt73JL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41pe4enL-yL.jpg",
   "specifications": {
-    "Unit Count": "100.0 Milliliters",
-    "Manufacturer": "SYLVERA ONLINE",
-    "Item Weight": "100 Grams",
-    "Item Type Name": "General",
-    "Manufacturer Part Number": "Xtra Power Herbal Body Massage Oil",
-    "Packer Contact Information": "SYLVERA ONLINE",
-    "ASIN": "B0HBKL7TG5",
-    "Brand": "SYLVERA",
     "Country of Origin": "India",
     "Number of Items": 1,
-    "Item Form": "Gel",
-    "Item Nype Name": "Herbal Soothing Massage Gel for Muscle & Joint Pain Relief | Relaxing Body Massage Cream |"
+    "Manufacturer": "SYLVERA ONLINE",
+    "Item Type Name": "General",
+    "Packer Contact Information": "SYLVERA ONLINE",
+    "ASIN": "B0HBKL7TG5",
+    "Unit Count": "100.0 Milliliters",
+    "Manufacturer Part Number": "Xtra Power Herbal Body Massage Oil",
+    "Brand": "SYLVERA",
+    "Item Weight": "100 Grams",
+    "Item Nype Name": "Herbal Soothing Massage Gel for Muscle & Joint Pain Relief | Relaxing Body Massage Cream |",
+    "Item Form": "Gel"
   },
   "SKU": "JKE-IIYEQQSLJQ3VIRZV",
-  "Name": "Xtra Power Herbal Body Massage Oil for Men 50ml | Ayurvedic Massage Oil with Ashwagandha, Shilajit, Safed Musli, Gokshura, Kaunch Beej & Macroot | Non-Greasy Nourishing Body Care Oil for Daily Massage",
-  "Slug": "xtra-power-herbal-body-massage-oil-for-men-50ml-ayurvedic-massage-oil-with-ashwagandha-shilajit-safed-musli-gokshura-kaunch-beej-macroot-non-greasy-nourishing-body-care-oil-for-daily-massage",
+  "Name": "Xtra Power Herbal Body Massage Oil for Men 50ml | Ayurvedic...",
+  "Slug": "xtra-power-herbal-body-massage-oil-for-men-50ml-ayurvedic",
   "Category": "Storage & Organization",
   "Subcategory1": "General Storage",
   "Images": [
@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41pe4enL-yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/416BXcQ5xGL.jpg | https://m.media-amazon.com/images/I/21IEeyJRokL.jpg | https://m.media-amazon.com/images/I/51ue8FYpcVL.jpg | https://m.media-amazon.com/images/I/51qpPqSq0KL.jpg | https://m.media-amazon.com/images/I/511LWqS8ZZL.jpg | https://m.media-amazon.com/images/I/51ExMOt73JL.jpg | https://m.media-amazon.com/images/I/41pe4enL-yL.jpg",
-  "StockQuantity": 0,
-  "Unit": "100.0 Milliliters",
-  "Discount": 0,
-  "SalePrice": "₹249.00",
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 44.54,
+  "SalePrice": 249,
   "Country": "India"
 }

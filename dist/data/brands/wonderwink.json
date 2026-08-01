@@ -8,7 +8,7 @@
       "name": "WonderWink Renew Women's High Waist Power Pant",
       "brand": "Wonderwink",
       "category": "Measuring & Layout",
-      "price": "₹11,979",
+      "price": 11979,
       "image": "https://m.media-amazon.com/images/I/51PGAQ+qqPL.jpg | https://m.media-amazon.com/images/I/31sJbJ9bBML.jpg | https://m.media-amazon.com/images/I/41QNegK0zqL.jpg",
       "productUrl": "https://www.amazon.in/WonderWink-Womens-Pewter-XX-Large-Petite/dp/B09CG2N41Q/ref=sr_1_14"
     },
@@ -18,7 +18,7 @@
       "name": "WonderWink Renew Women's High Waist Power Pant",
       "brand": "Wonderwink",
       "category": "Measuring & Layout",
-      "price": "₹8,989",
+      "price": 8989,
       "image": "https://m.media-amazon.com/images/I/51dSkndaWTL.jpg | https://m.media-amazon.com/images/I/312SydAQbSL.jpg | https://m.media-amazon.com/images/I/41QNegK0zqL.jpg",
       "productUrl": "https://www.amazon.in/WonderWink-Renew-Womens-Waist-XX-Large/dp/B09CFMMR6N/ref=sr_1_18"
     },
@@ -28,7 +28,7 @@
       "name": "WonderWink Renew Women's High Waist Power Pant",
       "brand": "Wonderwink",
       "category": "Measuring & Layout",
-      "price": "₹14,439",
+      "price": 14439,
       "image": "https://m.media-amazon.com/images/I/61rwTL0nmeL.jpg | https://m.media-amazon.com/images/I/31ZSu4Au6wL.jpg | https://m.media-amazon.com/images/I/41QNegK0zqL.jpg",
       "productUrl": "https://www.amazon.in/WonderWink-Womens-Renew-Waist-Petite/dp/B09CFVP72J/ref=sr_1_11"
     },
@@ -38,9 +38,19 @@
       "name": "WonderWink Renew Women's High Waist Power Pant",
       "brand": "Wonderwink",
       "category": "Measuring & Layout",
-      "price": "₹11,219",
+      "price": 11219,
       "image": "https://m.media-amazon.com/images/I/51OE7YrdRjL.jpg | https://m.media-amazon.com/images/I/31o-oq+RVkL.jpg | https://m.media-amazon.com/images/I/41QNegK0zqL.jpg",
       "productUrl": "https://www.amazon.in/WonderWink-Renew-Womens-X-Small-Petite/dp/B09CFRKTK3/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-IIYDSQ2HIYYUURSQ",
+      "slug": "wonderwink-renew-womens-high-waist-power-pant",
+      "name": "WonderWink Renew Women's High Waist Power Pant",
+      "brand": "Wonderwink",
+      "category": "Measuring & Layout",
+      "price": 7759,
+      "image": "https://m.media-amazon.com/images/I/61y+4oIZ5jL.jpg | https://m.media-amazon.com/images/I/31J+XOuwU-L.jpg | https://m.media-amazon.com/images/I/41QNegK0zqL.jpg | https://m.media-amazon.com/images/I/31jKqp+g3nL.jpg",
+      "productUrl": "https://www.amazon.in/WonderWink-Womens-Renew-Waist-3X-Large/dp/B09CGF1JFP/ref=sr_1_14"
     }
   ]
 }

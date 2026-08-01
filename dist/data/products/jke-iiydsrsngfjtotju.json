@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYDSRSNGFJTOTJU",
-  "title": "Eastman T Handle Allen Key Set Of 10Pcs, Metric Sizes 2-10Mm, Long Pattern, Chrome Vanadium Steel Black Finish,Fully Heat Treated 48-52 Hrc (Yellow & Black) - EAK-2409",
+  "title": "Eastman T Handle Allen Key Set Of 10Pcs, Metric Sizes...",
   "brand": "Eastman",
-  "current_price": "₹775.00",
-  "mrp": "₹1,283",
+  "current_price": 775,
+  "mrp": 1283,
   "product_url": "https://www.amazon.in/Eastman-Handle-Pattern-Vanadium-Treated/dp/B09FM1S7M4/ref=sr_1_78",
   "description": "Eastman T Handle Allen Key Set Of 10Pcs, Metric Sizes 2-10Mm, Long Pattern, Chrome Vanadium Steel Black Finish,Fully Heat Treated 48-52 Hrc (Yellow & Black) - EAK-2409 - Distributed/Packaged by Eastman. Product Details: nan",
   "image_urls": [
@@ -22,21 +22,21 @@
   "image_url_6": "https://m.media-amazon.com/images/I/31JMQ4wRwbL.jpg",
   "specifications": {
     "Manufacturer": "‎Eastman",
-    "Included Components": "‎Case",
-    "Item Weight": "‎500 g",
     "Item Type Name": "General",
+    "Power Source": "‎hand-powered",
+    "Included Components": "‎Case",
     "Brand": "‎Eastman",
     "Model number": "‎KIT-2409_AllenKeySet",
     "Number of Memory Sticks": "‎1",
+    "Item Weight": "‎500 g",
     "Product Dimensions": "‎30 x 9 x 14 cm; 500 g",
     "Item model number": "‎KIT-2409_AllenKeySet",
     "Item Height": "‎14 Centimeters",
-    "Item Width": "‎9 Centimeters",
-    "Power Source": "‎hand-powered"
+    "Item Width": "‎9 Centimeters"
   },
   "SKU": "JKE-IIYDSRSNGFJTOTJU",
-  "Name": "Eastman T Handle Allen Key Set Of 10Pcs, Metric Sizes 2-10Mm, Long Pattern, Chrome Vanadium Steel Black Finish,Fully Heat Treated 48-52 Hrc (Yellow & Black) - EAK-2409",
-  "Slug": "eastman-t-handle-allen-key-set-of-10pcs-metric-sizes-2-10mm-long-pattern-chrome-vanadium-steel-black-finishfully-heat-treated-48-52-hrc-yellow-black-eak-2409",
+  "Name": "Eastman T Handle Allen Key Set Of 10Pcs, Metric Sizes...",
+  "Slug": "eastman-t-handle-allen-key-set-of-10pcs-metric-sizes",
   "Category": "Storage & Organization",
   "Subcategory1": "General Storage",
   "Images": [
@@ -48,8 +48,8 @@
     "https://m.media-amazon.com/images/I/31JMQ4wRwbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/210mEa6YEyL.jpg | https://m.media-amazon.com/images/I/210mEa6YEyL.jpg | https://m.media-amazon.com/images/I/410Id97YyLL.jpg | https://m.media-amazon.com/images/I/31f-t0P3oCL.jpg | https://m.media-amazon.com/images/I/41B-p7irnZL.jpg | https://m.media-amazon.com/images/I/31JMQ4wRwbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹775.00"
+  "Discount": 39.59,
+  "SalePrice": 775
 }

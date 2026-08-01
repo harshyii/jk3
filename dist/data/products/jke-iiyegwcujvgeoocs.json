@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEGWCUJVGEOOCS",
-  "title": "Xtra Power 4\" (103 mm) Premium Flexible Grinding Wheel (Grit - 60) for all types of stone and glass | Pack Of 10",
+  "title": "Xtra Power 4\" (103 mm) Premium Flexible Grinding Wheel...",
   "brand": "Xtra Power",
-  "current_price": "₹499.00",
-  "mrp": "₹699",
+  "current_price": 499,
+  "mrp": 699,
   "product_url": "https://www.amazon.in/Power-Premium-Flexible-Grinding-Wheel/dp/B0CXTMLG8R/ref=sr_1_231",
   "description": "Xtra Power 4\" (103 mm) Premium Flexible Grinding Wheel (Grit - 60) for all types of stone and glass | Pack Of 10 - Distributed/Packaged by Xtra Power. Product Details: nan",
   "image_urls": [
@@ -15,16 +15,16 @@
   "image_url_2": "https://m.media-amazon.com/images/I/51BeRW-vK0L.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/512OuXJnebL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎Xtra Power",
     "Item Type Name": "General",
     "ASIN": "‎B0CXTMLG8R",
     "Product Dimensions": "‎10 x 10 x 0.2 cm; 900 g",
-    "Item model number": "‎GC60 103mm GC Wheel",
-    "Country of Origin": "‎India"
+    "Item model number": "‎GC60 103mm GC Wheel"
   },
   "SKU": "JKE-IIYEGWCUJVGEOOCS",
-  "Name": "Xtra Power 4\" (103 mm) Premium Flexible Grinding Wheel (Grit - 60) for all types of stone and glass | Pack Of 10",
-  "Slug": "xtra-power-4-103-mm-premium-flexible-grinding-wheel-grit-60-for-all-types-of-stone-and-glass-pack-of-10",
+  "Name": "Xtra Power 4\" (103 mm) Premium Flexible Grinding Wheel...",
+  "Slug": "xtra-power-4-103-mm-premium-flexible-grinding-wheel",
   "Category": "Abrasives & Finishing",
   "Subcategory1": "Grinding Wheels",
   "Images": [
@@ -33,9 +33,9 @@
     "https://m.media-amazon.com/images/I/512OuXJnebL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51BeRW-vK0L.jpg | https://m.media-amazon.com/images/I/51BeRW-vK0L.jpg | https://m.media-amazon.com/images/I/512OuXJnebL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹499.00",
+  "Discount": 28.61,
+  "SalePrice": 499,
   "Country": "‎India"
 }

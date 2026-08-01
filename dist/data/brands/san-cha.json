@@ -1,0 +1,16 @@
+{
+  "name": "San-Cha",
+  "slug": "san-cha",
+  "products": [
+    {
+      "sku": "JKE-IIYDQRSHG5LVGOBU",
+      "slug": "sancha-jasmine-green-tea-100g-loose-leaves-rare-chinese",
+      "name": "Sancha Jasmine Green Tea, 100g Loose Leaves | Rare Chinese...",
+      "brand": "San-Cha",
+      "category": "General Hardware",
+      "price": 759,
+      "image": "https://m.media-amazon.com/images/I/71gfvEzWazL.jpg | https://m.media-amazon.com/images/I/51zV0ZkmADL.jpg | https://m.media-amazon.com/images/I/51-yjvlRnkL.jpg | https://m.media-amazon.com/images/I/5155dB9QtXL.jpg | https://m.media-amazon.com/images/I/514hLW8uSlL.jpg | https://m.media-amazon.com/images/I/516++yPYZWL.jpg | https://m.media-amazon.com/images/I/51Qbr7gysRL.jpg | https://m.media-amazon.com/images/I/314QCUiuT4S.jpg",
+      "productUrl": "https://www.amazon.in/Jasmine-Chinese-Jasmine-Scented-Hand-Scented-Flowers/dp/B08FG7WS84/ref=sr_1_221"
+    }
+  ]
+}

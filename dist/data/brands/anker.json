@@ -1,0 +1,16 @@
+{
+  "name": "Anker",
+  "slug": "anker",
+  "products": [
+    {
+      "sku": "JKE-IIYEEWBZIZBVGUKR",
+      "slug": "anker-solix-ps30-solar-panel-30w-foldable-portable-solar",
+      "name": "Anker Solix PS30 Solar Panel, 30W Foldable Portable Solar...",
+      "brand": "Anker",
+      "category": "General Hardware",
+      "price": 15676,
+      "image": "https://m.media-amazon.com/images/I/914neAuUXGL.jpg | https://m.media-amazon.com/images/I/41sVk2b6CCL.jpg | https://m.media-amazon.com/images/I/61HqRYhHoZL.jpg | https://m.media-amazon.com/images/I/518V5k1VD8L.jpg | https://m.media-amazon.com/images/I/51gAwT4q0hL.jpg | https://m.media-amazon.com/images/I/41mCeCjP13L.jpg | https://m.media-amazon.com/images/I/51hQDv94-dL.jpg | https://m.media-amazon.com/images/I/511OVhu-JLL.jpg",
+      "productUrl": "https://www.amazon.in/Anker-Foldable-Resistance-Ultra-Fast-Activities/dp/B0BX9FCSQQ/ref=sr_1_167"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Maxoshine",
+  "slug": "maxoshine",
+  "products": [
+    {
+      "sku": "JKE-IIYEEWRUKBJUWR2U",
+      "slug": "maxoshine-1200-gsm-microfiber-cloth-for-car-drying-and",
+      "name": "MAXOSHINE 1200 GSM Microfiber Cloth for Car Drying and...",
+      "brand": "Maxoshine",
+      "category": "Power Tools",
+      "price": 396,
+      "image": "https://m.media-amazon.com/images/I/61kI0-7V3pL.jpg | https://m.media-amazon.com/images/I/61kI0-7V3pL.jpg | https://m.media-amazon.com/images/I/51sZT0SCk4L.jpg | https://m.media-amazon.com/images/I/419fiRcPWmL.jpg | https://m.media-amazon.com/images/I/51Iu+DC3bwL.jpg | https://m.media-amazon.com/images/I/41zTkiO3diL.jpg | https://m.media-amazon.com/images/I/61VZcMXk2dL.jpg",
+      "productUrl": "https://www.amazon.in/MAXOSHINE-Microfiber-Cloth-Detailing-Absorbent/dp/B0BZ4PSKGT/ref=sr_1_151"
+    },
+    {
+      "sku": "JKE-IIYEOUKCIZNFAMJX",
+      "slug": "maxoshine-3-pcs-microfiber-car-duster-kit-interior-",
+      "name": "Maxoshine 3 PCS Microfiber Car Duster Kit Interior &...",
+      "brand": "Maxoshine",
+      "category": "Power Tools",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/61mA8MBO++L.jpg | https://m.media-amazon.com/images/I/31Jges28+nL.jpg | https://m.media-amazon.com/images/I/31E2Xmq7ySL.jpg | https://m.media-amazon.com/images/I/51MH4Ej4ckL.jpg | https://m.media-amazon.com/images/I/41bwlWTveeL.jpg | https://m.media-amazon.com/images/I/41yc0zYlmPL.jpg | https://m.media-amazon.com/images/I/41lKSOlub9L.jpg | https://m.media-amazon.com/images/I/51HWl7WRYIL.jpg",
+      "productUrl": "https://www.amazon.in/Maxoshine-Microfiber-Interior-Detailing-Extendable/dp/B0GQBFZP17/ref=sr_1_136"
+    }
+  ]
+}

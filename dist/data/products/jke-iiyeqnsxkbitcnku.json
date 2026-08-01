@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEQNSXKBITCNKU",
-  "title": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature Range, 300–550L/min Air Flow Heat Gun for DIY & Workshop Use - 6 Months Warranty",
+  "title": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature...",
   "brand": "Wintech Pro",
-  "current_price": "₹711.00",
-  "mrp": "₹1,900",
+  "current_price": 711,
+  "mrp": 1900,
   "product_url": "https://www.amazon.in/WINTECH-PRO-HG16-35-350%C2%B0C-500%C2%B0C-Temperature/dp/B0H6WPQ15T/ref=sr_1_175",
   "description": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature Range, 300–550L/min Air Flow Heat Gun for DIY & Workshop Use - 6 Months Warranty - Distributed/Packaged by Wintech Pro. Product Details: nan",
   "image_urls": [
@@ -23,16 +23,16 @@
   "image_url_6": "https://m.media-amazon.com/images/I/51+rstVuWfL.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/515lFw823RL.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎TSP TECHNOLOGIES , NINGBO , ZHEJIANG",
     "Item Type Name": "General",
     "ASIN": "‎B0H6WPQ15T",
     "Product Dimensions": "‎22.2 x 7.3 x 23.8 cm; 600 g",
-    "Item model number": "‎WT HG16-35",
-    "Country of Origin": "‎India"
+    "Item model number": "‎WT HG16-35"
   },
   "SKU": "JKE-IIYEQNSXKBITCNKU",
-  "Name": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature Range, 300–550L/min Air Flow Heat Gun for DIY & Workshop Use - 6 Months Warranty",
-  "Slug": "wt-hg16-35-hot-air-tool-1600w-350c500c-temperature-range-300550lmin-air-flow-heat-gun-for-diy-workshop-use-6-months-warranty",
+  "Name": "WT HG16-35 Hot Air Tool 1600W, 350°C–500°C Temperature...",
+  "Slug": "wt-hg16-35-hot-air-tool-1600w-350c500c-temperature",
   "Category": "General Hardware",
   "Subcategory1": "General Items",
   "Images": [
@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/515lFw823RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617F9lfEUTL.jpg | https://m.media-amazon.com/images/I/41vfusqJmYL.jpg | https://m.media-amazon.com/images/I/51eoNWVQUdL.jpg | https://m.media-amazon.com/images/I/51B-4mTji8L.jpg | https://m.media-amazon.com/images/I/51+rstVuWfL.jpg | https://m.media-amazon.com/images/I/515lFw823RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹711.00",
+  "Discount": 62.58,
+  "SalePrice": 711,
   "Country": "‎India"
 }

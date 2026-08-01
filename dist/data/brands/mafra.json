@@ -1,0 +1,56 @@
+{
+  "name": "Mafra",
+  "slug": "mafra",
+  "products": [
+    {
+      "sku": "JKE-IIYDCQSKII4DISZW",
+      "slug": "mafra-car-wash-shampoo-1l-high-foam-car-shampoo-for-car-",
+      "name": "MAFRA Car Wash Shampoo 1L | High Foam Car Shampoo for Car &...",
+      "brand": "Mafra",
+      "category": "Power Tools",
+      "price": 359,
+      "image": "https://m.media-amazon.com/images/I/71sDOAmt09L.jpg | https://m.media-amazon.com/images/I/41n7vW0oUML.jpg | https://m.media-amazon.com/images/I/51eQOvljT6L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/61q8x3g814L.jpg | https://m.media-amazon.com/images/I/51WDJiLwIcL.jpg | https://m.media-amazon.com/images/I/61Jo-FIY8oL.jpg | https://m.media-amazon.com/images/I/61oBGR8HLUL.jpg | https://m.media-amazon.com/images/I/51y5F8PFexL.jpg",
+      "productUrl": "https://www.amazon.in/Shampoo-Neutral-Vehicle-Washing-Liquid/dp/B01BJB84K6/ref=sr_1_183"
+    },
+    {
+      "sku": "JKE-IIYDSN22JY3DIM2O",
+      "slug": "mafra-carlux-synthetic-supershine-wax-250ml-deep-gloss",
+      "name": "Mafra Carlux Synthetic Supershine Wax (250ml) | Deep Gloss...",
+      "brand": "Mafra",
+      "category": "Power Tools",
+      "price": 517,
+      "image": "https://m.media-amazon.com/images/I/614a-fG-bBS.jpg | https://m.media-amazon.com/images/I/41wAQ+ItsjS.jpg | https://m.media-amazon.com/images/I/517C3xlLGrL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/513J2wa9o7S.jpg | https://m.media-amazon.com/images/I/51DeC+nlxjL.jpg | https://m.media-amazon.com/images/I/518n7shei-L.jpg | https://m.media-amazon.com/images/I/51M0EoK6MTL.jpg | https://m.media-amazon.com/images/I/51twqycKTnL.jpg",
+      "productUrl": "https://www.amazon.in/vehicles-Protective-Limiting-Impurities-Motorcycle/dp/B097ZN643N/ref=sr_1_90_mod_primary_new"
+    },
+    {
+      "sku": "JKE-IIYEMV2ZGQ4TMRSQ",
+      "slug": "mafra-super-synthetic-car-wax-polish-liquid-1lhigh",
+      "name": "MAFRA Super Synthetic Car Wax Polish Liquid -1L,High...",
+      "brand": "Mafra",
+      "category": "Hand Tools",
+      "price": 515,
+      "image": "https://m.media-amazon.com/images/I/61eyOvCPvAL.jpg | https://m.media-amazon.com/images/I/31K8u15aqXL.jpg | https://m.media-amazon.com/images/I/51fzx-nZRtL.jpg | https://m.media-amazon.com/images/I/5191wXogMfL.jpg | https://m.media-amazon.com/images/I/51PawDO335L.jpg | https://m.media-amazon.com/images/I/51EgZcE289L.jpg | https://m.media-amazon.com/images/I/51ADitrAwcL.jpg | https://m.media-amazon.com/images/I/51EEW+xgKfL.jpg",
+      "productUrl": "https://www.amazon.in/Synthetic-Performance-Friendly-Paintwork-Sealant/dp/B0FWY496FP/ref=sr_1_126"
+    },
+    {
+      "sku": "JKE-IIYDARKUJJGFGRCR",
+      "slug": "mafra-last-touch-20-express-liquid-wax-polish-instant",
+      "name": "MAFRA Last Touch 2.0 Express Liquid Wax Polish – Instant...",
+      "brand": "Mafra",
+      "category": "Power Tools",
+      "price": 512,
+      "image": "https://m.media-amazon.com/images/I/61L80seRqmL.jpg | https://m.media-amazon.com/images/I/31MN5Zx7zjL.jpg | https://m.media-amazon.com/images/I/31zxurRdO2L.jpg | https://m.media-amazon.com/images/I/51Q4cfuuRpL.jpg | https://m.media-amazon.com/images/I/41EHrhyi98L.jpg | https://m.media-amazon.com/images/I/41eeryZzBmL.jpg | https://m.media-amazon.com/images/I/51c313SVY6L.jpg",
+      "productUrl": "https://www.amazon.in/Mafra-HN045-MAFRA-Touch-500ml/dp/B00ETJLSDQ/ref=sr_1_150"
+    },
+    {
+      "sku": "JKE-IIYDAR2NJBGTOUCR",
+      "slug": "mafra-car-glass-cleaner500mlwindshieldwindow-mirror",
+      "name": "Mafra Car Glass Cleaner–500ml,Windshield,Window & Mirror...",
+      "brand": "Mafra",
+      "category": "Power Tools",
+      "price": 449,
+      "image": "https://m.media-amazon.com/images/I/61+RtnOlDrL.jpg | https://m.media-amazon.com/images/I/419dgebKFbL.jpg | https://m.media-amazon.com/images/I/51i8q4v-H7L.jpg | https://m.media-amazon.com/images/I/514WDOGX40L.jpg | https://m.media-amazon.com/images/I/51DSDvvFzeL.jpg | https://m.media-amazon.com/images/I/51eNBxSpyKL.jpg | https://m.media-amazon.com/images/I/5101F-lrd8L.jpg | https://m.media-amazon.com/images/I/51DKshKWjNL.jpg",
+      "productUrl": "https://www.amazon.in/Mafra-Car-Glass-Cleaner-Crystal-Clear/dp/B00GMHM7PQ/ref=sr_1_184"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Saleon",
+  "slug": "saleon",
+  "products": [
+    {
+      "sku": "JKE-IIYEOVBSKI2TCV2H",
+      "slug": "saleon-1200mah-battery-rechargeable-led-desk-lamp-with-usb",
+      "name": "SaleOn 1200mAh Battery Rechargeable LED Desk Lamp with USB...",
+      "brand": "Saleon",
+      "category": "Power Tools",
+      "price": 319,
+      "image": "https://m.media-amazon.com/images/I/61MyMoczSuL.jpg | https://m.media-amazon.com/images/I/31g97P-rAxL.jpg | https://m.media-amazon.com/images/I/51AL0g0bUeL.jpg | https://m.media-amazon.com/images/I/31HitKGwkxL.jpg | https://m.media-amazon.com/images/I/41mE1qz4znL.jpg | https://m.media-amazon.com/images/I/41pviEKhkZL.jpg | https://m.media-amazon.com/images/I/415ZyON3uXL.jpg | https://m.media-amazon.com/images/I/41NHyQTZ3hL.jpg",
+      "productUrl": "https://www.amazon.in/SaleOn-Rechargeable-Warranty-Lighting-Protection/dp/B0GT2R51WG/ref=sr_1_228"
+    }
+  ]
+}

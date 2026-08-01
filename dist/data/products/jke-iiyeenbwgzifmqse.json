@@ -1,8 +1,8 @@
 {
   "asin": "JKE-IIYEENBWGZIFMQSE",
-  "title": "Uxsiya Solar Generator Panel, 10W Waterproof Monocrystalline PET Uninterrupted Charging Durable Outdoor Solar Panel for Security Camera",
+  "title": "Uxsiya Solar Generator Panel, 10W Waterproof...",
   "brand": "Uxsiya",
-  "current_price": "₹5,024.00",
+  "current_price": 5024,
   "mrp": 0,
   "product_url": "https://www.amazon.in/Uxsiya-Generator-Waterproof-Monocrystalline-Uninterrupted/dp/B0B466PVBD/ref=sr_1_96",
   "rating": "3.63.6 out of 5 stars(4)3.6 out of 5 stars",
@@ -27,22 +27,22 @@
   "image_url_7": "https://m.media-amazon.com/images/I/31YpKCv5UEL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/310XrxX9PHL.jpg",
   "specifications": {
-    "Material Type": "default",
     "Brand Name": "Uxsiya",
-    "Unit Count": "1.0 Count",
     "Manufacturer": "Uxsiya",
-    "Included Components": "Solar Panel, 1 x Bracket, 1 x Bracket Anchor, 1 x Gasket, 3 x Screw, and 3 x Expansion Tube",
     "Item Type Name": "General",
-    "Manufacturer Part Number": "Uxsiyahwkrgpf8te3060",
     "ASIN": "B0B466PVBD",
     "Customer Reviews": "3.63.6 out of 5 stars(4)3.6 out of 5 stars",
-    "Maximum Power": "10 Watts",
+    "Unit Count": "1.0 Count",
     "Connector Type": "USB",
-    "Efficiency": "perfect"
+    "Manufacturer Part Number": "Uxsiyahwkrgpf8te3060",
+    "Included Components": "Solar Panel, 1 x Bracket, 1 x Bracket Anchor, 1 x Gasket, 3 x Screw, and 3 x Expansion Tube",
+    "Material Type": "default",
+    "Efficiency": "perfect",
+    "Maximum Power": "10 Watts"
   },
   "SKU": "JKE-IIYEENBWGZIFMQSE",
-  "Name": "Uxsiya Solar Generator Panel, 10W Waterproof Monocrystalline PET Uninterrupted Charging Durable Outdoor Solar Panel for Security Camera",
-  "Slug": "uxsiya-solar-generator-panel-10w-waterproof-monocrystalline-pet-uninterrupted-charging-durable-outdoor-solar-panel-for-security-camera",
+  "Name": "Uxsiya Solar Generator Panel, 10W Waterproof...",
+  "Slug": "uxsiya-solar-generator-panel-10w-waterproof",
   "Category": "Fasteners & Hardware",
   "Subcategory1": "Anchors",
   "Images": [
@@ -57,8 +57,8 @@
     "https://m.media-amazon.com/images/I/31kPZDEzxgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610KWaGAb6L.jpg | https://m.media-amazon.com/images/I/41ZGF96xNRL.jpg | https://m.media-amazon.com/images/I/31OkV9arvTL.jpg | https://m.media-amazon.com/images/I/41GHtETbmxL.jpg | https://m.media-amazon.com/images/I/51SZZkQB2sL.jpg | https://m.media-amazon.com/images/I/31YpKCv5UEL.jpg | https://m.media-amazon.com/images/I/310XrxX9PHL.jpg | https://m.media-amazon.com/images/I/31kPZDEzxgL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1.0 Count",
+  "StockQuantity": 5,
+  "Unit": "PC",
   "Discount": 0,
-  "SalePrice": "₹5,024.00"
+  "SalePrice": 5024
 }

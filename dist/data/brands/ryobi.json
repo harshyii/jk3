@@ -13,9 +13,19 @@
       "name": "RYOBI 18-Volt ONE+ Cordless Power Scrubber P4510 (Tool Only)",
       "brand": "Ryobi",
       "category": "Power Tools",
-      "price": "₹16,793.90",
+      "price": 16793.9,
       "image": "https://m.media-amazon.com/images/I/71ES9XuIPnL.jpg | https://m.media-amazon.com/images/I/311ld4zpwTL.jpg | https://m.media-amazon.com/images/I/51nzgEv8dJL.jpg | https://m.media-amazon.com/images/I/41q1i1tq4TL.jpg | https://m.media-amazon.com/images/I/51bHG8LE9WL.jpg | https://m.media-amazon.com/images/I/51otNDh9zCL.jpg | https://m.media-amazon.com/images/I/51XFHAE0KRL.jpg | https://m.media-amazon.com/images/I/51q+deQ8pQL.jpg",
       "productUrl": "https://www.amazon.in/RYOBI-18-Volt-Cordless-Power-Scrubber/dp/B086QL9N3B/ref=sr_1_299"
+    },
+    {
+      "sku": "JKE-IIYEGUCZKM4UQMKZ",
+      "slug": "ryobi-one-hp-18v-brushless-cordless-combo-kit-with-12",
+      "name": "RYOBI - ONE+ HP 18V Brushless Cordless Combo Kit with 1/2\"...",
+      "brand": "Ryobi",
+      "category": "Power Tools",
+      "price": 37236.42,
+      "image": "https://m.media-amazon.com/images/I/51vTqSj2NpL.jpg | https://m.media-amazon.com/images/I/51vTqSj2NpL.jpg | https://m.media-amazon.com/images/I/41yv5k0m6NL.jpg | https://m.media-amazon.com/images/I/417UnL1PaDL.jpg | https://m.media-amazon.com/images/I/5148dbQ3bYL.jpg | https://m.media-amazon.com/images/I/51WYLpzPebL.jpg | https://m.media-amazon.com/images/I/51ipnRFkjGL.jpg | https://m.media-amazon.com/images/I/51Hogj3QCXL.jpg",
+      "productUrl": "https://www.amazon.in/RYOBI-Brushless-Cordless-Batteries-Charger/dp/B0CPYS9H1Y/ref=sr_1_221"
     }
   ]
 }

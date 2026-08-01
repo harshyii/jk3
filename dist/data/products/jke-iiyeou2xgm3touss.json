@@ -2,8 +2,8 @@
   "asin": "JKE-IIYEOU2XGM3TOUSS",
   "title": "Xtra power Keyless Drill Chuck, 13mm x 20UNF",
   "brand": "Xtra Power",
-  "current_price": "₹367.00",
-  "mrp": "₹425",
+  "current_price": 367,
+  "mrp": 425,
   "product_url": "https://www.amazon.in/Xtra-power-Keyless-Drill-Chuck/dp/B0GSW377RR/ref=sr_1_131",
   "description": "Xtra power Keyless Drill Chuck, 13mm x 20UNF - Distributed/Packaged by Xtra Power. Product Details: The Xtra power Keyless Drill Chuck offers a convenient and efficient solution for your drilling needs. With a 13mm capacity and 20UNF thread specification, this keyless chuck eliminates the need for traditional chuck keys, allowing for quick and easy bit changes with just a hand-tightening motion. The keyless design saves valuable time during projects and reduces the risk of losing chuck keys. This drill chuck is compatible with various power drills and drilling machines that feature a 20UNF thread mount. The 13mm capacity accommodates a wide range of drill bit sizes, making it versatile for different drilling applications from woodworking to metalworking. The robust construction ensures reliable grip and secure bit retention during operation. Whether you're a professional tradesperson or a DIY enthusiast, this keyless chuck provides the convenience and functionality needed for efficient drilling tasks. The user-friendly design allows for single-handed operation, improving productivity on the job site or in your workshop.",
   "image_urls": [
@@ -15,21 +15,21 @@
   "image_url_2": "https://m.media-amazon.com/images/I/51q7cvf6CDL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/31okAkvnFAL.jpg",
   "specifications": {
-    "Material Type": "Alloy Steel, Chrome Vanadium Steel",
     "Brand Name": "Xtra Power",
-    "Unit Count": "1 Count",
     "Manufacturer": "Xtra Power",
-    "Country of Publication": "China",
-    "Included Components": "Keyless Drill Chuck",
-    "Item Weight": "0.35 Kilograms",
+    "Importer Contact Information": "Xtra Power Tools, India",
     "Item Type Name": "Tools & Machinery",
     "Packer Contact Information": "Jipson Industries Pvt. Ltd.",
     "ASIN": "B0GSW377RR",
-    "Importer Contact Information": "Xtra Power Tools, India",
-    "Capacity": "13 milliliters_per_minute",
-    "Thread Size": "20unf",
+    "Compatible Devices": "Cordless Drill, Drill Press, Electric Drill, Power Drill",
+    "Unit Count": "1 Count",
+    "Included Components": "Keyless Drill Chuck",
+    "Item Weight": "0.35 Kilograms",
+    "Material Type": "Alloy Steel, Chrome Vanadium Steel",
+    "Country of Publication": "China",
     "Item Diameter": "13 Millimetres",
-    "Compatible Devices": "Cordless Drill, Drill Press, Electric Drill, Power Drill"
+    "Capacity": "13 milliliters_per_minute",
+    "Thread Size": "20unf"
   },
   "SKU": "JKE-IIYEOU2XGM3TOUSS",
   "Name": "Xtra power Keyless Drill Chuck, 13mm x 20UNF",
@@ -42,8 +42,8 @@
     "https://m.media-amazon.com/images/I/31okAkvnFAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51q7cvf6CDL.jpg | https://m.media-amazon.com/images/I/31okAkvnFAL.jpg",
-  "StockQuantity": 0,
-  "Unit": "1 Count",
-  "Discount": 0,
-  "SalePrice": "₹367.00"
+  "StockQuantity": 5,
+  "Unit": "PC",
+  "Discount": 13.65,
+  "SalePrice": 367
 }

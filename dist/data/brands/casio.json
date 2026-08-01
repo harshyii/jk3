@@ -1,0 +1,16 @@
+{
+  "name": "Casio",
+  "slug": "casio",
+  "products": [
+    {
+      "sku": "JKE-IIYDAS2TJBEU2N2J",
+      "slug": "genuine-replacement-for-panasonic-ctl1616-ctl1616f-battery",
+      "name": "Genuine Replacement for Panasonic CTL1616 CTL1616F Battery...",
+      "brand": "Casio",
+      "category": "General Hardware",
+      "price": 2290,
+      "image": "https://m.media-amazon.com/images/I/41jCDMc34mL.jpg | https://m.media-amazon.com/images/I/31DIsb845UL.jpg | https://m.media-amazon.com/images/I/412WRSB-lVL.jpg | https://m.media-amazon.com/images/I/41l6UcjGhLL.jpg | https://m.media-amazon.com/images/I/317Glhy9eiL.jpg | https://m.media-amazon.com/images/I/31QtbCpe1NL.jpg",
+      "productUrl": "https://www.amazon.in/Replacement-Panasonic-CTL1616F-10065657-Casio/dp/B00KSHIM7I/ref=sr_1_33"
+    }
+  ]
+}

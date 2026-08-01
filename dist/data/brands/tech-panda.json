@@ -1,0 +1,16 @@
+{
+  "name": "Tech Panda",
+  "slug": "tech-panda",
+  "products": [
+    {
+      "sku": "JKE-IIYEOWKEI43FOQRZ",
+      "slug": "tech-panda-clenpro-activa-wax-high-gloss-shine-",
+      "name": "Tech Panda ClenPro Activa Wax - High Gloss Shine &...",
+      "brand": "Tech Panda",
+      "category": "Power Tools",
+      "price": 120,
+      "image": "https://m.media-amazon.com/images/I/51CWNMTo1YL.jpg | https://m.media-amazon.com/images/I/31gId-DWe8L.jpg | https://m.media-amazon.com/images/I/41HFe9nq64L.jpg | https://m.media-amazon.com/images/I/51VFi7HnhbL.jpg | https://m.media-amazon.com/images/I/51LxLgcyzmL.jpg | https://m.media-amazon.com/images/I/61lZdLPFCZL.jpg | https://m.media-amazon.com/images/I/51XnQr-zqEL.jpg",
+      "productUrl": "https://www.amazon.in/Tech-Panda-ClenPro-Activa-Wax/dp/B0GYDG6WB9/ref=sr_1_197"
+    }
+  ]
+}

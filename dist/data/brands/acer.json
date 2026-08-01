@@ -1,0 +1,16 @@
+{
+  "name": "Acer",
+  "slug": "acer",
+  "products": [
+    {
+      "sku": "JKE-IIYEMS2QJZMVSOK2",
+      "slug": "acer-bubble-wireless-mouse-amr100-24ghz-silent-click-",
+      "name": "Acer Bubble Wireless Mouse AMR100 | 2.4GHz Silent Click |...",
+      "brand": "Acer",
+      "category": "Storage & Organization",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/61Wr9tOYxRL.jpg | https://m.media-amazon.com/images/I/317Z64y0AaL.jpg | https://m.media-amazon.com/images/I/41kCermszsL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/418rq3ip71L.jpg | https://m.media-amazon.com/images/I/41OhBaGg9AL.jpg | https://m.media-amazon.com/images/I/416CJCgdjsL.jpg | https://m.media-amazon.com/images/I/41RQRwwjhWL.jpg | https://m.media-amazon.com/images/I/41jHY+G-5jL.jpg",
+      "productUrl": "https://www.amazon.in/Wireless-Ergonomic-Battery-Compact-Lightweight/dp/B0FKPNYY9Z/ref=sr_1_236"
+    }
+  ]
+}

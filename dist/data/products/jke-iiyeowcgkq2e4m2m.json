@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEOWCGKQ2E4M2M",
-  "title": "47Pcs Electric Screwdriver, 4.2V 3.2Nm Cordless Screwdriver Set Automatic Rechargeable Portable 3.2Nm Maximum Torsion Power Screwdriver with USB Charging Cable for Home Repair Tool",
+  "title": "47Pcs Electric Screwdriver, 4.2V 3.2Nm Cordless Screwdriver...",
   "brand": "Krufa",
-  "current_price": "₹999.00",
-  "mrp": "₹13,998",
+  "current_price": 999,
+  "mrp": 13998,
   "product_url": "https://www.amazon.in/KRUFA-Electric-Screwdriver-Automatic-Rechargeable/dp/B0GXFT4N3L/ref=sr_1_160",
   "description": "47Pcs Electric Screwdriver, 4.2V 3.2Nm Cordless Screwdriver Set Automatic Rechargeable Portable 3.2Nm Maximum Torsion Power Screwdriver with USB Charging Cable for Home Repair Tool - Distributed/Packaged by Krufa. Product Details: nan",
   "image_urls": [
@@ -26,15 +26,15 @@
   "image_url_7": "https://m.media-amazon.com/images/I/412atYtu1iL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/51jPvWZ6O5L.jpg",
   "specifications": {
+    "Country of Origin": "‎India",
     "Manufacturer": "‎KRUSHI FASHION",
     "Item Type Name": "General",
     "ASIN": "‎B0GXFT4N3L",
-    "Item model number": "‎KF-47-pcs-Power-Tools",
-    "Country of Origin": "‎India"
+    "Item model number": "‎KF-47-pcs-Power-Tools"
   },
   "SKU": "JKE-IIYEOWCGKQ2E4M2M",
-  "Name": "47Pcs Electric Screwdriver, 4.2V 3.2Nm Cordless Screwdriver Set Automatic Rechargeable Portable 3.2Nm Maximum Torsion Power Screwdriver with USB Charging Cable for Home Repair Tool",
-  "Slug": "47pcs-electric-screwdriver-42v-32nm-cordless-screwdriver-set-automatic-rechargeable-portable-32nm-maximum-torsion-power-screwdriver-with-usb-charging-cable-for-home-repair-tool",
+  "Name": "47Pcs Electric Screwdriver, 4.2V 3.2Nm Cordless Screwdriver...",
+  "Slug": "47pcs-electric-screwdriver-42v-32nm-cordless-screwdriver",
   "Category": "Power Tools",
   "Subcategory1": "Rotary Tools",
   "Images": [
@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/413SD+Y5ByL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71N0cfUCTYL.jpg | https://m.media-amazon.com/images/I/41-lta4HJZL.jpg | https://m.media-amazon.com/images/I/41HEPkZ8X5L.jpg | https://m.media-amazon.com/images/I/51ILgU-P-oL.jpg | https://m.media-amazon.com/images/I/41jQQQ9kQcL.jpg | https://m.media-amazon.com/images/I/412atYtu1iL.jpg | https://m.media-amazon.com/images/I/51jPvWZ6O5L.jpg | https://m.media-amazon.com/images/I/413SD+Y5ByL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹999.00",
+  "Discount": 92.86,
+  "SalePrice": 999,
   "Country": "‎India"
 }

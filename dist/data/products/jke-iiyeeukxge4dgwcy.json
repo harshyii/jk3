@@ -1,9 +1,9 @@
 {
   "asin": "JKE-IIYEEUKXGE4DGWCY",
-  "title": "Inditrust NEW KD-1 Impact Punch Down Tool for Seating Wire Into Terminal Cable Insertion Tool for Networking Professionals Telecom Phone Cable Ethernet Cat5 RJ11 RJ45 Patch Panel Facep",
+  "title": "Inditrust NEW KD-1 Impact Punch Down Tool for Seating Wire...",
   "brand": "Inditrust",
-  "current_price": "₹219.00",
-  "mrp": "₹400",
+  "current_price": 219,
+  "mrp": 400,
   "product_url": "https://www.amazon.in/Inditrust-Terminal-Insertion-Networking-Professionals/dp/B0BQW183XX/ref=sr_1_240",
   "description": "Inditrust NEW KD-1 Impact Punch Down Tool for Seating Wire Into Terminal Cable Insertion Tool for Networking Professionals Telecom Phone Cable Ethernet Cat5 RJ11 RJ45 Patch Panel Facep - Distributed/Packaged by Inditrust. Product Details: nan",
   "image_urls": [
@@ -19,15 +19,15 @@
   "image_url_4": "https://m.media-amazon.com/images/I/31QP82neMyL.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/41r5aENI7jL.jpg",
   "specifications": {
+    "Country of Origin": "‎China",
     "Manufacturer": "‎Inditrust",
     "Item Type Name": "General",
     "ASIN": "‎B0BQW183XX",
-    "Product Dimensions": "‎20 x 10 x 3 cm; 60 g",
-    "Country of Origin": "‎China"
+    "Product Dimensions": "‎20 x 10 x 3 cm; 60 g"
   },
   "SKU": "JKE-IIYEEUKXGE4DGWCY",
-  "Name": "Inditrust NEW KD-1 Impact Punch Down Tool for Seating Wire Into Terminal Cable Insertion Tool for Networking Professionals Telecom Phone Cable Ethernet Cat5 RJ11 RJ45 Patch Panel Facep",
-  "Slug": "inditrust-new-kd-1-impact-punch-down-tool-for-seating-wire-into-terminal-cable-insertion-tool-for-networking-professionals-telecom-phone-cable-ethernet-cat5-rj11-rj45-patch-panel-facep",
+  "Name": "Inditrust NEW KD-1 Impact Punch Down Tool for Seating Wire...",
+  "Slug": "inditrust-new-kd-1-impact-punch-down-tool-for-seating-wire",
   "Category": "Electrical & Wiring",
   "Subcategory1": "Wire Strippers",
   "Images": [
@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41r5aENI7jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41-EZLq5iJL.jpg | https://m.media-amazon.com/images/I/41-EZLq5iJL.jpg | https://m.media-amazon.com/images/I/51QyTDhy+5L.jpg | https://m.media-amazon.com/images/I/31QP82neMyL.jpg | https://m.media-amazon.com/images/I/41r5aENI7jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹219.00",
+  "Discount": 45.25,
+  "SalePrice": 219,
   "Country": "‎China"
 }

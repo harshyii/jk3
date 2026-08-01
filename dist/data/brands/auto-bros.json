@@ -1,0 +1,26 @@
+{
+  "name": "Auto Bros",
+  "slug": "auto-bros",
+  "products": [
+    {
+      "sku": "JKE-IIYDSN2CLBLVUMJV",
+      "slug": "autobros-ceramic-infused-car-paste-wax-100g-restores",
+      "name": "AutoBros Ceramic Infused Car Paste Wax (100g) – Restores...",
+      "brand": "Auto Bros",
+      "category": "Hand Tools",
+      "price": 666,
+      "image": "https://m.media-amazon.com/images/I/712+ZC-M9cL.jpg | https://m.media-amazon.com/images/I/41pVdL6HgKL.jpg | https://m.media-amazon.com/images/I/91eiK+8bEAL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/41+npJyJXtL.jpg | https://m.media-amazon.com/images/I/51ez0FLUVZL.jpg | https://m.media-amazon.com/images/I/51-X1kT9HdL.jpg | https://m.media-amazon.com/images/I/41tJPttNhUL.jpg | https://m.media-amazon.com/images/I/51F+tZ4cKUL.jpg",
+      "productUrl": "https://www.amazon.in/Auto-Bros-Paste-Infused-Ceramic/dp/B097BXWZ15/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-IIYDSRSMJZDUGV2C",
+      "slug": "autobros-automotive-hard-water-scale-remover-cleans",
+      "name": "AutoBros Automotive Hard Water Scale Remover | Cleans...",
+      "brand": "Auto Bros",
+      "category": "Power Tools",
+      "price": 650,
+      "image": "https://m.media-amazon.com/images/I/71ZG08CFAdL.jpg | https://m.media-amazon.com/images/I/41fqjqIR01L.jpg | https://m.media-amazon.com/images/I/A14LKA7jRTL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/518z3HJRk2L.jpg | https://m.media-amazon.com/images/I/51KP2igILiL.jpg | https://m.media-amazon.com/images/I/51x8kHLtpJL.jpg | https://m.media-amazon.com/images/I/51jUpfRSy1L.jpg | https://m.media-amazon.com/images/I/41wXfrd2fSL.jpg",
+      "productUrl": "https://www.amazon.in/AutoBros-Remover-Glasses-contain-Hydrochloric/dp/B09FLNGCWB/ref=sr_1_201"
+    }
+  ]
+}

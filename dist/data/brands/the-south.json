@@ -1,0 +1,36 @@
+{
+  "name": "The South",
+  "slug": "the-south",
+  "products": [
+    {
+      "sku": "JKE-IIYEQN2KINCFUUSN",
+      "slug": "mens-full-sleeve-graphic-printed-hooded-sweatshirt-",
+      "name": "Mens Full Sleeve Graphic Printed Hooded Sweatshirt |...",
+      "brand": "The South",
+      "category": "Power Tools",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/61aV+JThYKL.jpg | https://m.media-amazon.com/images/I/41AyzebR1gL.jpg | https://m.media-amazon.com/images/I/41hI8hJouzL.jpg | https://m.media-amazon.com/images/I/316Z23TqWuL.jpg | https://m.media-amazon.com/images/I/31Xcn8N2w5L.jpg | https://m.media-amazon.com/images/I/41Dxb0eQ1EL.jpg | https://m.media-amazon.com/images/I/41PGhKT0PJL.jpg",
+      "productUrl": "https://www.amazon.in/SOUTH-STORE-Sweatshirt-Collection-Motorsport/dp/B0H7JCDZRM/ref=sr_1_306"
+    },
+    {
+      "sku": "JKE-IIYEQN2KHBBUMTSY",
+      "slug": "mens-black-navy-maroon-grey-melange-full-sleeve-graphic",
+      "name": "Mens Black, Navy, Maroon, Grey Melange Full Sleeve Graphic...",
+      "brand": "The South",
+      "category": "Power Tools",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/61mF+AZ9AIL.jpg | https://m.media-amazon.com/images/I/31nUkFRm-AL.jpg | https://m.media-amazon.com/images/I/31GzSOp43iL.jpg | https://m.media-amazon.com/images/I/3138+2a-rYL.jpg | https://m.media-amazon.com/images/I/31wkZhrhfDL.jpg | https://m.media-amazon.com/images/I/41CBLOVxIzL.jpg | https://m.media-amazon.com/images/I/41PGhKT0PJL.jpg",
+      "productUrl": "https://www.amazon.in/SOUTH-STORE-Graphic-Printed-Sweatshirt/dp/B0H7J8CFNX/ref=sr_1_213"
+    },
+    {
+      "sku": "JKE-IIYEQNJRGI4DQUBS",
+      "slug": "mens-black-half-sleeve-drop-shoulder-graphic-printed",
+      "name": "Mens Black Half Sleeve Drop Shoulder Graphic Printed...",
+      "brand": "The South",
+      "category": "Power Tools",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/61kEaUBHHYL.jpg | https://m.media-amazon.com/images/I/41GhNTRh-KL.jpg | https://m.media-amazon.com/images/I/41Aen-7cpmL.jpg | https://m.media-amazon.com/images/I/51dSCjjfhkL.jpg | https://m.media-amazon.com/images/I/41Fbla72tOL.jpg | https://m.media-amazon.com/images/I/51IZZgZ56CL.jpg",
+      "productUrl": "https://www.amazon.in/SOUTH-STORE-Verstappen-Motorsport-Streetwear/dp/B0H51288P2/ref=sr_1_219"
+    }
+  ]
+}

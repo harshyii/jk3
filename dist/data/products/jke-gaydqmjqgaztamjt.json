@@ -1,9 +1,9 @@
 {
   "asin": "JKE-GAYDQMJQGAZTAMJT",
   "title": "Advances in Solar Heating and Cooling",
-  "brand": "Byr. Z. Wang(Editor),T. S. Ge(Editor)Format:Hardcover",
+  "brand": "Byr. Z.",
   "current_price": 0,
-  "mrp": "₹29,400",
+  "mrp": 29400,
   "product_url": "https://www.amazon.in/Advances-Heating-Cooling-Woodhead-Publishing/dp/0081003013/ref=sr_1_68",
   "description": "Advances in Solar Heating and Cooling - Distributed/Packaged by Byr. Z. Wang(Editor),T. S. Ge(Editor)Format:Hardcover. Product Details: nan",
   "image_urls": [
@@ -31,8 +31,8 @@
     "https://m.media-amazon.com/images/I/51UW7xkeyPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Ukoqfsm6L.jpg | https://m.media-amazon.com/images/I/51x7L6w+yAL.jpg | https://m.media-amazon.com/images/I/51UW7xkeyPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 5,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": 100,
   "SalePrice": 0
 }

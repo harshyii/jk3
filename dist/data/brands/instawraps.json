@@ -1,0 +1,26 @@
+{
+  "name": "Instawraps",
+  "slug": "instawraps",
+  "products": [
+    {
+      "sku": "JKE-IIYEGNSYIJGTMTRX",
+      "slug": "3m-2080-car-vinyl-film-matrix-black-textured-mx12-",
+      "name": "3M 2080 Car Vinyl Film | Matrix Black Textured | MX12 |...",
+      "brand": "Instawraps",
+      "category": "Measuring & Layout",
+      "price": 1569,
+      "image": "https://m.media-amazon.com/images/I/51BGYrAEZoL.jpg | https://m.media-amazon.com/images/I/41IeujfsbrL.jpg | https://m.media-amazon.com/images/I/51IrW4HiFpL.jpg | https://m.media-amazon.com/images/I/31Yn4bpGAiL.jpg | https://m.media-amazon.com/images/I/41EVd4WGHzL.jpg | https://m.media-amazon.com/images/I/41s8O7y0waL.jpg | https://m.media-amazon.com/images/I/4108MwQj5dL.jpg | https://m.media-amazon.com/images/I/31qPuj5zsxL.jpg",
+      "productUrl": "https://www.amazon.in/Vinyl-Matrix-Black-Textured-Sample/dp/B0C6XBM6N7/ref=sr_1_126"
+    },
+    {
+      "sku": "JKE-IIYEGNSYHE3DKS2S",
+      "slug": "3m-car-wrap-roll-2080-matte-white-m10-5ft-x-1ft-5",
+      "name": "3M Car Wrap Roll 2080 Matte White | M10 | (5ft x 1ft (5...",
+      "brand": "Instawraps",
+      "category": "Hand Tools",
+      "price": 6306,
+      "image": "https://m.media-amazon.com/images/I/510oxXkZB8L.jpg | https://m.media-amazon.com/images/I/41EnQ9GyvVL.jpg | https://m.media-amazon.com/images/I/411dk3OkuIL.jpg | https://m.media-amazon.com/images/I/41vtdtWvNvL.jpg | https://m.media-amazon.com/images/I/41to6rluPTL.jpg | https://m.media-amazon.com/images/I/41WlD3Ui2YL.jpg | https://m.media-amazon.com/images/I/4139BaTmodL.jpg | https://m.media-amazon.com/images/I/4188pIDgAIL.jpg",
+      "productUrl": "https://www.amazon.in/Matte-White-M10-Automotive-Vinyl/dp/B0C6X965KR/ref=sr_1_193"
+    }
+  ]
+}

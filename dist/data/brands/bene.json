@@ -1,0 +1,16 @@
+{
+  "name": "Bene",
+  "slug": "bene",
+  "products": [
+    {
+      "sku": "JKE-IIYDQRCSGVNEMVSC",
+      "slug": "bene-garden-nice-light-black-16-cm-pack-of-6-pcs",
+      "name": "BENE ® Garden Nice Light (Black, 16 cm) - Pack of 6 Pcs.",
+      "brand": "Bene",
+      "category": "General Hardware",
+      "price": 2374,
+      "image": "https://m.media-amazon.com/images/I/71rr7yVGlNL.jpg | https://m.media-amazon.com/images/I/41nkD9DnQPL.jpg | https://m.media-amazon.com/images/I/51no+TWGaKL.jpg | https://m.media-amazon.com/images/I/41HuspvjjZL.jpg | https://m.media-amazon.com/images/I/41yfaDIAzPL.jpg",
+      "productUrl": "https://www.amazon.in/BENE%C2%AE-Garden-Light-Nice-Black/dp/B08DR5ZFVB/ref=sr_1_243"
+    }
+  ]
+}

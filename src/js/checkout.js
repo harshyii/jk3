@@ -354,7 +354,6 @@ const Checkout = {
                 
                 if (submitBtn) {
                     submitBtn.disabled = true;
-                    // Keep original width and classes intact by appending loader alongside instead of overriding innerHTML entirely
                     submitBtn.dataset.originalText = submitBtn.innerHTML;
                     submitBtn.innerHTML = `<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Processing Order...`;
                 }
@@ -397,6 +396,9 @@ const Checkout = {
                         console.error('❌ Network error communicating with Google Apps Script:', sheetError);
                     }
 
+                    // Record Affiliate Sale if referral tracking exists
+                    recordAffiliateSale(orderData);
+
                     const adminWhatsAppNumber = '919050623210';
                     const whatsappMessageText = encodeURIComponent(
                         `*New Order Placed! 🛒*\n\n` +
@@ -416,7 +418,7 @@ const Checkout = {
 
                     setTimeout(() => {
                         window.open(`https://api.whatsapp.com/send?phone=${adminWhatsAppNumber}&text=${whatsappMessageText}`, '_blank');
-                        window.location.href = 'index.html';
+                        window.location.href = `order-success.html?order_id=${orderData.order_id}`;
                     }, 1000);
 
                 } catch (err) {
@@ -433,5 +435,61 @@ const Checkout = {
         }
     }
 };
+
+function recordAffiliateSale(orderData) {
+    const expiry = localStorage.getItem('ht_affiliate_expiry');
+    const refCode = localStorage.getItem('ht_affiliate_ref');
+    
+    // Calculate totals across items if dealer prices / MRPs are tracked
+    let totalMRP = 0;
+    let totalDealerPrice = 0;
+
+    orderData.items.forEach(item => {
+        const qty = parseInt(item.quantity || item.qty || 1, 10);
+        const itemMRP = parseFloat(item.MRP || item.mrp || item.price || 0);
+        const itemDealer = parseFloat(item.dealerPrice || item.DealerPrice || (itemMRP * 0.53)); // Fallback to your 53% dealer ratio if missing
+        
+        totalMRP += itemMRP * qty;
+        totalDealerPrice += itemDealer * qty;
+    });
+
+    const finalAmount = orderData.totalAmount;
+    const discountAmount = orderData.discountAmount || 0;
+    
+    // Dynamic commission rule (e.g., ₹3 per item or percentage-based)
+    let totalCommission = 0;
+    orderData.items.forEach(item => {
+        const qty = parseInt(item.quantity || item.qty || 1, 10);
+        // Custom commission per item or fallback
+        totalCommission += (item.affiliateCommission || 3) * qty; 
+    });
+
+    // Net profit = What user pays - Dealer Price - Affiliate Commission - Any extra costs
+    const netProfit = finalAmount - totalDealerPrice - totalCommission;
+
+    const payload = {
+        action: 'conversion',
+        affiliateId: refCode || 'DIRECT',
+        orderId: orderData.order_id,
+        mrpTotal: totalMRP,
+        dealerPriceTotal: totalDealerPrice,
+        finalAmount: finalAmount,
+        discountAmount: discountAmount,
+        commission: refCode ? totalCommission : 0,
+        netProfit: netProfit
+    };
+
+    // Send to Google Apps Script Web App URL
+    fetch('https://script.google.com/macros/s/AKfycbxRazgTp_QIo4xnz-bMVwctOqoiRTKWTEQNjpqAEVpinyTYErU5sfRAeGsCRh0HpdIP/exec', {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: {
+            'Content-Type': 'text/plain;charset=utf-8',
+        },
+        body: JSON.stringify(payload)
+    })
+    .then(() => console.log('Advanced margin & affiliate sale logged'))
+    .catch(err => console.error('Affiliate log failed', err));
+}
 
 document.addEventListener('DOMContentLoaded', () => Checkout.init());

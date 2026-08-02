@@ -135,5 +135,23 @@ function updateDynamicSEO() {
     }
 }
 
+// Integration update for affiliates tracking notification
+window.addEventListener('DOMContentLoaded', () => {
+    const urlParams = new URLSearchParams(window.location.search);
+    const refCode = urlParams.get('ref');
+    
+    if (refCode) {
+        localStorage.setItem('ht_affiliate_ref', refCode);
+        localStorage.setItem('ht_affiliate_expiry', new Date().getTime() + (30 * 24 * 60 * 60 * 1000));
+        
+        // Trigger a nice UI toast notifying the user of the referral partner tracking
+        setTimeout(() => {
+            if (window.UI && typeof window.UI.showToast === 'function') {
+                window.UI.showToast(`Partner referral active (${refCode})`, 'success');
+            }
+        }, 600);
+    }
+});
+
 // Automatically trigger layout initialization on script load
 Layout.init();

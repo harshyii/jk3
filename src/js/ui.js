@@ -36,5 +36,7 @@ export const UI = {
     }
 };
 
+
+
 window.UI = UI;
 window.showToast = (message, type, onClick) => UI.showToast(message, type, onClick);

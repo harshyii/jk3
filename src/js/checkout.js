@@ -10,6 +10,7 @@ const Checkout = {
     upiID: '9050623210@sbi',
     appliedDiscount: 0,
     couponCode: '',
+    isSubmitting: false,
 
     async init() {
         if (UI && typeof UI.setLoading === 'function') {
@@ -43,6 +44,8 @@ const Checkout = {
             #checkout-items-list::-webkit-scrollbar { width: 4px; }
             #checkout-items-list::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
             main.container { max-width: 1200px !important; width: 100% !important; margin-left: auto !important; margin-right: auto !important; }
+            /* Prevent layout shifting during submission state */
+            button[type="submit"]:disabled { opacity: 0.7; cursor: not-allowed; }
         `;
         document.head.appendChild(styleEl);
     },
@@ -338,70 +341,94 @@ const Checkout = {
         if (checkoutForm) {
             checkoutForm.addEventListener('submit', async (e) => {
                 e.preventDefault();
+
+                if (this.isSubmitting) return;
+
                 if (this.cart.length === 0) {
                     alert('Your cart is empty!');
                     return;
                 }
 
-                // Generate unique order ID (e.g., HT-20260802-8392)
-                const uniqueOrderId = 'HT-' + new Date().toISOString().slice(0, 10).replace(/-/g, '') + '-' + Math.floor(1000 + Math.random() * 9000);
-
-                const orderData = {
-                    merchant_id: 5815016273,
-                    order_id: uniqueOrderId,
-                    fullName: document.getElementById('full-name')?.value || '',
-                    email: document.getElementById('email')?.value || '',
-                    phone: document.getElementById('phone')?.value || '',
-                    delivery_country: 'IN',
-                    estimated_delivery_date: new Date(Date.now() + 5 * 24 * 60 * 60 * 1000).toISOString().split('T')[0],
-                    address: document.getElementById('address')?.value || '',
-                    city: document.getElementById('city')?.value || '',
-                    pincode: document.getElementById('pincode')?.value || '',
-                    state: document.getElementById('state')?.value || '',
-                    paymentMethod: document.querySelector('input[name="paymentMethod"]:checked')?.value || 'COD',
-                    discountAmount: this.appliedDiscount,
-                    couponCode: this.couponCode || 'None',
-                    shippingCost: this.shippingCost,
-                    totalAmount: this.finalAmount,
-                    date: new Date().toISOString(),
-                    items: this.cart
-                };
-
-                const existingOrders = JSON.parse(localStorage.getItem('ht_orders') || localStorage.getItem('orders') || '[]');
-                existingOrders.push(orderData);
-                localStorage.setItem('ht_orders', JSON.stringify(existingOrders));
-                localStorage.setItem('orders', JSON.stringify(existingOrders));
-
-                this.safeShowToast('Processing your order securely...', 'info');
-
-                const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzmVk_piN4PGVa75SBCDWY8htjt3yjw08ePkZwBWWi4ak0YzK_xzFTHMc1hY8WCigyYBA/exec';
-                try {
-                    await fetch(GOOGLE_SHEET_WEB_APP_URL, { method: 'POST', body: JSON.stringify(orderData) });
-                } catch (sheetError) {
-                    console.error('❌ Network error communicating with Google Apps Script:', sheetError);
+                this.isSubmitting = true;
+                const submitBtn = checkoutForm.querySelector('button[type="submit"]');
+                
+                if (submitBtn) {
+                    submitBtn.disabled = true;
+                    // Keep original width and classes intact by appending loader alongside instead of overriding innerHTML entirely
+                    submitBtn.dataset.originalText = submitBtn.innerHTML;
+                    submitBtn.innerHTML = `<span class="spinner-border spinner-border-sm me-2" role="status" aria-hidden="true"></span>Processing Order...`;
                 }
 
-                const adminWhatsAppNumber = '919050623210';
-                const whatsappMessageText = encodeURIComponent(
-                    `*New Order Placed! 🛒*\n\n` +
-                    `*Order ID:* ${orderData.order_id}\n` +
-                    `*Name:* ${orderData.fullName}\n` +
-                    `*Phone:* ${orderData.phone}\n` +
-                    `*Address:* ${orderData.address}, ${orderData.city} - ${orderData.pincode} (${orderData.state})\n` +
-                    `*Payment:* ${orderData.paymentMethod}\n` +
-                    `*Coupon Used:* ${orderData.couponCode || 'None'} (Saved: ₹${orderData.discountAmount})\n` +
-                    `*Total Amount:* ₹${orderData.totalAmount}\n\n` +
-                    `*Items:*\n${orderData.items.map(i => `• ${i.name || i.Name} (Qty: ${i.quantity || i.qty || 1})`).join('\n')}`
-                );
+                try {
+                    const uniqueOrderId = 'HT-' + new Date().toISOString().slice(0, 10).replace(/-/g, '') + '-' + Math.floor(1000 + Math.random() * 9000);
 
-                this.safeShowToast('Order placed successfully! Redirecting...', 'success');
-                localStorage.removeItem('ht_cart');
-                localStorage.removeItem('cart');
+                    const orderData = {
+                        merchant_id: 5815016273,
+                        order_id: uniqueOrderId,
+                        fullName: document.getElementById('full-name')?.value || '',
+                        email: document.getElementById('email')?.value || '',
+                        phone: document.getElementById('phone')?.value || '',
+                        delivery_country: 'IN',
+                        estimated_delivery_date: new Date(Date.now() + 5 * 24 * 60 * 60 * 1000).toISOString().split('T')[0],
+                        address: document.getElementById('address')?.value || '',
+                        city: document.getElementById('city')?.value || '',
+                        pincode: document.getElementById('pincode')?.value || '',
+                        state: document.getElementById('state')?.value || '',
+                        paymentMethod: document.querySelector('input[name="paymentMethod"]:checked')?.value || 'COD',
+                        discountAmount: this.appliedDiscount,
+                        couponCode: this.couponCode || 'None',
+                        shippingCost: this.shippingCost,
+                        totalAmount: this.finalAmount,
+                        date: new Date().toISOString(),
+                        items: this.cart
+                    };
 
-                setTimeout(() => {
-                    window.open(`https://api.whatsapp.com/send?phone=${adminWhatsAppNumber}&text=${whatsappMessageText}`, '_blank');
-                    window.location.href = 'index.html';
-                }, 1000);
+                    const existingOrders = JSON.parse(localStorage.getItem('ht_orders') || localStorage.getItem('orders') || '[]');
+                    existingOrders.push(orderData);
+                    localStorage.setItem('ht_orders', JSON.stringify(existingOrders));
+                    localStorage.setItem('orders', JSON.stringify(existingOrders));
+
+                    this.safeShowToast('Processing your order securely...', 'info');
+
+                    const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzmVk_piN4PGVa75SBCDWY8htjt3yjw08ePkZwBWWi4ak0YzK_xzFTHMc1hY8WCigyYBA/exec';
+                    try {
+                        await fetch(GOOGLE_SHEET_WEB_APP_URL, { method: 'POST', body: JSON.stringify(orderData) });
+                    } catch (sheetError) {
+                        console.error('❌ Network error communicating with Google Apps Script:', sheetError);
+                    }
+
+                    const adminWhatsAppNumber = '919050623210';
+                    const whatsappMessageText = encodeURIComponent(
+                        `*New Order Placed! 🛒*\n\n` +
+                        `*Order ID:* ${orderData.order_id}\n` +
+                        `*Name:* ${orderData.fullName}\n` +
+                        `*Phone:* ${orderData.phone}\n` +
+                        `*Address:* ${orderData.address}, ${orderData.city} - ${orderData.pincode} (${orderData.state})\n` +
+                        `*Payment:* ${orderData.paymentMethod}\n` +
+                        `*Coupon Used:* ${orderData.couponCode || 'None'} (Saved: ₹${orderData.discountAmount})\n` +
+                        `*Total Amount:* ₹${orderData.totalAmount}\n\n` +
+                        `*Items:*\n${orderData.items.map(i => `• ${i.name || i.Name} (Qty: ${i.quantity || i.qty || 1})`).join('\n')}`
+                    );
+
+                    this.safeShowToast('Order placed successfully! Redirecting...', 'success');
+                    localStorage.removeItem('ht_cart');
+                    localStorage.removeItem('cart');
+
+                    setTimeout(() => {
+                        window.open(`https://api.whatsapp.com/send?phone=${adminWhatsAppNumber}&text=${whatsappMessageText}`, '_blank');
+                        window.location.href = 'index.html';
+                    }, 1000);
+
+                } catch (err) {
+                    console.error('❌ Checkout error:', err);
+                    this.safeShowToast('Something went wrong during checkout. Please try again.', 'error');
+                    
+                    this.isSubmitting = false;
+                    if (submitBtn) {
+                        submitBtn.disabled = false;
+                        submitBtn.innerHTML = submitBtn.dataset.originalText || 'Proceed to Checkout';
+                    }
+                }
             });
         }
     }

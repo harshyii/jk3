@@ -131,30 +131,46 @@ function initHomeAddToCart(products) {
         window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
 
         const message = `${name} added to your cart!`;
+        const openCartCallback = () => {
+            const cartBtn = document.querySelector('#cart-toggle-btn') || document.querySelector('[data-bs-target="#cartModal"]') || document.querySelector('.cart-icon-btn');
+            if (cartBtn) {
+                cartBtn.click();
+            } else {
+                window.location.href = 'cart.html';
+            }
+        };
+
         if (window.UI && typeof window.UI.showToast === 'function') {
-            window.UI.showToast(message, 'success');
+            window.UI.showToast(message, 'success', openCartCallback);
         } else if (typeof window.showToast === 'function') {
-            window.showToast('Success', message, 'success');
+            window.showToast(message, 'success', openCartCallback);
         } else {
-            showFallbackToast(message);
+            showFallbackToast(message, openCartCallback);
         }
     });
 }
 
-function showFallbackToast(message) {
+function showFallbackToast(message, onClick) {
     let toastContainer = document.getElementById('fallback-toast-container');
     if (!toastContainer) {
         toastContainer = document.createElement('div');
         toastContainer.id = 'fallback-toast-container';
-        toastContainer.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 9999;';
+        toastContainer.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 9999; cursor: pointer;';
         document.body.appendChild(toastContainer);
     }
 
     const toast = document.createElement('div');
     toast.className = 'alert alert-success shadow-sm py-2 px-3 mb-2 animate-fade';
-    toast.innerHTML = `🌿 ${escapeHtml(message)}`;
+    toast.style.cursor = 'pointer';
+    toast.innerHTML = `🌿 ${escapeHtml(message)} <small class="ms-2 text-decoration-underline">(View Cart)</small>`;
+    
+    toast.addEventListener('click', () => {
+        if (typeof onClick === 'function') onClick();
+        toast.remove();
+    });
+
     toastContainer.appendChild(toast);
-    setTimeout(() => { toast.remove(); }, 3000);
+    setTimeout(() => { if (toast.parentNode) toast.remove(); }, 3000);
 }
 
 function renderBlogs(blogs) {

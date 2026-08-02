@@ -348,12 +348,12 @@ const Category = {
                 localStorage.setItem('ht_cart', JSON.stringify(cart));
                 window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
 
-                const badge = document.getElementById('cart-counter');
-                if (badge) {
-                    const totalItems = cart.reduce((sum, item) => sum + Number(item.quantity || 1), 0);
+                // Update all possible badge elements across the page layout
+                const totalItems = cart.reduce((sum, item) => sum + Number(item.quantity || 1), 0);
+                document.querySelectorAll('#cart-counter, .cart-count-badge').forEach(badge => {
                     badge.textContent = totalItems;
                     badge.style.display = totalItems > 0 ? 'inline-block' : 'none';
-                }
+                });
 
                 this.showToast(`${productName} added to your cart!`, 'success');
             });

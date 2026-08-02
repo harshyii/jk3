@@ -449,9 +449,21 @@ async function loadAndRenderComments(sku) {
         }
     } catch (err) {
         console.warn('Could not fetch remote reviews, falling back to local cache.', err);
-        const storageKey = `ht_comments_${sku}`;
-        comments = JSON.parse(localStorage.getItem(storageKey) || '[]');
     }
+
+    // Always merge local reviews with server reviews to ensure instant visibility after posting
+    const storageKey = `ht_comments_${sku}`;
+    const localComments = JSON.parse(localStorage.getItem(storageKey) || '[]');
+    
+    // Combine and deduplicate based on text, author, and rating
+    const combinedMap = new Map();
+    [...comments, ...localComments].forEach(c => {
+        const key = `${c.author}_${c.rating}_${c.text}`;
+        if (!combinedMap.has(key)) {
+            combinedMap.set(key, c);
+        }
+    });
+    comments = Array.from(combinedMap.values());
 
     if (comments.length === 0) {
         container.innerHTML = '<p class="text-muted fst-italic">No reviews yet. Be the first to share your feedback!</p>';

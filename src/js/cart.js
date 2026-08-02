@@ -13,9 +13,23 @@ const parseNumericPrice = (value) => {
 const CartPage = {
     async init() {
         console.log("🛒 Cart Page Controller Initialized");
+        this.injectStyles();
         this.renderCart();
         this.bindEvents();
         this.loadRecommendations();
+    },
+
+    injectStyles() {
+        if (document.getElementById('ht-cart-layout-fix')) return;
+        const styleEl = document.createElement('style');
+        styleEl.id = 'ht-cart-layout-fix';
+        styleEl.innerHTML = `
+            #cart-items { width: 100% !important; max-width: 100% !important; }
+            #cart-items .card { width: 100% !important; max-width: 100% !important; overflow: hidden; }
+            #cart-items .row { width: 100% !important; margin-left: 0 !important; margin-right: 0 !important; }
+            .cart-item-title { word-break: break-word; overflow-wrap: break-word; }
+        `;
+        document.head.appendChild(styleEl);
     },
 
     getCart() {
@@ -63,13 +77,13 @@ const CartPage = {
             const itemSku = item.sku || item.SKU || 'N/A';
 
             return `
-                <div class="card mb-3 shadow-sm border-0 p-3" style="width: 100% !important; max-width: 100% !important;">
+                <div class="card mb-3 shadow-sm border-0 p-3">
                     <div class="row align-items-center g-3">
                         <div class="col-4 col-md-2 text-center">
                             <img src="${itemImage}" alt="${itemName}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='404.webp'">
                         </div>
                         <div class="col-8 col-md-4">
-                            <h5 class="h6 fw-bold mb-1">${itemName}</h5>
+                            <h5 class="h6 fw-bold mb-1 cart-item-title">${itemName}</h5>
                             <small class="text-muted d-block mb-1">SKU: ${itemSku}</small>
                             <span class="text-primary fw-semibold">${Utils.formatCurrency ? Utils.formatCurrency(itemPrice) : '₹' + itemPrice.toLocaleString('en-IN')}</span>
                         </div>

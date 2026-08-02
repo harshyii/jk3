@@ -370,16 +370,78 @@ function initActionButtons(product) {
             const qty = qtyInput ? parseInt(qtyInput.value) || 1 : 1;
             addToCartAction(product, qty);
             const productName = product.title || product.Name || product.name || 'Product';
-            const message = `${productName} added to your cart!`;
-            if (window.UI && typeof window.UI.showToast === 'function') {
-                window.UI.showToast(message, 'success');
-            } else if (typeof window.showToast === 'function') {
-                window.showToast('Success', message, 'success');
-            } else {
-                showFallbackToast(message);
-            }
+            
+            // Limit active toast notifications to a maximum of 2-3 at a time
+            showCappedButtonToast(`${productName} added to cart!`);
         });
     }
+}
+
+function showCappedButtonToast(message) {
+    let container = document.getElementById('global-toast-container');
+    if (!container) {
+        container = document.createElement('div');
+        container.id = 'global-toast-container';
+        container.className = 'position-fixed bottom-0 end-0 p-3';
+        container.style.zIndex = '9999';
+        document.body.appendChild(container);
+    }
+
+    // Cap existing toasts to a maximum of 2, removing the oldest one if exceeded
+    const existingToasts = container.querySelectorAll('.toast');
+    if (existingToasts.length >= 2) {
+        existingToasts[0].remove();
+    }
+
+    const toast = document.createElement('div');
+    toast.className = 'toast show align-items-center text-white bg-success border-0 shadow-lg p-3 mb-2';
+    toast.style.cursor = 'pointer';
+    toast.innerHTML = `
+        <div class="d-flex align-items-center justify-content-between">
+            <div class="fw-semibold me-3">✓ ${escapeHtml(message)}</div>
+            <button class="btn btn-sm btn-light text-success fw-bold px-3 py-1 shadow-sm" type="button">View Cart &rarr;</button>
+        </div>
+    `;
+
+    toast.addEventListener('click', () => {
+        window.location.href = 'cart.html';
+    });
+
+    container.appendChild(toast);
+    
+    setTimeout(() => {
+        if (toast.parentElement) toast.remove();
+    }, 4000);
+}
+
+function showButtonToast(message) {
+    let container = document.getElementById('global-toast-container');
+    if (!container) {
+        container = document.createElement('div');
+        container.id = 'global-toast-container';
+        container.className = 'position-fixed bottom-0 end-0 p-3';
+        container.style.zIndex = '9999';
+        document.body.appendChild(container);
+    }
+
+    const toast = document.createElement('div');
+    toast.className = 'toast show align-items-center text-white bg-success border-0 shadow-lg p-3';
+    toast.style.cursor = 'pointer';
+    toast.innerHTML = `
+        <div class="d-flex align-items-center justify-content-between">
+            <div class="fw-semibold me-3">✓ ${escapeHtml(message)}</div>
+            <button class="btn btn-sm btn-light text-success fw-bold px-3 py-1 shadow-sm" type="button">View Cart &rarr;</button>
+        </div>
+    `;
+
+    toast.addEventListener('click', () => {
+        window.location.href = 'cart.html';
+    });
+
+    container.appendChild(toast);
+    setTimeout(() => {
+        if (toast.parentElement) toast.remove();
+    }, 4000);
 }
 
 function showFallbackToast(message) {

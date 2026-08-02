@@ -3,8 +3,15 @@ export const UI = {
         const toastEl = document.getElementById('global-toast');
         if (!toastEl) return;
         
-        toastEl.textContent = message;
-        toastEl.className = `toast show bg-${type} text-white shadow-lg`;
+        // Use innerHTML instead of textContent to allow custom HTML markup (like a button/link badge)
+        toastEl.innerHTML = `
+            <div class="d-flex align-items-center justify-content-between w-100">
+                <span>${message}</span>
+                ${onClick ? `<span class="badge bg-white text-dark ms-2 px-2 py-1 shadow-sm fw-bold" style="font-size: 0.75rem;">View &rarr;</span>` : ''}
+            </div>
+        `;
+        
+        toastEl.className = `toast show align-items-center text-white bg-${type} border-0 shadow-lg p-2`;
         
         // Make cursor pointer if a click action is provided
         toastEl.style.cursor = onClick ? 'pointer' : 'default';
@@ -25,7 +32,7 @@ export const UI = {
         if (toastEl._timeoutId) clearTimeout(toastEl._timeoutId);
         toastEl._timeoutId = setTimeout(() => {
             toastEl.classList.remove('show');
-        }, 3000);
+        }, 4000);
     }
 };
 

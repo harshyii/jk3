@@ -14,6 +14,7 @@ const CartPage = {
     async init() {
         console.log("🛒 Cart Page Controller Initialized");
         this.injectStyles();
+        this.ensureValidLayoutStructure();
         this.renderCart();
         this.bindEvents();
         this.loadRecommendations();
@@ -24,12 +25,24 @@ const CartPage = {
         const styleEl = document.createElement('style');
         styleEl.id = 'ht-cart-layout-fix';
         styleEl.innerHTML = `
-            #cart-items { width: 100% !important; max-width: 100% !important; }
-            #cart-items .card { width: 100% !important; max-width: 100% !important; overflow: hidden; }
-            #cart-items .row { width: 100% !important; margin-left: 0 !important; margin-right: 0 !important; }
-            .cart-item-title { word-break: break-word; overflow-wrap: break-word; }
+            #cart-items { width: 100% !important; display: block !important; }
+            #cart-items .card { width: 100% !important; margin-bottom: 1rem !important; border-radius: 0.5rem !important; }
+            #cart-items .row { display: flex !important; flex-wrap: wrap !important; align-items: center !important; margin: 0 !important; width: 100% !important; }
+            .cart-item-title { word-break: break-word; overflow-wrap: break-word; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+            .cart-item-img-link { cursor: pointer; transition: opacity 0.2s ease; }
+            .cart-item-img-link:hover { opacity: 0.85; }
         `;
         document.head.appendChild(styleEl);
+    },
+
+    ensureValidLayoutStructure() {
+        const cartContainer = document.getElementById('cart-items');
+        if (cartContainer) {
+            const parent = cartContainer.parentElement;
+            if (parent && !parent.classList.contains('container') && !parent.classList.contains('container-fluid') && !parent.classList.contains('col')) {
+                parent.style.width = '100%';
+            }
+        }
     },
 
     getCart() {
@@ -74,17 +87,23 @@ const CartPage = {
             const itemTotal = itemPrice * itemQty;
             const itemName = item.name || item.Name || item.title || item.Title || 'Product';
             const itemImage = item.image || item.Image || item.image_url_1 || '404.webp';
-            const itemSku = item.sku || item.SKU || 'N/A';
+            const itemSku = item.sku || item.SKU || '';
+            const itemSlug = item.slug || item.Slug || '';
+            const productPageUrl = `product.html?sku=${encodeURIComponent(itemSku)}&slug=${encodeURIComponent(itemSlug)}`;
 
             return `
-                <div class="card mb-3 shadow-sm border-0 p-3">
+                <div class="card shadow-sm border-0 p-3 mb-3">
                     <div class="row align-items-center g-3">
                         <div class="col-4 col-md-2 text-center">
-                            <img src="${itemImage}" alt="${itemName}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='404.webp'">
+                            <a href="${productPageUrl}" class="cart-item-img-link d-inline-block">
+                                <img src="${itemImage}" alt="${itemName}" class="img-fluid rounded" style="max-height: 70px; object-fit: contain;" onerror="this.src='404.webp'">
+                            </a>
                         </div>
                         <div class="col-8 col-md-4">
-                            <h5 class="h6 fw-bold mb-1 cart-item-title">${itemName}</h5>
-                            <small class="text-muted d-block mb-1">SKU: ${itemSku}</small>
+                            <h5 class="h6 fw-bold mb-1">
+                                <a href="${productPageUrl}" class="text-dark text-decoration-none cart-item-title">${itemName}</a>
+                            </h5>
+                            <small class="text-muted d-block mb-1">SKU: ${itemSku || 'N/A'}</small>
                             <span class="text-primary fw-semibold">${Utils.formatCurrency ? Utils.formatCurrency(itemPrice) : '₹' + itemPrice.toLocaleString('en-IN')}</span>
                         </div>
                         <div class="col-6 col-md-3">
@@ -157,10 +176,11 @@ const CartPage = {
                 if (!addBtn) return;
 
                 const rawPrice = addBtn.dataset.price;
+                const productName = addBtn.dataset.name || 'Product';
                 const product = {
                     sku: addBtn.dataset.sku || addBtn.dataset.slug,
                     slug: addBtn.dataset.slug,
-                    name: addBtn.dataset.name,
+                    name: productName,
                     price: parseNumericPrice(rawPrice),
                     image: addBtn.dataset.image,
                     quantity: 1,
@@ -180,6 +200,9 @@ const CartPage = {
 
                 this.saveCart(cart);
                 this.renderCart();
+
+                // Trigger capped interactive toast notification
+                this.showCappedButtonToast(`${productName} added to cart!`);
             });
         }
 
@@ -204,6 +227,47 @@ const CartPage = {
                 window.location.href = 'checkout.html';
             });
         }
+    },
+
+    showCappedButtonToast(message) {
+        let container = document.getElementById('global-toast-container');
+        if (!container) {
+            container = document.createElement('div');
+            container.id = 'global-toast-container';
+            container.className = 'position-fixed bottom-0 end-0 p-3';
+            container.style.zIndex = '9999';
+            document.body.appendChild(container);
+        }
+
+        const existingToasts = container.querySelectorAll('.toast');
+        if (existingToasts.length >= 2) {
+            existingToasts[0].remove();
+        }
+
+        const escapeHtml = (str) => {
+            if (!str) return '';
+            return str.toString().replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;').replace(/'/g, '&#039;');
+        };
+
+        const toast = document.createElement('div');
+        toast.className = 'toast show align-items-center text-white bg-success border-0 shadow-lg p-3 mb-2';
+        toast.style.cursor = 'pointer';
+        toast.innerHTML = `
+            <div class="d-flex align-items-center justify-content-between">
+                <div class="fw-semibold me-3">✓ ${escapeHtml(message)}</div>
+                <button class="btn btn-sm btn-light text-success fw-bold px-3 py-1 shadow-sm" type="button">View Cart &rarr;</button>
+            </div>
+        `;
+
+        toast.addEventListener('click', () => {
+            window.location.href = 'cart.html';
+        });
+
+        container.appendChild(toast);
+        
+        setTimeout(() => {
+            if (toast.parentElement) toast.remove();
+        }, 4000);
     },
 
     async loadRecommendations() {
@@ -232,9 +296,13 @@ const CartPage = {
                 return `
                     <div class="col">
                         <div class="card h-100 shadow-sm border-0 d-flex flex-column">
-                            <img src="${pImage}" class="card-img-top p-3" alt="${pName}" style="height: 160px; object-fit: contain;" onerror="this.src='404.webp'">
+                            <a href="product.html?sku=${encodeURIComponent(pSku)}&slug=${encodeURIComponent(pSlug)}">
+                                <img src="${pImage}" class="card-img-top p-3" alt="${pName}" style="height: 160px; object-fit: contain;" onerror="this.src='404.webp'">
+                            </a>
                             <div class="card-body d-flex flex-column">
-                                <h6 class="card-title text-truncate fw-bold">${pName}</h6>
+                                <h6 class="card-title text-truncate fw-bold">
+                                    <a href="product.html?sku=${encodeURIComponent(pSku)}&slug=${encodeURIComponent(pSlug)}" class="text-dark text-decoration-none">${pName}</a>
+                                </h6>
                                 <p class="text-primary fw-semibold mb-3">${Utils.formatCurrency ? Utils.formatCurrency(pPrice) : '₹' + pPrice.toLocaleString('en-IN')}</p>
                                 <div class="d-flex gap-2 mt-auto">
                                     <a href="product.html?sku=${encodeURIComponent(pSku)}&slug=${encodeURIComponent(pSlug)}" class="btn btn-sm btn-outline-primary w-50">Details</a>

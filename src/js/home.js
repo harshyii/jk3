@@ -57,7 +57,6 @@ function renderFeaturedProducts(products) {
         const productName = product.title || product.Name || product.name || '';
         const productImg = product.image_url_1 || product.image || product.Image || '404.webp';
         
-        // Correctly handle multiple fallback keys including Sale Price with currency symbols
         const rawPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.price ?? product.MRP ?? 0;
         const productPrice = parseNumericPrice(rawPrice);
 
@@ -86,7 +85,8 @@ function renderFeaturedProducts(products) {
                                     data-name="${escapeHtml(productName)}"
                                     data-price="${productPrice}"
                                     data-image="${productImg}"
-                                    data-unit="${productUnit}">Add</button>
+                                    data-unit="${productUnit}"
+                                    type="button">Add</button>
                             </div>
                         </div>
                     </div>
@@ -130,47 +130,45 @@ function initHomeAddToCart(products) {
         localStorage.setItem('ht_cart', JSON.stringify(cart));
         window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
 
-        const message = `${name} added to your cart!`;
-        const openCartCallback = () => {
-            const cartBtn = document.querySelector('#cart-toggle-btn') || document.querySelector('[data-bs-target="#cartModal"]') || document.querySelector('.cart-icon-btn');
-            if (cartBtn) {
-                cartBtn.click();
-            } else {
-                window.location.href = 'cart.html';
-            }
-        };
-
-        if (window.UI && typeof window.UI.showToast === 'function') {
-            window.UI.showToast(message, 'success', openCartCallback);
-        } else if (typeof window.showToast === 'function') {
-            window.showToast(message, 'success', openCartCallback);
-        } else {
-            showFallbackToast(message, openCartCallback);
-        }
+        // Trigger capped interactive toast notification
+        showCappedButtonToast(`${name} added to cart!`);
     });
 }
 
-function showFallbackToast(message, onClick) {
-    let toastContainer = document.getElementById('fallback-toast-container');
-    if (!toastContainer) {
-        toastContainer = document.createElement('div');
-        toastContainer.id = 'fallback-toast-container';
-        toastContainer.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 9999; cursor: pointer;';
-        document.body.appendChild(toastContainer);
+function showCappedButtonToast(message) {
+    let container = document.getElementById('global-toast-container');
+    if (!container) {
+        container = document.createElement('div');
+        container.id = 'global-toast-container';
+        container.className = 'position-fixed bottom-0 end-0 p-3';
+        container.style.zIndex = '9999';
+        document.body.appendChild(container);
+    }
+
+    const existingToasts = container.querySelectorAll('.toast');
+    if (existingToasts.length >= 2) {
+        existingToasts[0].remove();
     }
 
     const toast = document.createElement('div');
-    toast.className = 'alert alert-success shadow-sm py-2 px-3 mb-2 animate-fade';
+    toast.className = 'toast show align-items-center text-white bg-success border-0 shadow-lg p-3 mb-2';
     toast.style.cursor = 'pointer';
-    toast.innerHTML = `🌿 ${escapeHtml(message)} <small class="ms-2 text-decoration-underline">(View Cart)</small>`;
-    
+    toast.innerHTML = `
+        <div class="d-flex align-items-center justify-content-between">
+            <div class="fw-semibold me-3">✓ ${escapeHtml(message)}</div>
+            <button class="btn btn-sm btn-light text-success fw-bold px-3 py-1 shadow-sm" type="button">View Cart &rarr;</button>
+        </div>
+    `;
+
     toast.addEventListener('click', () => {
-        if (typeof onClick === 'function') onClick();
-        toast.remove();
+        window.location.href = 'cart.html';
     });
 
-    toastContainer.appendChild(toast);
-    setTimeout(() => { if (toast.parentNode) toast.remove(); }, 3000);
+    container.appendChild(toast);
+    
+    setTimeout(() => {
+        if (toast.parentElement) toast.remove();
+    }, 4000);
 }
 
 function renderBlogs(blogs) {

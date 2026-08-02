@@ -66,7 +66,6 @@ const Checkout = {
             return sum + (price * qty);
         }, 0);
 
-        // Standard Shipping Rule: Free if subtotal > 5000, otherwise ₹150 if items exist
         if (this.subtotal > 5000) {
             this.shippingCost = 0;
         } else {
@@ -86,16 +85,13 @@ const Checkout = {
             surcharge = Math.round(effectiveSubtotal * 0.05);
         }
 
-        // Final total accurately adds the exact calculated shipping cost
         this.finalAmount = effectiveSubtotal + this.shippingCost + surcharge;
 
-        // Update Subtotal element (raw subtotal before discount)
         const subtotalEl = document.getElementById('checkout-subtotal');
         if (subtotalEl) {
             subtotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(this.subtotal) : '₹' + this.subtotal;
         }
 
-        // Update Discount Row visibility & amount
         const discountRow = document.getElementById('discount-row');
         const discountEl = document.getElementById('checkout-discount');
         const couponCodeEl = document.getElementById('applied-coupon-code');
@@ -110,7 +106,6 @@ const Checkout = {
             }
         }
 
-        // Update Shipping element text dynamically so it matches the math
         const shippingEl = document.getElementById('checkout-shipping');
         if (shippingEl) {
             if (this.shippingCost === 0) {
@@ -122,7 +117,6 @@ const Checkout = {
             }
         }
 
-        // Update Final Total element
         const finalTotalEl = document.getElementById('final-total');
         if (finalTotalEl) {
             finalTotalEl.textContent = Utils.formatCurrency ? Utils.formatCurrency(this.finalAmount) : '₹' + this.finalAmount;
@@ -131,7 +125,6 @@ const Checkout = {
         this.handlePaymentMethodChange(paymentMethod, surcharge);
     },
     
-
     handlePaymentMethodChange(method, codSurcharge) {
         let paymentExtraContainer = document.getElementById('payment-extra-container');
         if (!paymentExtraContainer) {
@@ -287,7 +280,6 @@ const Checkout = {
                     let calculatedDiscount = 0;
                     let eligibleSubtotal = this.subtotal;
 
-                    // 1. Check Target Type constraints (e.g., specific brands, categories, or items)
                     if (foundCoupon.targetType && foundCoupon.targetType !== 'all' && foundCoupon.targetValue && foundCoupon.targetValue !== '*') {
                         const targetValues = foundCoupon.targetValue.split(',').map(v => v.trim().toLowerCase());
                         
@@ -313,14 +305,12 @@ const Checkout = {
                         }
                     }
 
-                    // 2. Calculate discount based on eligible items
                     if (foundCoupon.discountType === 'percentage') {
                         calculatedDiscount = Math.round(eligibleSubtotal * ((foundCoupon.discountValue || 0) / 100));
                     } else {
                         calculatedDiscount = parseFloat(foundCoupon.discountValue || 0);
                     }
 
-                    // 3. Enforce Max Discount Cap if specified
                     if (foundCoupon.maxDiscount !== null && foundCoupon.maxDiscount !== undefined && foundCoupon.maxDiscount > 0) {
                         calculatedDiscount = Math.min(calculatedDiscount, parseFloat(foundCoupon.maxDiscount));
                     }
@@ -353,22 +343,28 @@ const Checkout = {
                     return;
                 }
 
+                // Generate unique order ID (e.g., HT-20260802-8392)
+                const uniqueOrderId = 'HT-' + new Date().toISOString().slice(0, 10).replace(/-/g, '') + '-' + Math.floor(1000 + Math.random() * 9000);
+
                 const orderData = {
-                    fullName: document.getElementById('full-name')?.value,
-                    phone: document.getElementById('phone')?.value,
+                    merchant_id: 5815016273,
+                    order_id: uniqueOrderId,
+                    fullName: document.getElementById('full-name')?.value || '',
                     email: document.getElementById('email')?.value || '',
-                    address: document.getElementById('address')?.value,
-                    city: document.getElementById('city')?.value,
-                    pincode: document.getElementById('pincode')?.value,
-                    state: document.getElementById('state')?.value,
-                    paymentMethod: document.querySelector('input[name="paymentMethod"]:checked')?.value,
-                    items: this.cart,
-                    subtotal: this.subtotal,
+                    phone: document.getElementById('phone')?.value || '',
+                    delivery_country: 'IN',
+                    estimated_delivery_date: new Date(Date.now() + 5 * 24 * 60 * 60 * 1000).toISOString().split('T')[0],
+                    address: document.getElementById('address')?.value || '',
+                    city: document.getElementById('city')?.value || '',
+                    pincode: document.getElementById('pincode')?.value || '',
+                    state: document.getElementById('state')?.value || '',
+                    paymentMethod: document.querySelector('input[name="paymentMethod"]:checked')?.value || 'COD',
                     discountAmount: this.appliedDiscount,
-                    couponCode: this.couponCode,
+                    couponCode: this.couponCode || 'None',
                     shippingCost: this.shippingCost,
                     totalAmount: this.finalAmount,
-                    date: new Date().toISOString()
+                    date: new Date().toISOString(),
+                    items: this.cart
                 };
 
                 const existingOrders = JSON.parse(localStorage.getItem('ht_orders') || localStorage.getItem('orders') || '[]');
@@ -378,7 +374,7 @@ const Checkout = {
 
                 this.safeShowToast('Processing your order securely...', 'info');
 
-                const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbyoaezPkHnSTJMbGD2yW5wMOypGIj6XPtWGLRDJ_X7BVDaM3eB3EyvlV4_0lUrkPtlkJw/exec';
+                const GOOGLE_SHEET_WEB_APP_URL = 'https://script.google.com/macros/s/AKfycbzmVk_piN4PGVa75SBCDWY8htjt3yjw08ePkZwBWWi4ak0YzK_xzFTHMc1hY8WCigyYBA/exec';
                 try {
                     await fetch(GOOGLE_SHEET_WEB_APP_URL, { method: 'POST', body: JSON.stringify(orderData) });
                 } catch (sheetError) {
@@ -388,6 +384,7 @@ const Checkout = {
                 const adminWhatsAppNumber = '919050623210';
                 const whatsappMessageText = encodeURIComponent(
                     `*New Order Placed! 🛒*\n\n` +
+                    `*Order ID:* ${orderData.order_id}\n` +
                     `*Name:* ${orderData.fullName}\n` +
                     `*Phone:* ${orderData.phone}\n` +
                     `*Address:* ${orderData.address}, ${orderData.city} - ${orderData.pincode} (${orderData.state})\n` +

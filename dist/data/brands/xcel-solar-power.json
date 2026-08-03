@@ -3,32 +3,32 @@
   "slug": "xcel-solar-power",
   "products": [
     {
-      "sku": "JKE-IIYDCSBUKQZVANZU",
+      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVCMSUJFFEWVKXKVFTES22IFKTIV2TKY",
       "slug": "solar-panel-pack-of-1-black-35wp",
       "name": "Solar Panel (Pack of 1) - Black, 35Wp",
       "brand": "Xcel Solar Power",
       "category": "Storage & Organization",
-      "price": 520,
+      "price": 0,
       "image": "https://m.media-amazon.com/images/I/61a1pH9QJbL.jpg | https://m.media-amazon.com/images/I/514omoVb9CL.jpg",
       "productUrl": "https://www.amazon.in/Xcel-Solar-Power-Panel-Pack/dp/B01H4T3P74/ref=sr_1_73"
     },
     {
-      "sku": "JKE-IIYDCSBUKQZU4RCB",
+      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVCMSUJFFEWVKXKVFTES2VGJDEKUJSIM",
       "slug": "solar-panel-pack-of-2-black-35wp",
       "name": "Solar Panel (Pack of 2) - Black, 35Wp",
       "brand": "Xcel Solar Power",
       "category": "Storage & Organization",
-      "price": 400,
+      "price": 0,
       "image": "https://m.media-amazon.com/images/I/61hSBkwY8aL.jpg | https://m.media-amazon.com/images/I/41CvJyuUW8L.jpg",
       "productUrl": "https://www.amazon.in/Xcel-Solar-Power-Panel-Pack/dp/B01H4T3NDA/ref=sr_1_252"
     },
     {
-      "sku": "JKE-IIYDCSBUKQZVCWSB",
+      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVCMSUJFFEWVKXKVFTES22IJLE6VJSIM",
       "slug": "solar-panel-pack-of-2-black-65wp",
       "name": "Solar Panel (Pack of 2) - Black, 65Wp",
       "brand": "Xcel Solar Power",
       "category": "Storage & Organization",
-      "price": 235,
+      "price": 0,
       "image": "https://m.media-amazon.com/images/I/61hSBkwY8aL.jpg | https://m.media-amazon.com/images/I/41CvJyuUW8L.jpg",
       "productUrl": "https://www.amazon.in/Xcel-Solar-Power-Panel-Pack/dp/B01H4T3QZA/ref=sr_1_75"
     }

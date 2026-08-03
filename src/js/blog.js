@@ -95,11 +95,13 @@ document.addEventListener('DOMContentLoaded', async () => {
                 return;
             }
 
-            const singleTitle = post.title || post.Title || 'Untitled Post';
+            // Extract metadata with fallback support for different JSON key formats
+            const singleTitle = post.SEOTitle || post.seoTitle || post.title || post.Title || 'Untitled Post';
             const singleAuthor = post.author || post.Author || 'Admin';
             const singleCategory = post.category || post.Category || 'General';
             const singleImage = post.FeaturedImage || post.featuredImage || post.image || post.Image || '404.webp';
-            const singleExcerpt = post.excerpt || post.MetaDescription || post.metaDescription || `Read ${singleTitle} on Haryana Tools blog.`;
+            const singleMetaDesc = post.MetaDescription || post.metaDescription || post.excerpt || `Read ${singleTitle} on Haryana Tools blog.`;
+            
             let rawDate = post.date || post.Date || '';
             let displayDate = rawDate ? rawDate : 'Recent Guide';
             let mdFileSource = post.markdownFile || post.MarkdownFile || post.file || `${slug}.md`;
@@ -109,10 +111,10 @@ document.addEventListener('DOMContentLoaded', async () => {
                 cleanRelativePath = `src/data/blogs/${cleanRelativePath}`;
             }
 
-            // 👉 Set dynamic meta tags for single blog post view
+            // 👉 Set dynamic meta tags for single blog post view including MetaDescription
             updateBlogMetaTags({
                 title: singleTitle,
-                description: singleExcerpt,
+                description: singleMetaDesc,
                 image: singleImage,
                 isArticle: true
             });
@@ -203,9 +205,9 @@ document.addEventListener('DOMContentLoaded', async () => {
                     const rawDate = blog.date || blog.Date || '';
                     const displayDate = rawDate ? rawDate : 'Recent Guide';
                     const blogImage = blog.FeaturedImage || blog.featuredImage || blog.image || blog.Image || '404.webp';
-                    const blogTitle = blog.title || blog.Title || 'Untitled Post';
+                    const blogTitle = blog.SEOTitle || blog.seoTitle || blog.title || blog.Title || 'Untitled Post';
                     const blogSlug = blog.slug || blog.Slug || '#';
-                    const blogExcerpt = blog.excerpt || blog.MetaDescription || blog.metaDescription || '';
+                    const blogExcerpt = blog.MetaDescription || blog.metaDescription || blog.excerpt || '';
                     const blogCategory = blog.category || blog.Category || 'General';
 
                     return `

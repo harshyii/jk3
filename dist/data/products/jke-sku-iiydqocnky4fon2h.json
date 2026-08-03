@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQOCNKY4FON2H",
   "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 5434,
   "mrp": 15595.58,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Professional-108-Pieces-Variable/dp/B088MV8W7G/ref=sr_1_63",
   "rating": "4.74.7 out of 5 stars(5)4.7 out of 5 stars",
@@ -52,6 +52,6 @@
   "Image": "https://m.media-amazon.com/images/I/51SAMI4SG0L.jpg | https://m.media-amazon.com/images/I/312WLc0K3HL.jpg | https://m.media-amazon.com/images/I/51cWHEJAkeL.jpg | https://m.media-amazon.com/images/I/41s+qrHOejL.jpg | https://m.media-amazon.com/images/I/41KV-v79fyL.jpg | https://m.media-amazon.com/images/I/41pa8h2WlwL.jpg | https://m.media-amazon.com/images/I/41It-5bEv0L.jpg | https://m.media-amazon.com/images/I/413t4XW6tFL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 5434
 }

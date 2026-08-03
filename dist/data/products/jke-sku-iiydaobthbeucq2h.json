@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAOBTHBEUCQ2H",
   "title": "Eastman 48376 Stainless steel washing machine hose, 4' Pair",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 3279.88,
   "mrp": 5247.81,
   "product_url": "https://www.amazon.in/Eastman-48376-Stainless-washing-machine/dp/B00838IACG/ref=sr_1_265",
   "rating": "4.54.5 out of 5 stars(202)4.5 out of 5 stars",
@@ -54,6 +54,6 @@
   "Image": "https://m.media-amazon.com/images/I/91Q6IR3hh8L.jpg | https://m.media-amazon.com/images/I/618P6EgFuML.jpg | https://m.media-amazon.com/images/I/6141dnsvlyL.jpg | https://m.media-amazon.com/images/I/51+3CEmi1pL.jpg | https://m.media-amazon.com/images/I/51zkVgORytL.jpg",
   "StockQuantity": 0,
   "Unit": "4.0 Count",
-  "Discount": "37.5%",
-  "SalePrice": 0
+  "Discount": 0.375,
+  "SalePrice": 3279.88
 }

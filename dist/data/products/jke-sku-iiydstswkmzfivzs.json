@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSTSWKMZFIVZS",
   "title": "FREEMANS OW30 Steel Open Reel 30m:13mm Measuring...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 607,
   "mrp": 897,
   "product_url": "https://www.amazon.in/FREEMANS-OW30-Steel-Open-Reel/dp/B09NVS2TW2/ref=sr_1_43",
   "rating": "4.24.2 out of 5 stars(20)4.2 out of 5 stars",
@@ -57,8 +57,8 @@
   "Image": "https://m.media-amazon.com/images/I/517i2Wbki3L.jpg | https://m.media-amazon.com/images/I/31gm9ATNq0L.jpg | https://m.media-amazon.com/images/I/418VTvdRBrL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "32.33%",
-  "SalePrice": 0,
+  "Discount": 0.3233,
+  "SalePrice": 607,
   "Model": "30m:13mm",
   "Country": "India"
 }

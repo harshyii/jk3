@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDMWCRJJMFOMJU",
   "title": "Taparia 6-Inch (152mm) Taparia Multi-Purpose Combination...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 250,
   "mrp": 717.5,
   "product_url": "https://www.amazon.in/Taparia-1621-6-Steel-Combination-Cutter/dp/B06XQJXW14/ref=sr_1_40",
   "rating": "4.24.2 out of 5 stars(640)4.2 out of 5 stars",
@@ -66,7 +66,7 @@
   "Image": "https://m.media-amazon.com/images/I/61KG-Ez+h0L.jpg | https://m.media-amazon.com/images/I/31t4Eu0XVXL.jpg | https://m.media-amazon.com/images/I/31d0krcuhxL.jpg | https://m.media-amazon.com/images/I/4136Z0cDBVL.jpg | https://m.media-amazon.com/images/I/31hlMTsAW2L.jpg | https://m.media-amazon.com/images/I/31ZUjhqlOzL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 250,
   "Model": "1621-6"
 }

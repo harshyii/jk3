@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEINJTGRBFCTCK",
   "title": "Ingco Impact Wrench, 550NM Electric Wrench, ?Fixed Square...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 7499,
   "mrp": 18000,
   "product_url": "https://www.amazon.in/Ingco-Electric-Aluminum-Machine-Sockets/dp/B0D534BQLJ/ref=sr_1_70",
   "rating": "4.24.2 out of 5 stars(13)4.2 out of 5 stars",
@@ -64,6 +64,6 @@
   "Image": "https://m.media-amazon.com/images/I/71o+gS5-lVL.jpg | https://m.media-amazon.com/images/I/412tWFJSwjL.jpg | https://m.media-amazon.com/images/I/41HVeNEGH6L.jpg | https://m.media-amazon.com/images/I/41iPiuijOkL.jpg | https://m.media-amazon.com/images/I/41J+fKGEwmL.jpg | https://m.media-amazon.com/images/I/41TiFAdZTPL.jpg | https://m.media-amazon.com/images/I/61MmES3npkL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Set",
-  "Discount": "58.34%",
-  "SalePrice": 0
+  "Discount": 0.5834,
+  "SalePrice": 7499
 }

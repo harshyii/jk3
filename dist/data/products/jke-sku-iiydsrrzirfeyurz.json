@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSRRZIRFEYURZ",
   "title": "Eastman Wesco Type Oil Can (E-2072A), 1/2 Pint (250 CC)...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 306,
   "mrp": 878.22,
   "product_url": "https://www.amazon.in/Eastman-High-Pressure-Lubrication-Automotive-Maintenance/dp/B09F9DJLR9/ref=sr_1_37",
   "rating": "3.73.7 out of 5 stars(221)3.7 out of 5 stars",
@@ -64,8 +64,8 @@
   "Image": "https://m.media-amazon.com/images/I/41hBOje05wL.jpg | https://m.media-amazon.com/images/I/31jio6ksbCL.jpg | https://m.media-amazon.com/images/I/41uAidM72kL.jpg | https://m.media-amazon.com/images/I/41cazwgXVgL.jpg | https://m.media-amazon.com/images/I/41ulQaICayL.jpg | https://m.media-amazon.com/images/I/31pSXeeKzlL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 306,
   "Model": "E-2072_WescoTypeOilCans1/4",
   "Country": "India"
 }

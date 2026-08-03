@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMRCLJRNFOR2C",
   "title": "Taparia Make, Bit Holder Screwdriver with 50mm Single Side...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 269,
   "mrp": 325,
   "product_url": "https://www.amazon.in/Taparia-Screwdriver-Professional-industrial-applications/dp/B0FDKLZWGB/ref=sr_1_289",
   "rating": "4.54.5 out of 5 stars(2)4.5 out of 5 stars",
@@ -59,6 +59,6 @@
   "Image": "https://m.media-amazon.com/images/I/61V3QI2AbQL.jpg | https://m.media-amazon.com/images/I/41S5BSDIrtL.jpg | https://m.media-amazon.com/images/I/215cGBshUFL.jpg | https://m.media-amazon.com/images/I/21dNW+QpfEL.jpg | https://m.media-amazon.com/images/I/31LrIulx7OL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "17.23%",
-  "SalePrice": 0
+  "Discount": 0.1723,
+  "SalePrice": 269
 }

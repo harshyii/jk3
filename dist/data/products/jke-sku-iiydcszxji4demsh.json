@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCSZXJI4DEMSH",
   "title": "Eastman Industrial Vacuum Cleaner, Capacity 15 Litre,...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 12987,
   "mrp": 45000,
   "product_url": "https://www.amazon.in/Eastman-EVC-015-Vaccum-Cleaner/dp/B01K7J822G/ref=sr_1_165",
   "rating": "3.03.0 out of 5 stars(3)3.0 out of 5 stars",
@@ -67,6 +67,6 @@
   "Image": "https://m.media-amazon.com/images/I/71zDcTpVpsL.jpg | https://m.media-amazon.com/images/I/41UEf3Gk6LL.jpg | https://m.media-amazon.com/images/I/41NgDwKP55L.jpg | https://m.media-amazon.com/images/I/41lfukLqCXL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "71.14%",
-  "SalePrice": 0
+  "Discount": 0.7114,
+  "SalePrice": 12987
 }

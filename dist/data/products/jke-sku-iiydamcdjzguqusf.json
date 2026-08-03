@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMCDJZGUQUSF",
   "title": "Bosch 85601M 1/2 In. x 1-1/2 In. Carbide Tipped 2-Flute Temp",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 8874,
   "mrp": 9360,
   "product_url": "https://www.amazon.in/Bosch-85601M-Carbide-Tipped-2-Flute/dp/B000CNMHRE/ref=sr_1_174",
   "rating": "4.84.8 out of 5 stars(6)4.8 out of 5 stars",
@@ -56,8 +56,8 @@
   "Image": "https://m.media-amazon.com/images/I/61eQN9mreVL.jpg | https://m.media-amazon.com/images/I/31dV0Jx-dkL.jpg | https://m.media-amazon.com/images/I/41prZCtT6hL.jpg | https://m.media-amazon.com/images/I/41IrFzSW+gL.jpg | https://m.media-amazon.com/images/I/31HSzwZu-KL.jpg | https://m.media-amazon.com/images/I/41mbE5GaiiL.jpg | https://m.media-amazon.com/images/I/31nRtm9Vh+L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "5.19%",
-  "SalePrice": 0,
+  "Discount": 0.0519,
+  "SalePrice": 8874,
   "Model": "85601M",
   "Country": "USA"
 }

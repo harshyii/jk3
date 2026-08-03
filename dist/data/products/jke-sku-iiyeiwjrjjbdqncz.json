@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIWJRJJBDQNCZ",
   "title": "Bosch Plastic True Mixx Juicer Mixer Grinder, 1000W 2...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 7350,
   "mrp": 11250,
   "product_url": "https://www.amazon.in/Bosch-Plastic-Juicer-Grinder-MJ8722A1KI/dp/B0DY1JB84Y/ref=sr_1_65",
   "rating": "3.03.0 out of 5 stars(4)3.0 out of 5 stars",
@@ -63,8 +63,8 @@
   "Image": "https://m.media-amazon.com/images/I/61A1o7VCkmL.jpg | https://m.media-amazon.com/images/I/31W38qQvGQL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Case",
-  "Discount": "34.67%",
-  "SalePrice": 0,
+  "Discount": 0.3467,
+  "SalePrice": 7350,
   "Model": "MJ8722A1KI",
   "Country": "India"
 }

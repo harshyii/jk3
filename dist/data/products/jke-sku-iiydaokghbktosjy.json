@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAOKGHBKTOSJY",
   "title": "Bosch 1000x Nails Type 48 (1.8 x 1.45 x 14 mm, Accessories...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 16091,
   "mrp": 19099,
   "product_url": "https://www.amazon.in/Bosch-1000x-Accessories-Tacker-Staple/dp/B009F8U7I8/ref=sr_1_168",
   "rating": "4.54.5 out of 5 stars(736)4.5 out of 5 stars",
@@ -46,7 +46,7 @@
   "Image": "https://m.media-amazon.com/images/I/31ikIbKksLL.jpg | https://m.media-amazon.com/images/I/31ikIbKksLL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "15.75%",
-  "SalePrice": 0,
+  "Discount": 0.1575,
+  "SalePrice": 16091,
   "Model": "2609255813"
 }

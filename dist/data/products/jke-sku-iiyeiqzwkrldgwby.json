@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIQZWKRLDGWBY",
   "title": "BOSCH 132-Piece Advanced Fastening Set Comprehensive,...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 6999,
   "mrp": 8479,
   "product_url": "https://www.amazon.in/132-Piece-Fastening-Comprehensive-Ergonomic-Heavy-Duty/dp/B0DC6TV3X8/ref=sr_1_62",
   "rating": "4.44.4 out of 5 stars(132)4.4 out of 5 stars",
@@ -68,7 +68,7 @@
   "Image": "https://m.media-amazon.com/images/I/71d6dkbinjL.jpg | https://m.media-amazon.com/images/I/41FiZ6y6XAL.jpg | https://m.media-amazon.com/images/I/51946i2RT7L.jpg | https://m.media-amazon.com/images/I/51iX2g0JNDL.jpg | https://m.media-amazon.com/images/I/41It2HnYB0L.jpg | https://m.media-amazon.com/images/I/41O9Nm3pi2L.jpg | https://m.media-amazon.com/images/I/51VTfVRTJEL.jpg | https://m.media-amazon.com/images/I/51HiU+n+q9L.jpg",
   "StockQuantity": 0,
   "Unit": "132 Count",
-  "Discount": "17.45%",
-  "SalePrice": 0,
+  "Discount": 0.1745,
+  "SalePrice": 6999,
   "Model": "1600A02Z9B"
 }

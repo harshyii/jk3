@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMCQGRFVENKF",
   "title": "BOSCH 30-piece X-Line TiN-Coated Set, For DIYers and...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 999,
   "mrp": 2867.13,
   "product_url": "https://www.amazon.in/TiN-Coated-Professionals-Screwdriver-Countersink-universal/dp/B000P4KR5E/ref=sr_1_35",
   "rating": "4.24.2 out of 5 stars(11,168)4.2 out of 5 stars",
@@ -71,8 +71,8 @@
   "Image": "https://m.media-amazon.com/images/I/71LpGUDfcHL.jpg | https://m.media-amazon.com/images/I/51pvm+f79nL.jpg | https://m.media-amazon.com/images/I/411y8PxOFKL.jpg | https://m.media-amazon.com/images/I/51xbbI0nElL.jpg | https://m.media-amazon.com/images/I/41Cl2EZ2o6L.jpg | https://m.media-amazon.com/images/I/41rNwA-qzmL.jpg | https://m.media-amazon.com/images/I/51-dJw5erSL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 999,
   "Model": "2607019324",
   "Country": "China"
 }

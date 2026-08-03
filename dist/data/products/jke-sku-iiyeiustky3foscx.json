@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIUSTKY3FOSCX",
   "title": "Eastman EM250IL | Tall Tubular | 250 AH Inverter Battery...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 35999,
   "mrp": 49999,
   "product_url": "https://www.amazon.in/Eastman-EM250IL-Tubular-Inverter-Warranty/dp/B0DRSV6WHW/ref=sr_1_258",
   "description": "*Capacity: 250Ah *Nominal Voltage: 12V *Battery Type: C20, Tall Tubular and Compatible with all inverter types (Square wave and Sine Wave). *Recommendable for home and office.Highly efficient battery which is ideal for heavy-duty application with excellent overcharge tolerance, superior cycle life, and minimum maintenance.",
@@ -47,7 +47,7 @@
   "Image": "https://m.media-amazon.com/images/I/71orkkGssUL.jpg | https://m.media-amazon.com/images/I/41-QokPVRQL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "28%",
-  "SalePrice": 0,
+  "Discount": 0.28,
+  "SalePrice": 35999,
   "Model": "EM250IL"
 }

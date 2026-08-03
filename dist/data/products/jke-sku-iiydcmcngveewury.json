@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCMCNGVEEWURY",
   "title": "FREEMANS FT15 Fiberglass Top Line Measuring Tape - 15m/50ft...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 201,
   "mrp": 315,
   "product_url": "https://www.amazon.in/Freemans-FT15-Fiberglass-Line-Measuring/dp/B010M5HKR8/ref=sr_1_25",
   "rating": "4.14.1 out of 5 stars(710)4.1 out of 5 stars",
@@ -66,8 +66,8 @@
   "Image": "https://m.media-amazon.com/images/I/61ge3Bmc1zL.jpg | https://m.media-amazon.com/images/I/51xVkHv50-L.jpg | https://m.media-amazon.com/images/I/41EWyKKP3YL.jpg | https://m.media-amazon.com/images/I/315k9zuLxUL.jpg | https://m.media-amazon.com/images/I/31vmcqbl7eL.jpg | https://m.media-amazon.com/images/I/41vfTLS2OmL.jpg | https://m.media-amazon.com/images/I/41Vd99wwKVL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "36.19%",
-  "SalePrice": 0,
+  "Discount": 0.3619,
+  "SalePrice": 201,
   "Model": "FT15",
   "Country": "India"
 }

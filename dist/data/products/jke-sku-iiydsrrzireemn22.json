@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSRRZIREEMN22",
   "title": "Eastman Wire Stripper Precision Wire Cutter High Carbon...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 101,
   "mrp": 199,
   "product_url": "https://www.amazon.in/Eastman-Stripper-Carbon-Hardened-Single/dp/B09F9DHF7Z/ref=sr_1_44",
   "rating": "2.02.0 out of 5 stars(3)2.0 out of 5 stars",
@@ -62,7 +62,7 @@
   "Image": "https://m.media-amazon.com/images/I/51S2prg-eNL.jpg | https://m.media-amazon.com/images/I/31jZGTEwf3L.jpg | https://m.media-amazon.com/images/I/41uSikSoj8L.jpg | https://m.media-amazon.com/images/I/41boU57XkgL.jpg | https://m.media-amazon.com/images/I/41DsG3Nw3+L.jpg | https://m.media-amazon.com/images/I/31nvS1s+ucL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "49.25%",
-  "SalePrice": 0,
+  "Discount": 0.4925,
+  "SalePrice": 101,
   "Model": "E-2024"
 }

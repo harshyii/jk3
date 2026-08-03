@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAUZRKQYTGTCD",
   "title": "Freemans Topline - Professional Steel - Measuring Tape 30...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 555,
   "mrp": 799,
   "product_url": "https://www.amazon.in/Freemans-Topline-Professional-Steel-Measuring/dp/B00S1T13LC/ref=sr_1_46_mod_primary_new",
   "rating": "4.14.1 out of 5 stars(70)4.1 out of 5 stars",
@@ -47,8 +47,8 @@
   "Image": "https://m.media-amazon.com/images/I/61QqHZeNQ0L.jpg | https://m.media-amazon.com/images/I/51qlOgq4M-L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "30.54%",
-  "SalePrice": 0,
+  "Discount": 0.3054,
+  "SalePrice": 555,
   "Model": "PS30",
   "Country": "India"
 }

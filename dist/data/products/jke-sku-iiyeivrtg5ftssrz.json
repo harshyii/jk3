@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIVRTG5FTSSRZ",
   "title": "Kathuria All in one Store Elephant Soft Toy Soft Stuffed...",
   "brand": "Generic",
-  "current_price": 0,
+  "current_price": 170,
   "mrp": 499,
   "product_url": "https://www.amazon.in/Kathuria-Elephant-Stuffed-Children-Birthday/dp/B0DV37K9J9/ref=sr_1_246",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -62,8 +62,8 @@
   "Image": "https://m.media-amazon.com/images/I/51vbT9n+50L.jpg | https://m.media-amazon.com/images/I/31eMMkBZ5ZL.jpg | https://m.media-amazon.com/images/I/21gUVzOyWtL.jpg | https://m.media-amazon.com/images/I/317zPUIVJqL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Piece",
-  "Discount": "65.93%",
-  "SalePrice": 0,
+  "Discount": 0.6593,
+  "SalePrice": 170,
   "Model": "Elephant 01",
   "Country": "India"
 }

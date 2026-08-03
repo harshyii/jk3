@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIRRXIRMUQOC2",
   "title": "TAPARIA Socket made of Chrome Vanadium Steel 6 Point...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 216,
   "mrp": 320,
   "product_url": "https://www.amazon.in/20H-Automobile-Industrial-Fabrication-Professional/dp/B0DF7DYH8Z/ref=sr_1_172",
   "rating": "4.64.6 out of 5 stars(3)4.6 out of 5 stars",
@@ -58,7 +58,7 @@
   "Image": "https://m.media-amazon.com/images/I/51LaXbu8L9L.jpg | https://m.media-amazon.com/images/I/21sSOY+Y33L.jpg | https://m.media-amazon.com/images/I/31AqHu9FA5L.jpg | https://m.media-amazon.com/images/I/31JjB7v6yIL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "32.5%",
-  "SalePrice": 0,
+  "Discount": 0.325,
+  "SalePrice": 216,
   "Model": "L 20H"
 }

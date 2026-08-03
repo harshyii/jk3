@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDATCHIUZFANCJ",
   "title": "Taparia Model 802 Screwdriver Set | Neon Bulb Tester...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 200,
   "mrp": 212,
   "product_url": "https://www.amazon.in/Taparia-802-Screw-Driver-Neon/dp/B00LGE2P4I/ref=sr_1_3",
   "rating": "4.24.2 out of 5 stars(6,694)4.2 out of 5 stars",
@@ -68,7 +68,7 @@
   "Image": "https://m.media-amazon.com/images/I/71pAcoQkXIL.jpg | https://m.media-amazon.com/images/I/41b9KpZtPsL.jpg | https://m.media-amazon.com/images/I/2102hWKh2JL.jpg | https://m.media-amazon.com/images/I/41rf8DxizlL.jpg | https://m.media-amazon.com/images/I/41aX3mtQRSL.jpg | https://m.media-amazon.com/images/I/41C+l0u7C9L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "5.66%",
-  "SalePrice": 0,
+  "Discount": 0.0566,
+  "SalePrice": 200,
   "Model": "802"
 }

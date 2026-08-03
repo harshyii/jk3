@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGWJVJQ4E2OKN",
   "title": "FREEMANS GORILLA 5m:19mm Steel Inchi Pocket Measuring Tape...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 999,
   "mrp": 2140,
   "product_url": "https://www.amazon.in/FREEMANS-GORILLA-5m-Measuring-Unbreakable/dp/B0CY5L8M9M/ref=sr_1_45",
   "rating": "4.14.1 out of 5 stars(18)4.1 out of 5 stars",
@@ -62,8 +62,8 @@
   "Image": "https://m.media-amazon.com/images/I/71hRTOJkjDL.jpg | https://m.media-amazon.com/images/I/41AcdlQcB-L.jpg | https://m.media-amazon.com/images/I/91LSUmEmj3L.jpg | https://m.media-amazon.com/images/I/51BZhaAMSoL.jpg | https://m.media-amazon.com/images/I/41z4t7oIkQL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
   "StockQuantity": 0,
   "Unit": "10 Piece",
-  "Discount": "53.32%",
-  "SalePrice": 0,
+  "Discount": 0.5332,
+  "SalePrice": 999,
   "Model": "5m",
   "Country": "India"
 }

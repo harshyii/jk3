@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEERCGLFNEYNSQ",
   "title": "INGCO Socket adaptor",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 799,
   "product_url": "https://www.amazon.in/Ingco-INGCO-Socket-adaptor/dp/B0BDFYZL6P/ref=sr_1_112",
   "rating": "4.74.7 out of 5 stars(7)4.7 out of 5 stars",
@@ -52,6 +52,6 @@
   "Image": "https://m.media-amazon.com/images/I/41z2OlG8UjL.jpg | https://m.media-amazon.com/images/I/41z2OlG8UjL.jpg | https://m.media-amazon.com/images/I/418vpGJ5XgL.jpg | https://m.media-amazon.com/images/I/51OaiRY2c-L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Case",
-  "Discount": "68.84%",
-  "SalePrice": 0
+  "Discount": 0.6884,
+  "SalePrice": 249
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDARS2K5IEQSKJ",
   "title": "BOSCH 7431 OE Fine Wire Double Iridium Spark Plug - Single.",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 3457,
   "mrp": 9921.59,
   "product_url": "https://www.amazon.in/Bosch-7431-Double-Iridium-Service/dp/B00FZWPHII/ref=sr_1_170",
   "rating": "3.93.9 out of 5 stars(23)3.9 out of 5 stars",
@@ -61,8 +61,8 @@
   "Image": "https://m.media-amazon.com/images/I/715E1Cbn0sL.jpg | https://m.media-amazon.com/images/I/41zIC7PBeuL.jpg | https://m.media-amazon.com/images/I/31dKgiWMKoL.jpg | https://m.media-amazon.com/images/I/319bJ1xneaL.jpg | https://m.media-amazon.com/images/I/21RmcFBuBEL.jpg | https://m.media-amazon.com/images/I/31JeZ9iCivL.jpg | https://m.media-amazon.com/images/I/31o0fJ3PkCL.jpg | https://m.media-amazon.com/images/I/31W6gm3T5bL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 3457,
   "Model": "7431_1",
   "Country": "USA"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMCOIRBVMQZU",
   "title": "Bosch Delta Abrasive 2608604495, grey, 2608604494",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 11747,
   "mrp": 16789,
   "product_url": "https://www.amazon.in/Bosch-Delta-Abrasive-2608604495-2608604494/dp/B000NDCVC4/ref=sr_1_181",
   "rating": "4.44.4 out of 5 stars(10)4.4 out of 5 stars",
@@ -58,8 +58,8 @@
   "Image": "https://m.media-amazon.com/images/I/71Dq2WiaotL.jpg | https://m.media-amazon.com/images/I/512Le0Vd4YL.jpg | https://m.media-amazon.com/images/I/31r2lBHecVL.jpg | https://m.media-amazon.com/images/I/41JmjYTTJ+L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "30.03%",
-  "SalePrice": 0,
+  "Discount": 0.3003,
+  "SalePrice": 11747,
   "Model": "2608604494",
   "Country": "USA"
 }

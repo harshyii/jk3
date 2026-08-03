@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEQZSGRCEWTSL",
   "title": "BOSCH Professional GSB 500 RE Corded-Electric Drill Tool...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 5199,
   "mrp": 14921.13,
   "product_url": "https://www.amazon.in/BOSCH-Professional-Corded-Electric-Drill-Warranty/dp/B0BC24DKNK/ref=sr_1_132",
   "description": "Warranty: 1 year from the date of invoice (provide invoice copy to claim warranty); For any queries please contact customer service number. Join Bosch beconnected for extended warranty & rewards. Accessories not included in warranty Drilling diameter: 10 Millimeters ; Drill spindle connecting thread: 43 ; Chuck capacity, min./max.: 1.5 – 10 Mm. 100 Pcs accessories in carrying case for versatile applications Color: Blue Warranty 1 Year From The Date Of Invoice (Provide Invoice Copy To Claim Warranty); For Any Queries Please Contact . Join Bosch Beconnected For Extended Warranty & Rewards. Accessories Not Included In Warranty Drilling Diameter: 10 Millimeters For Masonry; 8 Millimeters For Steel; 20 Millimeters For Wood Material: Ms And Plastic Powerful machine with 670w brush motor; Slim; Lightweight design provides fatigue-Free working; Reducing risk of mistakes and injury; Supplied with guard and side handle 2 Position side handle all-metal gearbox fan-cooled motor spindle lock; Lock on switch; Replaceable carbon brushes; Supplied with guard Disc diameter 100 millimeter; No load speed 11000rpm; Spindle thread m10; Overall length: 350 Millimeter",
@@ -33,6 +33,6 @@
   "Image": "https://m.media-amazon.com/images/I/61odpqKawoL.jpg | https://m.media-amazon.com/images/I/41peptU9AUL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 5199
 }

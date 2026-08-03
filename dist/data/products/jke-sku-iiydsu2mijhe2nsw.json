@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSU2MIJHE2NSW",
   "title": "BOSCH Professional GWS 600 Angle Grinder - 670W, 100mm,...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 9996,
   "mrp": 19150,
   "product_url": "https://www.amazon.in/professional-Grinder-Concrete-Electric-Professional/dp/B09SLBNM6V/ref=sr_1_98",
   "description": "Powerful machine with 670w brush motor; Slim; Lightweight design provides fatigue-Free working; Reducing risk of mistakes and injury; Supplied with guard and side handle 2 Position side handle all-metal gearbox fan-cooled motor spindle lock; Lock on switch; Replaceable carbon brushes; Supplied with guard Disc diameter 100 millimeter; No load speed 11000rpm; Spindle thread m10; Overall length: 350 Millimeter Powerful 350W motor for robust Wood Metal Working applications Effective use grip Slim and compact design - ease of use in narrow space Powerful Three-mode rotary hammer for hammer drilling, drilling, and chiseling. 2.0 J impact energy for effective hammer drilling in concrete (up to 22mm diameter) Max. Drilling Ø Concrete – 22 mm; Max. Drilling Ø steel - 13 mm; Max. Drilling Ø wood – 30 mm Easy service - new quick carbon brush change system, Lightweight, Vario-lock for optimal chisel positioning, Variable speed switch for more controlled drilling, 4.0 meter power cord",
@@ -57,6 +57,6 @@
   "Image": "https://m.media-amazon.com/images/I/51AmQj5UD3L.jpg | https://m.media-amazon.com/images/I/41mgkOZ7szL.jpg | https://m.media-amazon.com/images/I/31jlmfiT-gL.jpg | https://m.media-amazon.com/images/I/41f+111S80L.jpg | https://m.media-amazon.com/images/I/31sZKZZRe1L.jpg | https://m.media-amazon.com/images/I/51hvIplVq3L.jpg | https://m.media-amazon.com/images/I/41hL7LLIlrL.jpg | https://m.media-amazon.com/images/I/31JdGHnWlGL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "47.8%",
-  "SalePrice": 0
+  "Discount": 0.478,
+  "SalePrice": 9996
 }

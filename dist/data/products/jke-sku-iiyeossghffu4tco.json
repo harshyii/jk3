@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOSSGHFFU4TCO",
   "title": "Eastman EM LIB 160 Smart Lithium-Ion Inverter Battery 12.8V...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 22999,
   "mrp": 29999,
   "product_url": "https://www.amazon.in/LIB-160-Lithium-Ion-Replacement-Maintenance/dp/B0GJF9KNLN/ref=sr_1_200",
   "rating": "1.01.0 out of 5 stars(1)1.0 out of 5 stars",
@@ -59,7 +59,7 @@
   "Image": "https://m.media-amazon.com/images/I/612l+YYZtfL.jpg | https://m.media-amazon.com/images/I/41x+qXW2mjL.jpg | https://m.media-amazon.com/images/I/51B773WpYeL.jpg | https://m.media-amazon.com/images/I/51FCMcgkf1L.jpg | https://m.media-amazon.com/images/I/51yQutCS2ZL.jpg | https://m.media-amazon.com/images/I/515XN7G+fyL.jpg | https://m.media-amazon.com/images/I/518d0dZtXkL.jpg | https://m.media-amazon.com/images/I/51XoIGwtOoL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "23.33%",
-  "SalePrice": 0,
+  "Discount": 0.2333,
+  "SalePrice": 22999,
   "Model": "EM LIB 160"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMSRYJRDEMQSE",
   "title": "Eastman Energy Smart 1250 Pure Sinewave Solar Inverter...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 7999,
   "mrp": 9000,
   "product_url": "https://www.amazon.in/Eastman-1250-Sinewave-Intelligent-Transformer/dp/B0FJ8LFFBD/ref=sr_1_70",
   "description": "The Solar Smart Solar PCU is a reliable and efficient power solution designed to provide uninterrupted electricity for homes, offices, and commercial spaces. Equipped with advanced PWM technology, this PCU is available in capacities ranging from 500VA to 2500VA, making it suitable for a wide range of power requirements. It comes with a 36-month product warranty and an impressive 120-month transformer warranty, ensuring long-term peace of mind and dependable performance.",
@@ -45,6 +45,6 @@
   "Image": "https://m.media-amazon.com/images/I/511R64il3DL.jpg | https://m.media-amazon.com/images/I/31zqPKuC4qL.jpg | https://m.media-amazon.com/images/I/51XliNnyf8L.jpg | https://m.media-amazon.com/images/I/41vHZRhlLyL.jpg | https://m.media-amazon.com/images/I/51QyKxE605L.jpg | https://m.media-amazon.com/images/I/51TSHG-L4KL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "11.12%",
-  "SalePrice": 0
+  "Discount": 0.1112,
+  "SalePrice": 7999
 }

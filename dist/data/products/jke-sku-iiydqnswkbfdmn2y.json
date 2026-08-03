@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNSWKBFDMN2Y",
   "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 5403,
   "mrp": 8923,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Professional-154-Pieces-Screwdriver/dp/B086VPJ67X/ref=sr_1_72",
   "rating": "5.05.0 out of 5 stars(3)5.0 out of 5 stars",
@@ -59,7 +59,7 @@
   "Image": "https://m.media-amazon.com/images/I/51fnO-u+1QL.jpg | https://m.media-amazon.com/images/I/31P8Y0GjeyL.jpg | https://m.media-amazon.com/images/I/51uvepVcJaL.jpg | https://m.media-amazon.com/images/I/41MH4uS7ftL.jpg | https://m.media-amazon.com/images/I/41D5ssqIigL.jpg | https://m.media-amazon.com/images/I/41NCWIjuSKL.jpg | https://m.media-amazon.com/images/I/3179ss0iUJL.jpg | https://m.media-amazon.com/images/I/415Umxnn6HL.jpg",
   "StockQuantity": 0,
   "Unit": "154 Piece",
-  "Discount": "39.45%",
-  "SalePrice": 0,
+  "Discount": 0.3945,
+  "SalePrice": 5403,
   "Model": "BMT154C"
 }

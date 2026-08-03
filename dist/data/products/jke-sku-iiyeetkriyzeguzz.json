@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEETKRIYZEGUZZ",
   "title": "Bosch Detergent for Front Load Washing Machine - 1 L (pack...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 1190,
   "mrp": 3415.3,
   "product_url": "https://www.amazon.in/Bosch-Detergent-Front-Washing-Machine/dp/B0BMQF2CS9/ref=sr_1_22",
   "rating": "4.44.4 out of 5 stars(1,103)4.4 out of 5 stars",
@@ -70,8 +70,8 @@
   "Image": "https://m.media-amazon.com/images/I/71H4491fGzL.jpg | https://m.media-amazon.com/images/I/414U4XA9gqL.jpg | https://m.media-amazon.com/images/I/61WMLztNl1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41XLBB4BOaL.jpg | https://m.media-amazon.com/images/I/41+Z0jRrztL.jpg | https://m.media-amazon.com/images/I/516zSkGy40L.jpg | https://m.media-amazon.com/images/I/51EFLhnuQUL.jpg | https://m.media-amazon.com/images/I/41Z58YDcCxL.jpg",
   "StockQuantity": 0,
   "Unit": "4000.0 Milliliters",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 1190,
   "Model": "17007632",
   "Country": "India"
 }

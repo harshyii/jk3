@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEQNSKG5MUUNKE",
   "title": "INGCO 360-Degree Medium Bristle Brush Shank: 1/4\" Hex...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 339,
   "mrp": 699,
   "product_url": "https://www.amazon.in/INGCO-360-Degree-Medium-Bristle-Brush/dp/B0H6J7YJ5D/ref=sr_1_111",
   "description": "360-Degree medium bristle brush Shank: 1/4\" Hex Ideal for cleaning: application: flooring, porcelain, granite, tile, carpet Packed by double blister",
@@ -48,6 +48,6 @@
   "Image": "https://m.media-amazon.com/images/I/81nLGdQd4RL.jpg | https://m.media-amazon.com/images/I/41B01+yUJdL.jpg | https://m.media-amazon.com/images/I/51CSrFW1eCL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "51.5%",
-  "SalePrice": 0
+  "Discount": 0.515,
+  "SalePrice": 339
 }

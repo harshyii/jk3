@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSRRZINHFIRZZ",
   "title": "Eastman Hacksaw Frame 12 Inch Set Of 1Pcs, Powder Coated,...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 255,
   "mrp": 577,
   "product_url": "https://www.amazon.in/Eastman-Hacksaw-Powder-Coated-Tubular/dp/B09F9CNTG9/ref=sr_1_93",
   "rating": "4.14.1 out of 5 stars(104)4.1 out of 5 stars",
@@ -72,7 +72,7 @@
   "Image": "https://m.media-amazon.com/images/I/51zDuLUG2TL.jpg | https://m.media-amazon.com/images/I/31+TGyzDZIL.jpg | https://m.media-amazon.com/images/I/51untHLQACL.jpg | https://m.media-amazon.com/images/I/31ubTDBZdGL.jpg | https://m.media-amazon.com/images/I/41k+VsLR8EL.jpg | https://m.media-amazon.com/images/I/31C+FvN3dSL.jpg | https://m.media-amazon.com/images/I/31SAJhVEteL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "55.81%",
-  "SalePrice": 0,
+  "Discount": 0.5581,
+  "SalePrice": 255,
   "Model": "E-2264_BCP"
 }

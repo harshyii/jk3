@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGMKOKNDUWNSH",
   "title": "Bosch 12 pieces Hand tool kit for wood and metal, with...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 2595,
   "mrp": 7447.650000000001,
   "product_url": "https://www.amazon.in/Bosch-Hand-Pieces-pieces-Combo/dp/B0C1NSGK6G/ref=sr_1_113",
   "description": "12 pcs handtool kit is a simple kit for your everyday needs. Along with handtools, the kit also contains screwdriver bits. The kit also contains some screwdriver bits for basic house needs. Item dimension: 253mm x 280mm x 45mm Material: Plastic, Color: Blue Item Dimension: 295mm x 300mm x 90mm Package Contents:1 insulation tape, 1 cutter, 1 wrench, 1 Electroprobe, 1 torch light, 1 hand screwdriver, 1 masonry drill bit, 1 combination plier, 1 measuring tape, 10 pcs of screwdriver bits, 1 Hammer, 8 pcs of Precision bits, 20 Dowel Plugs, 20 Screws No warranty is applicable on this product",
@@ -30,6 +30,6 @@
   "Image": "https://m.media-amazon.com/images/I/51ceudoLeEL.jpg | https://m.media-amazon.com/images/I/41oPafMEN3L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 2595
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOTSGKE2VMWCH",
   "title": "INGCO 4V Cordless Screwdriver 5N.m, LED Work Light, 260RPM,...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2300,
   "mrp": 5700,
   "product_url": "https://www.amazon.in/Cordless-Screwdriver-260RPM-Holder-Connector/dp/B0GNFQ5VXG/ref=sr_1_52",
   "rating": "4.04.0 out of 5 stars(3)4.0 out of 5 stars",
@@ -57,6 +57,6 @@
   "Image": "https://m.media-amazon.com/images/I/71IvBZShgQL.jpg | https://m.media-amazon.com/images/I/4172K97m0aL.jpg | https://m.media-amazon.com/images/I/51IqcveZbuL.jpg | https://m.media-amazon.com/images/I/51dJHhQU6sL.jpg | https://m.media-amazon.com/images/I/51tqH0UZDBL.jpg | https://m.media-amazon.com/images/I/41HqrjUwiCL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "59.65%",
-  "SalePrice": 0
+  "Discount": 0.5965,
+  "SalePrice": 2300
 }

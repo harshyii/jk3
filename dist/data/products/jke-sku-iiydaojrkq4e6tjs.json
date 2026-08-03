@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAOJRKQ4E6TJS",
   "title": "BLACK+DECKER A7200 109-Piece Drill Machine Bits &...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 2579,
   "mrp": 3729,
   "product_url": "https://www.amazon.in/BLACK-DECKER-A7200-XJ-Screwdriver-accessories/dp/B0091T8OM2/ref=sr_1_33",
   "rating": "4.64.6 out of 5 stars(10,233)4.6 out of 5 stars",
@@ -71,8 +71,8 @@
   "Image": "https://m.media-amazon.com/images/I/81ZRsX72oFL.jpg | https://m.media-amazon.com/images/I/41ZQqLkpVeL.jpg | https://m.media-amazon.com/images/I/61SC1ORbWuL.jpg | https://m.media-amazon.com/images/I/41N4f4oipML.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg | https://m.media-amazon.com/images/I/511noQ9H1IL.jpg | https://m.media-amazon.com/images/I/51PJn5K5btL.jpg | https://m.media-amazon.com/images/I/613liPXIxRL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "30.84%",
-  "SalePrice": 0,
+  "Discount": 0.3084,
+  "SalePrice": 2579,
   "Model": "A7200-XJ",
   "Country": "China"
 }

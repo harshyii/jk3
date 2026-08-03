@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCTSBJIYUYVZZ",
   "title": "Taparia 1984 Steel (100mm) Centre Punch Drift Punch (Grey)",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 110,
   "mrp": 315.7,
   "product_url": "https://www.amazon.in/Taparia-1984-Steel-100mm-Centre/dp/B01NAJ1LW9/ref=sr_1_30",
   "description": "Material: SteelColor: Grey Package Contents: 1-Piece Centre Punch Generally conforming to is 7177 - 1999 Length: 100 mm Material: Steel Country of Origin: India",
@@ -39,6 +39,6 @@
   "Image": "https://m.media-amazon.com/images/I/51Ro1QH24CL.jpg | https://m.media-amazon.com/images/I/31q2skGgD-L.jpg | https://m.media-amazon.com/images/I/31OVJAZKxdL.jpg | https://m.media-amazon.com/images/I/31PYviQrXPL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 110
 }

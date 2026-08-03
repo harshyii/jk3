@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIRZVJAZEOMKW",
   "title": "Taparia Machinist Hammer - MH 500 (500 g drop forged...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 379,
   "mrp": 380,
   "product_url": "https://www.amazon.in/Taparia-Machinist-Hammer-stirking-Professionals/dp/B0DG5H2G1V/ref=sr_1_170",
   "rating": "4.24.2 out of 5 stars(46)4.2 out of 5 stars",
@@ -58,6 +58,6 @@
   "Image": "https://m.media-amazon.com/images/I/51-Fup47nKL.jpg | https://m.media-amazon.com/images/I/31VoqqtWeRL.jpg | https://m.media-amazon.com/images/I/317bM88x9CL.jpg | https://m.media-amazon.com/images/I/31vbNQh5e4L.jpg | https://m.media-amazon.com/images/I/41pBojQdb1L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "0.26%",
-  "SalePrice": 0
+  "Discount": 0.0026,
+  "SalePrice": 379
 }

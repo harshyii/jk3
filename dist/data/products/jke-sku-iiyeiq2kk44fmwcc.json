@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIQ2KK44FMWCC",
   "title": "TAPARIA, 2 PC SCREWDRIVERS SET, 2 X PHILLIPS SCREWDRIVER,...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 329,
   "mrp": 350,
   "product_url": "https://www.amazon.in/SCREWDRIVERS-862-300-863-250/dp/B0DCJW8VXB/ref=sr_1_97",
   "rating": "5.05.0 out of 5 stars(2)5.0 out of 5 stars",
@@ -64,7 +64,7 @@
   "Image": "https://m.media-amazon.com/images/I/61hMCma4CHL.jpg | https://m.media-amazon.com/images/I/31MrbBNaEmL.jpg | https://m.media-amazon.com/images/I/21iUGzsx1LL.jpg | https://m.media-amazon.com/images/I/21mCSj2q4-L.jpg | https://m.media-amazon.com/images/I/31yI0rR+DTL.jpg",
   "StockQuantity": 0,
   "Unit": "2 Count",
-  "Discount": "6%",
-  "SalePrice": 0,
+  "Discount": 0.06,
+  "SalePrice": 329,
   "Model": "P6 862 300, P8 863 250"
 }

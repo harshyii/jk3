@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOTRWGRBUUMSY",
   "title": "FREEMANS 30m:13 mm Fibra Fibreglass Measuring Tape -...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 255,
   "mrp": 499,
   "product_url": "https://www.amazon.in/FREEMANS-Fibra-Fibreglass-Measuring-tape/dp/B07N64CJ2X/ref=sr_1_3",
   "rating": "4.44.4 out of 5 stars(1,864)4.4 out of 5 stars",
@@ -70,8 +70,8 @@
   "Image": "https://m.media-amazon.com/images/I/71iyKA4vqSL.jpg | https://m.media-amazon.com/images/I/31mVHlKFZRL.jpg | https://m.media-amazon.com/images/I/41UUGfd5oML.jpg | https://m.media-amazon.com/images/I/31pQk2Oa5vL.jpg | https://m.media-amazon.com/images/I/314YlE1TjIL.jpg | https://m.media-amazon.com/images/I/41GnIJCDCFL.jpg | https://m.media-amazon.com/images/I/41QUqkjCJtL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "48.9%",
-  "SalePrice": 0,
+  "Discount": 0.489,
+  "SalePrice": 255,
   "Model": "FB30",
   "Country": "India"
 }

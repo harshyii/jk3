@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQMSGJRFDSU2S",
   "title": "BLACK+DECKER KR554RE 550W 13mm Corded Variable Speed...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 1699,
   "mrp": 4876.13,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Variable-Reversible-Combination/dp/B082FLJ9SR/ref=sr_1_45",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/41qLACbKn4L.jpg | https://m.media-amazon.com/images/I/31F-jpViTcL.jpg | https://m.media-amazon.com/images/I/41WGtabfpGL.jpg | https://m.media-amazon.com/images/I/41dIGoqSckL.jpg | https://m.media-amazon.com/images/I/41NZskSbsfL.jpg | https://m.media-amazon.com/images/I/41qcydCYE+L.jpg | https://m.media-amazon.com/images/I/41YvcMOcHWL.jpg | https://m.media-amazon.com/images/I/41a+R3c71RL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 1699,
   "Model": "KR554RE"
 }

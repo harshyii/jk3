@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOM2TK5LUWV2K",
   "title": "Taparia UK-3 Steel (19mm) Blade Utility Knife (Silver)",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 250,
   "mrp": 717.5,
   "product_url": "https://www.amazon.in/Taparia-UK-3-Steel-Utility-Silver/dp/B073SWWKWJ/ref=sr_1_21",
   "rating": "4.34.3 out of 5 stars(2,458)4.3 out of 5 stars",
@@ -71,7 +71,7 @@
   "Image": "https://m.media-amazon.com/images/I/61bb9-7089L.jpg | https://m.media-amazon.com/images/I/21KXvj+uLyL.jpg | https://m.media-amazon.com/images/I/51WsOE7sPTL.jpg | https://m.media-amazon.com/images/I/21A67mk7ESL.jpg | https://m.media-amazon.com/images/I/214EHDgX--L.jpg | https://m.media-amazon.com/images/I/31TU44fA+eL.jpg | https://m.media-amazon.com/images/I/31kIQIDaRZL.jpg | https://m.media-amazon.com/images/I/319TgjiYMIL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 250,
   "Model": "UK-3"
 }

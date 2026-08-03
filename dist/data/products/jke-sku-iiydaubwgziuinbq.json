@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAUBWGZIUINBQ",
   "title": "TAPARIA AKM-9 Hex Allen Key Set",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 275,
   "mrp": 278,
   "product_url": "https://www.amazon.in/Taparia-AKM-9-Allen-Key-Set/dp/B00P66QD40/ref=sr_1_136",
   "rating": "4.24.2 out of 5 stars(1,425)4.2 out of 5 stars",
@@ -60,7 +60,7 @@
   "Image": "https://m.media-amazon.com/images/I/7116RUnA0lL.jpg | https://m.media-amazon.com/images/I/41twjJh0uxL.jpg | https://m.media-amazon.com/images/I/411reJ6wleL.jpg | https://m.media-amazon.com/images/I/31KHS9q1jOL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "1.08%",
-  "SalePrice": 0,
+  "Discount": 0.0108,
+  "SalePrice": 275,
   "Model": "AKM-9"
 }

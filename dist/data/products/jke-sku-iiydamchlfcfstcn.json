@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMCHLFCFSTCN",
   "title": "Bosch 85221MC 1/4 In. Carbide Tipped Double Flute Straight R",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 8485,
   "mrp": 8540,
   "product_url": "https://www.amazon.in/Bosch-85221MC-Carbide-Tipped-Straight/dp/B000GYDYLM/ref=sr_1_146",
   "rating": "3.73.7 out of 5 stars(2)3.7 out of 5 stars",
@@ -42,8 +42,8 @@
   "Image": "https://m.media-amazon.com/images/I/41+A5zAv2+L.jpg | https://m.media-amazon.com/images/I/21eplFv6HrL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "0.64%",
-  "SalePrice": 0,
+  "Discount": 0.0064,
+  "SalePrice": 8485,
   "Model": "85221MC",
   "Country": "USA"
 }

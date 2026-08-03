@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIUSKJVJVUNKU",
   "title": "INGCO Tungsten carbide rotary burrs set",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2347,
   "mrp": 4999,
   "product_url": "https://www.amazon.in/INGCO-Tungsten-carbide-rotary-burrs/dp/B0DRJMSZ5T/ref=sr_1_98",
   "description": "Tungsten carbide rotary burrs set5 Pcs/set (cylindrical shape,tree shape,cylindrical shape,ball shape,flame shape)Metarial:Tungsten Carbide Double CutShank:6mmHead size:8mmCarbide Burs are used for shaping, grinding and for the removal of sharp edges, burrs and excess material (deburring)Used on pneumatic or electric die grindersPacked by plastic box",
@@ -42,6 +42,6 @@
   "Image": "https://m.media-amazon.com/images/I/71EyVK20RJL.jpg | https://m.media-amazon.com/images/I/41BU8gQ-k0L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "53.05%",
-  "SalePrice": 0
+  "Discount": 0.5305,
+  "SalePrice": 2347
 }

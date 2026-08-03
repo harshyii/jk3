@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSVCCGRIFMRCI",
   "title": "Ingco 1/2\" Ratchet Wrench, Heavy Duty Ratchet Wrench, 260mm...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 820,
   "mrp": 1499,
   "product_url": "https://www.amazon.in/Ingco-Ratchet-Wrench-Heavy-Release/dp/B09TB4PVDH/ref=sr_1_85",
   "rating": "4.54.5 out of 5 stars(74)4.5 out of 5 stars",
@@ -54,7 +54,7 @@
   "Image": "https://m.media-amazon.com/images/I/71cKHoG+lrL.jpg | https://m.media-amazon.com/images/I/41YHUuubmVL.jpg | https://m.media-amazon.com/images/I/41lByOgkVOL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "45.3%",
-  "SalePrice": 0,
+  "Discount": 0.453,
+  "SalePrice": 820,
   "Model": "HRTH0812"
 }

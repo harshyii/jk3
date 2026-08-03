@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSU2RIRNEYNKW",
   "title": "Bosch GSB 500W 10 RE Professional Corded-Electric Drill...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 4949,
   "mrp": 9250,
   "product_url": "https://www.amazon.in/Bosch-Professional-Corded-Electric-Drill-Plastic/dp/B09SQDZL5V/ref=sr_1_116",
   "rating": "4.24.2 out of 5 stars(12)4.2 out of 5 stars",
@@ -60,6 +60,6 @@
   "Image": "https://m.media-amazon.com/images/I/51EqgYZi9lL.jpg | https://m.media-amazon.com/images/I/419xHfRFmtL.jpg | https://m.media-amazon.com/images/I/51ou-JIcsLL.jpg | https://m.media-amazon.com/images/I/51H1XoH+9QL.jpg | https://m.media-amazon.com/images/I/41pv9XwqluL.jpg | https://m.media-amazon.com/images/I/41DhpAO24LL.jpg | https://m.media-amazon.com/images/I/41Yd8alFXEL.jpg | https://m.media-amazon.com/images/I/31cwUAW48YL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "46.5%",
-  "SalePrice": 0
+  "Discount": 0.465,
+  "SalePrice": 4949
 }

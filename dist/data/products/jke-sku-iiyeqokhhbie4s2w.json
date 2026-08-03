@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEQOKHHBIE4S2W",
   "title": "Eastman EMSS270060TT | Tall Tubular | 250 AH Inverter...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 23499,
   "mrp": 32999,
   "product_url": "https://www.amazon.in/Eastman-EMSS270060TT-Tubular-Inverter-Warranty/dp/B0H9G8PNKV/ref=sr_1_150",
   "description": "*Capacity: 250Ah *Nominal Voltage: 12V *Battery Type: C20, Tall Tubular and Compatible with all inverter types (Square wave and Sine Wave). *Recommendable for home and office.Highly efficient battery which is ideal for heavy-duty application with excellent overcharge tolerance, superior cycle life, and minimum maintenance.",
@@ -49,7 +49,7 @@
   "Image": "https://m.media-amazon.com/images/I/51-vXmfK+aL.jpg | https://m.media-amazon.com/images/I/41qDPFhipJL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "28.79%",
-  "SalePrice": 0,
+  "Discount": 0.2879,
+  "SalePrice": 23499,
   "Model": "EMSS270072TT"
 }

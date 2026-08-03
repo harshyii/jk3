@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDORSSIQZFCTJT",
   "title": "Bosch Automotive A300H Rear Wiper Blade - 12 inches (Single)",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 3272.29,
   "mrp": 5235.66,
   "product_url": "https://www.amazon.in/Bosch-Automotive-A300H-Wiper-Blade/dp/B07FRD2QM3/ref=sr_1_180",
   "rating": "4.74.7 out of 5 stars(61,125)4.7 out of 5 stars",
@@ -63,8 +63,8 @@
   "Image": "https://m.media-amazon.com/images/I/618HDfQcLJL.jpg | https://m.media-amazon.com/images/I/31sV9bxBQlL.jpg | https://m.media-amazon.com/images/I/31K+HhdLrzL.jpg | https://m.media-amazon.com/images/I/21EL1YyAqYL.jpg | https://m.media-amazon.com/images/I/31zWLeovSXL.jpg | https://m.media-amazon.com/images/I/21p0xIZwUML.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "37.5%",
-  "SalePrice": 0,
+  "Discount": 0.375,
+  "SalePrice": 3272.29,
   "Model": "A300H",
   "Country": "USA"
 }

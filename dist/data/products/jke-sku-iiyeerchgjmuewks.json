@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEERCHGJMUEWKS",
   "title": "INGCO Test pencil",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 199,
   "mrp": 450,
   "product_url": "https://www.amazon.in/Ingco-INGCO-Test-pencil/dp/B0BDG2YBYR/ref=sr_1_55",
   "description": "INGCO Test pencil",
@@ -33,6 +33,6 @@
   "Image": "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg | https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "55.78%",
-  "SalePrice": 0
+  "Discount": 0.5578,
+  "SalePrice": 199
 }

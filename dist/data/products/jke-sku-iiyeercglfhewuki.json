@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEERCGLFHEWUKI",
   "title": "Ingco Li-Ion Cordless Drill, Yellow,Black",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2999,
   "mrp": 5999,
   "product_url": "https://www.amazon.in/Ingco-INGCO-Li-ion-cordless-drill/dp/B0BDFYNKQH/ref=sr_1_65",
   "rating": "5.05.0 out of 5 stars(2)5.0 out of 5 stars",
@@ -70,7 +70,7 @@
   "Image": "https://m.media-amazon.com/images/I/51x3eOP5+yL.jpg | https://m.media-amazon.com/images/I/41cTqjhaszL.jpg | https://m.media-amazon.com/images/I/51NnK2WT4YL.jpg | https://m.media-amazon.com/images/I/51wvV7J2FpL.jpg | https://m.media-amazon.com/images/I/41pA+nPRIWL.jpg | https://m.media-amazon.com/images/I/31+LTEk3-XL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Case",
-  "Discount": "50.01%",
-  "SalePrice": 0,
+  "Discount": 0.5001,
+  "SalePrice": 2999,
   "Model": "CDLI1211"
 }

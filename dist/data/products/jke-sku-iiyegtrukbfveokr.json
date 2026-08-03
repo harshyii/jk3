@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGTRUKBFVEOKR",
   "title": "Eastman EAC-25100 Basics Compact Portable 12V 100 PSI...",
   "brand": "Generic",
-  "current_price": 0,
+  "current_price": 2350,
   "mrp": 2800,
   "product_url": "https://www.amazon.in/Eastman-EAC-25100-Portable-Inflator-Carrying/dp/B0CN4PKR9Q/ref=sr_1_267",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -56,6 +56,6 @@
   "Image": "https://m.media-amazon.com/images/I/51-jlUfSTkL.jpg | https://m.media-amazon.com/images/I/41QQAUyQ+IL.jpg | https://m.media-amazon.com/images/I/41yiJtPBk0L.jpg | https://m.media-amazon.com/images/I/41qI9hdY0pL.jpg | https://m.media-amazon.com/images/I/41vMf6mWn9L.jpg | https://m.media-amazon.com/images/I/41hyxrFJPPL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "16.07%",
-  "SalePrice": 0
+  "Discount": 0.1607,
+  "SalePrice": 2350
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIRSUJNJUUUJU",
   "title": "INGCO Multi tool blade set, 23 PCS, Suitable for INGCO...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2842,
   "mrp": 6499,
   "product_url": "https://www.amazon.in/INGCO-Multi-Suitable-multi-function-oscillating/dp/B0DFTKSJQ4/ref=sr_1_53",
   "description": "Multi tool blade set23pcs/set10 Pcs 80mm sandpaper(P60,P80,P120,P180,P240)21Pcs Delta sanding Pad, size:80mm(3-1/8\"\")1Pcs 78mm Triangular carbide grout removal rasp1Pcs 88mm Half grout removal blade1Pcs 87mm Bi-Metal(M42) saw blade1Pcs 87mm Cr-V saw blade1Pcs 10x40mm Cr-V saw blade1Pcs 20x40mm Cr-V saw blade2Pcs 34x40mm Cr-V saw blade1Pcs 34x40mm Bi-metal(M42) saw blade1Pcs 65x50mm Bi-metal(M42) saw blade1Pcs 50mm flexible scraper1Pcs 50mm rigid scraperPacked by plastic box",
@@ -44,6 +44,6 @@
   "Image": "https://m.media-amazon.com/images/I/81GHBUEULVL.jpg | https://m.media-amazon.com/images/I/51X0qFyYz4L.jpg | https://m.media-amazon.com/images/I/51GhWfClOqL.jpg | https://m.media-amazon.com/images/I/41f2KNp2k1L.jpg | https://m.media-amazon.com/images/I/41GmEfzP-IL.jpg | https://m.media-amazon.com/images/I/41xpyA03jwL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "56.27%",
-  "SalePrice": 0
+  "Discount": 0.5627,
+  "SalePrice": 2842
 }

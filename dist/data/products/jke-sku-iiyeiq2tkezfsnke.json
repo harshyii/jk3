@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIQ2TKEZFSNKE",
   "title": "TAPARIA Half-Moon Spanners 12 x 13mm, Curved design Spanner...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 229,
   "mrp": 260,
   "product_url": "https://www.amazon.in/Half-Moon-Loosening-Tightening-Automotive-Industrial/dp/B0DCSQ2Y5D/ref=sr_1_157",
   "rating": "4.34.3 out of 5 stars(48)4.3 out of 5 stars",
@@ -55,6 +55,6 @@
   "Image": "https://m.media-amazon.com/images/I/51sCmszoV+L.jpg | https://m.media-amazon.com/images/I/319AnX+JgPL.jpg | https://m.media-amazon.com/images/I/31kK1WSC6qL.jpg | https://m.media-amazon.com/images/I/31lOlIA2HfL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "11.92%",
-  "SalePrice": 0
+  "Discount": 0.1192,
+  "SalePrice": 229
 }

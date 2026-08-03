@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAOCEJBNFQWJQ",
   "title": "STANLEY 1-93-981 Multi-Purpose Storage Box With 30 Small...",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 2049,
   "mrp": 2581,
   "product_url": "https://www.amazon.in/STANLEY-1-93-981-Storage-Box-Compartments/dp/B008DHZXY0/ref=sr_1_12",
   "rating": "4.14.1 out of 5 stars(18,181)4.1 out of 5 stars",
@@ -57,7 +57,7 @@
   "Image": "https://m.media-amazon.com/images/I/61tMIob5mGL.jpg | https://m.media-amazon.com/images/I/4102Ajh5JuL.jpg | https://m.media-amazon.com/images/I/51XFayNoTZL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "20.61%",
-  "SalePrice": 0,
+  "Discount": 0.2061,
+  "SalePrice": 2049,
   "Model": "1-93-981"
 }

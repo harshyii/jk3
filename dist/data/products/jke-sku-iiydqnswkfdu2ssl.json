@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNSWKFDU2SSL",
   "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 5434,
   "mrp": 15595.58,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Professional-154-Pieces-Reversible/dp/B086VQGMJK/ref=sr_1_68",
   "rating": "4.54.5 out of 5 stars(8)4.5 out of 5 stars",
@@ -54,6 +54,6 @@
   "Image": "https://m.media-amazon.com/images/I/51Y2SqI4DSL.jpg | https://m.media-amazon.com/images/I/31gwABB9uuL.jpg | https://m.media-amazon.com/images/I/511xB5r0plL.jpg | https://m.media-amazon.com/images/I/41MH4uS7ftL.jpg | https://m.media-amazon.com/images/I/41WGtabfpGL.jpg | https://m.media-amazon.com/images/I/41dIGoqSckL.jpg | https://m.media-amazon.com/images/I/41NZskSbsfL.jpg | https://m.media-amazon.com/images/I/41qcydCYE+L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 5434
 }

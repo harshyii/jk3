@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQUSSLE4VUQ2K",
   "title": "Eastman Recyclable Tall Tubular Conventional Inverter...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 11200,
   "mrp": 32144,
   "product_url": "https://www.amazon.in/Eastman-Tubular-Conventional-Recyclable-Inverter/dp/B08RRY9ZCJ/ref=sr_1_162",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -66,6 +66,6 @@
   "Image": "https://m.media-amazon.com/images/I/61OR7fCMn8L.jpg | https://m.media-amazon.com/images/I/51AmYgfVK4L.jpg | https://m.media-amazon.com/images/I/51gjAJnBHyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41rCfTerJyL.jpg | https://m.media-amazon.com/images/I/41RlxcQk8fL.jpg | https://m.media-amazon.com/images/I/411xzT+X2bL.jpg | https://m.media-amazon.com/images/I/31IVq5C-3rL.jpg | https://m.media-amazon.com/images/I/41uQ0krVgkL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 11200
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMRCLJU3TKM2N",
   "title": "Taparia Make, 50mm Single Side Bits of 1/4\" Hex Shank, S2...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 143,
   "mrp": 250,
   "product_url": "https://www.amazon.in/Taparia-Suitable-Professional-industrial-applications/dp/B0FDKM753M/ref=sr_1_216",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -53,7 +53,7 @@
   "Image": "https://m.media-amazon.com/images/I/61PT7LfKhuL.jpg | https://m.media-amazon.com/images/I/31c-zpRu0hL.jpg | https://m.media-amazon.com/images/I/21hFw5GHGlL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "42.8%",
-  "SalePrice": 0,
+  "Discount": 0.428,
+  "SalePrice": 143,
   "Model": "PZ1-50-1/4-S2"
 }

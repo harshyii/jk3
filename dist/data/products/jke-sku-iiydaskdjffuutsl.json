@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDASKDJFFUUTSL",
   "title": "STANLEY 51-152 Claw Hammer with Steel Shaft for Masonry,...",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 270,
   "mrp": 308,
   "product_url": "https://www.amazon.in/51-152-Woodwork-Fittings-Industrial-Professional/dp/B00ICIKJNK/ref=sr_1_7",
   "rating": "4.54.5 out of 5 stars(12,023)4.5 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/61qus9E7oEL.jpg | https://m.media-amazon.com/images/I/21NMnWd+wZL.jpg | https://m.media-amazon.com/images/I/51LivyaZtTL.jpg | https://m.media-amazon.com/images/I/51OA8lkbB1L.jpg | https://m.media-amazon.com/images/I/51Jqe3UhXqL.jpg | https://m.media-amazon.com/images/I/61tqnzsru3L.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "12.34%",
-  "SalePrice": 0,
+  "Discount": 0.1234,
+  "SalePrice": 270,
   "Model": "51-152"
 }

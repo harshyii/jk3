@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQRCWGNLDKR2M",
   "title": "BLACK+DECKER BDC24L 24 Litre Thermoelectric Pre-Cool...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 8099,
   "mrp": 13717,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Thermoelectric-Automotive-BDC24L-B1/dp/B08DV3V5GL/ref=sr_1_4",
   "rating": "3.43.4 out of 5 stars(473)3.4 out of 5 stars",
@@ -92,7 +92,7 @@
   "Image": "https://m.media-amazon.com/images/I/71un4ymporL.jpg | https://m.media-amazon.com/images/I/41jhPOFCSEL.jpg | https://m.media-amazon.com/images/I/61JCcaXXkVL.jpg | https://m.media-amazon.com/images/I/61UJbaS0WtL.jpg | https://m.media-amazon.com/images/I/41U7xC4pxxL.jpg | https://m.media-amazon.com/images/I/61okIrwSb1L.jpg | https://m.media-amazon.com/images/I/61L-1wSNvbL.jpg | https://m.media-amazon.com/images/I/41QL6j0lzlL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "40.96%",
-  "SalePrice": 0,
+  "Discount": 0.4096,
+  "SalePrice": 8099,
   "Model": "BDC24L-B1"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIUSZIRJUUSZW",
   "title": "Eastman EMSS220060TT | Tall Tubular | 220 AH Inverter...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 20699,
   "mrp": 29999,
   "product_url": "https://www.amazon.in/Eastman-EMSS220060TT-Tubular-Inverter-Warranty/dp/B0DRYDSJK6/ref=sr_1_46",
   "rating": "4.44.4 out of 5 stars(3)4.4 out of 5 stars",
@@ -66,7 +66,7 @@
   "Image": "https://m.media-amazon.com/images/I/71iLGKjK2ML.jpg | https://m.media-amazon.com/images/I/41oXaDm+VGL.jpg | https://m.media-amazon.com/images/I/51e3DZsZAyL.jpg | https://m.media-amazon.com/images/I/51GfzvBhPbL.jpg | https://m.media-amazon.com/images/I/51j32wrRuiL.jpg | https://m.media-amazon.com/images/I/41H5jDheetL.jpg | https://m.media-amazon.com/images/I/51MSuWT+foL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "31%",
-  "SalePrice": 0,
+  "Discount": 0.31,
+  "SalePrice": 20699,
   "Model": "EMSS220060TT"
 }

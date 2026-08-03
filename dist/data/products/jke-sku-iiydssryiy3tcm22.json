@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSSRYIY3TCM22",
   "title": "INGCO 3 in 1 Staple Gun, HSG1405",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 598,
   "mrp": 2099,
   "product_url": "https://www.amazon.in/Ingco-HSG1405-INGCO-Staple-Gun/dp/B09J8F713Z/ref=sr_1_34",
   "rating": "4.14.1 out of 5 stars(817)4.1 out of 5 stars",
@@ -61,6 +61,6 @@
   "Image": "https://m.media-amazon.com/images/I/71ffR9Cpn3L.jpg | https://m.media-amazon.com/images/I/41inFMUjX7L.jpg | https://m.media-amazon.com/images/I/51DvlceCsaL.jpg | https://m.media-amazon.com/images/I/41vNNANYGPL.jpg | https://m.media-amazon.com/images/I/41FX27bHtPL.jpg | https://m.media-amazon.com/images/I/417Fre73FfL.jpg | https://m.media-amazon.com/images/I/61gNqAajocL.jpg | https://m.media-amazon.com/images/I/51-dOSXdaGL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "71.51%",
-  "SalePrice": 0
+  "Discount": 0.7151,
+  "SalePrice": 598
 }

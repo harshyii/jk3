@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSVCYJRJFOUBR",
   "title": "Machinist Hammer, 300g | 45# Carbon Steel, Drop-forged...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 375,
   "mrp": 670,
   "product_url": "https://www.amazon.in/Drop-Forged-Hammerhead-Fiberglass-Construction-Woodworking/dp/B09TXLRWP1/ref=sr_1_79",
   "description": "Weight：300gDrop-forged hammerheadHeat treatment, 45# carbon steelINGCO Style Fiberglass handle",
@@ -33,6 +33,6 @@
   "Image": "https://m.media-amazon.com/images/I/61PUTSkdK-L.jpg | https://m.media-amazon.com/images/I/31dHPjmxqoL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "44.03%",
-  "SalePrice": 0
+  "Discount": 0.4403,
+  "SalePrice": 375
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDONK2LBEFSWCT",
   "title": "Stanley Rogers Meat Fork 31,5 cm, Shapely Design, Stainless...",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 4390,
   "mrp": 9867.6,
   "product_url": "https://www.amazon.in/Stanley-Rogers-Shapely-Stainless-Satin-Finished/dp/B075ZXHYXS/ref=sr_1_95",
   "rating": "4.64.6 out of 5 stars(175)4.6 out of 5 stars",
@@ -61,6 +61,6 @@
   "Image": "https://m.media-amazon.com/images/I/51Kx4z7KZ+L.jpg | https://m.media-amazon.com/images/I/219mmeOAB6L.jpg | https://m.media-amazon.com/images/I/61mERkSdHoL.jpg | https://m.media-amazon.com/images/I/51P8S6ldWlL.jpg | https://m.media-amazon.com/images/I/51mIOr+lrCL.jpg | https://m.media-amazon.com/images/I/51H6IUrqj0L.jpg | https://m.media-amazon.com/images/I/51FwhgSV8pL.jpg | https://m.media-amazon.com/images/I/41o33eStC+L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "55.51%",
-  "SalePrice": 0
+  "Discount": 0.5551,
+  "SalePrice": 4390
 }

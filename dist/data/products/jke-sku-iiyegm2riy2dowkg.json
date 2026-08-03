@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGM2RIY2DOWKG",
   "title": "INGCO Insulated Screwdriver, 1000V, VDE Certification, for...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 182,
   "mrp": 699,
   "product_url": "https://www.amazon.in/Insulated-Screwdriver-Certification-Maintenance-Decoration/dp/B0C3QF47YF/ref=sr_1_81",
   "description": "Insulated",
@@ -35,6 +35,6 @@
   "Image": "https://m.media-amazon.com/images/I/51gKv-YHgSL.jpg | https://m.media-amazon.com/images/I/315hgq22LgL.jpg | https://m.media-amazon.com/images/I/31XEM+7erhL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "73.96%",
-  "SalePrice": 0
+  "Discount": 0.7396,
+  "SalePrice": 182
 }

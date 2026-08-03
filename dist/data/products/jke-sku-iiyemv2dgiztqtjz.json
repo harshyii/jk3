@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMV2DGIZTQTJZ",
   "title": "INICIO 180 in 1 Precision Screwdriver Set With 144 CR-V...",
   "brand": "Inicio",
-  "current_price": 0,
+  "current_price": 2499,
   "mrp": 4999,
   "product_url": "https://www.amazon.in/INICIO-Screwdriver-Professional-Maintenance-Electronics/dp/B0FWC238M9/ref=sr_1_193",
   "rating": "3.03.0 out of 5 stars(2)3.0 out of 5 stars",
@@ -65,6 +65,6 @@
   "Image": "https://m.media-amazon.com/images/I/71+wYAh+teL.jpg | https://m.media-amazon.com/images/I/51Irtlm46xL.jpg | https://m.media-amazon.com/images/I/41g+kFKbpxL.jpg | https://m.media-amazon.com/images/I/51GAhcKuRdL.jpg | https://m.media-amazon.com/images/I/51oRQcr24wL.jpg | https://m.media-amazon.com/images/I/51DBnzgoqML.jpg | https://m.media-amazon.com/images/I/51yW+H4yvoL.jpg | https://m.media-amazon.com/images/I/51qEOD60HSL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "50.01%",
-  "SalePrice": 0
+  "Discount": 0.5001,
+  "SalePrice": 2499
 }

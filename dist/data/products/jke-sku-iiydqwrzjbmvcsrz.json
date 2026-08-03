@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQWRZJBMVCSRZ",
   "title": "Bosch Standard Screwdriver Set (Green & Black) - 38 Pieces",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 1274,
   "mrp": 3656.38,
   "product_url": "https://www.amazon.in/Bosch-Screwdriver-38-Pieces-Hand-pieces/dp/B08Z9HYQJ9/ref=sr_1_120",
   "rating": "4.14.1 out of 5 stars(12)4.1 out of 5 stars",
@@ -58,6 +58,6 @@
   "Image": "https://m.media-amazon.com/images/I/51s5XpnmSQL.jpg | https://m.media-amazon.com/images/I/413ujOfpePL.jpg | https://m.media-amazon.com/images/I/51NIARttB7L.jpg | https://m.media-amazon.com/images/I/41Qdq5STNBL.jpg | https://m.media-amazon.com/images/I/51rOKs8Q6PL.jpg | https://m.media-amazon.com/images/I/414SI5wmIJL.jpg | https://m.media-amazon.com/images/I/3176Vf8-YXL.jpg",
   "StockQuantity": 0,
   "Unit": "38 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 1274
 }

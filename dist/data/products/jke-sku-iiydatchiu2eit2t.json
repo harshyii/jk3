@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDATCHIU2EIT2T",
   "title": "Taparia 904 Steel Two In One Screw Driver (Green And...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 99,
   "mrp": 284.13,
   "product_url": "https://www.amazon.in/Taparia-904-Steel-Driver-Silver/dp/B00LGE4DOS/ref=sr_1_88",
   "rating": "4.24.2 out of 5 stars(687)4.2 out of 5 stars",
@@ -57,7 +57,7 @@
   "Image": "https://m.media-amazon.com/images/I/51IOTodgwTL.jpg | https://m.media-amazon.com/images/I/21m1sAddYLL.jpg | https://m.media-amazon.com/images/I/31No5LL0qxL.jpg",
   "StockQuantity": 0,
   "Unit": "20 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 99,
   "Model": "904"
 }

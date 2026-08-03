@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCMCNGVFDIVCL",
   "title": "Freemans Sn15 Steel Leatherette 15 M:9",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 421,
   "mrp": 599,
   "product_url": "https://www.amazon.in/Freemans-SN15-Steel-Leatherette-Measuring/dp/B010M5J4TK/ref=sr_1_58",
   "rating": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
@@ -43,8 +43,8 @@
   "Image": "https://m.media-amazon.com/images/I/71VlPzzpQaL.jpg | https://m.media-amazon.com/images/I/51llOnx0krL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "29.72%",
-  "SalePrice": 0,
+  "Discount": 0.2972,
+  "SalePrice": 421,
   "Model": "Tc",
   "Country": "India"
 }

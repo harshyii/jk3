@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOSZTGVLDKQ2O",
   "title": "BLACK+DECKER 20V MAX* Cordless Drill, Cordless (BCD702C1)",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 11660,
   "mrp": 13992,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Cordless-Drill-BCD702C1/dp/B07K35V5CN/ref=sr_1_76",
   "rating": "4.64.6 out of 5 stars(3,005)4.6 out of 5 stars",
@@ -76,7 +76,7 @@
   "Image": "https://m.media-amazon.com/images/I/61MABj9E5AL.jpg | https://m.media-amazon.com/images/I/31mOPADIHIL.jpg | https://m.media-amazon.com/images/I/51p0x5B1OVL.jpg | https://m.media-amazon.com/images/I/51AXhJ700bL.jpg | https://m.media-amazon.com/images/I/51Pt6IazUtL.jpg | https://m.media-amazon.com/images/I/51U+qxyBd4L.jpg | https://m.media-amazon.com/images/I/51t3K+lxJVL.jpg | https://m.media-amazon.com/images/I/41kF32xDF5L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "16.67%",
-  "SalePrice": 0,
+  "Discount": 0.1667,
+  "SalePrice": 11660,
   "Model": "BCD702C1"
 }

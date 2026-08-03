@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOUZVJJBVMV2S",
   "title": "Taparia CTR16 Crimping Tool - 1.25 to 16mm Capacity,...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 999,
   "mrp": 1180,
   "product_url": "https://www.amazon.in/Taparia-CTR16-Crimping-Tool-Non-Insulated/dp/B0GS5JCVWR/ref=sr_1_217",
   "rating": "5.05.0 out of 5 stars(2)5.0 out of 5 stars",
@@ -65,7 +65,7 @@
   "Image": "https://m.media-amazon.com/images/I/61TuIN8tzgL.jpg | https://m.media-amazon.com/images/I/31eebRfiIlL.jpg | https://m.media-amazon.com/images/I/31dsg2XVs4L.jpg | https://m.media-amazon.com/images/I/31iqfG4VzOL.jpg | https://m.media-amazon.com/images/I/4151zqytwSL.jpg | https://m.media-amazon.com/images/I/415dL6WfY7L.jpg | https://m.media-amazon.com/images/I/41a6O5f-kZL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "15.34%",
-  "SalePrice": 0,
+  "Discount": 0.1534,
+  "SalePrice": 999,
   "Model": "CTR 16"
 }

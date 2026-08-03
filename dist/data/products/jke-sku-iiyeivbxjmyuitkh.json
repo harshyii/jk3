@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIVBXJMYUITKH",
   "title": "Eastman 5kW Grid Tie Solar Inverter | Three Phase On-Grid...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 22599,
   "mrp": 64859.13,
   "product_url": "https://www.amazon.in/Residential-Monitoring-Lightweight-Efficiency-Protection/dp/B0DT7K1DMG/ref=sr_1_181",
   "description": "Low start up DC voltage and Max. DC overloading 30%. Low Startup DC Voltage. Anti-islanding protection. Eastman Solar App for Remote Monitoring 24x7. Wide AC Voltage Range. IP65 Protection. Easy installation with low maintenance. BIS certified.",
@@ -47,7 +47,7 @@
   "Image": "https://m.media-amazon.com/images/I/51ND72eB04L.jpg | https://m.media-amazon.com/images/I/31AqUSr3NRL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 22599,
   "Model": "GTI 5KW.3P2M, 5 KW"
 }

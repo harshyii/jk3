@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOSSGGFIUMWKQ",
   "title": "Eastman EM LIB 320 Smart Lithium-Ion Inverter Battery 25.6V...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 43878,
   "mrp": 51999,
   "product_url": "https://www.amazon.in/LIB-320-Lithium-Ion-Replacement-Maintenance/dp/B0GJF1QFYP/ref=sr_1_272",
   "description": "This smart lithium-ion inverter battery is a modern and efficient energy storage solution for homes, offices, and shops. It delivers reliable backup power with stable performance for everyday electricity needs. Designed for universal compatibility, it works seamlessly with all inverters and serves as a hassle-free replacement for traditional lead-acid batteries. With zero maintenance, no water refilling, and no acid handling, it offers a cleaner and safer power backup experience. Built with advanced lithium technology, it supports fast charging, long life cycles, and improved energy efficiency—helping reduce long-term costs. Its compact design and dependable performance make it an ideal choice for uninterrupted and worry-free power support.",
@@ -50,6 +50,6 @@
   "Image": "https://m.media-amazon.com/images/I/61NH1zL68VL.jpg | https://m.media-amazon.com/images/I/41J8Rsl9uaL.jpg | https://m.media-amazon.com/images/I/510XOUxg6YL.jpg | https://m.media-amazon.com/images/I/51is6jGnVcL.jpg | https://m.media-amazon.com/images/I/41A8oROm3ML.jpg | https://m.media-amazon.com/images/I/51huAwiHsPL.jpg | https://m.media-amazon.com/images/I/518d0dZtXkL.jpg | https://m.media-amazon.com/images/I/51XoIGwtOoL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "15.62%",
-  "SalePrice": 0
+  "Discount": 0.1562,
+  "SalePrice": 43878
 }

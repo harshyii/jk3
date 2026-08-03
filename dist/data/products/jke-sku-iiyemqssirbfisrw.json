@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMQSSIRBFISRW",
   "title": "Eastman EM15048JST | Jumbo Short Tubular | 150AH Inverter...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 11200,
   "mrp": 16390,
   "product_url": "https://www.amazon.in/Eastman-EM15048JST-Tubular-Inverter-Warranty/dp/B0FBRDBTJ6/ref=sr_1_48",
   "rating": "3.73.7 out of 5 stars(3)3.7 out of 5 stars",
@@ -68,8 +68,8 @@
   "Image": "https://m.media-amazon.com/images/I/7137X5Hb20L.jpg | https://m.media-amazon.com/images/I/41mhsxCjM+L.jpg | https://m.media-amazon.com/images/I/5159KaQBa1L.jpg | https://m.media-amazon.com/images/I/51w--gipmiL.jpg | https://m.media-amazon.com/images/I/512dkfpGyFL.jpg | https://m.media-amazon.com/images/I/41H5jDheetL.jpg | https://m.media-amazon.com/images/I/515LkjqjP0L.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "31.67%",
-  "SalePrice": 0,
+  "Discount": 0.3167,
+  "SalePrice": 11200,
   "Model": "EM15048JST",
   "Country": "India"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEVCUGNMDMNJV",
   "title": "Bosch Front Load Washing Machine Liquid Detergent - 1.8 L",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 529,
   "mrp": 1518.23,
   "product_url": "https://www.amazon.in/Bosch-Washing-Machine-Liquid-Detergent/dp/B0BTT3X655/ref=sr_1_11",
   "rating": "4.44.4 out of 5 stars(1,803)4.4 out of 5 stars",
@@ -73,8 +73,8 @@
   "Image": "https://m.media-amazon.com/images/I/61BWJgDTXrL.jpg | https://m.media-amazon.com/images/I/31kLIJQfAgL.jpg | https://m.media-amazon.com/images/I/61rvVAlE3qL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/31qBd01iNlL.jpg | https://m.media-amazon.com/images/I/41Q2ezFoHAL.jpg | https://m.media-amazon.com/images/I/41Vp1-a7zcL.jpg | https://m.media-amazon.com/images/I/41tvckIpmcL.jpg | https://m.media-amazon.com/images/I/41fnXeygh2L.jpg",
   "StockQuantity": 0,
   "Unit": "1800.0 Milliliters",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 529,
   "Model": "17007418",
   "Country": "India"
 }

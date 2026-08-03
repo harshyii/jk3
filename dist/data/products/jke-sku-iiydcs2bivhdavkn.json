@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCS2BIVHDAVKN",
   "title": "Eastman 41059 Universal Ss Dishwasher Installation Kit",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 3058.44,
   "mrp": 4893.5,
   "product_url": "https://www.amazon.in/Eastman-41059-Universal-Dishwasher-Installation/dp/B01KAEN0UM/ref=sr_1_303",
   "rating": "4.74.7 out of 5 stars(283)4.7 out of 5 stars",
@@ -64,6 +64,6 @@
   "Image": "https://m.media-amazon.com/images/I/81KfbCS-PyL.jpg | https://m.media-amazon.com/images/I/41KvDCw-Z4L.jpg | https://m.media-amazon.com/images/I/41sXgx85BAL.jpg | https://m.media-amazon.com/images/I/519iY3ZG5iL.jpg | https://m.media-amazon.com/images/I/51DpeAx1XIL.jpg | https://m.media-amazon.com/images/I/51v8lWl7uVL.jpg | https://m.media-amazon.com/images/I/51IcFAFUqdL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "37.5%",
-  "SalePrice": 0
+  "Discount": 0.375,
+  "SalePrice": 3058.44
 }

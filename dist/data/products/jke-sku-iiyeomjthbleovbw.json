@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOMJTHBLEOVBW",
   "title": "Estaman E-2052 10″ Adjustable Wrench 250mm | Heavy-Duty...",
   "brand": "Generic",
-  "current_price": 0,
+  "current_price": 280,
   "mrp": 400,
   "product_url": "https://www.amazon.in/Adjustable-Heavy-Duty-Precision-Corrosion-Resistant-Industrial/dp/B0G138VGT6/ref=sr_1_256",
   "description": "The Estaman E-2052 10-Inch Adjustable Wrench is a versatile and rugged hand tool designed for demanding industrial and maintenance tasks. Crafted from chrome-vanadium steel, it offers both strength and precision for gripping, turning, and loosening a variety of sizes without needing multiple fixed wrenches. Its smooth adjustment mechanism and ergonomic handle provide control and comfort, while the corrosion-resistant finish ensures long-lasting performance in harsh environments. Perfect for professionals in workshops, mechanics, fitters, and serious DIY enthusiasts.",
@@ -59,7 +59,7 @@
   "Image": "https://m.media-amazon.com/images/I/41ckjs9RqGL.jpg | https://m.media-amazon.com/images/I/31+f7-iXk8L.jpg | https://m.media-amazon.com/images/I/31BeBuX-xIL.jpg | https://m.media-amazon.com/images/I/517+C6fJPAL.jpg | https://m.media-amazon.com/images/I/41c7UrtT-XL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "30%",
-  "SalePrice": 0,
+  "Discount": 0.3,
+  "SalePrice": 280,
   "Model": "E-2052_10/250MM"
 }

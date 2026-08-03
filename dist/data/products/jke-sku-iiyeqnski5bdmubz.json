@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEQNSKI5BDMUBZ",
   "title": "INGCO Square to Hex Adapter Shank Size: 1/2\" Square ABH60501",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 499,
   "product_url": "https://www.amazon.in/INGCO-Square-Adapter-Shank-Size/dp/B0H6JGB6P9/ref=sr_1_31",
   "description": "Shank size: 1/2\" square Drive size: 1/4\" Hex Overall length: 2\"(50mm) Socket adapter transform impact wrench into impact drivers with square hex bits Packed by double blister",
@@ -47,7 +47,7 @@
   "Image": "https://m.media-amazon.com/images/I/71tq9GsGGUL.jpg | https://m.media-amazon.com/images/I/41nydMHW57L.jpg | https://m.media-amazon.com/images/I/41vm6HhyF8L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "50.1%",
-  "SalePrice": 0,
+  "Discount": 0.501,
+  "SalePrice": 249,
   "Model": "ABH60501"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIVBUGNLVQS2S",
   "title": "INGCO Cordless circular saw",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 7999,
   "mrp": 12999,
   "product_url": "https://www.amazon.in/Ingco-CSLI1652-INGCO-Cordless-circular/dp/B0DT43WXKR/ref=sr_1_80",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -68,7 +68,7 @@
   "Image": "https://m.media-amazon.com/images/I/81tzXMe7CqL.jpg | https://m.media-amazon.com/images/I/41olqmmfLdL.jpg | https://m.media-amazon.com/images/I/51tcLhn8wVL.jpg | https://m.media-amazon.com/images/I/51Sg8a+Q2FL.jpg | https://m.media-amazon.com/images/I/510ggIYwVmL.jpg | https://m.media-amazon.com/images/I/51keVoPeIpL.jpg | https://m.media-amazon.com/images/I/516FN0c0RaL.jpg | https://m.media-amazon.com/images/I/51wUucZehJL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "38.46%",
-  "SalePrice": 0,
+  "Discount": 0.3846,
+  "SalePrice": 7999,
   "Model": "CSLI1652"
 }

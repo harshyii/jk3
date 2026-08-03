@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNKGLI4TCU2N",
   "title": "STANLEY SFMCB100-XJ Adaptador V20 18V",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 10853,
   "mrp": 20750.4,
   "product_url": "https://www.amazon.in/STANLEY-SFMCB100-XJ-Adaptador-V20-18V/dp/B085FZ91SM/ref=sr_1_64",
   "description": "Permite utilizar baterías del sistema V20 LITHIUM-ION 18V con las herramientas 18V del anterior sistema sin cable de STANLEY FATMAX.- Compatible sólo con las baterías V20 LITHIUM-ION 18V de 1,5Ah y 2Ah.",
@@ -48,6 +48,6 @@
   "Image": "https://m.media-amazon.com/images/I/81jS5ONochL.jpg | https://m.media-amazon.com/images/I/41Nx3B-NH9L.jpg | https://m.media-amazon.com/images/I/41GOUEC8m6L.jpg | https://m.media-amazon.com/images/I/41uVVe7JmGL.jpg | https://m.media-amazon.com/images/I/41u9XaqBaVL.jpg | https://m.media-amazon.com/images/I/41f3Jat8mNL.jpg | https://m.media-amazon.com/images/I/41+2sdcFkQL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "47.7%",
-  "SalePrice": 0
+  "Discount": 0.477,
+  "SalePrice": 10853
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAVSXJI2UKNKP",
   "title": "BOSCH GLM 40 Professional Laser Distance Measurer |...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 5280,
   "mrp": 6999,
   "product_url": "https://www.amazon.in/BOSCH-Professional-Versatile-Measuring-Batteries/dp/B00VWJ5E5O/ref=sr_1_32",
   "rating": "4.34.3 out of 5 stars(5,765)4.3 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/61dT4L4YAXL.jpg | https://m.media-amazon.com/images/I/412wYBfvDJL.jpg | https://m.media-amazon.com/images/I/41H6cVya1AL.jpg | https://m.media-amazon.com/images/I/51q2JUK6wIL.jpg | https://m.media-amazon.com/images/I/411AkfYgi9L.jpg | https://m.media-amazon.com/images/I/5120DmcptLL.jpg | https://m.media-amazon.com/images/I/51RJLt8S8cL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "24.56%",
-  "SalePrice": 0,
+  "Discount": 0.2456,
+  "SalePrice": 5280,
   "Model": "2608658671"
 }

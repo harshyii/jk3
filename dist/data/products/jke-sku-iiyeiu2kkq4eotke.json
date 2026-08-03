@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIU2KKQ4EOTKE",
   "title": "Eastman EM1560SSR | Eastman 150Ah Smart Solar Battery |...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 19876,
   "mrp": 25699,
   "product_url": "https://www.amazon.in/Eastman-EM1560SSR-Battery-Warranty-Months/dp/B0DSJT8GMD/ref=sr_1_190",
   "description": "Nominal Voltage: 12V *Battery Type: C10, Tall Tubular and Compatible with Off-Grid and Hybrid Solar Power System Low cost of ownership. Low water loss and less fumes generation. Lowest electricity consumtion in recharging. Easy recovery after idle period.",
@@ -51,6 +51,6 @@
   "Image": "https://m.media-amazon.com/images/I/5128QRtt7SL.jpg | https://m.media-amazon.com/images/I/31s1jrLwRUL.jpg | https://m.media-amazon.com/images/I/41-8ON5340L.jpg | https://m.media-amazon.com/images/I/41o7x9f05PL.jpg | https://m.media-amazon.com/images/I/41yjkxPpCQL.jpg | https://m.media-amazon.com/images/I/41fPuC79Q3L.jpg | https://m.media-amazon.com/images/I/51yxfErs0vL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "22.66%",
-  "SalePrice": 0
+  "Discount": 0.2266,
+  "SalePrice": 19876
 }

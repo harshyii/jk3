@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEINJTJIZVGU2S",
   "title": "INGCO Soldering Iron, 60W Soldering Machine, Portable...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 782,
   "mrp": 999,
   "product_url": "https://www.amazon.in/Soldering-Machine-Portable-Replaceble-Electric/dp/B0D53J3SSR/ref=sr_1_82",
   "rating": "3.83.8 out of 5 stars(14)3.8 out of 5 stars",
@@ -66,6 +66,6 @@
   "Image": "https://m.media-amazon.com/images/I/51ZX3-x-aLL.jpg | https://m.media-amazon.com/images/I/31ElLy6xkKL.jpg | https://m.media-amazon.com/images/I/41386YBD3SL.jpg | https://m.media-amazon.com/images/I/4169+PXQRqL.jpg | https://m.media-amazon.com/images/I/51ozfAB9PaL.jpg | https://m.media-amazon.com/images/I/415uIznkKdL.jpg | https://m.media-amazon.com/images/I/41c8DJkGDEL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "21.72%",
-  "SalePrice": 0
+  "Discount": 0.2172,
+  "SalePrice": 782
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQMSQGVFFGNRY",
   "title": "Inditrust Mounted Stone Cylinder Head Nail Abrasive Rotary...",
   "brand": "Inditrust",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 500,
   "product_url": "https://www.amazon.in/Inditrust-Cylinder-Abrasive-Polishing-Grinding/dp/B082P5JS68/ref=sr_1_13",
   "rating": "3.53.5 out of 5 stars(127)3.5 out of 5 stars",
@@ -60,6 +60,6 @@
   "Image": "https://m.media-amazon.com/images/I/51Zz5VAljSL.jpg | https://m.media-amazon.com/images/I/51Zz5VAljSL.jpg | https://m.media-amazon.com/images/I/51f+YFwM1rL.jpg | https://m.media-amazon.com/images/I/511zcN3L2bL.jpg | https://m.media-amazon.com/images/I/51-uB1jz10L.jpg | https://m.media-amazon.com/images/I/511HLxvVJWL.jpg | https://m.media-amazon.com/images/I/61iVcGJ0XDL.jpg",
   "StockQuantity": 0,
   "Unit": "10 Count",
-  "Discount": "50.2%",
-  "SalePrice": 0
+  "Discount": 0.502,
+  "SalePrice": 249
 }

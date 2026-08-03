@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMMSUHFKFOS2G",
   "title": "Eastman EM400P | Tall Tubular | 400 AH Inverter Battery...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 40999,
   "mrp": 51999,
   "product_url": "https://www.amazon.in/Eastman-EM400P-Tubular-Inverter-Warranty/dp/B0F2T9TWKF/ref=sr_1_305",
   "description": "*Capacity: 400Ah *Nominal Voltage: 12V *Battery Type: C20, Tall Tubular and Compatible with all inverter types (Square wave and Sine Wave). *Recommendable for home and office.Highly efficient battery which is ideal for heavy-duty application with excellent overcharge tolerance, superior cycle life, and minimum maintenance.",
@@ -66,7 +66,7 @@
   "Image": "https://m.media-amazon.com/images/I/71f2UjxYRHL.jpg | https://m.media-amazon.com/images/I/41aPBsnC6FL.jpg | https://m.media-amazon.com/images/I/613Nc+IjkgL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51k6m+WSTML.jpg | https://m.media-amazon.com/images/I/51j9grSjj0L.jpg | https://m.media-amazon.com/images/I/51KL6XXG5NL.jpg | https://m.media-amazon.com/images/I/41H5jDheetL.jpg | https://m.media-amazon.com/images/I/51Shvk8fIdL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "21.15%",
-  "SalePrice": 0,
+  "Discount": 0.2115,
+  "SalePrice": 40999,
   "Model": "EM400P"
 }

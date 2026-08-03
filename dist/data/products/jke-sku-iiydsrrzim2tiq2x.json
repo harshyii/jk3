@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSRRZIM2TIQ2X",
   "title": "Eastman L-Handle 1/2 (12.7) 450 mm, CRV Steel Fully...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 450,
   "mrp": 1291.5,
   "product_url": "https://www.amazon.in/Eastman-L-Handle-Polished-Hardened-Automotive/dp/B09F9C54CW/ref=sr_1_8",
   "rating": "4.54.5 out of 5 stars(391)4.5 out of 5 stars",
@@ -67,7 +67,7 @@
   "Image": "https://m.media-amazon.com/images/I/51TxBuQeDpL.jpg | https://m.media-amazon.com/images/I/31kAb0GXfdL.jpg | https://m.media-amazon.com/images/I/51iHEPi0r9L.jpg | https://m.media-amazon.com/images/I/41U9kD3Y2dL.jpg | https://m.media-amazon.com/images/I/319tkRHqPwL.jpg | https://m.media-amazon.com/images/I/41P9RJjGWtL.jpg | https://m.media-amazon.com/images/I/31MKPjJmysL.jpg | https://m.media-amazon.com/images/I/31H1m7VTH6L.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 450,
   "Model": "E-2211_1/2(12.7)_450"
 }

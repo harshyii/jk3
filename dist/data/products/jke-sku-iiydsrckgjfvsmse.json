@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSRCKGJFVSMSE",
   "title": "BLACK+DECKER BHFEA18D1, Stick Vacuum, Gray",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 32437.74,
   "mrp": 51900.39,
   "product_url": "https://www.amazon.in/BLACK-DECKER-BHFEA18D1-Stick-Vacuum/dp/B09DJ2KY2D/ref=sr_1_60",
   "rating": "4.24.2 out of 5 stars(2,508)4.2 out of 5 stars",
@@ -87,7 +87,7 @@
   "Image": "https://m.media-amazon.com/images/I/61lj3B8vhjL.jpg | https://m.media-amazon.com/images/I/318DZvZjwiL.jpg | https://m.media-amazon.com/images/I/418JVKcKaHL.jpg | https://m.media-amazon.com/images/I/41dhoRPvFHL.jpg | https://m.media-amazon.com/images/I/51WM-XOHBNL.jpg | https://m.media-amazon.com/images/I/51Fw0Anpq+L.jpg | https://m.media-amazon.com/images/I/51xKMin1zPL.jpg | https://m.media-amazon.com/images/I/41yrRO9mXPL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "37.5%",
-  "SalePrice": 0,
+  "Discount": 0.375,
+  "SalePrice": 32437.74,
   "Country": "USA"
 }

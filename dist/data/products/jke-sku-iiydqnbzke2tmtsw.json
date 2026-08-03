@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNBZKE2TMTSW",
   "title": "Inditrust 1/4 Inch Square Drive Ratchet Wrench – Anti-Slip...",
   "brand": "Inditrust",
-  "current_price": 0,
+  "current_price": 299,
   "mrp": 600,
   "product_url": "https://www.amazon.in/Inditrust-Inches-Anti-slip-Hand-grip-Ratchet/dp/B0849Q56NV/ref=sr_1_20",
   "rating": "3.53.5 out of 5 stars(360)3.5 out of 5 stars",
@@ -56,6 +56,6 @@
   "Image": "https://m.media-amazon.com/images/I/41IE0n7l9wL.jpg | https://m.media-amazon.com/images/I/31xWDdLPPyL.jpg | https://m.media-amazon.com/images/I/31wxFO1gezL.jpg | https://m.media-amazon.com/images/I/31ZCPA8wE+L.jpg | https://m.media-amazon.com/images/I/31GlrRQTe6L.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "50.17%",
-  "SalePrice": 0
+  "Discount": 0.5017,
+  "SalePrice": 299
 }

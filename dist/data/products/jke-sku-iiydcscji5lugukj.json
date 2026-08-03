@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCSCJI5LUGUKJ",
   "title": "BLACK+DECKER LB700 7 Amp Corded Blower (Red & Black)",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 11977.11,
   "mrp": 19163.38,
   "product_url": "https://www.amazon.in/BLACK-DECKER-LB700-Corded-Blower/dp/B01HIGWCQI/ref=sr_1_38",
   "rating": "4.64.6 out of 5 stars(29,080)4.6 out of 5 stars",
@@ -64,7 +64,7 @@
   "Image": "https://m.media-amazon.com/images/I/61EDm2plHWL.jpg | https://m.media-amazon.com/images/I/315cGtGwG6L.jpg | https://m.media-amazon.com/images/I/41V8bMsQ6-L.jpg | https://m.media-amazon.com/images/I/61lKzP-mzlL.jpg | https://m.media-amazon.com/images/I/61PNwJnHYaL.jpg | https://m.media-amazon.com/images/I/510Ezvh-9NL.jpg | https://m.media-amazon.com/images/I/41yx1AfD+gL.jpg | https://m.media-amazon.com/images/I/41qA3hkkMML.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "37.5%",
-  "SalePrice": 0,
+  "Discount": 0.375,
+  "SalePrice": 11977.11,
   "Model": "LBL700"
 }

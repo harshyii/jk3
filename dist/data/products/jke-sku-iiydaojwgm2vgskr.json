@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAOJWGM2VGSKR",
   "title": "BLACK+DECKER Wet and Dry Vacuum Cleaner with Blower (Red...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 11802,
   "mrp": 15000,
   "product_url": "https://www.amazon.in/Black-Decker-WV1400-1800-Watt-Cleaner/dp/B009635SIQ/ref=sr_1_36",
   "rating": "3.63.6 out of 5 stars(50)3.6 out of 5 stars",
@@ -55,6 +55,6 @@
   "Image": "https://m.media-amazon.com/images/I/51RWE1zg7mL.jpg | https://m.media-amazon.com/images/I/31t2DviWl0L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "21.32%",
-  "SalePrice": 0
+  "Discount": 0.2132,
+  "SalePrice": 11802
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIUZYJZMDCRSX",
   "title": "Eastman EM12072SB | Eastman 120Ah Tall Tubular Solar...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 16499,
   "mrp": 26999,
   "product_url": "https://www.amazon.in/Eastman-EM12072SB-Tubular-Battery-Warranty/dp/B0DS8NX1FW/ref=sr_1_163",
   "description": "Lowest electricity consumtion in recharging. Easy recovery after idle period. Low cost of ownership. Low water loss and less fumes generation. 5% estra capacity and backup WRT rated capacity.",
@@ -52,6 +52,6 @@
   "Image": "https://m.media-amazon.com/images/I/51yMeLUEuVL.jpg | https://m.media-amazon.com/images/I/41b6kRug86L.jpg | https://m.media-amazon.com/images/I/41qwzQ94PXL.jpg | https://m.media-amazon.com/images/I/41TvfE8HMEL.jpg | https://m.media-amazon.com/images/I/417m0aPgnyL.jpg | https://m.media-amazon.com/images/I/41fPuC79Q3L.jpg | https://m.media-amazon.com/images/I/51cAcNWRvnL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "38.89%",
-  "SalePrice": 0
+  "Discount": 0.3889,
+  "SalePrice": 16499
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEWSZJBGFMNCZ",
   "title": "Bosch 360 Degree Small Gun Model:F016F05131 for High...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 1000,
   "mrp": 1147,
   "product_url": "https://www.amazon.in/Bosch-360-Degree-Small-Model/dp/B0BZYHLV4Y/ref=sr_1_27",
   "description": "360° all-round outdoor cleaning. Compatible with only All EasyAquatak, UniversalAquatak, AQT 33-10, AQT 33-11, AQT 35-12, AQT 37-13, AQT 40-13, AQT 42-13 35-12, AQT 37-13, AQT 40-13, AQT 45-14 X",
@@ -53,6 +53,6 @@
   "Image": "https://m.media-amazon.com/images/I/51YlePkfgfL.jpg | https://m.media-amazon.com/images/I/31jXm73kLkL.jpg | https://m.media-amazon.com/images/I/51KuKoElPwL.jpg | https://m.media-amazon.com/images/I/51yQs0ugj9L.jpg | https://m.media-amazon.com/images/I/41xqOu1XHLL.jpg | https://m.media-amazon.com/images/I/41l+FG81rHL.jpg | https://m.media-amazon.com/images/I/61jwGiviN2L.jpg | https://m.media-amazon.com/images/I/51xYAWFSZ3L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "12.82%",
-  "SalePrice": 0
+  "Discount": 0.1282,
+  "SalePrice": 1000
 }

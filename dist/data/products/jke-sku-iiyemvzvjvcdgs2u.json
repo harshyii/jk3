@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMVZVJVCDGS2U",
   "title": "Taparia HBCD 118 Hacksaw Blades 300mm 18 TPI (Pack of...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 159,
   "mrp": 185,
   "product_url": "https://www.amazon.in/Taparia-Hacksaw-Design-High-Wood-Plumbers-Workshops/dp/B0FW5MD3KT/ref=sr_1_72",
   "rating": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
@@ -56,8 +56,8 @@
   "Image": "https://m.media-amazon.com/images/I/511FFOexqHL.jpg | https://m.media-amazon.com/images/I/21AxLjfZA2L.jpg | https://m.media-amazon.com/images/I/11njSxz0v8L.jpg | https://m.media-amazon.com/images/I/21Oibc0gMbL.jpg",
   "StockQuantity": 0,
   "Unit": "5 Count",
-  "Discount": "14.05%",
-  "SalePrice": 0,
+  "Discount": 0.1405,
+  "SalePrice": 159,
   "Model": "HBCD118/P5",
   "Country": "India"
 }

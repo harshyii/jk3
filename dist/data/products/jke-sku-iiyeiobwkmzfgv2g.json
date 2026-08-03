@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIOBWKMZFGV2G",
   "title": "INGCO 7 Pcs Pliers Set, CR-V, Labor-saving Structural...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 3117,
   "mrp": 6319,
   "product_url": "https://www.amazon.in/Pliers-Labor-saving-Structural-Design-improvement/dp/B0D86S2SWF/ref=sr_1_25",
   "rating": "4.34.3 out of 5 stars(22)4.3 out of 5 stars",
@@ -58,6 +58,6 @@
   "Image": "https://m.media-amazon.com/images/I/81nIzCfhkwL.jpg | https://m.media-amazon.com/images/I/51HjtMT4-tL.jpg | https://m.media-amazon.com/images/I/418cchsnNaL.jpg | https://m.media-amazon.com/images/I/4185f1hKqtL.jpg | https://m.media-amazon.com/images/I/41nW7cID+lL.jpg | https://m.media-amazon.com/images/I/512UW6A9ekL.jpg | https://m.media-amazon.com/images/I/514sTmWk5lL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "50.67%",
-  "SalePrice": 0
+  "Discount": 0.5067,
+  "SalePrice": 3117
 }

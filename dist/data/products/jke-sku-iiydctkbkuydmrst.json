@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCTKBKUYDMRST",
   "title": "Eastman Iron Screw Driver, Green",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 259,
   "mrp": 384,
   "product_url": "https://www.amazon.in/Eastman-Iron-Screw-Driver-Green/dp/B01MAU06FS/ref=sr_1_202",
   "description": "Easy to use, lightweight, thickness is 6mm and length is 150mm, this is a standard which you can use in home and industries. Branded and best quality ever.,",
@@ -34,6 +34,6 @@
   "Image": "https://m.media-amazon.com/images/I/21RPxZHYubL.jpg | https://m.media-amazon.com/images/I/21RPxZHYubL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "32.55%",
-  "SalePrice": 0
+  "Discount": 0.3255,
+  "SalePrice": 259
 }

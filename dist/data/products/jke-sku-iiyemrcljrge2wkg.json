@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMRCLJRGE2WKG",
   "title": "Taparia Make, 50mm Double Side Bits of 1/4\" Hex Shank, S2...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 199,
   "mrp": 250,
   "product_url": "https://www.amazon.in/Taparia-Suitable-Professional-industrial-applications/dp/B0FDKLLMYF/ref=sr_1_70",
   "description": "Taparia Make,50 mm Double Side Bits of 1/4\" Hex Shank, S2 Grade, Of Tip Size Ph2 x SL 6 Can be used by Hand as well as Power tool for screw fastening. This versatile product is a great addition to your tool box, The double-ended bit allows for quick switching between Phillips and slotted screw heads without having to change bits. its can be used for various applications cand can be used for. home improvement,DIY projectsand Professional use. Its High-quality is designed to last, withstanding repeated use and preventing damage to the screw heads.",
@@ -50,6 +50,6 @@
   "Image": "https://m.media-amazon.com/images/I/61K7nDwqegL.jpg | https://m.media-amazon.com/images/I/31+C3mD0VqL.jpg | https://m.media-amazon.com/images/I/21afYn2MzyL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "20.4%",
-  "SalePrice": 0
+  "Discount": 0.204,
+  "SalePrice": 199
 }

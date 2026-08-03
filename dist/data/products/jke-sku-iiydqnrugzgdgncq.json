@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNRUGZGDGNCQ",
   "title": "BLACK+DECKER MT218K-GB 18V 10mm Li-ion Cordless Multi-Evo...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 6779,
   "mrp": 10600,
   "product_url": "https://www.amazon.in/BLACK-DECKER-MT218K-GB-Starter-Masonry/dp/B08646L34P/ref=sr_1_47",
   "rating": "5.05.0 out of 5 stars(3)5.0 out of 5 stars",
@@ -66,7 +66,7 @@
   "Image": "https://m.media-amazon.com/images/I/41u1BiGSWjL.jpg | https://m.media-amazon.com/images/I/31hs3tRf+YL.jpg | https://m.media-amazon.com/images/I/41Y-cewkbcL.jpg | https://m.media-amazon.com/images/I/41pzDuK4eaL.jpg | https://m.media-amazon.com/images/I/411xRDot9wL.jpg | https://m.media-amazon.com/images/I/41Ckxvg49dL.jpg | https://m.media-amazon.com/images/I/31+a+0KDywL.jpg | https://m.media-amazon.com/images/I/31Xbfttjq+L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "36.05%",
-  "SalePrice": 0,
+  "Discount": 0.3605,
+  "SalePrice": 6779,
   "Model": "MT218K"
 }

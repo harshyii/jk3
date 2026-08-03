@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQM2ILJCEONSL",
   "title": "Bosch Professional 34-piece Bosch Blue X-Line titanium set.",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 1169,
   "mrp": 1294,
   "product_url": "https://www.amazon.in/Bosch-Professional-34-piece-X-Line-titanium/dp/B083HZDG6K/ref=sr_1_58",
   "description": "Bosch is the leading manufacturer of accessories for power tools. The rich tradition of manufacturing has been built on excellent quality and customer’s benefit. Today, Bosch is the top supplier of an extensive and universal range of accessories for all applications, target groups and all brands of power tools. We are pioneers in the manufacturing of jigsaw blades, sabre saw blades, hammer drill bits, chisels and circular saw blades. We are also leading manufacturers of Bonded Abrasives, Holesaws, Coated abrasives, Metal Cutting and Grinding wheels, Metal Drill Bits and screwdriver bits. With more than 8000 products, Bosch offers everything from a single source – a complete range in outstanding product quality.",
@@ -48,6 +48,6 @@
   "Image": "https://m.media-amazon.com/images/I/919pbn0KCqS.jpg | https://m.media-amazon.com/images/I/51U6IZ4XX0S.jpg | https://m.media-amazon.com/images/I/51lvTudBjiS.jpg | https://m.media-amazon.com/images/I/515YtRMp8zS.jpg | https://m.media-amazon.com/images/I/41d9tgQ9cfL.jpg | https://m.media-amazon.com/images/I/41tjEjNEEVS.jpg | https://m.media-amazon.com/images/I/51CNZEssv1S.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "9.66%",
-  "SalePrice": 0
+  "Discount": 0.0966,
+  "SalePrice": 1169
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOUKTGU3VIURT",
   "title": "Inditrust 18'' Double Ground Nickel Chromium Steel Hacksaw...",
   "brand": "Inditrust",
-  "current_price": 0,
+  "current_price": 334,
   "mrp": 500,
   "product_url": "https://www.amazon.in/Inditrust-Powerful-Professionals-Craftsmen-Yellow/dp/B07QS57TR3/ref=sr_1_24",
   "rating": "3.93.9 out of 5 stars(199)3.9 out of 5 stars",
@@ -63,6 +63,6 @@
   "Image": "https://m.media-amazon.com/images/I/61OdHaUfmXL.jpg | https://m.media-amazon.com/images/I/31QQW33hSQL.jpg | https://m.media-amazon.com/images/I/31siCNlsNzL.jpg | https://m.media-amazon.com/images/I/31vfVDHDBiL.jpg | https://m.media-amazon.com/images/I/316uKQ2tFpL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "33.2%",
-  "SalePrice": 0
+  "Discount": 0.332,
+  "SalePrice": 334
 }

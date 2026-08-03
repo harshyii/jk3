@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGTRUJBLTOUKT",
   "title": "Eastman/JRS Drive Pointed CHISELS 30X400 MM - Pack of 2 Pcs...",
   "brand": "Generic",
-  "current_price": 0,
+  "current_price": 2150,
   "mrp": 3000,
   "product_url": "https://www.amazon.in/Eastman-Drive-Pointed-CHISELS-30X400/dp/B0CN4HW7QS/ref=sr_1_269",
   "rating": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
@@ -47,6 +47,6 @@
   "Image": "https://m.media-amazon.com/images/I/517haq83s-L.jpg | https://m.media-amazon.com/images/I/310KN5lmFDL.jpg | https://m.media-amazon.com/images/I/41x2eIHnjiL.jpg | https://m.media-amazon.com/images/I/41so2XtihRL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Set",
-  "Discount": "28.33%",
-  "SalePrice": 0
+  "Discount": 0.2833,
+  "SalePrice": 2150
 }

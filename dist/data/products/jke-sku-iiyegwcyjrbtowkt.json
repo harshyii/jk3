@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGWCYJRBTOWKT",
   "title": "INGCO 20V Cordless Hammer Drill, 850RPM, Φ16 in Concrete,...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 5999,
   "mrp": 9999,
   "product_url": "https://www.amazon.in/Ingco-Cordless-Machine-Function-Multicolour/dp/B0CXXLC7YS/ref=sr_1_23_mod_primary_new",
   "description": "This INGCO electric hammer drill adopts a cordless design, which is lightweight and convenient, reducing the work burden. It is very suitable for wall drilling, ceiling installation, etc. Switch between the two functions with the simple turn of a button. Stepless speed switches can help adapt to different materials. Drilling machine has built-in LED lighting, which can clearly illuminate the working environment The handle of drill machine has protective rubber, making it more comfortable to use. [INGCO WARRANTY] INGCO products have a six-month warranty, if you have any questions, feel free to contact us, we will answer you as soon as possible.",
@@ -48,6 +48,6 @@
   "Image": "https://m.media-amazon.com/images/I/71JwbEgItEL.jpg | https://m.media-amazon.com/images/I/51NhkVvQIpL.jpg | https://m.media-amazon.com/images/I/51IKoqziZvL.jpg | https://m.media-amazon.com/images/I/41ydvQgPbWL.jpg | https://m.media-amazon.com/images/I/51FdekCepSL.jpg | https://m.media-amazon.com/images/I/515n5HLoyOL.jpg | https://m.media-amazon.com/images/I/41CabJ02JzL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "40%",
-  "SalePrice": 0
+  "Discount": 0.4,
+  "SalePrice": 5999
 }

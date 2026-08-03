@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMTSMKFDEMNSQ",
   "title": "Eastman Omega+ 1000VA/12V Pure Sine Wave Inverter | Zero...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 6690,
   "mrp": 8100,
   "product_url": "https://www.amazon.in/Omega-1000VA-12V-Compatible-Batteries/dp/B0FNLQFF6P/ref=sr_1_27",
   "rating": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
@@ -61,8 +61,8 @@
   "Image": "https://m.media-amazon.com/images/I/61Cn6xHpTnL.jpg | https://m.media-amazon.com/images/I/41qcj5Kp8GL.jpg | https://m.media-amazon.com/images/I/51kLDxr89sL.jpg | https://m.media-amazon.com/images/I/41Wm8nW8KiL.jpg | https://m.media-amazon.com/images/I/41cqzmH2oxL.jpg | https://m.media-amazon.com/images/I/51AQiZ5SQgL.jpg | https://m.media-amazon.com/images/I/41nh+SIfPYL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "17.41%",
-  "SalePrice": 0,
+  "Discount": 0.1741,
+  "SalePrice": 6690,
   "Model": "Omega+ 1000VA/12V",
   "Country": "India"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGNSRJY3UQRRV",
   "title": "Bosch Hand Blender",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 3051,
   "mrp": 4200,
   "product_url": "https://www.amazon.in/Bosch-MS1BG1120I-Hand-Blender/dp/B0C6QN7HF5/ref=sr_1_145",
   "rating": "4.24.2 out of 5 stars(18)4.2 out of 5 stars",
@@ -70,7 +70,7 @@
   "Image": "https://m.media-amazon.com/images/I/61vZwLKzLDL.jpg | https://m.media-amazon.com/images/I/31VnCCMVHrL.jpg | https://m.media-amazon.com/images/I/31TRnLf5Q4L.jpg | https://m.media-amazon.com/images/I/31UbvRDeHTL.jpg | https://m.media-amazon.com/images/I/31Fct2moWYL.jpg | https://m.media-amazon.com/images/I/31k3bVl7EFL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "27.36%",
-  "SalePrice": 0,
+  "Discount": 0.2736,
+  "SalePrice": 3051,
   "Model": "MS1BG1120I"
 }

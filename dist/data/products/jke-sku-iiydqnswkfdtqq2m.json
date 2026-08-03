@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNSWKFDTQQ2M",
   "title": "BOSCH Professional GSB 500 RE Corded-Electric Drill Tool...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 4648,
   "mrp": 7815,
   "product_url": "https://www.amazon.in/BOSCH-Professional-Corded-Electric-Drill-Warranty/dp/B086VQG8CL/ref=sr_1_107",
   "rating": "4.34.3 out of 5 stars(105)4.3 out of 5 stars",
@@ -65,6 +65,6 @@
   "Image": "https://m.media-amazon.com/images/I/51Ld-Q60vrL.jpg | https://m.media-amazon.com/images/I/41QgRLkL3oL.jpg | https://m.media-amazon.com/images/I/41crq3T0pAL.jpg | https://m.media-amazon.com/images/I/517P1vhZUuL.jpg | https://m.media-amazon.com/images/I/41w-IjkQ4dL.jpg | https://m.media-amazon.com/images/I/41cjM9DCsoL.jpg | https://m.media-amazon.com/images/I/31XnQllJ3eL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "40.52%",
-  "SalePrice": 0
+  "Discount": 0.4052,
+  "SalePrice": 4648
 }

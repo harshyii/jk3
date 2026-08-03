@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCQKJKJBVUTSZ",
   "title": "Freemans Plastic And Aluminium Ikon 5 M:19 Mm Measuring...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 300,
   "mrp": 499,
   "product_url": "https://www.amazon.in/FREEMANS-Ikon-5m-Measuring-Spirit/dp/B01AIRCZNY/ref=sr_1_64",
   "rating": "4.14.1 out of 5 stars(61)4.1 out of 5 stars",
@@ -64,8 +64,8 @@
   "Image": "https://m.media-amazon.com/images/I/51tJ8q+kJOL.jpg | https://m.media-amazon.com/images/I/41iRUXhGYbL.jpg | https://m.media-amazon.com/images/I/413-fn1QPBL.jpg | https://m.media-amazon.com/images/I/41qJhcyge1L.jpg | https://m.media-amazon.com/images/I/41hShPTXvnL.jpg | https://m.media-amazon.com/images/I/41fSnfyky0L.jpg | https://m.media-amazon.com/images/I/41uCmkLf4-L.jpg | https://m.media-amazon.com/images/I/416zp7FyB1L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "39.88%",
-  "SalePrice": 0,
+  "Discount": 0.3988,
+  "SalePrice": 300,
   "Model": "IK5:19 + BSL230",
   "Country": "India"
 }

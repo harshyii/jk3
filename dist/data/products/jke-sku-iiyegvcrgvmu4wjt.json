@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGVCRGVMU4WJT",
   "title": "INGCO Stapler, 3 in 1 Nail Gun with 600 Staples, for Wood,...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 610,
   "mrp": 850,
   "product_url": "https://www.amazon.in/INGCO-Stapler-Nail-Staples-Furniture/dp/B0CTQ5YNY3/ref=sr_1_7",
   "rating": "4.04.0 out of 5 stars(629)4.0 out of 5 stars",
@@ -63,6 +63,6 @@
   "Image": "https://m.media-amazon.com/images/I/71c8Sr-lPQL.jpg | https://m.media-amazon.com/images/I/41u4CTqYosL.jpg | https://m.media-amazon.com/images/I/A1gWoJwdF4L.png | https://m.media-amazon.com/images/I/418vBrMqdwL.jpg | https://m.media-amazon.com/images/I/51nuQcgANUL.jpg | https://m.media-amazon.com/images/I/51JWgu1MVgL.jpg | https://m.media-amazon.com/images/I/51JtEFr5IVL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "28.24%",
-  "SalePrice": 0
+  "Discount": 0.2824,
+  "SalePrice": 610
 }

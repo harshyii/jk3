@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQMSCI5ITGWSR",
   "title": "Stanley Best 8KL3626 8K 2-3/4\" Dead Latch Satin Chrome...",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 16942,
   "mrp": 48623.54,
   "product_url": "https://www.amazon.in/Stanley-Best-8KL3626-Chrome-Finish/dp/B082BGQ3ZQ/ref=sr_1_75",
   "description": "Stanley Best 8KL3626 8K 2-3/4\" Dead Latch Satin Chrome Finish. This product is made in China and manufactured by Stanley Best.",
@@ -40,6 +40,6 @@
   "Image": "https://m.media-amazon.com/images/I/51Z+H-jJXkL.jpg | https://m.media-amazon.com/images/I/31Z5sHDEJpL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 16942
 }

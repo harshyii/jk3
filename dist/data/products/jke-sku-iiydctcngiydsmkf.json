@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCTCNGIYDSMKF",
   "title": "0-60-209 Essential Screwdriver Set of 6 PH/SL",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 23893.06,
   "mrp": 26921.7,
   "product_url": "https://www.amazon.in/0-60-209-Essential-Screwdriver-Set-PH/dp/B01LM2091E/ref=sr_1_66",
   "rating": "4.64.6 out of 5 stars(88)4.6 out of 5 stars",
@@ -53,7 +53,7 @@
   "Image": "https://m.media-amazon.com/images/I/81VTh7ELc1L.jpg | https://m.media-amazon.com/images/I/51GUkio-0BL.jpg | https://m.media-amazon.com/images/I/411FqF4O-yL.jpg",
   "StockQuantity": 0,
   "Unit": "6 Count",
-  "Discount": "11.25%",
-  "SalePrice": 0,
+  "Discount": 0.1125,
+  "SalePrice": 23893.06,
   "Model": "STA060209"
 }

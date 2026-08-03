@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAUSYKVAUISJU",
   "title": "Freemans MS05 Max Steel Pause Plus Lock Measuring Tape 5m x...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 299,
   "product_url": "https://www.amazon.in/Freemans-MS05-Steel-Pause-Measuring/dp/B00RXUADI4/ref=sr_1_53",
   "rating": "4.24.2 out of 5 stars(125)4.2 out of 5 stars",
@@ -52,8 +52,8 @@
   "Image": "https://m.media-amazon.com/images/I/71yaivso1UL.jpg | https://m.media-amazon.com/images/I/41piO9zOa+L.jpg | https://m.media-amazon.com/images/I/41kv1gqOFWL.jpg | https://m.media-amazon.com/images/I/31S3i6XQV0L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "16.72%",
-  "SalePrice": 0,
+  "Discount": 0.1672,
+  "SalePrice": 249,
   "Model": "MS05",
   "Country": "India"
 }

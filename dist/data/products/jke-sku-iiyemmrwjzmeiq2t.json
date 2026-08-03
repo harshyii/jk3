@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMMRWJZMEIQ2T",
   "title": "Eastman Zero Chip Blade 110x8x1.4x20mm – Ultra-Precision...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 1350,
   "mrp": 2700,
   "product_url": "https://www.amazon.in/Eastman-Zero-Chip-Blade-110x8x1-4x20mm/dp/B0F26NXDCS/ref=sr_1_304",
   "description": "The Eastman Zero Chip Blade 110x8x1.4x20mm is a high-precision diamond cutting tool designed for ultra-smooth, chip-free cutting of tiles, granite, marble, glass, and other delicate materials. Engineered with premium-grade diamond segments, it ensures exceptional sharpness, durability, and efficiency, delivering clean and precise cuts with minimal material wastage. The zero-chip technology prevents chipping and edge damage, making it ideal for fine, detailed, and high-finish cutting applications. With its super-thin 1.4mm thickness, this blade enables fast and effortless cutting, reducing resistance and heat buildup for longer blade life. The universal 20mm arbor size ensures compatibility with most angle grinders and tile saws, providing seamless performance for professionals and DIY users. Whether used for construction, renovation, or home improvement projects, the Eastman Zero Chip Blade guarantees high precision, smooth operation, and long-lasting performance, making it an essential tool for every craftsman.",
@@ -45,6 +45,6 @@
   "Image": "https://m.media-amazon.com/images/I/61wSVxHuwgL.jpg | https://m.media-amazon.com/images/I/51d1NcrDd8L.jpg | https://m.media-amazon.com/images/I/41QQoyrwvlL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Set",
-  "Discount": "50%",
-  "SalePrice": 0
+  "Discount": 0.5,
+  "SalePrice": 1350
 }

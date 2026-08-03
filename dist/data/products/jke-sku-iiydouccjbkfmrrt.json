@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOUCCJBKFMRRT",
   "title": "Stanley Classic Vacuum Food Jar .94L (Hammertone Green)",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 23577,
   "mrp": 28655,
   "product_url": "https://www.amazon.in/Stanley-Classic-Vacuum-Hammertone-Green/dp/B07PBHTVF3/ref=sr_1_39_mod_primary_new",
   "rating": "4.64.6 out of 5 stars(581)4.6 out of 5 stars",
@@ -74,6 +74,6 @@
   "Image": "https://m.media-amazon.com/images/I/71F877vcO-L.jpg | https://m.media-amazon.com/images/I/41V4WSsNXiL.jpg | https://m.media-amazon.com/images/I/31YzZ9jJyTL.jpg | https://m.media-amazon.com/images/I/31e2jXLdFML.jpg | https://m.media-amazon.com/images/I/51cPJRIy5mL.jpg | https://m.media-amazon.com/images/I/51Mfj1mcWrL.jpg | https://m.media-amazon.com/images/I/41UDOOl70ML.jpg | https://m.media-amazon.com/images/I/41WUSeKICYL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "17.72%",
-  "SalePrice": 0
+  "Discount": 0.1772,
+  "SalePrice": 23577
 }

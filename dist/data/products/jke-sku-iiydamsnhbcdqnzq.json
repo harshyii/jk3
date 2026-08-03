@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMSNHBCDQNZQ",
   "title": "Bosch 85225MC 3/8 In. x 1 In. Carbide-Tipped Double-Flute...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 4014,
   "mrp": 11520.18,
   "product_url": "https://www.amazon.in/Bosch-85225MC-Carbide-Tipped-Double-Flute-Straight/dp/B002M8D870/ref=sr_1_194",
   "rating": "4.34.3 out of 5 stars(29)4.3 out of 5 stars",
@@ -47,8 +47,8 @@
   "Image": "https://m.media-amazon.com/images/I/61YKZ37jaqL.jpg | https://m.media-amazon.com/images/I/41GRRws1BOL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 4014,
   "Model": "85225MC",
   "Country": "USA"
 }

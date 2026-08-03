@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAM2BK5HDERSV",
   "title": "Bosch Wiper Blade 9 Inch - H230",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 3018,
   "mrp": 8661.66,
   "product_url": "https://www.amazon.in/BOSCH-Rear-Wiper-Blade-H230/dp/B003AWN2FU/ref=sr_1_166",
   "rating": "4.64.6 out of 5 stars(16,675)4.6 out of 5 stars",
@@ -58,8 +58,8 @@
   "Image": "https://m.media-amazon.com/images/I/711ySu16+cL.jpg | https://m.media-amazon.com/images/I/31Fe4qvLY-L.jpg | https://m.media-amazon.com/images/I/11oKqs3ebRL.jpg | https://m.media-amazon.com/images/I/41hxVMPrBlL.jpg | https://m.media-amazon.com/images/I/21-DNlB+HDL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 3018,
   "Model": "H230",
   "Country": "USA"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSWCHJRJTQVCX",
   "title": "INGCO Screwdriver bit",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 259,
   "mrp": 329,
   "product_url": "https://www.amazon.in/Ingco-INGCO-Screwdriver-bit/dp/B09XGLS8TW/ref=sr_1_94",
   "rating": "3.63.6 out of 5 stars(7)3.6 out of 5 stars",
@@ -50,7 +50,7 @@
   "Image": "https://m.media-amazon.com/images/I/71lIjGmnCkL.jpg | https://m.media-amazon.com/images/I/41KGHmNWj9L.jpg",
   "StockQuantity": 0,
   "Unit": "10 Count",
-  "Discount": "21.28%",
-  "SalePrice": 0,
+  "Discount": 0.2128,
+  "SalePrice": 259,
   "Model": "SDB21HL133"
 }

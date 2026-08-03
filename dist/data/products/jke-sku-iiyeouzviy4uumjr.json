@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOUZVIY4UUMJR",
   "title": "Taparia CTR06 Crimping Tool - 0.5 to 6mm Capacity, 5-Point...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 999,
   "mrp": 1180,
   "product_url": "https://www.amazon.in/Taparia-CTR06-Crimping-Tool-Non-Insulated/dp/B0GS5F9J11/ref=sr_1_279",
   "rating": "1.01.0 out of 5 stars(1)1.0 out of 5 stars",
@@ -65,7 +65,7 @@
   "Image": "https://m.media-amazon.com/images/I/61WZNMp147L.jpg | https://m.media-amazon.com/images/I/31XraaQ2j3L.jpg | https://m.media-amazon.com/images/I/31+n5dePbjL.jpg | https://m.media-amazon.com/images/I/41YXS-n-82L.jpg | https://m.media-amazon.com/images/I/41yjo1h9GoL.jpg | https://m.media-amazon.com/images/I/41EkIRhKTnL.jpg | https://m.media-amazon.com/images/I/41vteOJkT0L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "15.34%",
-  "SalePrice": 0,
+  "Discount": 0.1534,
+  "SalePrice": 999,
   "Model": "CTR 06"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOS2UGFBVSMRS",
   "title": "Bosch GLM 40 Pouch Professional – Durable, Long-Lasting...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 320,
   "mrp": 918.4000000000001,
   "product_url": "https://www.amazon.in/Bosch-GLM-40-Pouch/dp/B07KT1CY22/ref=sr_1_20",
   "rating": "4.34.3 out of 5 stars(1,521)4.3 out of 5 stars",
@@ -71,8 +71,8 @@
   "Image": "https://m.media-amazon.com/images/I/7113VAjbBXL.jpg | https://m.media-amazon.com/images/I/41MyZ7gMHEL.jpg | https://m.media-amazon.com/images/I/412YnblLnTL.jpg | https://m.media-amazon.com/images/I/51SmGOmPdbL.jpg | https://m.media-amazon.com/images/I/41GuUKiyICL.jpg | https://m.media-amazon.com/images/I/418KkRKiCnL.jpg | https://m.media-amazon.com/images/I/51kyLVYw+ML.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 320,
   "Model": "2609160194",
   "Country": "India"
 }

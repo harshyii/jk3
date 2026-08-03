@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEMJYI5FTCTRU",
   "title": "Black + Decker Bepw2200 2000W 2175 Psi 150 Bar Pressure...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 10499,
   "mrp": 19929,
   "product_url": "https://www.amazon.in/DECKER-BEPW2200-Pressure-Black-Warranty/dp/B0B18GK1N4/ref=sr_1_20",
   "rating": "4.04.0 out of 5 stars(479)4.0 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/71HPRadmu2L.jpg | https://m.media-amazon.com/images/I/41p6Z98O1SL.jpg | https://m.media-amazon.com/images/I/61CFLYcyccL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/61z-IVz1zdL.jpg | https://m.media-amazon.com/images/I/51Fk1nq5+GL.jpg | https://m.media-amazon.com/images/I/61Wi9djDiNL.jpg | https://m.media-amazon.com/images/I/51pKsVVw3zL.jpg | https://m.media-amazon.com/images/I/61VRvWWv7bL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "47.32%",
-  "SalePrice": 0,
+  "Discount": 0.4732,
+  "SalePrice": 10499,
   "Model": "BEPW2200-IN"
 }

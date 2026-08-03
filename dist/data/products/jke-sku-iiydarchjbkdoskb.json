@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDARCHJBKDOSKB",
   "title": "BOSCH SECURITY VIDEO DS1101I GLASS BREAK ROUND 25FT (NA)",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 16340,
   "mrp": 20859,
   "product_url": "https://www.amazon.in/BOSCH-SECURITY-VIDEO-DS1101I-GLASS/dp/B00DGHT7IA/ref=sr_1_148",
   "rating": "5.05.0 out of 5 stars(3)5.0 out of 5 stars",
@@ -69,8 +69,8 @@
   "Image": "https://m.media-amazon.com/images/I/41xCBpyWJhL.jpg | https://m.media-amazon.com/images/I/31Z8k2Cu2WL.jpg | https://m.media-amazon.com/images/I/31k-NjsxLoL.jpg | https://m.media-amazon.com/images/I/21JNRjooGUL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "21.66%",
-  "SalePrice": 0,
+  "Discount": 0.2166,
+  "SalePrice": 16340,
   "Model": "DS1101i",
   "Country": "USA"
 }

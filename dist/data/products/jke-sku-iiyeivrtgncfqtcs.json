@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIVRTGNCFQTCS",
   "title": "Eastman Bolt Cutter 450mm CRV Material – Heavy-Duty Durable...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 1260,
   "mrp": 1386,
   "product_url": "https://www.amazon.in/Eastman-Cutter-450mm-Material-2040/dp/B0DV33DXLR/ref=sr_1_223",
   "description": "The Eastman Bolt Cutter made from high-quality CRV (Chromium Vanadium) material is a heavy-duty tool designed for cutting bolts, chains, wires, and other tough materials with precision. Engineered for strength and durability, this cutter offers excellent cutting power, making it ideal for industrial, construction, and repair projects. With a length of 450mm, it provides a balanced and comfortable grip, allowing for efficient cutting without excessive force. The CRV material ensures the cutter's longevity and resistance to wear, guaranteeing long-term performance even under heavy use. The sharp, hardened blades offer clean and precise cuts, reducing the effort required to cut through thick or hardened materials. Whether you're working on construction sites, automotive repairs, or general maintenance tasks, the Eastman Bolt Cutter is designed to provide reliable results every time. This tool is an essential addition to your toolbox, built to withstand tough jobs and deliver consistent cutting performance.",
@@ -50,6 +50,6 @@
   "Image": "https://m.media-amazon.com/images/I/51c5s88plsL.jpg | https://m.media-amazon.com/images/I/31IaRUSVd8L.jpg | https://m.media-amazon.com/images/I/519vAy+RTSL.jpg | https://m.media-amazon.com/images/I/41OoU3U8ioL.jpg | https://m.media-amazon.com/images/I/31t26+OD7kL.jpg | https://m.media-amazon.com/images/I/413gg44mTML.jpg | https://m.media-amazon.com/images/I/41y-XOOZtAL.jpg | https://m.media-amazon.com/images/I/31rJIB1CFAL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "9.09%",
-  "SalePrice": 0
+  "Discount": 0.0909,
+  "SalePrice": 1260
 }

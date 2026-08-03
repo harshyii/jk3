@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDATSPJE4DAWCF",
   "title": "BLACK+DECKER Black & Decker LDX220C 20V MAX Lithium 2 Speed...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 19489,
   "mrp": 23387,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Decker-LDX220C-Lithium/dp/B00NOI80XE/ref=sr_1_34",
   "rating": "4.64.6 out of 5 stars(1,671)4.6 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/61EP7GPmw9S.jpg | https://m.media-amazon.com/images/I/41DRJhfL1iS.jpg | https://m.media-amazon.com/images/I/41GgYSxjQ8S.jpg | https://m.media-amazon.com/images/I/61TgxMIdlCS.jpg | https://m.media-amazon.com/images/I/51Ab7fm8WKS.jpg | https://m.media-amazon.com/images/I/51cI0Ow0gsS.jpg | https://m.media-amazon.com/images/I/519a3URaIiL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "16.67%",
-  "SalePrice": 0,
+  "Discount": 0.1667,
+  "SalePrice": 19489,
   "Model": "LDX220C"
 }

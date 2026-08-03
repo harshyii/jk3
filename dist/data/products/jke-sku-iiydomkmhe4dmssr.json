@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOMKMHE4DMSSR",
   "title": "Taparia Multi Purpose Corded Electric Tester Set Of 5",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 379,
   "mrp": 999,
   "product_url": "https://www.amazon.in/Taparia-Multi-Purpose-Tester-Set/dp/B071L986JQ/ref=sr_1_301_mod_primary_new",
   "description": "Multi Purpose Tester Set of 5 For various use",
@@ -36,6 +36,6 @@
   "Image": "https://m.media-amazon.com/images/I/71oqQjKXn3L.jpg | https://m.media-amazon.com/images/I/41GP1g9vDEL.jpg | https://m.media-amazon.com/images/I/21L4Bu0WFvL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "62.06%",
-  "SalePrice": 0
+  "Discount": 0.6206,
+  "SalePrice": 379
 }

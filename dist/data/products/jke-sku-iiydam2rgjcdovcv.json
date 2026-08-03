@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAM2RGJCDOVCV",
   "title": "Eastman 60325N Rubber Washing Machine Fill Hose",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 2583.45,
   "mrp": 4133.52,
   "product_url": "https://www.amazon.in/Eastman-60325N-Rubber-Washing-Machine/dp/B003Q2D7TU/ref=sr_1_186",
   "rating": "4.54.5 out of 5 stars(532)4.5 out of 5 stars",
@@ -60,6 +60,6 @@
   "Image": "https://m.media-amazon.com/images/I/717PUO9-XSL.jpg | https://m.media-amazon.com/images/I/41RUZEltq2L.jpg | https://m.media-amazon.com/images/I/41ImzMoY9wL.jpg | https://m.media-amazon.com/images/I/416mSfMZrGL.jpg | https://m.media-amazon.com/images/I/41ujF1CmFpL.jpg | https://m.media-amazon.com/images/I/517-VWnphKL.jpg | https://m.media-amazon.com/images/I/41UVEfO6YbL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "37.5%",
-  "SalePrice": 0
+  "Discount": 0.375,
+  "SalePrice": 2583.45
 }

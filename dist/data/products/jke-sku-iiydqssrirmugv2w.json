@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQSSRIRMUGV2W",
   "title": "TAPARIA 1444-9S Circlip Pliers P.V.C Dip Coated Sleeve",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 342,
   "mrp": 530,
   "product_url": "https://www.amazon.in/TAPARIA-1444-9S-Circlip-Pliers-Coated/dp/B08JQDYCWV/ref=sr_1_227",
   "description": "Choose from the wide range of Pliers on Amazon from the collection of TAPARIA tools, Wide Options available such as Combination Pliers,Circlip Pliers, Bent Nose Pliers, Side Cutting Pliers, Long Pliers and so on. we bring the quality tools for which great things are built with the help of it.",
@@ -45,6 +45,6 @@
   "Image": "https://m.media-amazon.com/images/I/513y97jMv3L.jpg | https://m.media-amazon.com/images/I/31+QerZiFwL.jpg | https://m.media-amazon.com/images/I/51IvctrQg3L.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "35.47%",
-  "SalePrice": 0
+  "Discount": 0.3547,
+  "SalePrice": 342
 }

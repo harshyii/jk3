@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGV2ZKM2UEUKI",
   "title": "Morgan Freeman Poster - 12x18 Inches | 170 GSM Gloss Finish...",
   "brand": "Generic",
-  "current_price": 0,
+  "current_price": 175,
   "mrp": 250,
   "product_url": "https://www.amazon.in/Morgan-Freeman-Poster-Unframed-Multicolor/dp/B0CWYS5BQH/ref=sr_1_83",
   "description": "Enhance your wall decor with this Spider-Man wall poster, printed in high-definition quality to deliver bold colors and sharp visuals. The poster is made using 170 GSM premium paper with a glossy finish, giving it a smooth texture and attractive shine. With a 12 x 18 inches size, it fits perfectly in bedrooms, kids rooms, gaming spaces, hostels or offices. The lightweight design makes it easy to use with or without a frame. Durable material ensures the poster maintains its look without quick fading. A perfect decor upgrade for superhero lovers and an excellent gifting option for birthdays, festivals and special occasions.",
@@ -63,7 +63,7 @@
   "Image": "https://m.media-amazon.com/images/I/71cozk0ZS4L.jpg | https://m.media-amazon.com/images/I/41PE19wlJ1L.jpg | https://m.media-amazon.com/images/I/31r2UHbmiLL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "30%",
-  "SalePrice": 0,
+  "Discount": 0.3,
+  "SalePrice": 175,
   "Country": "India"
 }

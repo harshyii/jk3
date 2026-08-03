@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAV2FGFETMV2N",
   "title": "Bosch Vacuum Cleaner and Blower Gas 15 1100-Watt, Blue and...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 15499,
   "mrp": 19999,
   "product_url": "https://www.amazon.in/Bosch-Vaccum-Cleaner-15-1100-Watt/dp/B00WE1I6WM/ref=sr_1_46",
   "rating": "4.14.1 out of 5 stars(321)4.1 out of 5 stars",
@@ -79,7 +79,7 @@
   "Image": "https://m.media-amazon.com/images/I/81aIVdECBBL.jpg | https://m.media-amazon.com/images/I/41UoPVp3EIL.jpg | https://m.media-amazon.com/images/I/41LuGTRoV8L.jpg | https://m.media-amazon.com/images/I/51krsbXw-VL.jpg | https://m.media-amazon.com/images/I/518F5GhRRKL.jpg | https://m.media-amazon.com/images/I/51KyB4F3OGL.jpg | https://m.media-amazon.com/images/I/41MzQFS-LfL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "22.5%",
-  "SalePrice": 0,
+  "Discount": 0.225,
+  "SalePrice": 15499,
   "Country": "India"
 }

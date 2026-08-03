@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSMKDHBNEOTCK",
   "title": "BOSCH Professional GWS 600 Angle Grinder - 670W, 100mm,...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 2848,
   "mrp": 4450,
   "product_url": "https://www.amazon.in/Bosch-Professional-Grinder-2608644275-Circular/dp/B091C8ZGLJ/ref=sr_1_136",
   "rating": "4.04.0 out of 5 stars(7)4.0 out of 5 stars",
@@ -41,6 +41,6 @@
   "Image": "https://m.media-amazon.com/images/I/51RVqtgf7fL.jpg | https://m.media-amazon.com/images/I/310Jjxge4xL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "36%",
-  "SalePrice": 0
+  "Discount": 0.36,
+  "SalePrice": 2848
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMSCHG5DE2UCN",
   "title": "Eastman Lith Tech Combo 1200VA/12V Inverter with 100Ah...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 30500,
   "mrp": 35999,
   "product_url": "https://www.amazon.in/Lith-1200VA-Inverter-Charging-Warranty/dp/B0FHG7FMPM/ref=sr_1_110",
   "rating": "4.04.0 out of 5 stars(32)4.0 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/61QhNvlscDL.jpg | https://m.media-amazon.com/images/I/41Lltn3X10L.jpg | https://m.media-amazon.com/images/I/512rgT+-ROL.jpg | https://m.media-amazon.com/images/I/51TBmFO6AtL.jpg | https://m.media-amazon.com/images/I/51LWtEt-xML.jpg | https://m.media-amazon.com/images/I/41dBXxm6d5L.jpg | https://m.media-amazon.com/images/I/51z8GVpiHJL.jpg | https://m.media-amazon.com/images/I/51Ha7ymmWOL.jpg",
   "StockQuantity": 0,
   "Unit": "2 Count",
-  "Discount": "15.28%",
-  "SalePrice": 0,
+  "Discount": 0.1528,
+  "SalePrice": 30500,
   "Model": "HUPS Lith Tec 1200VA/12 V+EM-LFP-160"
 }

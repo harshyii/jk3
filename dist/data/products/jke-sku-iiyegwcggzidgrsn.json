@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGWCGGZIDGRSN",
   "title": "BLACK+DECKER Easy Store Pro Foldable Steamer, GS0311-0PD,...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 11550,
   "mrp": 13860,
   "product_url": "https://www.amazon.in/BLACK-DECKER-GS0311-0PD-Attachment-Performance/dp/B0CXF6P3FM/ref=sr_1_23",
   "rating": "4.24.2 out of 5 stars(357)4.2 out of 5 stars",
@@ -65,8 +65,8 @@
   "Image": "https://m.media-amazon.com/images/I/511GtTDozhL.jpg | https://m.media-amazon.com/images/I/31H+24DdRVL.jpg | https://m.media-amazon.com/images/I/31X3cCp5jzL.jpg | https://m.media-amazon.com/images/I/51ZuWnjzOeL.jpg | https://m.media-amazon.com/images/I/413zPQ1XFEL.jpg | https://m.media-amazon.com/images/I/51c9PAjIj3L.jpg | https://m.media-amazon.com/images/I/41McS8VffmL.jpg | https://m.media-amazon.com/images/I/41Lqnvg3vML.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "16.67%",
-  "SalePrice": 0,
+  "Discount": 0.1667,
+  "SalePrice": 11550,
   "Model": "GS0311-0PD",
   "Country": "China"
 }

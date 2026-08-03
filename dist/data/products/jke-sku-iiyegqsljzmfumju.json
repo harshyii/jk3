@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGQSLJZMFUMJU",
   "title": "FREEMANS PRO-TEK 5m:19mm Steel Inchi Pocket Measuring Tape...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 111,
   "mrp": 185,
   "product_url": "https://www.amazon.in/FREEMANS-PRO-TEK-5m-Measuring-Click-Action/dp/B0CBKNXZ14/ref=sr_1_16",
   "rating": "4.24.2 out of 5 stars(941)4.2 out of 5 stars",
@@ -70,8 +70,8 @@
   "Image": "https://m.media-amazon.com/images/I/61K7c6YY80L.jpg | https://m.media-amazon.com/images/I/41x7Mh5AKgL.jpg | https://m.media-amazon.com/images/I/41jK6HwSnzL.jpg | https://m.media-amazon.com/images/I/51vVPpMz+3L.jpg | https://m.media-amazon.com/images/I/41F+7nx9JnL.jpg | https://m.media-amazon.com/images/I/41MRLGzAvkL.jpg | https://m.media-amazon.com/images/I/41f6UPxA2lL.jpg | https://m.media-amazon.com/images/I/41MAeV+rUZL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Piece",
-  "Discount": "40%",
-  "SalePrice": 0,
+  "Discount": 0.4,
+  "SalePrice": 111,
   "Model": "5m:19mm",
   "Country": "India"
 }

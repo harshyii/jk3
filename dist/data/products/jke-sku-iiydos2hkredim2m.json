@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOS2HKREDIM2M",
   "title": "BLACK+DECKER BEW210-QS, 230W, 0-13000 RPM, 4-in-1 Corded...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 3249,
   "mrp": 4000,
   "product_url": "https://www.amazon.in/BLACK-DECKER-BEW210-QS-Multi-Sander-Attachment/dp/B07KGTH43L/ref=sr_1_16",
   "rating": "4.24.2 out of 5 stars(973)4.2 out of 5 stars",
@@ -70,7 +70,7 @@
   "Image": "https://m.media-amazon.com/images/I/71Cc0zQfl6L.jpg | https://m.media-amazon.com/images/I/41QxQuZc76L.jpg | https://m.media-amazon.com/images/I/41qId+MLNdL.jpg | https://m.media-amazon.com/images/I/61c9CkewRkL.jpg | https://m.media-amazon.com/images/I/41qOuy5zShL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg | https://m.media-amazon.com/images/I/41TuBrB9pPL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "18.78%",
-  "SalePrice": 0,
+  "Discount": 0.1878,
+  "SalePrice": 3249,
   "Model": "BEW210-QS"
 }

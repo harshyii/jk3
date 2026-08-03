@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMRCLKBIEYOKK",
   "title": "Taparia Make,25mm Insert Bits of 1/4\" Hex Shank, S2...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 159,
   "mrp": 250,
   "product_url": "https://www.amazon.in/Taparia-Suitable-Professional-industrial-applications/dp/B0FDKPPL9J/ref=sr_1_294",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -52,6 +52,6 @@
   "Image": "https://m.media-amazon.com/images/I/61m8gUxKCGL.jpg | https://m.media-amazon.com/images/I/31MHMLij-aL.jpg | https://m.media-amazon.com/images/I/31gO0awengL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "36.4%",
-  "SalePrice": 0
+  "Discount": 0.364,
+  "SalePrice": 159
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSRRZIM4FIMSW",
   "title": "Eastman Swivel Handles - CRV with 1/2 (12.7) mm Drive,...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 1075,
   "mrp": 1277,
   "product_url": "https://www.amazon.in/Eastman-Swivel-Handles-Chrome-Vanadium/dp/B09F9C8T2V/ref=sr_1_113",
   "rating": "4.34.3 out of 5 stars(54)4.3 out of 5 stars",
@@ -75,7 +75,7 @@
   "Image": "https://m.media-amazon.com/images/I/21n+rm52r1L.jpg | https://m.media-amazon.com/images/I/21n+rm52r1L.jpg | https://m.media-amazon.com/images/I/31KGXr3W++L.jpg | https://m.media-amazon.com/images/I/21vZTFgiHbL.jpg | https://m.media-amazon.com/images/I/31LJiL44uEL.jpg | https://m.media-amazon.com/images/I/216c8YRpX9L.jpg | https://m.media-amazon.com/images/I/31owXnV2u8L.jpg | https://m.media-amazon.com/images/I/21lHkXuDi4L.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "15.82%",
-  "SalePrice": 0,
+  "Discount": 0.1582,
+  "SalePrice": 1075,
   "Model": "E-2217_SwivelHandle-CRV"
 }

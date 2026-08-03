@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMRCHIQYVOQSH",
   "title": "Taparia Make, Bit Holder Screwdriver with 25 mm Insert Bits...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 300,
   "product_url": "https://www.amazon.in/Taparia-Screwdriver-Professional-industrial-applications/dp/B0FDGD1WBG/ref=sr_1_237",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -54,6 +54,6 @@
   "Image": "https://m.media-amazon.com/images/I/61C88W3a1wL.jpg | https://m.media-amazon.com/images/I/41GXh1KMEVL.jpg | https://m.media-amazon.com/images/I/31iFp-AdKGL.jpg | https://m.media-amazon.com/images/I/31LrIulx7OL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "17%",
-  "SalePrice": 0
+  "Discount": 0.17,
+  "SalePrice": 249
 }

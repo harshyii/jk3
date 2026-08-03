@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGWSMKE3TKU2H",
   "title": "Taparia 905 I - 140 mm Two in One Screw Driver (Pack of 1)",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 714.63,
   "product_url": "https://www.amazon.in/Taparia-905-Screw-Driver-Pack/dp/B0CZLQ75SG/ref=sr_1_153",
   "rating": "4.04.0 out of 5 stars(24)4.0 out of 5 stars",
@@ -59,6 +59,6 @@
   "Image": "https://m.media-amazon.com/images/I/41upnQ2YUAL.jpg | https://m.media-amazon.com/images/I/31yhx6ymcBL.jpg | https://m.media-amazon.com/images/I/31N5ytZkyWL.jpg | https://m.media-amazon.com/images/I/31tvoyYIlaL.jpg | https://m.media-amazon.com/images/I/41waamU2RPL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 249
 }

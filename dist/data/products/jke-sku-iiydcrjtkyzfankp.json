@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCRJTKYZFANKP",
   "title": "FREEMANS FCP08 Combination Plier with Cellulose Acetate...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 201,
   "mrp": 399,
   "product_url": "https://www.amazon.in/Freemans-FCP08-Combination-Cellulose-Acetate/dp/B01E3V2P5O/ref=sr_1_27",
   "rating": "4.34.3 out of 5 stars(355)4.3 out of 5 stars",
@@ -68,7 +68,7 @@
   "Image": "https://m.media-amazon.com/images/I/51aRxVBrtRL.jpg | https://m.media-amazon.com/images/I/31kIi7EZF1L.jpg | https://m.media-amazon.com/images/I/41Qg1EFsD1L.jpg | https://m.media-amazon.com/images/I/31uYOaoluvL.jpg | https://m.media-amazon.com/images/I/413S2f9eqKL.jpg | https://m.media-amazon.com/images/I/41CpGe4L3RL.jpg | https://m.media-amazon.com/images/I/41xqoyBHBGL.jpg | https://m.media-amazon.com/images/I/41KXldthB-L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "49.62%",
-  "SalePrice": 0,
+  "Discount": 0.4962,
+  "SalePrice": 201,
   "Model": "FCP08"
 }

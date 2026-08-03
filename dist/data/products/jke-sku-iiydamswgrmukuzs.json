@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMSWGRMUKUZS",
   "title": "Rascador Doble filo 38mm",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 14203.8,
   "mrp": 16543.8,
   "product_url": "https://www.amazon.in/Stanley-0-28-617-Rascador-Doble-filo/dp/B002V4YES2/ref=sr_1_71",
   "rating": "4.64.6 out of 5 stars(369)4.6 out of 5 stars",
@@ -46,7 +46,7 @@
   "Image": "https://m.media-amazon.com/images/I/61GjPfTkfgL.jpg | https://m.media-amazon.com/images/I/31osxIMRg0L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "14.14%",
-  "SalePrice": 0,
+  "Discount": 0.1414,
+  "SalePrice": 14203.8,
   "Model": "0-28-617"
 }

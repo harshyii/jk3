@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMR2EIZFUEN2Y",
   "title": "IBELL MPK15M Multipurpose Electric Kettle, 1.5 Litre, 800W,...",
   "brand": "Ibell",
-  "current_price": 0,
+  "current_price": 1650,
   "mrp": 3290,
   "product_url": "https://www.amazon.in/IBELL-Multipurpose-Electric-Temperature-Stainless/dp/B0FGDFKB7X/ref=sr_1_4",
   "rating": "4.34.3 out of 5 stars(304)4.3 out of 5 stars",
@@ -70,8 +70,8 @@
   "Image": "https://m.media-amazon.com/images/I/61P6XVXLvcL.jpg | https://m.media-amazon.com/images/I/31l14iMlWaL.jpg | https://m.media-amazon.com/images/I/41bJNE0tT9L.jpg | https://m.media-amazon.com/images/I/31f65kDS9LL.jpg | https://m.media-amazon.com/images/I/41tMlekn8xL.jpg | https://m.media-amazon.com/images/I/41neLOQm22L.jpg | https://m.media-amazon.com/images/I/31xRo36iy1L.jpg | https://m.media-amazon.com/images/I/31N9HAkfEVL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "49.85%",
-  "SalePrice": 0,
+  "Discount": 0.4985,
+  "SalePrice": 1650,
   "Model": "IBLMPK15M",
   "Country": "India"
 }

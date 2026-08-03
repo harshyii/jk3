@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAVCJINIUUSCP",
   "title": "BLACK+DECKER MT218K-GB 18V 10mm Li-ion Cordless Multi-Evo...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 6699,
   "mrp": 10500,
   "product_url": "https://www.amazon.in/BLACK-DECKER-MT218K-GB/dp/B00TICQJHO/ref=sr_1_26",
   "rating": "4.24.2 out of 5 stars(749)4.2 out of 5 stars",
@@ -81,7 +81,7 @@
   "Image": "https://m.media-amazon.com/images/I/6105bw+v93L.jpg | https://m.media-amazon.com/images/I/41VLwwtcxmL.jpg | https://m.media-amazon.com/images/I/411fXRUmTIL.jpg | https://m.media-amazon.com/images/I/41pvdIG5ggL.jpg | https://m.media-amazon.com/images/I/61SGZFQPVxL.jpg | https://m.media-amazon.com/images/I/41FlV+244dL.jpg | https://m.media-amazon.com/images/I/61EDqbDJOUL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "36.2%",
-  "SalePrice": 0,
+  "Discount": 0.362,
+  "SalePrice": 6699,
   "Model": "MT218K-GB"
 }

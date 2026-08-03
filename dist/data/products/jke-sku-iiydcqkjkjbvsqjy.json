@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCQKJKJBVSQJY",
   "title": "FREEMANS Plastic and Aluminium Levo 5 m:16 mm Measuring...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 330,
   "mrp": 599,
   "product_url": "https://www.amazon.in/FREEMANS-Levo-5m-Measuring-Spirit/dp/B01AIRCYA8/ref=sr_1_50",
   "rating": "4.14.1 out of 5 stars(516)4.1 out of 5 stars",
@@ -51,8 +51,8 @@
   "Image": "https://m.media-amazon.com/images/I/51UgMO4nrDL.jpg | https://m.media-amazon.com/images/I/41wKDthyXvL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "44.91%",
-  "SalePrice": 0,
+  "Discount": 0.4491,
+  "SalePrice": 330,
   "Model": "LV5:16 + BSL230",
   "Country": "India"
 }

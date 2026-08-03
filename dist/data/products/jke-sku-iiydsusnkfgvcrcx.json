@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSUSNKFGVCRCX",
   "title": "Eastman EAWSI-200 Arc Welding Machine | 200A Inverter...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 8385,
   "mrp": 13800,
   "product_url": "https://www.amazon.in/Eastman-EAWSI-200-Technology-Lightweight-Fan-Cooled/dp/B09RMQMQDW/ref=sr_1_85",
   "rating": "4.44.4 out of 5 stars(5)4.4 out of 5 stars",
@@ -72,8 +72,8 @@
   "Image": "https://m.media-amazon.com/images/I/619pjTKu-yL.jpg | https://m.media-amazon.com/images/I/41rHXpJ2eCL.jpg | https://m.media-amazon.com/images/I/51zruE7Z5uL.jpg | https://m.media-amazon.com/images/I/51Sx4tYDRWL.jpg | https://m.media-amazon.com/images/I/51FgOZDnWDL.jpg | https://m.media-amazon.com/images/I/51u6R3zH1KL.jpg | https://m.media-amazon.com/images/I/51-0M4UXa4L.jpg | https://m.media-amazon.com/images/I/51-2+aNe7ZL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "39.24%",
-  "SalePrice": 0,
+  "Discount": 0.3924,
+  "SalePrice": 8385,
   "Model": "EAWSI-200",
   "Country": "India"
 }

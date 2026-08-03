@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEERSEGYZDMOCT",
   "title": "BLACK+DECKER Kx1800 Dual Temperature High Speed Heat Gun...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 4128,
   "mrp": 6075,
   "product_url": "https://www.amazon.in/Temperature-Removing-Black-Variable-included/dp/B0BFD6268S/ref=sr_1_27",
   "rating": "5.05.0 out of 5 stars(1)5.0 out of 5 stars",
@@ -58,6 +58,6 @@
   "Image": "https://m.media-amazon.com/images/I/41L4r-eBgFL.jpg | https://m.media-amazon.com/images/I/31bR506hxzL.jpg | https://m.media-amazon.com/images/I/419oMREwURL.jpg | https://m.media-amazon.com/images/I/4195N1smdIL.jpg | https://m.media-amazon.com/images/I/41jJhCzHt0L.jpg | https://m.media-amazon.com/images/I/41o9TC+aMLL.jpg | https://m.media-amazon.com/images/I/411L5Hn+nyL.jpg | https://m.media-amazon.com/images/I/4198OionGIL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "32.05%",
-  "SalePrice": 0
+  "Discount": 0.3205,
+  "SalePrice": 4128
 }

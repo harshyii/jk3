@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOM2NHFLVSNCD",
   "title": "BUILDSKILL 4V Cordless Screw Driver Kit | 19 Pcs | 4 N.M....",
   "brand": "Buildskill",
-  "current_price": 0,
+  "current_price": 999,
   "mrp": 1849,
   "product_url": "https://www.amazon.in/BUILDSKILL-Cordless-Magnetic-Forward-Reverse-position/dp/B0G3M9WY4C/ref=sr_1_51",
   "rating": "4.04.0 out of 5 stars(257)4.0 out of 5 stars",
@@ -70,6 +70,6 @@
   "Image": "https://m.media-amazon.com/images/I/71SWtgvMQyL.jpg | https://m.media-amazon.com/images/I/41LuydNKxfL.jpg | https://m.media-amazon.com/images/I/41P87Ak4g-L.jpg | https://m.media-amazon.com/images/I/41MxOcgohlL.jpg | https://m.media-amazon.com/images/I/41qG0SVd65L.jpg | https://m.media-amazon.com/images/I/5188N1i9dsL.jpg | https://m.media-amazon.com/images/I/41k3041YvuL.jpg | https://m.media-amazon.com/images/I/51-I1Ri2dYL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "45.97%",
-  "SalePrice": 0
+  "Discount": 0.4597,
+  "SalePrice": 999
 }

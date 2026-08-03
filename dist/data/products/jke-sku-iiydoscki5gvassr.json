@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOSCKI5GVASSR",
   "title": "BLACK+DECKER WDBD15 15-Litre, 1400 Watt, 16 KPa High...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 5499,
   "mrp": 11650,
   "product_url": "https://www.amazon.in/WDBD15-Reusable-Suitable-Household-Professional/dp/B07HJGMPJQ/ref=sr_1_13",
   "rating": "4.04.0 out of 5 stars(3,709)4.0 out of 5 stars",
@@ -87,7 +87,7 @@
   "Image": "https://m.media-amazon.com/images/I/71Bil7zg-8L.jpg | https://m.media-amazon.com/images/I/31KVX5oz6SL.jpg | https://m.media-amazon.com/images/I/61kGUJO+MSL.jpg | https://m.media-amazon.com/images/I/41H9W+a3AVL.jpg | https://m.media-amazon.com/images/I/61KyhlCV7eL.jpg | https://m.media-amazon.com/images/I/41xHO3QDQxL.jpg | https://m.media-amazon.com/images/I/41dEgIzy1-L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "52.8%",
-  "SalePrice": 0,
+  "Discount": 0.528,
+  "SalePrice": 5499,
   "Country": "China"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIVSQKBIVOR2M",
   "title": "Taparia 6\" (125 mm) Velcro Disc,5 Pc x Grit 80, 180, 320,...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 138,
   "mrp": 350,
   "product_url": "https://www.amazon.in/Taparia-Velcro-Disc-Grit-400/dp/B0DVPPQWGL/ref=sr_1_123",
   "description": "Velcro Sanding discs are used for applying sanded finishes to wood, paint, plaster, metals, composites and many other materials. The discs are attached to orbital and detail sander power tools using Velcro. They come in various sizes and various roughness for achieiving different finishes",
@@ -45,7 +45,7 @@
   "Image": "https://m.media-amazon.com/images/I/71GgsmeK0rL.jpg | https://m.media-amazon.com/images/I/41oE-lJ4MDL.jpg | https://m.media-amazon.com/images/I/31LCFxmBCxL.jpg | https://m.media-amazon.com/images/I/31epBrlL0iL.jpg | https://m.media-amazon.com/images/I/31tunDRo1TL.jpg | https://m.media-amazon.com/images/I/315Udd7PAbL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "60.57%",
-  "SalePrice": 0,
+  "Discount": 0.6057,
+  "SalePrice": 138,
   "Country": "‎India"
 }

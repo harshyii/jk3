@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDASCOGZHVCTBY",
   "title": "INGCO 200mm 8 inch Carpenter Pliers, HCPP02200",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 309,
   "mrp": 699,
   "product_url": "https://www.amazon.in/INGCO-200mm-Carpenter-Pliers-HCPP02200/dp/B00HN6OQL8/ref=sr_1_108",
   "rating": "2.82.8 out of 5 stars(9)2.8 out of 5 stars",
@@ -48,7 +48,7 @@
   "Image": "https://m.media-amazon.com/images/I/51t166TJ6xL.jpg | https://m.media-amazon.com/images/I/31ycFnAumEL.jpg | https://m.media-amazon.com/images/I/31ADOJfydgL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "55.79%",
-  "SalePrice": 0,
+  "Discount": 0.5579,
+  "SalePrice": 309,
   "Model": "HCPP02200"
 }

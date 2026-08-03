@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQRBZINMFUNKG",
   "title": "INGCO Test pencil, Test Voltage: AC 100-500 V, Top Copper...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 99,
   "mrp": 205,
   "product_url": "https://www.amazon.in/INGCO-Test-pencil-Voltage-conductivity/dp/B08D9CXZ5F/ref=sr_1_84",
   "rating": "4.14.1 out of 5 stars(572)4.1 out of 5 stars",
@@ -66,8 +66,8 @@
   "Image": "https://m.media-amazon.com/images/I/514RCgSQJlL.jpg | https://m.media-amazon.com/images/I/21mby1sLgLL.jpg | https://m.media-amazon.com/images/I/41qCIVLeIVL.jpg | https://m.media-amazon.com/images/I/31tf-muN1YL.jpg | https://m.media-amazon.com/images/I/41MUM-1P6+L.jpg | https://m.media-amazon.com/images/I/41J1sA82yYL.jpg | https://m.media-amazon.com/images/I/51mnvupwvIL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "51.71%",
-  "SalePrice": 0,
+  "Discount": 0.5171,
+  "SalePrice": 99,
   "Model": "HSDT1908",
   "Country": "China"
 }

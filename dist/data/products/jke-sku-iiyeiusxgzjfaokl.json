@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIUSXGZJFAOKL",
   "title": "EASTMAN ENERGY EMSS200060TT | Tall Tubular | 200 AH...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 17999,
   "mrp": 24999,
   "product_url": "https://www.amazon.in/Eastman-EMSS200060TT-Tubular-Inverter-Warranty/dp/B0DRW6RP9K/ref=sr_1_1",
   "rating": "4.14.1 out of 5 stars(61)4.1 out of 5 stars",
@@ -68,8 +68,8 @@
   "Image": "https://m.media-amazon.com/images/I/71ep94--p6L.jpg | https://m.media-amazon.com/images/I/41fkoK69RgL.jpg | https://m.media-amazon.com/images/I/51+L5nicb0L.jpg | https://m.media-amazon.com/images/I/51XvyMZ4jyL.jpg | https://m.media-amazon.com/images/I/51GqXOKK7vL.jpg | https://m.media-amazon.com/images/I/41H5jDheetL.jpg | https://m.media-amazon.com/images/I/5122bnx+coL.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "28%",
-  "SalePrice": 0,
+  "Discount": 0.28,
+  "SalePrice": 17999,
   "Model": "EMSS200060TT",
   "Country": "India"
 }

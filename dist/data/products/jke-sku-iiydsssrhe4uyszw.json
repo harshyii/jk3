@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSSSRHE4UYSZW",
   "title": "INGCO PERFECT POWER TOOLS Angle Grinder AG900285 900 Watts...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 3814,
   "mrp": 9999,
   "product_url": "https://www.amazon.in/PERFECT-POWER-TOOLS-Constructions-Mechanical/dp/B09JQ99LK6/ref=sr_1_88",
   "image_urls": [
@@ -41,6 +41,6 @@
   "Image": "https://m.media-amazon.com/images/I/517agFo1ZcL.jpg | https://m.media-amazon.com/images/I/41OEOTydDTL.jpg | https://m.media-amazon.com/images/I/410IiNNBdpL.jpg | https://m.media-amazon.com/images/I/31gKKTWmAXL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "61.86%",
-  "SalePrice": 0
+  "Discount": 0.6186,
+  "SalePrice": 3814
 }

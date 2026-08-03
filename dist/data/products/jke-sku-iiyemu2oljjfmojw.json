@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMU2OLJJFMOJW",
   "title": "Stanley Quencher H2.0 FlowState™ Tumbler 30 oz Toasted...",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 8275,
   "mrp": 23749.25,
   "product_url": "https://www.amazon.in/Stanley-Quencher-FlowStateTM-Tumbler-Toasted/dp/B0FSNZRV96/ref=sr_1_37",
   "rating": "4.54.5 out of 5 stars(48)4.5 out of 5 stars",
@@ -73,6 +73,6 @@
   "Image": "https://m.media-amazon.com/images/I/41ObyKJ7FTL.jpg | https://m.media-amazon.com/images/I/31dox+VGpgL.jpg | https://m.media-amazon.com/images/I/31XPBhMb2wL.jpg | https://m.media-amazon.com/images/I/31TgHrg7vOL.jpg | https://m.media-amazon.com/images/I/31CmhfKXj3L.jpg | https://m.media-amazon.com/images/I/31Q0ZgKXOWL.jpg | https://m.media-amazon.com/images/I/41z5x37u6YL.jpg | https://m.media-amazon.com/images/I/41qVdd7psjL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 8275
 }

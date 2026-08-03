@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSVBTJM2EYQST",
   "title": "INGCO Electric Drill, 500W and 3300RPM Power Drill, Corded,...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2098,
   "mrp": 2978,
   "product_url": "https://www.amazon.in/Electric-3300RMP-1-0-10mm-Capacity-Variable/dp/B09T3K4LBS/ref=sr_1_21",
   "rating": "4.24.2 out of 5 stars(34)4.2 out of 5 stars",
@@ -69,6 +69,6 @@
   "Image": "https://m.media-amazon.com/images/I/71orkCOZALL.jpg | https://m.media-amazon.com/images/I/41toQ3pROEL.jpg | https://m.media-amazon.com/images/I/51geCaKKo8L.jpg | https://m.media-amazon.com/images/I/51bsqB8NLbL.jpg | https://m.media-amazon.com/images/I/4134Hs7876L.jpg | https://m.media-amazon.com/images/I/41ubSv4op1L.jpg | https://m.media-amazon.com/images/I/511bacQkk+L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "29.55%",
-  "SalePrice": 0
+  "Discount": 0.2955,
+  "SalePrice": 2098
 }

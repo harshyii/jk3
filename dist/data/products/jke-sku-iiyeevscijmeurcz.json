@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEVSCIJMEURCZ",
   "title": "TAPARIA BMS14HXL Socket Set (Pack of 1)",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 4165,
   "mrp": 4480,
   "product_url": "https://www.amazon.in/TAPARIA-BMS14HXL-Socket-Set-Pack/dp/B0BVBBXJDY/ref=sr_1_67",
   "rating": "4.74.7 out of 5 stars(4)4.7 out of 5 stars",
@@ -58,6 +58,6 @@
   "Image": "https://m.media-amazon.com/images/I/71u+vRlzFxL.jpg | https://m.media-amazon.com/images/I/41yU2wmXxrL.jpg | https://m.media-amazon.com/images/I/41y9ZvHM7PL.jpg | https://m.media-amazon.com/images/I/41UXugIVUeL.jpg | https://m.media-amazon.com/images/I/4107zgnGE9L.jpg | https://m.media-amazon.com/images/I/41tZWdXvcCL.jpg | https://m.media-amazon.com/images/I/416GoIN681L.jpg",
   "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "7.03%",
-  "SalePrice": 0
+  "Discount": 0.0703,
+  "SalePrice": 4165
 }

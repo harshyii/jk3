@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOTSSLBIEYV2R",
   "title": "FREEMANS Levo 5m:16mm and Basik 7.5m:25mm Measuring Tapes",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 475,
   "mrp": 699,
   "product_url": "https://www.amazon.in/FREEMANS-Levo-5m-16mm-Basik/dp/B07NRXPLWQ/ref=sr_1_74",
   "rating": "4.74.7 out of 5 stars(3)4.7 out of 5 stars",
@@ -57,6 +57,6 @@
   "Image": "https://m.media-amazon.com/images/I/71b2ktNK54L.jpg | https://m.media-amazon.com/images/I/41jFv9+Es0L.jpg | https://m.media-amazon.com/images/I/41Vt4i5q1aL.jpg | https://m.media-amazon.com/images/I/41Frn0lOFhL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
   "StockQuantity": 0,
   "Unit": "2.0 Count",
-  "Discount": "32.05%",
-  "SalePrice": 0
+  "Discount": 0.3205,
+  "SalePrice": 475
 }

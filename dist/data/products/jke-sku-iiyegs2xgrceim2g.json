@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGS2XGRCEIM2G",
   "title": "Taparia TK-076 MDT82, 1430 Digital Line Tester, Nose Plier...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 250,
   "mrp": 717.5,
   "product_url": "https://www.amazon.in/Taparia-TK-076-MDT82-1430-Digital/dp/B0CKW4DD3F/ref=sr_1_164",
   "rating": "2.02.0 out of 5 stars(1)2.0 out of 5 stars",
@@ -58,7 +58,7 @@
   "Image": "https://m.media-amazon.com/images/I/61jGEjKjrNL.jpg | https://m.media-amazon.com/images/I/41jFfN9vmfL.jpg | https://m.media-amazon.com/images/I/31c7jLqMbQL.jpg | https://m.media-amazon.com/images/I/211hixb2WxL.jpg | https://m.media-amazon.com/images/I/41eBksd9Y5L.jpg",
   "StockQuantity": 0,
   "Unit": "2 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 250,
   "Model": "TK-076 (MDT82 1430)"
 }

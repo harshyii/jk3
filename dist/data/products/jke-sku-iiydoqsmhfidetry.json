@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOQSMHFIDETRY",
   "title": "BOSCH Easy Aquatak 100 | 1100-watt Motor | Max Pressure-...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 6500,
   "mrp": 7500,
   "product_url": "https://www.amazon.in/Bosch-Aquatak-100-1200-Watt-Pressure/dp/B07BL9P2N8/ref=sr_1_34_mod_primary_new",
   "rating": "3.43.4 out of 5 stars(889)3.4 out of 5 stars",
@@ -69,7 +69,7 @@
   "Image": "https://m.media-amazon.com/images/I/61trVZPUERL.jpg | https://m.media-amazon.com/images/I/412AO-kAk6L.jpg | https://m.media-amazon.com/images/I/5101zyRbS6L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41jrPbH1qiL.jpg | https://m.media-amazon.com/images/I/415rfW5JbbL.jpg | https://m.media-amazon.com/images/I/51uG77n8klL.jpg | https://m.media-amazon.com/images/I/51kmj06UDKL.jpg | https://m.media-amazon.com/images/I/31r-L5ZPO9L.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "13.33%",
-  "SalePrice": 0,
+  "Discount": 0.1333,
+  "SalePrice": 6500,
   "Model": "Aquatak 100"
 }

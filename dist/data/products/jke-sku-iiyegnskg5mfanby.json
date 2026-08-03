@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEGNSKG5MFANBY",
   "title": "INGCO 19 PCS DRILL BITS & SCREWDRIVER BITS SET AKSDB1901",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 480,
   "mrp": 999,
   "product_url": "https://www.amazon.in/INGCO-DRILL-BITS-SCREWDRIVER-AKSDB1901/dp/B0C6J7XP48/ref=sr_1_97",
   "rating": "3.73.7 out of 5 stars(43)3.7 out of 5 stars",
@@ -48,8 +48,8 @@
   "Image": "https://m.media-amazon.com/images/I/61KFDHF-EdL.jpg | https://m.media-amazon.com/images/I/41zrYi6xchL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "51.95%",
-  "SalePrice": 0,
+  "Discount": 0.5195,
+  "SalePrice": 480,
   "Model": "AKSDB1901",
   "Country": "China"
 }

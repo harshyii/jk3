@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOUKTKRHDOOKX",
   "title": "Inditrust Corded Electric Soldering Iron With Adjustable...",
   "brand": "Inditrust",
-  "current_price": 0,
+  "current_price": 469,
   "mrp": 1000,
   "product_url": "https://www.amazon.in/Inditrust-Soldering-Iron-Adjustable-Temperature/dp/B07QSTN79W/ref=sr_1_22",
   "rating": "3.73.7 out of 5 stars(367)3.7 out of 5 stars",
@@ -61,6 +61,6 @@
   "Image": "https://m.media-amazon.com/images/I/51GmpzMdA-L.jpg | https://m.media-amazon.com/images/I/41Oh9uSOFGL.jpg | https://m.media-amazon.com/images/I/41a+oDrdYJL.jpg | https://m.media-amazon.com/images/I/512l+LR3fAL.jpg | https://m.media-amazon.com/images/I/41aLGLPYgUL.jpg | https://m.media-amazon.com/images/I/51+5OQv9qYL.jpg | https://m.media-amazon.com/images/I/51SYBG1bqML.jpg | https://m.media-amazon.com/images/I/41TEF3L9vLL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "53.1%",
-  "SalePrice": 0
+  "Discount": 0.531,
+  "SalePrice": 469
 }

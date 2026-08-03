@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCMCNGVFDIQST",
   "title": "FREEMANS FCP+08 Combination Plier 8 inch/200mm with PVC...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 249,
   "mrp": 314,
   "product_url": "https://www.amazon.in/Freemans-FCP-Combination-Plier-8/dp/B010M5J4BS/ref=sr_1_54",
   "rating": "4.34.3 out of 5 stars(26)4.3 out of 5 stars",
@@ -55,7 +55,7 @@
   "Image": "https://m.media-amazon.com/images/I/51pcExxpTmL.jpg | https://m.media-amazon.com/images/I/41S339F4sVL.jpg | https://m.media-amazon.com/images/I/31ylDnN6OmL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "20.7%",
-  "SalePrice": 0,
+  "Discount": 0.207,
+  "SalePrice": 249,
   "Model": "FCP+08"
 }

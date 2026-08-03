@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDCMCNGVFEIQKV",
   "title": "FREEMANS 10km ABS Measuring Wheel/Roadometer | Light and...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 2300,
   "mrp": 3945,
   "product_url": "https://www.amazon.in/Freemans-MW01-Plastic-Measuring-Wheel/dp/B010M5JDAU/ref=sr_1_20_mod_primary_new",
   "description": "EXTREMELY LIGHTWEIGHT AND DURABLE 30cm (12) ABS wheel with wear resistant special rubber tyre for improved traction and longer life. MEASUREMENT RANGE of 0-10km, Least count: 1m, MECHANICAL 5 DIGIT COUNTER with quick reset lever. Equipped with FOLDING WHEEL MOUNT, TWO-SECTION TELESCOPIC HANDLE and complimentary CARRY BAG. PROUDLY MADE IN INDIA. FREEMANS offers a lifetime warranty for this product. For any warranty related issues or product feedback, please feel free to contact us through our mail us on customercare@freemansgroup.com",
@@ -59,6 +59,6 @@
   "Image": "https://m.media-amazon.com/images/I/51a3oudFHcL.jpg | https://m.media-amazon.com/images/I/315Ahz-e1CL.jpg | https://m.media-amazon.com/images/I/51gw5LCifGL.jpg | https://m.media-amazon.com/images/I/41+wOHohBEL.jpg | https://m.media-amazon.com/images/I/417pbL0n9PL.jpg | https://m.media-amazon.com/images/I/51qcaIwZtUL.jpg | https://m.media-amazon.com/images/I/51ljsaO7t4L.jpg | https://m.media-amazon.com/images/I/51kJgQLtzdL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "41.7%",
-  "SalePrice": 0
+  "Discount": 0.417,
+  "SalePrice": 2300
 }

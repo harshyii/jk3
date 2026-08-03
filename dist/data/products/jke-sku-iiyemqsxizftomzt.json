@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEMQSXIZFTOMZT",
   "title": "Eastman HUPS Lith Tec 1500VA/12V Square Wave Inverter &...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 39999,
   "mrp": 45999,
   "product_url": "https://www.amazon.in/HUPS-Lith-Tec-1500VA-Inverter/dp/B0FBWFK733/ref=sr_1_306",
   "description": "Exceptional Stability: Pure sine wave output with exceptional voltage stability ensures optimal performance of sensitive electronic equipment and appliances. Advanced Battery Technology: Superior life cycle characteristics with excellent overcharge tolerance make it suitable for continuous operation environments. Seamless Operation: Zero-volt pickup automatically activates during power cuts while consuming minimal standby power for energy conservation. Professional Grade Performance: Start and run SMPS capability with C20 compatibility handles modern appliances while maintaining consistent voltage regulation Best in Class Warranty: lith Tec battery comes with a 5-year warranty, 3-year warranty on the inverter and 10 years warranty on transformer.",
@@ -65,7 +65,7 @@
   "Image": "https://m.media-amazon.com/images/I/51YOCfSlklL.jpg | https://m.media-amazon.com/images/I/31jSB6YYE1L.jpg | https://m.media-amazon.com/images/I/51zHxsedo6L.jpg | https://m.media-amazon.com/images/I/51A5lucTBsL.jpg | https://m.media-amazon.com/images/I/51Zmx8tp-UL.jpg | https://m.media-amazon.com/images/I/51J25PBqggL.jpg | https://m.media-amazon.com/images/I/51n+BgqCkaL.jpg | https://m.media-amazon.com/images/I/51fFPIKwWvL.jpg",
   "StockQuantity": 0,
   "Unit": "2 Count",
-  "Discount": "13.04%",
-  "SalePrice": 0,
+  "Discount": 0.1304,
+  "SalePrice": 39999,
   "Model": "HUPS Lith Tec 1500VA/12 V+EM-LFP-240"
 }

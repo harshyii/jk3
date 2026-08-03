@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMBSJJKDIUCH",
   "title": "Irwin Record 20030C Copper Tube Cutter",
   "brand": "Irwin",
-  "current_price": 0,
+  "current_price": 4775,
   "mrp": 13704.25,
   "product_url": "https://www.amazon.in/Irwin-Record-20030C-Copper-Cutter/dp/B0002JT4PG/ref=sr_1_269",
   "rating": "4.04.0 out of 5 stars(6)4.0 out of 5 stars",
@@ -46,7 +46,7 @@
   "Image": "https://m.media-amazon.com/images/I/51O+sI-j87L.jpg | https://m.media-amazon.com/images/I/31drhN6XW9L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 4775,
   "Model": "IWT20030C"
 }

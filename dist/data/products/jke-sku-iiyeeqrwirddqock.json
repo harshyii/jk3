@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEQRWIRDDQOCK",
   "title": "BOSCH Professional GWS 600 Angle Grinder - 670W, 100mm,...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 4048,
   "mrp": 6500,
   "product_url": "https://www.amazon.in/BOSCH-professional-Angle-Grinder-Protective/dp/B0BB6DF88J/ref=sr_1_112",
   "description": "Powerful machine with 670w brush motor; Slim; Lightweight design provides fatigue-Free working; Reducing risk of mistakes and injury; Supplied with guard and side handle 2 Position side handle all-metal gearbox fan-cooled motor spindle lock; Lock on switch; Replaceable carbon brushes; Supplied with guard Disc diameter 100 millimeter; No load speed 11000rpm; Spindle thread m10; Overall length: 350 Millimeter Warranty: 1 year from the date of invoice (provide invoice copy to claim warranty); For any queries please contact Bosch power tools India customer service number (toll free). Join Bosch beconnected for extended warranty & rewards 12 pcs handtool kit is a simple kit for your everyday needs. Along with handtools, the kit also contains screwdriver bits. The kit also contains some screwdriver bits for basic house needs. Item dimension: 253mm x 280mm x 45mm",
@@ -54,6 +54,6 @@
   "Image": "https://m.media-amazon.com/images/I/512IGRidArL.jpg | https://m.media-amazon.com/images/I/31impSmcVSL.jpg | https://m.media-amazon.com/images/I/31jlmfiT-gL.jpg | https://m.media-amazon.com/images/I/41f+111S80L.jpg | https://m.media-amazon.com/images/I/51SXWYDcadL.jpg | https://m.media-amazon.com/images/I/51EETfdSP3L.jpg | https://m.media-amazon.com/images/I/31edwKHqx7L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "37.72%",
-  "SalePrice": 0
+  "Discount": 0.3772,
+  "SalePrice": 4048
 }

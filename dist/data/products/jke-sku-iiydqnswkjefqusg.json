@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQNSWKJEFQUSG",
   "title": "BLACK+DECKER Kx1800 Dual Temperature High Speed Heat Gun...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 3479,
   "mrp": 5071.75,
   "product_url": "https://www.amazon.in/BLACK-DECKER-Temperature-Cordless-10-Pieces/dp/B086VRHXRF/ref=sr_1_77",
   "rating": "3.93.9 out of 5 stars(14)3.9 out of 5 stars",
@@ -56,6 +56,6 @@
   "Image": "https://m.media-amazon.com/images/I/51GbY+ygOuL.jpg | https://m.media-amazon.com/images/I/31X2nqRphmL.jpg | https://m.media-amazon.com/images/I/41IRekzSG1L.jpg | https://m.media-amazon.com/images/I/51twY1uVBzL.jpg | https://m.media-amazon.com/images/I/419S83BZweL.jpg | https://m.media-amazon.com/images/I/51P3OPW4AFL.jpg | https://m.media-amazon.com/images/I/41WirWfCnUL.jpg | https://m.media-amazon.com/images/I/41gutwS5LQL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "31.4%",
-  "SalePrice": 0
+  "Discount": 0.314,
+  "SalePrice": 3479
 }

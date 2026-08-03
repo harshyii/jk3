@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSWBXHBMVUSSN",
   "title": "BLACK+DECKER BCRT8K35-B1 8V 1.5Ah MAX Cordless Rotary Tool...",
   "brand": "Black+Decker",
-  "current_price": 0,
+  "current_price": 2969,
   "mrp": 6419.06,
   "product_url": "https://www.amazon.in/DECKER-BCRT8K35-B1-Cordless-35-Piece-Accessory/dp/B09X78YZJM/ref=sr_1_11",
   "rating": "4.14.1 out of 5 stars(193)4.1 out of 5 stars",
@@ -65,6 +65,6 @@
   "Image": "https://m.media-amazon.com/images/I/712WntYAiAL.jpg | https://m.media-amazon.com/images/I/41Wb9Ho2l0L.jpg | https://m.media-amazon.com/images/I/51p--xC80KL.jpg | https://m.media-amazon.com/images/I/31r8UMWsxSL.jpg | https://m.media-amazon.com/images/I/41byBSgvsuL.jpg | https://m.media-amazon.com/images/I/41vwpq02ucL.jpg | https://m.media-amazon.com/images/I/61i2eZwQ57L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "53.75%",
-  "SalePrice": 0
+  "Discount": 0.5375,
+  "SalePrice": 2969
 }

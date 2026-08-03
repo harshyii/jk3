@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAVSJG5LUGMZS",
   "title": "Bosch GLM 40 Smart Measuring Device",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 5500,
   "mrp": 8950,
   "product_url": "https://www.amazon.in/Bosch-GLM-40-Discontinued-Manufacturer/dp/B00VI7WC32/ref=sr_1_75",
   "rating": "4.34.3 out of 5 stars(134)4.3 out of 5 stars",
@@ -52,7 +52,7 @@
   "Image": "https://m.media-amazon.com/images/I/61epKhGoVCL.jpg | https://m.media-amazon.com/images/I/41A2ANB26IL.jpg | https://m.media-amazon.com/images/I/41BQslmXHDL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "38.55%",
-  "SalePrice": 0,
+  "Discount": 0.3855,
+  "SalePrice": 5500,
   "Model": "346467871"
 }

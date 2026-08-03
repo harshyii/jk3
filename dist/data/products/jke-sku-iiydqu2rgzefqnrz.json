@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQU2RGZEFQNRZ",
   "title": "EZ-FLO 1/4 Inch ID (3/8 Inch OD) White Polyethylene Tubing,...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 2008,
   "mrp": 4986,
   "product_url": "https://www.amazon.in/EZ-FLO-98584-Polyethylene-Tubing-clear/dp/B08SQ6HX69/ref=sr_1_264",
   "rating": "4.84.8 out of 5 stars(94)4.8 out of 5 stars",
@@ -50,6 +50,6 @@
   "Image": "https://m.media-amazon.com/images/I/413KdJwMU5L.jpg | https://m.media-amazon.com/images/I/31V0ZwUSXNL.jpg | https://m.media-amazon.com/images/I/319CzlUuxeL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "59.73%",
-  "SalePrice": 0
+  "Discount": 0.5973,
+  "SalePrice": 2008
 }

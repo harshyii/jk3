@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOUKQKZLEINRZ",
   "title": "Inditrust professional 22inch Chainsaw 1pc guide bar and 1...",
   "brand": "Inditrust",
-  "current_price": 0,
+  "current_price": 820,
   "mrp": 1200,
   "product_url": "https://www.amazon.in/Inditrust-Chainsaw-Guide-22Inch-Professional/dp/B07QPVVD69/ref=sr_1_25",
   "rating": "3.43.4 out of 5 stars(96)3.4 out of 5 stars",
@@ -48,6 +48,6 @@
   "Image": "https://m.media-amazon.com/images/I/51wTJUwSQZL.jpg | https://m.media-amazon.com/images/I/31o9-2fiacL.jpg | https://m.media-amazon.com/images/I/31E4NVGM70L.jpg | https://m.media-amazon.com/images/I/31-bUNqMz1L.jpg | https://m.media-amazon.com/images/I/41r-BeGY2oL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "31.67%",
-  "SalePrice": 0
+  "Discount": 0.3167,
+  "SalePrice": 820
 }

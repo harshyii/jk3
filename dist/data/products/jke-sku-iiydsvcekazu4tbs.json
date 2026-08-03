@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSVCEKAZU4TBS",
   "title": "Eastman Electric Router EER-812N (1200W, 230V) ? High Speed...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 5760,
   "mrp": 9500,
   "product_url": "https://www.amazon.in/Eastman-Professional-Electric-Powerful-EER-812N/dp/B09TDP3NL2/ref=sr_1_115_mod_primary_new",
   "rating": "4.04.0 out of 5 stars(19)4.0 out of 5 stars",
@@ -67,7 +67,7 @@
   "Image": "https://m.media-amazon.com/images/I/61uY1DRfC7L.jpg | https://m.media-amazon.com/images/I/41pPMYb9k0L.jpg | https://m.media-amazon.com/images/I/51gq3MxKWzL.jpg | https://m.media-amazon.com/images/I/51XQyw15LdL.jpg | https://m.media-amazon.com/images/I/51avnoGHTXL.jpg | https://m.media-amazon.com/images/I/51SdjWebMsL.jpg | https://m.media-amazon.com/images/I/51J2tbOkBOL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "39.37%",
-  "SalePrice": 0,
+  "Discount": 0.3937,
+  "SalePrice": 5760,
   "Model": "EER-812"
 }

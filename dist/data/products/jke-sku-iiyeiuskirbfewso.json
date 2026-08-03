@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIUSKIRBFEWSO",
   "title": "INGCO Cordless Screwdriver, Rechargeable Screwdriver,...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2390,
   "mrp": 5400,
   "product_url": "https://www.amazon.in/Cordless-Screwdriver-Rechargeable-5-speed-Adjustment/dp/B0DRJDBRZN/ref=sr_1_83",
   "rating": "1.01.0 out of 5 stars(2)1.0 out of 5 stars",
@@ -47,7 +47,7 @@
   "Image": "https://m.media-amazon.com/images/I/81qP-MDYAiL.jpg | https://m.media-amazon.com/images/I/518XnRiZVUL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "55.74%",
-  "SalePrice": 0,
+  "Discount": 0.5574,
+  "SalePrice": 2390,
   "Model": "CSDLI0406"
 }

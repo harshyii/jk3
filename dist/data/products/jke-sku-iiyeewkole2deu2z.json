@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEEWKOLE2DEU2Z",
   "title": "Eastman Jrsdrive Cordless Impact Wrench with 600W Power,...",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 12621,
   "mrp": 21800,
   "product_url": "https://www.amazon.in/Eastman-Jrsdrive-Cordless-Impact-Wrench/dp/B0BYNY42SY/ref=sr_1_29_mod_primary_new",
   "description": "Eastman Cordless Impact Wrench Machine 12.7mm, Power - 600 W, No Load Speed - 2200 RPM, Impact Energy - 3200 BPM, Torque - 500Nm. Variable Speed Control: Adjustable speed settings for precise control and adaptability to different tasks. Versatile Applications: Ideal for automotive repairs, construction, and home improvement projects. The electric drill allows you to set the gearing for low speed and high torque or high speed and low torque Battery Operated: Comes with Heavy Duty 18V Li Battery",
@@ -62,6 +62,6 @@
   "Image": "https://m.media-amazon.com/images/I/51NQ7XhEA3L.jpg | https://m.media-amazon.com/images/I/41JXuCCxA1L.jpg | https://m.media-amazon.com/images/I/519pZfDV80L.jpg | https://m.media-amazon.com/images/I/51o6qAxHxCL.jpg | https://m.media-amazon.com/images/I/41B9ijGnFvL.jpg | https://m.media-amazon.com/images/I/51O67i78PwL.jpg | https://m.media-amazon.com/images/I/51QYXhgZxaL.jpg | https://m.media-amazon.com/images/I/41OB50RQtFL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "42.11%",
-  "SalePrice": 0
+  "Discount": 0.4211,
+  "SalePrice": 12621
 }

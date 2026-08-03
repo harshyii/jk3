@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEOS2GKM3FMWCC",
   "title": "INGCO 20V Cordless Heat Gun, Hot Air Gun Max 1022°F...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 5927,
   "mrp": 12999,
   "product_url": "https://www.amazon.in/Cordless-Adjustable-Temperature-Battery-Carrying/dp/B0GKFS6VXB/ref=sr_1_41",
   "description": "Voltage:20V, Temperature:300/550°C, Airflow:100/200 L/min",
@@ -32,6 +32,6 @@
   "Image": "https://m.media-amazon.com/images/I/71Bzk5vlGIL.jpg | https://m.media-amazon.com/images/I/51tgLRqrt9L.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "54.4%",
-  "SalePrice": 0
+  "Discount": 0.544,
+  "SalePrice": 5927
 }

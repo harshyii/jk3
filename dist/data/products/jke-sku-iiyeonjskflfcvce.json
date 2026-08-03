@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEONJSKFLFCVCE",
   "title": "Eastman Omega 850VA/12V Pure Sine Wave Inverter for...",
   "brand": "Eastman Energy",
-  "current_price": 0,
+  "current_price": 4999,
   "mrp": 7699,
   "product_url": "https://www.amazon.in/Omega-850VA-12V-Performance-Installation/dp/B0G52QVQTD/ref=sr_1_103",
   "description": "Eastman Omega 850VA/12V Pure Sine Wave Inverter is built to provide dependable backup power for households and small commercial spaces while keeping connected electronics safe. The 850VA capacity supports common loads like fans, LED lights, televisions, set‑top boxes and Wi‑Fi routers, ensuring day‑to‑day comfort even during frequent outages. Pure sine wave output closely matches grid power, so sensitive devices operate quietly and efficiently without buzzing or flicker, which can be an issue with square‑wave systems.Inside, Omega packs multiple protection layers: a lightning protector to absorb surges, temperature guard to prevent overheating, superior starting current handling for motor‑based loads and zero‑cross transition with “in a wink” changeover that keeps power stable when switching between mains and battery. The two‑step boost charging algorithm restores battery charge quickly after a cut and then tapers intelligently to protect the battery, improving service life and optimising electricity use. Backed by a 36‑month product warranty and a 10‑year transformer warranty, Eastman Omega 850VA offers strong long‑term value and peace of mind for anyone seeking a high‑performance, easy‑to‑install inverter solution.",
@@ -59,8 +59,8 @@
   "Image": "https://m.media-amazon.com/images/I/61+NF+SZhLL.jpg | https://m.media-amazon.com/images/I/41npagagx2L.jpg | https://m.media-amazon.com/images/I/51oG+LUPuGL.jpg | https://m.media-amazon.com/images/I/41WvodYJWIL.jpg | https://m.media-amazon.com/images/I/41CGjkeoBcL.jpg | https://m.media-amazon.com/images/I/51AQiZ5SQgL.jpg | https://m.media-amazon.com/images/I/41J0WeN452L.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "35.07%",
-  "SalePrice": 0,
+  "Discount": 0.3507,
+  "SalePrice": 4999,
   "Model": "Omega 850VA/12V",
   "Country": "India"
 }

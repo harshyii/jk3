@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAUZRKNLVSMKH",
   "title": "Freemans Topline - Professional Steel - Measuring Tape 15...",
   "brand": "Freemans",
-  "current_price": 0,
+  "current_price": 309,
   "mrp": 414,
   "product_url": "https://www.amazon.in/Freemans-Topline-Professional-Steel-Measuring/dp/B00S1SWY1G/ref=sr_1_23",
   "rating": "4.24.2 out of 5 stars(76)4.2 out of 5 stars",
@@ -49,8 +49,8 @@
   "Image": "https://m.media-amazon.com/images/I/61IlOR--o6L.jpg | https://m.media-amazon.com/images/I/51ys+ADOqqL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "25.36%",
-  "SalePrice": 0,
+  "Discount": 0.2536,
+  "SalePrice": 309,
   "Model": "TN15",
   "Country": "India"
 }

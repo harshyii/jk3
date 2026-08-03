@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAMBWHBKVKVCX",
   "title": "Eastman 48089 Closet/Toilet Connector",
   "brand": "Eastman",
-  "current_price": 0,
+  "current_price": 954.35,
   "mrp": 2374,
   "product_url": "https://www.amazon.in/Eastman-48089-Closet-Toilet-Connector/dp/B00068UUTW/ref=sr_1_300",
   "rating": "4.64.6 out of 5 stars(580)4.6 out of 5 stars",
@@ -63,6 +63,6 @@
   "Image": "https://m.media-amazon.com/images/I/7131k-yMY4L.jpg | https://m.media-amazon.com/images/I/31cBcOZDiAL.jpg | https://m.media-amazon.com/images/I/41TD-7S3w3L.jpg | https://m.media-amazon.com/images/I/41KZsn4feSL.jpg | https://m.media-amazon.com/images/I/41J0hyXsPjL.jpg | https://m.media-amazon.com/images/I/51bLZUkYvjL.jpg | https://m.media-amazon.com/images/I/51bTNtGp8RL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "59.8%",
-  "SalePrice": 0
+  "Discount": 0.598,
+  "SalePrice": 954.35
 }

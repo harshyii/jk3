@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSTBUKAZVMNCU",
   "title": "INGCO PS2408 240W Palm sander PS2408 (1 Set)",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 2890,
   "mrp": 6000,
   "product_url": "https://www.amazon.in/INGCO-240W-Palm-sander-PS2408/dp/B09L4P3V4T/ref=sr_1_76",
   "rating": "4.34.3 out of 5 stars(7)4.3 out of 5 stars",
@@ -55,7 +55,7 @@
   "Image": "https://m.media-amazon.com/images/I/51WudVvDqpL.jpg | https://m.media-amazon.com/images/I/31HBOx3uQ2L.jpg | https://m.media-amazon.com/images/I/31Tm-i-N59L.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "51.83%",
-  "SalePrice": 0,
+  "Discount": 0.5183,
+  "SalePrice": 2890,
   "Model": "PS2408"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDQRRSHFLUQTBR",
   "title": "Bosch Hand Tool Kit 73 Pieces Set, With Handtools And Drill...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 2352,
   "mrp": 3700,
   "product_url": "https://www.amazon.in/Bosch-Hand-Pieces-Handtools-Drill/dp/B08F29WHL1/ref=sr_1_63",
   "description": "This Bosch 73 Pcs Accessories DIY Starter Hand Tool Kit is for professionals or do-it-yourselfer. With a variety of hand tools, this kit has everything you need to get the job done right. Package includes: 1 x cutter knife, 1 x counter sink, 1 x hammer, 1 x measuring tape, 1 x hand screwdriver, 1 x magnetic bit holder, 3 x metal drills (3/4/6mm), 5 x mansory drilss (4/5/6/8/10mm), 15x sdbs (ph1/2/2/3: pz 1/2/2/3 ; s 4/6/7; t 15/20/25/30), 18 x screws (3size), 18 x plastic plugs (3size), 3x metal drills (3/4/6mm)",
@@ -50,6 +50,6 @@
   "Image": "https://m.media-amazon.com/images/I/61FGB9q0bmL.jpg | https://m.media-amazon.com/images/I/4107Dzst8fL.jpg | https://m.media-amazon.com/images/I/41jTcQAyi-L.jpg | https://m.media-amazon.com/images/I/31dAObCjUFL.jpg | https://m.media-amazon.com/images/I/31FXC9DtcUL.jpg | https://m.media-amazon.com/images/I/51IhxJ3aAjL.jpg | https://m.media-amazon.com/images/I/41690YKR+YL.jpg | https://m.media-amazon.com/images/I/31-kDrVMfeL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "36.43%",
-  "SalePrice": 0
+  "Discount": 0.3643,
+  "SalePrice": 2352
 }

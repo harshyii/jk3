@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDAUCVKYYFKWCR",
   "title": "Stanley 33-730 30-Foot-by-1-1/4-Inch FatMax Measuring Tape...",
   "brand": "Stanley",
-  "current_price": 0,
+  "current_price": 6980.28,
   "mrp": 11168.44,
   "product_url": "https://www.amazon.in/Stanley-33-730-30-Foot-4-Inch-Measuring/dp/B00PUV0UXQ/ref=sr_1_45",
   "rating": "4.54.5 out of 5 stars(159)4.5 out of 5 stars",
@@ -43,8 +43,8 @@
   "Image": "https://m.media-amazon.com/images/I/51uXueiraqL.jpg | https://m.media-amazon.com/images/I/3192aFZDNOL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "37.5%",
-  "SalePrice": 0,
+  "Discount": 0.375,
+  "SalePrice": 6980.28,
   "Model": "STANLEY - 33-730",
   "Country": "USA"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDOQSMINLVATSS",
   "title": "BOSCH Universal Aquatak 125 High Pressure Washer | 1500 W...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 12100,
   "mrp": 17499,
   "product_url": "https://www.amazon.in/Universal-Pressure-Self-Priming-Versatile-Portable/dp/B07BLCWPNR/ref=sr_1_18",
   "rating": "4.14.1 out of 5 stars(9,171)4.1 out of 5 stars",
@@ -68,7 +68,7 @@
   "Image": "https://m.media-amazon.com/images/I/717wYrO+b0L.jpg | https://m.media-amazon.com/images/I/31ukKT69EwL.jpg | https://m.media-amazon.com/images/I/61HaN2AMQxL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41IUo+J0n4L.jpg | https://m.media-amazon.com/images/I/41ScEpDiS1L.jpg | https://m.media-amazon.com/images/I/41EilMOgipL.jpg | https://m.media-amazon.com/images/I/51DozTJ01kL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": "30.85%",
-  "SalePrice": 0,
+  "Discount": 0.3085,
+  "SalePrice": 12100,
   "Model": "06008A7A70"
 }

@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDORCEGFBVEUSM",
   "title": "Taparia 818 Tester | Neon Glow Light | Yellow Colour | 200...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 70,
   "mrp": 200.9,
   "product_url": "https://www.amazon.in/Taparia-818-Steel-Tester-Yellow/dp/B07DD1CRRL/ref=sr_1_4",
   "rating": "4.44.4 out of 5 stars(10,952)4.4 out of 5 stars",
@@ -58,8 +58,8 @@
   "Image": "https://m.media-amazon.com/images/I/41hggRMw-8L.jpg | https://m.media-amazon.com/images/I/21cQzN-ii8L.jpg | https://m.media-amazon.com/images/I/41KeELYX+sL.jpg | https://m.media-amazon.com/images/I/31ka7YMTd5L.jpg",
   "StockQuantity": 0,
   "Unit": "10 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0,
+  "Discount": 0.6516,
+  "SalePrice": 70,
   "Model": "818",
   "Country": "India"
 }

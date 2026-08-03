@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYDSWSWJBJVATCR",
   "title": "Bosch Gbm 350 Professional Rotary Drill, Wood & Metal Work...",
   "brand": "Bosch",
-  "current_price": 0,
+  "current_price": 2648,
   "mrp": 7599.76,
   "product_url": "https://www.amazon.in/Bosch-06011A95F1-Professional-2608595055-Packet/dp/B09ZVHSPLQ/ref=sr_1_138",
   "description": "Powerful 350W motor for robust Wood Metal Working applications Effective use grip Slim and compact design - ease of use in narrow space Forward / Reverse rotation for inserting and removing screws Self-centering split point drill tip means there is no need to pre-punch or pilot drill up to 10 mm diameter",
@@ -44,6 +44,6 @@
   "Image": "https://m.media-amazon.com/images/I/41l5Vd5RRYL.jpg | https://m.media-amazon.com/images/I/31OjmgVF5TL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "65.16%",
-  "SalePrice": 0
+  "Discount": 0.6516,
+  "SalePrice": 2648
 }

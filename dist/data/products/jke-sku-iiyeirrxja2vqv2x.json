@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEIRRXJA2VQV2X",
   "title": "TAPARIA Impact Socket IM 22, 1/2\"(12.7mm) Square drive...",
   "brand": "Taparia",
-  "current_price": 0,
+  "current_price": 199,
   "mrp": 250,
   "product_url": "https://www.amazon.in/IM-22-Chrome-Molybdenum-Construction-Professional/dp/B0DF7H5XWW/ref=sr_1_236",
   "rating": "4.64.6 out of 5 stars(19)4.6 out of 5 stars",
@@ -55,7 +55,7 @@
   "Image": "https://m.media-amazon.com/images/I/51p6ZXymzLL.jpg | https://m.media-amazon.com/images/I/21rHisEw5KL.jpg | https://m.media-amazon.com/images/I/31zT2Ucl5QL.jpg",
   "StockQuantity": 0,
   "Unit": "1 Count",
-  "Discount": "20.4%",
-  "SalePrice": 0,
+  "Discount": 0.204,
+  "SalePrice": 199,
   "Model": "IM 22"
 }

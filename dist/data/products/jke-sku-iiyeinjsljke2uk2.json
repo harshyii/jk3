@@ -2,7 +2,7 @@
   "asin": "JKE-SKU-IIYEINJSLJKE2UK2",
   "title": "INGCO Plier Set, 3 pcs, Include 8\" Combination Pliers, 6\"...",
   "brand": "Ingco",
-  "current_price": 0,
+  "current_price": 980,
   "mrp": 1200,
   "product_url": "https://www.amazon.in/Include-Combination-Pliers-Diagonal-Cutting/dp/B0D52ZTMQZ/ref=sr_1_67",
   "rating": "4.04.0 out of 5 stars(21)4.0 out of 5 stars",
@@ -57,6 +57,6 @@
   "Image": "https://m.media-amazon.com/images/I/71-LXhf5gtS.jpg | https://m.media-amazon.com/images/I/41YfcGjVZ0S.jpg | https://m.media-amazon.com/images/I/51xFafg13-S.jpg | https://m.media-amazon.com/images/I/51P-0l9Z30S.jpg | https://m.media-amazon.com/images/I/51tUlTJAtPS.jpg | https://m.media-amazon.com/images/I/61ztJEtKfCS.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "18.33%",
-  "SalePrice": 0
+  "Discount": 0.1833,
+  "SalePrice": 980
 }

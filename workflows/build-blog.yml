@@ -1,0 +1,29 @@
+name: Build Static Blog Pages
+
+on:
+  push:
+    branches: [ main, master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+
+      - name: Install dependencies
+        run: npm install marked
+
+      - name: Run blog builder script
+        run: node build-blogs.js
+
+      - name: Commit and push generated HTML files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-generate static blog HTML pages for SEO"
+          file_pattern: "*.html"

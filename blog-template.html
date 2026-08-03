@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{SEO_TITLE}}</title>
+    
+    <!-- Hardcoded Meta Description for 100% Bot Visibility -->
+    <meta name="description" content="{{META_DESCRIPTION}}">
+    <link rel="canonical" href="{{CANONICAL_URL}}">
+
+    <!-- Open Graph / Social Sharing Meta Tags -->
+    <meta property="og:title" content="{{SEO_TITLE}}">
+    <meta property="og:description" content="{{META_DESCRIPTION}}">
+    <meta property="og:image" content="{{OG_IMAGE}}">
+    <meta property="og:url" content="{{CANONICAL_URL}}">
+    <meta property="og:type" content="article">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="{{SEO_TITLE}}">
+    <meta name="twitter:description" content="{{META_DESCRIPTION}}">
+    <meta name="twitter:image" content="{{OG_IMAGE}}">
+
+    <!-- Stylesheets -->
+    <link rel="stylesheet" href="src/css/bootstrap.min.css">
+    <link rel="stylesheet" href="src/css/app.css">
+</head>
+<body class="bg-light">
+    <!-- Header / Navbar placeholder or content -->
+    
+    <main class="container py-5">
+        <article class="single-blog py-3 w-100">
+            <nav aria-label="breadcrumb" class="mb-4">
+                <ol class="breadcrumb">
+                    <li class="breadcrumb-item"><a href="blog.html" class="text-decoration-none">Blog Feed</a></li>
+                    <li class="breadcrumb-item active text-truncate" aria-current="page" style="max-width: 300px;">{{TITLE}}</li>
+                </ol>
+            </nav>
+            <h1 class="fw-bold text-dark mb-3">{{TITLE}}</h1>
+            <p class="text-muted mb-4">
+                <i class="bi bi-person-circle me-1"></i>By {{AUTHOR}} &bull; 
+                <i class="bi bi-calendar3 ms-2 me-1"></i>{{DATE}} &bull; 
+                <span class="badge bg-secondary ms-1">{{CATEGORY}}</span>
+            </p>
+            <div class="my-4">
+                <img src="{{FEATURED_IMAGE}}" alt="{{TITLE}}" class="img-fluid rounded shadow-sm w-100 object-fit-cover" style="max-height: 450px;">
+            </div>
+            <div class="blog-content mt-4 text-secondary lh-lg fs-5">
+                {{BLOG_CONTENT}}
+            </div>
+        </article>
+    </main>
+
+</body>
+</html>

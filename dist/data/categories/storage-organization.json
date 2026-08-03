@@ -3,16 +3,6 @@
   "slug": "storage-organization",
   "products": [
     {
-      "sku": "JKE-IIYEMTJYJJIFIQSX",
-      "slug": "bonkaso-5000mah-mini-power-bank-225w-pd-fast-charging",
-      "name": "BonKaso 5000mAh Mini Power Bank 22.5W PD Fast Charging,...",
-      "brand": "Bonkaso",
-      "category": "Storage & Organization",
-      "price": 949,
-      "image": "https://m.media-amazon.com/images/I/61XomfVpY-L.jpg | https://m.media-amazon.com/images/I/31A6HmoNrLL.jpg | https://m.media-amazon.com/images/I/410KrRvw8RL.jpg | https://m.media-amazon.com/images/I/51v+Oiz9buL.jpg | https://m.media-amazon.com/images/I/51awDMTArEL.jpg | https://m.media-amazon.com/images/I/41NK2Se5UAL.jpg | https://m.media-amazon.com/images/I/51K7PSKYXiL.jpg | https://m.media-amazon.com/images/I/41mBPbKGKTL.jpg",
-      "productUrl": "https://www.amazon.in/BonKaso-Portable-5000mAh-Charging-Digital/dp/B0FM8JPTBW/ref=sr_1_202"
-    },
-    {
       "sku": "JKE-IIYEERSXIRLUOUCU",
       "slug": "electronic-spices-aa-4-cell-battery-holder-hard-plastic",
       "name": "Electronic Spices AA 4 Cell Battery Holder Hard Plastic...",
@@ -333,26 +323,6 @@
       "productUrl": "https://www.amazon.in/Energizer-10000mAh-Pocket-Size-Registered-Compliant/dp/B0C5H33GB2/ref=sr_1_253"
     },
     {
-      "sku": "JKE-IIYEMS2QJZMVSOK2",
-      "slug": "acer-bubble-wireless-mouse-amr100-24ghz-silent-click-",
-      "name": "Acer Bubble Wireless Mouse AMR100 | 2.4GHz Silent Click |...",
-      "brand": "Acer",
-      "category": "Storage & Organization",
-      "price": 499,
-      "image": "https://m.media-amazon.com/images/I/61Wr9tOYxRL.jpg | https://m.media-amazon.com/images/I/317Z64y0AaL.jpg | https://m.media-amazon.com/images/I/41kCermszsL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/418rq3ip71L.jpg | https://m.media-amazon.com/images/I/41OhBaGg9AL.jpg | https://m.media-amazon.com/images/I/416CJCgdjsL.jpg | https://m.media-amazon.com/images/I/41RQRwwjhWL.jpg | https://m.media-amazon.com/images/I/41jHY+G-5jL.jpg",
-      "productUrl": "https://www.amazon.in/Wireless-Ergonomic-Battery-Compact-Lightweight/dp/B0FKPNYY9Z/ref=sr_1_236"
-    },
-    {
-      "sku": "JKE-IIYEQNSCGFGDQTRR",
-      "slug": "goboult-newly-launched-tenet-pro-with-anc-tws-earbuds-75h",
-      "name": "GOBOULT Newly Launched Tenet Pro with ANC TWS Earbuds, 75H...",
-      "brand": "Goboult",
-      "category": "Storage & Organization",
-      "price": 1799,
-      "image": "https://m.media-amazon.com/images/I/81ZjY7nkyRL.jpg | https://m.media-amazon.com/images/I/41UVoSJNRXL.jpg | https://m.media-amazon.com/images/I/41XO+AE8pPL.jpg | https://m.media-amazon.com/images/I/51ZC2mdXweL.jpg | https://m.media-amazon.com/images/I/41FSq-3fhdL.jpg | https://m.media-amazon.com/images/I/51FVd03CTEL.jpg | https://m.media-amazon.com/images/I/51GLy2hYuuL.jpg | https://m.media-amazon.com/images/I/41MOwtH2uTL.jpg",
-      "productUrl": "https://www.amazon.in/GOBOULT-Launched-Playtime-Bluetooth-Wireless/dp/B0H6B1L8N1/ref=sr_1_259"
-    },
-    {
       "sku": "JKE-IIYEOTBTHBLTCNZY",
       "slug": "electro-6f22-9v-battery-compatible-with-hiw-hi-watt-",
       "name": "Electro 6F22 9V Battery | Compatible with HIW Hi-Watt |...",
@@ -443,16 +413,6 @@
       "productUrl": "https://www.amazon.in/Electronic-Spices-Battery-Holder-Plastic/dp/B0BFWFGV7B/ref=sr_1_218"
     },
     {
-      "sku": "JKE-IIYDQTCGJY2EYWBY",
-      "slug": "nitho-xbox-series-xs-xbox-one-xs-dual-charger-box-dual",
-      "name": "Nitho Xbox Series X/S Xbox One X/S Dual Charger Box, Dual...",
-      "brand": "Nitho",
-      "category": "Storage & Organization",
-      "price": 1434,
-      "image": "https://m.media-amazon.com/images/I/619aYDsvhtL.jpg | https://m.media-amazon.com/images/I/41dA-ek9MTL.jpg | https://m.media-amazon.com/images/I/51E-BHkX8QL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41M1iKpSGPL.jpg | https://m.media-amazon.com/images/I/41lW4Rttw9L.jpg | https://m.media-amazon.com/images/I/41kH-aHg86L.jpg | https://m.media-amazon.com/images/I/41XzAMf72LL.jpg | https://m.media-amazon.com/images/I/41SppO8LiGL.jpg",
-      "productUrl": "https://www.amazon.in/Nitho-Charger-Rechargeable-Battery-Controllers/dp/B08LFN4LX8/ref=sr_1_159_mod_primary_new"
-    },
-    {
       "sku": "JKE-IIYEQNBRGU4DKMSX",
       "slug": "philips-lr03p10b94-aaa-power-alkaline-battery-pack-of-10",
       "name": "Philips LR03P10B/94 AAA Power Alkaline Battery (Pack of 10)...",
@@ -491,16 +451,6 @@
       "price": 292,
       "image": "https://m.media-amazon.com/images/I/71SKStqaKsL.jpg | https://m.media-amazon.com/images/I/41YPo07Q1-L.jpg | https://m.media-amazon.com/images/I/51ySWTSZF8L.jpg | https://m.media-amazon.com/images/I/417l7X5lG6L.jpg | https://m.media-amazon.com/images/I/41rElgX4ejL.jpg | https://m.media-amazon.com/images/I/41EHJoh0eIL.jpg | https://m.media-amazon.com/images/I/51jgW0HtxZL.jpg | https://m.media-amazon.com/images/I/41a7AskGEdL.jpg",
       "productUrl": "https://www.amazon.in/rts-USB-Type-Compatible-3-0/dp/B0CJ9B1ZP8/ref=sr_1_196"
-    },
-    {
-      "sku": "JKE-IIYEQMSNKJBTIMSU",
-      "slug": "wireslab-300-feet-metallic-twist-cable-roll-for-versatile",
-      "name": "WIRESLAB 300 Feet Metallic Twist Cable Roll for Versatile...",
-      "brand": "Wireslab Assured",
-      "category": "Storage & Organization",
-      "price": 199,
-      "image": "https://m.media-amazon.com/images/I/512TM1Vxt6L.jpg | https://m.media-amazon.com/images/I/31QUcj0hLdL.jpg | https://m.media-amazon.com/images/I/41lJn3Qk7WL.jpg | https://m.media-amazon.com/images/I/41fDBR6cJKL.jpg | https://m.media-amazon.com/images/I/5119aKbC63L.jpg | https://m.media-amazon.com/images/I/41vRbFVqF0L.jpg | https://m.media-amazon.com/images/I/41YTNXVmSmL.jpg | https://m.media-amazon.com/images/I/41AFzStszsL.jpg",
-      "productUrl": "https://www.amazon.in/WIRESLAB-Metallic-Twist-Versatile-Garden/dp/B0H2MRC42T/ref=sr_1_182"
     },
     {
       "sku": "JKE-IIYEEWSLK5NDMVBR",
@@ -553,16 +503,6 @@
       "productUrl": "https://www.amazon.in/Command-Strongly-Reusable-Adhesive-Multi-surface/dp/B000FCCZEC/ref=sr_1_276"
     },
     {
-      "sku": "JKE-IIYEGOBRIJLUETSO",
-      "slug": "dailyobjects-large-travel-digital-electronic-accessories",
-      "name": "DailyObjects Large Travel Digital Electronic Accessories...",
-      "brand": "Dailyobjects",
-      "category": "Storage & Organization",
-      "price": 1199,
-      "image": "https://m.media-amazon.com/images/I/81j9kw9MC1L.jpg | https://m.media-amazon.com/images/I/41XZMw3+p3L.jpg | https://m.media-amazon.com/images/I/41eNhA8VysL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/413z+fgvs-L.jpg | https://m.media-amazon.com/images/I/51dRP8GDyrL.jpg | https://m.media-amazon.com/images/I/41fzU8bNUkL.jpg | https://m.media-amazon.com/images/I/61zwHXcUoEL.jpg | https://m.media-amazon.com/images/I/414EFGT22oL.jpg",
-      "productUrl": "https://www.amazon.in/DailyObjects-Electronic-Accessories-Organizer-Organiser/dp/B0C81BWBNN/ref=sr_1_264"
-    },
-    {
       "sku": "JKE-IIYDOWSSIJBFEOKE",
       "slug": "fedus-35mm-jack-stereo-audio-male-to-2-rca-cable-av-video",
       "name": "FEDUS 3.5mm Jack Stereo Audio Male to 2 RCA Cable AV Video...",
@@ -593,16 +533,6 @@
       "productUrl": "https://www.amazon.in/INEFABLE-Charger-Protector-Protective-Silicone/dp/B0FZVCCPYB/ref=sr_1_233"
     },
     {
-      "sku": "JKE-IIYEQMRWJUYUIOKX",
-      "slug": "street27-10pcs-earphone-cable-clip-holder-for-headphones",
-      "name": "Street27 10Pcs Earphone Cable Clip Holder for Headphones,...",
-      "brand": "Street27",
-      "category": "Storage & Organization",
-      "price": 278,
-      "image": "https://m.media-amazon.com/images/I/617wm6fnvQL.jpg | https://m.media-amazon.com/images/I/41dd-5baoVL.jpg | https://m.media-amazon.com/images/I/41GVvIMleEL.jpg | https://m.media-amazon.com/images/I/41jvS6VKpdL.jpg | https://m.media-amazon.com/images/I/41RdMdqxqeL.jpg | https://m.media-amazon.com/images/I/51Y3Yll1GgL.jpg | https://m.media-amazon.com/images/I/319+elr3SoL.jpg | https://m.media-amazon.com/images/I/41wC5wrp88L.jpg",
-      "productUrl": "https://www.amazon.in/Street27-Clip-Headphones-Microphones-Attachment/dp/B0H26M1D9W/ref=sr_1_214"
-    },
-    {
       "sku": "JKE-IIYEOM2YI5IUUNSS",
       "slug": "karwan-60w-2in1-type-c-to-type-c-cable-with-iwatch-charger",
       "name": "KARWAN 60W 2in1 Type C to Type C Cable with iWatch Charger...",
@@ -631,16 +561,6 @@
       "price": 169,
       "image": "https://m.media-amazon.com/images/I/71SDEH5J5bS.jpg | https://m.media-amazon.com/images/I/41I2bg6bRIS.jpg | https://m.media-amazon.com/images/I/61tV6RiPfLL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41tzGi7b8fS.jpg | https://m.media-amazon.com/images/I/51eu5Lij7dL.jpg | https://m.media-amazon.com/images/I/51JuriO5w-L.jpg | https://m.media-amazon.com/images/I/51D7y1eodsL.jpg",
       "productUrl": "https://www.amazon.in/Gizga-Essentials-Reusable-Double-Organizer/dp/B096XFWW4F/ref=sr_1_211"
-    },
-    {
-      "sku": "JKE-IIYEMMKYGVKEWRRT",
-      "slug": "beats-usb-c-to-lightning-woven-cable-fast-charging",
-      "name": "Beats USB-C to Lightning Woven Cable, Fast Charging,...",
-      "brand": "Beats",
-      "category": "Storage & Organization",
-      "price": 1900,
-      "image": "https://m.media-amazon.com/images/I/71H7e+p06SL.jpg | https://m.media-amazon.com/images/I/41bCIpeIkTL.jpg | https://m.media-amazon.com/images/I/31+aM8PkiWL.jpg | https://m.media-amazon.com/images/I/41H5vFSx5sL.jpg | https://m.media-amazon.com/images/I/41Dzd08ElLL.jpg | https://m.media-amazon.com/images/I/31O4rpmSS-L.jpg | https://m.media-amazon.com/images/I/31ybjstK0VL.jpg",
-      "productUrl": "https://www.amazon.in/Beats-Lightning-Charging-Tangle-Free-Compatible/dp/B0F1X5TKF3/ref=sr_1_175"
     },
     {
       "sku": "JKE-IIYEMRCRKNGUWOKG",
@@ -683,16 +603,6 @@
       "productUrl": "https://www.amazon.in/Sounce-Self-Adhesive-Cable-Clips-Management/dp/B0FBX2H419/ref=sr_1_250"
     },
     {
-      "sku": "JKE-IIYEMR2WJI3EWRRV",
-      "slug": "like-star-cable-protector-combo-2-spiral-cable-wraps-4",
-      "name": "Like Star® Cable Protector Combo – 2 Spiral Cable Wraps + 4...",
-      "brand": "Like Star",
-      "category": "Storage & Organization",
-      "price": 229,
-      "image": "https://m.media-amazon.com/images/I/81TblI2mH8L.jpg | https://m.media-amazon.com/images/I/41FN5Hwzb3L.jpg | https://m.media-amazon.com/images/I/51lD19awyvL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41EJOya06aL.jpg | https://m.media-amazon.com/images/I/41VrsuLrkaL.jpg | https://m.media-amazon.com/images/I/41kRFN1P9sL.jpg | https://m.media-amazon.com/images/I/41XQy0jDoTL.jpg | https://m.media-amazon.com/images/I/41HXJjbsWUL.jpg",
-      "productUrl": "https://www.amazon.in/Like-Star%C2%AE-Cable-Protector-Combo/dp/B0FGVJ6KF5/ref=sr_1_239"
-    },
-    {
       "sku": "JKE-IIYEIOCHII4FUVSY",
       "slug": "ednita-cable-protector-with-3d-cute-pattern-for-iphone",
       "name": "EDNITA Cable Protector with 3D Cute Pattern for iPhone...",
@@ -703,26 +613,6 @@
       "productUrl": "https://www.amazon.in/EDNITA-Protector-Charging-Protective-Protection/dp/B0D8GB8ZVX/ref=sr_1_208"
     },
     {
-      "sku": "JKE-IIYEIRCQKFMVIR2C",
-      "slug": "arctic-hunter-tech-cable-organizer-for-travel-hard-drive",
-      "name": "Arctic Hunter Tech Cable Organizer for Travel Hard Drive...",
-      "brand": "Ah Arctic Hunter",
-      "category": "Storage & Organization",
-      "price": 1713,
-      "image": "https://m.media-amazon.com/images/I/71vlAR0pG6L.jpg | https://m.media-amazon.com/images/I/41UwzHLOt+L.jpg | https://m.media-amazon.com/images/I/710VkKjt4qL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51QDpXLoSxL.jpg | https://m.media-amazon.com/images/I/51aIqmHTszL.jpg | https://m.media-amazon.com/images/I/51oiUHe-s7L.jpg | https://m.media-amazon.com/images/I/51+NTPxSWiL.jpg | https://m.media-amazon.com/images/I/31SGshUVRGL.jpg",
-      "productUrl": "https://www.amazon.in/Organizer-Accessories-Charger-Electronics-Multi-Pocket/dp/B0DDPQYTGB/ref=sr_1_243"
-    },
-    {
-      "sku": "JKE-IIYEIRCKJRLDGNCQ",
-      "slug": "portable-led-work-light-rechargeable-100w-10000lm",
-      "name": "Portable LED Work Light Rechargeable, 100W 10000LM...",
-      "brand": "Haoon",
-      "category": "Storage & Organization",
-      "price": 530,
-      "image": "https://m.media-amazon.com/images/I/71IHmh7OMML.jpg | https://m.media-amazon.com/images/I/512B3Swm-wL.jpg | https://m.media-amazon.com/images/I/51UuhD+0nAL.jpg | https://m.media-amazon.com/images/I/51lI63v4lKL.jpg | https://m.media-amazon.com/images/I/51YziWrCZaL.jpg | https://m.media-amazon.com/images/I/51Uc3lkUL0L.jpg | https://m.media-amazon.com/images/I/51i1tizcQZL.jpg | https://m.media-amazon.com/images/I/51Q7s+7qL2L.jpg",
-      "productUrl": "https://www.amazon.in/HAOON-LED-Work-Light-Rechargeable/dp/B0DDJLV34P/ref=sr_1_214"
-    },
-    {
       "sku": "JKE-IIYEMVRTIMZVGS2Y",
       "slug": "embox-solar-light-outdoor-home-garden-waterproof-stair-deck",
       "name": "EMBOX Solar Light Outdoor Home Garden Waterproof Stair Deck...",
@@ -731,16 +621,6 @@
       "price": 299,
       "image": "https://m.media-amazon.com/images/I/61boc7y9wVL.jpg | https://m.media-amazon.com/images/I/41pAUJxdZfL.jpg | https://m.media-amazon.com/images/I/41HJTvMfhML.jpg | https://m.media-amazon.com/images/I/41vOLg5yVdL.jpg | https://m.media-amazon.com/images/I/41-qVlmTF1L.jpg | https://m.media-amazon.com/images/I/51SI13cQfTL.jpg | https://m.media-amazon.com/images/I/51GUkXugJ9L.jpg | https://m.media-amazon.com/images/I/51cFni6S8dL.jpg",
       "productUrl": "https://www.amazon.in/EMBOX-Outdoor-Waterproof-Sunlight-Standard/dp/B0FV3C3SKX/ref=sr_1_12"
-    },
-    {
-      "sku": "JKE-IIYEEWSEHA3TCVBR",
-      "slug": "solar-butterfly-gift-for-mom-girls-color-changing-wind",
-      "name": "Solar Butterfly Gift for Mom Girls, Color Changing Wind...",
-      "brand": "Zeiliuled",
-      "category": "Storage & Organization",
-      "price": 999,
-      "image": "https://m.media-amazon.com/images/I/81Ztn2uohwL.jpg | https://m.media-amazon.com/images/I/51COP9wtDUL.jpg | https://m.media-amazon.com/images/I/51U79vWft6L.jpg | https://m.media-amazon.com/images/I/51zE0h1dreL.jpg | https://m.media-amazon.com/images/I/61wdpwymIzL.jpg | https://m.media-amazon.com/images/I/51YOhWaanKL.jpg | https://m.media-amazon.com/images/I/611kw12uuGL.jpg | https://m.media-amazon.com/images/I/51DbVJV615L.jpg",
-      "productUrl": "https://www.amazon.in/Butterfly-Outside-Changing-Decorative-Waterproof/dp/B0BZD871T1/ref=sr_1_220"
     },
     {
       "sku": "JKE-IIYEOVCWGZEFORCG",
@@ -843,16 +723,6 @@
       "productUrl": "https://www.amazon.in/Sounce-High-Speed-Ethernet-Compatible-Computer/dp/B0BQ6MCQKD/ref=sr_1_184"
     },
     {
-      "sku": "JKE-IIYEMWCWKNMVIUSS",
-      "slug": "high-speed-3m-4k-ultra-hd-hdmi-cable-gold-plated-audio",
-      "name": "High Speed 3m 4K Ultra HD HDMI Cable Gold Plated – Audio...",
-      "brand": "Vihomi",
-      "category": "Storage & Organization",
-      "price": 239,
-      "image": "https://m.media-amazon.com/images/I/51C2mvE7+7L.jpg | https://m.media-amazon.com/images/I/51C2mvE7+7L.jpg | https://m.media-amazon.com/images/I/51NGjL3xVTL.jpg | https://m.media-amazon.com/images/I/41S8EcEanrL.jpg | https://m.media-amazon.com/images/I/41GmA4k5fmL.jpg | https://m.media-amazon.com/images/I/61q+hmxDDWL.jpg",
-      "productUrl": "https://www.amazon.in/VIHOMI-Speed-Ultra-Cable-Plated/dp/B0FXVSYTRR/ref=sr_1_250"
-    },
-    {
       "sku": "JKE-IIYEGUCZGRJUYVSS",
       "slug": "portronics-konnect-sync-4k60hz-hdmi-to-hdmi-cable-3m",
       "name": "Portronics Konnect Sync 4K@60Hz HDMI to HDMI Cable, 3M...",
@@ -861,16 +731,6 @@
       "price": 269,
       "image": "https://m.media-amazon.com/images/I/61RmnItTPvL.jpg | https://m.media-amazon.com/images/I/41cLDkoi8RL.jpg | https://m.media-amazon.com/images/I/61NmCFFQl3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51SA-VPTJWL.jpg | https://m.media-amazon.com/images/I/415u7IBr1cL.jpg | https://m.media-amazon.com/images/I/41olx9roqFL.jpg | https://m.media-amazon.com/images/I/41RP351qC6L.jpg | https://m.media-amazon.com/images/I/41vGggNM73L.jpg",
       "productUrl": "https://www.amazon.in/Portronics-Konnect-Compatible-Projector-Soundbar/dp/B0CPY4SLVR/ref=sr_1_187"
-    },
-    {
-      "sku": "JKE-IIYEQMKNK5LTETCR",
-      "slug": "led-string-light-3-meter-warm-white-copper-wire-fairy",
-      "name": "LED String Light – 3 Meter Warm White Copper Wire Fairy,...",
-      "brand": "Trend N Art",
-      "category": "Storage & Organization",
-      "price": 69,
-      "image": "https://m.media-amazon.com/images/I/41222y+Y9UL.jpg | https://m.media-amazon.com/images/I/21auMB6uW3L.jpg | https://m.media-amazon.com/images/I/41tmITiJeAL.jpg | https://m.media-amazon.com/images/I/418cP-bQB0L.jpg | https://m.media-amazon.com/images/I/51QcHxvtpoL.jpg | https://m.media-amazon.com/images/I/41oYv2lGNJL.jpg | https://m.media-amazon.com/images/I/51snSL6jozL.jpg | https://m.media-amazon.com/images/I/5146gDNQFTL.jpg",
-      "productUrl": "https://www.amazon.in/TREND-ART-LED-String-Light/dp/B0H1MWW2LQ/ref=sr_1_133"
     },
     {
       "sku": "JKE-IIYEQNJWIJLFIUCU",
@@ -953,56 +813,6 @@
       "productUrl": "https://www.amazon.in/FEDUS-Extension-Aluminum-SuperSpeed-Playstation/dp/B0B8ZVJTJH/ref=sr_1_220"
     },
     {
-      "sku": "JKE-IIYEMQSHKFEDEUSE",
-      "slug": "trendy-home-anti-slip-mat-45-cm-x-3-m-for-drawers-fridge-",
-      "name": "Trendy Home Anti-Slip Mat 45 cm x 3 m for Drawers, Fridge &...",
-      "brand": "Senego",
-      "category": "Storage & Organization",
-      "price": 299,
-      "image": "https://m.media-amazon.com/images/I/81HZWG7MFwL.jpg | https://m.media-amazon.com/images/I/517s1aFc0HL.jpg | https://m.media-amazon.com/images/I/61b1zKXbXWL.jpg | https://m.media-amazon.com/images/I/51il6JbyG1L.jpg | https://m.media-amazon.com/images/I/51h6gnVGKoL.jpg | https://m.media-amazon.com/images/I/51Zc3Nw7NfL.jpg | https://m.media-amazon.com/images/I/51OA6TWO04L.jpg",
-      "productUrl": "https://www.amazon.in/Senego-Anti-Slip-Mat-Washable-Cupboards/dp/B0FBGQH2RD/ref=sr_1_201"
-    },
-    {
-      "sku": "JKE-IIYDQS2XIY3EEMSO",
-      "slug": "superbottoms-basic-leakage-proof-advanced-cloth-diapers-for",
-      "name": "Superbottoms Basic Leakage-proof advanced cloth diapers for...",
-      "brand": "Superbottoms",
-      "category": "Storage & Organization",
-      "price": 554,
-      "image": "https://m.media-amazon.com/images/I/61IhLH8Gt-L.jpg | https://m.media-amazon.com/images/I/41S6aEBCk+L.jpg | https://m.media-amazon.com/images/I/61UdxF-9IdL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41+Uni1jFCL.jpg | https://m.media-amazon.com/images/I/41d6-MVApiL.jpg | https://m.media-amazon.com/images/I/51bxAwSep1L.jpg | https://m.media-amazon.com/images/I/51u+T0wtqxL.jpg | https://m.media-amazon.com/images/I/51CU9ULVrsL.jpg",
-      "productUrl": "https://www.amazon.in/Superbottoms-Leakage-proof-advanced-Absorbent-Adjustable/dp/B08KWF6B2N/ref=sr_1_191"
-    },
-    {
-      "sku": "JKE-IIYEOV2NHBCEOTKN",
-      "slug": "beetel-magvibe-series-ws01magsafe-10000mah-magnetic-15w",
-      "name": "Beetel MagVibe Series WS01Magsafe 10000mAh Magnetic 15W...",
-      "brand": "Beetel",
-      "category": "Storage & Organization",
-      "price": 1399,
-      "image": "https://m.media-amazon.com/images/I/61mMLM6TVSL.jpg | https://m.media-amazon.com/images/I/31yIixYL1IL.jpg | https://m.media-amazon.com/images/I/41t10mvqadL.jpg | https://m.media-amazon.com/images/I/41e-m-5vKZL.jpg | https://m.media-amazon.com/images/I/41eFEVeH03L.jpg | https://m.media-amazon.com/images/I/41f66tyM-AL.jpg | https://m.media-amazon.com/images/I/412HG2wzRZL.jpg",
-      "productUrl": "https://www.amazon.in/Beetel-WS01-10000mAh-Smartphones-White/dp/B0GWM8DGMM/ref=sr_1_202"
-    },
-    {
-      "sku": "JKE-IIYEMRSIG4ZFSS2N",
-      "slug": "pushp-whole-cumin-seeds-sabut-jeera-500g-pouch-pack",
-      "name": "Pushp Whole cumin seeds (Sabut Jeera) | 500g Pouch | Pack...",
-      "brand": "Pushp Brand",
-      "category": "Storage & Organization",
-      "price": 220,
-      "image": "https://m.media-amazon.com/images/I/815RRHNCN7L.jpg | https://m.media-amazon.com/images/I/51yOenNTFWL.jpg | https://m.media-amazon.com/images/I/51sdIu92yKL.jpg | https://m.media-amazon.com/images/I/51zFBp2pyGL.jpg | https://m.media-amazon.com/images/I/51WCL7e4azL.jpg | https://m.media-amazon.com/images/I/51hYI8DjVeL.jpg | https://m.media-amazon.com/images/I/51JTDM3AuFL.jpg | https://m.media-amazon.com/images/I/517ev38AiAL.jpg",
-      "productUrl": "https://www.amazon.in/Pushp-Premium-Aromatic-Flavorful-Seasoning/dp/B0FFH72YKM/ref=sr_1_11"
-    },
-    {
-      "sku": "JKE-IIYDOQ2ELEYVQSS2",
-      "slug": "amazon-brand-vedaka-cumin-safed-zeera-whole-100-g-",
-      "name": "Amazon Brand - Vedaka Cumin (Safed Zeera) Whole | 100 g |...",
-      "brand": "Vedaka",
-      "category": "Storage & Organization",
-      "price": 60,
-      "image": "https://m.media-amazon.com/images/I/71+QNHWigGL.jpg | https://m.media-amazon.com/images/I/41PU-+r7NYL.jpg | https://m.media-amazon.com/images/I/51nfBjULdRL.jpg | https://m.media-amazon.com/images/I/51eQa-M6RWL.jpg | https://m.media-amazon.com/images/I/51daJTUrlfL.jpg | https://m.media-amazon.com/images/I/5138XY0EwML.jpg | https://m.media-amazon.com/images/I/51kpYBwhiAL.jpg | https://m.media-amazon.com/images/I/51TvsOAXFaL.jpg",
-      "productUrl": "https://www.amazon.in/Amazon-Brand-Vedaka-Cumin-Jeera/dp/B07CDY1XJZ/ref=sr_1_20"
-    },
-    {
       "sku": "JKE-IIYEOVC2LAYUYM2D",
       "slug": "voyx-wavex-bluetooth-speaker-with-rgb-lighting-usb-and-sd",
       "name": "VOYX WAVEX Bluetooth Speaker with RGB Lighting, USB and SD...",
@@ -1031,16 +841,6 @@
       "price": 599,
       "image": "https://m.media-amazon.com/images/I/81GCwPwREGL.jpg | https://m.media-amazon.com/images/I/51gNg1TekDL.jpg | https://m.media-amazon.com/images/I/51Ryp8kKXGL.jpg | https://m.media-amazon.com/images/I/41BFahi1YkL.jpg",
       "productUrl": "https://www.amazon.in/Wavex-Leather-Balm-Artificial-Conditioner/dp/B0FS7MSY2R/ref=sr_1_108"
-    },
-    {
-      "sku": "JKE-IIYEGUKNJAZE4UKQ",
-      "slug": "crocodile-cloth-powerscrub-10-double-surface-cloths-10-x",
-      "name": "Crocodile Cloth PowerScrub - 10 Double Surface Cloths 10\" x...",
-      "brand": "Crocodile Cloth",
-      "category": "Storage & Organization",
-      "price": 1789.97,
-      "image": "https://m.media-amazon.com/images/I/51xUjO+nAXL.jpg | https://m.media-amazon.com/images/I/319QdMURkjL.jpg | https://m.media-amazon.com/images/I/51273S-VbsL.jpg | https://m.media-amazon.com/images/I/41-Y5FMN9sL.jpg | https://m.media-amazon.com/images/I/51WkAslSSRL.jpg",
-      "productUrl": "https://www.amazon.in/Crocodile-Cloth-PowerScrub-Absorbent-Disposable/dp/B0CQMH2NQP/ref=sr_1_222"
     },
     {
       "sku": "JKE-IIYDON2NKRBEEM2Q",
@@ -1533,36 +1333,6 @@
       "productUrl": "https://www.amazon.in/WAAREE-TOPCon-Bifacial-Solar-Panel/dp/B0FQCLQXD1/ref=sr_1_1"
     },
     {
-      "sku": "JKE-IIYEOU2GJMZDQM2U",
-      "slug": "daranener-40w-portable-solar-panelsdc-12v-output23",
-      "name": "DaranEner 40W Portable Solar Panels，DC 12V Output，23%...",
-      "brand": "Daranener",
-      "category": "Storage & Organization",
-      "price": 16091,
-      "image": "https://m.media-amazon.com/images/I/71oyiwJlpaL.jpg | https://m.media-amazon.com/images/I/41WvWebZQSL.jpg | https://m.media-amazon.com/images/I/5114FQdpIzL.jpg | https://m.media-amazon.com/images/I/41vc76qU-rL.jpg | https://m.media-amazon.com/images/I/51yECsuoxnL.jpg | https://m.media-amazon.com/images/I/51lEhd7i4ZL.jpg",
-      "productUrl": "https://www.amazon.in/DaranEner-40W-Panels%EF%BC%8CDC-Output%EF%BC%8C23-High-Efficiency/dp/B0GSFK283T/ref=sr_1_85"
-    },
-    {
-      "sku": "JKE-IIYEIWJULJDFEU2H",
-      "slug": "renew-carrot-extract-skin-whitening-soap-135g",
-      "name": "RENEW Carrot Extract Skin Whitening Soap, 135g",
-      "brand": "Queue",
-      "category": "Storage & Organization",
-      "price": 249,
-      "image": "https://m.media-amazon.com/images/I/51D14XDJ4mL.jpg | https://m.media-amazon.com/images/I/51D14XDJ4mL.jpg | https://m.media-amazon.com/images/I/51KuFfHP2gL.jpg | https://m.media-amazon.com/images/I/41FEeF1hVWL.jpg | https://m.media-amazon.com/images/I/41fVXW78cML.jpg | https://m.media-amazon.com/images/I/41plLU+1f-L.jpg",
-      "productUrl": "https://www.amazon.in/RENEW-Carrot-Extract-Skin-Whitening/dp/B0DY4ZFRSG/ref=sr_1_2"
-    },
-    {
-      "sku": "JKE-IIYDORBXGZLFUOJV",
-      "slug": "diamond-cutting-wheel-cut-off-discs-coated-rotary-tools",
-      "name": "Diamond Cutting Wheel Cut Off Discs Coated Rotary Tools...",
-      "brand": "Lukcase",
-      "category": "Storage & Organization",
-      "price": 3076.52,
-      "image": "https://m.media-amazon.com/images/I/71X4vVt73-L.jpg | https://m.media-amazon.com/images/I/514p52Laz7L.jpg | https://m.media-amazon.com/images/I/51GIg+NEvqL.jpg | https://m.media-amazon.com/images/I/51azp25VDBL.jpg | https://m.media-amazon.com/images/I/41XkZz3EONL.jpg | https://m.media-amazon.com/images/I/51xQHrCoN8L.jpg | https://m.media-amazon.com/images/I/41240EvCLWL.jpg | https://m.media-amazon.com/images/I/51NyE2fwIaL.jpg",
-      "productUrl": "https://www.amazon.in/Diamond-Cutting-Coated-Mandrel-Lukcase/dp/B07D76VZ95/ref=sr_1_221"
-    },
-    {
       "sku": "JKE-IIYDANZTKIYUSWRU",
       "slug": "dremel-3000-15-130-watt-multi-tool-kit-multicolour-15",
       "name": "Dremel 3000-15 130-Watt Multi-Tool Kit (Multicolour, 15...",
@@ -1703,16 +1473,6 @@
       "productUrl": "https://www.amazon.in/Groz-Vandium-CERTIFIED-Workshops-Professional/dp/B0CS3H9F4L/ref=sr_1_35"
     },
     {
-      "sku": "JKE-IIYEEMJVIRGEUTKX",
-      "slug": "hunny-bunch-pack-of-10-premium-groz-beckert-embroidery",
-      "name": "HUNNY- BUNCH® (Pack of 10) Premium GROZ BECKERT Embroidery...",
-      "brand": "Hunny- Bunch",
-      "category": "Storage & Organization",
-      "price": 326,
-      "image": "https://m.media-amazon.com/images/I/61cDL5vohUL.jpg | https://m.media-amazon.com/images/I/3107vlI1K-L.jpg | https://m.media-amazon.com/images/I/41HodIOrWbL.jpg | https://m.media-amazon.com/images/I/110alLq3CNL.jpg | https://m.media-amazon.com/images/I/318KSUj0FcL.jpg | https://m.media-amazon.com/images/I/31geeMDhIuL.jpg",
-      "productUrl": "https://www.amazon.in/HUNNY-Premium-Embroidery-Automatic-Machines/dp/B0B15DLJMW/ref=sr_1_253"
-    },
-    {
       "sku": "JKE-IIYDON2XKEYTIRCX",
       "slug": "groz-number-stamp-set-with-induction-hardened-ends-ideal",
       "name": "GROZ Number Stamp Set with Induction Hardened Ends| Ideal...",
@@ -1791,16 +1551,6 @@
       "price": 22663,
       "image": "https://m.media-amazon.com/images/I/71nZ5DvCP1L.jpg | https://m.media-amazon.com/images/I/41xv+kh7KxL.jpg | https://m.media-amazon.com/images/I/41kOozCV8+L.jpg | https://m.media-amazon.com/images/I/41VjlJ1rjDL.jpg | https://m.media-amazon.com/images/I/51Sd+MOYfmL.jpg | https://m.media-amazon.com/images/I/419hHM2TBWL.jpg | https://m.media-amazon.com/images/I/51Xa8u3XelL.jpg",
       "productUrl": "https://www.amazon.in/Freeman-Fr-131-3B-Coated-Plastic-Collated/dp/B008JDKSAC/ref=sr_1_278"
-    },
-    {
-      "sku": "JKE-IIYEITKEJNLTKUSX",
-      "slug": "columbus-freeman-slip-on-shoes-casual-shoes-fashion",
-      "name": "Columbus Freeman Slip-On Shoes | Casual Shoes| Fashion...",
-      "brand": "Columbus",
-      "category": "Storage & Organization",
-      "price": 2999,
-      "image": "https://m.media-amazon.com/images/I/71ExbRMJJiL.jpg | https://m.media-amazon.com/images/I/31qJvfnfg3L.jpg | https://m.media-amazon.com/images/I/41+y7lkw23L.jpg | https://m.media-amazon.com/images/I/315xS8539ML.jpg | https://m.media-amazon.com/images/I/311KGPfDQgL.jpg | https://m.media-amazon.com/images/I/41crHv3zOHL.jpg | https://m.media-amazon.com/images/I/31mewr2go-L.jpg | https://m.media-amazon.com/images/I/41GVg2ttOVL.jpg",
-      "productUrl": "https://www.amazon.in/Columbus-Freeman-Sports-Shoes-Training/dp/B0DMDKW5RW/ref=sr_1_234"
     },
     {
       "sku": "JKE-IIYDON2DKNEEOM2O",
@@ -2003,16 +1753,6 @@
       "productUrl": "https://www.amazon.in/300W-monoperc-bificial-Solar-Panel/dp/B0H94HZF38/ref=sr_1_160"
     },
     {
-      "sku": "JKE-IIYEMV2TKBFFEVZS",
-      "slug": "solar-automatic-light-controller-board-for-li-ion-battery-",
-      "name": "Solar Automatic Light Controller Board for Li-ion Battery |...",
-      "brand": "Kits4Creators",
-      "category": "Storage & Organization",
-      "price": 189,
-      "image": "https://m.media-amazon.com/images/I/51nVS0KQqtL.jpg | https://m.media-amazon.com/images/I/41I+DLrUJLL.jpg | https://m.media-amazon.com/images/I/4105Fg0s0mL.jpg | https://m.media-amazon.com/images/I/41qOgYYgSgL.jpg | https://m.media-amazon.com/images/I/51E3WXuAkiL.jpg | https://m.media-amazon.com/images/I/41d8++YKdiL.jpg | https://m.media-amazon.com/images/I/41HV+KVm06L.jpg",
-      "productUrl": "https://www.amazon.in/KITS4CREATORS-Automatic-Controller-Battery-Science/dp/B0FWSPJRW2/ref=sr_1_68"
-    },
-    {
       "sku": "JKE-IIYEIOKIJRGEQVRS",
       "slug": "kenbrook-solar-dcdb-1-in-1-out-inbuilt-sibass-dc-fuse-20a-",
       "name": "Kenbrook Solar DCDB 1 in 1 Out Inbuilt Sibass DC Fuse 20A &...",
@@ -2121,16 +1861,6 @@
       "price": 299,
       "image": "https://m.media-amazon.com/images/I/71xS5QwT9FL.jpg | https://m.media-amazon.com/images/I/51GhKeJPPyL.jpg | https://m.media-amazon.com/images/I/41xxKIr8dNL.jpg | https://m.media-amazon.com/images/I/51DtdKSDnxL.jpg | https://m.media-amazon.com/images/I/41nIWgznyKL.jpg | https://m.media-amazon.com/images/I/51dTmY0KzqL.jpg | https://m.media-amazon.com/images/I/51L9QcpRIyL.jpg | https://m.media-amazon.com/images/I/51RFPHwM7+L.jpg",
       "productUrl": "https://www.amazon.in/Evoroma-Handmade-Wax-Sachet-Tablets/dp/B0FJ927NPX/ref=sr_1_247"
-    },
-    {
-      "sku": "JKE-IIYEQMSZIM3UMSSO",
-      "slug": "wax-sachet-tablet-handmade-with-ocean-vibe-home-fragrance",
-      "name": "Wax Sachet Tablet, Handmade with Ocean Vibe, Home Fragrance...",
-      "brand": "The Natural House",
-      "category": "Storage & Organization",
-      "price": 335,
-      "image": "https://m.media-amazon.com/images/I/71tVMfRhKmL.jpg | https://m.media-amazon.com/images/I/51Rcl3S8XkL.jpg | https://m.media-amazon.com/images/I/51lympHIz2L.jpg | https://m.media-amazon.com/images/I/51JwoMGF1uL.jpg | https://m.media-amazon.com/images/I/51+shdWkTHL.jpg | https://m.media-amazon.com/images/I/31QvtKWaOAL.jpg",
-      "productUrl": "https://www.amazon.in/Natural-House-Fragrance-Freshener-Cupboards/dp/B0H2YC7FJN/ref=sr_1_267"
     },
     {
       "sku": "JKE-IIYEQNSCLJHE4NZW",
@@ -2243,46 +1973,6 @@
       "productUrl": "https://www.amazon.in/WAAREE-Pack-Bifacial-Solar-Panel/dp/B0DH53DN7S/ref=sr_1_19"
     },
     {
-      "sku": "JKE-IIYEINCGGJIUYQSL",
-      "slug": "bougerv-200-watt-bifacial-12v-n-type-16bb-solar-panel-for",
-      "name": "BougeRV 200 Watt Bifacial 12V N-Type 16BB Solar Panel for...",
-      "brand": "Bougerv",
-      "category": "Storage & Organization",
-      "price": 40247.04,
-      "image": "https://m.media-amazon.com/images/I/811r35aQrpL.jpg | https://m.media-amazon.com/images/I/516GBtb2AOL.jpg | https://m.media-amazon.com/images/I/51rGpdx9QOL.jpg | https://m.media-amazon.com/images/I/51L-cSViF2L.jpg | https://m.media-amazon.com/images/I/41Xjet150HL.jpg | https://m.media-amazon.com/images/I/417bTkq4+QL.jpg | https://m.media-amazon.com/images/I/41tlp3tN5hL.jpg | https://m.media-amazon.com/images/I/519CI1b92cL.jpg",
-      "productUrl": "https://www.amazon.in/BougeRV-N-Type-Bifacial-Camping-Marine/dp/B0D4F2QLBK/ref=sr_1_232"
-    },
-    {
-      "sku": "JKE-IIYEMUCQJJDFIWSE",
-      "slug": "ziboo-ft-2000w-solar-panel-tester-mppt-meter-2000w-max",
-      "name": "ZIBOO FT-2000W Solar Panel Tester MPPT Meter - 2000W Max...",
-      "brand": "Ziboo",
-      "category": "Storage & Organization",
-      "price": 10059,
-      "image": "https://m.media-amazon.com/images/I/81D4e0Ps7PL.jpg | https://m.media-amazon.com/images/I/514O8iuFpXL.jpg | https://m.media-amazon.com/images/I/414GF2rH1iL.jpg | https://m.media-amazon.com/images/I/51liHMdYCXL.jpg | https://m.media-amazon.com/images/I/510i3U8LNNL.jpg | https://m.media-amazon.com/images/I/51mbPDI6ozL.jpg | https://m.media-amazon.com/images/I/51X6-dOOOBL.jpg | https://m.media-amazon.com/images/I/51sNr0B2sIL.jpg",
-      "productUrl": "https://www.amazon.in/ZIBOO-FT-2000W-Solar-Panel-Tester/dp/B0FPPJFTZD/ref=sr_1_304"
-    },
-    {
-      "sku": "JKE-IIYEGN2OHFKEQTKY",
-      "slug": "solar-panel-100w-18v-monocrystalline-silicon-157in-long",
-      "name": "Solar Panel 100W 18V Monocrystalline Silicon 15.7in Long...",
-      "brand": "Boxwizard",
-      "category": "Storage & Organization",
-      "price": 10083.77,
-      "image": "https://m.media-amazon.com/images/I/61PWdPm0ARL.jpg | https://m.media-amazon.com/images/I/41YkUMZcI+L.jpg | https://m.media-amazon.com/images/I/51A4PevQHPL.jpg | https://m.media-amazon.com/images/I/51W9ycLql4L.jpg | https://m.media-amazon.com/images/I/416ynO6hiFL.jpg | https://m.media-amazon.com/images/I/41bVGMMOe0L.jpg | https://m.media-amazon.com/images/I/41sC+A4JTrL.jpg | https://m.media-amazon.com/images/I/41PH71htOdL.jpg",
-      "productUrl": "https://www.amazon.in/Monocrystalline-Silicon-15-7in-Portable-Charger/dp/B0C7N9THMX/ref=sr_1_218"
-    },
-    {
-      "sku": "JKE-IIYEGMZWLBMUOWCS",
-      "slug": "5v-6w-solar-panels-for-security-cameras-compatible-with",
-      "name": "5V 6W Solar Panels for Security Cameras, Compatible with...",
-      "brand": "Omiention",
-      "category": "Storage & Organization",
-      "price": 6152.63,
-      "image": "https://m.media-amazon.com/images/I/61KYNE6fXhL.jpg | https://m.media-amazon.com/images/I/312ZWRwqQkL.jpg | https://m.media-amazon.com/images/I/41k92HWtN3L.jpg | https://m.media-amazon.com/images/I/31GI-9qwhnL.jpg | https://m.media-amazon.com/images/I/51lrlmxmJ4L.jpg | https://m.media-amazon.com/images/I/51SDZ6o4-3L.jpg | https://m.media-amazon.com/images/I/41UCeW8f5tL.jpg | https://m.media-amazon.com/images/I/41ciFH9zCZL.jpg",
-      "productUrl": "https://www.amazon.in/Security-Cameras-Compatible-Essential-Spotlight/dp/B0C36XYGXR/ref=sr_1_306"
-    },
-    {
       "sku": "JKE-IIYEGS2RK5BTKUCT",
       "slug": "renogy-400w-portable-solar-panel-foldable-monocrystalline",
       "name": "Renogy 400W Portable Solar Panel Foldable Monocrystalline...",
@@ -2303,26 +1993,6 @@
       "productUrl": "https://www.amazon.in/Solar-Panel-Power-200W-System/dp/B0GWY79P7Q/ref=sr_1_285"
     },
     {
-      "sku": "JKE-IIYDONBYIZMUMU2L",
-      "slug": "dokio-100-watts-12-volts-monocrystalline-foldable-solar",
-      "name": "DOKIO 100 Watts 12 Volts Monocrystalline Foldable Solar...",
-      "brand": "Dokio",
-      "category": "Storage & Organization",
-      "price": 19901.91,
-      "image": "https://m.media-amazon.com/images/I/81ig3QMwY6L.jpg | https://m.media-amazon.com/images/I/51qFGApIH+L.jpg | https://m.media-amazon.com/images/I/41wnPpcVjsL.jpg | https://m.media-amazon.com/images/I/41UzrVr9FgL.jpg | https://m.media-amazon.com/images/I/419uytWWeGL.jpg | https://m.media-amazon.com/images/I/41C7HAfZvEL.jpg | https://m.media-amazon.com/images/I/41FP1d3eUwL.jpg | https://m.media-amazon.com/images/I/51VW8BFgQaL.jpg",
-      "productUrl": "https://www.amazon.in/DOKIO-Monocrystalline-Foldable-Charge-Controller/dp/B0748FYFSK/ref=sr_1_171"
-    },
-    {
-      "sku": "JKE-IIYEQNZUJZJUONKG",
-      "slug": "shri-sam-stainless-steel-solid-turner-kitchen-tool-ruby",
-      "name": "Shri & Sam Stainless Steel Solid Turner Kitchen Tool - Ruby...",
-      "brand": "Shri & Sam",
-      "category": "Storage & Organization",
-      "price": 151,
-      "image": "https://m.media-amazon.com/images/I/61yh6xDuBmL.jpg | https://m.media-amazon.com/images/I/21957SFrboL.jpg | https://m.media-amazon.com/images/I/214Iv-gKyGL.jpg",
-      "productUrl": "https://www.amazon.in/Shri-Sam-Stainless-Turner-Kitchen/dp/B0H74NSG5F/ref=sr_1_203_in_f3_0o_fs"
-    },
-    {
       "sku": "JKE-IIYEQN2CGVGE2WST",
       "slug": "200w-monocrystalline-solar-panel-portable-power-solution",
       "name": "200W Monocrystalline Solar Panel, Portable Power Solution...",
@@ -2341,16 +2011,6 @@
       "price": 499,
       "image": "https://m.media-amazon.com/images/I/41T2amU3GyL.jpg | https://m.media-amazon.com/images/I/41T2amU3GyL.jpg | https://m.media-amazon.com/images/I/51lh70GlLNL.jpg | https://m.media-amazon.com/images/I/512o4SYYi1L.jpg | https://m.media-amazon.com/images/I/51pcmxnFBUL.jpg | https://m.media-amazon.com/images/I/51pn1PWnNTL.jpg | https://m.media-amazon.com/images/I/51lSLDCO6NL.jpg",
       "productUrl": "https://www.amazon.in/Luminous-Polycrystalline-Panel-Anti-Reflective-Performance/dp/B0BCKCM2D3/ref=sr_1_124"
-    },
-    {
-      "sku": "JKE-IIYDSUKIJBIFQUK2",
-      "slug": "portable-solar-panels-40w-foldable-solar-panel-charger-for",
-      "name": "Portable Solar Panels 40W, Foldable Solar Panel Charger for...",
-      "brand": "Apowking",
-      "category": "Storage & Organization",
-      "price": 12204,
-      "image": "https://m.media-amazon.com/images/I/81hyW0yp5ML.jpg | https://m.media-amazon.com/images/I/51YtqCgUe9L.jpg | https://m.media-amazon.com/images/I/51ZB9pxN3CL.jpg | https://m.media-amazon.com/images/I/41i9ruQLEBL.jpg | https://m.media-amazon.com/images/I/51H2JtF6kgL.jpg | https://m.media-amazon.com/images/I/51n1DLzBG9L.jpg | https://m.media-amazon.com/images/I/51MiWYuNyxL.jpg | https://m.media-amazon.com/images/I/410Tq64gF5L.jpg",
-      "productUrl": "https://www.amazon.in/Portable-Foldable-100-300W-Adjustable-Kickstands/dp/B09QHHPXQZ/ref=sr_1_275"
     },
     {
       "sku": "JKE-IIYEIU2TLA2DONSM",
@@ -2873,16 +2533,6 @@
       "productUrl": "https://www.amazon.in/Serving-Tableware-Diameter-26-5-Dinnerware-Gifting/dp/B0BQZ2KW7X/ref=sr_1_217"
     },
     {
-      "sku": "JKE-IIYEIU22KFFUGTSZ",
-      "slug": "zibu-symbols-crystal-lucky-coin-stone-for-money-wealth",
-      "name": "Zibu Symbols Crystal Lucky Coin Stone for Money, Wealth,...",
-      "brand": "Vir Shakti Agate",
-      "category": "Storage & Organization",
-      "price": 299,
-      "image": "https://m.media-amazon.com/images/I/71DtQHRAFbL.jpg | https://m.media-amazon.com/images/I/41qUQzvIPqL.jpg",
-      "productUrl": "https://www.amazon.in/VIR-SHAKTI-AGATE-Prosperity-Manifestation/dp/B0DSZQKCNY/ref=sr_1_228"
-    },
-    {
       "sku": "JKE-IIYDQTCWJJBUUUBU",
       "slug": "shiv-shakti-arts-stainless-steel-locker-safe-storage-cash",
       "name": "SHIV SHAKTI ARTS ® Stainless Steel Locker Safe Storage Cash...",
@@ -2903,16 +2553,6 @@
       "productUrl": "https://www.amazon.in/SHIV-SHAKTI-Gifting-Diwali-Special/dp/B0BQZ2PCC5/ref=sr_1_194"
     },
     {
-      "sku": "JKE-IIYEQNCRJZMFEVC2",
-      "slug": "wanna-party-formula-race-car-shaped-key-chain-red-sports",
-      "name": "Wanna Party Formula Race Car Shaped Key Chain, Red Sports...",
-      "brand": "Wanna Party",
-      "category": "Storage & Organization",
-      "price": 250,
-      "image": "https://m.media-amazon.com/images/I/51OheTRmTeL.jpg | https://m.media-amazon.com/images/I/41ECb3z6zEL.jpg | https://m.media-amazon.com/images/I/41vQpS3qB8L.jpg | https://m.media-amazon.com/images/I/513GVxeSdOL.jpg | https://m.media-amazon.com/images/I/41E5Y61GqIL.jpg | https://m.media-amazon.com/images/I/417L9nLdTPL.jpg | https://m.media-amazon.com/images/I/41K6oyP+L1L.jpg | https://m.media-amazon.com/images/I/518MrD8MnRL.jpg",
-      "productUrl": "https://www.amazon.in/Formula-Keyring-Backpacks-Birthday-Fillers/dp/B0H4QNXRTZ/ref=sr_1_235"
-    },
-    {
       "sku": "JKE-IIYEOTRUGEZDMMSO",
       "slug": "hot-wheels-formula-one-f1-2025-5-pack-oracle-rb-racing",
       "name": "Hot Wheels Formula One F1 2025-5 Pack [Oracle RB Racing,...",
@@ -2923,16 +2563,6 @@
       "productUrl": "https://www.amazon.in/Hot-Wheels-Formula-Petronas-Williams/dp/B0GN41262N/ref=sr_1_289"
     },
     {
-      "sku": "JKE-IIYEORCOGFIUYNCC",
-      "slug": "siang-pure-siangpure-oil-formula-1-with-metal-ball-tip",
-      "name": "Siang Pure Siangpure Oil Formula 1 with Metal Ball Tip...",
-      "brand": "Siang Pure",
-      "category": "Storage & Organization",
-      "price": 650,
-      "image": "https://m.media-amazon.com/images/I/410ms5VP0QL.jpg | https://m.media-amazon.com/images/I/410ms5VP0QL.jpg | https://m.media-amazon.com/images/I/41W+J1H4mWL.jpg",
-      "productUrl": "https://www.amazon.in/Siang-Pure-Siangpure-Formula-Applicator/dp/B0GDN1QL4B/ref=sr_1_144"
-    },
-    {
       "sku": "JKE-IIYEITSOIM2FERSE",
       "slug": "pack-of-60-f1-formula-one-racing-vinyl-stickers-for-laptop",
       "name": "Pack of 60 F1 Formula One Racing Vinyl Stickers for Laptop,...",
@@ -2941,16 +2571,6 @@
       "price": 84,
       "image": "https://m.media-amazon.com/images/I/81yHU3ziv2L.jpg | https://m.media-amazon.com/images/I/61mGF78ZlyL.jpg | https://m.media-amazon.com/images/I/414Zdq2nd2L.jpg | https://m.media-amazon.com/images/I/511cGi88qSL.jpg | https://m.media-amazon.com/images/I/51dg6Cf77sL.jpg | https://m.media-amazon.com/images/I/41FdV1sepNL.jpg | https://m.media-amazon.com/images/I/51TLkSnhkzL.jpg",
       "productUrl": "https://www.amazon.in/Formula-Racing-Stickers-Laptop-Journal/dp/B0DNNC4RFD/ref=sr_1_19"
-    },
-    {
-      "sku": "JKE-IIYEOTSLIJGDMUCH",
-      "slug": "gamya-big-formula-1-f1-cars-framed-aesthetic-posters-for",
-      "name": "Gamya Big Formula 1 F1 Cars Framed Aesthetic Posters For...",
-      "brand": "Gamya",
-      "category": "Storage & Organization",
-      "price": 1343,
-      "image": "https://m.media-amazon.com/images/I/71woWKD253L.jpg | https://m.media-amazon.com/images/I/51oNN31gHUL.jpg | https://m.media-amazon.com/images/I/41nLraQy2tL.jpg | https://m.media-amazon.com/images/I/41YuvQHLGcL.jpg | https://m.media-amazon.com/images/I/41dmSd8N+-L.jpg",
-      "productUrl": "https://www.amazon.in/Gamya-Formula-Aesthetic-Posters-Decoration/dp/B0GNKBL6PG/ref=sr_1_179"
     },
     {
       "sku": "JKE-IIYEOWKGLE3DKUKQ",
@@ -2993,16 +2613,6 @@
       "productUrl": "https://www.amazon.in/Formula-Racing-Diorama-Display-Case/dp/B0H2R1Q65M/ref=sr_1_236"
     },
     {
-      "sku": "JKE-IIYEGTJWK44TSUJU",
-      "slug": "3m-2080-series-m203-matt-red-metallic-dual-cast-glossy",
-      "name": "3M 2080 Series M203 Matt Red Metallic Dual Cast Glossy...",
-      "brand": "Rvinyl",
-      "category": "Storage & Organization",
-      "price": 2305.17,
-      "image": "https://m.media-amazon.com/images/I/51d-u6c23tL.jpg | https://m.media-amazon.com/images/I/31xdBbmmSNL.jpg | https://m.media-amazon.com/images/I/110V-rSTQ2L.jpg | https://m.media-amazon.com/images/I/41ZZvc7tnAL.jpg | https://m.media-amazon.com/images/I/51VBX1zzK9L.jpg | https://m.media-amazon.com/images/I/51f29aWnD2L.jpg | https://m.media-amazon.com/images/I/418cJqJuHAL.jpg | https://m.media-amazon.com/images/I/51zOMIKH4JS.jpg",
-      "productUrl": "https://www.amazon.in/2080-Metallic-Glossy-Vinyl-Wrapping/dp/B0CM6W99Q4/ref=sr_1_89"
-    },
-    {
       "sku": "JKE-IIYDCRJUKU2FQMKJ",
       "slug": "spigen-magnetic-metal-plate-set-for-car-phone-mount-4",
       "name": "Spigen Magnetic Metal Plate Set for Car Phone Mount (4...",
@@ -3033,16 +2643,6 @@
       "productUrl": "https://www.amazon.in/Carbon-Fiber-Matte-Black-Vinyl/dp/B00QU949AC/ref=sr_1_95"
     },
     {
-      "sku": "JKE-IIYDSUSQLBDTIOBS",
-      "slug": "metal-plates-for-magnetic-car-mount-mobile-phone-holders-",
-      "name": "Metal Plates for Magnetic Car Mount Mobile Phone Holders -...",
-      "brand": "Hiratek",
-      "category": "Storage & Organization",
-      "price": 243,
-      "image": "https://m.media-amazon.com/images/I/41jtmMakBLL.jpg | https://m.media-amazon.com/images/I/21NjPKn6C-L.jpg | https://m.media-amazon.com/images/I/31IMiGB-LfL.jpg | https://m.media-amazon.com/images/I/41ez8mZDrsL.jpg | https://m.media-amazon.com/images/I/41-Z8iMu5jL.jpg | https://m.media-amazon.com/images/I/41nMR4n3v-L.jpg | https://m.media-amazon.com/images/I/318+rqB1GwL.jpg | https://m.media-amazon.com/images/I/41Knjdg-eVL.jpg",
-      "productUrl": "https://www.amazon.in/HIRATEK-Magnetic-Plates-Mobile-Holders/dp/B09RPXG482/ref=sr_1_227"
-    },
-    {
       "sku": "JKE-IIYDSOCRLFMDGQZX",
       "slug": "meguiars-g210516eu-wax",
       "name": "Meguiar's G210516EU wax",
@@ -3061,16 +2661,6 @@
       "price": 414,
       "image": "https://m.media-amazon.com/images/I/71NVstKK90L.jpg | https://m.media-amazon.com/images/I/51NJBeAmRGL.jpg | https://m.media-amazon.com/images/I/41vU+4GjOsL.jpg | https://m.media-amazon.com/images/I/41vxYlk+M5L.jpg | https://m.media-amazon.com/images/I/41AUAVbQ7JL.jpg",
       "productUrl": "https://www.amazon.in/Freemind-Renewable-Energy-Notebooks-29-7x21/dp/B0DYF4DRV1/ref=sr_1_32"
-    },
-    {
-      "sku": "JKE-IIYDCOBWJEZUMUSN",
-      "slug": "sustainability-assessment-of-renewables-based-products",
-      "name": "Sustainability Assessment of Renewables-Based Products:...",
-      "brand": "Byjo Dewulf(Editor),Steven",
-      "category": "Storage & Organization",
-      "price": 0,
-      "image": "https://m.media-amazon.com/images/I/61uLbokvdDL.jpg",
-      "productUrl": "https://www.amazon.in/Sustainability-Assessment-Renewables-Based-Products-Renewable-ebook/dp/B0186I3FRM/ref=sr_1_88"
     },
     {
       "sku": "JKE-IIYDCTSBKBEDMNZR",
@@ -3173,16 +2763,6 @@
       "productUrl": "https://www.amazon.in/nawaza-Scented-Fragrance-Christmas-Birthday/dp/B0D8Y72XFJ/ref=sr_1_265"
     },
     {
-      "sku": "JKE-IIYEITKEK5DEIM2Z",
-      "slug": "multipurpose-leather-cleaning-cream-leather-balm-cream",
-      "name": "Multipurpose Leather Cleaning Cream, Leather Balm Cream...",
-      "brand": "Sellerflor",
-      "category": "Storage & Organization",
-      "price": 299,
-      "image": "https://m.media-amazon.com/images/I/71w6NY6aneL.jpg | https://m.media-amazon.com/images/I/51ocphSlclL.jpg | https://m.media-amazon.com/images/I/81urjQENIdL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/51qk33j1gHL.jpg | https://m.media-amazon.com/images/I/41RshlMWJnL.jpg | https://m.media-amazon.com/images/I/61hmCk94OnL.jpg | https://m.media-amazon.com/images/I/61b7WjYT5RL.jpg | https://m.media-amazon.com/images/I/51OVLp5Ss1L.jpg",
-      "productUrl": "https://www.amazon.in/SELLERFLOR-Multipurpose-Cleaning-Artificial-Conditioner/dp/B0DMDWFD3Y/ref=sr_1_291"
-    },
-    {
       "sku": "JKE-IIYEGR2OJJMUOWKG",
       "slug": "rkpm-homes-planter-mold-i-3d-tortoise-casting-plant",
       "name": "RKPM HOMES Planter Mold I 3D Tortoise Casting Plant...",
@@ -3203,36 +2783,6 @@
       "productUrl": "https://www.amazon.in/Painted-Ceramic-Lemongrass-Potpourri-Diffuser/dp/B08YYW7JH5/ref=sr_1_285"
     },
     {
-      "sku": "JKE-IIYEONSDLFGU4VCQ",
-      "slug": "handmade-water-pond-candle-with-decorative-flowers-and",
-      "name": "Handmade Water Pond Candle with Decorative Flowers and...",
-      "brand": "The Shruti Glow",
-      "category": "Storage & Organization",
-      "price": 340,
-      "image": "https://m.media-amazon.com/images/I/51BBNb1OEFL.jpg | https://m.media-amazon.com/images/I/51BBNb1OEFL.jpg",
-      "productUrl": "https://www.amazon.in/Handmade-Candle-Decorative-Flowers-Turtle/dp/B0G6CYMNTP/ref=sr_1_294"
-    },
-    {
-      "sku": "JKE-IIYEQOCZGNKDGUBY",
-      "slug": "purestory-premium-rakhi-gift-hamper-for-brother-set-of-2",
-      "name": "PURESTORY Premium Rakhi Gift Hamper for Brother - Set of 2...",
-      "brand": "Purestory",
-      "category": "Storage & Organization",
-      "price": 1799,
-      "image": "https://m.media-amazon.com/images/I/81ZgZKoF8IL.jpg | https://m.media-amazon.com/images/I/51m9lnE+dpL.jpg | https://m.media-amazon.com/images/I/41aJvicR4DL.jpg | https://m.media-amazon.com/images/I/51TpFT+dyUL.jpg | https://m.media-amazon.com/images/I/51nDklJuQ+L.jpg | https://m.media-amazon.com/images/I/41yIGFwAC9L.jpg | https://m.media-amazon.com/images/I/51YlVh7MhWL.jpg | https://m.media-amazon.com/images/I/31QmeLc4mLL.jpg",
-      "productUrl": "https://www.amazon.in/PURESTORY-Premium-Rakhi-Hamper-Brother/dp/B0H8Y3T3P8/ref=sr_1_271"
-    },
-    {
-      "sku": "JKE-IIYDMWSZGY3FAS22",
-      "slug": "stoner-car-care-92046-6pk-more-shine-tire-dressing-",
-      "name": "Stoner Car Care 92046-6PK More Shine Tire Dressing -...",
-      "brand": "Stoner Car Care",
-      "category": "Storage & Organization",
-      "price": 18418,
-      "image": "https://m.media-amazon.com/images/I/61ahvjnaeWL.jpg | https://m.media-amazon.com/images/I/517jwNscZJL.jpg | https://m.media-amazon.com/images/I/51L1YVLqnuL.jpg | https://m.media-amazon.com/images/I/51pzAw+jjyL.jpg | https://m.media-amazon.com/images/I/51czcBm6T6L.jpg | https://m.media-amazon.com/images/I/51YrV3jo-pL.jpg | https://m.media-amazon.com/images/I/41fLbXu-fIL.jpg",
-      "productUrl": "https://www.amazon.in/Stoner-Car-Care-92046-6PK-Dressing/dp/B06ZY66PKZ/ref=sr_1_196"
-    },
-    {
       "sku": "JKE-IIYEIOCZG42VOM2N",
       "slug": "nawaza-glass-wax-warmer-wax-warmer-for-scented-wax-2-in-1",
       "name": "nawaza Glass Wax Warmer, Wax Warmer for Scented Wax 2 in 1...",
@@ -3251,16 +2801,6 @@
       "price": 399,
       "image": "https://m.media-amazon.com/images/I/716OQJ1BysL.jpg | https://m.media-amazon.com/images/I/4133wDPsn0L.jpg | https://m.media-amazon.com/images/I/31bUOV3CJ-L.jpg",
       "productUrl": "https://www.amazon.in/Elegant-Turtle-Candle-Decorative-Centerpiece/dp/B0GWFQYFCC/ref=sr_1_193"
-    },
-    {
-      "sku": "JKE-IIYDQRSYLBBVEM2D",
-      "slug": "oil-slick-beach-tar-remover-travel-wipes-20ct-safe-on",
-      "name": "Oil Slick Beach Tar Remover Travel Wipes 20ct | Safe on...",
-      "brand": "Oil Slick",
-      "category": "Storage & Organization",
-      "price": 2965.1,
-      "image": "https://m.media-amazon.com/images/I/61m3IWcwIAL.jpg | https://m.media-amazon.com/images/I/41p1XVQQe8L.jpg | https://m.media-amazon.com/images/I/41vOCeloBOL.jpg | https://m.media-amazon.com/images/I/41XCylB494L.jpg | https://m.media-amazon.com/images/I/51d-ohIuy6L.jpg | https://m.media-amazon.com/images/I/41R2YTl+sOL.jpg | https://m.media-amazon.com/images/I/41btwEK1cEL.jpg | https://m.media-amazon.com/images/I/61U3WgpJhTL.jpg",
-      "productUrl": "https://www.amazon.in/Oil-Slick-Remover-Eco-Friendly-Surfboards/dp/B08FXXCR3C/ref=sr_1_246"
     },
     {
       "sku": "JKE-IIYDOWSIKJFTGQZV",
@@ -3693,26 +3233,6 @@
       "productUrl": "https://www.amazon.in/TULMAN-Pack-Ring-Binder-File/dp/B0CMXHKZ4M/ref=sr_1_36"
     },
     {
-      "sku": "JKE-IIYDSQSEIM2FAVST",
-      "slug": "6-inch-flat-medium-cut-file-double-cut-teeth-high-carbon",
-      "name": "6-inch Flat Medium Cut File, Double Cut Teeth, High Carbon...",
-      "brand": "Xaqishire",
-      "category": "Storage & Organization",
-      "price": 494,
-      "image": "https://m.media-amazon.com/images/I/61Nu5cgpOzL.jpg | https://m.media-amazon.com/images/I/31n2ZMJv7WL.jpg | https://m.media-amazon.com/images/I/41ZmMhkSJiL.jpg | https://m.media-amazon.com/images/I/41i41zK72tL.jpg | https://m.media-amazon.com/images/I/51u75Ae-NcL.jpg | https://m.media-amazon.com/images/I/41P-+J9q5LL.jpg | https://m.media-amazon.com/images/I/51wzIVHzF+L.jpg | https://m.media-amazon.com/images/I/51hAMP9S3xL.jpg",
-      "productUrl": "https://www.amazon.in/XAQISHIRE-6-inch-Without-Suitable-Shaping/dp/B09BDC4PVS/ref=sr_1_15"
-    },
-    {
-      "sku": "JKE-IIYDSV2SLE3UMM2Y",
-      "slug": "true-ally-4-pcs-a4-legal-ring-binder-paper-cobra-files-with",
-      "name": "True-Ally 4 pcs A4 Legal Ring Binder Paper Cobra Files with...",
-      "brand": "True-Ally",
-      "category": "Storage & Organization",
-      "price": 299,
-      "image": "https://m.media-amazon.com/images/I/61Fu3PNwSFL.jpg | https://m.media-amazon.com/images/I/41B7NW8sz0L.jpg | https://m.media-amazon.com/images/I/51V16DgNnhL.jpg | https://m.media-amazon.com/images/I/41+QS4X-BcL.jpg | https://m.media-amazon.com/images/I/51IYJzkuyjL.jpg | https://m.media-amazon.com/images/I/51D4JVyDFdL.jpg | https://m.media-amazon.com/images/I/51+vJf3XyHL.jpg | https://m.media-amazon.com/images/I/418gpdh1m7S.jpg",
-      "productUrl": "https://www.amazon.in/True-Ally-Binder-Spring-Organizer-Document/dp/B09WRY7F3X/ref=sr_1_67"
-    },
-    {
       "sku": "JKE-IIYEGN2OLJDDCN2U",
       "slug": "peeplvalue-pack-of-4-cardboard-lever-arch-file-pvc-coated",
       "name": "Peeplvalue Pack of 4 Cardboard Lever Arch File PVC Coated...",
@@ -3723,36 +3243,6 @@
       "productUrl": "https://www.amazon.in/Peeplvalue-Cardboard-Coated-documents-certificates/dp/B0C7NZF17T/ref=sr_1_50"
     },
     {
-      "sku": "JKE-IIYDQNCRINMEYVZV",
-      "slug": "dd-son-anti-blue-ray-eye-protect-tempered-glass-for-redmi",
-      "name": "DD SON Anti Blue Ray (Eye Protect) Tempered Glass For Redmi...",
-      "brand": "Dd Son",
-      "category": "Storage & Organization",
-      "price": 128,
-      "image": "https://m.media-amazon.com/images/I/41ASB72JbkL.jpg | https://m.media-amazon.com/images/I/41ASB72JbkL.jpg | https://m.media-amazon.com/images/I/41YYgaH9hyL.jpg | https://m.media-amazon.com/images/I/41YyOcZ-PDL.jpg | https://m.media-amazon.com/images/I/41P2R5QWCAL.jpg | https://m.media-amazon.com/images/I/31MdyrVJLxL.jpg | https://m.media-amazon.com/images/I/51LOnNHcWLL.jpg | https://m.media-amazon.com/images/I/41VKKf9ERcL.jpg",
-      "productUrl": "https://www.amazon.in/DD-SON-Tempered-Protector-Resistant/dp/B084QCXLW5/ref=sr_1_244"
-    },
-    {
-      "sku": "JKE-IIYEINJUINITOQ2C",
-      "slug": "corslet-aesthetic-stationery-set-6-pastel-double-ended",
-      "name": "Corslet Aesthetic Stationery Set: 6 Pastel Double-Ended...",
-      "brand": "Corslet",
-      "category": "Storage & Organization",
-      "price": 199,
-      "image": "https://m.media-amazon.com/images/I/51zvcAbdi6L.jpg | https://m.media-amazon.com/images/I/31SFxRPjlHL.jpg | https://m.media-amazon.com/images/I/31sfhCqop3L.jpg | https://m.media-amazon.com/images/I/41WIbxlGWbL.jpg | https://m.media-amazon.com/images/I/41czJ+KJ-XL.jpg | https://m.media-amazon.com/images/I/4102edZmkmL.jpg | https://m.media-amazon.com/images/I/410wvQEiqcL.jpg | https://m.media-amazon.com/images/I/41KdedBzecL.jpg",
-      "productUrl": "https://www.amazon.in/Corslet-Aesthetic-Stationery-Set-Double-Ended/dp/B0D54CQ7CB/ref=sr_1_22"
-    },
-    {
-      "sku": "JKE-IIYDSQSELFJFONS2",
-      "slug": "gas-cap-replacement-for-2003-2018-jeep-wrangler-jk-gas-cap",
-      "name": "Gas Cap Replacement for 2003-2018 Jeep Wrangler JK Gas Cap...",
-      "brand": "Keriolee",
-      "category": "Storage & Organization",
-      "price": 1683,
-      "image": "https://m.media-amazon.com/images/I/718TdMLTQvL.jpg | https://m.media-amazon.com/images/I/41wDE-HH1PL.jpg | https://m.media-amazon.com/images/I/51AvQUpMslL.jpg | https://m.media-amazon.com/images/I/51maCbE56LL.jpg | https://m.media-amazon.com/images/I/516eug7ffAL.jpg | https://m.media-amazon.com/images/I/51Hcv74Jh3L.jpg | https://m.media-amazon.com/images/I/51CWzZ-7iAL.jpg | https://m.media-amazon.com/images/I/51Qb6SFTCDL.jpg",
-      "productUrl": "https://www.amazon.in/52030387AA-52030387AB-52100552AG-Compatible-2003-2006/dp/B09BDYRW6Z/ref=sr_1_231"
-    },
-    {
       "sku": "JKE-IIYEQNJRGQ3U4QZV",
       "slug": "premium-a4-zipper-document-file-folder-pu-leather",
       "name": "Premium A4 Zipper Document File Folder | PU Leather...",
@@ -3761,16 +3251,6 @@
       "price": 998,
       "image": "https://m.media-amazon.com/images/I/31G+xAzo0BL.jpg | https://m.media-amazon.com/images/I/31G+xAzo0BL.jpg | https://m.media-amazon.com/images/I/416b3gitqSL.jpg",
       "productUrl": "https://www.amazon.in/Document-Portfolio-Organizer-Waterproof-Certificate/dp/B0H5147NC5/ref=sr_1_16"
-    },
-    {
-      "sku": "JKE-IIYEGUKHJNGFEVRZ",
-      "slug": "plastic-file-folder-2d-ring-binder-fs-legal-size-tough-",
-      "name": "Plastic File Folder 2D Ring Binder F/S Legal Size Tough &...",
-      "brand": "Vavia",
-      "category": "Storage & Organization",
-      "price": 499,
-      "image": "https://m.media-amazon.com/images/I/71miqI2ZUFL.jpg | https://m.media-amazon.com/images/I/41tRRcZWB2L.jpg | https://m.media-amazon.com/images/I/41jEzjNgP1L.jpg | https://m.media-amazon.com/images/I/31vs5OIMD3S.jpg | https://m.media-amazon.com/images/I/31Ub00XY6SS.jpg | https://m.media-amazon.com/images/I/317+9I4ibVS.jpg | https://m.media-amazon.com/images/I/41VIP8eE67S.jpg",
-      "productUrl": "https://www.amazon.in/Plastic-Folder-Binder-Durable-S-Legal/dp/B0CQGKLRV9/ref=sr_1_11"
     },
     {
       "sku": "JKE-IIYEOM2HKFMTQMSG",
@@ -3813,16 +3293,6 @@
       "productUrl": "https://www.amazon.in/Shredded-Confetti-Filling-Christmas-Decoration/dp/B0C4HLN7F5/ref=sr_1_126"
     },
     {
-      "sku": "JKE-IIYEOVSOJJGTSTSN",
-      "slug": "kcj-a4-plastic-strip-file-folder-transparent-sliding-bar",
-      "name": "KCJ A4 Plastic Strip File Folder, Transparent Sliding Bar...",
-      "brand": "Kcj",
-      "category": "Storage & Organization",
-      "price": 238,
-      "image": "https://m.media-amazon.com/images/I/61GuRSeLW-L.jpg | https://m.media-amazon.com/images/I/41QW0moZRxL.jpg | https://m.media-amazon.com/images/I/41foDhCR46L.jpg | https://m.media-amazon.com/images/I/31IFXNx6UuL.jpg | https://m.media-amazon.com/images/I/41IS+uz0mGL.jpg | https://m.media-amazon.com/images/I/41mwmNODo6L.jpg | https://m.media-amazon.com/images/I/41tPfPdJp9L.jpg",
-      "productUrl": "https://www.amazon.in/KCJ-Plastic-Transparent-Document-Organizer/dp/B0GVNJM9NM/ref=sr_1_70"
-    },
-    {
       "sku": "JKE-IIYEGWBVHFEFCM2S",
       "slug": "dahsha-4-pack-spring-files-a4-size-paper-folder-cobra-file",
       "name": "DAHSHA 4 Pack Spring Files A4 Size Paper Folder Cobra File...",
@@ -3851,16 +3321,6 @@
       "price": 12999,
       "image": "https://m.media-amazon.com/images/I/51VYumrraxL.jpg | https://m.media-amazon.com/images/I/411SGrh5-dL.jpg | https://m.media-amazon.com/images/I/41wj+sZ-E5L.jpg | https://m.media-amazon.com/images/I/41OpHGty+1L.jpg | https://m.media-amazon.com/images/I/41-UWeob1JL.jpg | https://m.media-amazon.com/images/I/41b1-u5M7OL.jpg | https://m.media-amazon.com/images/I/4101m63XdZL.jpg | https://m.media-amazon.com/images/I/51ErqdM07iL.jpg",
       "productUrl": "https://www.amazon.in/ARMI-HYDROPHOBIC-NANOCOATING-MAINTENANCE-Protection/dp/B0C465HV14/ref=sr_1_32"
-    },
-    {
-      "sku": "JKE-IIYDQVBZGFKFITBR",
-      "slug": "8-packs-solar-lights-outdoor-landscape-pathway-stake",
-      "name": "8 Packs Solar Lights Outdoor, Landscape Pathway Stake...",
-      "brand": "Lamtree",
-      "category": "Storage & Organization",
-      "price": 3499,
-      "image": "https://m.media-amazon.com/images/I/71G63Tk4jFL.jpg | https://m.media-amazon.com/images/I/6125Fafl3qL.jpg | https://m.media-amazon.com/images/I/51UzFbBmzAL.jpg | https://m.media-amazon.com/images/I/41UKlB+3T3L.jpg | https://m.media-amazon.com/images/I/41oXq8NMqVL.jpg | https://m.media-amazon.com/images/I/51gx7t62zwL.jpg | https://m.media-amazon.com/images/I/51l9eNjd8iS.jpg | https://m.media-amazon.com/images/I/61CyF1TYIOS.jpg",
-      "productUrl": "https://www.amazon.in/LAMTREE-Outdoor-Classic-Landscape-Driveway/dp/B08T91TTL1/ref=sr_1_50"
     },
     {
       "sku": "JKE-IIYDONSGKZGTOTKK",
@@ -3923,26 +3383,6 @@
       "productUrl": "https://www.amazon.in/Luminous-Inverter-Battery-RC25000-Tubular/dp/B0CQP9B3G7/ref=sr_1_205"
     },
     {
-      "sku": "JKE-IIYEONCXIM4TEUJX",
-      "slug": "chitshakti-citrine-luminous-crystal-tree-with-wooden-base-",
-      "name": "Chitshakti Citrine Luminous Crystal Tree with Wooden Base |...",
-      "brand": "Chitshakti",
-      "category": "Storage & Organization",
-      "price": 1195,
-      "image": "https://m.media-amazon.com/images/I/71sTGNBVpoL.jpg | https://m.media-amazon.com/images/I/41Xa1RqxgkL.jpg | https://m.media-amazon.com/images/I/51xtLvZbHhL.jpg | https://m.media-amazon.com/images/I/51iCE2hTgwL.jpg | https://m.media-amazon.com/images/I/51lXYOtd4GL.jpg | https://m.media-amazon.com/images/I/51ufI3NelAL.jpg | https://m.media-amazon.com/images/I/51ykI8hxR8L.jpg",
-      "productUrl": "https://www.amazon.in/Chitshakti-Citrine-Luminous-Positive-Showcase/dp/B0G4WC92Q7/ref=sr_1_291"
-    },
-    {
-      "sku": "JKE-IIYEOWSMJRBEYMZS",
-      "slug": "luminous-flower-case-for-iphone-15-pro-max-iphone-15-pro",
-      "name": "Luminous Flower Case for iPhone 15 Pro Max, iPhone 15 Pro...",
-      "brand": "Gadgets Mantra",
-      "category": "Storage & Organization",
-      "price": 379,
-      "image": "https://m.media-amazon.com/images/I/51vWkDkqRyL.jpg | https://m.media-amazon.com/images/I/41KNQiORvsL.jpg | https://m.media-amazon.com/images/I/51y5BSZUGKL.jpg | https://m.media-amazon.com/images/I/41AmaLeIvkL.jpg | https://m.media-amazon.com/images/I/31VoTZprVWL.jpg | https://m.media-amazon.com/images/I/41zcOq2xmrL.jpg | https://m.media-amazon.com/images/I/31PgFND5ENL.jpg | https://m.media-amazon.com/images/I/41caUpJLPVL.jpg",
-      "productUrl": "https://www.amazon.in/Gadgets-Mantra-Luminous-Flower-iPhone/dp/B0GZLLBL32/ref=sr_1_247"
-    },
-    {
       "sku": "JKE-IIYEGMKOI5DUUNSC",
       "slug": "luminous-inverter-battery-combo-with-trolley-for-home-",
       "name": "Luminous Inverter & Battery Combo with Trolley for Home &...",
@@ -3981,16 +3421,6 @@
       "price": 1999,
       "image": "https://m.media-amazon.com/images/I/61e+DE2NdEL.jpg | https://m.media-amazon.com/images/I/41VwL2YqIsL.jpg | https://m.media-amazon.com/images/I/51ODZi6a6cL.jpg | https://m.media-amazon.com/images/I/51sz0Gr8PeL.jpg | https://m.media-amazon.com/images/I/51pl9WhLFmL.jpg | https://m.media-amazon.com/images/I/41r-rqR8UPL.jpg",
       "productUrl": "https://www.amazon.in/Kenbrook-Solar-ACDB-Inbuilt-Indicator/dp/B0CGTMG7VM/ref=sr_1_44"
-    },
-    {
-      "sku": "JKE-IIYEOMZYJZIEGNBY",
-      "slug": "wistar-ic-5000utl116-5000utl116-74v-5000mah-batteries",
-      "name": "WISTAR IC-5000UTL116, 5000UTL116 7.4V 5000mAh Batteries",
-      "brand": "Wistar",
-      "category": "Storage & Organization",
-      "price": 7314,
-      "image": "https://m.media-amazon.com/images/I/51Z03BxHQ5L.jpg | https://m.media-amazon.com/images/I/51Z03BxHQ5L.jpg",
-      "productUrl": "https://www.amazon.in/WISTAR-IC-5000UTL116-5000UTL116-5000mAh-Batteries/dp/B0G38NPC48/ref=sr_1_60"
     },
     {
       "sku": "JKE-IIYEISSTLAYTEVRT",
@@ -4063,16 +3493,6 @@
       "productUrl": "https://www.amazon.in/SILVIYA-925-Silver-Sindoor-Stick/dp/B0FQV7TFC7/ref=sr_1_91"
     },
     {
-      "sku": "JKE-IIYDQOCOI5JFGRSH",
-      "slug": "fujiyama-cherry-blossoms-121-13-133-14-15-154-156",
-      "name": "Fujiyama & Cherry Blossoms 12.1 13 13.3 14 15 15.4 15.6...",
-      "brand": "Aortdes",
-      "category": "Storage & Organization",
-      "price": 2390.39,
-      "image": "https://m.media-amazon.com/images/I/611xETwSeWL.jpg | https://m.media-amazon.com/images/I/41Zkykov85L.jpg | https://m.media-amazon.com/images/I/51czkUcVi2L.jpg | https://m.media-amazon.com/images/I/51ymolf5s8L.jpg | https://m.media-amazon.com/images/I/51Ma4HFQvAL.jpg | https://m.media-amazon.com/images/I/51w0M86qy+L.jpg | https://m.media-amazon.com/images/I/51+pzSQRr5L.jpg | https://m.media-amazon.com/images/I/51s5nWm651L.jpg",
-      "productUrl": "https://www.amazon.in/Fujiyama-Personalized-Universal-Protector-AORTDES/dp/B088NGRSFG/ref=sr_1_75"
-    },
-    {
       "sku": "JKE-IIYDASCYKNNFIOCV",
       "slug": "caiul-nodartisan-fuji-instax-mini-book-album-for-instax",
       "name": "CAIUL NodArtisan Fuji Instax Mini Book Album For instax...",
@@ -4081,46 +3501,6 @@
       "price": 499,
       "image": "https://m.media-amazon.com/images/I/819xZ8lQFML.jpg | https://m.media-amazon.com/images/I/41T4bsEdYtL.jpg | https://m.media-amazon.com/images/I/41PfVHfUFEL.jpg",
       "productUrl": "https://www.amazon.in/NodArtisan-Instax-Album-instax-mini7s/dp/B00HXSZT8U/ref=sr_1_209"
-    },
-    {
-      "sku": "JKE-IIYDOU2LI5JUURCQ",
-      "slug": "godox-v1-ttl-li-ion-round-head-camera-flash-v1-f-for-fuji",
-      "name": "Godox V1 TTL Li-ion Round Head Camera Flash (V1-F for Fuji)",
-      "brand": "Godox",
-      "category": "Storage & Organization",
-      "price": 18125,
-      "image": "https://m.media-amazon.com/images/I/51yo3lZCuJL.jpg | https://m.media-amazon.com/images/I/31R-1b4-geL.jpg | https://m.media-amazon.com/images/I/417Nq3Ap91L.jpg | https://m.media-amazon.com/images/I/31ktNLbh+tL.jpg | https://m.media-amazon.com/images/I/41RV3L+XUoL.jpg | https://m.media-amazon.com/images/I/31cTdNM6wLL.jpg | https://m.media-amazon.com/images/I/41RJi+NbMWL.jpg | https://m.media-amazon.com/images/I/41y7hN5LzGL.jpg",
-      "productUrl": "https://www.amazon.in/Godox-Li-ion-Round-Camera-V1-F/dp/B07SKGSJDP/ref=sr_1_194"
-    },
-    {
-      "sku": "JKE-IIYDCNBYGFCEMT2P",
-      "slug": "pat-instax-plastic-64-pockets-photo-mini-book-album-pink",
-      "name": "PAT Instax Plastic 64 Pockets Photo Mini Book Album (Pink)",
-      "brand": "Pat",
-      "category": "Storage & Organization",
-      "price": 499,
-      "image": "https://m.media-amazon.com/images/I/71lMiR-SADL.jpg | https://m.media-amazon.com/images/I/41U+6ipAn7L.jpg | https://m.media-amazon.com/images/I/410YsJGSUwL.jpg | https://m.media-amazon.com/images/I/41I2WRowMYL.jpg | https://m.media-amazon.com/images/I/41Xag7GiolL.jpg",
-      "productUrl": "https://www.amazon.in/PAT-Instax-Plastic-Pockets-Photo/dp/B01481DFOO/ref=sr_1_198"
-    },
-    {
-      "sku": "JKE-IIYDCQK2GBNFISKX",
-      "slug": "zomei-z699c-carbon-fiber-portable-tripod-with-ball-head",
-      "name": "ZOMEI Z699C Carbon Fiber Portable Tripod with Ball Head...",
-      "brand": "Zomei",
-      "category": "Storage & Organization",
-      "price": 24594,
-      "image": "https://m.media-amazon.com/images/I/818ZrBzq3AL.jpg | https://m.media-amazon.com/images/I/413li1igHEL.jpg | https://m.media-amazon.com/images/I/517L0NpHp4L.jpg | https://m.media-amazon.com/images/I/51MrF2uOVSL.jpg | https://m.media-amazon.com/images/I/41g7X55YllL.jpg | https://m.media-amazon.com/images/I/51enXhl1mcL.jpg | https://m.media-amazon.com/images/I/411Sb9EY4EL.jpg | https://m.media-amazon.com/images/I/51Ylm7b22uL.jpg",
-      "productUrl": "https://www.amazon.in/Z699C-Portable-Compact-Samsung-Panasonic/dp/B01AZ0ZTIW/ref=sr_1_195"
-    },
-    {
-      "sku": "JKE-IIYDQRSYIMZFIS2U",
-      "slug": "mt-fuji-glass-tumbler-lock-traditional-wooden-box",
-      "name": "Mt. Fuji Glass Tumbler, Lock, Traditional, Wooden Box,...",
-      "brand": "Morning Place",
-      "category": "Storage & Organization",
-      "price": 6192,
-      "image": "https://m.media-amazon.com/images/I/61A8WGM7VPL.jpg | https://m.media-amazon.com/images/I/31TqQbv0TiL.jpg | https://m.media-amazon.com/images/I/41lG3GlhuNL.jpg | https://m.media-amazon.com/images/I/51AdpU9jMcL.jpg | https://m.media-amazon.com/images/I/51zm2s5lgKL.jpg | https://m.media-amazon.com/images/I/519F1No9MCL.jpg | https://m.media-amazon.com/images/I/41tHKUFZ+HL.jpg | https://m.media-amazon.com/images/I/31GdI+MhZ6L.jpg",
-      "productUrl": "https://www.amazon.in/morning-place-Tumbler-Traditional-Wedding/dp/B08FXC2TKT/ref=sr_1_207"
     },
     {
       "sku": "JKE-IIYDCSKQJZLDSM2B",
@@ -4273,16 +3653,6 @@
       "productUrl": "https://www.amazon.in/AMFIN-decoration-butterfly-celebration-appreciation/dp/B0GWJYNN95/ref=sr_1_80"
     },
     {
-      "sku": "JKE-IIYEQMZZG5MDKQSS",
-      "slug": "igp-personalized-magic-mug-for-mom-same-day-delivery-",
-      "name": "IGP Personalized Magic Mug for Mom | Same Day Delivery |...",
-      "brand": "Igp",
-      "category": "Storage & Organization",
-      "price": 210,
-      "image": "https://m.media-amazon.com/images/I/51nQbQApZpL.jpg | https://m.media-amazon.com/images/I/51nQbQApZpL.jpg | https://m.media-amazon.com/images/I/41TsfRkD6aL.jpg | https://m.media-amazon.com/images/I/416jIMEivnL.jpg | https://m.media-amazon.com/images/I/41DDe0OY5bL.jpg | https://m.media-amazon.com/images/I/41uiIIyekdL.jpg | https://m.media-amazon.com/images/I/41iw-+DimcL.jpg | https://m.media-amazon.com/images/I/41iZRTH70NL.jpg",
-      "productUrl": "https://www.amazon.in/IGP-Personalized-Delivery-Changing-Birthday/dp/B0H397X5BR/ref=sr_1_275"
-    },
-    {
       "sku": "JKE-IIYEGU2LI4ZUMVSN",
       "slug": "mother-sparsh-natural-vapour-patches-for-kids-with",
       "name": "Mother Sparsh Natural Vapour Patches For Kids With...",
@@ -4333,16 +3703,6 @@
       "productUrl": "https://www.amazon.in/UK-Handicrafts-Showpiece-Decorative-Figurine/dp/B0GTZ14PKP/ref=sr_1_142"
     },
     {
-      "sku": "JKE-IIYEQN2DGVGEINJV",
-      "slug": "mother-baby-statue-showpiece-for-home-decor-mother-child",
-      "name": "Mother Baby Statue Showpiece for Home Decor | Mother Child...",
-      "brand": "Soni Craft",
-      "category": "Storage & Organization",
-      "price": 197,
-      "image": "https://m.media-amazon.com/images/I/61fuHZ0DWbL.jpg | https://m.media-amazon.com/images/I/41XVzPgJIwL.jpg | https://m.media-amazon.com/images/I/41VEa1bTrxL.jpg | https://m.media-amazon.com/images/I/41q0dgBxhSL.jpg | https://m.media-amazon.com/images/I/31e7njHifiL.jpg | https://m.media-amazon.com/images/I/51k8ZyWNNkL.jpg | https://m.media-amazon.com/images/I/41FhPAgzNXL.jpg",
-      "productUrl": "https://www.amazon.in/Showpiece-Figurine-Sculpture-Housewarming-Birthday/dp/B0H7C5LD55/ref=sr_1_46"
-    },
-    {
       "sku": "JKE-IIYEQOJTJNIUUMJY",
       "slug": "motherly-patented-diaper-bag-backpack-for-moms-waterproof",
       "name": "Motherly Patented Diaper Bag Backpack for Moms | Waterproof...",
@@ -4373,16 +3733,6 @@
       "productUrl": "https://www.amazon.in/fnp-Mothers-Ceramic-Everyday-Printed/dp/B0H6MD2NG8/ref=sr_1_159"
     },
     {
-      "sku": "JKE-IIYEGWBZHEYTGRSM",
-      "slug": "50gm-ceramide-night-cream-anti-aging-cream-for-women-and",
-      "name": "50Gm Ceramide Night Cream | Anti Aging Cream For Women and...",
-      "brand": "Mother Organiic",
-      "category": "Storage & Organization",
-      "price": 298,
-      "image": "https://m.media-amazon.com/images/I/51zOCx4hClL.jpg | https://m.media-amazon.com/images/I/41O1oeDR6gL.jpg | https://m.media-amazon.com/images/I/51AZn5aFP6L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/31Sx4zNYcuL.jpg | https://m.media-amazon.com/images/I/41Z-uqfz6rL.jpg | https://m.media-amazon.com/images/I/51adSLjytML.jpg | https://m.media-amazon.com/images/I/41te8JyDO6L.jpg | https://m.media-amazon.com/images/I/41mRk9ptBBL.jpg",
-      "productUrl": "https://www.amazon.in/Ceramide-Reduces-Wrinkles-Moisturizer-Youthful/dp/B0CX9913FL/ref=sr_1_259"
-    },
-    {
       "sku": "JKE-IIYEMR2DKJJE2OBZ",
       "slug": "motherly-patented-baby-diaper-bag-backpack-for-moms",
       "name": "Motherly Patented Baby Diaper Bag Backpack for Moms...",
@@ -4403,16 +3753,6 @@
       "productUrl": "https://www.amazon.in/StarAndDaisy-Multi-Compartments-Insulated-Pockets-Waterproof/dp/B0FQP9NVWM/ref=sr_1_235"
     },
     {
-      "sku": "JKE-IIYEOWCXGEZUIMJY",
-      "slug": "mamma-vegan-leather-diaper-bag-for-mothers-for-travel-baby",
-      "name": "MAMMA Vegan Leather Diaper Bag for Mothers for Travel, Baby...",
-      "brand": "Mamma",
-      "category": "Storage & Organization",
-      "price": 1299,
-      "image": "https://m.media-amazon.com/images/I/71fjskBwleL.jpg | https://m.media-amazon.com/images/I/41r3564R9AL.jpg | https://m.media-amazon.com/images/I/51MeHqyCjyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41PGaMjZCBL.jpg | https://m.media-amazon.com/images/I/41svT+CVuZL.jpg | https://m.media-amazon.com/images/I/51Mc6dyW0RL.jpg | https://m.media-amazon.com/images/I/41AS6xb9FNL.jpg | https://m.media-amazon.com/images/I/411Me5ZFHnL.jpg",
-      "productUrl": "https://www.amazon.in/MAMMA-Waterproof-Hospital-Delivery-Warranty/dp/B0GXW13D18/ref=sr_1_227"
-    },
-    {
       "sku": "JKE-IIYEQOBTLBHE2S2L",
       "slug": "lepure-gifts-for-women-mom-wife-her-unique-birthday",
       "name": "Lepure Gifts for Women Mom Wife Her, Unique Birthday...",
@@ -4421,16 +3761,6 @@
       "price": 998,
       "image": "https://m.media-amazon.com/images/I/81IkSysmCQL.jpg | https://m.media-amazon.com/images/I/51t3vudReyL.jpg | https://m.media-amazon.com/images/I/51zkGYDGh5L.jpg | https://m.media-amazon.com/images/I/51qqqI0CD6L.jpg | https://m.media-amazon.com/images/I/41Q4mrGDtML.jpg | https://m.media-amazon.com/images/I/51WlTJWcAzL.jpg | https://m.media-amazon.com/images/I/51YpX7cV3bL.jpg | https://m.media-amazon.com/images/I/51pUMa7neJL.jpg",
       "productUrl": "https://www.amazon.in/Birthday-Mothers-Valentines-Lavender-Appreciation/dp/B0H83XNMKK/ref=sr_1_223"
-    },
-    {
-      "sku": "JKE-IIYDOUJVG5NFONCX",
-      "slug": "surprise-popup-gift-box-for-mom-with-message-cards-love-my",
-      "name": "Surprise Popup Gift Box for Mom with Message Cards, Love My...",
-      "brand": "Exciting Lives",
-      "category": "Storage & Organization",
-      "price": 210,
-      "image": "https://m.media-amazon.com/images/I/71xbmSoOIjL.jpg | https://m.media-amazon.com/images/I/41wQlJc9NmL.jpg | https://m.media-amazon.com/images/I/51l+96ZJO7L.jpg | https://m.media-amazon.com/images/I/41QA4iLlweL.jpg | https://m.media-amazon.com/images/I/51qp+HUyD3L.jpg | https://m.media-amazon.com/images/I/41Vz0vB3EJL.jpg | https://m.media-amazon.com/images/I/41jPjeM83sL.jpg | https://m.media-amazon.com/images/I/31Bl2xEWTVL.jpg",
-      "productUrl": "https://www.amazon.in/exciting-Lives-Best-Mother-Message/dp/B07Q57ZW4W/ref=sr_1_211"
     },
     {
       "sku": "JKE-IIYDCNSXKNCUCTZQ",
@@ -4463,26 +3793,6 @@
       "productUrl": "https://www.amazon.in/Mothers-Recipe-Ajwain-Rice-Papad/dp/B07DCKVH2M/ref=sr_1_64"
     },
     {
-      "sku": "JKE-IIYEQMKRKA4E4M2N",
-      "slug": "diaper-bag-for-mothers-for-travel-baby-diaper-bag-tote",
-      "name": "Diaper Bag For Mothers For Travel, Baby Diaper Bag Tote,...",
-      "brand": "Srkspyfd",
-      "category": "Storage & Organization",
-      "price": 1998,
-      "image": "https://m.media-amazon.com/images/I/61jSPdiEEEL.jpg | https://m.media-amazon.com/images/I/41SKgGUeciL.jpg | https://m.media-amazon.com/images/I/41qpVG+njmL.jpg | https://m.media-amazon.com/images/I/51a9pOCUfJL.jpg | https://m.media-amazon.com/images/I/41IrAH+9QCL.jpg | https://m.media-amazon.com/images/I/51dTntiVS6L.jpg | https://m.media-amazon.com/images/I/51chcs337AL.jpg | https://m.media-amazon.com/images/I/51fLx0b2AjL.jpg",
-      "productUrl": "https://www.amazon.in/SRKSPYFD-Multifunction-Shoulder-Maternity-Adjustable/dp/B0H1QP8N3M/ref=sr_1_249"
-    },
-    {
-      "sku": "JKE-IIYEMNKHJBCE2VBZ",
-      "slug": "maa-printed-ceramic-coffee-mug-325-ml-mothers-day-gift",
-      "name": "Maa Printed Ceramic Coffee Mug 325 ml – Mother's Day Gift,...",
-      "brand": "Naksh Enterprise",
-      "category": "Storage & Organization",
-      "price": 175,
-      "image": "https://m.media-amazon.com/images/I/71ArVSW9j0L.jpg | https://m.media-amazon.com/images/I/41zbl6aQq9L.jpg | https://m.media-amazon.com/images/I/41odZutgi9L.jpg | https://m.media-amazon.com/images/I/41EBNzpM4QL.jpg | https://m.media-amazon.com/images/I/41uCuBdI3jL.jpg | https://m.media-amazon.com/images/I/41qZxqDCYjL.jpg | https://m.media-amazon.com/images/I/31QoNrVvgOL.jpg | https://m.media-amazon.com/images/I/317i8c1ClKL.jpg",
-      "productUrl": "https://www.amazon.in/Naksh-Enterprise-Printed-Ceramic-Coffee/dp/B0F5GHDMT9/ref=sr_1_216"
-    },
-    {
       "sku": "JKE-IIYDOOBUJU2VAOKC",
       "slug": "mother-dairy-uht-milk-carton-1-liter",
       "name": "Mother Dairy Uht Milk Carton, 1 Liter",
@@ -4493,16 +3803,6 @@
       "productUrl": "https://www.amazon.in/Mother-Dairy-UHT-Milk-1L/dp/B0784M5P9B/ref=sr_1_135"
     },
     {
-      "sku": "JKE-IIYEOSCSINIFQOBU",
-      "slug": "webelkart-premium-mother-baby-statue-showpiece-gift-resin",
-      "name": "Webelkart Premium Mother Baby Statue Showpiece Gift, Resin...",
-      "brand": "Webelkart",
-      "category": "Storage & Organization",
-      "price": 449,
-      "image": "https://m.media-amazon.com/images/I/712foFk3LNL.jpg | https://m.media-amazon.com/images/I/41oz0r4rgbL.jpg | https://m.media-amazon.com/images/I/41fEWDSIXuL.jpg | https://m.media-amazon.com/images/I/41f+QXQhGKL.jpg | https://m.media-amazon.com/images/I/41B8myElK8L.jpg | https://m.media-amazon.com/images/I/41SCf1r6hrL.jpg | https://m.media-amazon.com/images/I/41rCn7r18-L.jpg | https://m.media-amazon.com/images/I/41AqElDRqxL.jpg",
-      "productUrl": "https://www.amazon.in/Webelkart-Premium-Showpiece-Figurine-motherr/dp/B0GHRCPX84/ref=sr_1_303"
-    },
-    {
       "sku": "JKE-IIYEMNSOJRCDCURY",
       "slug": "staranddaisy-baby-bag-for-mothers-traveldiaper-bags-for",
       "name": "StarAndDaisy Baby Bag for Mothers Travel/Diaper Bags for...",
@@ -4511,16 +3811,6 @@
       "price": 999,
       "image": "https://m.media-amazon.com/images/I/91bczQx+y2L.jpg | https://m.media-amazon.com/images/I/51BZv-Gjg9L.jpg | https://m.media-amazon.com/images/I/71PCWjy1XqL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51-w91YyC9L.jpg | https://m.media-amazon.com/images/I/51nK7qf9v0L.jpg | https://m.media-amazon.com/images/I/51x0cNgDqvL.jpg | https://m.media-amazon.com/images/I/51CeB1DsFfL.jpg | https://m.media-amazon.com/images/I/51zn21ItzIL.jpg",
       "productUrl": "https://www.amazon.in/StarAndDaisy-Insulated-Compartment-Multiple-Capacity/dp/B0F6NLD1R8/ref=sr_1_221"
-    },
-    {
-      "sku": "JKE-IIYEOV2WHFDFUOJV",
-      "slug": "blissfull-bites-mothers-day-chocolate-gift-hamper-combo-",
-      "name": "BLISSFULL BITES Mother’s Day Chocolate Gift Hamper Combo –...",
-      "brand": "Blissfull Bites",
-      "category": "Storage & Organization",
-      "price": 299,
-      "image": "https://m.media-amazon.com/images/I/71hW0VimExL.jpg | https://m.media-amazon.com/images/I/41Xp6Cr8YHL.jpg | https://m.media-amazon.com/images/I/41ot3GYqdUL.jpg | https://m.media-amazon.com/images/I/411csMG0OyL.jpg | https://m.media-amazon.com/images/I/31NUoScA-oL.jpg | https://m.media-amazon.com/images/I/31uEZZi+urL.jpg | https://m.media-amazon.com/images/I/41MmDDIZsYL.jpg",
-      "productUrl": "https://www.amazon.in/BLISSFULL-BITES-Mothers-Chocolate-Hamper/dp/B0GWV9FZ95/ref=sr_1_295"
     },
     {
       "sku": "JKE-IIYDQNBUJQYVOR2D",

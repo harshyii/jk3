@@ -36,16 +36,23 @@ function renderFeaturedProducts(products) {
     const container = document.getElementById('product-grid');
     if (!container) return;
 
-    let featured = products.filter(p => p.featured === true || p.Featured === true);
-    if (featured.length === 0) {
-        featured = [...products].sort((a, b) => {
-            const dateA = new Date(a.date || a.createdAt || a.Date || 0);
-            const dateB = new Date(b.date || b.createdAt || b.Date || 0);
-            return dateB - dateA;
-        }).slice(0, 12);
-    } else {
-        featured = featured.slice(0, 8);
+    // Filter out items that lack images or have broken 404 images to ensure "better looking" items
+    const validProducts = products.filter(p => {
+        const img = p.image_url_1 || p.image || p.Image || '';
+        return img && img !== '404.webp' && !img.includes('placeholder');
+    });
+
+    const pool = validProducts.length > 0 ? validProducts : products;
+
+    // Shuffle pool using Fisher-Yates algorithm for true random display on every reload
+    const shuffled = [...pool];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
+
+    // Select top 8 random products with nice visual presentation criteria
+    let featured = shuffled.slice(0, 8);
 
     if (featured.length === 0) {
         container.innerHTML = '<p class="text-center text-muted">No products available at the moment.</p>';
@@ -60,33 +67,39 @@ function renderFeaturedProducts(products) {
         const rawPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.price ?? product.MRP ?? 0;
         const productPrice = parseNumericPrice(rawPrice);
 
+        // Fetch discount percentage if calculated by our pipeline script earlier
+        const discountPercentage = product.discount_percentage ? parseFloat(product.discount_percentage) : 0;
+
         const productUnit = product.unit || product.Unit || 'PC';
         const productBrand = product.brand || product.Brand || 'General';
 
         return `
             <div class="col-6 col-md-4 col-lg-3 mb-4">
-                <div class="card h-100 product-card shadow-sm border-0 d-flex flex-column">
+                <div class="card h-100 product-card shadow-sm border-0 d-flex flex-column position-relative overflow-hidden hover-shadow transition">
+                    ${discountPercentage > 0 ? `<span class="badge bg-danger position-absolute top-0 start-0 m-2 z-2 px-2 py-1 shadow-sm">${Math.round(discountPercentage)}% OFF</span>` : ''}
                     <a href="product.html?sku=${productSku}" class="text-decoration-none">
-                        <div class="product-img-wrapper position-relative overflow-hidden" style="height: 200px; background-color: #f8f9fa;">
-                            <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-3" onerror="this.src='404.webp'">
+                        <div class="product-img-wrapper position-relative overflow-hidden bg-white d-flex align-items-center justify-content-center" style="height: 210px;">
+                            <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-3 transition-transform" onerror="this.src='404.webp'">
                         </div>
                     </a>
-                    <div class="card-body d-flex flex-column p-3">
-                        <span class="text-uppercase text-muted small mb-1">${escapeHtml(productBrand)}</span>
-                        <h5 class="card-title fs-6 mb-2">
+                    <div class="card-body d-flex flex-column p-3 bg-light bg-opacity-25">
+                        <span class="text-uppercase text-muted small fw-bold mb-1" style="font-size: 0.75rem; letter-spacing: 0.5px;">${escapeHtml(productBrand)}</span>
+                        <h5 class="card-title fs-6 mb-2 text-truncate-2" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; height: 2.6em;">
                             <a href="product.html?sku=${productSku}" class="text-dark text-decoration-none stretched-link">${escapeHtml(productName)}</a>
                         </h5>
                         <div class="mt-auto pt-2">
-                            <span class="fw-bold text-primary d-block mb-2">₹${productPrice.toLocaleString('en-IN')}</span>
+                            <div class="d-flex align-items-baseline mb-2">
+                                <span class="fw-bold text-primary fs-5 me-2">₹${productPrice.toLocaleString('en-IN')}</span>
+                            </div>
                             <div class="d-flex gap-2 position-relative z-1">
-                                <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-primary w-50">View</a>
-                                <button class="btn btn-sm btn-primary w-50 home-add-to-cart-btn"
+                                <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-secondary w-50 fw-semibold">View</a>
+                                <button class="btn btn-sm btn-primary w-50 home-add-to-cart-btn fw-semibold shadow-sm"
                                     data-sku="${productSku}"
                                     data-name="${escapeHtml(productName)}"
                                     data-price="${productPrice}"
                                     data-image="${productImg}"
                                     data-unit="${productUnit}"
-                                    type="button">Add</button>
+                                    type="button"><i class="bi bi-cart-plus me-1"></i> Add</button>
                             </div>
                         </div>
                     </div>
@@ -130,7 +143,6 @@ function initHomeAddToCart(products) {
         localStorage.setItem('ht_cart', JSON.stringify(cart));
         window.dispatchEvent(new CustomEvent('cartUpdated', { detail: cart }));
 
-        // Trigger capped interactive toast notification
         showCappedButtonToast(`${name} added to cart!`);
     });
 }

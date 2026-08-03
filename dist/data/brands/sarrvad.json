@@ -3,44 +3,24 @@
   "slug": "sarrvad",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIS2XI5FEGRKVK5FFGS22IJLEWUZSLI",
-      "slug": "200w-portable-solar-panel-for-power-station-foldable",
-      "name": "200W Portable Solar Panel for Power Station, Foldable...",
+      "sku": "JKE-SKU-IIYEMVZVJBJDGMJZ",
+      "slug": "portable-power-station-k1200-1008wh-lifepo4-with-200w-solar-panel-combo-portable-power-station-for-home-backup-rv-camping-outdoor-full-charge-in-78-hours",
+      "name": "Portable Power Station K1200 (1008Wh LiFePO4) with 200W Solar Panel Combo | Portable Power Station for Home Backup, RV, Camping & Outdoor | Full Charge in 7–8 Hours",
       "brand": "Sarrvad",
-      "category": "Electrical & Wiring",
-      "price": 32000,
-      "image": "https://m.media-amazon.com/images/I/61404zXUD8L.jpg | https://m.media-amazon.com/images/I/41PBpLoXCjL.jpg | https://m.media-amazon.com/images/I/51DCBkYrYsL.jpg | https://m.media-amazon.com/images/I/51YdCuDlE4L.jpg | https://m.media-amazon.com/images/I/51673Vf8-VL.jpg | https://m.media-amazon.com/images/I/51g9eZqd9+L.jpg | https://m.media-amazon.com/images/I/51joqRMVUOL.jpg",
-      "productUrl": "https://www.amazon.in/SARRVAD-Portable-Station-Foldable-Kickstands/dp/B0FWCN5QQX/ref=sr_1_69"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIS2XJRFEYRKVKFJUWSKSIRKTEU2TGI",
-      "slug": "portable-power-station-k1200-1008wh-lifepo4-with-200w",
-      "name": "Portable Power Station K1200 (1008Wh LiFePO4) with 200W...",
-      "brand": "Sarrvad",
-      "category": "General Hardware",
-      "price": 98890,
+      "category": "Other",
+      "price": "₹83,999.00",
       "image": "https://m.media-amazon.com/images/I/61F0RuAhgGL.jpg | https://m.media-amazon.com/images/I/41crRdvpY6L.jpg | https://m.media-amazon.com/images/I/510fWwQR+1L.jpg | https://m.media-amazon.com/images/I/41YTtbZ1EIL.jpg | https://m.media-amazon.com/images/I/51ROvyoyxvL.jpg | https://m.media-amazon.com/images/I/517a9OE4reL.jpg | https://m.media-amazon.com/images/I/51SaU6yKm2L.jpg",
       "productUrl": "https://www.amazon.in/SARRVAD-Portable-Station-LiFePO4-Camping/dp/B0FW5HR319/ref=sr_1_240"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVKS2PJJFEUVKPKRFTES2VLJCTEVJSIY",
-      "slug": "15w-portable-solar-charger-foldable-solar-panel-with",
-      "name": "15W Portable Solar Charger – Foldable Solar Panel with...",
+      "sku": "JKE-SKU-IIYDQNJSGMZU2MSE",
+      "slug": "15w-portable-solar-charger-foldable-solar-panel-with-usb-output-5v3a-to-charge-mobile-phones-tablets-lightweight-waterproof-solar-charging-kit-for-camping-hiking-travel",
+      "name": "15W Portable Solar Charger – Foldable Solar Panel with USB Output (5V/3A) to Charge Mobile Phones, Tablets | Lightweight Waterproof Solar Charging Kit for Camping, Hiking, Travel",
       "brand": "Sarrvad",
-      "category": "General Hardware",
-      "price": 0,
+      "category": "Electronics",
+      "price": "₹5,000.00",
       "image": "https://m.media-amazon.com/images/I/71hejfCetJL.jpg | https://m.media-amazon.com/images/I/51zcpsq4NaL.jpg | https://m.media-amazon.com/images/I/51ZG8pFlmpL.jpg | https://m.media-amazon.com/images/I/51-PDnJjF+L.jpg | https://m.media-amazon.com/images/I/51QfVLNjaNL.jpg | https://m.media-amazon.com/images/I/61hfzWV-VFL.jpg | https://m.media-amazon.com/images/I/61T1UTuAUmL.jpg | https://m.media-amazon.com/images/I/41E2zcP9eSL.jpg",
       "productUrl": "https://www.amazon.in/SARRVAD-Controller-Waterproof-Lightweight-Portable/dp/B085233M2D/ref=sr_1_214"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVKS2OJJHEUVKXJZFUSSKWIRLE6UKTKU",
-      "slug": "t500-portable-power-station-518wh-li-ion-battery-140000",
-      "name": "T500 Portable Power Station, 518Wh Li-Ion Battery 140000...",
-      "brand": "Sarrvad",
-      "category": "Power Tools",
-      "price": 80000,
-      "image": "https://m.media-amazon.com/images/I/71QEVm0bO7L.jpg | https://m.media-amazon.com/images/I/410IPlbxBSL.jpg | https://m.media-amazon.com/images/I/41r6Hw6qatL.jpg | https://m.media-amazon.com/images/I/51109I4jWSL.jpg | https://m.media-amazon.com/images/I/51eeU1DQ-0L.jpg | https://m.media-amazon.com/images/I/513r-WzSk6L.jpg | https://m.media-amazon.com/images/I/41EDc82ItcL.jpg",
-      "productUrl": "https://www.amazon.in/SARRVAD-Portable-Generator-Lithium-ion-Batteries/dp/B081RWNCX3/ref=sr_1_35"
     }
   ]
 }

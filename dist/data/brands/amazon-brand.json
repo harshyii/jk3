@@ -3,54 +3,24 @@
   "slug": "amazon-brand",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIS2VJNHEQRKXJZFUQS2VGJDEWUZSKI",
-      "slug": "amazon-brand-umi-electric-pencil-sharpener-portable",
-      "name": "Amazon Brand - Umi Electric Pencil Sharpener, Portable...",
+      "sku": "JKE-SKU-IIYEMTSNK5GU4UKQ",
+      "slug": "amazon-brand-umi-electric-pencil-sharpener-portable-battery-powered-sharpener-with-transparent-shavings-box-fits-6-8mm-pencils-dual-automatic-manual-modes-for-school-office-home-use-black",
+      "name": "Amazon Brand - Umi Electric Pencil Sharpener, Portable Battery-Powered Sharpener with Transparent Shavings Box, Fits 6-8mm Pencils, Dual Automatic & Manual Modes for School, Office, Home Use (Black)",
       "brand": "Amazon Brand",
-      "category": "Storage & Organization",
-      "price": 900,
+      "category": "Electrical & Solar",
+      "price": "₹549.00",
       "image": "https://m.media-amazon.com/images/I/612rCGPNh6L.jpg | https://m.media-amazon.com/images/I/41NV1pXyXJL.jpg | https://m.media-amazon.com/images/I/41WuI+8yIZL.jpg | https://m.media-amazon.com/images/I/41AN7TzelZL.jpg | https://m.media-amazon.com/images/I/51r95vesECL.jpg | https://m.media-amazon.com/images/I/51-rPSt3P5L.jpg | https://m.media-amazon.com/images/I/51ATrK-Z4XL.jpg | https://m.media-amazon.com/images/I/51NUy5XOmAL.jpg",
       "productUrl": "https://www.amazon.in/Amazon-Brand-Sharpener-Battery-Powered-Transparent/dp/B0FNMWMNQP/ref=sr_1_222"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVES2WJNHEKVKZKNFTES2VGJDE2UJSLA",
-      "slug": "amazon-brand-solimo-nano-double-sided-tape",
-      "name": "Amazon Brand - Solimo Nano Double Sided Tape,...",
+      "sku": "JKE-SKU-IIYEEUSILIZU4VCW",
+      "slug": "amazon-brand-solimo-nano-double-sided-tape-multipurpose-super-sticky-gel-grip-mounting-tape-washable-reusable-no-residue-for-home-office-2mm-thick-12-inch-wide-transparent-3-mtrs",
+      "name": "Amazon Brand - Solimo Nano Double Sided Tape, Multipurpose Super Sticky Gel Grip Mounting Tape, Washable, Reusable, No Residue, for Home & Office, 2mm Thick, 1.2 Inch Wide, Transparent (3 mtrs)",
       "brand": "Amazon Brand",
-      "category": "Measuring & Layout",
-      "price": 599,
+      "category": "Office & Industrial",
+      "price": "₹219.00",
       "image": "https://m.media-amazon.com/images/I/61rmXEJMsUL.jpg | https://m.media-amazon.com/images/I/41-KsiqCBfL.jpg | https://m.media-amazon.com/images/I/41p--rXGkBL.jpg | https://m.media-amazon.com/images/I/518X+VSAYPL.jpg | https://m.media-amazon.com/images/I/41++XHUN-AL.jpg | https://m.media-amazon.com/images/I/51uC+Q6d1oL.jpg | https://m.media-amazon.com/images/I/41Cigeu5+rL.jpg | https://m.media-amazon.com/images/I/41eGhYUyoHL.jpg",
       "productUrl": "https://www.amazon.in/Amazon-Brand-Multipurpose-Mounting-Transparent/dp/B0BRHZ3NTV/ref=sr_1_161"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVGS2PJNFE2RKPKZFFGSK2IJKTETKTIQ",
-      "slug": "amazon-brand-solimo-3-piece-garden-tool-set-small",
-      "name": "Amazon Brand - Solimo 3-Piece Garden Tool Set | Small...",
-      "brand": "Amazon Brand",
-      "category": "Garden & Outdoor",
-      "price": 509,
-      "image": "https://m.media-amazon.com/images/I/51MqlrHKmCL.jpg | https://m.media-amazon.com/images/I/31rsBwYjHyL.jpg | https://m.media-amazon.com/images/I/31QhXCJO9GL.jpg | https://m.media-amazon.com/images/I/31NIrLifhLL.jpg | https://m.media-amazon.com/images/I/31Rl7erHcpL.jpg | https://m.media-amazon.com/images/I/418P6NkyVvL.jpg | https://m.media-amazon.com/images/I/31ndg4cEiLL.jpg | https://m.media-amazon.com/images/I/51qljx6q30L.jpg",
-      "productUrl": "https://www.amazon.in/Amazon-Brand-3-Piece-Gardening-Accessories/dp/B0D6754Q3B/ref=sr_1_252"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVEMSYJNFEYVKVKZJUUS2SJJLEGTKTIQ",
-      "slug": "amazon-brand-solimo-a4-report-file-cover-pack-of-10",
-      "name": "Amazon Brand - Solimo A4 Report File Cover, Pack of 10,...",
-      "brand": "Amazon Brand",
-      "category": "Abrasives & Finishing",
-      "price": 499,
-      "image": "https://m.media-amazon.com/images/I/51XVOlG-AzL.jpg | https://m.media-amazon.com/images/I/31fgiD8ZSQL.jpg | https://m.media-amazon.com/images/I/41ji+7bt5YL.jpg | https://m.media-amazon.com/images/I/41sb78kthFL.jpg | https://m.media-amazon.com/images/I/31KuvHzLbYL.jpg | https://m.media-amazon.com/images/I/51Zi8PDpemL.jpg | https://m.media-amazon.com/images/I/314JzmlBY7L.jpg | https://m.media-amazon.com/images/I/319aIZhgRZL.jpg",
-      "productUrl": "https://www.amazon.in/Amazon-Brand-Solimo-Report-Cover/dp/B0CZ6MQ9CB/ref=sr_1_42"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIS2VJFHEGVKRKFJUGS2SI5LEWTKTKA",
-      "slug": "amazon-brand-solimo-12-inch-analog-wall-clock-luminous",
-      "name": "Amazon Brand- Solimo 12-Inch Analog Wall Clock – Luminous...",
-      "brand": "Amazon Brand",
-      "category": "Fasteners & Hardware",
-      "price": 1699,
-      "image": "https://m.media-amazon.com/images/I/61VwENKyCZL.jpg | https://m.media-amazon.com/images/I/415atdyU8VL.jpg | https://m.media-amazon.com/images/I/41e+DOuMyRL.jpg | https://m.media-amazon.com/images/I/515CzQGMcCL.jpg | https://m.media-amazon.com/images/I/41SSkodNXSL.jpg | https://m.media-amazon.com/images/I/41e1ViRQlPL.jpg | https://m.media-amazon.com/images/I/41ydsVhP9cL.jpg",
-      "productUrl": "https://www.amazon.in/Amazon-Brand-Solimo-12-Inch-Analog/dp/B0FLD8C6SN/ref=sr_1_268"
     }
   ]
 }

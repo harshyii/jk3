@@ -1,0 +1,45 @@
+{
+  "asin": "JKE-SKU-IIYDOR2XI5NFSUBV",
+  "title": "Microtek-Online UPS i-MAXX-5.5KVA 192V (1PH IN-1PH Out) Pure Sinewave, Multicolour",
+  "brand": "Microtek",
+  "current_price": "₹77,380.00",
+  "mrp": "₹96,490",
+  "product_url": "https://www.amazon.in/Microtek-Online-i-MAXX-5-5KVA-192V-1PH-Sinewave/dp/B07GWGZYP5/ref=sr_1_126",
+  "description": "* DSP Technology with IGBT Based Inverter. * Transformer Based Online UPS. * Inbuilt OVCD(Over Voltage Cut-Off Device) with Surge Protection. * Smart LCD Display for Real-time information. * EMI / RFI Noise Filter. * CVCF (constant Voltage Constant Frequency) * Wide Input Voltage Range * Conformal Coated PCB Assemblies to withstand Harsh Environment * Extended Charger capacity expansion to 4amps. (Optional) on demand * Advanced PFC Technology * Advanced Battery Management * Hot Stand-by, Cold Start & RS-232/USB Port Features available. * Short Circuit and Overload Protection * Built-In Maintenance Bypass & Static Bypass Switch. * Over Temperature Protection. * Specially designed to suit Indian Power and Environment Conditions * Generator Compatible (Generator Capacity required for Stand-By Source should be 2.5 times of the UPS capacity). * Configurable Output Voltage Settings. * Output Frequency Fixed at 50Hz or can be synchronised with Input Frequency. * Protection from DC Fan failure. * In-built Over Voltage Cut-Off Device.",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg | https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg",
+    "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg | https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg",
+  "specifications": {
+    "Brand Name": "MICROTEK",
+    "Manufacturer": "Microtek",
+    "ASIN": "B07GWGZYP5",
+    "Colour": "Black",
+    "Battery Charge Time": "12 Hours",
+    "Item Weight Unit of Measure": "62000 Grams",
+    "Unit Count": "1 Count",
+    "Connector Type": "RS-232, USB",
+    "Voltage": "192 Volts",
+    "Battery Cell Type": "Sealed Lead Acid",
+    "Number of Outlets": 8,
+    "Amperage": "4 Amps",
+    "Form Factor": "Rack",
+    "Maximum Power": "5.5 Kilowatts"
+  },
+  "SKU": "JKE-SKU-IIYDOR2XI5NFSUBV",
+  "Name": "Microtek-Online UPS i-MAXX-5.5KVA 192V (1PH IN-1PH Out) Pure Sinewave, Multicolour",
+  "Slug": "microtek-online-ups-i-maxx-55kva-192v-1ph-in-1ph-out-pure-sinewave-multicolour",
+  "Category": "Other",
+  "Subcategory1": "Other",
+  "Images": [
+    "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg | https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg",
+    "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg | https://m.media-amazon.com/images/I/41wPQpmQtlL.jpg",
+  "StockQuantity": 0,
+  "Unit": "1 Count",
+  "Discount": 0,
+  "SalePrice": "₹77,380.00"
+}

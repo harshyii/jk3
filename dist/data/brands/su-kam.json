@@ -6,5 +6,26 @@
   "description": "Explore Su-Kam solar power systems, solar PCUs, inverters, and battery storage solutions.",
   "seoTitle": "Su-Kam Solar & Inverters | Haryana.Tools",
   "metaDescription": "Browse Su-Kam solar PCUs, power backup inverters, and solar battery storage options.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYDOQZZI44UYTJR",
+      "slug": "su-kam-falcon-110012v-pure-sine-wave-ups-white",
+      "name": "Su-Kam Falcon+ 1100/12V Pure Sine Wave UPS (White)",
+      "brand": "Su-Kam",
+      "category": "Other",
+      "price": "₹5,954.00",
+      "image": "https://m.media-amazon.com/images/I/51yB662dd3L.jpg | https://m.media-amazon.com/images/I/31GZeOMcPGL.jpg | https://m.media-amazon.com/images/I/51E+n6m+KRL.jpg | https://m.media-amazon.com/images/I/41HAKT5ueBL.jpg | https://m.media-amazon.com/images/I/41rHhavL1wL.jpg | https://m.media-amazon.com/images/I/31vmRjfwcFL.jpg",
+      "productUrl": "https://www.amazon.in/Kam-Falcon-1100-12V-White/dp/B07C9G9LM1/ref=sr_1_1"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGWSYKQZUQVZZ",
+      "slug": "su-kam-facon-2500va-24v-inverter",
+      "name": "SU-KAM FACON+ 2500VA 24V Inverter",
+      "brand": "Su-Kam",
+      "category": "Other",
+      "price": "₹12,999.00",
+      "image": "https://m.media-amazon.com/images/I/31hIDEy1tBL.jpg | https://m.media-amazon.com/images/I/31hIDEy1tBL.jpg | https://m.media-amazon.com/images/I/31RnVoIfXOL.jpg | https://m.media-amazon.com/images/I/41nL7Jfy3PL.jpg | https://m.media-amazon.com/images/I/31OM1u8BnrL.jpg | https://m.media-amazon.com/images/I/41Uxy6JtOsL.jpg | https://m.media-amazon.com/images/I/518XkS73KSL.jpg",
+      "productUrl": "https://www.amazon.in/SU-KAM-FACON-2500VA-24V-Inverter/dp/B0CZXT3HW9/ref=sr_1_3"
+    }
+  ]
 }

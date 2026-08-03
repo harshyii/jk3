@@ -3,32 +3,32 @@
   "slug": "sudarshan-solar",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVIMSPJFHEMVKPKNFFGS2WIVLESUZSIU",
+      "sku": "JKE-SKU-IIYDONCKGI2UITKD",
       "slug": "solar-panel-5-watt",
       "name": "Solar Panel 5 Watt",
       "brand": "Sudarshan Solar",
-      "category": "General Hardware",
-      "price": 0,
+      "category": "Other",
+      "price": "₹47,500.00",
       "image": "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
       "productUrl": "https://www.amazon.in/Sudarshan-Solar-Panel-5-Watt/dp/B074J25DMC/ref=sr_1_288"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVIMSPJFHEMVKPK5JUUS2WIVKTIVKTKY",
+      "sku": "JKE-SKU-IIYDONCKGZIUINRU",
       "slug": "solar-panel-6-watt",
       "name": "Solar Panel 6 Watt",
       "brand": "Sudarshan Solar",
-      "category": "General Hardware",
-      "price": 0,
+      "category": "Other",
+      "price": "₹57,000.00",
       "image": "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
       "productUrl": "https://www.amazon.in/Sudarshan-Solar-Panel-6-Watt/dp/B074J6QD64/ref=sr_1_287"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVIMSPJFHEMVKRKFJUKSKWJVLEGVKTKU",
+      "sku": "JKE-SKU-IIYDONCKHBDEYQRT",
       "slug": "solar-panel-11-watt",
       "name": "Solar Panel 11 Watt",
       "brand": "Sudarshan Solar",
-      "category": "General Hardware",
-      "price": 0,
+      "category": "Other",
+      "price": "₹1,04,500.00",
       "image": "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
       "productUrl": "https://www.amazon.in/Sudarshan-Solar-Panel-11-Watt/dp/B074J8FLB3/ref=sr_1_199"
     }

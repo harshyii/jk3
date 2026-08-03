@@ -3,34 +3,24 @@
   "slug": "formathardcover",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVES2TI5FE2RKZKJJUYSKSIVKTIV2TLI",
-      "slug": "shakti-ank-kalyangita-press-gorakhpur9th-year",
-      "name": "Shakti Ank (Kalyan)(Gita Press, Gorakhpur)(9th Year...",
+      "sku": "JKE-SKU-IIYEER2XLFKDINZY",
+      "slug": "shakti-ank-kalyangita-press-gorakhpur9th-year-visheshank-of-kalyan-special-edition-shakti-ank-shaktiank-code-41geeta-press-hardcover-hindi-gita-press-gorakhpur",
+      "name": "Shakti Ank (Kalyan)(Gita Press, Gorakhpur)(9th Year Visheshank Of Kalyan) (Special Edition) / Shakti-Ank / ShaktiAnk (Code 41)(Geeta Press) (Hardcover, Hindi, Gita Press, Gorakhpur)",
       "brand": "Format:Hardcover",
-      "category": "General Hardware",
+      "category": "Other",
       "price": 0,
       "image": "https://m.media-amazon.com/images/I/91zZVERKzjL.jpg | https://m.media-amazon.com/images/I/51Z9-TNy-HL.jpg | https://m.media-amazon.com/images/I/51W7L1DHq2L.jpg | https://m.media-amazon.com/images/I/51kc5uMFbYL.jpg | https://m.media-amazon.com/images/I/51rfRLMQr1L.jpg",
       "productUrl": "https://www.amazon.in/Gorakhpur-Visheshank-Special-Shakti-Ank-ShaktiAnk/dp/B0BGWYT478/ref=sr_1_162"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNEESVK2IVEVGS2PJJFEWVKRKJFFGS2SIJKTIVKTKU",
+      "sku": "JKE-SKU-GE2DINJUHE2TCNRT",
       "slug": "the-complete-encyclopedia-of-formula-1",
       "name": "The Complete Encyclopedia of Formula 1",
       "brand": "Format:Hardcover",
-      "category": "General Hardware",
-      "price": 4599,
+      "category": "Other",
+      "price": "₹4,599",
       "image": "https://m.media-amazon.com/images/I/51NsaD0x2XL.jpg",
       "productUrl": "https://www.amazon.in/Complete-Encyclopedia-Formula-1/dp/1445495163/ref=sr_1_104"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNEEUVJSIVEVIS2QJFFEUVKRKFFFKS2SIFKTEVJSLI",
-      "slug": "hans-danuser-der-fujiyama-von-davos",
-      "name": "Hans Danuser: Der Fujiyama von Davos",
-      "brand": "Format:Hardcover",
-      "category": "General Hardware",
-      "price": 0,
-      "image": "https://m.media-amazon.com/images/I/51FGR8T11-L.jpg",
-      "productUrl": "https://www.amazon.in/Hans-Danuser-Fujiyama-von-Davos/dp/386828902X/ref=sr_1_56"
     }
   ]
 }

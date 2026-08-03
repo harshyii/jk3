@@ -1,0 +1,26 @@
+{
+  "name": "Format:Flexibound",
+  "slug": "formatflexibound",
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYDONRVKBLTIU22",
+      "slug": "carl-fischer-compatible-trios-for-christmas-viola",
+      "name": "Carl Fischer Compatible Trios for Christmas-Viola",
+      "brand": "Format:Flexibound",
+      "category": "Other",
+      "price": "₹6,214.00",
+      "image": "https://m.media-amazon.com/images/I/71LMAYvpUtL.jpg",
+      "productUrl": "https://www.amazon.in/Carl-Fischer-Compatible-Trios-Christmas-Viola/dp/B0765PW4SZ/ref=sr_1_270_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOMRTGRIDENCD",
+      "slug": "carl-fischer-mastering-the-bow-part-3-studies-for-bass",
+      "name": "Carl Fischer Mastering the Bow Part 3 Studies for Bass",
+      "brand": "Format:Flexibound",
+      "category": "Other",
+      "price": "₹5,720.46",
+      "image": "https://m.media-amazon.com/images/I/71L7tm+7rkL.jpg",
+      "productUrl": "https://www.amazon.in/Carl-Fischer-Mastering-Part-Studies/dp/B07234P24C/ref=sr_1_295_mod_primary_new"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "asin": "JKE-SKU-IIYDONCKGI2UITKD",
+  "title": "Solar Panel 5 Watt",
+  "brand": "Sudarshan Solar",
+  "current_price": "₹47,500.00",
+  "mrp": 0,
+  "product_url": "https://www.amazon.in/Sudarshan-Solar-Panel-5-Watt/dp/B074J25DMC/ref=sr_1_288",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
+    "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
+  "specifications": {
+    "Brand Name": "Sudarshan Solar",
+    "Manufacturer": "Sudarshan Solar",
+    "ASIN": "B074J25DMC",
+    "Connector Type": "USB",
+    "Manufacturer Part Number": "S008",
+    "Material Type": "Silicon, Glass, Polymer, Aluminium",
+    "Efficiency": "17%",
+    "Maximum Power": "5 Watts"
+  },
+  "SKU": "JKE-SKU-IIYDONCKGI2UITKD",
+  "Name": "Solar Panel 5 Watt",
+  "Slug": "solar-panel-5-watt",
+  "Category": "Other",
+  "Subcategory1": "Other",
+  "Images": [
+    "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
+    "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg | https://m.media-amazon.com/images/I/31bcj3HLKeL.jpg",
+  "StockQuantity": 0,
+  "Unit": "PC",
+  "Discount": 0,
+  "SalePrice": "₹47,500.00"
+}

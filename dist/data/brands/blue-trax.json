@@ -1,0 +1,36 @@
+{
+  "name": "Blue Trax",
+  "slug": "blue-trax",
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYEMNBUGRLFITSW",
+      "slug": "bluetrax-2-kva-1600w-stabilizer-for-deep-fridge-microwave-oven-130v300v-table-top-digital-400800l-fridge-isi-certified-10-years-warranty-white",
+      "name": "BLUETRAX 2 KVA 1600W Stabilizer for Deep Fridge, Microwave & Oven | 130V–300V | Table Top Digital | 400–800L Fridge | ISI Certified | 10 Years Warranty | White",
+      "brand": "Blue Trax",
+      "category": "Measuring Instruments",
+      "price": "₹3,249.00",
+      "image": "https://m.media-amazon.com/images/I/61tKY9R5eLL.jpg | https://m.media-amazon.com/images/I/31A8-+mzQwL.jpg | https://m.media-amazon.com/images/I/41TXTBjPTvL.jpg | https://m.media-amazon.com/images/I/41aARh1hmYL.jpg | https://m.media-amazon.com/images/I/419BKpKDFNL.jpg | https://m.media-amazon.com/images/I/51m2c992YEL.jpg | https://m.media-amazon.com/images/I/41jxX4CtIWL.jpg | https://m.media-amazon.com/images/I/61RHh4K8NWL.jpg",
+      "productUrl": "https://www.amazon.in/KVA-1600W-Multipurpose-Stabilizer-Refrigerator/dp/B0F444VTNV/ref=sr_1_294"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMRCHGVJDCM2R",
+      "slug": "bluetrax-10-kva-8000w-mainline-stabilizer-for-home-130v300v-table-top-digital-heavy-duty-isi-certified-10-years-warranty-white",
+      "name": "BLUETRAX 10 KVA 8000W Mainline Stabilizer for Home | 130V–300V | Table Top Digital | Heavy Duty | ISI Certified | 10 Years Warranty | White",
+      "brand": "Blue Trax",
+      "category": "Agricultural Equipment",
+      "price": "₹14,478.00",
+      "image": "https://m.media-amazon.com/images/I/71vqP7S2mAL.jpg | https://m.media-amazon.com/images/I/41Hx+W0015L.jpg | https://m.media-amazon.com/images/I/416f-SwqSDL.jpg | https://m.media-amazon.com/images/I/51GlhRPmyWL.jpg | https://m.media-amazon.com/images/I/413qyNmujrL.jpg | https://m.media-amazon.com/images/I/41BkchMmZbL.jpg | https://m.media-amazon.com/images/I/41bdGFfB-hL.jpg | https://m.media-amazon.com/images/I/41TXTBjPTvL.jpg",
+      "productUrl": "https://www.amazon.in/KVA-130V-280V-Stabilizer-Multipurpose-Heavy-Duty/dp/B0FDG5R13Q/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMRSTLEZFCWSG",
+      "slug": "bluetrax-10-kva-8000w-voltage-stabilizer-70v-300v-mainline-digital-copper-winding-heavy-duty-for-home-multipurpose-use-10-years-warranty",
+      "name": "BLUETRAX 10 KVA 8000W Voltage Stabilizer | 70V-300V | Mainline Digital | Copper Winding | Heavy Duty | for Home Multipurpose Use | 10 Years Warranty",
+      "brand": "Blue Trax",
+      "category": "Other",
+      "price": "₹17,800.00",
+      "image": "https://m.media-amazon.com/images/I/619yHSgK-wL.jpg | https://m.media-amazon.com/images/I/41fpqOuhWRL.jpg | https://m.media-amazon.com/images/I/41lXSV7tZyL.jpg | https://m.media-amazon.com/images/I/41IzKvomuPL.jpg | https://m.media-amazon.com/images/I/31FqsvvpypL.jpg | https://m.media-amazon.com/images/I/51+UImSBojL.jpg | https://m.media-amazon.com/images/I/51UoEst-uzL.jpg | https://m.media-amazon.com/images/I/61RHh4K8NWL.jpg",
+      "productUrl": "https://www.amazon.in/BLUETRAX-10-KVA-8000W-70V/dp/B0FFSY2QZF/ref=sr_1_37"
+    }
+  ]
+}

@@ -3,42 +3,42 @@
   "slug": "robodo",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVGS2XJFFE2RKPKZJUGS22IVLEWTKTKY",
+      "sku": "JKE-SKU-IIYEIVBXGVBVIU2U",
       "slug": "robodo-3v-210ma-solar-panel",
       "name": "Robodo 3V 210MA Solar Panel",
       "brand": "Robodo",
-      "category": "Garden & Outdoor",
-      "price": 299,
+      "category": "Tools & Machinery",
+      "price": "₹289.00",
       "image": "https://m.media-amazon.com/images/I/51XA4acVPHL.jpg | https://m.media-amazon.com/images/I/51XA4acVPHL.jpg",
       "productUrl": "https://www.amazon.in/Robodo-3V-210MA-Solar-Panel/dp/B0DT75CTST/ref=sr_1_293"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVGS2WJNFEYVKPKJFTES2SJBLEKV2TKY",
-      "slug": "robodo-6v-70ma-mini-solar-panel-square-shape-70x70x3-mm",
-      "name": "Robodo 6V 70mA Mini Solar Panel Square Shape (70x70x3 mm)...",
+      "sku": "JKE-SKU-IIYEIURWGEZTORZU",
+      "slug": "robodo-6v-70ma-mini-solar-panel-square-shape-70x70x3-mm-5-pieces-combo-pack",
+      "name": "Robodo 6V 70mA Mini Solar Panel Square Shape (70x70x3 mm) 5-Pieces Combo Pack",
       "brand": "Robodo",
-      "category": "Power Tools",
-      "price": 0,
+      "category": "Tools & Machinery",
+      "price": "₹779.00",
       "image": "https://m.media-amazon.com/images/I/31fWa-gwVmL.jpg | https://m.media-amazon.com/images/I/31fWa-gwVmL.jpg | https://m.media-amazon.com/images/I/31vyiekdsYL.jpg | https://m.media-amazon.com/images/I/41+dceQQ5WL.jpg | https://m.media-amazon.com/images/I/31OK5pB1UkL.jpg",
       "productUrl": "https://www.amazon.in/Robodo-Solar-Square-70x70x3-5-Pieces/dp/B0DR6137G4/ref=sr_1_165"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVEMSVJFHESVKVKFFFGS22INLE6VJSJU",
+      "sku": "JKE-SKU-IIYEGTCQJA2VEWSL",
       "slug": "solar-panelcell-35v100ma-water-proof-2-pcs",
       "name": "Solar Panel/Cell - 3.5V/100mA - Water Proof (2 pcs)",
       "brand": "Robodo",
-      "category": "Measuring & Layout",
-      "price": 0,
+      "category": "Electronics",
+      "price": "₹129.00",
       "image": "https://m.media-amazon.com/images/I/51FNK42YMVL.jpg | https://m.media-amazon.com/images/I/31GvddsMSVL.jpg | https://m.media-amazon.com/images/I/31t15-Hu+6L.jpg | https://m.media-amazon.com/images/I/31ddH9vtmaL.jpg",
       "productUrl": "https://www.amazon.in/Solar-Panel-Cell-100mA-Water/dp/B0CLPH5RZK/ref=sr_1_137"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVGS2WJNFEYRKZKJJU6SKVLJDEWVJSLE",
-      "slug": "robodo-solar-panel-for-science-project-and-models-38",
-      "name": "Robodo Solar Panel for Science Project and Models 3.8...",
+      "sku": "JKE-SKU-IIYEIURVLFNE2USX",
+      "slug": "robodo-solar-panel-for-science-project-and-models-38-volt-1-ampere-black",
+      "name": "Robodo Solar Panel for Science Project and Models 3.8 Volt 1 Ampere-Black",
       "brand": "Robodo",
-      "category": "Power Tools",
-      "price": 699,
+      "category": "Tools & Machinery",
+      "price": "₹199.00",
       "image": "https://m.media-amazon.com/images/I/61f3S5NmyXL.jpg | https://m.media-amazon.com/images/I/41WcMcCMDBL.jpg | https://m.media-amazon.com/images/I/41zcz-UNYWL.jpg | https://m.media-amazon.com/images/I/31ViB3QKqfL.jpg | https://m.media-amazon.com/images/I/4119a+MNfiL.jpg",
       "productUrl": "https://www.amazon.in/Robodo-Science-Project-Models-Ampere-Black/dp/B0DR5YZMRW/ref=sr_1_140"
     }

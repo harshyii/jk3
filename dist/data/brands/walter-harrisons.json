@@ -1,0 +1,26 @@
+{
+  "name": "Walter Harrisons",
+  "slug": "walter-harrisons",
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYDMWCSJVDTKMKL",
+      "slug": "walter-harrisons-premier-peanuts-wild-bird-food-aflatoxin-free-high-energy-4kg",
+      "name": "Walter Harrison's Premier Peanuts Wild Bird Food Aflatoxin Free High Energy 4kg",
+      "brand": "Walter Harrisons",
+      "category": "Other",
+      "price": "₹19,233.00",
+      "image": "https://m.media-amazon.com/images/I/615FYPyEK5L.jpg | https://m.media-amazon.com/images/I/41biDkswX-L.jpg | https://m.media-amazon.com/images/I/41BiAj80PYL.jpg | https://m.media-amazon.com/images/I/611rzkLiRyL.jpg",
+      "productUrl": "https://www.amazon.in/Walter-Harrisons-Premier-Peanuts-Aflatoxin/dp/B06XRMG51K/ref=sr_1_21"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTJQIJCEWNKM",
+      "slug": "walter-harrisons-premier-peanuts-wild-bird-food-aflatoxin-free-high-energy-2kg",
+      "name": "Walter Harrison's Premier Peanuts Wild Bird Food Aflatoxin Free High Energy 2kg",
+      "brand": "Walter Harrisons",
+      "category": "Other",
+      "price": "₹10,897.00",
+      "image": "https://m.media-amazon.com/images/I/61NTChMq56L.jpg | https://m.media-amazon.com/images/I/41CsaxBCGvL.jpg | https://m.media-amazon.com/images/I/41ZdGDhjKsL.jpg | https://m.media-amazon.com/images/I/51o+myurxUL.jpg | https://m.media-amazon.com/images/I/41MiifCfoxL.jpg",
+      "productUrl": "https://www.amazon.in/Walter-Harrisons-Premier-Peanuts-Aflatoxin/dp/B01M0BDK5L/ref=sr_1_16"
+    }
+  ]
+}

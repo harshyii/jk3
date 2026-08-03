@@ -3,32 +3,32 @@
   "slug": "bymothers-recipeformatgrocery",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVCMSPI5FEMRKXKZJUWSK2IZLE2UJSJM",
+      "sku": "JKE-SKU-IIYDCN2JKVJFKVCJ",
       "slug": "mothers-recipe-punjabi-mango-pickle-bottle-400-g",
       "name": "Mother's Recipe Punjabi Mango Pickle Bottle, 400 G",
       "brand": "Bymother'S Recipeformat:Grocery",
-      "category": "General Hardware",
-      "price": 150,
+      "category": "Other",
+      "price": "₹133.00",
       "image": "https://m.media-amazon.com/images/I/51eXculRi3L.jpg | https://m.media-amazon.com/images/I/31Ce38uMX6L.jpg | https://m.media-amazon.com/images/I/315XWeu5tvL.jpg | https://m.media-amazon.com/images/I/51G4msKJBGL.jpg | https://m.media-amazon.com/images/I/51OC39NjWtL.jpg | https://m.media-amazon.com/images/I/51M5+DUekTL.jpg | https://m.media-amazon.com/images/I/31pY5H+3i9L.jpg | https://m.media-amazon.com/images/I/412YozTuZ7L.jpg",
       "productUrl": "https://www.amazon.in/Mothers-Recipe-Punjabi-Mango-Pickle/dp/B017IURUTI/ref=sr_1_16_in_f3_0o_fs_mod_primary_alm"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVIMSSI5FEUVKPKRFFKS2WJBLE6UZSLA",
+      "sku": "JKE-SKU-IIYDOQ2SGM4UOWKW",
       "slug": "mothers-recipe-mixed-pickle-jar-1000-g",
       "name": "Mother's Recipe Mixed Pickle Jar, 1000 g",
       "brand": "Bymother'S Recipeformat:Grocery",
-      "category": "General Hardware",
-      "price": 250,
+      "category": "Other",
+      "price": "₹250",
       "image": "https://m.media-amazon.com/images/I/51r0zgY9B0L.jpg | https://m.media-amazon.com/images/I/31EIFNFYZ5L.jpg | https://m.media-amazon.com/images/I/31li-qN3OjL.jpg | https://m.media-amazon.com/images/I/31oAMeBNd-L.jpg | https://m.media-amazon.com/images/I/317IY90ob0L.jpg | https://m.media-amazon.com/images/I/51M5+DUekTL.jpg | https://m.media-amazon.com/images/I/41xkgBFMk6L.jpg",
       "productUrl": "https://www.amazon.in/Mothers-Recipe-Mixed-Pickle-1000/dp/B07CR39GYV/ref=sr_1_4"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVEVCMSTI5FEMVKXKFJUES2SIRLEKTKTIM",
+      "sku": "JKE-SKU-IIYDCR2KKBATGR2B",
       "slug": "mothers-recipe-pickle-rajasthani-sweet-lime-500g-jar",
       "name": "Mother's Recipe Pickle - Rajasthani Sweet Lime, 500g Jar",
       "brand": "Bymother'S Recipeformat:Grocery",
-      "category": "General Hardware",
-      "price": 0,
+      "category": "Other",
+      "price": "₹155.00",
       "image": "https://m.media-amazon.com/images/I/71zGbpv+yoL.jpg | https://m.media-amazon.com/images/I/41M+oU2ylDL.jpg | https://m.media-amazon.com/images/I/51ubbU7+ncL.jpg | https://m.media-amazon.com/images/I/51aDBjciLWL.jpg | https://m.media-amazon.com/images/I/41rBLiFm2AL.jpg",
       "productUrl": "https://www.amazon.in/Mothers-Recipe-Pickle-Rajasthani-Sweet/dp/B01GJPA3GA/ref=sr_1_38_in_f3_0o_fs"
     }

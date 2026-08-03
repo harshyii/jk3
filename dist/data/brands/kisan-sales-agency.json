@@ -3,34 +3,24 @@
   "slug": "kisan-sales-agency",
   "products": [
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIMSTJFHEURKTKNJUUS2SI5LEGV2TLE",
-      "slug": "kisan-ultra-force-high-pressure-car-washer-2200-watts",
-      "name": "KISAN Ultra Force High Pressure Car Washer | 2200 Watts...",
+      "sku": "JKE-SKU-IIYEORCRIJITMQZX",
+      "slug": "kisan-ultra-force-high-pressure-car-washer-2200-watts-motor-130-bars-10lmin-flow-rate-8-meters-heavy-outlet-hose-portable-cleaning-machine-for-car-solar-bike-home",
+      "name": "KISAN Ultra Force High Pressure Car Washer | 2200 Watts Motor | 130 Bars | 10L/Min Flow Rate | 8 Meters Heavy Outlet Hose | Portable | Cleaning Machine for Car, Solar, Bike & Home",
       "brand": "Kisan Sales Agency",
-      "category": "Power Tools",
-      "price": 10999,
+      "category": "Tools & Machinery",
+      "price": "₹4,399.00",
       "image": "https://m.media-amazon.com/images/I/71r4bWFoT5L.jpg | https://m.media-amazon.com/images/I/31oWiqkxUbL.jpg | https://m.media-amazon.com/images/I/31Y24jxq7mL.jpg | https://m.media-amazon.com/images/I/51pewYh63ML.jpg | https://m.media-amazon.com/images/I/51aWJ8UciHL.jpg | https://m.media-amazon.com/images/I/61HXKAUeEyL.jpg | https://m.media-amazon.com/images/I/51dPkTzYmSL.jpg | https://m.media-amazon.com/images/I/51LDyDmqBBL.jpg",
       "productUrl": "https://www.amazon.in/KISAN-Pressure-Portable-Cleaning-Machine/dp/B0GDQBQ6C7/ref=sr_1_281"
     },
     {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIMSTJFFEYVKRKJJUOSK2INKTMUZSKQ",
-      "slug": "kisan-shkti-jet-2500w-high-pressure-car-washer-",
-      "name": "KISAN SHKTI-Jet 2500W High Pressure Car Washer |...",
+      "sku": "JKE-SKU-IIYEORBWHFFFEOKS",
+      "slug": "kisan-shkti-jet-2500w-high-pressure-car-washer-industrial-grade-electric-pressure-washer-220-v-50-hz-10-lmin-flow-4-interchangeable-nozzle",
+      "name": "KISAN SHKTI-Jet 2500W High Pressure Car Washer | Industrial Grade Electric Pressure Washer, 220 V | 50 HZ, 10 L/Min Flow, 4 Interchangeable Nozzle",
       "brand": "Kisan Sales Agency",
-      "category": "Power Tools",
-      "price": 21999,
+      "category": "Tools & Machinery",
+      "price": "₹9,109.00",
       "image": "https://m.media-amazon.com/images/I/617kOfBJP4L.jpg | https://m.media-amazon.com/images/I/412jHidGcWL.jpg | https://m.media-amazon.com/images/I/41hqTOkvtlL.jpg | https://m.media-amazon.com/images/I/51KEvjlGYXL.jpg | https://m.media-amazon.com/images/I/51-zaZBjOYL.jpg | https://m.media-amazon.com/images/I/41RPU-MxcKL.jpg | https://m.media-amazon.com/images/I/51OLpQECyTL.jpg",
       "productUrl": "https://www.amazon.in/KISAN-SHKTI-Jet-Pressure-Industrial-Interchangeable/dp/B0GD69JR9R/ref=sr_1_99"
-    },
-    {
-      "sku": "JKE-JJFUKLKKJJDFKS2MJNFEURSNKVFVIMSSI5EVURKXKNFFISKSINLE6U2TLA",
-      "slug": "kisan-shakti-force-high-pressure-car-washer-machine-",
-      "name": "KISAN Shakti Force High Pressure Car Washer Machine |...",
-      "brand": "Kisan Sales Agency",
-      "category": "Power Tools",
-      "price": 15499,
-      "image": "https://m.media-amazon.com/images/I/61S4VlAvbhL.jpg | https://m.media-amazon.com/images/I/41eeqAbC4BL.jpg | https://m.media-amazon.com/images/I/41eMLyuxCoL.jpg | https://m.media-amazon.com/images/I/41nrhC+-i6L.jpg | https://m.media-amazon.com/images/I/313wtQwUJFL.jpg | https://m.media-amazon.com/images/I/41Dn5lDezVL.jpg | https://m.media-amazon.com/images/I/61g4UTkrATL.jpg",
-      "productUrl": "https://www.amazon.in/KISAN-Pressure-Machine-Adjustable-Control/dp/B0GCZR62Y6/ref=sr_1_16"
     }
   ]
 }

@@ -63,7 +63,7 @@
   "Image": "https://m.media-amazon.com/images/I/71cozk0ZS4L.jpg | https://m.media-amazon.com/images/I/41PE19wlJ1L.jpg | https://m.media-amazon.com/images/I/31r2UHbmiLL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": 0.3,
+  "Discount": 30,
   "SalePrice": 175,
   "Country": "India"
 }

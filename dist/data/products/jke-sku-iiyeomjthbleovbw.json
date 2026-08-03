@@ -59,7 +59,7 @@
   "Image": "https://m.media-amazon.com/images/I/41ckjs9RqGL.jpg | https://m.media-amazon.com/images/I/31+f7-iXk8L.jpg | https://m.media-amazon.com/images/I/31BeBuX-xIL.jpg | https://m.media-amazon.com/images/I/517+C6fJPAL.jpg | https://m.media-amazon.com/images/I/41c7UrtT-XL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": 0.3,
+  "Discount": 30,
   "SalePrice": 280,
   "Model": "E-2052_10/250MM"
 }

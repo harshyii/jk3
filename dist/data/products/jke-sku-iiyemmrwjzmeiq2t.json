@@ -45,6 +45,6 @@
   "Image": "https://m.media-amazon.com/images/I/61wSVxHuwgL.jpg | https://m.media-amazon.com/images/I/51d1NcrDd8L.jpg | https://m.media-amazon.com/images/I/41QQoyrwvlL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Set",
-  "Discount": 0.5,
+  "Discount": 50,
   "SalePrice": 1350
 }

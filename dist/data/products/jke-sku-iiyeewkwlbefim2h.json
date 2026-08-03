@@ -68,7 +68,7 @@
   "Image": "https://m.media-amazon.com/images/I/61x0BdNhhDL.jpg | https://m.media-amazon.com/images/I/41oQJ3xJUCL.jpg | https://m.media-amazon.com/images/I/51kevgDMW0L.jpg | https://m.media-amazon.com/images/I/51B64bBHQeL.jpg | https://m.media-amazon.com/images/I/51UKgWl5pFL.jpg | https://m.media-amazon.com/images/I/31XdByXcSTL.jpg | https://m.media-amazon.com/images/I/51LS9Tr3TVL.jpg",
   "StockQuantity": 0,
   "Unit": "1.0 Count",
-  "Discount": 0.02,
+  "Discount": 2,
   "SalePrice": 1567,
   "Model": "EID-2500-02"
 }

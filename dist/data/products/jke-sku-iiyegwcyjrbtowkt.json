@@ -48,6 +48,6 @@
   "Image": "https://m.media-amazon.com/images/I/71JwbEgItEL.jpg | https://m.media-amazon.com/images/I/51NhkVvQIpL.jpg | https://m.media-amazon.com/images/I/51IKoqziZvL.jpg | https://m.media-amazon.com/images/I/41ydvQgPbWL.jpg | https://m.media-amazon.com/images/I/51FdekCepSL.jpg | https://m.media-amazon.com/images/I/515n5HLoyOL.jpg | https://m.media-amazon.com/images/I/41CabJ02JzL.jpg",
   "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": 0.4,
+  "Discount": 40,
   "SalePrice": 5999
 }

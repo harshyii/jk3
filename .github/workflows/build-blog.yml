@@ -14,7 +14,7 @@ jobs:
       - name: Set up Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '18'
+          node-version: '24'
 
       - name: Install dependencies
         run: npm install marked
@@ -27,3 +27,5 @@ jobs:
         with:
           commit_message: "Auto-generate static blog HTML pages for SEO"
           file_pattern: "*.html"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41RFhm5xNGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/814lGyQ7MKL.jpg | https://m.media-amazon.com/images/I/41zgPwKo16L.jpg | https://m.media-amazon.com/images/I/31k1KenrR-L.jpg | https://m.media-amazon.com/images/I/31IBvCt1K5L.jpg | https://m.media-amazon.com/images/I/41EEqsicfEL.jpg | https://m.media-amazon.com/images/I/41RFhm5xNGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "45%",
   "SalePrice": "₹1,657.00",
   "Model": "‎Leather Care Kit",
   "Country": "‎India"

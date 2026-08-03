@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31Hz4F1EShL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81DY20H3EML.jpg | https://m.media-amazon.com/images/I/41jugN6G1qL.jpg | https://m.media-amazon.com/images/I/41PbHF5pXSL.jpg | https://m.media-amazon.com/images/I/31Hz4F1EShL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "31.55%",
   "SalePrice": "₹34,494.13",
   "Model": "48-11-1880",
   "Country": "USA"

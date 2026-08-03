@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/318CmTkb8VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61knb47ya8L.jpg | https://m.media-amazon.com/images/I/31tectZYsgL.jpg | https://m.media-amazon.com/images/I/31O8nZFU+lL.jpg | https://m.media-amazon.com/images/I/41+9+yv7u8L.jpg | https://m.media-amazon.com/images/I/31XuF+wC1HL.jpg | https://m.media-amazon.com/images/I/41DR+ltDuXL.jpg | https://m.media-amazon.com/images/I/31HXIphALNL.jpg | https://m.media-amazon.com/images/I/318CmTkb8VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "3.33%",
   "SalePrice": "₹203.00",
   "Model": "E-2020_6/150"
 }

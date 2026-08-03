@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51jLbA7bIQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41g-ay7ytTL.jpg | https://m.media-amazon.com/images/I/41g-ay7ytTL.jpg | https://m.media-amazon.com/images/I/71KQurzgXKL.jpg | https://m.media-amazon.com/images/I/51jLbA7bIQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.1%",
   "SalePrice": "₹499.00",
   "Model": "GT008"
 }

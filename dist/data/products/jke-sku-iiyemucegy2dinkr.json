@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/31E2iVaZkCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Y-GOaNqJL.jpg | https://m.media-amazon.com/images/I/31LPerB9HqL.jpg | https://m.media-amazon.com/images/I/4159Aa8KJOL.jpg | https://m.media-amazon.com/images/I/51gNxIkD2vL.jpg | https://m.media-amazon.com/images/I/41P4cqN7RvL.jpg | https://m.media-amazon.com/images/I/4178viLkRqL.jpg | https://m.media-amazon.com/images/I/41L0nXYcYzL.jpg | https://m.media-amazon.com/images/I/31E2iVaZkCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "5.86%",
   "SalePrice": "₹2,700.00",
   "Model": "G10MGFS9Z"
 }

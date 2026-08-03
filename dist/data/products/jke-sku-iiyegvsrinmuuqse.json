@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41IsZ+LcD7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71C49hG4FnL.jpg | https://m.media-amazon.com/images/I/31oD7PKUEOL.jpg | https://m.media-amazon.com/images/I/31tg2OKgA7L.jpg | https://m.media-amazon.com/images/I/310tuPyr+-L.jpg | https://m.media-amazon.com/images/I/41IsZ+LcD7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "70.19%",
   "SalePrice": "₹110.00",
   "Model": "FDGDFG546"
 }

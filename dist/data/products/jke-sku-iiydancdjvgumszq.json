@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51HtzmILldL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ENg6JuIeL.jpg | https://m.media-amazon.com/images/I/41P5mS+VmpL.jpg | https://m.media-amazon.com/images/I/51L9BL0HjbL.jpg | https://m.media-amazon.com/images/I/51WnHCkxBeL.jpg | https://m.media-amazon.com/images/I/41UQeLmmCYL.jpg | https://m.media-amazon.com/images/I/51gUr3EnYdL.jpg | https://m.media-amazon.com/images/I/51HtzmILldL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "33.34%",
   "SalePrice": "₹2,345.27",
   "Model": "AIR_069_16SW"
 }

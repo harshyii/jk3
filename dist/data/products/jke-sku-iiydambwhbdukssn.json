@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51bVTiEY63L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614CVCWPrDL.jpg | https://m.media-amazon.com/images/I/41aq1+p7cEL.jpg | https://m.media-amazon.com/images/I/51pGfRuYdwL.jpg | https://m.media-amazon.com/images/I/51uObNo57RL.jpg | https://m.media-amazon.com/images/I/41-vMUYemKL.jpg | https://m.media-amazon.com/images/I/514yCF8NreL.jpg | https://m.media-amazon.com/images/I/41nAj9RaOYL.jpg | https://m.media-amazon.com/images/I/51bVTiEY63L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "141 Grams",
-  "Discount": 0,
+  "Discount": "62.42%",
   "SalePrice": "₹1,385.00",
   "Model": "05100"
 }

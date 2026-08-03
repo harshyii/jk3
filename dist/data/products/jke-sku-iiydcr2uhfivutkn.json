@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/419YSpluhSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81cLkEAhrwL.jpg | https://m.media-amazon.com/images/I/41VtJ8QwXTL.jpg | https://m.media-amazon.com/images/I/41WgSWv5j6L.jpg | https://m.media-amazon.com/images/I/41gH3KHhVJL.jpg | https://m.media-amazon.com/images/I/51+Qo4bA+yL.jpg | https://m.media-amazon.com/images/I/41bKyfzF1vL.jpg | https://m.media-amazon.com/images/I/31Nxw1cl7ZL.jpg | https://m.media-amazon.com/images/I/419YSpluhSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.67%",
   "SalePrice": "₹749.00",
   "Model": "CW220MFC"
 }

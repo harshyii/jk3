@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51PxGUYhsdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XdYP2PQbL.jpg | https://m.media-amazon.com/images/I/41v4t12eY0L.jpg | https://m.media-amazon.com/images/I/51PxGUYhsdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "19.34%",
   "SalePrice": "₹2,698.00",
   "Model": "G8800"
 }

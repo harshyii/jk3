@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41NXY2tJ2GL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71QGKSa+RWL.jpg | https://m.media-amazon.com/images/I/31dCCkbu1TL.jpg | https://m.media-amazon.com/images/I/31hjOCvp1rS.jpg | https://m.media-amazon.com/images/I/31U99pS6PNL.jpg | https://m.media-amazon.com/images/I/21ORn-tL8dL.jpg | https://m.media-amazon.com/images/I/4161Z+MfY5L.jpg | https://m.media-amazon.com/images/I/41LyhLZMRqL.jpg | https://m.media-amazon.com/images/I/41NXY2tJ2GL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "9.03%",
   "SalePrice": "₹272.00",
   "Model": "E-2001"
 }

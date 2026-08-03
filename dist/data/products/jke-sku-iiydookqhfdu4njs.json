@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31nCsWiczdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91Hu3ukxNLL.jpg | https://m.media-amazon.com/images/I/51HWtAndY3L.jpg | https://m.media-amazon.com/images/I/317rTPsv+YL.jpg | https://m.media-amazon.com/images/I/416IaHr6T4L.jpg | https://m.media-amazon.com/images/I/4112vBO-D8L.jpg | https://m.media-amazon.com/images/I/31nCsWiczdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.54%",
   "SalePrice": "₹1,883.00",
   "Model": "13+t24+2 sd bits"
 }

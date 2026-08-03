@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51efsZK255L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61BwdQAFtoL.jpg | https://m.media-amazon.com/images/I/41u5HUmqDWL.jpg | https://m.media-amazon.com/images/I/41LAfV4wshL.jpg | https://m.media-amazon.com/images/I/41HEPQpMZzL.jpg | https://m.media-amazon.com/images/I/41NlocQDFQL.jpg | https://m.media-amazon.com/images/I/419-vZzbceL.jpg | https://m.media-amazon.com/images/I/51efsZK255L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹1,400.00",
   "Model": "FCLI2003"
 }

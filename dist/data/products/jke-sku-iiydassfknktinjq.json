@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41l0TTRCJ-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71I7YvrYyNL.jpg | https://m.media-amazon.com/images/I/41l0TTRCJ-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹51,535.89",
   "Model": "2607-22CT"
 }

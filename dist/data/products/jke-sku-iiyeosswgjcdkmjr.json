@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/61GLn-feNuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JUtW4ozRL.jpg | https://m.media-amazon.com/images/I/31BA25366HL.jpg | https://m.media-amazon.com/images/I/51oZcgEVE8L.jpg | https://m.media-amazon.com/images/I/51c-XJHioJL.jpg | https://m.media-amazon.com/images/I/51scuF7MUgL.jpg | https://m.media-amazon.com/images/I/51VNrpz0KFL.jpg | https://m.media-amazon.com/images/I/51hF0NO-aUL.jpg | https://m.media-amazon.com/images/I/61GLn-feNuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "61.98%",
   "SalePrice": "₹4,100.00",
   "Model": "HOM10116SW"
 }

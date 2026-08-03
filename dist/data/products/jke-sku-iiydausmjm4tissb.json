@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41uudLh0n8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711QJtniLnL.jpg | https://m.media-amazon.com/images/I/31XEzpQIX1L.jpg | https://m.media-amazon.com/images/I/41AYWJHXLML.jpg | https://m.media-amazon.com/images/I/41XwG33Ib3L.jpg | https://m.media-amazon.com/images/I/41uudLh0n8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300.00 Milliliters",
-  "Discount": 0,
+  "Discount": "22%",
   "SalePrice": "₹195.00",
   "Model": "ANG380",
   "Country": "India"

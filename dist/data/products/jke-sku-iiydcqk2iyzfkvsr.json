@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/513jBT49u4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71u0H+7oExL.jpg | https://m.media-amazon.com/images/I/41kHwi4SmbL.jpg | https://m.media-amazon.com/images/I/51PY7n5NL-L.jpg | https://m.media-amazon.com/images/I/41y+EcxtCLL.jpg | https://m.media-amazon.com/images/I/51BFPIPw0JL.jpg | https://m.media-amazon.com/images/I/415qtU-L6HL.jpg | https://m.media-amazon.com/images/I/41yaAzOehZL.jpg | https://m.media-amazon.com/images/I/513jBT49u4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹19,820.00",
   "Model": "SP-U64X-7UYM"
 }

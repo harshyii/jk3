@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41a1YDE-2kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51irp0AEcUL.jpg | https://m.media-amazon.com/images/I/31OrSZzj5oL.jpg | https://m.media-amazon.com/images/I/41Py2qLjXOL.jpg | https://m.media-amazon.com/images/I/31f2infGwKL.jpg | https://m.media-amazon.com/images/I/41a1YDE-2kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.19%",
   "SalePrice": "₹3,170.00",
   "Model": "S-2102"
 }

@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51SgBVIyLLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71a-CMddf-L.jpg | https://m.media-amazon.com/images/I/41J3JEXfWvL.jpg | https://m.media-amazon.com/images/I/31077Yq1kPL.jpg | https://m.media-amazon.com/images/I/519bxIy63-L.jpg | https://m.media-amazon.com/images/I/515lSuy1TxL.jpg | https://m.media-amazon.com/images/I/519vqR9V7LL.jpg | https://m.media-amazon.com/images/I/5136Jg0s4eL.jpg | https://m.media-amazon.com/images/I/51SgBVIyLLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.03%",
   "SalePrice": "₹3,119.00",
   "Model": "IBL RH20-23"
 }

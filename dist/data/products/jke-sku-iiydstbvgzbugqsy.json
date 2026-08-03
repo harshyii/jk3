@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41QGrRDeK4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XWl4XGX5L.jpg | https://m.media-amazon.com/images/I/31Gg86ZpFbL.jpg | https://m.media-amazon.com/images/I/41oqkBMcwqL.jpg | https://m.media-amazon.com/images/I/41n0E2XRGuL.jpg | https://m.media-amazon.com/images/I/41XoaVlKEJL.jpg | https://m.media-amazon.com/images/I/41NZp6+676L.jpg | https://m.media-amazon.com/images/I/31bPFhrAcIL.jpg | https://m.media-amazon.com/images/I/41QGrRDeK4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.98%",
   "SalePrice": "₹7,201.00",
   "Model": "AG200018"
 }

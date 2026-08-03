@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41BFahi1YkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81GCwPwREGL.jpg | https://m.media-amazon.com/images/I/51gNg1TekDL.jpg | https://m.media-amazon.com/images/I/51Ryp8kKXGL.jpg | https://m.media-amazon.com/images/I/41BFahi1YkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.37%",
   "SalePrice": "₹599.00",
   "Model": "‎Leather Balm",
   "Country": "‎India"

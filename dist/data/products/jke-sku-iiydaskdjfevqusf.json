@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41fAwyQvXIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61X9dc3c+eL.jpg | https://m.media-amazon.com/images/I/31EkediUicL.jpg | https://m.media-amazon.com/images/I/41q89+s3LZL.jpg | https://m.media-amazon.com/images/I/41yij5LYMwL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/41igeSElUiL.jpg | https://m.media-amazon.com/images/I/41fAwyQvXIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.35%",
   "SalePrice": "₹1,441.00",
   "Model": "KX1800"
 }

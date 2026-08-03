@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31yF8Kwl2UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PmNCzW4lL.jpg | https://m.media-amazon.com/images/I/31aUV0nvO9L.jpg | https://m.media-amazon.com/images/I/31ZE5en1kGL.jpg | https://m.media-amazon.com/images/I/31ENbvoT7HL.jpg | https://m.media-amazon.com/images/I/31L90ySTHsL.jpg | https://m.media-amazon.com/images/I/31yF8Kwl2UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.14%",
   "SalePrice": "₹1,924.00",
   "Model": "33734"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51HSdNZ1wqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711tWxgwZLL.jpg | https://m.media-amazon.com/images/I/41gN5BZ9quL.jpg | https://m.media-amazon.com/images/I/41B5BLLjTKL.jpg | https://m.media-amazon.com/images/I/41kwHhpYKjL.jpg | https://m.media-amazon.com/images/I/51ASZrWwdiL.jpg | https://m.media-amazon.com/images/I/51FgqV81U-L.jpg | https://m.media-amazon.com/images/I/51kcTSlhhDL.jpg | https://m.media-amazon.com/images/I/51HSdNZ1wqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹41,512.18",
   "Model": "DXWP61379"
 }

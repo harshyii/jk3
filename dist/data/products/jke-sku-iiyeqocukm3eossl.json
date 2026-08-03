@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41L5r5ggPbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jWyxjUOdL.jpg | https://m.media-amazon.com/images/I/51jWyxjUOdL.jpg | https://m.media-amazon.com/images/I/512aqkCJzvL.jpg | https://m.media-amazon.com/images/I/41VzlT6GbvL.jpg | https://m.media-amazon.com/images/I/51j6ns95uNL.jpg | https://m.media-amazon.com/images/I/41H20qe9PsL.jpg | https://m.media-amazon.com/images/I/31kwiKThjiL.jpg | https://m.media-amazon.com/images/I/41L5r5ggPbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.05%",
   "SalePrice": "₹419.00",
   "Model": "46 pcs tool kit"
 }

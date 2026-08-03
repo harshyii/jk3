@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31ryRHmt5PL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81xuEQnD2rL.jpg | https://m.media-amazon.com/images/I/41xopYHAQ+L.jpg | https://m.media-amazon.com/images/I/41t8iI2i1fL.jpg | https://m.media-amazon.com/images/I/51SN44A3hxL.jpg | https://m.media-amazon.com/images/I/51qwECCpyZL.jpg | https://m.media-amazon.com/images/I/515W3U3bH2L.jpg | https://m.media-amazon.com/images/I/313HFFXib3L.jpg | https://m.media-amazon.com/images/I/31ryRHmt5PL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "48.37%",
   "SalePrice": "₹1,549.00",
   "Model": "B891"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/513EUSCHggL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yqB7OsEPL.jpg | https://m.media-amazon.com/images/I/41FhK5m9FiL.jpg | https://m.media-amazon.com/images/I/31ME4eYi8gL.jpg | https://m.media-amazon.com/images/I/51qXh0cpj0L.jpg | https://m.media-amazon.com/images/I/51Ldw-DNuPL.jpg | https://m.media-amazon.com/images/I/41lSNosVS6L.jpg | https://m.media-amazon.com/images/I/513EUSCHggL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,778.84",
   "Model": "#PBP002",
   "Country": "USA"

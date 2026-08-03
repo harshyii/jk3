@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41ZFVHUCUtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51GsPnUiEaL.jpg | https://m.media-amazon.com/images/I/310-d9z2ORL.jpg | https://m.media-amazon.com/images/I/41JP4onW4FL.jpg | https://m.media-amazon.com/images/I/41KY6kIYgRL.jpg | https://m.media-amazon.com/images/I/31AhEbpJdiL.jpg | https://m.media-amazon.com/images/I/31Bd7dt3lAL.jpg | https://m.media-amazon.com/images/I/41ZFVHUCUtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.53%",
   "SalePrice": "₹3,320.00",
   "Model": "11"
 }

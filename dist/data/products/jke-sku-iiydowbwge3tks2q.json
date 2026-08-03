@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/31qfWKt-i-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PCICU8LiL.jpg | https://m.media-amazon.com/images/I/317uFe8gx+L.jpg | https://m.media-amazon.com/images/I/31DYAz54HCL.jpg | https://m.media-amazon.com/images/I/314sPbWdNyL.jpg | https://m.media-amazon.com/images/I/31qfWKt-i-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Count",
-  "Discount": 0,
+  "Discount": "20.5%",
   "SalePrice": "₹159.00",
   "Country": "India"
 }

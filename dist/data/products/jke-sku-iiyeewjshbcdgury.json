@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41h-TNF0nsL.jpg | https://m.media-amazon.com/images/I/31KoFNqOm+L.jpg | https://m.media-amazon.com/images/I/41ufXMvlsRL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.13%",
   "SalePrice": "₹1,857.00",
   "Model": "FMS80"
 }

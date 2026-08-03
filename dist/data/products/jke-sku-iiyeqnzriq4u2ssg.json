@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/318l9Gg7TvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jLKqn-x4L.jpg | https://m.media-amazon.com/images/I/41GwUtp53bL.jpg | https://m.media-amazon.com/images/I/31pfMN34I8L.jpg | https://m.media-amazon.com/images/I/416H5keVU7L.jpg | https://m.media-amazon.com/images/I/318l9Gg7TvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.68%",
   "SalePrice": "₹1,599.00",
   "Model": "MRH651854817",
   "Country": "China"

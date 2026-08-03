@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51JiD5IW5YL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81JTAEgOgwL.jpg | https://m.media-amazon.com/images/I/51JCAIvWGoL.jpg | https://m.media-amazon.com/images/I/51+MLo2wNcL.jpg | https://m.media-amazon.com/images/I/518mymu+SvL.jpg | https://m.media-amazon.com/images/I/51cUr5RGheL.jpg | https://m.media-amazon.com/images/I/51cEpCqOK4L.jpg | https://m.media-amazon.com/images/I/51t81jC9PhL.jpg | https://m.media-amazon.com/images/I/51JiD5IW5YL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Case",
-  "Discount": 0,
+  "Discount": "62.51%",
   "SalePrice": "₹2,999.00",
   "Model": "WC-13DK-500"
 }

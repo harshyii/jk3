@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41wunbLJw-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XTVrv1SWL.jpg | https://m.media-amazon.com/images/I/51T1vApTIdL.jpg | https://m.media-amazon.com/images/I/41n-gwYaP5L.jpg | https://m.media-amazon.com/images/I/412ABESJe4L.jpg | https://m.media-amazon.com/images/I/41wunbLJw-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹12,467.00",
   "Model": "RY18BI150A-0"
 }

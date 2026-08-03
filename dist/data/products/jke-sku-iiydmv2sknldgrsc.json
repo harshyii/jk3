@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51U2q9yst+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+zPCQiUUL.jpg | https://m.media-amazon.com/images/I/41zgrxC7bpL.jpg | https://m.media-amazon.com/images/I/41ZOj3l6RQL.jpg | https://m.media-amazon.com/images/I/510Myz25aZL.jpg | https://m.media-amazon.com/images/I/51z0IKbAHOL.jpg | https://m.media-amazon.com/images/I/51CgW9d0bOL.jpg | https://m.media-amazon.com/images/I/51uUkATwy1L.jpg | https://m.media-amazon.com/images/I/51U2q9yst+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "59.1471 Milliliters",
-  "Discount": 0,
+  "Discount": "30.56%",
   "SalePrice": "₹2,211.00",
   "Model": "G181302",
   "Country": "USA"

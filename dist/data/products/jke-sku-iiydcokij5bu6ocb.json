@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/313K+GSZMBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61LLgr6iCpL.jpg | https://m.media-amazon.com/images/I/41nukieWxBL.jpg | https://m.media-amazon.com/images/I/313K+GSZMBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.59%",
   "SalePrice": "₹18,604.00",
   "Model": "XFD10Z"
 }

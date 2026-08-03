@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51WAMOVT5mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71cJ3fDNHCL.jpg | https://m.media-amazon.com/images/I/51zBZgeg1zL.jpg | https://m.media-amazon.com/images/I/61rF7caw7RL.jpg | https://m.media-amazon.com/images/I/51ChKqSihHL.jpg | https://m.media-amazon.com/images/I/51WAMOVT5mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "68.53%",
   "SalePrice": "₹629.00",
   "Country": "India"
 }

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41FQnvRVuGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719ts3AFzWL.jpg | https://m.media-amazon.com/images/I/41FQnvRVuGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "8.22%",
   "SalePrice": "₹2,198.00",
   "Model": "G13600",
   "Country": "USA"

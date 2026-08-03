@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31zpm5GaWNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51tchNeFbTL.jpg | https://m.media-amazon.com/images/I/31zpm5GaWNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.17%",
   "SalePrice": "₹19,350.00",
   "Model": "314721"
 }

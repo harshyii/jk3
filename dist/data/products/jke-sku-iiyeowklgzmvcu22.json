@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41VKPRmbyTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51X6jE+jiHL.jpg | https://m.media-amazon.com/images/I/31PMBs7iL+L.jpg | https://m.media-amazon.com/images/I/41IWoIf7NZL.jpg | https://m.media-amazon.com/images/I/41Au742ofML.jpg | https://m.media-amazon.com/images/I/41VKPRmbyTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "35.74%",
   "SalePrice": "₹44,950.00",
   "Model": "SW-3K-MAX-HDG-NB (6P)"
 }

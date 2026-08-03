@@ -57,8 +57,8 @@
     "https://m.media-amazon.com/images/I/31PX0BaV6IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710azxw7ljL.jpg | https://m.media-amazon.com/images/I/51eCL7SsakL.jpg | https://m.media-amazon.com/images/I/41PyBPCIupL.jpg | https://m.media-amazon.com/images/I/41y+WXK3ppL.jpg | https://m.media-amazon.com/images/I/41yKnyRgAXL.jpg | https://m.media-amazon.com/images/I/41q8imomkbL.jpg | https://m.media-amazon.com/images/I/414FiR5pH1L.jpg | https://m.media-amazon.com/images/I/31PX0BaV6IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1500 Milliliters",
-  "Discount": 0,
+  "Discount": "29%",
   "SalePrice": "₹1,173.00"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31uWQVdGpOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Yv1pvaXZL.jpg | https://m.media-amazon.com/images/I/41A-UkiamyL.jpg | https://m.media-amazon.com/images/I/31rtNGQhTuL.jpg | https://m.media-amazon.com/images/I/31uWQVdGpOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.8%",
   "SalePrice": "₹3,965.00",
   "Model": "EVO COOK PB12"
 }

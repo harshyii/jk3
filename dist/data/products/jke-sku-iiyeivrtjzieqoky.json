@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31yMp5TzWmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41QOIOumPcL.jpg | https://m.media-amazon.com/images/I/31kyv9iGNDL.jpg | https://m.media-amazon.com/images/I/41EMHFJfw8L.jpg | https://m.media-amazon.com/images/I/51QX163e2+L.jpg | https://m.media-amazon.com/images/I/31-UwaUUgyL.jpg | https://m.media-amazon.com/images/I/41Ilm-x7fVL.jpg | https://m.media-amazon.com/images/I/51YcZeM4l8L.jpg | https://m.media-amazon.com/images/I/31yMp5TzWmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.89%",
   "SalePrice": "₹315.00",
   "Model": "E-2210_250"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51-Gr0EeR8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81v863eG0VL.jpg | https://m.media-amazon.com/images/I/51VrT7uNI-L.jpg | https://m.media-amazon.com/images/I/71G0ihSoGKL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/51qUdOHgzbL.jpg | https://m.media-amazon.com/images/I/51y-shZlLRL.jpg | https://m.media-amazon.com/images/I/51zacPxjJGL.jpg | https://m.media-amazon.com/images/I/51tLhmLrq2L.jpg | https://m.media-amazon.com/images/I/51-Gr0EeR8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.0 Count",
-  "Discount": 0,
+  "Discount": "32%",
   "SalePrice": "₹170.00",
   "Model": "Ultima"
 }

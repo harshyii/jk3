@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41kTH-NjHpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51uSGRvLJBL.jpg | https://m.media-amazon.com/images/I/31ObMQc8KPL.jpg | https://m.media-amazon.com/images/I/41UoZP2oiCL.jpg | https://m.media-amazon.com/images/I/41qvNItHpSL.jpg | https://m.media-amazon.com/images/I/51e2cBRSsHL.jpg | https://m.media-amazon.com/images/I/41kTH-NjHpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹5,888.00",
   "Model": "STAR12V1125"
 }

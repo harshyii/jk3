@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51HwcsAPHkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710m-JmqUTL.jpg | https://m.media-amazon.com/images/I/51HwcsAPHkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "42.08%",
   "SalePrice": "₹289.00",
   "Model": "Solar Kit"
 }

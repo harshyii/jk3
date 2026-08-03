@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/411DQNYvOML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61cOUjf8T-L.jpg | https://m.media-amazon.com/images/I/411DQNYvOML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "39.89%",
   "SalePrice": "₹5,296.00",
   "Model": "RJSN1407"
 }

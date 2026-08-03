@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41o5-o5WPlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612AU0UQVrL.jpg | https://m.media-amazon.com/images/I/41L6F1quSTL.jpg | https://m.media-amazon.com/images/I/41o5-o5WPlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹14,907.49",
   "Model": "BDCI20B"
 }

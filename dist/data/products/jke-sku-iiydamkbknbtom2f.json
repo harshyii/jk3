@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/21xTZvvNwPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41mAfjeOG6L.jpg | https://m.media-amazon.com/images/I/31OtQx368UL.jpg | https://m.media-amazon.com/images/I/41V3-8LXqLL.jpg | https://m.media-amazon.com/images/I/41X3wxZWazL.jpg | https://m.media-amazon.com/images/I/31KLEjq+Z0L.jpg | https://m.media-amazon.com/images/I/51G+8ZsA64L.jpg | https://m.media-amazon.com/images/I/21xTZvvNwPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.95%",
   "SalePrice": "₹7,699.00",
   "Model": "GD0601"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41OM8DWMxuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81O5CJRGAPL.jpg | https://m.media-amazon.com/images/I/61iYLh4rYoL.jpg | https://m.media-amazon.com/images/I/41teUvBWABL.jpg | https://m.media-amazon.com/images/I/51Ux3xMNxvL.jpg | https://m.media-amazon.com/images/I/51PgCCDf-1L.jpg | https://m.media-amazon.com/images/I/41OM8DWMxuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.98%",
   "SalePrice": "₹738.00",
   "Model": "CO355 (5P)",
   "Country": "India"

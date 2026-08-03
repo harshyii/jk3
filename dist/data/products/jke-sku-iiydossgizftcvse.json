@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/416ZZFtMxgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZCUsZ9j6L.jpg | https://m.media-amazon.com/images/I/41YfZJogTVL.jpg | https://m.media-amazon.com/images/I/41IGzAyEubL.jpg | https://m.media-amazon.com/images/I/31kazy8988L.jpg | https://m.media-amazon.com/images/I/51Vx+PEIqIL.jpg | https://m.media-amazon.com/images/I/413D1C2BIHL.jpg | https://m.media-amazon.com/images/I/416ZZFtMxgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "7 Count",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹499.00",
   "Model": "BS-03"
 }

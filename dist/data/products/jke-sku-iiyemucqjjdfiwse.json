@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51sNr0B2sIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81D4e0Ps7PL.jpg | https://m.media-amazon.com/images/I/514O8iuFpXL.jpg | https://m.media-amazon.com/images/I/414GF2rH1iL.jpg | https://m.media-amazon.com/images/I/51liHMdYCXL.jpg | https://m.media-amazon.com/images/I/510i3U8LNNL.jpg | https://m.media-amazon.com/images/I/51mbPDI6ozL.jpg | https://m.media-amazon.com/images/I/51X6-dOOOBL.jpg | https://m.media-amazon.com/images/I/51sNr0B2sIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.32%",
   "SalePrice": "₹10,059.00",
   "Model": "ZIBOO"
 }

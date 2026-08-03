@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41qppII0AYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oepWmc5UL.jpg | https://m.media-amazon.com/images/I/31u79J5tSjL.jpg | https://m.media-amazon.com/images/I/41CpaNtgglL.jpg | https://m.media-amazon.com/images/I/41tEgAS6gjL.jpg | https://m.media-amazon.com/images/I/41RIzIkOiML.jpg | https://m.media-amazon.com/images/I/519vlQrKJEL.jpg | https://m.media-amazon.com/images/I/41BKQ5fsuVL.jpg | https://m.media-amazon.com/images/I/41qppII0AYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "63.69%",
   "SalePrice": "₹8,299.00",
   "Model": "HGCM2341"
 }

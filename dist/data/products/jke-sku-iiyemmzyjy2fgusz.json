@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51J+oc98mML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51i7XfIeIpL.jpg | https://m.media-amazon.com/images/I/51i7XfIeIpL.jpg | https://m.media-amazon.com/images/I/51sEL6TuUNL.jpg | https://m.media-amazon.com/images/I/61xTfsptCRL.jpg | https://m.media-amazon.com/images/I/519K5jJnYML.jpg | https://m.media-amazon.com/images/I/51sI+jbzTTL.jpg | https://m.media-amazon.com/images/I/51J+oc98mML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹28,214.46",
   "Model": "FVH64K"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/31QVjsQ-aeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714KeMDnOKL.jpg | https://m.media-amazon.com/images/I/418lM6cQeHL.jpg | https://m.media-amazon.com/images/I/41hunt5YFlL.jpg | https://m.media-amazon.com/images/I/41tfa-iyUzL.jpg | https://m.media-amazon.com/images/I/41kjiUeiZRL.jpg | https://m.media-amazon.com/images/I/31uiG44pRZL.jpg | https://m.media-amazon.com/images/I/31S6bffcC5L.jpg | https://m.media-amazon.com/images/I/31QVjsQ-aeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹37,124.00",
   "Model": "RIW18CBL-0"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41HpTQyk5UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MRGMiWVKL.jpg | https://m.media-amazon.com/images/I/31AqC6z7S3L.jpg | https://m.media-amazon.com/images/I/51a7xlfdoiL.jpg | https://m.media-amazon.com/images/I/518Zqe2LkGL.jpg | https://m.media-amazon.com/images/I/51xxPI+0m0L.jpg | https://m.media-amazon.com/images/I/41R7PU3CyDL.jpg | https://m.media-amazon.com/images/I/51UBpmEtxPL.jpg | https://m.media-amazon.com/images/I/41HpTQyk5UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "89.09%",
   "SalePrice": "₹109.00",
   "Model": "NTCSRB01",
   "Country": "India"

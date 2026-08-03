@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41yvMkNxRRS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717us8C3QmL.jpg | https://m.media-amazon.com/images/I/51OTYXwRCUL.jpg | https://m.media-amazon.com/images/I/61260gylgqL.jpg | https://m.media-amazon.com/images/I/41Hp9PgvcRL.jpg | https://m.media-amazon.com/images/I/41cGD6-J7qL.jpg | https://m.media-amazon.com/images/I/41i7wCDabRL.jpg | https://m.media-amazon.com/images/I/41yvMkNxRRS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "25.13%",
   "SalePrice": "₹149.00",
   "Model": "MST-1305",
   "Country": "India"

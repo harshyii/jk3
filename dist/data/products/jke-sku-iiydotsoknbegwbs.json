@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51PJBLdIHCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61krTvetyhL.jpg | https://m.media-amazon.com/images/I/41tlHOfR4ZL.jpg | https://m.media-amazon.com/images/I/41aWDd2fC8L.jpg | https://m.media-amazon.com/images/I/21-CiO6373L.jpg | https://m.media-amazon.com/images/I/51hqFXzJQYL.jpg | https://m.media-amazon.com/images/I/51PJBLdIHCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹6,626.00",
   "Model": "545507"
 }

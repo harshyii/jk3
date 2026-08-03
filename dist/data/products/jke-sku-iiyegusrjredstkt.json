@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31tUYZh856L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51WdgzApvGL.jpg | https://m.media-amazon.com/images/I/31tUYZh856L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "70.47%",
   "SalePrice": "₹295.00",
   "Model": "AC-29",
   "Country": "India"

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41q1BGQp93L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71KwRY30oXL.jpg | https://m.media-amazon.com/images/I/31lB4QT1IBL.jpg | https://m.media-amazon.com/images/I/41WR3Zdi11L.jpg | https://m.media-amazon.com/images/I/41e5PDt2GyL.jpg | https://m.media-amazon.com/images/I/41gbn6IsBzL.jpg | https://m.media-amazon.com/images/I/413hxxwfKbL.jpg | https://m.media-amazon.com/images/I/41JubCX4PLL.jpg | https://m.media-amazon.com/images/I/41q1BGQp93L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.99%",
   "SalePrice": "₹5,713.28",
   "Model": "DDG/6",
   "Country": "India"

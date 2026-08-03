@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/413iWXVMjbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71M1ubpju4L.jpg | https://m.media-amazon.com/images/I/41F-WIjgG2L.jpg | https://m.media-amazon.com/images/I/317cVPB0XZL.jpg | https://m.media-amazon.com/images/I/51jiefmD3oL.jpg | https://m.media-amazon.com/images/I/41I0z8jhCUL.jpg | https://m.media-amazon.com/images/I/41ofgwERMRL.jpg | https://m.media-amazon.com/images/I/31SPC6DG4LL.jpg | https://m.media-amazon.com/images/I/413iWXVMjbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "43.05%",
   "SalePrice": "₹1,708.00",
   "Model": "BN18-15"
 }

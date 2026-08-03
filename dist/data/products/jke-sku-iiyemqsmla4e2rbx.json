@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41bqnNH7d+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51byCE1iv-L.jpg | https://m.media-amazon.com/images/I/31TgKBIoB+L.jpg | https://m.media-amazon.com/images/I/41EnKJW4NgL.jpg | https://m.media-amazon.com/images/I/41zZkFyzcTL.jpg | https://m.media-amazon.com/images/I/51Aqp23Zs5L.jpg | https://m.media-amazon.com/images/I/41I7jW1aW4L.jpg | https://m.media-amazon.com/images/I/41bqnNH7d+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.95%",
   "SalePrice": "₹12,900.00",
   "Model": "GHWAMUSWG35"
 }

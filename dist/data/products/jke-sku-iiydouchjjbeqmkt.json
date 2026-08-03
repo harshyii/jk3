@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/11PibUHfPeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ag52+KAsL.jpg | https://m.media-amazon.com/images/I/318G9Yp6xeL.jpg | https://m.media-amazon.com/images/I/31A7b7zSBnL.jpg | https://m.media-amazon.com/images/I/41RC5CpuTSL.jpg | https://m.media-amazon.com/images/I/41cbCNBMaBL.jpg | https://m.media-amazon.com/images/I/41a7hWpF3AL.jpg | https://m.media-amazon.com/images/I/519B9-8E7bL.jpg | https://m.media-amazon.com/images/I/11PibUHfPeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹1,588.15",
   "Model": "DWA3HLDFT"
 }

@@ -86,9 +86,9 @@
     "https://m.media-amazon.com/images/I/41xIEgxOWPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5190u9PFm9L.jpg | https://m.media-amazon.com/images/I/310Sa2b-iGL.jpg | https://m.media-amazon.com/images/I/41kxrPyMdtL.jpg | https://m.media-amazon.com/images/I/418E01XNHRL.jpg | https://m.media-amazon.com/images/I/41qKq1Ve7KL.jpg | https://m.media-amazon.com/images/I/41wcY7tHfOL.jpg | https://m.media-amazon.com/images/I/41xIEgxOWPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.57%",
   "SalePrice": "₹8,949.00",
   "Model": "FHCIL5SMPT48"
 }

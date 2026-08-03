@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51ehj2yfPDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51gsCct2DeL.jpg | https://m.media-amazon.com/images/I/41cO54XQFdL.jpg | https://m.media-amazon.com/images/I/41c+6yH2bsL.jpg | https://m.media-amazon.com/images/I/41-dCHQ9vPL.jpg | https://m.media-amazon.com/images/I/41t66qVqgUL.jpg | https://m.media-amazon.com/images/I/51oyHgCiocL.jpg | https://m.media-amazon.com/images/I/519BEr71biL.jpg | https://m.media-amazon.com/images/I/51ehj2yfPDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,855.60",
   "Model": "44798"
 }

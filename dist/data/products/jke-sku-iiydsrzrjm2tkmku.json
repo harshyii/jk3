@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/31LDjpoFqaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31LDjpoFqaL.jpg | https://m.media-amazon.com/images/I/31LDjpoFqaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.9%",
   "SalePrice": "₹25,000.00",
   "Model": "LFV12VS400WM"
 }

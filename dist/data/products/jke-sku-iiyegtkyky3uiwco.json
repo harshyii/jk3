@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51-ht0kIVxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pqHy0GLnL.jpg | https://m.media-amazon.com/images/I/41OPUX6vQSL.jpg | https://m.media-amazon.com/images/I/51h-RWMG1rL.jpg | https://m.media-amazon.com/images/I/51VxvznCSJL.jpg | https://m.media-amazon.com/images/I/41NYe0CdyRL.jpg | https://m.media-amazon.com/images/I/51i4cLDH2EL.jpg | https://m.media-amazon.com/images/I/51-ht0kIVxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "38%",
   "SalePrice": "₹6,199.00",
   "Model": "DTPWTB1900"
 }

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/31PyzioXoYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61672OAXtmL.jpg | https://m.media-amazon.com/images/I/41DQHDVkaRL.jpg | https://m.media-amazon.com/images/I/41S+jbtR4DL.jpg | https://m.media-amazon.com/images/I/31m6czfDsGL.jpg | https://m.media-amazon.com/images/I/31qKSz84gIL.jpg | https://m.media-amazon.com/images/I/21flNSoGBpL.jpg | https://m.media-amazon.com/images/I/21i7NZ9gRKL.jpg | https://m.media-amazon.com/images/I/31PyzioXoYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.00 Piece",
-  "Discount": 0,
+  "Discount": "80.09%",
   "SalePrice": "₹179.00",
   "Model": "RW-820"
 }

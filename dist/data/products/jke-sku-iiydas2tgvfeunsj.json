@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/61GzCzD3dDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717FZHqp-yL.jpg | https://m.media-amazon.com/images/I/410zMh0OGKL.jpg | https://m.media-amazon.com/images/I/51HaBpfIx5L.jpg | https://m.media-amazon.com/images/I/51GLofh4yzL.jpg | https://m.media-amazon.com/images/I/515y-LxbqGL.jpg | https://m.media-amazon.com/images/I/51ILHcQ9OSL.jpg | https://m.media-amazon.com/images/I/61GzCzD3dDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5000.88 Milliliters",
-  "Discount": 0,
+  "Discount": "6.69%",
   "SalePrice": "₹3,070.00",
   "Model": "314500"
 }

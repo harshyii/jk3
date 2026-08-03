@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41YL+WxIdFS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Uu5AhAcsS.jpg | https://m.media-amazon.com/images/I/21aBLJ9J3OS.jpg | https://m.media-amazon.com/images/I/31n4OO+CylS.jpg | https://m.media-amazon.com/images/I/31EyIzS+YaS.jpg | https://m.media-amazon.com/images/I/41YL+WxIdFS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.68%",
   "SalePrice": "₹6,609.00",
   "Model": "640",
   "Country": "USA"

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41YYzekySTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31BJj5S5aiL.jpg | https://m.media-amazon.com/images/I/31BJj5S5aiL.jpg | https://m.media-amazon.com/images/I/2138P9ch98L.jpg | https://m.media-amazon.com/images/I/31sqAqbQcfL.jpg | https://m.media-amazon.com/images/I/41uDnzyCeUL.jpg | https://m.media-amazon.com/images/I/61GhFFGx3cL.jpg | https://m.media-amazon.com/images/I/41YYzekySTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "54.11%",
   "SalePrice": "₹229.00",
   "Model": "16911"
 }

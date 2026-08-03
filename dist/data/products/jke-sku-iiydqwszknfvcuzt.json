@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51f8j4BEjoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7192f1+tt2L.jpg | https://m.media-amazon.com/images/I/51f8j4BEjoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "4 Count",
-  "Discount": 0,
+  "Discount": "0.85%",
   "SalePrice": "₹35,299.00",
   "Model": "NXG 1450e+LPT12150H +2 x 210Wp"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31j3ZxmK7KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71k+FI8c1XL.jpg | https://m.media-amazon.com/images/I/31j3ZxmK7KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.93%",
   "SalePrice": "₹1,579.00",
   "Model": "Dremel - 431",
   "Country": "USA"

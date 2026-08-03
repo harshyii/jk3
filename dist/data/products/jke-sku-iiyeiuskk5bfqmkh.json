@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31o0isa9s2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51QZNhT+35L.jpg | https://m.media-amazon.com/images/I/31Af+saONKL.jpg | https://m.media-amazon.com/images/I/31dIlV2JvEL.jpg | https://m.media-amazon.com/images/I/31o0isa9s2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.08%",
   "SalePrice": "₹289.00",
   "Model": "BSH17"
 }

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41XFOLatX1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71KgfZAYk2L.jpg | https://m.media-amazon.com/images/I/41nKwqBj2BL.jpg | https://m.media-amazon.com/images/I/41bXXYuoUNL.jpg | https://m.media-amazon.com/images/I/310ycWGx3iL.jpg | https://m.media-amazon.com/images/I/41pqVitIX6L.jpg | https://m.media-amazon.com/images/I/41pqv0hMe+L.jpg | https://m.media-amazon.com/images/I/41nPu5tU1WL.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹27,377.01",
   "Model": "#PSBCS01B"
 }

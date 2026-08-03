@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51t-GNeKyoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81wqa5jjhCL.jpg | https://m.media-amazon.com/images/I/51tkwfajVyL.jpg | https://m.media-amazon.com/images/I/51iYjNflKqL.jpg | https://m.media-amazon.com/images/I/411+0mY72lL.jpg | https://m.media-amazon.com/images/I/41G1GBdO6eL.jpg | https://m.media-amazon.com/images/I/51VgMFLznqL.jpg | https://m.media-amazon.com/images/I/51skcL0F6GL.jpg | https://m.media-amazon.com/images/I/51t-GNeKyoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63.1%",
   "SalePrice": "₹2,549.00",
   "Model": "G190200"
 }

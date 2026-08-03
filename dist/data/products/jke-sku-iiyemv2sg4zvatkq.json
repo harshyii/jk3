@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51X8mQNQGHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510EbrD6n5L.jpg | https://m.media-amazon.com/images/I/41Mesy-4ptL.jpg | https://m.media-amazon.com/images/I/31AJhzJ3n-L.jpg | https://m.media-amazon.com/images/I/51U7x-saqnL.jpg | https://m.media-amazon.com/images/I/51X8mQNQGHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "77.41%",
   "SalePrice": "₹429.00",
   "Model": "10pc deep socket"
 }

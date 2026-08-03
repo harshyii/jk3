@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51CoXR58UOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/716ouYUv2HL.jpg | https://m.media-amazon.com/images/I/41P4oP0nC4L.jpg | https://m.media-amazon.com/images/I/51mk2NfiPKL.jpg | https://m.media-amazon.com/images/I/51tarr+43oL.jpg | https://m.media-amazon.com/images/I/61TbmOv2t5L.jpg | https://m.media-amazon.com/images/I/61q9iEyI2eL.jpg | https://m.media-amazon.com/images/I/61QGljK4SwL.jpg | https://m.media-amazon.com/images/I/51CoXR58UOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.54%",
   "SalePrice": "₹4,644.06",
   "Model": "CLY_KIT_2",
   "Country": "USA"

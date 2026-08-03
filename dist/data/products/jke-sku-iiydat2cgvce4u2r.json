@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31LVKf3uY9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dToQZBJhL.jpg | https://m.media-amazon.com/images/I/31MeAbxWTBL.jpg | https://m.media-amazon.com/images/I/41lbHH3LRqL.jpg | https://m.media-amazon.com/images/I/41ylTtBbu4L.jpg | https://m.media-amazon.com/images/I/41qi9HAYYzL.jpg | https://m.media-amazon.com/images/I/31NZCYoriCL.jpg | https://m.media-amazon.com/images/I/41kGyR3Y1SL.jpg | https://m.media-amazon.com/images/I/31LVKf3uY9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.71%",
   "SalePrice": "₹329.00",
   "Model": "71-641"
 }

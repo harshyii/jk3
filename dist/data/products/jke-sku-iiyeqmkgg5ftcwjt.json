@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31fCy068v6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UOfkBmTHL.jpg | https://m.media-amazon.com/images/I/315VQVJjYYL.jpg | https://m.media-amazon.com/images/I/21VFjSE9OgL.jpg | https://m.media-amazon.com/images/I/21RpvV+AR5L.jpg | https://m.media-amazon.com/images/I/41uNm+YQF1L.jpg | https://m.media-amazon.com/images/I/31KcRY0-+BL.jpg | https://m.media-amazon.com/images/I/31ICUhprvFL.jpg | https://m.media-amazon.com/images/I/31fCy068v6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "52.81%",
   "SalePrice": "₹5,499.00",
   "Model": "DSS125B"
 }

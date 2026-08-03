@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31GEChQ2anL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51vEGNILC9L.jpg | https://m.media-amazon.com/images/I/31GEChQ2anL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "8.44%",
   "SalePrice": "₹9,155.00",
   "Model": "Heavy Duty UPS 1750-vTURBO"
 }

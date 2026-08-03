@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51gyDSqbAhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oZLqWA+ZL.jpg | https://m.media-amazon.com/images/I/41XdJG59tQL.jpg | https://m.media-amazon.com/images/I/31g+Lf-SfRL.jpg | https://m.media-amazon.com/images/I/41INj58s21L.jpg | https://m.media-amazon.com/images/I/41VRXK19zML.jpg | https://m.media-amazon.com/images/I/41xm8cKoHoL.jpg | https://m.media-amazon.com/images/I/51CGx9i5GqL.jpg | https://m.media-amazon.com/images/I/51gyDSqbAhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹16,715.78",
   "Model": "MC900MADX",
   "Country": "USA"

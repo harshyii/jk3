@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41CRRmiPcpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ss0S0IjQL.jpg | https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg | https://m.media-amazon.com/images/I/31Gg5mv8ZOL.jpg | https://m.media-amazon.com/images/I/316gbQvTC7L.jpg | https://m.media-amazon.com/images/I/41k-3uglyYL.jpg | https://m.media-amazon.com/images/I/41OHrcwtt6L.jpg | https://m.media-amazon.com/images/I/41CRRmiPcpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹9,812.00",
   "Model": "CMX/1"
 }

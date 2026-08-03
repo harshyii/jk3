@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51mkWiaabnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61420+0zJ0L.jpg | https://m.media-amazon.com/images/I/41HyJdl9+sL.jpg | https://m.media-amazon.com/images/I/513TZT3Z2yL.jpg | https://m.media-amazon.com/images/I/51Do+T1cwFL.jpg | https://m.media-amazon.com/images/I/51XSLyuUbhL.jpg | https://m.media-amazon.com/images/I/51MX1QP4uFL.jpg | https://m.media-amazon.com/images/I/51mkWiaabnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "9.11%",
   "SalePrice": "₹499.00",
   "Model": "Mega Utility Hook"
 }

@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41xXHA+oirL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71J5f8UbWcL.jpg | https://m.media-amazon.com/images/I/41xXHA+oirL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.99%",
   "SalePrice": "₹9,456.83",
   "Model": "DCS/12/SQ",
   "Country": "India"

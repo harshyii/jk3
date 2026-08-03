@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/412lYZTgLAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qZnTd8H-L.jpg | https://m.media-amazon.com/images/I/412lYZTgLAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.88%",
   "SalePrice": "₹1,842.03",
   "Model": "40144",
   "Country": "USA"

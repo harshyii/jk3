@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/412rkAaAelL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61J0rw4qdrL.jpg | https://m.media-amazon.com/images/I/31i42Uh3ycL.jpg | https://m.media-amazon.com/images/I/511XdlvYNqL.jpg | https://m.media-amazon.com/images/I/41vWcBBU7gL.jpg | https://m.media-amazon.com/images/I/51BThCErQTL.jpg | https://m.media-amazon.com/images/I/61pLpZ3LREL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/412rkAaAelL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.81%",
   "SalePrice": "₹7,999.00",
   "Model": "BEM2200-IN"
 }

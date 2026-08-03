@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41ad0-FfKlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71g5xAxXaQL.jpg | https://m.media-amazon.com/images/I/41ad0-FfKlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "19.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹36,003.00",
   "Model": "DT70754-QZ"
 }

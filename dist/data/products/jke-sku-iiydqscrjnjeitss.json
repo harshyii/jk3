@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41FLH1Vo14S.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xtDiduy0L.jpg | https://m.media-amazon.com/images/I/417dUKnBFIL.jpg | https://m.media-amazon.com/images/I/41dCMUAkUoS.jpg | https://m.media-amazon.com/images/I/41FLH1Vo14S.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.02%",
   "SalePrice": "₹872.77",
   "Model": "GRO5545"
 }

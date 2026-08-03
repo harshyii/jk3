@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51FrssEnHEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ZRJZL5s5L.jpg | https://m.media-amazon.com/images/I/41m8eQ6zdaL.jpg | https://m.media-amazon.com/images/I/41VUAO7pBKL.jpg | https://m.media-amazon.com/images/I/515Q7vMkTiL.jpg | https://m.media-amazon.com/images/I/51FBf4c54BL.jpg | https://m.media-amazon.com/images/I/51zEQCDyhQL.jpg | https://m.media-amazon.com/images/I/51eYPTITYEL.jpg | https://m.media-amazon.com/images/I/51FrssEnHEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Grams",
-  "Discount": 0,
+  "Discount": "20%",
   "SalePrice": "₹380.00",
   "Model": "RC1460",
   "Country": "India"

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51DKdgCZznL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81AsF+XwBwL.jpg | https://m.media-amazon.com/images/I/41XA7wcb7OL.jpg | https://m.media-amazon.com/images/I/41GvLE9W-0L.jpg | https://m.media-amazon.com/images/I/51s5rVI16jL.jpg | https://m.media-amazon.com/images/I/61P-59OmZML.jpg | https://m.media-amazon.com/images/I/61uHq70fU7L.jpg | https://m.media-amazon.com/images/I/51aPqE+kvaL.jpg | https://m.media-amazon.com/images/I/51DKdgCZznL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹13,613.02",
   "Model": "ACC623"
 }

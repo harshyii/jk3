@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41fDnSC1QZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UvHUBKz8L.jpg | https://m.media-amazon.com/images/I/31RIod1myvL.jpg | https://m.media-amazon.com/images/I/61lkBXLDmzL.jpg | https://m.media-amazon.com/images/I/41UjtY3mngL.jpg | https://m.media-amazon.com/images/I/41fDnSC1QZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "33.52%",
   "SalePrice": "₹232.00",
   "Model": "OWNIRONCO"
 }

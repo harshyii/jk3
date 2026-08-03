@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51fEJ0i8a0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KaqbQ0EsL.jpg | https://m.media-amazon.com/images/I/41WFUDHFUgL.jpg | https://m.media-amazon.com/images/I/51Es2PoWZXL.jpg | https://m.media-amazon.com/images/I/51bM9vLRwWL.jpg | https://m.media-amazon.com/images/I/51fEJ0i8a0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.3%",
   "SalePrice": "₹84.00",
   "Model": "OP15R-10754",
   "Country": "India"

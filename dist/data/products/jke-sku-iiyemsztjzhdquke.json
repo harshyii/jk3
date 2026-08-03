@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/311rEJSI95L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718WgyndWcL.jpg | https://m.media-amazon.com/images/I/41443C24iHL.jpg | https://m.media-amazon.com/images/I/21Z9yVnDJQL.jpg | https://m.media-amazon.com/images/I/41PW0vTJpTL.jpg | https://m.media-amazon.com/images/I/41Is-ebjPlL.jpg | https://m.media-amazon.com/images/I/31MVVQZpYHL.jpg | https://m.media-amazon.com/images/I/51fyr5Gmr8L.jpg | https://m.media-amazon.com/images/I/311rEJSI95L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Piece",
-  "Discount": 0,
+  "Discount": "22.33%",
   "SalePrice": "₹699.00",
   "Model": "Set"
 }

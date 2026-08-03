@@ -81,9 +81,9 @@
     "https://m.media-amazon.com/images/I/31LqEWELeLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cNYAxIY2L.jpg | https://m.media-amazon.com/images/I/21rISX-mE+L.jpg | https://m.media-amazon.com/images/I/21PCrjK1LSL.jpg | https://m.media-amazon.com/images/I/21qhATTA9lL.jpg | https://m.media-amazon.com/images/I/31n5sLYNedL.jpg | https://m.media-amazon.com/images/I/31YEoC1orgL.jpg | https://m.media-amazon.com/images/I/31LqEWELeLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.53%",
   "SalePrice": "₹569.00",
   "Model": "GY51U02463",
   "Country": "India"

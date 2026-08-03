@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41sEwUR0a1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81qTuREIg8L.jpg | https://m.media-amazon.com/images/I/41Ou9pOo5OL.jpg | https://m.media-amazon.com/images/I/41sEwUR0a1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.46%",
   "SalePrice": "₹2,810.00",
   "Model": "TCT440 20P",
   "Country": "India"

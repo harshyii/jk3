@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41Qkd+0q2gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61lGk7iZKML.jpg | https://m.media-amazon.com/images/I/31FEIiFNXSL.jpg | https://m.media-amazon.com/images/I/31X2sQI885L.jpg | https://m.media-amazon.com/images/I/51ftIxJpu5L.jpg | https://m.media-amazon.com/images/I/41c35rUt62L.jpg | https://m.media-amazon.com/images/I/41RTTA8220L.jpg | https://m.media-amazon.com/images/I/51kMBpkCBlL.jpg | https://m.media-amazon.com/images/I/41Qkd+0q2gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "32.16%",
   "SalePrice": "₹135.00",
   "Model": "CableTie_Parent"
 }

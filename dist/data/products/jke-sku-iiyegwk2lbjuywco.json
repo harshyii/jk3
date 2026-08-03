@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41X9EOaoU+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71V+bkNrFoL.jpg | https://m.media-amazon.com/images/I/41POtAoMglL.jpg | https://m.media-amazon.com/images/I/41yjWN0qFnL.jpg | https://m.media-amazon.com/images/I/410g0b6LL5L.jpg | https://m.media-amazon.com/images/I/419PIHaBAGL.jpg | https://m.media-amazon.com/images/I/41X9EOaoU+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.65%",
   "SalePrice": "₹198.00",
   "Model": "E-16097"
 }

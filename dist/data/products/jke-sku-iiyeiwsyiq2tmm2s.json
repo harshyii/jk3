@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51hCqCiJG+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xD9LugKeL.jpg | https://m.media-amazon.com/images/I/410XSSveJTL.jpg | https://m.media-amazon.com/images/I/41LZetWDDyL.jpg | https://m.media-amazon.com/images/I/41D0Edvp7WL.jpg | https://m.media-amazon.com/images/I/41uIedHXvvL.jpg | https://m.media-amazon.com/images/I/41lfPtM02IL.jpg | https://m.media-amazon.com/images/I/51QaSk+sLtL.jpg | https://m.media-amazon.com/images/I/51hCqCiJG+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "52.23%",
   "SalePrice": "₹4,299.00",
   "Model": "CP 02"
 }

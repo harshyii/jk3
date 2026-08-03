@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/4196fJ19J7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81mgHL2s0TL.jpg | https://m.media-amazon.com/images/I/41JoqW1X5DL.jpg | https://m.media-amazon.com/images/I/41OjpIn5aqL.jpg | https://m.media-amazon.com/images/I/413lvok+MZL.jpg | https://m.media-amazon.com/images/I/41hfVHUz2sL.jpg | https://m.media-amazon.com/images/I/41LVUeMi8CL.jpg | https://m.media-amazon.com/images/I/4196fJ19J7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "62.94%",
   "SalePrice": "₹6,300.00",
   "Model": "CSLI14023"
 }

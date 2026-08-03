@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ss0S0IjQL.jpg | https://m.media-amazon.com/images/I/31bbEsP2PpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹14,998.50",
   "Model": "CMX/SS/1"
 }

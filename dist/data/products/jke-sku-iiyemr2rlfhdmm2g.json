@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PLQW5WYJL.jpg | https://m.media-amazon.com/images/I/41GbcAmHu0L.jpg | https://m.media-amazon.com/images/I/51dOCKD8C+L.jpg | https://m.media-amazon.com/images/I/51BjBYbRBIL.jpg | https://m.media-amazon.com/images/I/517R2i+VmkL.jpg | https://m.media-amazon.com/images/I/41XzHhHb3jL.jpg | https://m.media-amazon.com/images/I/51y6-fji1rL.jpg | https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.82%",
   "SalePrice": "₹42,270.50",
   "Model": "DCB2104"
 }

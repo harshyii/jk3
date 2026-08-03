@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/61BDfUYqXyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71g5iZEA2yL.jpg | https://m.media-amazon.com/images/I/41fx3ETHDCL.jpg | https://m.media-amazon.com/images/I/51egL4nHW3L.jpg | https://m.media-amazon.com/images/I/51vl8Tw-JWL.jpg | https://m.media-amazon.com/images/I/51mO3ZP-BoL.jpg | https://m.media-amazon.com/images/I/51Yv9Q-SbML.jpg | https://m.media-amazon.com/images/I/51lKSq4syBL.jpg | https://m.media-amazon.com/images/I/61BDfUYqXyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "27976.559 Milliliters",
-  "Discount": 0,
+  "Discount": "73.3%",
   "SalePrice": "₹4,325.27",
   "Model": "SPI_109_16"
 }

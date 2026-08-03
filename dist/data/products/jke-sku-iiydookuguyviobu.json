@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41O5LrJBFgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81VVQUJAYrL.jpg | https://m.media-amazon.com/images/I/312g-Ze7oEL.jpg | https://m.media-amazon.com/images/I/31wGwvIWw3L.jpg | https://m.media-amazon.com/images/I/41O5LrJBFgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.53%",
   "SalePrice": "₹1,592.70",
   "Model": "SLP/10C"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41lJXh0DUnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yBC2pf1fL.jpg | https://m.media-amazon.com/images/I/31DTqqW25+L.jpg | https://m.media-amazon.com/images/I/41D2BxTdNoL.jpg | https://m.media-amazon.com/images/I/51a8G78jWLL.jpg | https://m.media-amazon.com/images/I/51kajUKUdSS.jpg | https://m.media-amazon.com/images/I/51jGpzb232L.jpg | https://m.media-amazon.com/images/I/515Hd3ghlaL.jpg | https://m.media-amazon.com/images/I/41lJXh0DUnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.07%",
   "SalePrice": "₹349.00",
   "Model": "Car Wrench"
 }

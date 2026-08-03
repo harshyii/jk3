@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/411W6Fo0AzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Re24Lb55L.jpg | https://m.media-amazon.com/images/I/31ZNcq4KzbL.jpg | https://m.media-amazon.com/images/I/516Gq3K6z-L.jpg | https://m.media-amazon.com/images/I/51CQ83bxyLL.jpg | https://m.media-amazon.com/images/I/51ghe6rWeQL.jpg | https://m.media-amazon.com/images/I/61zacvnBaqL.jpg | https://m.media-amazon.com/images/I/51lb64b2kiL.jpg | https://m.media-amazon.com/images/I/411W6Fo0AzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "26.09%",
   "SalePrice": "₹850.00",
   "Model": "PROTECT500",
   "Country": "India"

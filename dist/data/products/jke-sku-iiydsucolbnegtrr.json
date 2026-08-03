@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/412jXNJm21L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616i8eZAdwL.jpg | https://m.media-amazon.com/images/I/412jXNJm21L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.0 Ounce",
-  "Discount": 0,
+  "Discount": "38.43%",
   "SalePrice": "₹6,292.00",
   "Model": "A7CW31",
   "Country": "USA"

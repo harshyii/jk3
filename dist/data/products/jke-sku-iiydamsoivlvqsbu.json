@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41umYzosg5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/810TVYY1LuL.jpg | https://m.media-amazon.com/images/I/417C6uvZoFL.jpg | https://m.media-amazon.com/images/I/414LBr60ZbL.jpg | https://m.media-amazon.com/images/I/41+3UcA4PrL.jpg | https://m.media-amazon.com/images/I/31k5fO3iOtL.jpg | https://m.media-amazon.com/images/I/51wR9konyVL.jpg | https://m.media-amazon.com/images/I/41umYzosg5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,182.61",
   "Model": "3001",
   "Country": "USA"

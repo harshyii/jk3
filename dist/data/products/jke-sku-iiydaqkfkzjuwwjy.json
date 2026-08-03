@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41tGipTkhcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uxE3sUAaL.jpg | https://m.media-amazon.com/images/I/41G4DpK1peL.jpg | https://m.media-amazon.com/images/I/41tGipTkhcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹18,456.90",
   "Model": "D-03333"
 }

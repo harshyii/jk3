@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41f9RNehgvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AYy4c9tAL.jpg | https://m.media-amazon.com/images/I/41hYsJmoeQL.jpg | https://m.media-amazon.com/images/I/31o9mseiRSL.jpg | https://m.media-amazon.com/images/I/41k9jOOGtgL.jpg | https://m.media-amazon.com/images/I/41N2Pr4BbWL.jpg | https://m.media-amazon.com/images/I/41nZDTg8PrL.jpg | https://m.media-amazon.com/images/I/41fY+7VIcnL.jpg | https://m.media-amazon.com/images/I/41f9RNehgvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "58.32%",
   "SalePrice": "₹2,822.45",
   "Model": "729-01"
 }

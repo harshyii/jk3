@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41XcVSC9o6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81pIakJ8rTL.jpg | https://m.media-amazon.com/images/I/41mg317I5FL.jpg | https://m.media-amazon.com/images/I/41lo6fGP2PL.jpg | https://m.media-amazon.com/images/I/417tfe475aL.jpg | https://m.media-amazon.com/images/I/51-4oOzRy2L.jpg | https://m.media-amazon.com/images/I/41mC76RpJoL.jpg | https://m.media-amazon.com/images/I/41V0nC-ZswL.jpg | https://m.media-amazon.com/images/I/41XcVSC9o6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "45.01%",
   "SalePrice": "₹2,199.00",
   "Model": "Stellar 20K",
   "Country": "India"

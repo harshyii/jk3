@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/518zNUgfOWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71-XVLkN1lL.jpg | https://m.media-amazon.com/images/I/416G6gnUH3L.jpg | https://m.media-amazon.com/images/I/51kksQs-k9L.jpg | https://m.media-amazon.com/images/I/51XtI9qHwbL.jpg | https://m.media-amazon.com/images/I/511lB-fyywL.jpg | https://m.media-amazon.com/images/I/41xC6H5MmyL.jpg | https://m.media-amazon.com/images/I/41v1SsZEzqL.jpg | https://m.media-amazon.com/images/I/518zNUgfOWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "3.85%",
   "SalePrice": "₹2,499.00",
   "Model": "1025"
 }

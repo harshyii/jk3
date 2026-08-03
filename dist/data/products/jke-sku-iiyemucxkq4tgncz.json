@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31ruOAXYjML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61c3XlgdAFL.jpg | https://m.media-amazon.com/images/I/31HJrMDLZTL.jpg | https://m.media-amazon.com/images/I/31qMKlOExBL.jpg | https://m.media-amazon.com/images/I/31jg9zbJ+1L.jpg | https://m.media-amazon.com/images/I/31ruOAXYjML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.6%",
   "SalePrice": "₹309.00",
   "Model": "1/2\" HEX SOCKET-34"
 }

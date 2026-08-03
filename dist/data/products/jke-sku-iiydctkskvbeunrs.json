@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41SFBKUxFDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zenU09+uL.jpg | https://m.media-amazon.com/images/I/41ylTlnsk2L.jpg | https://m.media-amazon.com/images/I/41mlCyDDfrL.jpg | https://m.media-amazon.com/images/I/41KrKU3hrPL.jpg | https://m.media-amazon.com/images/I/41SFBKUxFDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "20.44%",
   "SalePrice": "₹46,916.00",
   "Model": "DWMT19244"
 }

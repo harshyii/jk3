@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41FooHYmDhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81rhXA4-mRL.jpg | https://m.media-amazon.com/images/I/41uTazv4Y+L.jpg | https://m.media-amazon.com/images/I/51Hg+3tru+L.jpg | https://m.media-amazon.com/images/I/416U1GAeD5L.jpg | https://m.media-amazon.com/images/I/41a+Q1FsXlL.jpg | https://m.media-amazon.com/images/I/41hO5-4KzeL.jpg | https://m.media-amazon.com/images/I/41ysY0sTLhL.jpg | https://m.media-amazon.com/images/I/41FooHYmDhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹41,432.46",
   "Model": "DCF850E1"
 }

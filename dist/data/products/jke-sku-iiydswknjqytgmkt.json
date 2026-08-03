@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41bUh04i2DL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mNNq6fyGL.jpg | https://m.media-amazon.com/images/I/41iSdCtPFHL.jpg | https://m.media-amazon.com/images/I/21DT47i5OML.jpg | https://m.media-amazon.com/images/I/51VYnDbhTlL.jpg | https://m.media-amazon.com/images/I/41d-r65F4hL.jpg | https://m.media-amazon.com/images/I/51tCWomdH+L.jpg | https://m.media-amazon.com/images/I/41W1UoiNBLL.jpg | https://m.media-amazon.com/images/I/41bUh04i2DL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹19,027.00",
   "Model": "RPS18-0"
 }

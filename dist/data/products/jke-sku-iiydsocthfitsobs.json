@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31yTZcFRpML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qsx7sAOlL.jpg | https://m.media-amazon.com/images/I/3166NoqhLUL.jpg | https://m.media-amazon.com/images/I/416-Lv-wIYL.jpg | https://m.media-amazon.com/images/I/31yTZcFRpML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.55%",
   "SalePrice": "₹298.00",
   "Model": "E-2032_PLIER 13"
 }

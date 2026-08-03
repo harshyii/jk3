@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31H3Gal7rtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41S5a7H+cPL.jpg | https://m.media-amazon.com/images/I/219QqyQlQwL.jpg | https://m.media-amazon.com/images/I/31lqn7Q9yTL.jpg | https://m.media-amazon.com/images/I/418+Kf7LrjL.jpg | https://m.media-amazon.com/images/I/31H3Gal7rtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "2.82%",
   "SalePrice": "₹13,800.00",
   "Model": "ENL001"
 }

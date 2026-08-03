@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/51DwNDxe7kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7150qWmBY1L.jpg | https://m.media-amazon.com/images/I/41b9Adfhf7L.jpg | https://m.media-amazon.com/images/I/51DwNDxe7kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "59.41%",
   "SalePrice": "₹2,029.00",
   "Model": "HBP01028"
 }

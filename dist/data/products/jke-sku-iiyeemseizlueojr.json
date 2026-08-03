@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41VPre4tWfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710NIBCNSkL.jpg | https://m.media-amazon.com/images/I/51UF0DOiARL.jpg | https://m.media-amazon.com/images/I/41tyC8Q31WL.jpg | https://m.media-amazon.com/images/I/41DEfuxIs4L.jpg | https://m.media-amazon.com/images/I/41K4b1PGDDL.jpg | https://m.media-amazon.com/images/I/41VPre4tWfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "48%",
   "SalePrice": "₹4,487.00",
   "Model": "261957 carb"
 }

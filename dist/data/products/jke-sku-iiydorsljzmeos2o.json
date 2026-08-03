@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41dIWf7GKwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619ucaFR95L.jpg | https://m.media-amazon.com/images/I/514wCLbgkhL.jpg | https://m.media-amazon.com/images/I/5104Vrdn6lL.jpg | https://m.media-amazon.com/images/I/41l61tB8q-L.jpg | https://m.media-amazon.com/images/I/51-ivnKdaEL.jpg | https://m.media-amazon.com/images/I/41ewNzvksuL.jpg | https://m.media-amazon.com/images/I/51I9l03pEOL.jpg | https://m.media-amazon.com/images/I/41dIWf7GKwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹31,826.33",
   "Model": "DCF102Z",
   "Country": "USA"

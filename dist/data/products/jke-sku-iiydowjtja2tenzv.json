@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41CUqk6Q8lS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Gdwq4O5RS.jpg | https://m.media-amazon.com/images/I/41llVg5zddS.jpg | https://m.media-amazon.com/images/I/51GQDnqSX5L.jpg | https://m.media-amazon.com/images/I/51By34konDL.jpg | https://m.media-amazon.com/images/I/61KlLOXvRJS.jpg | https://m.media-amazon.com/images/I/41CUqk6Q8lS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.07%",
   "SalePrice": "₹9,499.00",
   "Model": "06016B30F0"
 }

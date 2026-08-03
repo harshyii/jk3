@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/419qta6-y9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41zeZjBRsmL.jpg | https://m.media-amazon.com/images/I/31YTNRgmpxL.jpg | https://m.media-amazon.com/images/I/31ovA+T51CL.jpg | https://m.media-amazon.com/images/I/519AWT4RfJL.jpg | https://m.media-amazon.com/images/I/419qta6-y9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "24.08%",
   "SalePrice": "₹8,040.00",
   "Model": "899-081-4090"
 }

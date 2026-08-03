@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41OLmSPBqwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61fgntARjdL.jpg | https://m.media-amazon.com/images/I/41OLmSPBqwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹4,999.00",
   "Model": "DV13VSS"
 }

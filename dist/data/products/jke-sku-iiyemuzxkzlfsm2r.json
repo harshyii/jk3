@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41HRmnrOL+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41SxGS0Gr2L.jpg | https://m.media-amazon.com/images/I/21v2zOBZAOL.jpg | https://m.media-amazon.com/images/I/21mlp0OJeDL.jpg | https://m.media-amazon.com/images/I/41RLYyK6TVL.jpg | https://m.media-amazon.com/images/I/31nY6zN9InL.jpg | https://m.media-amazon.com/images/I/41RM5v2AWcL.jpg | https://m.media-amazon.com/images/I/41HRmnrOL+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.47%",
   "SalePrice": "₹7,950.00",
   "Model": "2SPV-PURLIN-STD"
 }

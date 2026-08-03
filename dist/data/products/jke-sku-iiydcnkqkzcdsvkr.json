@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41GxuDRIlmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Msqks+X0L.jpg | https://m.media-amazon.com/images/I/417esS8B5QL.jpg | https://m.media-amazon.com/images/I/41ZeNRk7wLL.jpg | https://m.media-amazon.com/images/I/41zgOyOWAiL.jpg | https://m.media-amazon.com/images/I/41iXBlH7cHL.jpg | https://m.media-amazon.com/images/I/41k5gnuHSKL.jpg | https://m.media-amazon.com/images/I/31EiOqEaoNL.jpg | https://m.media-amazon.com/images/I/41GxuDRIlmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.8%",
   "SalePrice": "₹9,007.00",
   "Model": "BL1850B"
 }

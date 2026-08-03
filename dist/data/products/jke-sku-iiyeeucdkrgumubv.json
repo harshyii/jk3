@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41qeE2wjk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51LlmnqyJZL.jpg | https://m.media-amazon.com/images/I/31taUeWOtPL.jpg | https://m.media-amazon.com/images/I/41J5zCXNnUL.jpg | https://m.media-amazon.com/images/I/41qeE2wjk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "26%",
   "SalePrice": "₹29,599.00",
   "Model": "Inverlast ILTT26060 220Ah",
   "Country": "India"

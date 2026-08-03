@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51TeCU0OSBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71YMxOF-UtL.jpg | https://m.media-amazon.com/images/I/41vg+4g2v3L.jpg | https://m.media-amazon.com/images/I/51qrYJCgTuL.jpg | https://m.media-amazon.com/images/I/41-rbYK1cuL.jpg | https://m.media-amazon.com/images/I/51WK0dTqFvL.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg | https://m.media-amazon.com/images/I/51TeCU0OSBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.05%",
   "SalePrice": "₹2,171.00",
   "Model": "BES603-IN"
 }

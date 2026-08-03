@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/511VX7uLlyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71f82thRwkL.jpg | https://m.media-amazon.com/images/I/51N6HWP-hTL.jpg | https://m.media-amazon.com/images/I/51DnR7P4XOL.jpg | https://m.media-amazon.com/images/I/411uYgS8aFL.jpg | https://m.media-amazon.com/images/I/31fl9JvV3LL.jpg | https://m.media-amazon.com/images/I/41vzvWc5zjL.jpg | https://m.media-amazon.com/images/I/51T1dHQwcvL.jpg | https://m.media-amazon.com/images/I/511VX7uLlyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,714.73",
   "Model": "EZ472SA",
   "Country": "USA"

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51PQ3hyBklL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616+b1xYCNL.jpg | https://m.media-amazon.com/images/I/41qa3ORLUYL.jpg | https://m.media-amazon.com/images/I/51PQ3hyBklL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹8,000.00",
   "Model": "COS223589"
 }

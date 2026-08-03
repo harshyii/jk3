@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51LlJbElnoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610-nfmKIZL.jpg | https://m.media-amazon.com/images/I/41SWr6cGgVL.jpg | https://m.media-amazon.com/images/I/51ev-Fsb+9L.jpg | https://m.media-amazon.com/images/I/51LlJbElnoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "52.68%",
   "SalePrice": "₹18,907.46",
   "Model": "HOL_201"
 }

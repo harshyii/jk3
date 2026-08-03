@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Dhkc+sU5L.jpg | https://m.media-amazon.com/images/I/41G4YpujZML.jpg | https://m.media-amazon.com/images/I/41VHb0+Ga8L.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.00 Piece",
-  "Discount": 0,
+  "Discount": "16.36%",
   "SalePrice": "₹920.00",
   "Model": "SCP-180",
   "Country": "India"

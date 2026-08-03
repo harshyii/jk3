@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41eHaWeby0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81UB-PJbWGL.jpg | https://m.media-amazon.com/images/I/41eHaWeby0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.04%",
   "SalePrice": "₹5,068.86",
   "Model": "903209066 902164002"
 }

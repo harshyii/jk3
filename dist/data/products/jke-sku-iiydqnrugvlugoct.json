@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31sVzyCgE2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41nZqKXwqoL.jpg | https://m.media-amazon.com/images/I/31bXTq+ezUL.jpg | https://m.media-amazon.com/images/I/41-T9b4909L.jpg | https://m.media-amazon.com/images/I/41lZ2Y34m5L.jpg | https://m.media-amazon.com/images/I/41d2xYDgIIL.jpg | https://m.media-amazon.com/images/I/31vZo5EZyvL.jpg | https://m.media-amazon.com/images/I/31L2k08CXhL.jpg | https://m.media-amazon.com/images/I/31sVzyCgE2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.55%",
   "SalePrice": "₹10,633.00",
   "Model": "D25033K"
 }

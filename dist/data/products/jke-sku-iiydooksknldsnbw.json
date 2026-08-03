@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31igcvm+3aL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81NPUANNKNL.jpg | https://m.media-amazon.com/images/I/41NEaCbyKbL.jpg | https://m.media-amazon.com/images/I/412Ld110oJL.jpg | https://m.media-amazon.com/images/I/41MqreQ9NVL.jpg | https://m.media-amazon.com/images/I/31wLnRgh2TL.jpg | https://m.media-amazon.com/images/I/319TEsCjAWL.jpg | https://m.media-amazon.com/images/I/31A5b7odQUL.jpg | https://m.media-amazon.com/images/I/31igcvm+3aL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "14.72%",
   "SalePrice": "₹13,440.00",
   "Model": "45593"
 }

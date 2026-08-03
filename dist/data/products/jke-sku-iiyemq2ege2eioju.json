@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51xz2zkLGnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511R64il3DL.jpg | https://m.media-amazon.com/images/I/31zqPKuC4qL.jpg | https://m.media-amazon.com/images/I/51XliNnyf8L.jpg | https://m.media-amazon.com/images/I/41vHZRhlLyL.jpg | https://m.media-amazon.com/images/I/51QyKxE605L.jpg | https://m.media-amazon.com/images/I/51xz2zkLGnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.19%",
   "SalePrice": "₹8,999.00",
   "Model": "Solar Smart 1400 (1000VA-12V)"
 }

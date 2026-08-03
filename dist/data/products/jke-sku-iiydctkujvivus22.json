@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51F5-Upd5wL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710m1EXSX2L.jpg | https://m.media-amazon.com/images/I/41h8b6tX2LL.jpg | https://m.media-amazon.com/images/I/51B2cw062VL.jpg | https://m.media-amazon.com/images/I/51jNuXnfEJL.jpg | https://m.media-amazon.com/images/I/517KCspZf9L.jpg | https://m.media-amazon.com/images/I/514qrhQXVKL.jpg | https://m.media-amazon.com/images/I/51vw65rsYKL.jpg | https://m.media-amazon.com/images/I/51F5-Upd5wL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "16.0 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,697.83",
   "Model": "TVD11116SW",
   "Country": "USA"

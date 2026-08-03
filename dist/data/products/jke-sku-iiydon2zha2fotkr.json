@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/4103NDgNaXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Sc0d4WO4L.jpg | https://m.media-amazon.com/images/I/41BnwDAIu8L.jpg | https://m.media-amazon.com/images/I/31E3b83YBwL.jpg | https://m.media-amazon.com/images/I/61HjsQUi13L.jpg | https://m.media-amazon.com/images/I/41o-gbs94OL.jpg | https://m.media-amazon.com/images/I/31HFH+fE8vL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/4103NDgNaXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.57%",
   "SalePrice": "₹12,350.00",
   "Model": "D25133K-IN"
 }

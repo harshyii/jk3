@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71iyKA4vqSL.jpg | https://m.media-amazon.com/images/I/31mVHlKFZRL.jpg | https://m.media-amazon.com/images/I/41UUGfd5oML.jpg | https://m.media-amazon.com/images/I/31pQk2Oa5vL.jpg | https://m.media-amazon.com/images/I/314YlE1TjIL.jpg | https://m.media-amazon.com/images/I/41GnIJCDCFL.jpg | https://m.media-amazon.com/images/I/41QUqkjCJtL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "48.9%",
   "SalePrice": "₹255.00",
   "Model": "FB30",
   "Country": "India"

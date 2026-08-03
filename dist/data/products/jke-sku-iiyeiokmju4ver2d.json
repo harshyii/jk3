@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/513Rp62+z4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XPeaVnu+L.jpg | https://m.media-amazon.com/images/I/51xLFY24dyL.jpg | https://m.media-amazon.com/images/I/514GpFU58hL.jpg | https://m.media-amazon.com/images/I/41umUtkDh7L.jpg | https://m.media-amazon.com/images/I/513Rp62+z4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "63.41%",
   "SalePrice": "₹1,829.00",
   "Model": "AJB DCDB"
 }

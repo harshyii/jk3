@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41PtYOc40QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714jJrdvdRL.jpg | https://m.media-amazon.com/images/I/418S8TU7nzL.jpg | https://m.media-amazon.com/images/I/51JbxKTH0rL.jpg | https://m.media-amazon.com/images/I/31tsB1MHkLL.jpg | https://m.media-amazon.com/images/I/41iZffcF6TL.jpg | https://m.media-amazon.com/images/I/31kZq17AurL.jpg | https://m.media-amazon.com/images/I/41PtYOc40QL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.18%",
   "SalePrice": "₹14,117.00",
   "Model": "DT70751-QZ"
 }

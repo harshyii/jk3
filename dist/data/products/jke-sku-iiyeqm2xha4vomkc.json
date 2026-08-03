@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31xrOYT6PUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51f1SmICPJL.jpg | https://m.media-amazon.com/images/I/31xrOYT6PUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "5%",
   "SalePrice": "₹285.00",
   "Model": "Yuri-sds-14x160",
   "Country": "China"

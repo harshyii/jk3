@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51uqtxi4RNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ETqssPc2L.jpg | https://m.media-amazon.com/images/I/41vl1SDcYHL.jpg | https://m.media-amazon.com/images/I/41I2hxyF3XL.jpg | https://m.media-amazon.com/images/I/51BQZxEm+BL.jpg | https://m.media-amazon.com/images/I/51NTpCfhqpL.jpg | https://m.media-amazon.com/images/I/51xTHrbKp0L.jpg | https://m.media-amazon.com/images/I/51d93JWqQ1L.jpg | https://m.media-amazon.com/images/I/51uqtxi4RNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.01%",
   "SalePrice": "₹3,199.00",
   "Model": "STIW-21"
 }

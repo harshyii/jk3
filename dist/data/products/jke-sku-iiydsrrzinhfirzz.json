@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/31SAJhVEteL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51zDuLUG2TL.jpg | https://m.media-amazon.com/images/I/31+TGyzDZIL.jpg | https://m.media-amazon.com/images/I/51untHLQACL.jpg | https://m.media-amazon.com/images/I/31ubTDBZdGL.jpg | https://m.media-amazon.com/images/I/41k+VsLR8EL.jpg | https://m.media-amazon.com/images/I/31C+FvN3dSL.jpg | https://m.media-amazon.com/images/I/31SAJhVEteL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.78%",
   "SalePrice": "₹284.00",
   "Model": "E-2264_BCP"
 }

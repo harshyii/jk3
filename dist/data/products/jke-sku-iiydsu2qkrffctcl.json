@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/418Cb3Jn9rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71W5zcycJXL.jpg | https://m.media-amazon.com/images/I/41DbdEq-72L.jpg | https://m.media-amazon.com/images/I/41scwwYHP9L.jpg | https://m.media-amazon.com/images/I/41DF8WHM6SL.jpg | https://m.media-amazon.com/images/I/51qqHk-kLeL.jpg | https://m.media-amazon.com/images/I/51bq3iE8e1L.jpg | https://m.media-amazon.com/images/I/516duQ7THBL.jpg | https://m.media-amazon.com/images/I/418Cb3Jn9rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.38%",
   "SalePrice": "₹447.00",
   "Model": "B09SPTJQLK"
 }

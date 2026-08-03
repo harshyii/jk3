@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51giXLLKHUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71B15OIxYSL.jpg | https://m.media-amazon.com/images/I/31SypQ-vCnL.jpg | https://m.media-amazon.com/images/I/41seo-D8CML.jpg | https://m.media-amazon.com/images/I/51ZDQ4LtHHL.jpg | https://m.media-amazon.com/images/I/41ZYpmkWZVL.jpg | https://m.media-amazon.com/images/I/51gDAQP6ilL.jpg | https://m.media-amazon.com/images/I/51giXLLKHUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.07%",
   "SalePrice": "₹2,027.00",
   "Model": "BED550-IN"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51tabHSBS-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Tdoml0eWL.jpg | https://m.media-amazon.com/images/I/31k9yvlilXL.jpg | https://m.media-amazon.com/images/I/41ba+YzgzFL.jpg | https://m.media-amazon.com/images/I/51w9K0lSAFL.jpg | https://m.media-amazon.com/images/I/51y7eqdLJ7L.jpg | https://m.media-amazon.com/images/I/51tabHSBS-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.47%",
   "SalePrice": "₹12,025.00",
   "Model": "M1502424JT"
 }

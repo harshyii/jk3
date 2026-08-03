@@ -33,9 +33,9 @@
     "https://m.media-amazon.com/images/I/41zcWFYjNWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41zcWFYjNWL.jpg | https://m.media-amazon.com/images/I/41zcWFYjNWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "2.62%",
   "SalePrice": "₹856.00",
   "Model": "1103053_AD",
   "Country": "Germany"

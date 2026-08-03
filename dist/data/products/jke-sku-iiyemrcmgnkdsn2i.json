@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41RQCBnWHfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6143JKZjlKL.jpg | https://m.media-amazon.com/images/I/41Q7XuyRtBL.jpg | https://m.media-amazon.com/images/I/41xCfi3iCZL.jpg | https://m.media-amazon.com/images/I/41AYxYsVVQL.jpg | https://m.media-amazon.com/images/I/41oP1HpBzSL.jpg | https://m.media-amazon.com/images/I/41fNje2geuL.jpg | https://m.media-amazon.com/images/I/41pGREh8qzL.jpg | https://m.media-amazon.com/images/I/41RQCBnWHfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.58%",
   "SalePrice": "₹2,899.00",
   "Model": "12V BRUSHLESS"
 }

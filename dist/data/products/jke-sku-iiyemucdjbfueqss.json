@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51d8zUwCCeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aP-CZEKRL.jpg | https://m.media-amazon.com/images/I/41R7wSL9JVL.jpg | https://m.media-amazon.com/images/I/41qk9lYhb2L.jpg | https://m.media-amazon.com/images/I/51pBhNLpKNL.jpg | https://m.media-amazon.com/images/I/51bTOrY47XL.jpg | https://m.media-amazon.com/images/I/41c6CLDXpBL.jpg | https://m.media-amazon.com/images/I/51Pd+Z123zL.jpg | https://m.media-amazon.com/images/I/51d8zUwCCeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.55%",
   "SalePrice": "₹499.00",
   "Model": "5313",
   "Country": "India"

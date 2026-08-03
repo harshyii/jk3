@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51E3nrvD5lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81eDvjS+DtL.jpg | https://m.media-amazon.com/images/I/41nk7qgKWBL.jpg | https://m.media-amazon.com/images/I/51CgyrKHL7L.jpg | https://m.media-amazon.com/images/I/51aPeI+LELL.jpg | https://m.media-amazon.com/images/I/51qtQoHodlL.jpg | https://m.media-amazon.com/images/I/41Glu8-j4xL.jpg | https://m.media-amazon.com/images/I/41JwRUP5JML.jpg | https://m.media-amazon.com/images/I/51E3nrvD5lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "4 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹8,046.75",
   "Model": "BDXPA0060",
   "Country": "USA"

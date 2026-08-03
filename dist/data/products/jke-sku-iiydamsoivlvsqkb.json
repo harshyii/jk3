@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41umYzosg5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Am6f4z0+L.jpg | https://m.media-amazon.com/images/I/51G3695H3pL.jpg | https://m.media-amazon.com/images/I/41YEFCeVTUL.jpg | https://m.media-amazon.com/images/I/413FDzg5muL.jpg | https://m.media-amazon.com/images/I/313G7mhbooL.jpg | https://m.media-amazon.com/images/I/51GU1AVoPcL.jpg | https://m.media-amazon.com/images/I/41umYzosg5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.66%",
   "SalePrice": "₹1,089.00",
   "Model": "03024"
 }

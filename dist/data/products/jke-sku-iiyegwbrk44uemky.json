@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41jzR3DgI4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61p4aYYCoUL.jpg | https://m.media-amazon.com/images/I/41u5WBqGLwL.jpg | https://m.media-amazon.com/images/I/41rDyCOdKIL.jpg | https://m.media-amazon.com/images/I/41sr7IEroDL.jpg | https://m.media-amazon.com/images/I/41GZFf40IKL.jpg | https://m.media-amazon.com/images/I/51wMYXOxmOL.jpg | https://m.media-amazon.com/images/I/41jzR3DgI4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Case",
-  "Discount": 0,
+  "Discount": "50.81%",
   "SalePrice": "₹2,459.00",
   "Model": "8A"
 }

@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31G0P41WFrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/413Iufmbd4L.jpg | https://m.media-amazon.com/images/I/31Pqf8cwNmL.jpg | https://m.media-amazon.com/images/I/31G0P41WFrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.78%",
   "SalePrice": "₹280.00",
   "Model": "E-2023_6/150"
 }

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41AWqVJ3DTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51s1ClH96iL.jpg | https://m.media-amazon.com/images/I/31FITBq9+pL.jpg | https://m.media-amazon.com/images/I/41+8DLDHwpL.jpg | https://m.media-amazon.com/images/I/31r-ixqUvJL.jpg | https://m.media-amazon.com/images/I/31vIDyXQhBL.jpg | https://m.media-amazon.com/images/I/41AWqVJ3DTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "48.33%",
   "SalePrice": "₹3,100.00",
   "Model": "XPT-544"
 }

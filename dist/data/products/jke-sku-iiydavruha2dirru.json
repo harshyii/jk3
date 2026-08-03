@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51gJHuCcDYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fkqGZesqL.jpg | https://m.media-amazon.com/images/I/41hpFW0FFPL.jpg | https://m.media-amazon.com/images/I/51Rq0PvuaRL.jpg | https://m.media-amazon.com/images/I/51iqPHp4TsL.jpg | https://m.media-amazon.com/images/I/51AOsYWjspL.jpg | https://m.media-amazon.com/images/I/51F6354vlaL.jpg | https://m.media-amazon.com/images/I/51mYKVt5ZYL.jpg | https://m.media-amazon.com/images/I/51gJHuCcDYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "62.41%",
   "SalePrice": "₹19,166.09",
   "Model": "L02M100-1"
 }

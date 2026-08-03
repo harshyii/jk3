@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41UYTCxK9mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Z5actpMaL.jpg | https://m.media-amazon.com/images/I/41XN-3A2ZqL.jpg | https://m.media-amazon.com/images/I/518amsbySXL.jpg | https://m.media-amazon.com/images/I/51uB8VqGFbL.jpg | https://m.media-amazon.com/images/I/51W61ioVkLL.jpg | https://m.media-amazon.com/images/I/41UYTCxK9mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60.64%",
   "SalePrice": "₹590.00",
   "Model": "XP230CP",
   "Country": "China"

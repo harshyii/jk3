@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41vc3+l++WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71RaGu5ba1L.jpg | https://m.media-amazon.com/images/I/31D-fl568OL.jpg | https://m.media-amazon.com/images/I/41vc3+l++WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹556.50",
   "Model": "31751"
 }

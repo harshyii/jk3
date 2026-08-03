@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51seL1uAj3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gpIQGgIzL.jpg | https://m.media-amazon.com/images/I/31vw4O1HR+L.jpg | https://m.media-amazon.com/images/I/41VbfcWsbgL.jpg | https://m.media-amazon.com/images/I/31nQnUUNKIL.jpg | https://m.media-amazon.com/images/I/31iZXCuh39L.jpg | https://m.media-amazon.com/images/I/51seL1uAj3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.53%",
   "SalePrice": "₹2,445.00",
   "Model": "DSJ02-25"
 }

@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41k8iztJjxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81tSAK3cboL.jpg | https://m.media-amazon.com/images/I/41k8iztJjxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "44.52%",
   "SalePrice": "₹33,279.51",
   "Model": "899-101-6501"
 }

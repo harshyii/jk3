@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/31b+DtcJmPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619YtcTbxJL.jpg | https://m.media-amazon.com/images/I/31pHQcIHSsL.jpg | https://m.media-amazon.com/images/I/51dTsOBPFJL.jpg | https://m.media-amazon.com/images/I/31vw4s3fALL.jpg | https://m.media-amazon.com/images/I/31GRw8l7Z0L.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/31b+DtcJmPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "26.55%",
   "SalePrice": "₹13,489.00",
   "Model": "DCMBA572N-XJ"
 }

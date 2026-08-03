@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41HnchBaC9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616qyvIleuL.jpg | https://m.media-amazon.com/images/I/31gVTyimYVL.jpg | https://m.media-amazon.com/images/I/31cOZU4LFQL.jpg | https://m.media-amazon.com/images/I/31KigX0ennL.jpg | https://m.media-amazon.com/images/I/511DUol9BnL.jpg | https://m.media-amazon.com/images/I/31L4DxA8WFL.jpg | https://m.media-amazon.com/images/I/41HnchBaC9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.12%",
   "SalePrice": "₹205.00",
   "Model": "DP_462_Mini_Hammer"
 }

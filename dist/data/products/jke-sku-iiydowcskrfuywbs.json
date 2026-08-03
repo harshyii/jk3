@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/21fqpHyT5oL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91bW-2ef73L.jpg | https://m.media-amazon.com/images/I/51vbrCcFaYL.jpg | https://m.media-amazon.com/images/I/31IwgaICrpL.jpg | https://m.media-amazon.com/images/I/31rPn8phK2L.jpg | https://m.media-amazon.com/images/I/31fVAnbOJAL.jpg | https://m.media-amazon.com/images/I/21bcZRJ2RmL.jpg | https://m.media-amazon.com/images/I/21fqpHyT5oL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "70.01%",
   "SalePrice": "₹2,099.00",
   "Model": "IZ-CDS12"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51+NhnKcseL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713CXlYLbfL.jpg | https://m.media-amazon.com/images/I/514xdv6hR5L.jpg | https://m.media-amazon.com/images/I/61pgiojv-DL.jpg | https://m.media-amazon.com/images/I/61c6uL8WSKL.jpg | https://m.media-amazon.com/images/I/61io0mnCGbL.jpg | https://m.media-amazon.com/images/I/61G0xMShqrL.jpg | https://m.media-amazon.com/images/I/517LDx9w7WL.jpg | https://m.media-amazon.com/images/I/51+NhnKcseL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "125.0 Milliliters",
-  "Discount": 0,
+  "Discount": "0.1%",
   "SalePrice": "₹999.00",
   "Model": "Wax Shampoo",
   "Country": "India"

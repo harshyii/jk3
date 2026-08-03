@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/313az4gNnVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mRThRlARL.jpg | https://m.media-amazon.com/images/I/31Wh0G9YpYL.jpg | https://m.media-amazon.com/images/I/411avFGZ0GL.jpg | https://m.media-amazon.com/images/I/41WHZ88d+PL.jpg | https://m.media-amazon.com/images/I/51lvbtYqYcL.jpg | https://m.media-amazon.com/images/I/41w7+vA0ZJL.jpg | https://m.media-amazon.com/images/I/41CFqKsDHlL.jpg | https://m.media-amazon.com/images/I/313az4gNnVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "46.96%",
   "SalePrice": "₹9,182.00",
   "Model": "NSE-DCD60091624"
 }

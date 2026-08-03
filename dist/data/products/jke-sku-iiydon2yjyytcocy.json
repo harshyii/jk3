@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51wm1CeP6yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711tWDmNvYL.jpg | https://m.media-amazon.com/images/I/41nu0EJO2fL.jpg | https://m.media-amazon.com/images/I/41r8R7CQhTL.jpg | https://m.media-amazon.com/images/I/51Fph3x-CvL.jpg | https://m.media-amazon.com/images/I/51tk6SZsxoL.jpg | https://m.media-amazon.com/images/I/41NS-PT571L.jpg | https://m.media-amazon.com/images/I/51c0okbfPJL.jpg | https://m.media-amazon.com/images/I/51wm1CeP6yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹4,735.50",
   "Model": "DPV/UG/100"
 }

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41i4Mxph-SL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61IHnldAwEL.jpg | https://m.media-amazon.com/images/I/41Y9C5aLJGL.jpg | https://m.media-amazon.com/images/I/41Yr9X9qoYL.jpg | https://m.media-amazon.com/images/I/51kmR6AU1KL.jpg | https://m.media-amazon.com/images/I/51EBKqog85L.jpg | https://m.media-amazon.com/images/I/41d5IQC4GBL.jpg | https://m.media-amazon.com/images/I/41TWtxnOfQL.jpg | https://m.media-amazon.com/images/I/41i4Mxph-SL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "51.38%",
   "SalePrice": "₹1,799.00",
   "Model": "XE-CD1210-SB"
 }

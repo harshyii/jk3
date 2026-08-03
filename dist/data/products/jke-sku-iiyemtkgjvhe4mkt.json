@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41U8OJWlQRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Fy1S2ZirL.jpg | https://m.media-amazon.com/images/I/41z5GfmEcaL.jpg | https://m.media-amazon.com/images/I/41U8OJWlQRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "29.8%",
   "SalePrice": "₹3,510.00",
   "Model": "PT-006",
   "Country": "India"

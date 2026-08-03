@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/3185IZV+-0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715MYaH83zL.jpg | https://m.media-amazon.com/images/I/51Z0285hHQL.jpg | https://m.media-amazon.com/images/I/51jC0Nh+orL.jpg | https://m.media-amazon.com/images/I/41x6aVhuMDL.jpg | https://m.media-amazon.com/images/I/31uwGETkTyL.jpg | https://m.media-amazon.com/images/I/41trFLG3QmL.jpg | https://m.media-amazon.com/images/I/31C5QJwOsAL.jpg | https://m.media-amazon.com/images/I/3185IZV+-0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "72.5%",
   "SalePrice": "₹22,000.00",
   "Model": "Loom-solar-440w"
 }

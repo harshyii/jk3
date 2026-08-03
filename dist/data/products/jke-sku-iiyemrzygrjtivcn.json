@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41VO0arC6zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EIv11-COL.jpg | https://m.media-amazon.com/images/I/41bDmhvqmeL.jpg | https://m.media-amazon.com/images/I/41HrybGqdrL.jpg | https://m.media-amazon.com/images/I/41MLQnwuQAL.jpg | https://m.media-amazon.com/images/I/510NaDDqqzL.jpg | https://m.media-amazon.com/images/I/41jJj+99VlL.jpg | https://m.media-amazon.com/images/I/41S6DF6af5L.jpg | https://m.media-amazon.com/images/I/41VO0arC6zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "59.72%",
   "SalePrice": "₹201.00",
   "Model": "GT"
 }

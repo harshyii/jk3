@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31R9NoLLnCS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81iDi7kBpAS.jpg | https://m.media-amazon.com/images/I/41NpkkDGBdS.jpg | https://m.media-amazon.com/images/I/41I83C-p19S.jpg | https://m.media-amazon.com/images/I/413XUnrMmGS.jpg | https://m.media-amazon.com/images/I/412vVlro8hS.jpg | https://m.media-amazon.com/images/I/31R9NoLLnCS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.73%",
   "SalePrice": "₹679.00",
   "Model": "33486"
 }

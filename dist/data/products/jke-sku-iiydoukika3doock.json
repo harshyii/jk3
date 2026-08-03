@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41XFOLatX1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61XYu7dfwnL.jpg | https://m.media-amazon.com/images/I/31RBIuR4R+L.jpg | https://m.media-amazon.com/images/I/41bXXYuoUNL.jpg | https://m.media-amazon.com/images/I/31hWxYXLa0L.jpg | https://m.media-amazon.com/images/I/318iyxDmoUL.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹20,661.35",
   "Model": "P592"
 }

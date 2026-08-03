@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41xCWTdwR8S.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7108CkcgnIL.jpg | https://m.media-amazon.com/images/I/31XNLfvLoDL.jpg | https://m.media-amazon.com/images/I/31h3WZA9ZNS.jpg | https://m.media-amazon.com/images/I/41ceBJr76+S.jpg | https://m.media-amazon.com/images/I/41ta3rUY92S.jpg | https://m.media-amazon.com/images/I/41UcoiW2X+S.jpg | https://m.media-amazon.com/images/I/41xCWTdwR8S.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.68%",
   "SalePrice": "₹1,074.00",
   "Model": "TW/R/5-16"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31QgyIj4MtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7124t3a-moL.jpg | https://m.media-amazon.com/images/I/31NGhZpq4cL.jpg | https://m.media-amazon.com/images/I/319z8YQN5hL.jpg | https://m.media-amazon.com/images/I/314sDDjII9L.jpg | https://m.media-amazon.com/images/I/31X6XymPliL.jpg | https://m.media-amazon.com/images/I/31hfVo7mFTL.jpg | https://m.media-amazon.com/images/I/31rB0xPDajL.jpg | https://m.media-amazon.com/images/I/31QgyIj4MtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "310.0 Milliliters",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹9,460.00",
   "Model": "53090"
 }

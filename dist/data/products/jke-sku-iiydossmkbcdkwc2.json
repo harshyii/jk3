@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41O+-qAM-CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81SyDhs9U8L.jpg | https://m.media-amazon.com/images/I/41zIbzO+PEL.jpg | https://m.media-amazon.com/images/I/416qoRJeqfL.jpg | https://m.media-amazon.com/images/I/41vwVvrBmoL.jpg | https://m.media-amazon.com/images/I/51DiUtnHasL.jpg | https://m.media-amazon.com/images/I/41O+-qAM-CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.67%",
   "SalePrice": "₹3,299.00",
   "Model": "06012A80F0"
 }

@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41c-Y7P4W+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+Bh5W2orL.jpg | https://m.media-amazon.com/images/I/31eRbMr1TqL.jpg | https://m.media-amazon.com/images/I/41c-C0uai6L.jpg | https://m.media-amazon.com/images/I/41CQaoMWybL.jpg | https://m.media-amazon.com/images/I/412Xq8B7MuL.jpg | https://m.media-amazon.com/images/I/415LrvTsiZL.jpg | https://m.media-amazon.com/images/I/41c-Y7P4W+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.98%",
   "SalePrice": "₹3,699.00",
   "Model": "Instanio"
 }

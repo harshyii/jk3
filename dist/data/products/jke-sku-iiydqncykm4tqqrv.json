@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41c8zpUhJpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81j2RPSMnNL.jpg | https://m.media-amazon.com/images/I/510BvbeC7ZL.jpg | https://m.media-amazon.com/images/I/51s+PULllML.jpg | https://m.media-amazon.com/images/I/31pzrIhwtZL.jpg | https://m.media-amazon.com/images/I/41c8zpUhJpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "26.46 Ounce",
-  "Discount": 0,
+  "Discount": "22.66%",
   "SalePrice": "₹9,021.34",
   "Country": "USA"
 }

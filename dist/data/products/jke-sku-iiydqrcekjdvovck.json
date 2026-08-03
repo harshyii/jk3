@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/31ZBf57DxNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Oe2wHdeuL.jpg | https://m.media-amazon.com/images/I/31f45f627nL.jpg | https://m.media-amazon.com/images/I/414g8BzveIL.jpg | https://m.media-amazon.com/images/I/41FKyeOcfzL.jpg | https://m.media-amazon.com/images/I/41n0W-irQWL.jpg | https://m.media-amazon.com/images/I/31ZBf57DxNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "33.44%",
   "SalePrice": "₹199.00",
   "Model": "USBC100T",
   "Country": "India"

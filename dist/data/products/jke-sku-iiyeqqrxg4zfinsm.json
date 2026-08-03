@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/41SSBAfVrQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ff2W86B7L.jpg | https://m.media-amazon.com/images/I/41W1qLLf81L.jpg | https://m.media-amazon.com/images/I/41eknUTgwEL.jpg | https://m.media-amazon.com/images/I/417l2o9lPIL.jpg | https://m.media-amazon.com/images/I/41SSBAfVrQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.68%",
   "SalePrice": "₹926.00",
   "Model": "Bdc-sw-v01",
   "Country": "India"

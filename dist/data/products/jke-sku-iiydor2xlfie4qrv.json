@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41V078YpUQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51aNtooC6zL.jpg | https://m.media-amazon.com/images/I/31E2Og9vxWL.jpg | https://m.media-amazon.com/images/I/41+gOvBiD3L.jpg | https://m.media-amazon.com/images/I/41gAuTE+T6L.jpg | https://m.media-amazon.com/images/I/31lco5tfXQL.jpg | https://m.media-amazon.com/images/I/41b6g4UFDLL.jpg | https://m.media-amazon.com/images/I/41V078YpUQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.85%",
   "SalePrice": "₹18,699.00",
   "Model": "Eco-Volt-850-RC18000ST"
 }

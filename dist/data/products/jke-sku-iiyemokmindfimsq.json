@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31CKDuM-cwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71g6IhPCIlL.jpg | https://m.media-amazon.com/images/I/41iBWfTHAnL.jpg | https://m.media-amazon.com/images/I/31CKDuM-cwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "32.97%",
   "SalePrice": "₹1,870.00",
   "Model": "517654-1"
 }

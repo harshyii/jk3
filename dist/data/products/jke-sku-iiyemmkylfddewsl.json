@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41kEEvQ8VhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81gvNE2nb+L.jpg | https://m.media-amazon.com/images/I/41JPvRp5VwL.jpg | https://m.media-amazon.com/images/I/61RfzfGvfDL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/411uBe33HiL.jpg | https://m.media-amazon.com/images/I/51Bi00NXJGL.jpg | https://m.media-amazon.com/images/I/51dIaMg8VtL.jpg | https://m.media-amazon.com/images/I/41bdXfcWOaL.jpg | https://m.media-amazon.com/images/I/41kEEvQ8VhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.06%",
   "SalePrice": "₹299.00",
   "Country": "‎China"
 }

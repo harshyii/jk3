@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/51zUsWol6RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81EN8RuL2HL.jpg | https://m.media-amazon.com/images/I/51zUsWol6RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.57%",
   "SalePrice": "₹5,929.00",
   "Model": "CJSLI1008"
 }

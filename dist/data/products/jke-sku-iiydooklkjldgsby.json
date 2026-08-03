@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41xpK3zY4sL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718HqSeI1JL.jpg | https://m.media-amazon.com/images/I/51ZYiAVyD1L.jpg | https://m.media-amazon.com/images/I/61-Ch+SAJ8L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41jT2eNqUGL.jpg | https://m.media-amazon.com/images/I/41xpK3zY4sL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Count",
-  "Discount": 0,
+  "Discount": "19.65%",
   "SalePrice": "₹1,446.25",
   "Model": "AA86"
 }

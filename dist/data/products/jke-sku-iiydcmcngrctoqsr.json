@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41aRs8MIssL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51SWHGFME2L.jpg | https://m.media-amazon.com/images/I/212xe0iTqaL.jpg | https://m.media-amazon.com/images/I/41Z0VgyIkfL.jpg | https://m.media-amazon.com/images/I/41C6Kt+MMTL.jpg | https://m.media-amazon.com/images/I/41aRs8MIssL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "5%",
   "SalePrice": "₹361.00",
   "Model": "BSL260M"
 }

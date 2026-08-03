@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51NXGXroFTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81QH5vwD9ML.jpg | https://m.media-amazon.com/images/I/51Ing3AgEEL.jpg | https://m.media-amazon.com/images/I/51NXGXroFTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹12,251.63",
   "Model": "A25R151",
   "Country": "USA"

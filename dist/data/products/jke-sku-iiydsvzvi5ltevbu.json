@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41pKciDmJoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pKciDmJoL.jpg | https://m.media-amazon.com/images/I/41pKciDmJoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "17.23%",
   "SalePrice": "₹3,311.00",
   "Model": "DCA Z1E-FF03-110 Cutter"
 }

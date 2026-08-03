@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41u+M3rjcNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61fJEv0C7JL.jpg | https://m.media-amazon.com/images/I/41Wxd+YKQOL.jpg | https://m.media-amazon.com/images/I/51RQKjqBHjL.jpg | https://m.media-amazon.com/images/I/41u+M3rjcNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "20.63%",
   "SalePrice": "₹18,699.00",
   "Model": "Power sine 1100+RC15000+Trolley",
   "Country": "India"

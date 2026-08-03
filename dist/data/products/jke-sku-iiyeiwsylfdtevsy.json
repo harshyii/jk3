@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/31vHJ3X6h+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51oY4lxSP9L.jpg | https://m.media-amazon.com/images/I/31mdVJ46I2L.jpg | https://m.media-amazon.com/images/I/31oepT8QF4L.jpg | https://m.media-amazon.com/images/I/31gQH-L99fL.jpg | https://m.media-amazon.com/images/I/31vHJ3X6h+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "20 Count",
-  "Discount": 0,
+  "Discount": "58.98%",
   "SalePrice": "₹2,256.00",
   "Model": "LHLDDDBNL5R012P20"
 }

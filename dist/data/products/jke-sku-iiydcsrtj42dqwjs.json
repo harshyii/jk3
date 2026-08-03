@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51+CjIT44qL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71vYADSXLVL.jpg | https://m.media-amazon.com/images/I/51MHf3+n8eL.jpg | https://m.media-amazon.com/images/I/41eMmlZDGLL.jpg | https://m.media-amazon.com/images/I/51JigUf1aIL.jpg | https://m.media-amazon.com/images/I/51sUBQ-XRWL.jpg | https://m.media-amazon.com/images/I/51UB4Z1eppL.jpg | https://m.media-amazon.com/images/I/419Wn1htrQL.jpg | https://m.media-amazon.com/images/I/51+CjIT44qL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "12.79%",
   "SalePrice": "₹4,500.00",
   "Country": "India"
 }

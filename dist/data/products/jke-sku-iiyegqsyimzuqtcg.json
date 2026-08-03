@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51LYyOSf3dL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61HrzJxpEdL.jpg | https://m.media-amazon.com/images/I/41fWJME7mxL.jpg | https://m.media-amazon.com/images/I/41PwjA3RnIL.jpg | https://m.media-amazon.com/images/I/51LYyOSf3dL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "17.74%",
   "SalePrice": "₹3,899.00",
   "Model": "752817Z",
   "Country": "China"

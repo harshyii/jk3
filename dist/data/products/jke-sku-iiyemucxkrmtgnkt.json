@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31Gk3j3UQGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bwAtU-3-L.jpg | https://m.media-amazon.com/images/I/31v-08IfAML.jpg | https://m.media-amazon.com/images/I/31s5zXsuRmL.jpg | https://m.media-amazon.com/images/I/31UJy5+fwHL.jpg | https://m.media-amazon.com/images/I/31Gk3j3UQGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.6%",
   "SalePrice": "₹309.00",
   "Model": "1/2\"BI- HEX SOCKET-34"
 }

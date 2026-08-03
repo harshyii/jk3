@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/8163zWBXKpL.jpg | https://m.media-amazon.com/images/I/41HBgSzwa8L.jpg | https://m.media-amazon.com/images/I/51yiMV0dCEL.jpg | https://m.media-amazon.com/images/I/41RZ8zHpytL.jpg | https://m.media-amazon.com/images/I/610YzuY2t7L.jpg | https://m.media-amazon.com/images/I/51MIPFw1u-L.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.88%",
   "SalePrice": "₹2,079.00",
   "Model": "BDCS36F-IN"
 }

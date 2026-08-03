@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51LcYL0lFSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611T6KIj7ML.jpg | https://m.media-amazon.com/images/I/411eOB5HACL.jpg | https://m.media-amazon.com/images/I/41BZJAuSTgL.jpg | https://m.media-amazon.com/images/I/41uLdl5x69L.jpg | https://m.media-amazon.com/images/I/417JPXoy95L.jpg | https://m.media-amazon.com/images/I/51BxDXAjDDL.jpg | https://m.media-amazon.com/images/I/51VJ5FxtDtL.jpg | https://m.media-amazon.com/images/I/51LcYL0lFSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "35.87%",
   "SalePrice": "₹46,561.00",
   "Model": "DCH133B"
 }

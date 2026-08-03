@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41vMQkiXs3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715W7VZ4CIL.jpg | https://m.media-amazon.com/images/I/41ZL9Cf9FlL.jpg | https://m.media-amazon.com/images/I/41b6VN8h3CL.jpg | https://m.media-amazon.com/images/I/51uRGrT7+WL.jpg | https://m.media-amazon.com/images/I/41cAFZ+nS1L.jpg | https://m.media-amazon.com/images/I/51kmtRsTW7L.jpg | https://m.media-amazon.com/images/I/21iGdsb3hoL.jpg | https://m.media-amazon.com/images/I/41vMQkiXs3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,306.54",
   "Model": "AF1534-25"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31CwiJs+mKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sijQT4NoL.jpg | https://m.media-amazon.com/images/I/41Ax2xMS+aL.jpg | https://m.media-amazon.com/images/I/41oTCMVIkwL.jpg | https://m.media-amazon.com/images/I/51uRGrT7+WL.jpg | https://m.media-amazon.com/images/I/41dWIqQ3UIL.jpg | https://m.media-amazon.com/images/I/117dgkLsVYL.jpg | https://m.media-amazon.com/images/I/513QAd4JrrL.jpg | https://m.media-amazon.com/images/I/31CwiJs+mKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.35%",
   "SalePrice": "₹8,265.00",
   "Model": "SSAF1534-25"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41MRBOcBIlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718ZdtbvB9L.jpg | https://m.media-amazon.com/images/I/61963J4epNL.jpg | https://m.media-amazon.com/images/I/61VOu-7ol8L.jpg | https://m.media-amazon.com/images/I/61Y9N-0SVlL.jpg | https://m.media-amazon.com/images/I/61yeN7QJLlL.jpg | https://m.media-amazon.com/images/I/614BswnykWL.jpg | https://m.media-amazon.com/images/I/41MRBOcBIlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,279.93",
   "Model": "922986",
   "Country": "USA"

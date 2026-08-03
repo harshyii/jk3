@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41RrFckT7QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ewKsxKmEL.jpg | https://m.media-amazon.com/images/I/41lZ1RGhv6L.jpg | https://m.media-amazon.com/images/I/41ogN-Gi2QL.jpg | https://m.media-amazon.com/images/I/41AsOqAmD+L.jpg | https://m.media-amazon.com/images/I/31Jz40A2oKL.jpg | https://m.media-amazon.com/images/I/41m1v997oPL.jpg | https://m.media-amazon.com/images/I/41k48B0O5ZL.jpg | https://m.media-amazon.com/images/I/41RrFckT7QL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,740.88",
   "Model": "RPI18-0"
 }

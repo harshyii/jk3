@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31j7cUXU3HL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31pnph3NXmL.jpg | https://m.media-amazon.com/images/I/21AlcIF-v6L.jpg | https://m.media-amazon.com/images/I/41XTZrKLOEL.jpg | https://m.media-amazon.com/images/I/31jcM3W209L.jpg | https://m.media-amazon.com/images/I/31cPwvHFbJL.jpg | https://m.media-amazon.com/images/I/31j7cUXU3HL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.42%",
   "SalePrice": "₹6,852.00",
   "Model": "DWMT81098"
 }

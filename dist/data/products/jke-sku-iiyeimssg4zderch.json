@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41gZaH3bQfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ljol9b02L.jpg | https://m.media-amazon.com/images/I/41+8DG3m12L.jpg | https://m.media-amazon.com/images/I/31tPXpb4A1L.jpg | https://m.media-amazon.com/images/I/410S2y6l5PL.jpg | https://m.media-amazon.com/images/I/51xVElU9j4L.jpg | https://m.media-amazon.com/images/I/41Hd4T3lVmL.jpg | https://m.media-amazon.com/images/I/219-aPRC4LL.jpg | https://m.media-amazon.com/images/I/41gZaH3bQfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "67.67%",
   "SalePrice": "₹129.00",
   "Model": "SOLAR 70X70"
 }

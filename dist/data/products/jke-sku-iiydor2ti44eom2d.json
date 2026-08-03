@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71totzpd8FL.jpg | https://m.media-amazon.com/images/I/41XIA28lIBL.jpg | https://m.media-amazon.com/images/I/41of-RMEa3L.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Milliliters",
-  "Discount": 0,
+  "Discount": "13.25%",
   "SalePrice": "₹334.00",
   "Model": "MGO",
   "Country": "India"

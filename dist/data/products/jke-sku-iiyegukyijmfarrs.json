@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/61WS60WY9AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61u9exLlZCL.jpg | https://m.media-amazon.com/images/I/41H6GgsebUL.jpg | https://m.media-amazon.com/images/I/51AySPmqVBL.jpg | https://m.media-amazon.com/images/I/41NyDtZbfDL.jpg | https://m.media-amazon.com/images/I/41AwmZEuVEL.jpg | https://m.media-amazon.com/images/I/51Uzo8YgFYL.jpg | https://m.media-amazon.com/images/I/61WS60WY9AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60.76%",
   "SalePrice": "₹2,827.00",
   "Model": "Solar Connector Cable",
   "Country": "USA"

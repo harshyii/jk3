@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/31rUx353D2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31DfPqHjOVL.jpg | https://m.media-amazon.com/images/I/31DfPqHjOVL.jpg | https://m.media-amazon.com/images/I/31rUx353D2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "43.03%",
   "SalePrice": "₹711.00",
   "Model": "Armature 2-26 Hammer for 26mm"
 }

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/21JeduO9v6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pCg0msXIL.jpg | https://m.media-amazon.com/images/I/21ekjBm4TlL.jpg | https://m.media-amazon.com/images/I/21IDPBv+20L.jpg | https://m.media-amazon.com/images/I/21JeduO9v6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.4%",
   "SalePrice": "₹219.00",
   "Model": "IML 13H"
 }

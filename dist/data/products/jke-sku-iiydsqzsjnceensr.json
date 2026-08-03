@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41RiqeIA6RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81AcfVzOuzL.jpg | https://m.media-amazon.com/images/I/41bEUKiNtiL.jpg | https://m.media-amazon.com/images/I/411jRDI08xL.jpg | https://m.media-amazon.com/images/I/41X501FPMJL.jpg | https://m.media-amazon.com/images/I/31grX-yAm0L.jpg | https://m.media-amazon.com/images/I/41Zald89DuL.jpg | https://m.media-amazon.com/images/I/41RiqeIA6RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Piece",
-  "Discount": 0,
+  "Discount": "58.03%",
   "SalePrice": "₹209.00",
   "Model": "MC-4 Spanner Wrench"
 }

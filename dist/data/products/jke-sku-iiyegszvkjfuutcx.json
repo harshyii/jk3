@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51KWehSyVVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rx8rEpo4L.jpg | https://m.media-amazon.com/images/I/41tgUedgg7L.jpg | https://m.media-amazon.com/images/I/41+sTMjouML.jpg | https://m.media-amazon.com/images/I/51yHP1tE99L.jpg | https://m.media-amazon.com/images/I/51aUHdDRcwL.jpg | https://m.media-amazon.com/images/I/51mqsvUpGPL.jpg | https://m.media-amazon.com/images/I/51KWehSyVVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "650.0 Milliliters",
-  "Discount": 0,
+  "Discount": "38.38%",
   "SalePrice": "₹456.00",
   "Model": "SWS650",
   "Country": "India"

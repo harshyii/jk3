@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/211wES0thDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61t4N04cMxL.jpg | https://m.media-amazon.com/images/I/31tf8JE+yrL.jpg | https://m.media-amazon.com/images/I/31bUsB2bjRL.jpg | https://m.media-amazon.com/images/I/41QiUc0vMVL.jpg | https://m.media-amazon.com/images/I/31q-nLFEkUL.jpg | https://m.media-amazon.com/images/I/31Qo2Ck1cjL.jpg | https://m.media-amazon.com/images/I/21BiXcJz+TL.jpg | https://m.media-amazon.com/images/I/211wES0thDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.83%",
   "SalePrice": "₹299.00",
   "Model": "70-461"
 }

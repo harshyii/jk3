@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41UspYWKazL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81kehdrsgGL.jpg | https://m.media-amazon.com/images/I/51P9oOQisTL.jpg | https://m.media-amazon.com/images/I/41-cHBgGfQL.jpg | https://m.media-amazon.com/images/I/21ufZpvQQnL.jpg | https://m.media-amazon.com/images/I/51Nn3JtqT5L.jpg | https://m.media-amazon.com/images/I/51YyPxBkNEL.jpg | https://m.media-amazon.com/images/I/5179iQ7QmwL.jpg | https://m.media-amazon.com/images/I/41UspYWKazL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.15%",
   "SalePrice": "₹420.00",
   "Model": "17001-VP-6PK"
 }

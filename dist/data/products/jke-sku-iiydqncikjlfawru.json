@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31-2m1CXvKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719WTNMMAbL.jpg | https://m.media-amazon.com/images/I/31sfMhwMumL.jpg | https://m.media-amazon.com/images/I/31DIzaVmscL.jpg | https://m.media-amazon.com/images/I/31-2m1CXvKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "10.44%",
   "SalePrice": "₹403.00",
   "Model": "H-004"
 }

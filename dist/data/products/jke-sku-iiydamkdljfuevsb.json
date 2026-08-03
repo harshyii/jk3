@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/61YYRjyB4zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XfkNrerJL.jpg | https://m.media-amazon.com/images/I/41CvM2D+YPL.jpg | https://m.media-amazon.com/images/I/61xmjJJqXJL.jpg | https://m.media-amazon.com/images/I/61KRaMe6JWL.jpg | https://m.media-amazon.com/images/I/41HFzNHnaVL.jpg | https://m.media-amazon.com/images/I/61GFaxX5KML.jpg | https://m.media-amazon.com/images/I/61EukEuF83L.jpg | https://m.media-amazon.com/images/I/61YYRjyB4zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Milliliters",
-  "Discount": 0,
+  "Discount": "6.68%",
   "SalePrice": "₹3,732.00",
   "Model": "210 300",
   "Country": "India"

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/411ZHg+JMbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61OECPWa9VL.jpg | https://m.media-amazon.com/images/I/319mjOwEOwL.jpg | https://m.media-amazon.com/images/I/31kdkB7q7AL.jpg | https://m.media-amazon.com/images/I/310OroM0eIL.jpg | https://m.media-amazon.com/images/I/319+T7wp+XL.jpg | https://m.media-amazon.com/images/I/51cXt5i4r9L.jpg | https://m.media-amazon.com/images/I/41tg-ppg7rL.jpg | https://m.media-amazon.com/images/I/411ZHg+JMbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.28%",
   "SalePrice": "₹9,888.00",
   "Model": "MX610B",
   "Country": "China"

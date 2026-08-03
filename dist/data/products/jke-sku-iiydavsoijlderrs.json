@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41pvVWaeAuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91inKKy6DpL.jpg | https://m.media-amazon.com/images/I/51nLwjSaWPL.jpg | https://m.media-amazon.com/images/I/41rUTGGOs7L.jpg | https://m.media-amazon.com/images/I/41zgdB9lfmL.jpg | https://m.media-amazon.com/images/I/51i9FltdlJL.jpg | https://m.media-amazon.com/images/I/41dDy7SruRL.jpg | https://m.media-amazon.com/images/I/41-y4B2GLVL.jpg | https://m.media-amazon.com/images/I/41pvVWaeAuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "28.26%",
   "SalePrice": "₹42,855.00",
   "Model": "D25263K"
 }

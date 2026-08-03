@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41sleTAdruL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ZwUWzFhrL.jpg | https://m.media-amazon.com/images/I/51ZwUWzFhrL.jpg | https://m.media-amazon.com/images/I/517TAgDsWoL.jpg | https://m.media-amazon.com/images/I/41sleTAdruL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400.0 Grams",
-  "Discount": 0,
+  "Discount": "10.83%",
   "SalePrice": "₹280.00",
   "Model": "182509",
   "Country": "India"

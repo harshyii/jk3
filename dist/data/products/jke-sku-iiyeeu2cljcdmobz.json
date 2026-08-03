@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41NhSuHEC4L.jpg | https://m.media-amazon.com/images/I/41NhSuHEC4L.jpg | https://m.media-amazon.com/images/I/51LSyMVOJFL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "6.56%",
   "SalePrice": "₹299.00",
   "Country": "India"
 }

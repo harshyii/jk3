@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51X1UlaOJHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41gy8-fud9L.jpg | https://m.media-amazon.com/images/I/41gy8-fud9L.jpg | https://m.media-amazon.com/images/I/51tsZV9vUcL.jpg | https://m.media-amazon.com/images/I/61xOoAbyjWL.jpg | https://m.media-amazon.com/images/I/51PUHKrcNtL.jpg | https://m.media-amazon.com/images/I/514bI60tcUL.jpg | https://m.media-amazon.com/images/I/41WTrGBBgaL.jpg | https://m.media-amazon.com/images/I/51X1UlaOJHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "21.48%",
   "SalePrice": "₹17,055.00",
   "Model": "UTLS-969-SND"
 }

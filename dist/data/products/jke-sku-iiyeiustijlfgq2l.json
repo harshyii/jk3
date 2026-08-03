@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/3148gNqvS6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51F5DJg0IoL.jpg | https://m.media-amazon.com/images/I/21LSwbw3jlL.jpg | https://m.media-amazon.com/images/I/21nmmUz54pL.jpg | https://m.media-amazon.com/images/I/3148gNqvS6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.67%",
   "SalePrice": "₹232.00",
   "Model": "BST 70"
 }

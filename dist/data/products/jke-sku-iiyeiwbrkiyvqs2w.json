@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41E1m0xCyfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61VolNH2X3L.jpg | https://m.media-amazon.com/images/I/41q9j9YcSdL.jpg | https://m.media-amazon.com/images/I/61qhtFeOSuL.jpg | https://m.media-amazon.com/images/I/617VN9GcO2L.jpg | https://m.media-amazon.com/images/I/616aR-F0eoL.jpg | https://m.media-amazon.com/images/I/41IYa8T9E4L.jpg | https://m.media-amazon.com/images/I/41E1m0xCyfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "35.21%",
   "SalePrice": "₹1,619.00",
   "Model": "NEW 1234"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51LSUW9DKaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Iw4iAFVeL.jpg | https://m.media-amazon.com/images/I/51Kcg+auDbL.jpg | https://m.media-amazon.com/images/I/51kePPcWWxL.jpg | https://m.media-amazon.com/images/I/41RJK82O87L.jpg | https://m.media-amazon.com/images/I/41vg-9tWb8L.jpg | https://m.media-amazon.com/images/I/41NbxJJtNwL.jpg | https://m.media-amazon.com/images/I/41UF3Bfr1yL.jpg | https://m.media-amazon.com/images/I/51LSUW9DKaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.52%",
   "SalePrice": "₹37,955.00",
   "Model": "CT232"
 }

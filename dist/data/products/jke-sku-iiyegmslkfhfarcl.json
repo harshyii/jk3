@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51PTqGIbK+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61x3VgtDw5L.jpg | https://m.media-amazon.com/images/I/41Sx5-YnzvL.jpg | https://m.media-amazon.com/images/I/51eHrNlszsL.jpg | https://m.media-amazon.com/images/I/31fTksge+YL.jpg | https://m.media-amazon.com/images/I/41Sq87f5bHL.jpg | https://m.media-amazon.com/images/I/41xukqwAjJL.jpg | https://m.media-amazon.com/images/I/51H6zzmgegL.jpg | https://m.media-amazon.com/images/I/51PTqGIbK+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.32%",
   "SalePrice": "₹198.00",
   "Model": "TH-T09"
 }

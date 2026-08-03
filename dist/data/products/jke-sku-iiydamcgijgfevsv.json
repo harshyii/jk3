@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/61L9AYZXx6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91qcB41IG1L.jpg | https://m.media-amazon.com/images/I/51ej6l1iGiL.jpg | https://m.media-amazon.com/images/I/518vEG8+4EL.jpg | https://m.media-amazon.com/images/I/41a1-XcNvpL.jpg | https://m.media-amazon.com/images/I/51t5KpHEqmL.jpg | https://m.media-amazon.com/images/I/51E17jL1m-L.jpg | https://m.media-amazon.com/images/I/41-HAWscT+L.jpg | https://m.media-amazon.com/images/I/61L9AYZXx6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.56%",
   "SalePrice": "₹4,527.00",
   "Model": "EZ456B"
 }

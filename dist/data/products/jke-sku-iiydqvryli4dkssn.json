@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51bHqaow2KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/814boEMzfiL.jpg | https://m.media-amazon.com/images/I/51yIdNOTGoL.jpg | https://m.media-amazon.com/images/I/51pyE2pGvNL.jpg | https://m.media-amazon.com/images/I/51bHqaow2KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.6%",
   "SalePrice": "₹1,230.00",
   "Model": "C414033A - PDA100M PACK OF 25pcs",
   "Country": "India"

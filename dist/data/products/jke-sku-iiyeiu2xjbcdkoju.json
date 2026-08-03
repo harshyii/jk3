@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/410AvtgAnpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61f9sjXPHPL.jpg | https://m.media-amazon.com/images/I/31SHgH5lsdL.jpg | https://m.media-amazon.com/images/I/51grKEykIoL.jpg | https://m.media-amazon.com/images/I/51YiIL-fGRL.jpg | https://m.media-amazon.com/images/I/51KVz4OiE2L.jpg | https://m.media-amazon.com/images/I/51y-OdqfEYL.jpg | https://m.media-amazon.com/images/I/41AAYldUxXL.jpg | https://m.media-amazon.com/images/I/410AvtgAnpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "7.36%",
   "SalePrice": "₹629.00",
   "Model": "1600A032UY"
 }

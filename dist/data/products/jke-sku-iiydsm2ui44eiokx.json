@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/516bBJn4bPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71K+oJa-CGL.jpg | https://m.media-amazon.com/images/I/41KVpS+1x0L.jpg | https://m.media-amazon.com/images/I/51x00fYpxzL.jpg | https://m.media-amazon.com/images/I/51KKLDdqi0L.jpg | https://m.media-amazon.com/images/I/51k6Zy0xjcL.jpg | https://m.media-amazon.com/images/I/51mgVtCqb+L.jpg | https://m.media-amazon.com/images/I/516bBJn4bPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "750.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.17%",
   "SalePrice": "₹5,579.96",
   "Model": "268400"
 }

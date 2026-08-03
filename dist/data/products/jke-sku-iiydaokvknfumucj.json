@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41kMx-w9IUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61hEDq4+O7L.jpg | https://m.media-amazon.com/images/I/41uCU542qvL.jpg | https://m.media-amazon.com/images/I/31KYkcNW7qL.jpg | https://m.media-amazon.com/images/I/41TMcCfG7UL.jpg | https://m.media-amazon.com/images/I/31Db3Pc15cL.jpg | https://m.media-amazon.com/images/I/41TpoXW0orL.jpg | https://m.media-amazon.com/images/I/4109ckpdKmL.jpg | https://m.media-amazon.com/images/I/41kMx-w9IUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "33.26%",
   "SalePrice": "₹1,999.00",
   "Model": "ET122-B5"
 }

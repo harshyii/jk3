@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41zlpGUgnXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wyu09bAcL.jpg | https://m.media-amazon.com/images/I/41+aVwqB+OL.jpg | https://m.media-amazon.com/images/I/51R919Fc+bL.jpg | https://m.media-amazon.com/images/I/41kv6q1qujL.jpg | https://m.media-amazon.com/images/I/41V61cj+bTL.jpg | https://m.media-amazon.com/images/I/41HVvEGbWQL.jpg | https://m.media-amazon.com/images/I/41gwoh7MQKL.jpg | https://m.media-amazon.com/images/I/41zlpGUgnXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "397.0 Grams",
-  "Discount": 0,
+  "Discount": "58.35%",
   "SalePrice": "₹1,249.00",
   "Model": "T222R"
 }

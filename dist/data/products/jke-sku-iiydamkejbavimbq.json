@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/316pQnR2wbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KN6Y+1pAL.jpg | https://m.media-amazon.com/images/I/41V8t0vJ9AL.jpg | https://m.media-amazon.com/images/I/51M3L32hvWL.jpg | https://m.media-amazon.com/images/I/317PLt7yZZL.jpg | https://m.media-amazon.com/images/I/41cVkdk7lTL.jpg | https://m.media-amazon.com/images/I/316pQnR2wbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "11.11%",
   "SalePrice": "₹4,000.00",
   "Model": "‎2615S456JC"
 }

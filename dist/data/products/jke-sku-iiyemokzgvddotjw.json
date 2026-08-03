@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51lzaLFam2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aiOb61XmL.jpg | https://m.media-amazon.com/images/I/51Ah3DOMHNL.jpg | https://m.media-amazon.com/images/I/51FMLTtK1qL.jpg | https://m.media-amazon.com/images/I/41ybyIzGaEL.jpg | https://m.media-amazon.com/images/I/51G1Bd2GocL.jpg | https://m.media-amazon.com/images/I/51fgvu-VHbL.jpg | https://m.media-amazon.com/images/I/51hDpvzSJfL.jpg | https://m.media-amazon.com/images/I/51lzaLFam2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "80%",
   "SalePrice": "₹999.99",
   "Model": "DT01066"
 }

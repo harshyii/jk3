@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41x-JENnChL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51v2wzU0zgL.jpg | https://m.media-amazon.com/images/I/51v2wzU0zgL.jpg | https://m.media-amazon.com/images/I/51MHGwlO2JL.jpg | https://m.media-amazon.com/images/I/41x-JENnChL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "35.48%",
   "SalePrice": "₹2,400.00",
   "Model": "TWP-108"
 }

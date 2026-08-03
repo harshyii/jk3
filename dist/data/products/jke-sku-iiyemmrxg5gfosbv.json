@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51ww4+CrxML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512flHxPVhL.jpg | https://m.media-amazon.com/images/I/31f26a9vBwL.jpg | https://m.media-amazon.com/images/I/21kvspyezYL.jpg | https://m.media-amazon.com/images/I/414Dho2WYjL.jpg | https://m.media-amazon.com/images/I/31fTNPxZm9L.jpg | https://m.media-amazon.com/images/I/51If-DyqZkL.jpg | https://m.media-amazon.com/images/I/51PNReMeylL.jpg | https://m.media-amazon.com/images/I/51ww4+CrxML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "27.59%",
   "SalePrice": "₹3,150.00",
   "Model": "1SP-STAND-PRIME"
 }

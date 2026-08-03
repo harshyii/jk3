@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41Yy39psOqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713aCXO2lbL.jpg | https://m.media-amazon.com/images/I/4162JzTII8L.jpg | https://m.media-amazon.com/images/I/41UpGTEr3ZL.jpg | https://m.media-amazon.com/images/I/41ZIwX91tkL.jpg | https://m.media-amazon.com/images/I/510xgK0S73L.jpg | https://m.media-amazon.com/images/I/41J9R8aPoCL.jpg | https://m.media-amazon.com/images/I/41Yy39psOqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.17%",
   "SalePrice": "₹3,661.00",
   "Model": "BMS17MXL"
 }

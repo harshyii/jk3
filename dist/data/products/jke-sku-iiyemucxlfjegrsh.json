@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31YWw6biqdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512CnGtbP1L.jpg | https://m.media-amazon.com/images/I/31NNKA5wj6L.jpg | https://m.media-amazon.com/images/I/21RnqVRVFgL.jpg | https://m.media-amazon.com/images/I/212wUrf1MwL.jpg | https://m.media-amazon.com/images/I/315+U5ZkCkL.jpg | https://m.media-amazon.com/images/I/31YWw6biqdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "24.4%",
   "SalePrice": "₹189.00",
   "Model": "1/2\" HEX SOCKET-8_2"
 }

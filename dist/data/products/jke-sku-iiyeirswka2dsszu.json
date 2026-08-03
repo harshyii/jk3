@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51apCIBGzOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51u16erY-UL.jpg | https://m.media-amazon.com/images/I/51u16erY-UL.jpg | https://m.media-amazon.com/images/I/61Iyj1tNjPL.jpg | https://m.media-amazon.com/images/I/51jh007SaNL.jpg | https://m.media-amazon.com/images/I/51apCIBGzOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "64.04%",
   "SalePrice": "₹539.00",
   "Model": "G10SS2"
 }

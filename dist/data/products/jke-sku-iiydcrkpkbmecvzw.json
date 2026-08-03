@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41A8Qegf1LL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61kPi6WxTRL.jpg | https://m.media-amazon.com/images/I/51O0EeRIJHL.jpg | https://m.media-amazon.com/images/I/41A8Qegf1LL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹75,890.10",
   "Model": "DT4957-QZ"
 }

@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51w+j9IAlFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rm63WHXNL.jpg | https://m.media-amazon.com/images/I/41ndRrfKqdL.jpg | https://m.media-amazon.com/images/I/51XRhFLF7WL.jpg | https://m.media-amazon.com/images/I/51mPCFxkv-L.jpg | https://m.media-amazon.com/images/I/41jy6NCu-tL.jpg | https://m.media-amazon.com/images/I/41gLhfE9pQL.jpg | https://m.media-amazon.com/images/I/51w+j9IAlFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.84%",
   "SalePrice": "₹999.00",
   "Model": "17038SN-ES"
 }

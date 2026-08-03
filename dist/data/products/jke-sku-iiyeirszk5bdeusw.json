@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41I2iUpLGVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-HP8JOvdL.jpg | https://m.media-amazon.com/images/I/41bba4aEJRL.jpg | https://m.media-amazon.com/images/I/4161w88FeZL.jpg | https://m.media-amazon.com/images/I/41CN7aBL7UL.jpg | https://m.media-amazon.com/images/I/41pTyepnMOL.jpg | https://m.media-amazon.com/images/I/51kV3IDxAOL.jpg | https://m.media-amazon.com/images/I/41I2iUpLGVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.39%",
   "SalePrice": "₹10,999.00",
   "Model": "JPT-3IN1-MT21"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/313dxfrMIHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51hcQxpZueL.jpg | https://m.media-amazon.com/images/I/31DpxvE6o-L.jpg | https://m.media-amazon.com/images/I/310BQD1Q8GL.jpg | https://m.media-amazon.com/images/I/31MkdATU5mL.jpg | https://m.media-amazon.com/images/I/313dxfrMIHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹140.00",
   "Model": "1/2\" HEX SOCKET-23"
 }

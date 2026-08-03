@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TuWzfZ6BL.jpg | https://m.media-amazon.com/images/I/31GbtiXIgRL.jpg | https://m.media-amazon.com/images/I/517TLBGwybL.jpg | https://m.media-amazon.com/images/I/51+wZCFmgLL.jpg | https://m.media-amazon.com/images/I/51Fktho-ZxL.jpg | https://m.media-amazon.com/images/I/51xQAEQ8FqL.jpg | https://m.media-amazon.com/images/I/51fKFlDGTXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "63.41%",
   "SalePrice": "₹1,899.00",
   "Model": "SOLAR_PANEL-50W-12V"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41fdyjFwtRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KXnETjtgL.jpg | https://m.media-amazon.com/images/I/41L5ZdJh2gL.jpg | https://m.media-amazon.com/images/I/41LtSTB6lUL.jpg | https://m.media-amazon.com/images/I/414IKnKazBL.jpg | https://m.media-amazon.com/images/I/51stAiwWjdL.jpg | https://m.media-amazon.com/images/I/41eY1wXl16L.jpg | https://m.media-amazon.com/images/I/41fdyjFwtRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.75%",
   "SalePrice": "₹14,961.00",
   "Model": "FEM0-IMTT1500"
 }

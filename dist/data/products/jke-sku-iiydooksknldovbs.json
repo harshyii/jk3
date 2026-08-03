@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/412MNYiHVCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NvnU8SAwL.jpg | https://m.media-amazon.com/images/I/317OU8FNBWL.jpg | https://m.media-amazon.com/images/I/412MNYiHVCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.75%",
   "SalePrice": "₹378.54",
   "Model": "31750"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51nBF9SUC+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Pxnd9O2yL.jpg | https://m.media-amazon.com/images/I/412rtBQeIPL.jpg | https://m.media-amazon.com/images/I/51KxEfAEbjL.jpg | https://m.media-amazon.com/images/I/51Tp5PI-2kL.jpg | https://m.media-amazon.com/images/I/51WteVuxa8L.jpg | https://m.media-amazon.com/images/I/51G3KhjCWiL.jpg | https://m.media-amazon.com/images/I/51FEorxqtYL.jpg | https://m.media-amazon.com/images/I/51nBF9SUC+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "236.5882 Milliliters",
-  "Discount": 0,
+  "Discount": "43.12%",
   "SalePrice": "₹2,504.07",
   "Model": "SPI_109_04",
   "Country": "USA"

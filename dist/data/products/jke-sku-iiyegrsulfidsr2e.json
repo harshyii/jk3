@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51bytJNv3xL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Yo41jRk+L.jpg | https://m.media-amazon.com/images/I/41Yo41jRk+L.jpg | https://m.media-amazon.com/images/I/41dMOceFkeL.jpg | https://m.media-amazon.com/images/I/41tFQD0a9bL.jpg | https://m.media-amazon.com/images/I/41DX0lYEk3L.jpg | https://m.media-amazon.com/images/I/51bytJNv3xL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "51.00 Count",
-  "Discount": 0,
+  "Discount": "52.75%",
   "SalePrice": "₹283.00",
   "Model": "a624",
   "Country": "China"

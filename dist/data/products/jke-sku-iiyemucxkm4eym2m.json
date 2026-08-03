@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31Sf7A9nlqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61I9I+lb+tL.jpg | https://m.media-amazon.com/images/I/31hq2T3Y8lL.jpg | https://m.media-amazon.com/images/I/31VFl2kagiL.jpg | https://m.media-amazon.com/images/I/31K25ENnhkL.jpg | https://m.media-amazon.com/images/I/31Sf7A9nlqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.4%",
   "SalePrice": "₹209.00",
   "Model": "1/2''BI- HEX SOCKET-27"
 }

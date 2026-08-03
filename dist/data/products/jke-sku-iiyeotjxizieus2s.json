@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41y4BK2eoPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51fgOLf9NvL.jpg | https://m.media-amazon.com/images/I/31eVik9cAuL.jpg | https://m.media-amazon.com/images/I/41F9r0vCyHL.jpg | https://m.media-amazon.com/images/I/41BQmvFXS0L.jpg | https://m.media-amazon.com/images/I/41y4BK2eoPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.74%",
   "SalePrice": "₹3,399.00",
   "Model": "DQF32"
 }

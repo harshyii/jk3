@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41-LbGHmWLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61OK2cFsOLL.jpg | https://m.media-amazon.com/images/I/414oE0hfZCL.jpg | https://m.media-amazon.com/images/I/41ns0gRJiEL.jpg | https://m.media-amazon.com/images/I/31xafeglx+L.jpg | https://m.media-amazon.com/images/I/41-LbGHmWLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.29%",
   "SalePrice": "₹14,499.00",
   "Model": "Nutri Art Slow Juicer"
 }

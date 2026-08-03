@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51vKvlf+anL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71myDkbPAfL.jpg | https://m.media-amazon.com/images/I/41YRJlURdfL.jpg | https://m.media-amazon.com/images/I/510RIktkvJL.jpg | https://m.media-amazon.com/images/I/51NIAy-qQiL.jpg | https://m.media-amazon.com/images/I/51sCoQzEIaL.jpg | https://m.media-amazon.com/images/I/51kuUvimnjL.jpg | https://m.media-amazon.com/images/I/51vKvlf+anL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1892.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10.01%",
   "SalePrice": "₹989.00",
   "Model": "G10464",
   "Country": "USA"

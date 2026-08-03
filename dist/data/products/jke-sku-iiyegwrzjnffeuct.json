@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31lG-kzdEKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aZd2CLf+L.jpg | https://m.media-amazon.com/images/I/412WWJHxoML.jpg | https://m.media-amazon.com/images/I/31mmrOJcK+L.jpg | https://m.media-amazon.com/images/I/31lG-kzdEKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "20.04%",
   "SalePrice": "₹1,999.00",
   "Model": "BEM Savitre_40W"
 }

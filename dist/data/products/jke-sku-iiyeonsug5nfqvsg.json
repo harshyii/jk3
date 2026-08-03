@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41iWRjIKYnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ubsq9jCGL.jpg | https://m.media-amazon.com/images/I/31bWyKCipeL.jpg | https://m.media-amazon.com/images/I/318G6G7dIkL.jpg | https://m.media-amazon.com/images/I/41+dZIry3kL.jpg | https://m.media-amazon.com/images/I/41iWRjIKYnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "65.08%",
   "SalePrice": "₹279.00",
   "Model": "carbon 410 pack of 2",
   "Country": "India"

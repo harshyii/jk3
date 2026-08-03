@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51jzoeGRy7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711z3BUH82L.jpg | https://m.media-amazon.com/images/I/513ooWhqocL.jpg | https://m.media-amazon.com/images/I/51f0v2P8n2L.jpg | https://m.media-amazon.com/images/I/51jcpml3MYL.jpg | https://m.media-amazon.com/images/I/51jzoeGRy7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "47.5%",
   "SalePrice": "₹10,501.00",
   "Model": "CSLI18511"
 }

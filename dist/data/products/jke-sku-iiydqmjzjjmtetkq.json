@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51QO-H58TNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81EB9idQt5L.jpg | https://m.media-amazon.com/images/I/41lnnHP7wTL.jpg | https://m.media-amazon.com/images/I/51DAz7SjPHL.jpg | https://m.media-amazon.com/images/I/51sEj473q3L.jpg | https://m.media-amazon.com/images/I/51xpMQTi2NL.jpg | https://m.media-amazon.com/images/I/41F5clW1F8L.jpg | https://m.media-amazon.com/images/I/51In3-oDChL.jpg | https://m.media-amazon.com/images/I/51QO-H58TNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.0 Count",
-  "Discount": 0,
+  "Discount": "30.08%",
   "SalePrice": "₹4,586.00",
   "Model": "UR0002",
   "Country": "USA"

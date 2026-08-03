@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31yC5ZAsVML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51A-ly2uBfL.jpg | https://m.media-amazon.com/images/I/31LksZ12Q7L.jpg | https://m.media-amazon.com/images/I/31yC5ZAsVML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Piece",
-  "Discount": 0,
+  "Discount": "58.76%",
   "SalePrice": "₹1,649.00",
   "Country": "India"
 }

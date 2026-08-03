@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51Mgbeoz6EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718nEy-00ZL.jpg | https://m.media-amazon.com/images/I/41H0bvT34oL.jpg | https://m.media-amazon.com/images/I/41LKIwlcaHL.jpg | https://m.media-amazon.com/images/I/419rdxvoLOL.jpg | https://m.media-amazon.com/images/I/410WPJalMgL.jpg | https://m.media-amazon.com/images/I/51TrKUIEK1L.jpg | https://m.media-amazon.com/images/I/51Mgbeoz6EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.35%",
   "SalePrice": "₹3,426.00",
   "Model": "PL5508"
 }

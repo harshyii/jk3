@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/51tB0hxpUQS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jTVH7y8WS.jpg | https://m.media-amazon.com/images/I/419+OSvKEYS.jpg | https://m.media-amazon.com/images/I/41qCnZXmeVS.jpg | https://m.media-amazon.com/images/I/51tB0hxpUQS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.06%",
   "SalePrice": "₹299.00",
   "Country": "India"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31c0RBQSwQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41avAHnRaIL.jpg | https://m.media-amazon.com/images/I/31zC9kkn41L.jpg | https://m.media-amazon.com/images/I/31HeBrizSYL.jpg | https://m.media-amazon.com/images/I/31c0RBQSwQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "62.66%",
   "SalePrice": "₹149.00",
   "Model": "23-2-Cobra Files"
 }

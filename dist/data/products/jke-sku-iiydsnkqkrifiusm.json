@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31JXJNcLyWS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Yq6NdPLsS.jpg | https://m.media-amazon.com/images/I/41qS2AKaBOS.jpg | https://m.media-amazon.com/images/I/516IcHUD+lS.jpg | https://m.media-amazon.com/images/I/21+K85WcbIS.jpg | https://m.media-amazon.com/images/I/415iLR5FzOS.jpg | https://m.media-amazon.com/images/I/31JXJNcLyWS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "74.52%",
   "SalePrice": "₹1,283.00",
   "Model": "DWA00001PRM1"
 }

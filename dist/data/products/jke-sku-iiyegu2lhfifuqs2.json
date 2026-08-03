@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51WcGakpHIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vkRJk-37L.jpg | https://m.media-amazon.com/images/I/41hqeoZV1aL.jpg | https://m.media-amazon.com/images/I/51KBQ8uCxLL.jpg | https://m.media-amazon.com/images/I/51Gcf3NX4NL.jpg | https://m.media-amazon.com/images/I/41kxT4AzJkL.jpg | https://m.media-amazon.com/images/I/41q6IQgoI9L.jpg | https://m.media-amazon.com/images/I/51Z0Wc1lxvL.jpg | https://m.media-amazon.com/images/I/51WcGakpHIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "230.0 Grams",
-  "Discount": 0,
+  "Discount": "26.62%",
   "SalePrice": "₹499.00",
   "Model": "Carnauba Wax - 230 Gm"
 }

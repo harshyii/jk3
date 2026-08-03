@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41tlffNLrgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71lFKxC4p9L.jpg | https://m.media-amazon.com/images/I/41Jqr1Hjq2L.jpg | https://m.media-amazon.com/images/I/41tlffNLrgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.35%",
   "SalePrice": "₹9,645.00",
   "Model": "M4302B"
 }

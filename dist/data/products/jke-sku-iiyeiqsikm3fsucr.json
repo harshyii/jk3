@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31DCxAcGnlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Xscv-3OdL.jpg | https://m.media-amazon.com/images/I/31HS0jfGwGL.jpg | https://m.media-amazon.com/images/I/31vAE+JkhYL.jpg | https://m.media-amazon.com/images/I/312YvztOFyL.jpg | https://m.media-amazon.com/images/I/31DCxAcGnlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.18%",
   "SalePrice": "₹134.00",
   "Model": "80mm"
 }

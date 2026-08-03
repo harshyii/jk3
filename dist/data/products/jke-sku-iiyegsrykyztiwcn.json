@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/51T2sZK-WsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710MKRt-fKL.jpg | https://m.media-amazon.com/images/I/41MUV2tlkCL.jpg | https://m.media-amazon.com/images/I/41v2v-vOIML.jpg | https://m.media-amazon.com/images/I/41HU-kMMzwL.jpg | https://m.media-amazon.com/images/I/51LN8CVwzCL.jpg | https://m.media-amazon.com/images/I/41N6PJYDNVL.jpg | https://m.media-amazon.com/images/I/513AJu8KOkL.jpg | https://m.media-amazon.com/images/I/51T2sZK-WsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.04%",
   "SalePrice": "₹379.05",
   "Model": "FEDUS_NEW-USB_M_TO_F_EXTEN_3M_BLACK_Ab-",
   "Country": "India"

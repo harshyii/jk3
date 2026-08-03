@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41xfugaxnfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61AIX9mUpbL.jpg | https://m.media-amazon.com/images/I/415v2j+wfjL.jpg | https://m.media-amazon.com/images/I/51n6tKFKwZL.jpg | https://m.media-amazon.com/images/I/51yxlFwlRYL.jpg | https://m.media-amazon.com/images/I/51zdlBWzqpL.jpg | https://m.media-amazon.com/images/I/51HQID27z-L.jpg | https://m.media-amazon.com/images/I/41xfugaxnfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "72.54%",
   "SalePrice": "₹549.00",
   "Model": "WG-YE17-B8B6"
 }

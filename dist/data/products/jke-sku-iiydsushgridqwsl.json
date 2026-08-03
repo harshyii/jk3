@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71-S3l3UjJL.jpg | https://m.media-amazon.com/images/I/41O4z5l3P+L.jpg | https://m.media-amazon.com/images/I/31lgL2egHSL.jpg | https://m.media-amazon.com/images/I/51pfc1wlBgL.jpg | https://m.media-amazon.com/images/I/31PBAmqAZZL.jpg | https://m.media-amazon.com/images/I/41BQcNcnHTL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Milliliters",
-  "Discount": 0,
+  "Discount": "4.89%",
   "SalePrice": "₹428.00",
   "Model": "ACO710",
   "Country": "India"

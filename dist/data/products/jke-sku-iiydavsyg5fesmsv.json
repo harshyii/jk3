@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/418lBSE51QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nIohORblL.jpg | https://m.media-amazon.com/images/I/31lnvLdzKlL.jpg | https://m.media-amazon.com/images/I/41-049GnDAL.jpg | https://m.media-amazon.com/images/I/41UxbDuwyWL.jpg | https://m.media-amazon.com/images/I/31LmTMYqpRL.jpg | https://m.media-amazon.com/images/I/418lBSE51QL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.12%",
   "SalePrice": "₹5,257.00",
   "Model": "PLP/02"
 }

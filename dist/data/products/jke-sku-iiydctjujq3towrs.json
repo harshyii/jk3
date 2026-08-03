@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41t+3eP50ES.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71hO8pm+suS.jpg | https://m.media-amazon.com/images/I/41NBdSTa1tS.jpg | https://m.media-amazon.com/images/I/41t+3eP50ES.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "6.01%",
   "SalePrice": "₹469.00",
   "Model": "GR5:19 + GR75:25"
 }

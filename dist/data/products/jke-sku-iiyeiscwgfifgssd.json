@@ -34,9 +34,9 @@
     "https://m.media-amazon.com/images/I/51QjogQEzmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/515b+wl3N+L.jpg | https://m.media-amazon.com/images/I/515b+wl3N+L.jpg | https://m.media-amazon.com/images/I/51943u6zB1L.jpg | https://m.media-amazon.com/images/I/51QjogQEzmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "57.65%",
   "SalePrice": "₹296.00",
   "Country": "‎India"
 }

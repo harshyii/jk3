@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41YIcOGN4IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NACVw77OL.jpg | https://m.media-amazon.com/images/I/41f0rPCUzfL.jpg | https://m.media-amazon.com/images/I/51lMPQQ0x9L.jpg | https://m.media-amazon.com/images/I/41MX9irX5gL.jpg | https://m.media-amazon.com/images/I/415n1p32+LL.jpg | https://m.media-amazon.com/images/I/31yjn5BpinL.jpg | https://m.media-amazon.com/images/I/51xujf0BJlL.jpg | https://m.media-amazon.com/images/I/41YIcOGN4IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹41,946.07",
   "Model": "XGH02ZK"
 }

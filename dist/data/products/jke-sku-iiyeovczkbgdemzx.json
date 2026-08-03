@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/512v451uDpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71QxQGG52WL.jpg | https://m.media-amazon.com/images/I/41IpDMWGjDL.jpg | https://m.media-amazon.com/images/I/41sgjp7D7TL.jpg | https://m.media-amazon.com/images/I/51zykO7aH+L.jpg | https://m.media-amazon.com/images/I/51MzDGcJGcL.jpg | https://m.media-amazon.com/images/I/51p34Mi0HIL.jpg | https://m.media-amazon.com/images/I/512v451uDpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "35.04%",
   "SalePrice": "₹2,799.00",
   "Model": "BCD21115CB1"
 }

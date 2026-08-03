@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51ExgEtjWyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71E0RusixAL.jpg | https://m.media-amazon.com/images/I/41L8QUtOePL.jpg | https://m.media-amazon.com/images/I/515uRaMyR0L.jpg | https://m.media-amazon.com/images/I/51yjTRuPHRL.jpg | https://m.media-amazon.com/images/I/51qfEuY1NaL.jpg | https://m.media-amazon.com/images/I/519Ab13dWEL.jpg | https://m.media-amazon.com/images/I/51LfYcbRytL.jpg | https://m.media-amazon.com/images/I/51ExgEtjWyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "68.31%",
   "SalePrice": "₹1,489.00",
   "Model": "WC-EDH13MM-B"
 }

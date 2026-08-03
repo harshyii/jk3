@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41UVOJpFR1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71L6thcdRuL.jpg | https://m.media-amazon.com/images/I/31s3OL2pjgL.jpg | https://m.media-amazon.com/images/I/61Tqe5fd6dL.jpg | https://m.media-amazon.com/images/I/51XuBM16bpL.jpg | https://m.media-amazon.com/images/I/31YkLghhW0L.jpg | https://m.media-amazon.com/images/I/31mVT+cef5L.jpg | https://m.media-amazon.com/images/I/41kYmQqE09L.jpg | https://m.media-amazon.com/images/I/41UVOJpFR1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.78%",
   "SalePrice": "₹1,788.00",
   "Model": "G650-IN"
 }

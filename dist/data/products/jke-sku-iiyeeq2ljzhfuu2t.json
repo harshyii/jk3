@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41h6C7Sn9FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gJKrvVI0L.jpg | https://m.media-amazon.com/images/I/41YF47NpF7L.jpg | https://m.media-amazon.com/images/I/518WS3Ot7hL.jpg | https://m.media-amazon.com/images/I/31O8ZYHzVvL.jpg | https://m.media-amazon.com/images/I/31+TzTFq-BL.jpg | https://m.media-amazon.com/images/I/41h6C7Sn9FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "48.01%",
   "SalePrice": "₹3,249.00",
   "Model": "mif220720me0553"
 }

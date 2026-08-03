@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51N5nRyVNbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71UTBPGQy2L.jpg | https://m.media-amazon.com/images/I/41LO1yfasRL.jpg | https://m.media-amazon.com/images/I/51N5nRyVNbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.63%",
   "SalePrice": "₹1,439.00",
   "Model": "Dm36002"
 }

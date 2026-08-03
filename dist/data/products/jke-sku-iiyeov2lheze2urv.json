@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51XpSEkBpOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61CWBCD0ymL.jpg | https://m.media-amazon.com/images/I/41XH6JW0SZL.jpg | https://m.media-amazon.com/images/I/51lzGMfxcBL.jpg | https://m.media-amazon.com/images/I/61AwT+VbJBL.jpg | https://m.media-amazon.com/images/I/51x8STQWhcL.jpg | https://m.media-amazon.com/images/I/51PRANyAdQL.jpg | https://m.media-amazon.com/images/I/512IjMrleeL.jpg | https://m.media-amazon.com/images/I/51XpSEkBpOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "51.09%",
   "SalePrice": "₹293.00",
   "Model": "Wire Stripper Combo"
 }

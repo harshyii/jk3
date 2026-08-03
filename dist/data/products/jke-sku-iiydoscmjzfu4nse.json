@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41dtEADcOxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41dtEADcOxL.jpg | https://m.media-amazon.com/images/I/41dtEADcOxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹13,500.00",
   "Model": "PDB15006"
 }

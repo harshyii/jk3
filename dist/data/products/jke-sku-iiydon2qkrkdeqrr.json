@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51+wnROymmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71emHFnThpL.jpg | https://m.media-amazon.com/images/I/416xcxLJcnL.jpg | https://m.media-amazon.com/images/I/61QUgVeVLvL.jpg | https://m.media-amazon.com/images/I/41GOQ7ytBxL.jpg | https://m.media-amazon.com/images/I/51I5p9xf7LL.jpg | https://m.media-amazon.com/images/I/41FIqLX28DL.jpg | https://m.media-amazon.com/images/I/51x1hLLhgbL.jpg | https://m.media-amazon.com/images/I/51+wnROymmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.81%",
   "SalePrice": "₹10,999.00",
   "Model": "GBG 35-15"
 }

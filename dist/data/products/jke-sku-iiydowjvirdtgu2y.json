@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/414lNd3z7ZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41RQOCs4NoL.jpg | https://m.media-amazon.com/images/I/31XW6rMSG1L.jpg | https://m.media-amazon.com/images/I/41GeNWMPmcL.jpg | https://m.media-amazon.com/images/I/41VrdqeXY7L.jpg | https://m.media-amazon.com/images/I/414lNd3z7ZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.64%",
   "SalePrice": "₹999.00",
   "Country": "‎Switzerland"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31gXiMCj-kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51F65nJgHcL.jpg | https://m.media-amazon.com/images/I/31zItH13iBL.jpg | https://m.media-amazon.com/images/I/31XDqvQCHFL.jpg | https://m.media-amazon.com/images/I/31wQtbNROyL.jpg | https://m.media-amazon.com/images/I/41W3TYgXXZL.jpg | https://m.media-amazon.com/images/I/31gXiMCj-kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "75.11%",
   "SalePrice": "₹398.00",
   "Model": "SOLAR PART"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51Xf9F+hAPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51rXRf0kPhL.jpg | https://m.media-amazon.com/images/I/51rXRf0kPhL.jpg | https://m.media-amazon.com/images/I/51tz0-MJJaL.jpg | https://m.media-amazon.com/images/I/51MZ7YJDEEL.jpg | https://m.media-amazon.com/images/I/61xioih81GL.jpg | https://m.media-amazon.com/images/I/61ImJDbZa-L.jpg | https://m.media-amazon.com/images/I/51Xf9F+hAPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Square Meters",
-  "Discount": 0,
+  "Discount": "40.08%",
   "SalePrice": "₹299.00",
   "Country": "China"
 }

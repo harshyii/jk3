@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41FZmCkgmCS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71O8bxtH7PS.jpg | https://m.media-amazon.com/images/I/31BQFzOW77S.jpg | https://m.media-amazon.com/images/I/31kvdlwJxJS.jpg | https://m.media-amazon.com/images/I/41osflZ9MyS.jpg | https://m.media-amazon.com/images/I/31pahXsLfKS.jpg | https://m.media-amazon.com/images/I/51LCQF0TheS.jpg | https://m.media-amazon.com/images/I/41WZK1YB9ZS.jpg | https://m.media-amazon.com/images/I/41FZmCkgmCS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "7.69%",
   "SalePrice": "₹30,729.60",
   "Model": "FP4100B"
 }

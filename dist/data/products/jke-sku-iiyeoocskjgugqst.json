@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41z4stWIUZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71IGr+a1vFL.jpg | https://m.media-amazon.com/images/I/41Vda55pQBL.jpg | https://m.media-amazon.com/images/I/41C3sUydZxL.jpg | https://m.media-amazon.com/images/I/41sO54-cpkL.jpg | https://m.media-amazon.com/images/I/31zqzEoB2XL.jpg | https://m.media-amazon.com/images/I/41z4stWIUZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "32.14%",
   "SalePrice": "₹3,800.00",
   "Model": "Maxtra-1800"
 }

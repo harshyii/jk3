@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/216AbL9ScFS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uVHeKhHaS.jpg | https://m.media-amazon.com/images/I/21+NVYQVc+S.jpg | https://m.media-amazon.com/images/I/21G-WkV+60S.jpg | https://m.media-amazon.com/images/I/5186fVtPb0L.jpg | https://m.media-amazon.com/images/I/51t-W+80v6L.jpg | https://m.media-amazon.com/images/I/51hMb5kYnYS.jpg | https://m.media-amazon.com/images/I/41bqDZQxYqL.jpg | https://m.media-amazon.com/images/I/216AbL9ScFS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹14,564.55",
   "Model": "26150LM1JA"
 }

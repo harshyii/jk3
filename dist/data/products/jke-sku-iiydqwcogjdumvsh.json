@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41ve5UqSWhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41MP-Bsr9-L.jpg | https://m.media-amazon.com/images/I/31E-HLndQFL.jpg | https://m.media-amazon.com/images/I/414nWBDAzTL.jpg | https://m.media-amazon.com/images/I/31e4EB9n5lL.jpg | https://m.media-amazon.com/images/I/41XcAnwfV-L.jpg | https://m.media-amazon.com/images/I/41N4YIjltTL.jpg | https://m.media-amazon.com/images/I/31CxQbZBt-L.jpg | https://m.media-amazon.com/images/I/41ve5UqSWhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.95%",
   "SalePrice": "₹28,858.00",
   "Model": "XRW01Z"
 }

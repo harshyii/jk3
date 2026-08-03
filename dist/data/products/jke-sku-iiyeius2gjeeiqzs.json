@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51aGOl-k6bL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510KwWwPEYL.jpg | https://m.media-amazon.com/images/I/31kuC5sZ5KL.jpg | https://m.media-amazon.com/images/I/411UfBuAJnL.jpg | https://m.media-amazon.com/images/I/411-tXc+ymL.jpg | https://m.media-amazon.com/images/I/51aGOl-k6bL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.39%",
   "SalePrice": "₹919.00",
   "Model": "1600A032V9"
 }

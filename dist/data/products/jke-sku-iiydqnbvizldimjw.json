@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41HdQtqG4yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+qRsU4LhL.jpg | https://m.media-amazon.com/images/I/41nre9Q5JML.jpg | https://m.media-amazon.com/images/I/515OGXBKihL.jpg | https://m.media-amazon.com/images/I/4113i8ICqJL.jpg | https://m.media-amazon.com/images/I/41cSR+ncSHL.jpg | https://m.media-amazon.com/images/I/41mA9W0v0UL.jpg | https://m.media-amazon.com/images/I/41E7zJQhW1L.jpg | https://m.media-amazon.com/images/I/41HdQtqG4yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.12%",
   "SalePrice": "₹8,039.00",
   "Model": "D25032B"
 }

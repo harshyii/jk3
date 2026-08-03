@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31mbcj1bqcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51juEnSms9L.jpg | https://m.media-amazon.com/images/I/41TixBzBmQL.jpg | https://m.media-amazon.com/images/I/41nfR4cSvML.jpg | https://m.media-amazon.com/images/I/419lNL5HG5L.jpg | https://m.media-amazon.com/images/I/31mbcj1bqcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "5.42%",
   "SalePrice": "₹2,549.00",
   "Model": "14305",
   "Country": "India"

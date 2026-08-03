@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51phLzGtsaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5153mb29nsL.jpg | https://m.media-amazon.com/images/I/41v42mdE0vL.jpg | https://m.media-amazon.com/images/I/311+SjUb5TL.jpg | https://m.media-amazon.com/images/I/31O1F-NRMoL.jpg | https://m.media-amazon.com/images/I/41eZqooeVcL.jpg | https://m.media-amazon.com/images/I/511ydKnvwnL.jpg | https://m.media-amazon.com/images/I/51+bvG03XfL.jpg | https://m.media-amazon.com/images/I/51phLzGtsaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹45,411.29",
   "Model": "DCW682B"
 }

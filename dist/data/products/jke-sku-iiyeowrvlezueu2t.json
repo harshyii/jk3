@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31lioA9q-YL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yyNqJnXKL.jpg | https://m.media-amazon.com/images/I/31EfGimjndL.jpg | https://m.media-amazon.com/images/I/31PD4oDe2sL.jpg | https://m.media-amazon.com/images/I/31lioA9q-YL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "43.75%",
   "SalePrice": "₹1,345.00",
   "Model": "LTIN66068118"
 }

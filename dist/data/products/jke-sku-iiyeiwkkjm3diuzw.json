@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51BHuGuRIAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Ui728RvaL.jpg | https://m.media-amazon.com/images/I/512hx7rYkjL.jpg | https://m.media-amazon.com/images/I/91Ejqf8K3eL.jpg | https://m.media-amazon.com/images/I/51eg-y87UYL.jpg | https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg | https://m.media-amazon.com/images/I/51K-Aa+V5mL.jpg | https://m.media-amazon.com/images/I/51XuEFSB0LL.jpg | https://m.media-amazon.com/images/I/51BHuGuRIAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.81%",
   "SalePrice": "₹2,273.00",
   "Model": "CD12-46"
 }

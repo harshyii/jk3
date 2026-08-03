@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41lUh5hprDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51OqP5XKnoL.jpg | https://m.media-amazon.com/images/I/41iakvn1BJL.jpg | https://m.media-amazon.com/images/I/51MSoueVd9L.jpg | https://m.media-amazon.com/images/I/51gaoWYSssL.jpg | https://m.media-amazon.com/images/I/41762lvLx1L.jpg | https://m.media-amazon.com/images/I/41+5Gd97jvL.jpg | https://m.media-amazon.com/images/I/51jfgJmMbKL.jpg | https://m.media-amazon.com/images/I/41lUh5hprDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "51.38%",
   "SalePrice": "₹2,431.00",
   "Model": "EID013"
 }

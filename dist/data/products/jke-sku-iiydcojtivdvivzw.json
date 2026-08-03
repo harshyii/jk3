@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41ExnnWfF2S.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612-ZEZd9eS.jpg | https://m.media-amazon.com/images/I/41ExnnWfF2S.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "3.66%",
   "SalePrice": "₹395.00",
   "Model": "D-45509",
   "Country": "Japan"

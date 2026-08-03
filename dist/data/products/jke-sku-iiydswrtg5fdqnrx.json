@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41qMgKrtosL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51EuoZ3tocL.jpg | https://m.media-amazon.com/images/I/21bOfB0GSUL.jpg | https://m.media-amazon.com/images/I/41FoD6H11EL.jpg | https://m.media-amazon.com/images/I/41X4BL32K6L.jpg | https://m.media-amazon.com/images/I/41qMgKrtosL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "35.73%",
   "SalePrice": "₹4,048.04",
   "Model": "408HP"
 }

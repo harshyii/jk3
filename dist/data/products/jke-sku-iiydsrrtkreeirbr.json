@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/31-xhiJA0gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51LO+SSivUL.jpg | https://m.media-amazon.com/images/I/41R407srtML.jpg | https://m.media-amazon.com/images/I/31lyiIZ1UaL.jpg | https://m.media-amazon.com/images/I/413l6xQEWSL.jpg | https://m.media-amazon.com/images/I/41N2Pr4BbWL.jpg | https://m.media-amazon.com/images/I/419y+Nsxf9L.jpg | https://m.media-amazon.com/images/I/41rdr5FoMcL.jpg | https://m.media-amazon.com/images/I/31-xhiJA0gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "73.38%",
   "SalePrice": "₹2,110.00",
   "Model": "734-01"
 }

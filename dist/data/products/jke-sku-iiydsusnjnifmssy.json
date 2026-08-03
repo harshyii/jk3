@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41-bbx7-noL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vBLJK2prL.jpg | https://m.media-amazon.com/images/I/414MkoNVClL.jpg | https://m.media-amazon.com/images/I/51poXMK+ttL.jpg | https://m.media-amazon.com/images/I/41NfbObSdOL.jpg | https://m.media-amazon.com/images/I/51Vkt6gyqvL.jpg | https://m.media-amazon.com/images/I/41awh8lN3aL.jpg | https://m.media-amazon.com/images/I/41-bbx7-noL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "20.1%",
   "SalePrice": "₹3,379.00",
   "Model": "EHD-020N"
 }

@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41hKZaanxfL.jpg | https://m.media-amazon.com/images/I/31vfFOCK+JL.jpg | https://m.media-amazon.com/images/I/41h4uNXP8UL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.99%",
   "SalePrice": "₹2,060.00",
   "Model": "0-150mm"
 }

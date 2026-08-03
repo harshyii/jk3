@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31+CFq7stpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51GP75mjviL.jpg | https://m.media-amazon.com/images/I/31DdSiCEuJL.jpg | https://m.media-amazon.com/images/I/310UqqtGuoL.jpg | https://m.media-amazon.com/images/I/31+CFq7stpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.33%",
   "SalePrice": "₹239.00",
   "Model": "BST 55"
 }

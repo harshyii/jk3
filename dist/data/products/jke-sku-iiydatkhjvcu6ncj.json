@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41ubIZNqpXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tcmIPyhqL.jpg | https://m.media-amazon.com/images/I/31hFvZtBrAL.jpg | https://m.media-amazon.com/images/I/31VsOofKUjL.jpg | https://m.media-amazon.com/images/I/31nx7QvdrbL.jpg | https://m.media-amazon.com/images/I/316UtG-EnwL.jpg | https://m.media-amazon.com/images/I/412YHJMZVBL.jpg | https://m.media-amazon.com/images/I/41DlNUo+pEL.jpg | https://m.media-amazon.com/images/I/41ubIZNqpXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "26.96%",
   "SalePrice": "₹233.00",
   "Model": "DW00717-B1",
   "Country": "China"

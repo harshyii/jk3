@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41LqgAPfjlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CbMmsXpKL.jpg | https://m.media-amazon.com/images/I/317R1PMO8TL.jpg | https://m.media-amazon.com/images/I/41jeDPYYb1L.jpg | https://m.media-amazon.com/images/I/41LqgAPfjlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹99.00",
   "Model": "HGFH758"
 }

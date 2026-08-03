@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51b8vk3XQmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81dL6SlsJ5L.jpg | https://m.media-amazon.com/images/I/51OKlNCHRZL.jpg | https://m.media-amazon.com/images/I/51h9N-yQa+L.jpg | https://m.media-amazon.com/images/I/51NW+87adeL.jpg | https://m.media-amazon.com/images/I/515wvTmjxzL.jpg | https://m.media-amazon.com/images/I/51Ff9AQfOuL.jpg | https://m.media-amazon.com/images/I/51hbZ9fGPkL.jpg | https://m.media-amazon.com/images/I/51b8vk3XQmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "41.35%",
   "SalePrice": "₹34,023.00",
   "Model": "‎Meguiar's × Hunt&Co Kit"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51OBPAdYXcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dg-GlqkSL.jpg | https://m.media-amazon.com/images/I/411LWXVowGL.jpg | https://m.media-amazon.com/images/I/31szVyMxLAL.jpg | https://m.media-amazon.com/images/I/41MOXhsENdL.jpg | https://m.media-amazon.com/images/I/51N2XoZxrkL.jpg | https://m.media-amazon.com/images/I/51Ynvgju6KL.jpg | https://m.media-amazon.com/images/I/51OBPAdYXcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "18.89%",
   "SalePrice": "₹36,500.00",
   "Model": "IFI200W-SP"
 }

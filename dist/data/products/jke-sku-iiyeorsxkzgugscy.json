@@ -60,8 +60,8 @@
     "https://m.media-amazon.com/images/I/41hAQW-tboL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71gwTdrj8JL.jpg | https://m.media-amazon.com/images/I/41b-eyM4DZL.jpg | https://m.media-amazon.com/images/I/41EyJORnDOL.jpg | https://m.media-amazon.com/images/I/41FSyz+lQ4L.jpg | https://m.media-amazon.com/images/I/51JoXpp7WbL.jpg | https://m.media-amazon.com/images/I/51NUuAtGyJL.jpg | https://m.media-amazon.com/images/I/51ak2Oh9-cL.jpg | https://m.media-amazon.com/images/I/41hAQW-tboL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "420.0 Milliliters",
-  "Discount": 0,
+  "Discount": "45.83%",
   "SalePrice": "₹130.00"
 }

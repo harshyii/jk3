@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41vDRgFJn4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7177Mp9kpCL.jpg | https://m.media-amazon.com/images/I/41CAEKPpyQL.jpg | https://m.media-amazon.com/images/I/41IN3n6LqDL.jpg | https://m.media-amazon.com/images/I/412lMD4irPL.jpg | https://m.media-amazon.com/images/I/416Gj4F32HL.jpg | https://m.media-amazon.com/images/I/41vDRgFJn4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "45.03%",
   "SalePrice": "₹2,199.00",
   "Model": "Blue"
 }

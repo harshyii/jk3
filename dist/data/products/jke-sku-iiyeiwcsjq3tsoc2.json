@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51KqLLm+0WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ZgqEVWC2L.jpg | https://m.media-amazon.com/images/I/41ZgqEVWC2L.jpg | https://m.media-amazon.com/images/I/41TuLbTqfTL.jpg | https://m.media-amazon.com/images/I/51XM2GxjUeL.jpg | https://m.media-amazon.com/images/I/51-V+8EWVOL.jpg | https://m.media-amazon.com/images/I/51KqLLm+0WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.15%",
   "SalePrice": "₹23,899.00",
   "Model": "AB18060"
 }

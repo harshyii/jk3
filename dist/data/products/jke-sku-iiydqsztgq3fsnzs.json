@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51CQRNrtaML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71wi8kGSSjL.jpg | https://m.media-amazon.com/images/I/41qlkaDLnRL.jpg | https://m.media-amazon.com/images/I/91Hh+yY9aeL.jpg | https://m.media-amazon.com/images/I/51TCfSsz14L.jpg | https://m.media-amazon.com/images/I/51mm+NCedBL.jpg | https://m.media-amazon.com/images/I/51kY6nOfFYL.jpg | https://m.media-amazon.com/images/I/61gdGrU4SzL.jpg | https://m.media-amazon.com/images/I/51CQRNrtaML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.46%",
   "SalePrice": "₹13,750.00",
   "Model": "DH45-20NW"
 }

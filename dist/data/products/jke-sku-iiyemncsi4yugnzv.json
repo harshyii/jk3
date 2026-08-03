@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/517uG0e7PVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-nJOUPUUL.jpg | https://m.media-amazon.com/images/I/41534UAhAaL.jpg | https://m.media-amazon.com/images/I/41GnnZ4NaiL.jpg | https://m.media-amazon.com/images/I/31Vxa0+sALL.jpg | https://m.media-amazon.com/images/I/415mh6pF7RL.jpg | https://m.media-amazon.com/images/I/41VE2LNwOzL.jpg | https://m.media-amazon.com/images/I/51OH5xWr8OL.jpg | https://m.media-amazon.com/images/I/517uG0e7PVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "0.1%",
   "SalePrice": "₹999.00",
   "Model": "ATONFPV025"
 }

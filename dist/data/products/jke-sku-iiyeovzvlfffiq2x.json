@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/419r8vX8qYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51r3gUy7LuL.jpg | https://m.media-amazon.com/images/I/41doOVUgbvL.jpg | https://m.media-amazon.com/images/I/51MNnTwMzJL.jpg | https://m.media-amazon.com/images/I/41mqGDut2LL.jpg | https://m.media-amazon.com/images/I/41hwA1BQpBL.jpg | https://m.media-amazon.com/images/I/41XQz+QFzoL.jpg | https://m.media-amazon.com/images/I/41Gy-s1DmWL.jpg | https://m.media-amazon.com/images/I/419r8vX8qYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "54.95%",
   "SalePrice": "₹450.00",
   "Model": "6843-20S",
   "Country": "India"

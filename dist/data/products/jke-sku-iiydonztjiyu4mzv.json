@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41MrM3-mvyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5143y2I1BqL.jpg | https://m.media-amazon.com/images/I/31FswWT9NCL.jpg | https://m.media-amazon.com/images/I/41bcf4gs8qL.jpg | https://m.media-amazon.com/images/I/41VyBxU09HL.jpg | https://m.media-amazon.com/images/I/41CnjPRQAOL.jpg | https://m.media-amazon.com/images/I/41Au61EcOjL.jpg | https://m.media-amazon.com/images/I/41xaq6IUKHL.jpg | https://m.media-amazon.com/images/I/41MrM3-mvyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "31.56%",
   "SalePrice": "₹5,452.00",
   "Model": "48-22-3079"
 }

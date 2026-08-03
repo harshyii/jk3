@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51ol1qe4wjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71hWLD9l-vL.jpg | https://m.media-amazon.com/images/I/51UhNi90EQL.jpg | https://m.media-amazon.com/images/I/51Gg4uvLLxL.jpg | https://m.media-amazon.com/images/I/416ZSpfpXDL.jpg | https://m.media-amazon.com/images/I/51eOMrqocnL.jpg | https://m.media-amazon.com/images/I/41hJn64D0gL.jpg | https://m.media-amazon.com/images/I/510LzeUNSoL.jpg | https://m.media-amazon.com/images/I/51ol1qe4wjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,595.43",
   "Model": "53836",
   "Country": "USA"

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41J8q3HcWlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41cq+S9QS7L.jpg | https://m.media-amazon.com/images/I/41cq+S9QS7L.jpg | https://m.media-amazon.com/images/I/51h5oa+w4NL.jpg | https://m.media-amazon.com/images/I/41FXEX3g3PL.jpg | https://m.media-amazon.com/images/I/41J8q3HcWlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "18.94%",
   "SalePrice": "₹3,694.00",
   "Model": "rotary sander+yellow+goggles"
 }

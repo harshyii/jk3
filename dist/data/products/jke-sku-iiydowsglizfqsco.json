@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41QLBJEFnYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XnI1ZMwqL.jpg | https://m.media-amazon.com/images/I/41E19F5nO6L.jpg | https://m.media-amazon.com/images/I/71Hc9EjRucL.jpg | https://m.media-amazon.com/images/I/51NipA58a5L.jpg | https://m.media-amazon.com/images/I/418kq8h2iUL.jpg | https://m.media-amazon.com/images/I/41SS+IYkNkL.jpg | https://m.media-amazon.com/images/I/41QLBJEFnYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.99%",
   "SalePrice": "₹6,490.00",
   "Model": "DF0300/2"
 }

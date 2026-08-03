@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/119VcIjIt-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/513lRqNa3GL.jpg | https://m.media-amazon.com/images/I/21jukV64DRL.jpg | https://m.media-amazon.com/images/I/31YLgVMJTbL.jpg | https://m.media-amazon.com/images/I/210Ro8855YL.jpg | https://m.media-amazon.com/images/I/21fQYanBjtL.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg | https://m.media-amazon.com/images/I/119VcIjIt-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.16%",
   "SalePrice": "₹19,169.00",
   "Model": "DCMPP569N-XJ"
 }

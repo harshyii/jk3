@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41piyFfF5eL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71VQbfJ--TL.jpg | https://m.media-amazon.com/images/I/41eLT1F0PgL.jpg | https://m.media-amazon.com/images/I/41EMmTdamkL.jpg | https://m.media-amazon.com/images/I/41XtG9a7DhL.jpg | https://m.media-amazon.com/images/I/41xOXa36sXL.jpg | https://m.media-amazon.com/images/I/61OgpMBW8rL.jpg | https://m.media-amazon.com/images/I/41piyFfF5eL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.5%",
   "SalePrice": "₹7,382.00",
   "Model": "STHR272KS"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51GKg8WBWQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81DPHkXO5bL.jpg | https://m.media-amazon.com/images/I/51B+xbdJ7PL.jpg | https://m.media-amazon.com/images/I/410PPejU5nL.jpg | https://m.media-amazon.com/images/I/51528zmpakL.jpg | https://m.media-amazon.com/images/I/51Bca85GBBL.jpg | https://m.media-amazon.com/images/I/41olE-Q49tL.jpg | https://m.media-amazon.com/images/I/41URZkrODsL.jpg | https://m.media-amazon.com/images/I/51GKg8WBWQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "75.34%",
   "SalePrice": "₹3,491.00",
   "Model": "AJEW-CP0002-11-US15"
 }

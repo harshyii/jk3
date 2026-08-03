@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51eYbbBkRfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ZD97EjpSL.jpg | https://m.media-amazon.com/images/I/519NzQDDehL.jpg | https://m.media-amazon.com/images/I/51ppPutQ4QL.jpg | https://m.media-amazon.com/images/I/51yNLBIw+kL.jpg | https://m.media-amazon.com/images/I/51a4+5Qc-LL.jpg | https://m.media-amazon.com/images/I/51PWv2ZyzlL.jpg | https://m.media-amazon.com/images/I/51CM1Lt0haL.jpg | https://m.media-amazon.com/images/I/51eYbbBkRfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹25,607.00",
   "Model": "EQP_313",
   "Country": "USA"

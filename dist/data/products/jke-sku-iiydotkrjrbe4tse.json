@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/312LJ+i3J+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512BjNOnqjL.jpg | https://m.media-amazon.com/images/I/11FuB9mgfLL.jpg | https://m.media-amazon.com/images/I/31bpzHk9hDL.jpg | https://m.media-amazon.com/images/I/31JDit1S9lL.jpg | https://m.media-amazon.com/images/I/41+MxDswIiL.jpg | https://m.media-amazon.com/images/I/41+w0vFSXIL.jpg | https://m.media-amazon.com/images/I/312LJ+i3J+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.92%",
   "SalePrice": "₹8,622.71",
   "Model": "VNC",
   "Country": "India"

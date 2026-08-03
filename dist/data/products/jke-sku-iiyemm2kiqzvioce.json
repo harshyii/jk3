@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41NgtW+6ihL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wd8tkdB1L.jpg | https://m.media-amazon.com/images/I/31RtnhwP0zL.jpg | https://m.media-amazon.com/images/I/51ZtUUgEBvL.jpg | https://m.media-amazon.com/images/I/41lgpftihTL.jpg | https://m.media-amazon.com/images/I/41W8dDb-1mL.jpg | https://m.media-amazon.com/images/I/51Z+zDbFg0L.jpg | https://m.media-amazon.com/images/I/41NgtW+6ihL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "20.13%",
   "SalePrice": "₹853.00",
   "Model": "MTH/12"
 }

@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/41zYIhF5hhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sAO0awgsL.jpg | https://m.media-amazon.com/images/I/51RfX-Gb6FL.jpg | https://m.media-amazon.com/images/I/51MOrqXNA-L.jpg | https://m.media-amazon.com/images/I/51nScWdocHL.jpg | https://m.media-amazon.com/images/I/51YVsuhFa5L.jpg | https://m.media-amazon.com/images/I/41+cdZYngSL.jpg | https://m.media-amazon.com/images/I/511-vtV0AzL.jpg | https://m.media-amazon.com/images/I/41zYIhF5hhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.48%",
   "SalePrice": "₹16,535.00",
   "Model": "DXMA1902092",
   "Country": "China"

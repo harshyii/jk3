@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41GdRJjji1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tZLIUyP2L.jpg | https://m.media-amazon.com/images/I/41GdRJjji1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "70.11%",
   "SalePrice": "₹2,989.00",
   "Model": "CCC033"
 }

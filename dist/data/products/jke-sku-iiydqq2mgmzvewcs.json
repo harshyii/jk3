@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51htoG3zjnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81JV7iFLTRL.jpg | https://m.media-amazon.com/images/I/41UdQRrgDOL.jpg | https://m.media-amazon.com/images/I/51qYH6A+tzL.jpg | https://m.media-amazon.com/images/I/518Y7vjeDzL.jpg | https://m.media-amazon.com/images/I/51L8PhoudhL.jpg | https://m.media-amazon.com/images/I/51eRBSOn42L.jpg | https://m.media-amazon.com/images/I/51htoG3zjnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Count",
-  "Discount": 0,
+  "Discount": "29.45%",
   "SalePrice": "₹17,066.00",
   "Model": "DCF902D2-KR"
 }

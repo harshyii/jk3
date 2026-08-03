@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/31T7gVc-JLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51sN48AWcUL.jpg | https://m.media-amazon.com/images/I/31BP91fHvWL.jpg | https://m.media-amazon.com/images/I/31PThJ9Tv2L.jpg | https://m.media-amazon.com/images/I/31ik6hPS3gL.jpg | https://m.media-amazon.com/images/I/21osW0vIQ9L.jpg | https://m.media-amazon.com/images/I/31T7gVc-JLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "13.56%",
   "SalePrice": "₹21,298.00",
   "Model": "GFW-UTL-TBLTCLMP",
   "Country": "USA"

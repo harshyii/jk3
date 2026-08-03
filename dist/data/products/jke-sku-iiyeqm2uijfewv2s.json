@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/21fPcZHFPpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21fPcZHFPpL.jpg | https://m.media-amazon.com/images/I/21fPcZHFPpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "21.67%",
   "SalePrice": "₹23,499.00",
   "Model": "SS-8733"
 }

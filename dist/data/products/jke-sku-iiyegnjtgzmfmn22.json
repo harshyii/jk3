@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41PcQ+pCAAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ZgvOivgjL.jpg | https://m.media-amazon.com/images/I/418rZszHOgL.jpg | https://m.media-amazon.com/images/I/514WdzW3rSL.jpg | https://m.media-amazon.com/images/I/31C-38C+YcL.jpg | https://m.media-amazon.com/images/I/51tPCIGeeYL.jpg | https://m.media-amazon.com/images/I/41RfWfCuoQL.jpg | https://m.media-amazon.com/images/I/41PcQ+pCAAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.31%",
   "SalePrice": "₹6,869.00",
   "Model": "SCH10D2K-IN"
 }

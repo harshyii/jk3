@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/413raoOVv4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616lG6C9nyL.jpg | https://m.media-amazon.com/images/I/31RrJWBx75L.jpg | https://m.media-amazon.com/images/I/413raoOVv4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹291.00",
   "Model": "D070106"
 }

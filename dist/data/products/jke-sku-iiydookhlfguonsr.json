@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51xaLBTwTvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+cAm5MtsL.jpg | https://m.media-amazon.com/images/I/41YPYq-mA3L.jpg | https://m.media-amazon.com/images/I/51PAryoujAL.jpg | https://m.media-amazon.com/images/I/51kGC1jM-ZL.jpg | https://m.media-amazon.com/images/I/51PBs1bGncL.jpg | https://m.media-amazon.com/images/I/61O6cgIVw9L.jpg | https://m.media-amazon.com/images/I/517X7UEbMTL.jpg | https://m.media-amazon.com/images/I/51xaLBTwTvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "56.57%",
   "SalePrice": "₹4,094.00",
   "Model": "WAC21516SW"
 }

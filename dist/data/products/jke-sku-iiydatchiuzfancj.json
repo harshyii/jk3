@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41C+l0u7C9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pAcoQkXIL.jpg | https://m.media-amazon.com/images/I/41b9KpZtPsL.jpg | https://m.media-amazon.com/images/I/2102hWKh2JL.jpg | https://m.media-amazon.com/images/I/41rf8DxizlL.jpg | https://m.media-amazon.com/images/I/41aX3mtQRSL.jpg | https://m.media-amazon.com/images/I/41C+l0u7C9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.66%",
   "SalePrice": "₹200.00",
   "Model": "802"
 }

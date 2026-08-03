@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51Ebva9X+ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZW5mGLBXL.jpg | https://m.media-amazon.com/images/I/31UcR-dJuxL.jpg | https://m.media-amazon.com/images/I/31i0y2Ls9XL.jpg | https://m.media-amazon.com/images/I/31KX60kMXqL.jpg | https://m.media-amazon.com/images/I/219C2swWyBL.jpg | https://m.media-amazon.com/images/I/31TGdsEHVkL.jpg | https://m.media-amazon.com/images/I/31csI2DgVEL.jpg | https://m.media-amazon.com/images/I/51Ebva9X+ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "54.51%",
   "SalePrice": "₹8,361.00",
   "Model": "LN06"
 }

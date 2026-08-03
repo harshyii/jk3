@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/511T5XCt4DL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sAQtkjENL.jpg | https://m.media-amazon.com/images/I/51fA20B9v8L.jpg | https://m.media-amazon.com/images/I/510kMyU6LEL.jpg | https://m.media-amazon.com/images/I/5198iemzAwL.jpg | https://m.media-amazon.com/images/I/51rqKtDCDfL.jpg | https://m.media-amazon.com/images/I/5162iv3LrYL.jpg | https://m.media-amazon.com/images/I/61b2RfbxKaL.jpg | https://m.media-amazon.com/images/I/511T5XCt4DL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.00 Count",
-  "Discount": 0,
+  "Discount": "9.8%",
   "SalePrice": "₹405.00",
   "Model": "54306",
   "Country": "USA"

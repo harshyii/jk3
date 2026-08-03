@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41EU8e7wR9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/810vylxE2lL.jpg | https://m.media-amazon.com/images/I/41EU8e7wR9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.02%",
   "SalePrice": "₹1,025.00",
   "Model": "G10307"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51jo6WxeAXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/716zYbW3CwL.jpg | https://m.media-amazon.com/images/I/41NzCtJQRSL.jpg | https://m.media-amazon.com/images/I/41zRsERkk-L.jpg | https://m.media-amazon.com/images/I/51d-m1YgP3L.jpg | https://m.media-amazon.com/images/I/41TRjcXkMxL.jpg | https://m.media-amazon.com/images/I/41WmepBVL0L.jpg | https://m.media-amazon.com/images/I/51vcIrtM3lL.jpg | https://m.media-amazon.com/images/I/51jo6WxeAXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹21,341.01",
   "Model": "BD2KITCDDI"
 }

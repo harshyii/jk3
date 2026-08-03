@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41kyE+e-4JL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51EkqR1bPDL.jpg | https://m.media-amazon.com/images/I/31e4NTsCB4L.jpg | https://m.media-amazon.com/images/I/61EeNTVSi8L.jpg | https://m.media-amazon.com/images/I/3172Utv-l2L.jpg | https://m.media-amazon.com/images/I/51MMnLvVzcL.jpg | https://m.media-amazon.com/images/I/41JL69hyXXL.jpg | https://m.media-amazon.com/images/I/41kyE+e-4JL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.51%",
   "SalePrice": "₹1,725.00",
   "Model": "NTB/2"
 }

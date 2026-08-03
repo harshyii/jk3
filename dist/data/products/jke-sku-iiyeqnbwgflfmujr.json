@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51NuLmCgbsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718U6-QWPdL.jpg | https://m.media-amazon.com/images/I/41-ZJ+AvWRL.jpg | https://m.media-amazon.com/images/I/412PzZXm6mL.jpg | https://m.media-amazon.com/images/I/513o7umAspL.jpg | https://m.media-amazon.com/images/I/510jZVsMnwL.jpg | https://m.media-amazon.com/images/I/51xb7QThl1L.jpg | https://m.media-amazon.com/images/I/51k5QJ5Fs1L.jpg | https://m.media-amazon.com/images/I/51NuLmCgbsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Grams",
-  "Discount": 0,
+  "Discount": "20.04%",
   "SalePrice": "₹399.00",
   "Model": "PTW-100-01",
   "Country": "India"

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81W5lIu1CiL.jpg | https://m.media-amazon.com/images/I/51dozp0vOjL.jpg | https://m.media-amazon.com/images/I/91f5MyS5opL.jpg | https://m.media-amazon.com/images/I/41oIJ+BZANL.jpg | https://m.media-amazon.com/images/I/51aTZv1chDL.jpg | https://m.media-amazon.com/images/I/51toYWIhh0L.jpg | https://m.media-amazon.com/images/I/41daOtl2-PL.jpg | https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "27.8%",
   "SalePrice": "₹3,249.00",
   "Model": "TD13-120"
 }

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71v7TuaggmL.jpg | https://m.media-amazon.com/images/I/410+MQbUYWL.jpg | https://m.media-amazon.com/images/I/51VnUkKPAZL.jpg | https://m.media-amazon.com/images/I/515kuDx66gL.jpg | https://m.media-amazon.com/images/I/61p-ZEUctsL.jpg | https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.58%",
   "SalePrice": "₹18,399.00",
   "Model": "AMP-48AP250TT"
 }

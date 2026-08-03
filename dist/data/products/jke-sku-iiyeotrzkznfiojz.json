@@ -87,9 +87,9 @@
     "https://m.media-amazon.com/images/I/61v+XyNWRcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61QbTyxpcXL.jpg | https://m.media-amazon.com/images/I/411+A15WguL.jpg | https://m.media-amazon.com/images/I/41Tpcnhq0FL.jpg | https://m.media-amazon.com/images/I/41w6SU3SLLL.jpg | https://m.media-amazon.com/images/I/41UbiAZg1TL.jpg | https://m.media-amazon.com/images/I/51FvRT5bEnL.jpg | https://m.media-amazon.com/images/I/61v+XyNWRcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12%",
   "SalePrice": "₹8,799.00",
   "Model": "2 IN 1 CAMERA"
 }

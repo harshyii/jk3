@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41k6wnmftHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71a7VWZadYL.jpg | https://m.media-amazon.com/images/I/515EdK93LsL.jpg | https://m.media-amazon.com/images/I/51baJbIMRxL.jpg | https://m.media-amazon.com/images/I/51tngilMfdL.jpg | https://m.media-amazon.com/images/I/41k6wnmftHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "77.49%",
   "SalePrice": "₹450.00",
   "Model": "Cuttngwhl003",
   "Country": "China"

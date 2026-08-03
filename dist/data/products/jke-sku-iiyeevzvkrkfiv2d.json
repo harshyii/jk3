@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51gxpa3K7fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41jL3Vd5o+L.jpg | https://m.media-amazon.com/images/I/316zhAH9PYL.jpg | https://m.media-amazon.com/images/I/31xdhllfX7L.jpg | https://m.media-amazon.com/images/I/51D5mdi3qML.jpg | https://m.media-amazon.com/images/I/51gxpa3K7fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "28.91%",
   "SalePrice": "₹7,600.00",
   "Model": "1550 DG 12V"
 }

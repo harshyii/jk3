@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/518xEhUp7dL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cSrkTWGoL.jpg | https://m.media-amazon.com/images/I/31DF-9n4fGL.jpg | https://m.media-amazon.com/images/I/418nYtvYfTL.jpg | https://m.media-amazon.com/images/I/41dgMlyCy4L.jpg | https://m.media-amazon.com/images/I/518xEhUp7dL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "3.39%",
   "SalePrice": "₹627.00",
   "Model": "1600A032VE"
 }

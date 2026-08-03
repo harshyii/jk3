@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41dpyrADshL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61L7N8yEh5L.jpg | https://m.media-amazon.com/images/I/41I8+6YvytL.jpg | https://m.media-amazon.com/images/I/31zYxxKFA2L.jpg | https://m.media-amazon.com/images/I/31wXRaAN8ZL.jpg | https://m.media-amazon.com/images/I/412cMZDuoZL.jpg | https://m.media-amazon.com/images/I/41KfKIdqjXL.jpg | https://m.media-amazon.com/images/I/41ebrqz1s7L.jpg | https://m.media-amazon.com/images/I/41dpyrADshL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.14%",
   "SalePrice": "₹179.00",
   "Model": "NMTP05"
 }

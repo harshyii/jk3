@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41yDPwVzPJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/513vvmPq5ZL.jpg | https://m.media-amazon.com/images/I/31S6LxgMSFL.jpg | https://m.media-amazon.com/images/I/414CcO5yGcL.jpg | https://m.media-amazon.com/images/I/31AYq1VpaDL.jpg | https://m.media-amazon.com/images/I/51VyhyRES6L.jpg | https://m.media-amazon.com/images/I/51PNReMeylL.jpg | https://m.media-amazon.com/images/I/51If-DyqZkL.jpg | https://m.media-amazon.com/images/I/41yDPwVzPJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.08%",
   "SalePrice": "₹13,950.00",
   "Model": "SPV-RT-STAND"
 }

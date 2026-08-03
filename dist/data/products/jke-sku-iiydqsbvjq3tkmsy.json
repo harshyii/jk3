@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51QIDM8qIiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t4Q9S2oFL.jpg | https://m.media-amazon.com/images/I/31SQvKZGIkL.jpg | https://m.media-amazon.com/images/I/415qB3g-gSL.jpg | https://m.media-amazon.com/images/I/418Ihl18MsL.jpg | https://m.media-amazon.com/images/I/51h7WLwSXFL.jpg | https://m.media-amazon.com/images/I/41dXnwSuY6L.jpg | https://m.media-amazon.com/images/I/41pUfw4H+rL.jpg | https://m.media-amazon.com/images/I/51QIDM8qIiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "67.28%",
   "SalePrice": "₹1,133.78",
   "Model": "50403500"
 }

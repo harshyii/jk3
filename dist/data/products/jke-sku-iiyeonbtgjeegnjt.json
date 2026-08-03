@@ -88,9 +88,9 @@
     "https://m.media-amazon.com/images/I/41qM2tHNADL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41WvMyJPXpL.jpg | https://m.media-amazon.com/images/I/21bLmtONG3L.jpg | https://m.media-amazon.com/images/I/41rUlA8GOWL.jpg | https://m.media-amazon.com/images/I/41El6IcE6pL.jpg | https://m.media-amazon.com/images/I/51lZ+OX8FeL.jpg | https://m.media-amazon.com/images/I/41f5myOf65L.jpg | https://m.media-amazon.com/images/I/41qM2tHNADL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.51%",
   "SalePrice": "₹2,949.00",
   "Model": "1200DC33B350"
 }

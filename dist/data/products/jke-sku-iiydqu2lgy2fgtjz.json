@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/513evjjFEUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7126CIrKZSL.jpg | https://m.media-amazon.com/images/I/41xOCLMmCgL.jpg | https://m.media-amazon.com/images/I/41oDpHfmhNL.jpg | https://m.media-amazon.com/images/I/51lnsF9mrRL.jpg | https://m.media-amazon.com/images/I/51quTFqsN4L.jpg | https://m.media-amazon.com/images/I/51flays1hDL.jpg | https://m.media-amazon.com/images/I/513evjjFEUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "19.87%",
   "SalePrice": "₹480.00",
   "Model": "53333"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41ma2+ijrGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cU-CAzLSL.jpg | https://m.media-amazon.com/images/I/41SobrxHPcL.jpg | https://m.media-amazon.com/images/I/61rc45U2EEL.jpg | https://m.media-amazon.com/images/I/41AeIdUOgDL.jpg | https://m.media-amazon.com/images/I/41n2waqrZBL.jpg | https://m.media-amazon.com/images/I/31Imdt7pMYL.jpg | https://m.media-amazon.com/images/I/51PMFTFA5CL.jpg | https://m.media-amazon.com/images/I/41ma2+ijrGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.98%",
   "SalePrice": "₹13,399.00",
   "Model": "Zenith"
 }

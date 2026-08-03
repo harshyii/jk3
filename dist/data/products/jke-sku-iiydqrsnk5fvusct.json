@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/417lp7LeI0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71l+LNZuOIL.jpg | https://m.media-amazon.com/images/I/41MZHZ6AW6L.jpg | https://m.media-amazon.com/images/I/41D63ralLaL.jpg | https://m.media-amazon.com/images/I/41OAV185JaL.jpg | https://m.media-amazon.com/images/I/41mw+YSQ1-L.jpg | https://m.media-amazon.com/images/I/41yNPU28e7L.jpg | https://m.media-amazon.com/images/I/417lp7LeI0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.89%",
   "SalePrice": "₹5,069.00",
   "Model": "DWST83342-1"
 }

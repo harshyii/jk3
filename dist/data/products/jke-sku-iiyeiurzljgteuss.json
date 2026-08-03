@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41esTUYk7CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714i4qHivTL.jpg | https://m.media-amazon.com/images/I/41eHoR0vqgL.jpg | https://m.media-amazon.com/images/I/511NNwedGwL.jpg | https://m.media-amazon.com/images/I/51cQHKpx6fL.jpg | https://m.media-amazon.com/images/I/51DmNyojIVL.jpg | https://m.media-amazon.com/images/I/517R2i+VmkL.jpg | https://m.media-amazon.com/images/I/41oZ8kBOVbL.jpg | https://m.media-amazon.com/images/I/41esTUYk7CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.72%",
   "SalePrice": "₹44,046.70",
   "Model": "DCBP320"
 }

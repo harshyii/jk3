@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/5195sIml4EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61kX1rH3siL.jpg | https://m.media-amazon.com/images/I/3137WrTauyL.jpg | https://m.media-amazon.com/images/I/31IpR8q-LUL.jpg | https://m.media-amazon.com/images/I/41MZ8gTB6rL.jpg | https://m.media-amazon.com/images/I/416g4ht7IhL.jpg | https://m.media-amazon.com/images/I/414m2axxrZL.jpg | https://m.media-amazon.com/images/I/31EuGNYe9+L.jpg | https://m.media-amazon.com/images/I/5195sIml4EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "11.03%",
   "SalePrice": "₹32,263.00",
   "Model": "LSW36"
 }

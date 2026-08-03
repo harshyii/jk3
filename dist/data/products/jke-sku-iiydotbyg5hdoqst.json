@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41iw3hsy8nL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vxQ1cvDTL.jpg | https://m.media-amazon.com/images/I/31jHyUh7TUL.jpg | https://m.media-amazon.com/images/I/41W53FktWsL.jpg | https://m.media-amazon.com/images/I/51saZvYqJ9L.jpg | https://m.media-amazon.com/images/I/51ZAtYv6O4L.jpg | https://m.media-amazon.com/images/I/515PlqKh+aL.jpg | https://m.media-amazon.com/images/I/51a2YShdh9L.jpg | https://m.media-amazon.com/images/I/41iw3hsy8nL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250 Milliliters",
-  "Discount": 0,
+  "Discount": "61.33%",
   "SalePrice": "₹309.00",
   "Country": "India"
 }

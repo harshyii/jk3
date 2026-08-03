@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51g53deXV3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61loUpcX72L.jpg | https://m.media-amazon.com/images/I/31C30v-ilHL.jpg | https://m.media-amazon.com/images/I/41LYQcglleL.jpg | https://m.media-amazon.com/images/I/51em5flTaiL.jpg | https://m.media-amazon.com/images/I/51K3u-C7m0L.jpg | https://m.media-amazon.com/images/I/51jHdqvghRL.jpg | https://m.media-amazon.com/images/I/41KYaVxeONL.jpg | https://m.media-amazon.com/images/I/51g53deXV3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.51%",
   "SalePrice": "₹2,299.00",
   "Model": "HG256"
 }

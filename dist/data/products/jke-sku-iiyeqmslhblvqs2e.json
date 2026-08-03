@@ -30,8 +30,8 @@
     "https://m.media-amazon.com/images/I/31LFNwv2bzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51JrjLeob9L.jpg | https://m.media-amazon.com/images/I/31LFNwv2bzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "49.39%",
   "SalePrice": "₹458.00"
 }

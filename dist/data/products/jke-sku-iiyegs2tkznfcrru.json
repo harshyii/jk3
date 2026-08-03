@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31aNiugUdqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31DJUnwGk+L.jpg | https://m.media-amazon.com/images/I/21kLqB9g+DL.jpg | https://m.media-amazon.com/images/I/31C7+aLSGLL.jpg | https://m.media-amazon.com/images/I/31CSIfZiFyL.jpg | https://m.media-amazon.com/images/I/31aNiugUdqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.44%",
   "SalePrice": "₹1,690.00",
   "Model": "classique",
   "Country": "India"

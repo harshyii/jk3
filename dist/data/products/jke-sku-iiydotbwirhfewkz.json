@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51UbT+9MECL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XJDaO-Y2L.jpg | https://m.media-amazon.com/images/I/51WMK2Wkg6L.jpg | https://m.media-amazon.com/images/I/51f4qL8clbL.jpg | https://m.media-amazon.com/images/I/51p97xXyV7L.jpg | https://m.media-amazon.com/images/I/41et0tSn3yL.jpg | https://m.media-amazon.com/images/I/41SPchyfLRL.jpg | https://m.media-amazon.com/images/I/51h93EnS9dL.jpg | https://m.media-amazon.com/images/I/51UbT+9MECL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,484.58",
   "Model": "‎1120004W",
   "Country": "‎USA"

@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/212CSLSqZxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512pwZqZdPL.jpg | https://m.media-amazon.com/images/I/212CSLSqZxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹20,154.16",
   "Model": "48-73-1321"
 }

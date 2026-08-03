@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51V4elrBtaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tGeYZF2yL.jpg | https://m.media-amazon.com/images/I/41Shbv7onhL.jpg | https://m.media-amazon.com/images/I/41F9PMM1j8L.jpg | https://m.media-amazon.com/images/I/41LFS-0WlrL.jpg | https://m.media-amazon.com/images/I/41DA4uRxZzL.jpg | https://m.media-amazon.com/images/I/51C3NrYNSSL.jpg | https://m.media-amazon.com/images/I/41uZGUyi71L.jpg | https://m.media-amazon.com/images/I/51V4elrBtaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.05%",
   "SalePrice": "₹549.00",
   "Model": "PR5669.",
   "Country": "China"

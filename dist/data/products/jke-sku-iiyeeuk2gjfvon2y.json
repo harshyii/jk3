@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/31hcN9KusIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71if61mljLL.jpg | https://m.media-amazon.com/images/I/31tIyptkXtL.jpg | https://m.media-amazon.com/images/I/41FXGUuqPFL.jpg | https://m.media-amazon.com/images/I/31ZQRXKYCyL.jpg | https://m.media-amazon.com/images/I/31ojKm5cveL.jpg | https://m.media-amazon.com/images/I/31hcN9KusIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.00 Count",
-  "Discount": 0,
+  "Discount": "36.67%",
   "SalePrice": "₹6,934.00",
   "Country": "India"
 }

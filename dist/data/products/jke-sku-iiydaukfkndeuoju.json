@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41jNwWgDLxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61V6yWLLw8L.jpg | https://m.media-amazon.com/images/I/419ZyTO7IwL.jpg | https://m.media-amazon.com/images/I/41A32So9VKL.jpg | https://m.media-amazon.com/images/I/41CB6HmSCML.jpg | https://m.media-amazon.com/images/I/41pITpqIAuL.jpg | https://m.media-amazon.com/images/I/51EE54kFM9L.jpg | https://m.media-amazon.com/images/I/51mAAEQbk0L.jpg | https://m.media-amazon.com/images/I/41jNwWgDLxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Pack",
-  "Discount": 0,
+  "Discount": "43.65%",
   "SalePrice": "₹8,399.00",
   "Model": "5620"
 }

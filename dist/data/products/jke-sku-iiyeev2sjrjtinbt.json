@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41JVRPfRk2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5183CqnRJ0L.jpg | https://m.media-amazon.com/images/I/5183CqnRJ0L.jpg | https://m.media-amazon.com/images/I/41r7LUmoGnL.jpg | https://m.media-amazon.com/images/I/41BfycaLtfL.jpg | https://m.media-amazon.com/images/I/41JVRPfRk2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "62.66%",
   "SalePrice": "₹149.00",
   "Model": "23-2-Practical File"
 }

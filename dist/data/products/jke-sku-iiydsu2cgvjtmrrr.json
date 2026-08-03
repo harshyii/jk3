@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41ZtO3XCJIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717CqBCt2rL.jpg | https://m.media-amazon.com/images/I/41BzIgKHkDL.jpg | https://m.media-amazon.com/images/I/41Feh0ulYRL.jpg | https://m.media-amazon.com/images/I/4126QTaLJvL.jpg | https://m.media-amazon.com/images/I/417s4BWyW6L.jpg | https://m.media-amazon.com/images/I/41WaGELpKzL.jpg | https://m.media-amazon.com/images/I/4123xbKdu2L.jpg | https://m.media-amazon.com/images/I/41ZtO3XCJIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹750.00",
   "Model": "VD10003-NEW"
 }

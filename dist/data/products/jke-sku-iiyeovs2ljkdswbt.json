@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41QNZeLBkbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71lhWqCdnOL.jpg | https://m.media-amazon.com/images/I/41tZ5KDP5ZL.jpg | https://m.media-amazon.com/images/I/51Q9H-l9vhL.jpg | https://m.media-amazon.com/images/I/51-C7AtBhzL.jpg | https://m.media-amazon.com/images/I/51MZF7zqTgL.jpg | https://m.media-amazon.com/images/I/51Oq3-RVSyL.jpg | https://m.media-amazon.com/images/I/41QNZeLBkbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.05%",
   "SalePrice": "₹549.00",
   "Model": "GSN-TF",
   "Country": "China"

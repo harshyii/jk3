@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/5196XyUwcEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FHmBZs4ZL.jpg | https://m.media-amazon.com/images/I/31aMrLoycTL.jpg | https://m.media-amazon.com/images/I/41a+OKvDmsS.jpg | https://m.media-amazon.com/images/I/41ZRQFQp43L.jpg | https://m.media-amazon.com/images/I/51trF40fc2L.jpg | https://m.media-amazon.com/images/I/41hzwlSk5eL.jpg | https://m.media-amazon.com/images/I/414Se431oHL.jpg | https://m.media-amazon.com/images/I/5196XyUwcEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.22%",
   "SalePrice": "₹3,699.00",
   "Model": "BOV61_06013940F0"
 }

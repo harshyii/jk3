@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31MbQtYSVkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PdckzQ11L.jpg | https://m.media-amazon.com/images/I/31bYT62gs1L.jpg | https://m.media-amazon.com/images/I/31QtkbipOCL.jpg | https://m.media-amazon.com/images/I/31W1Avuq5kL.jpg | https://m.media-amazon.com/images/I/31MbQtYSVkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.5%",
   "SalePrice": "₹169.00",
   "Model": "1/2'' HEX SOCKET-24"
 }

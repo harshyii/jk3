@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31uTiAcyrGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51bWYGVmnFL.jpg | https://m.media-amazon.com/images/I/31piJHzOV2L.jpg | https://m.media-amazon.com/images/I/31OSRMr1BxL.jpg | https://m.media-amazon.com/images/I/316hw81slVL.jpg | https://m.media-amazon.com/images/I/31uTiAcyrGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "74.59%",
   "SalePrice": "₹681.00",
   "Model": "IMD 60"
 }

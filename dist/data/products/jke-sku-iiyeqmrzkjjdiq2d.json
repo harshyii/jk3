@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41YJYVmRm5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61mIpo853zL.jpg | https://m.media-amazon.com/images/I/31CcpnrIVKL.jpg | https://m.media-amazon.com/images/I/41qVQSNmLKL.jpg | https://m.media-amazon.com/images/I/41UhVnWLFUL.jpg | https://m.media-amazon.com/images/I/41bgBI1PiQL.jpg | https://m.media-amazon.com/images/I/414e55BCfPL.jpg | https://m.media-amazon.com/images/I/41ymgCP8l-L.jpg | https://m.media-amazon.com/images/I/41YJYVmRm5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "75.06%",
   "SalePrice": "₹299.00",
   "Model": "U48V-LB100",
   "Country": "India"

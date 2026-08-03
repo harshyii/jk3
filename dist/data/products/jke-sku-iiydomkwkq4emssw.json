@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41Ld9CNRVML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/412Mc3fZe4L.jpg | https://m.media-amazon.com/images/I/412Mc3fZe4L.jpg | https://m.media-amazon.com/images/I/31xCzfy8JBL.jpg | https://m.media-amazon.com/images/I/41Ld9CNRVML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.51%",
   "SalePrice": "₹3,218.00",
   "Model": "TC46A51"
 }

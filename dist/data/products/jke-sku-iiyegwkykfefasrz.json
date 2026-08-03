@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41GPldLcVZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yK4C4ww-L.jpg | https://m.media-amazon.com/images/I/31k-SEhH9YL.jpg | https://m.media-amazon.com/images/I/31O5mPpebUL.jpg | https://m.media-amazon.com/images/I/315rziAHzdL.jpg | https://m.media-amazon.com/images/I/31tnYmLlIbL.jpg | https://m.media-amazon.com/images/I/314Kp-colUL.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg | https://m.media-amazon.com/images/I/41GPldLcVZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹28,098.14",
   "Model": "PBP1008",
   "Country": "USA"

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51zWav1MP9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SNnRQBCvL.jpg | https://m.media-amazon.com/images/I/41i9zeo+3SL.jpg | https://m.media-amazon.com/images/I/41EKygPW2DL.jpg | https://m.media-amazon.com/images/I/51Zx4XWvNoL.jpg | https://m.media-amazon.com/images/I/511gSVfrdVL.jpg | https://m.media-amazon.com/images/I/51oHTGJS-tL.jpg | https://m.media-amazon.com/images/I/51OgA5QYAzL.jpg | https://m.media-amazon.com/images/I/51zWav1MP9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "20.48%",
   "SalePrice": "₹660.00",
   "Model": "PNKF1K",
   "Country": "India"

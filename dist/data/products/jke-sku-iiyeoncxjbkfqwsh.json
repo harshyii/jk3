@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31ocha0gblL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51csA-RJDXL.jpg | https://m.media-amazon.com/images/I/31CKvXruACL.jpg | https://m.media-amazon.com/images/I/31ocha0gblL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "42.02%",
   "SalePrice": "₹1,449.00",
   "Model": "18-56804L"
 }

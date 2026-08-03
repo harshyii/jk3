@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41+TDfj51JL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JPgdQliSL.jpg | https://m.media-amazon.com/images/I/2104gPOFY3L.jpg | https://m.media-amazon.com/images/I/41+TDfj51JL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹291.00",
   "Model": "D100400"
 }

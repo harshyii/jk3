@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41eHoR0vqgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sTfXYhRRL.jpg | https://m.media-amazon.com/images/I/41pX8ULasjL.jpg | https://m.media-amazon.com/images/I/41UimdT5dUL.jpg | https://m.media-amazon.com/images/I/511NNwedGwL.jpg | https://m.media-amazon.com/images/I/51cQHKpx6fL.jpg | https://m.media-amazon.com/images/I/51DmNyojIVL.jpg | https://m.media-amazon.com/images/I/517R2i+VmkL.jpg | https://m.media-amazon.com/images/I/41eHoR0vqgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹34,103.73",
   "Model": "DCBP320-2",
   "Country": "USA"

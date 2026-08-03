@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41JdtFJxbhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91mLJGZDeQL.jpg | https://m.media-amazon.com/images/I/51DQ470VUtL.jpg | https://m.media-amazon.com/images/I/517NDx92wQL.jpg | https://m.media-amazon.com/images/I/51CEmMsuM5L.jpg | https://m.media-amazon.com/images/I/51UzAO5pKXL.jpg | https://m.media-amazon.com/images/I/513wS3Pd3QL.jpg | https://m.media-amazon.com/images/I/41JdtFJxbhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "64.02%",
   "SalePrice": "₹7,982.44",
   "Model": "2RyobiBags"
 }

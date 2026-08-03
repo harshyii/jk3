@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31JWHz2TFmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61HwyXwEdAL.jpg | https://m.media-amazon.com/images/I/31RmVCXNvlL.jpg | https://m.media-amazon.com/images/I/41iEo339ZrL.jpg | https://m.media-amazon.com/images/I/41CerbwVwmL.jpg | https://m.media-amazon.com/images/I/41m45obCv7L.jpg | https://m.media-amazon.com/images/I/51t2Rxahq9L.jpg | https://m.media-amazon.com/images/I/41zYB3Q-qLL.jpg | https://m.media-amazon.com/images/I/31JWHz2TFmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "90.13%",
   "SalePrice": "₹69.00",
   "Model": "SOLAR 101"
 }

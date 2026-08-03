@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51DfzbY3x0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DDh7MTZxL.jpg | https://m.media-amazon.com/images/I/31h4uLhRuaL.jpg | https://m.media-amazon.com/images/I/41UCsw22VjL.jpg | https://m.media-amazon.com/images/I/51zGPjCji9L.jpg | https://m.media-amazon.com/images/I/51DfzbY3x0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "499.9997 Milliliters",
-  "Discount": 0,
+  "Discount": "29.42%",
   "SalePrice": "₹11,998.00",
   "Model": "SON-206141-BUN",
   "Country": "USA"

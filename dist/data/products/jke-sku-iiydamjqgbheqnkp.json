@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51nygUkJcDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Vx8qKlyfL.jpg | https://m.media-amazon.com/images/I/517ppuh89BL.jpg | https://m.media-amazon.com/images/I/510rpyrLOyL.jpg | https://m.media-amazon.com/images/I/41nGop5aztL.jpg | https://m.media-amazon.com/images/I/512qsVDnOGL.jpg | https://m.media-amazon.com/images/I/51Tq8zI0LsL.jpg | https://m.media-amazon.com/images/I/51nygUkJcDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.03%",
   "SalePrice": "₹189.00",
   "Model": "17041"
 }

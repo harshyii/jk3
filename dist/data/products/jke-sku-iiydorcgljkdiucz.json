@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/61c0vjDUNUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Nj8RzU7aL.jpg | https://m.media-amazon.com/images/I/31QrKWCp-AL.jpg | https://m.media-amazon.com/images/I/51Ct3Qzq92L.jpg | https://m.media-amazon.com/images/I/31VaEFZl54L.jpg | https://m.media-amazon.com/images/I/51xvUa1MV3L.jpg | https://m.media-amazon.com/images/I/51giXLLKHUL.jpg | https://m.media-amazon.com/images/I/61c0vjDUNUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.4%",
   "SalePrice": "₹1,859.00",
   "Model": "BD65RD"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31apBLwM7VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6104l92chVL.jpg | https://m.media-amazon.com/images/I/31Fh8NgJmPL.jpg | https://m.media-amazon.com/images/I/41PuEY0IstL.jpg | https://m.media-amazon.com/images/I/31BnfDg6SaL.jpg | https://m.media-amazon.com/images/I/41AsPi+IxzL.jpg | https://m.media-amazon.com/images/I/31apBLwM7VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "28.65%",
   "SalePrice": "₹249.00",
   "Model": "Tk-052 (822I 936I 824I)"
 }

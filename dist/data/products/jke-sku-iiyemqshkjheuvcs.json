@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31fq-5PPkRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/4131L9NHufL.jpg | https://m.media-amazon.com/images/I/11RHhyMNw2L.jpg | https://m.media-amazon.com/images/I/21cFTKfuBuL.jpg | https://m.media-amazon.com/images/I/21Xwi6WTeQL.jpg | https://m.media-amazon.com/images/I/31edao8zzYL.jpg | https://m.media-amazon.com/images/I/31fq-5PPkRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "29.94%",
   "SalePrice": "₹868.00",
   "Model": "CSP/XRT/12/UG"
 }

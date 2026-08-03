@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/418eG6zStqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41ZOReH8r4L.jpg | https://m.media-amazon.com/images/I/41atVbI2DrL.jpg | https://m.media-amazon.com/images/I/418eG6zStqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "52%",
   "SalePrice": "₹144.00",
   "Model": "FG5746"
 }

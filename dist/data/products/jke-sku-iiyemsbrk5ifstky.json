@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41GYtEKi83L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Kjm+YvjDL.jpg | https://m.media-amazon.com/images/I/41s53ARC1eL.jpg | https://m.media-amazon.com/images/I/51kFienrU+L.jpg | https://m.media-amazon.com/images/I/41d4jvxHuJL.jpg | https://m.media-amazon.com/images/I/51qrXSs6xDL.jpg | https://m.media-amazon.com/images/I/41tvl8kux3L.jpg | https://m.media-amazon.com/images/I/51ffdmFTlxL.jpg | https://m.media-amazon.com/images/I/41GYtEKi83L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.03%",
   "SalePrice": "₹4,495.00",
   "Model": "GHCAFSTB135"
 }

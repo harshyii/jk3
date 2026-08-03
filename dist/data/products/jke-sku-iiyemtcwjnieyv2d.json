@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41Dwek5xRxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41s8m4fAieL.jpg | https://m.media-amazon.com/images/I/41s8m4fAieL.jpg | https://m.media-amazon.com/images/I/41Dwek5xRxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.37%",
   "SalePrice": "₹2,940.00",
   "Model": "RW125"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41OY1zLeTuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zYY6Y1fJL.jpg | https://m.media-amazon.com/images/I/31mWay4QxTL.jpg | https://m.media-amazon.com/images/I/41OY1zLeTuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27.55%",
   "SalePrice": "₹2,896.62",
   "Model": "TCHL/11-10D/1/W1/GRZ"
 }

@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41tcwXUonTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61S5TMj5cZL.jpg | https://m.media-amazon.com/images/I/41b+6wczqpL.jpg | https://m.media-amazon.com/images/I/51AtR6OrSiL.jpg | https://m.media-amazon.com/images/I/41tcwXUonTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "38.22%",
   "SalePrice": "₹6,177.00",
   "Model": "FS4ATI",
   "Country": "USA"

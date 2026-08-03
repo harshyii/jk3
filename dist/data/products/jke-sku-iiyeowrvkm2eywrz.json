@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51+yzquZLlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/515czOG5WYL.jpg | https://m.media-amazon.com/images/I/41sucnN0M4L.jpg | https://m.media-amazon.com/images/I/41FuHsBSvRL.jpg | https://m.media-amazon.com/images/I/41yYBntpCQL.jpg | https://m.media-amazon.com/images/I/51+yzquZLlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "18.74%",
   "SalePrice": "₹945.00",
   "Model": "LTIN19544226"
 }

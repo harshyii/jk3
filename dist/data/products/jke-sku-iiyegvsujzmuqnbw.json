@@ -37,9 +37,9 @@
     "https://m.media-amazon.com/images/I/21300HhvUtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51U7zXt-LEL.jpg | https://m.media-amazon.com/images/I/21300HhvUtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "67.57%",
   "SalePrice": "₹324.00",
   "Model": "8\"/210mm"
 }

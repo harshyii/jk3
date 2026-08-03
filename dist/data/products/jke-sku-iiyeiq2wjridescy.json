@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41TuUIqeVSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71s+4jBFCQL.jpg | https://m.media-amazon.com/images/I/31JBFxw8RPL.jpg | https://m.media-amazon.com/images/I/51mHDspSzwL.jpg | https://m.media-amazon.com/images/I/41gA8evRoJL.jpg | https://m.media-amazon.com/images/I/51f-KRDNL+L.jpg | https://m.media-amazon.com/images/I/51+H+MDUkPL.jpg | https://m.media-amazon.com/images/I/41TuUIqeVSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.61%",
   "SalePrice": "₹2,111.00",
   "Model": "KT-110"
 }

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41s00+IrH+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51JgZRbxWNL.jpg | https://m.media-amazon.com/images/I/31qYvyDgn5L.jpg | https://m.media-amazon.com/images/I/4104N+zOyUL.jpg | https://m.media-amazon.com/images/I/41s00+IrH+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "47.47%",
   "SalePrice": "₹520.00",
   "Model": "Xp-tsd-3pc",
   "Country": "India"

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/61SoTUK52ZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71iVsS+N4KL.jpg | https://m.media-amazon.com/images/I/41aBl50sWpL.jpg | https://m.media-amazon.com/images/I/61nZxmGswHL.jpg | https://m.media-amazon.com/images/I/51Hyk8hKMAL.jpg | https://m.media-amazon.com/images/I/61SoTUK52ZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹17,010.00",
   "Model": "DR560"
 }

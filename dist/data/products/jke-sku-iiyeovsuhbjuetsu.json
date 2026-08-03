@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51+xJycdpSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Sjyv-nccL.jpg | https://m.media-amazon.com/images/I/411xD6Dp4rL.jpg | https://m.media-amazon.com/images/I/519yRxCfoML.jpg | https://m.media-amazon.com/images/I/51SeNDrkIPL.jpg | https://m.media-amazon.com/images/I/41nCdYeS98L.jpg | https://m.media-amazon.com/images/I/51pZgCe1UtL.jpg | https://m.media-amazon.com/images/I/51+xJycdpSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.5%",
   "SalePrice": "₹11,100.00",
   "Model": "Bluth Solar 570W Bifacial Monoperc"
 }

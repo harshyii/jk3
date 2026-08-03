@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51EL4MwZlvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71JT1LUrZuL.jpg | https://m.media-amazon.com/images/I/51+Q2UUF7vL.jpg | https://m.media-amazon.com/images/I/51vnX4zRk+L.jpg | https://m.media-amazon.com/images/I/51tLTH-SQ3L.jpg | https://m.media-amazon.com/images/I/511ZuQpiX+L.jpg | https://m.media-amazon.com/images/I/51Dk4mmtycL.jpg | https://m.media-amazon.com/images/I/51EL4MwZlvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.01%",
   "SalePrice": "₹3,807.00",
   "Model": "65LO"
 }

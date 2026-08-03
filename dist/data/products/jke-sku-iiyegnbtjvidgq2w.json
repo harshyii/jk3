@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51kGnGNZyBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Suuk1L6pL.jpg | https://m.media-amazon.com/images/I/31IP55-TGNL.jpg | https://m.media-amazon.com/images/I/41Ruhtpkv9L.jpg | https://m.media-amazon.com/images/I/41NxWMewD7L.jpg | https://m.media-amazon.com/images/I/41MiGlZ0-iL.jpg | https://m.media-amazon.com/images/I/51kGnGNZyBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "2.9%",
   "SalePrice": "₹5,825.00",
   "Model": "CPDG-06I"
 }

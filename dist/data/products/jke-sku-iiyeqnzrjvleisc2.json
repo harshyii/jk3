@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41WNDr5tIFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Zm6JUxrbL.jpg | https://m.media-amazon.com/images/I/41+ehOFEnyL.jpg | https://m.media-amazon.com/images/I/41WNDr5tIFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "39.99%",
   "SalePrice": "₹1,801.00",
   "Model": "D034406"
 }

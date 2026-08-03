@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51HjSLEGu3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51WyFbC9qfL.jpg | https://m.media-amazon.com/images/I/41-a8Z1uRyL.jpg | https://m.media-amazon.com/images/I/51iOmij8yQL.jpg | https://m.media-amazon.com/images/I/51i4SEbfmmL.jpg | https://m.media-amazon.com/images/I/417aRIfcYIL.jpg | https://m.media-amazon.com/images/I/41SkvIYB8bL.jpg | https://m.media-amazon.com/images/I/317NBzfnmSL.jpg | https://m.media-amazon.com/images/I/51HjSLEGu3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹48,805.71",
   "Model": "XAG12Z1"
 }

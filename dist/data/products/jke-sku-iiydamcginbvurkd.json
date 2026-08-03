@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/41-2P++woDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614F1NpVufL.jpg | https://m.media-amazon.com/images/I/41LOXT5BHrL.jpg | https://m.media-amazon.com/images/I/51V9YsN6YVL.jpg | https://m.media-amazon.com/images/I/41857hwwcXL.jpg | https://m.media-amazon.com/images/I/41MHU4r8JuL.jpg | https://m.media-amazon.com/images/I/41orFlO2RDL.jpg | https://m.media-amazon.com/images/I/41kBYlIydyL.jpg | https://m.media-amazon.com/images/I/41-2P++woDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.92%",
   "SalePrice": "₹159.00",
   "Model": "17067ES"
 }

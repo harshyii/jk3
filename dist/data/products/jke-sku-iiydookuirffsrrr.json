@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/313M6WoH8iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71p8xaF0B3L.jpg | https://m.media-amazon.com/images/I/41iDHRuqyBL.jpg | https://m.media-amazon.com/images/I/41Sv2Z4OfrL.jpg | https://m.media-amazon.com/images/I/41GxeXDBPtL.jpg | https://m.media-amazon.com/images/I/313M6WoH8iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.1%",
   "SalePrice": "₹1,364.03",
   "Model": "35803"
 }

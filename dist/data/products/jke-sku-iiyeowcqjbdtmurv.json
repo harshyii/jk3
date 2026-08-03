@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41H3+dcyICL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UyJYDlEkL.jpg | https://m.media-amazon.com/images/I/41aZf+oikyL.jpg | https://m.media-amazon.com/images/I/41G43YI4IxL.jpg | https://m.media-amazon.com/images/I/4125v+hCIlL.jpg | https://m.media-amazon.com/images/I/415BwGnINoL.jpg | https://m.media-amazon.com/images/I/41UMTZggC7L.jpg | https://m.media-amazon.com/images/I/41rn0NT1Q0L.jpg | https://m.media-amazon.com/images/I/41H3+dcyICL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60%",
   "SalePrice": "₹4,399.29",
   "Model": "RP-180"
 }

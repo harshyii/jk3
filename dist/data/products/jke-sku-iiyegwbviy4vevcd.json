@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41GFyIYCIlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qgCej3YkL.jpg | https://m.media-amazon.com/images/I/41adHKHC1JL.jpg | https://m.media-amazon.com/images/I/41RjhBsGcaL.jpg | https://m.media-amazon.com/images/I/41rmHgOkLLL.jpg | https://m.media-amazon.com/images/I/51FWxWR9OJL.jpg | https://m.media-amazon.com/images/I/21uwXcgkpJL.jpg | https://m.media-amazon.com/images/I/41GFyIYCIlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "48.16%",
   "SalePrice": "₹155.00",
   "Model": "0471_OB_steel_garden_cutter_1pc"
 }

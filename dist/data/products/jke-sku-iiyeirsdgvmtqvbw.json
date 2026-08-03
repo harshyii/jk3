@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51H9DsDFXqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81W1qnRlCrL.jpg | https://m.media-amazon.com/images/I/51-O7sm8AxL.jpg | https://m.media-amazon.com/images/I/511OnkTo2YL.jpg | https://m.media-amazon.com/images/I/51X7gKhVyWL.jpg | https://m.media-amazon.com/images/I/512u051jyAL.jpg | https://m.media-amazon.com/images/I/51U3E8WHd1L.jpg | https://m.media-amazon.com/images/I/51nL5X9k4+L.jpg | https://m.media-amazon.com/images/I/51H9DsDFXqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "51.06%",
   "SalePrice": "₹759.00",
   "Model": "TSB1403",
   "Country": "China"

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51Y-EWHMY6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81486RVYOaL.jpg | https://m.media-amazon.com/images/I/51RMcvu5jTL.jpg | https://m.media-amazon.com/images/I/51JvGT3Yq9L.jpg | https://m.media-amazon.com/images/I/51Y-EWHMY6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,661.49",
   "Country": "USA"
 }

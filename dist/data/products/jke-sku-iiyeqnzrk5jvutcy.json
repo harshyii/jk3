@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41hygq2vN4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+nkiL0bhL.jpg | https://m.media-amazon.com/images/I/21ySau17OiL.jpg | https://m.media-amazon.com/images/I/41hygq2vN4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹462.00",
   "Model": "D032101"
 }

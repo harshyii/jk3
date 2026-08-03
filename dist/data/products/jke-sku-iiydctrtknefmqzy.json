@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51dPLu-l02L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/917vLEZRL4L.jpg | https://m.media-amazon.com/images/I/51DORCZMmmL.jpg | https://m.media-amazon.com/images/I/41LdUt7GjJL.jpg | https://m.media-amazon.com/images/I/51dPLu-l02L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "175.0 Grams",
-  "Discount": 0,
+  "Discount": "67.03%",
   "SalePrice": "₹2,500.61",
   "Model": "072151211116"
 }

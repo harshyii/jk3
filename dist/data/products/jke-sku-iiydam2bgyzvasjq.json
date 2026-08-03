@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51j0YPj7gyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NLLtiWQOL.jpg | https://m.media-amazon.com/images/I/413Ry8Gt-rL.jpg | https://m.media-amazon.com/images/I/31evYc8-iTL.jpg | https://m.media-amazon.com/images/I/51dAERdH2rL.jpg | https://m.media-amazon.com/images/I/41guyqs7EdL.jpg | https://m.media-amazon.com/images/I/41QwdWlfhBL.jpg | https://m.media-amazon.com/images/I/41hfT9crp6L.jpg | https://m.media-amazon.com/images/I/51j0YPj7gyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "56.6%",
   "SalePrice": "₹1,605.73",
   "Model": "ASI200-XJ"
 }

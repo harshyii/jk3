@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51SReSXga5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PJuu94VxL.jpg | https://m.media-amazon.com/images/I/41EydX04-XL.jpg | https://m.media-amazon.com/images/I/51Lc7DfnWlL.jpg | https://m.media-amazon.com/images/I/41F1ZqqGwPL.jpg | https://m.media-amazon.com/images/I/51SReSXga5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "38.65%",
   "SalePrice": "₹12,270.00",
   "Model": "COS35568"
 }

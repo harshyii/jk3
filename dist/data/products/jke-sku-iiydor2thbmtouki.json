@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Jd2gX-2VL.jpg | https://m.media-amazon.com/images/I/41y2dZvj50L.jpg | https://m.media-amazon.com/images/I/41zvQVVTOfL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "900.00 Milliliters",
-  "Discount": 0,
+  "Discount": "6.18%",
   "SalePrice": "₹319.00",
   "Model": "4T-20W40",
   "Country": "India"

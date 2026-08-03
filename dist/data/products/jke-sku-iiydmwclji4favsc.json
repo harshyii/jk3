@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51QNMJBlZaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81p8QbMxaZL.jpg | https://m.media-amazon.com/images/I/51x8p6zRZAL.jpg | https://m.media-amazon.com/images/I/41Tvx+Sr0LL.jpg | https://m.media-amazon.com/images/I/51wfT3Q0OmL.jpg | https://m.media-amazon.com/images/I/51ENcmtji5L.jpg | https://m.media-amazon.com/images/I/51ff5yf6xIL.jpg | https://m.media-amazon.com/images/I/51zZnjTtJZL.jpg | https://m.media-amazon.com/images/I/51QNMJBlZaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "591.4706 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹16,075.19",
   "Model": "T-477R-6PK",
   "Country": "USA"

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31eZrgMigDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aai+dy0sL.jpg | https://m.media-amazon.com/images/I/31WuKeE5iTL.jpg | https://m.media-amazon.com/images/I/21A4oU2PiEL.jpg | https://m.media-amazon.com/images/I/21qeQVTmlEL.jpg | https://m.media-amazon.com/images/I/31a5g+ZX5bL.jpg | https://m.media-amazon.com/images/I/21hr1cj+baL.jpg | https://m.media-amazon.com/images/I/219k4EfxDiL.jpg | https://m.media-amazon.com/images/I/31eZrgMigDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.69%",
   "SalePrice": "₹7,370.00",
   "Country": "USA"
 }

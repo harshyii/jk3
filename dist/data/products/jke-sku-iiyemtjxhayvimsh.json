@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41RC4RsZe5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614RV60z+EL.jpg | https://m.media-amazon.com/images/I/31LbKBYwXmL.jpg | https://m.media-amazon.com/images/I/51tWvkz3jXL.jpg | https://m.media-amazon.com/images/I/41Q7PIBCqlL.jpg | https://m.media-amazon.com/images/I/51oh3S3gK9L.jpg | https://m.media-amazon.com/images/I/51n1FwnuB8L.jpg | https://m.media-amazon.com/images/I/41dpg3nG0yL.jpg | https://m.media-amazon.com/images/I/41RC4RsZe5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "75.82%",
   "SalePrice": "₹169.00",
   "Model": "SNC-NTGUTC2",
   "Country": "China"

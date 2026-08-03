@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31WSixpTGSS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61m7F4vwuZL.jpg | https://m.media-amazon.com/images/I/31XQgoWoprL.jpg | https://m.media-amazon.com/images/I/31oqxgkXJpS.jpg | https://m.media-amazon.com/images/I/41o2bYWWEpL.jpg | https://m.media-amazon.com/images/I/31fK25jPRZL.jpg | https://m.media-amazon.com/images/I/31WSixpTGSS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "78.98%",
   "SalePrice": "₹210.00",
   "Model": "Plier"
 }

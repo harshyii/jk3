@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/416W2polbUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712xzZzkGkL.jpg | https://m.media-amazon.com/images/I/41-EuuqiFuL.jpg | https://m.media-amazon.com/images/I/611hTwqRudL.jpg | https://m.media-amazon.com/images/I/41oAXzXOf3L.jpg | https://m.media-amazon.com/images/I/41XWxMHY2fL.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg | https://m.media-amazon.com/images/I/416W2polbUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.4%",
   "SalePrice": "₹4,439.00",
   "Model": "DWD024"
 }

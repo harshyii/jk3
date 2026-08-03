@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51xbxz7FmpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81tiVsahqOL.jpg | https://m.media-amazon.com/images/I/51yfdfyX9HL.jpg | https://m.media-amazon.com/images/I/51Co-+BJUOL.jpg | https://m.media-amazon.com/images/I/5176-9b8YLL.jpg | https://m.media-amazon.com/images/I/51QDp4ZUmVL.jpg | https://m.media-amazon.com/images/I/51RFawe+dZL.jpg | https://m.media-amazon.com/images/I/51MyxzWZ4pL.jpg | https://m.media-amazon.com/images/I/51xbxz7FmpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.52%",
   "SalePrice": "₹12,472.00",
   "Model": "60W-M"
 }

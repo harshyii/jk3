@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41S3lvNoAiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617Wdq5BOVL.jpg | https://m.media-amazon.com/images/I/41Dwqz730NL.jpg | https://m.media-amazon.com/images/I/51YL+CbAn6L.jpg | https://m.media-amazon.com/images/I/51t-K2S3czL.jpg | https://m.media-amazon.com/images/I/515p3AjSgTL.jpg | https://m.media-amazon.com/images/I/41eRcgqjC+L.jpg | https://m.media-amazon.com/images/I/41-2r8P2ShL.jpg | https://m.media-amazon.com/images/I/41S3lvNoAiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.02%",
   "SalePrice": "₹1,499.00",
   "Model": "‎POR-3198",
   "Country": "‎China"

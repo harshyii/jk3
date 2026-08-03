@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51eTjg9Ca7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81mwqA6kRPL.jpg | https://m.media-amazon.com/images/I/51LbCSRFtxL.jpg | https://m.media-amazon.com/images/I/51T-wyWqDAL.jpg | https://m.media-amazon.com/images/I/310BgP7bXIL.jpg | https://m.media-amazon.com/images/I/31+iRA8v4QL.jpg | https://m.media-amazon.com/images/I/315Wkx8MrqL.jpg | https://m.media-amazon.com/images/I/51eTjg9Ca7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6 Count",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹2,499.00",
   "Model": "JMM24"
 }

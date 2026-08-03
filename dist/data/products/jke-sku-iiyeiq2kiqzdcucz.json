@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31yNf0N-a9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71g2h1omPIL.jpg | https://m.media-amazon.com/images/I/41XZaZNgy7L.jpg | https://m.media-amazon.com/images/I/315kBEa2qqL.jpg | https://m.media-amazon.com/images/I/31yNf0N-a9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "13.67%",
   "SalePrice": "₹259.00",
   "Model": "H 904, WS 06"
 }

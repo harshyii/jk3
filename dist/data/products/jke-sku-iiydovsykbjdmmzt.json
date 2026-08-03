@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31OP+86qLwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5186grbSLhL.jpg | https://m.media-amazon.com/images/I/31OP+86qLwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.05%",
   "SalePrice": "₹539.00",
   "Model": "2vial 3nos"
 }

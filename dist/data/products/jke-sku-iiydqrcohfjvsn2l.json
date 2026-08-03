@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/41veQx7VTZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51HpJhNKguL.jpg | https://m.media-amazon.com/images/I/41dJuCw5PtL.jpg | https://m.media-amazon.com/images/I/515g002jvbL.jpg | https://m.media-amazon.com/images/I/41xB-J9Jg8L.jpg | https://m.media-amazon.com/images/I/51EjLpcUhNL.jpg | https://m.media-amazon.com/images/I/41OET7LaKzL.jpg | https://m.media-amazon.com/images/I/41qGMXnWX4L.jpg | https://m.media-amazon.com/images/I/41veQx7VTZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "61.01%",
   "SalePrice": "₹2,199.00",
   "Model": "JPT-ICD-PS12"
 }

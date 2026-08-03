@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51Sp0zV2fGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81NrUu0qjrL.jpg | https://m.media-amazon.com/images/I/51quWSf3D-L.jpg | https://m.media-amazon.com/images/I/41pa-61DnDL.jpg | https://m.media-amazon.com/images/I/41eW9eNtKHL.jpg | https://m.media-amazon.com/images/I/51E5QKxA3HL.jpg | https://m.media-amazon.com/images/I/41bVu5owjyL.jpg | https://m.media-amazon.com/images/I/51zhLsztLqL.jpg | https://m.media-amazon.com/images/I/51Sp0zV2fGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "62.41%",
   "SalePrice": "₹3,216.00",
   "Model": "G191700"
 }

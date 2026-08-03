@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31-OhavL2ZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511vKRHGE6L.jpg | https://m.media-amazon.com/images/I/31NW9jxse8L.jpg | https://m.media-amazon.com/images/I/41zEwRmDsHL.jpg | https://m.media-amazon.com/images/I/41b44fCBrJL.jpg | https://m.media-amazon.com/images/I/51jk9Wp-SQL.jpg | https://m.media-amazon.com/images/I/31Ta0LucwXL.jpg | https://m.media-amazon.com/images/I/31-OhavL2ZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "38.19%",
   "SalePrice": "₹3,870.00",
   "Model": "CAG 100"
 }

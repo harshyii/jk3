@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/518cyDDSJrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81-HQXONnuL.jpg | https://m.media-amazon.com/images/I/51CPVQHFkKL.jpg | https://m.media-amazon.com/images/I/51mhU57N5aL.jpg | https://m.media-amazon.com/images/I/51M9shVBCML.jpg | https://m.media-amazon.com/images/I/51LBmCBPsNL.jpg | https://m.media-amazon.com/images/I/51HsPhXfF-L.jpg | https://m.media-amazon.com/images/I/414BJFfwdYL.jpg | https://m.media-amazon.com/images/I/518cyDDSJrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "46.67%",
   "SalePrice": "₹7,999.00",
   "Model": "DCSM07-100"
 }

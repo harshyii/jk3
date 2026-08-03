@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/41gmSUKQG5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/516IL3HP6wL.jpg | https://m.media-amazon.com/images/I/41qvQuyssvL.jpg | https://m.media-amazon.com/images/I/41Zr7pI4P5L.jpg | https://m.media-amazon.com/images/I/41kHAWmqatL.jpg | https://m.media-amazon.com/images/I/41Irjfe9IjL.jpg | https://m.media-amazon.com/images/I/41TKbjdhpzL.jpg | https://m.media-amazon.com/images/I/41gmSUKQG5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "3.16%",
   "SalePrice": "₹184.00",
   "Country": "Sri Lanka"
 }

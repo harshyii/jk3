@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/31nnlk0p4HL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UNpXDoCYL.jpg | https://m.media-amazon.com/images/I/41Wn2LuudNL.jpg | https://m.media-amazon.com/images/I/31t0J4am+nL.jpg | https://m.media-amazon.com/images/I/31QG1+x5DgL.jpg | https://m.media-amazon.com/images/I/21kRtbLBnxL.jpg | https://m.media-amazon.com/images/I/31xDR6eEmVL.jpg | https://m.media-amazon.com/images/I/313loQNOfgL.jpg | https://m.media-amazon.com/images/I/31nnlk0p4HL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "1.54%",
   "SalePrice": "₹2,550.00",
   "Model": "E-10506"
 }

@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/31N+wnk+4kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51YmuTqNiSL.jpg | https://m.media-amazon.com/images/I/31tluughr1L.jpg | https://m.media-amazon.com/images/I/31N+wnk+4kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.9%",
   "SalePrice": "₹250.00",
   "Model": "Xtra-power-stator-spring-set"
 }

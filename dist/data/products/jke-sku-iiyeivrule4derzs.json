@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31FeL72zGUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7161lM0CwpL.jpg | https://m.media-amazon.com/images/I/31VX+tac82L.jpg | https://m.media-amazon.com/images/I/31sQFBTCduL.jpg | https://m.media-amazon.com/images/I/41nhUZ8g-6L.jpg | https://m.media-amazon.com/images/I/41Uyefqww8L.jpg | https://m.media-amazon.com/images/I/41c4L2UZvxL.jpg | https://m.media-amazon.com/images/I/319vhG6ZxJL.jpg | https://m.media-amazon.com/images/I/31FeL72zGUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "11.26%",
   "SalePrice": "₹709.00",
   "Model": "1600A02W7W"
 }

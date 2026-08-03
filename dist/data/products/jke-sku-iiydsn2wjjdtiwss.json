@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31Fy+Nw8SYS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/416calMSvpS.jpg | https://m.media-amazon.com/images/I/31Fy+Nw8SYS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.45%",
   "SalePrice": "₹28,700.00",
   "Model": "#P20014BTLVNM"
 }

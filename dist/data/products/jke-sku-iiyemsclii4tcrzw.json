@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41C2D6sY4+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SJYPd6aOL.jpg | https://m.media-amazon.com/images/I/31bVb4D8UUL.jpg | https://m.media-amazon.com/images/I/31eUjRxdVHL.jpg | https://m.media-amazon.com/images/I/41RaWD3hp-L.jpg | https://m.media-amazon.com/images/I/41S0ypulNpL.jpg | https://m.media-amazon.com/images/I/41C2D6sY4+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "72.07%",
   "SalePrice": "₹279.00",
   "Model": "25mm-Wire-Tar-3mm-Shank",
   "Country": "India"

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51P0tM3U15L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61q1nA3zysL.jpg | https://m.media-amazon.com/images/I/315xMEiv88L.jpg | https://m.media-amazon.com/images/I/31A4FVXEmXL.jpg | https://m.media-amazon.com/images/I/41VSAlkdGnL.jpg | https://m.media-amazon.com/images/I/41MnBPn6YHL.jpg | https://m.media-amazon.com/images/I/41ajxQtfKTL.jpg | https://m.media-amazon.com/images/I/41o1ZVmSofL.jpg | https://m.media-amazon.com/images/I/51P0tM3U15L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.38%",
   "SalePrice": "₹1,399.00",
   "Model": "MTEK-AIO_TROLLEY-BLACK-MICRO-1",
   "Country": "India"

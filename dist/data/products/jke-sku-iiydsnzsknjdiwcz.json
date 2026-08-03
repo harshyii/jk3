@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51ReBmLuUDS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aXlIWq10S.jpg | https://m.media-amazon.com/images/I/41WHi6pgdrS.jpg | https://m.media-amazon.com/images/I/41wJagf9d6S.jpg | https://m.media-amazon.com/images/I/41Te-ScebqS.jpg | https://m.media-amazon.com/images/I/519K1+4iF8S.jpg | https://m.media-amazon.com/images/I/51ReBmLuUDS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "80%",
   "SalePrice": "₹299.00",
   "Model": "CT-DIY-HI-37203"
 }

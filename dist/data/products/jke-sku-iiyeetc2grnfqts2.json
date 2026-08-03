@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51LibgCITFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yQGoeSTyL.jpg | https://m.media-amazon.com/images/I/41qdpN7TO9L.jpg | https://m.media-amazon.com/images/I/51az0i0GwmL.jpg | https://m.media-amazon.com/images/I/51XpnnVmIFL.jpg | https://m.media-amazon.com/images/I/51b5bPcBXsL.jpg | https://m.media-amazon.com/images/I/51YW1EbMxWL.jpg | https://m.media-amazon.com/images/I/51LibgCITFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹8,670.00",
   "Model": "3365050",
   "Country": "Germany"

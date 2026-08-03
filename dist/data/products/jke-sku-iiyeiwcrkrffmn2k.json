@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51iOqvyAHqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YDsbGdTXL.jpg | https://m.media-amazon.com/images/I/41+hpQZpzOL.jpg | https://m.media-amazon.com/images/I/41s3cUEkHXL.jpg | https://m.media-amazon.com/images/I/41SDbq9vNgL.jpg | https://m.media-amazon.com/images/I/51mSKVn+LoL.jpg | https://m.media-amazon.com/images/I/51iOqvyAHqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.33%",
   "SalePrice": "₹22,499.00",
   "Model": "Zelio 1100+AMP Box AB18060"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31suDIwhklL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71HvDVme3tL.jpg | https://m.media-amazon.com/images/I/4119xv5lT4L.jpg | https://m.media-amazon.com/images/I/41MkXK2gLnL.jpg | https://m.media-amazon.com/images/I/31suDIwhklL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "12.65%",
   "SalePrice": "₹2,210.00",
   "Model": "IA260165617"
 }

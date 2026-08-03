@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41MlYiUloWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zjfbj5VnL.jpg | https://m.media-amazon.com/images/I/41L9UhvaRYL.jpg | https://m.media-amazon.com/images/I/317O542B1XL.jpg | https://m.media-amazon.com/images/I/41UY3bPJKJL.jpg | https://m.media-amazon.com/images/I/51guxoXKvwL.jpg | https://m.media-amazon.com/images/I/51wYznPeauL.jpg | https://m.media-amazon.com/images/I/51Njzs-iEmL.jpg | https://m.media-amazon.com/images/I/41MlYiUloWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.01%",
   "SalePrice": "₹1,799.00",
   "Model": "DVJA8282"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PmHmtS8JL.jpg | https://m.media-amazon.com/images/I/51XEzt-VZpL.jpg | https://m.media-amazon.com/images/I/4135tY+kOSL.jpg | https://m.media-amazon.com/images/I/413HrjX97fL.jpg | https://m.media-amazon.com/images/I/41gkyUa7rDL.jpg | https://m.media-amazon.com/images/I/41My1e8VZTL.jpg | https://m.media-amazon.com/images/I/41JdJdcqosL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.33%",
   "SalePrice": "₹2,282.00",
   "Model": "SO100",
   "Country": "China"

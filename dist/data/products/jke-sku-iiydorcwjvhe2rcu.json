@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51qiXq3fITL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51aROYmbtuL.jpg | https://m.media-amazon.com/images/I/31ObtEhWcsL.jpg | https://m.media-amazon.com/images/I/41GGiah-C1L.jpg | https://m.media-amazon.com/images/I/41kHE4okrOL.jpg | https://m.media-amazon.com/images/I/41EBm8NVV1L.jpg | https://m.media-amazon.com/images/I/41kuGnngbnL.jpg | https://m.media-amazon.com/images/I/51qiXq3fITL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.01%",
   "SalePrice": "₹5,049.00",
   "Model": "875"
 }

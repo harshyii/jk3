@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51CrFtsi6gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81dvA7qEhPL.jpg | https://m.media-amazon.com/images/I/41gsdfufcyL.jpg | https://m.media-amazon.com/images/I/31mJHQ5POrL.jpg | https://m.media-amazon.com/images/I/414913K6YHL.jpg | https://m.media-amazon.com/images/I/51CrFtsi6gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "67.94%",
   "SalePrice": "₹160.00",
   "Model": "O2x2Y-a"
 }

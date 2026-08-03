@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51C0Fyhq4uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/716vrDjS2ZL.jpg | https://m.media-amazon.com/images/I/412utnrDnxL.jpg | https://m.media-amazon.com/images/I/51L6R42FuuL.jpg | https://m.media-amazon.com/images/I/418X9-bbrEL.jpg | https://m.media-amazon.com/images/I/51utE9dqhLL.jpg | https://m.media-amazon.com/images/I/515M+nNnR0L.jpg | https://m.media-amazon.com/images/I/514MULU9aDL.jpg | https://m.media-amazon.com/images/I/51C0Fyhq4uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "34.8%",
   "SalePrice": "₹2,464.00",
   "Model": "DO-6PC"
 }

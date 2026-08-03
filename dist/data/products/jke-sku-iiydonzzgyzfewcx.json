@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51LuplE1hxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71FXdBXKCKL.jpg | https://m.media-amazon.com/images/I/41hNojR5JnL.jpg | https://m.media-amazon.com/images/I/41whP7U71zL.jpg | https://m.media-amazon.com/images/I/51yfLpd3+QL.jpg | https://m.media-amazon.com/images/I/51LuplE1hxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "65.34%",
   "SalePrice": "₹3,119.00",
   "Model": "diamond5\"cutter+5\"tct+5\"marble"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41aFCqz9v5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rv5yCrsLL.jpg | https://m.media-amazon.com/images/I/41sFZnO+bNL.jpg | https://m.media-amazon.com/images/I/41zzw4v0+rL.jpg | https://m.media-amazon.com/images/I/41tLfPocLvL.jpg | https://m.media-amazon.com/images/I/41BJZvC++lL.jpg | https://m.media-amazon.com/images/I/51zL5MPl5fL.jpg | https://m.media-amazon.com/images/I/41ozTnZAQdL.jpg | https://m.media-amazon.com/images/I/41aFCqz9v5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "750.0 Grams",
-  "Discount": 0,
+  "Discount": "46.13%",
   "SalePrice": "₹2,310.00",
   "Model": "56347849",
   "Country": "India"

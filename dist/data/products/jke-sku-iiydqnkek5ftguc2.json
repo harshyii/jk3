@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51nuoT2yYxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61BmM-rilgL.jpg | https://m.media-amazon.com/images/I/41y4MI356SL.jpg | https://m.media-amazon.com/images/I/51of39jsGzL.jpg | https://m.media-amazon.com/images/I/51nuoT2yYxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "38.23%",
   "SalePrice": "₹10,691.00",
   "Model": "B-67197",
   "Country": "USA"

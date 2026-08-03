@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81bLlAQqLOL.jpg | https://m.media-amazon.com/images/I/51PMQ8Dlu7L.jpg | https://m.media-amazon.com/images/I/51Wm2rqVTUL.jpg | https://m.media-amazon.com/images/I/510xU0xf18L.jpg | https://m.media-amazon.com/images/I/51TI48zt1BL.jpg | https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "7.7%",
   "SalePrice": "₹18,826.00",
   "Model": "DWA2T35IR"
 }

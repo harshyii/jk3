@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/318OKy7f1SL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FOxMOrwNL.jpg | https://m.media-amazon.com/images/I/31qO69JEGTL.jpg | https://m.media-amazon.com/images/I/21+XUr3SoyL.jpg | https://m.media-amazon.com/images/I/21p+58SbihL.jpg | https://m.media-amazon.com/images/I/318OKy7f1SL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "17%",
   "SalePrice": "₹249.00",
   "Model": "P5 861 200, P6 862 300"
 }

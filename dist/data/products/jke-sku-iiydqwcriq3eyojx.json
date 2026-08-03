@@ -27,8 +27,8 @@
     "https://m.media-amazon.com/images/I/21JnPsOzWZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21JnPsOzWZL.jpg | https://m.media-amazon.com/images/I/21JnPsOzWZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.53%",
   "SalePrice": "₹4,300.00"
 }

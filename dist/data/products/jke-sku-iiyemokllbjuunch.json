@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51IffoY1PYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/613Wq9elCLL.jpg | https://m.media-amazon.com/images/I/51pj5g49XnL.jpg | https://m.media-amazon.com/images/I/411ghWCu+dL.jpg | https://m.media-amazon.com/images/I/41t9hTxieHL.jpg | https://m.media-amazon.com/images/I/41yIup14jgL.jpg | https://m.media-amazon.com/images/I/41CM+BDt2YL.jpg | https://m.media-amazon.com/images/I/51IffoY1PYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.01%",
   "SalePrice": "₹2,999.00",
   "Model": "DIE152"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31pdttvyCxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415LlmvhPuL.jpg | https://m.media-amazon.com/images/I/21OUg9sLWnL.jpg | https://m.media-amazon.com/images/I/21sk6cooBLL.jpg | https://m.media-amazon.com/images/I/21hbuCf--gL.jpg | https://m.media-amazon.com/images/I/21p1V58TAfL.jpg | https://m.media-amazon.com/images/I/31pdttvyCxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.5%",
   "SalePrice": "₹870.00",
   "Model": "CSP/RRT/17/UG"
 }

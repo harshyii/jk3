@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51qyzl9PFCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712fMKjvwVL.jpg | https://m.media-amazon.com/images/I/31jGOJLgU2L.jpg | https://m.media-amazon.com/images/I/61k40BtJlsL.jpg | https://m.media-amazon.com/images/I/41of0kCAyrL.jpg | https://m.media-amazon.com/images/I/41lB09DTIdL.jpg | https://m.media-amazon.com/images/I/41JYbzn+FgL.jpg | https://m.media-amazon.com/images/I/41dIRIPt8SL.jpg | https://m.media-amazon.com/images/I/51qyzl9PFCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "75.38%",
   "SalePrice": "₹246.00",
   "Model": "SAM-C2CW",
   "Country": "India"

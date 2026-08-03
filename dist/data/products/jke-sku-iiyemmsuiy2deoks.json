@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/416u2cXHdYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ho6zJitQL.jpg | https://m.media-amazon.com/images/I/51ho6zJitQL.jpg | https://m.media-amazon.com/images/I/517tqWZGElL.jpg | https://m.media-amazon.com/images/I/31EYXGvpkdL.jpg | https://m.media-amazon.com/images/I/41lTnztYqOL.jpg | https://m.media-amazon.com/images/I/416u2cXHdYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "57.8%",
   "SalePrice": "₹295.00",
   "Model": "NE02",
   "Country": "India"

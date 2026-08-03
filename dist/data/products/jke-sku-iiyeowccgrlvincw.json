@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51kPIzxmVeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81hZif9fASL.jpg | https://m.media-amazon.com/images/I/511AAXvd7CL.jpg | https://m.media-amazon.com/images/I/512uYRH7TgL.jpg | https://m.media-amazon.com/images/I/51PT6TCixRL.jpg | https://m.media-amazon.com/images/I/51baIqVhC3L.jpg | https://m.media-amazon.com/images/I/51qVCfYnhTL.jpg | https://m.media-amazon.com/images/I/51ZUcZPXbEL.jpg | https://m.media-amazon.com/images/I/51kPIzxmVeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "65.88%",
   "SalePrice": "₹2,729.00",
   "Model": "KP-GBPW"
 }

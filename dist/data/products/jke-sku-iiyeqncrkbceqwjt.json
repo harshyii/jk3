@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51e8U7pPtLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81liKu+omqL.jpg | https://m.media-amazon.com/images/I/51quZmHyJdL.jpg | https://m.media-amazon.com/images/I/51e8U7pPtLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.92%",
   "SalePrice": "₹4,053.00",
   "Model": "COS26068"
 }

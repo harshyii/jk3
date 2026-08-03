@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41F+F4DEOeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616md1iCExL.jpg | https://m.media-amazon.com/images/I/31PftR-tcEL.jpg | https://m.media-amazon.com/images/I/410wHpkGH1L.jpg | https://m.media-amazon.com/images/I/41aKdCEHtUL.jpg | https://m.media-amazon.com/images/I/41beY+2sa-L.jpg | https://m.media-amazon.com/images/I/41bHKDHVGNL.jpg | https://m.media-amazon.com/images/I/41F+F4DEOeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.95%",
   "SalePrice": "₹13,990.00",
   "Model": "GHWBHRTWS015"
 }

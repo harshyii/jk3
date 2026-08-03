@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41Dayu2LK-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FeK-lAOtL.jpg | https://m.media-amazon.com/images/I/31aWssFoz1L.jpg | https://m.media-amazon.com/images/I/41Dayu2LK-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "30 Meters",
-  "Discount": 0,
+  "Discount": "10.85%",
   "SalePrice": "₹419.00",
   "Model": "KSE-MT-002",
   "Country": "India"

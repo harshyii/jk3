@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41ZeD-XCRsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NejAb3qZL.jpg | https://m.media-amazon.com/images/I/41HhqymOclL.jpg | https://m.media-amazon.com/images/I/31TgSpvpk3L.jpg | https://m.media-amazon.com/images/I/41MhAxL1lZL.jpg | https://m.media-amazon.com/images/I/519ovkZLInL.jpg | https://m.media-amazon.com/images/I/512vRoCwU7L.jpg | https://m.media-amazon.com/images/I/51dz+-Y3WYL.jpg | https://m.media-amazon.com/images/I/41ZeD-XCRsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹60,507.07",
   "Model": "DCK231E2"
 }

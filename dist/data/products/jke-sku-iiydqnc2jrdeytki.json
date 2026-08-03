@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/517yo9qiWUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61AP5JYMLdL.jpg | https://m.media-amazon.com/images/I/31jI3ibgV6L.jpg | https://m.media-amazon.com/images/I/41JB3FrLibL.jpg | https://m.media-amazon.com/images/I/31+AX81bOfL.jpg | https://m.media-amazon.com/images/I/31TNHndGS1L.jpg | https://m.media-amazon.com/images/I/312RHoxICyL.jpg | https://m.media-amazon.com/images/I/41RXPnEge1L.jpg | https://m.media-amazon.com/images/I/517yo9qiWUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.01%",
   "SalePrice": "₹7,999.00",
   "Model": "DWE4235-IN"
 }

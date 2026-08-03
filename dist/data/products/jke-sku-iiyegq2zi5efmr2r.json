@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51T4C0sELYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fsdKMug3L.jpg | https://m.media-amazon.com/images/I/4179rmbqmGL.jpg | https://m.media-amazon.com/images/I/51cRXkw9oRL.jpg | https://m.media-amazon.com/images/I/51JGD50yKXL.jpg | https://m.media-amazon.com/images/I/51NEK0rLCLL.jpg | https://m.media-amazon.com/images/I/51buydji-XL.jpg | https://m.media-amazon.com/images/I/4118jLXSGAL.jpg | https://m.media-amazon.com/images/I/51T4C0sELYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.32%",
   "SalePrice": "₹6,691.00",
   "Model": "DM18RL"
 }

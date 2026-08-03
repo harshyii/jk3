@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41MGaB3vWFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71UPvDgjI8L.jpg | https://m.media-amazon.com/images/I/41IHhGp280L.jpg | https://m.media-amazon.com/images/I/41hNKwriNRL.jpg | https://m.media-amazon.com/images/I/51wwTPey4uL.jpg | https://m.media-amazon.com/images/I/41kYOCoLQJL.jpg | https://m.media-amazon.com/images/I/41a90B5XAVL.jpg | https://m.media-amazon.com/images/I/41MGaB3vWFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.26%",
   "SalePrice": "₹9,699.00",
   "Model": "Hercules Sine Pro 1500"
 }

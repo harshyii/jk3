@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51JeAYyJYzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51RIdUo8EFL.jpg | https://m.media-amazon.com/images/I/419vZ9pTS4L.jpg | https://m.media-amazon.com/images/I/41CYvmO9gqL.jpg | https://m.media-amazon.com/images/I/41BZJFnidsL.jpg | https://m.media-amazon.com/images/I/41CLuvp+gjL.jpg | https://m.media-amazon.com/images/I/51hz2JABGWL.jpg | https://m.media-amazon.com/images/I/51JeAYyJYzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.83%",
   "SalePrice": "₹16,563.51",
   "Model": "DCD799B"
 }

@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/514WVQuAloL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SNI0MTckL.jpg | https://m.media-amazon.com/images/I/41So4HPN5aL.jpg | https://m.media-amazon.com/images/I/61QBupT-G8L.jpg | https://m.media-amazon.com/images/I/41-GQGKo8uL.jpg | https://m.media-amazon.com/images/I/41KOZfChhtL.jpg | https://m.media-amazon.com/images/I/41hx-ORxmOL.jpg | https://m.media-amazon.com/images/I/41mw+YSQ1-L.jpg | https://m.media-amazon.com/images/I/514WVQuAloL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.34%",
   "SalePrice": "₹9,999.00",
   "Model": "DCD805N-XJ"
 }

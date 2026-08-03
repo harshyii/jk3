@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31VFSauBE9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719VQ7MKWYL.jpg | https://m.media-amazon.com/images/I/41SR8Uhj5IL.jpg | https://m.media-amazon.com/images/I/31qdTg-uWxL.jpg | https://m.media-amazon.com/images/I/31PK4fUvnXL.jpg | https://m.media-amazon.com/images/I/31BpwuHkGrL.jpg | https://m.media-amazon.com/images/I/31VFSauBE9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "11.75%",
   "SalePrice": "₹15,850.00",
   "Model": "AW130"
 }

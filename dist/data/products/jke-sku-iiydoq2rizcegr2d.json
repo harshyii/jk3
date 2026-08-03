@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/317x0PyFGxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41cMSSzTlYL.jpg | https://m.media-amazon.com/images/I/21Q-9yR9D0L.jpg | https://m.media-amazon.com/images/I/21ptrLn+GIL.jpg | https://m.media-amazon.com/images/I/21JsM4ZxKFL.jpg | https://m.media-amazon.com/images/I/21bfW5svmYL.jpg | https://m.media-amazon.com/images/I/317x0PyFGxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.02%",
   "SalePrice": "₹1,670.42",
   "Model": "CSP/RRT/19/UG"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/411zdvBCqnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7121xx0RWyL.jpg | https://m.media-amazon.com/images/I/411zdvBCqnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,628.32",
   "Model": "A972501 RYOBI BITS NEW",
   "Country": "USA"

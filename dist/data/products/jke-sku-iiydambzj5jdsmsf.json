@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/312k0JqvxmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Ic5FQr6LL.jpg | https://m.media-amazon.com/images/I/21KCvnChSlL.jpg | https://m.media-amazon.com/images/I/21E-Om-Q+eL.jpg | https://m.media-amazon.com/images/I/21u9cIB0okL.jpg | https://m.media-amazon.com/images/I/21WslEQiFIL.jpg | https://m.media-amazon.com/images/I/214rWaGs4FL.jpg | https://m.media-amazon.com/images/I/21mv6NWxcIL.jpg | https://m.media-amazon.com/images/I/312k0JqvxmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.63%",
   "SalePrice": "₹23,067.00",
   "Model": "JR3070CT"
 }

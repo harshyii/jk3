@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51fimelQgfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71MOJwOVkOL.jpg | https://m.media-amazon.com/images/I/41z2lBYylLL.jpg | https://m.media-amazon.com/images/I/5179hnPtfPL.jpg | https://m.media-amazon.com/images/I/41htd52XXCL.jpg | https://m.media-amazon.com/images/I/51JcbUIraFL.jpg | https://m.media-amazon.com/images/I/51Rge4VE-1L.jpg | https://m.media-amazon.com/images/I/51fimelQgfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.35%",
   "SalePrice": "₹1,399.00",
   "Model": "Marvel"
 }

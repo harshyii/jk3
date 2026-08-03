@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51OIgY55vrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715VsXaAdcL.jpg | https://m.media-amazon.com/images/I/51aNbcuAH0L.jpg | https://m.media-amazon.com/images/I/31KkPuYOjbL.jpg | https://m.media-amazon.com/images/I/51wRHtEj62L.jpg | https://m.media-amazon.com/images/I/51OIgY55vrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "43.12%",
   "SalePrice": "₹1,731.16",
   "Model": "B-60523"
 }

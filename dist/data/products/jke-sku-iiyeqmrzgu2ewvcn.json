@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/618FQgZCnnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71G28nCGSAL.jpg | https://m.media-amazon.com/images/I/51MQcyDzkPL.jpg | https://m.media-amazon.com/images/I/41nSfvNWvNL.jpg | https://m.media-amazon.com/images/I/51BgwAqrOUL.jpg | https://m.media-amazon.com/images/I/51tVqkJjgRL.jpg | https://m.media-amazon.com/images/I/61ixY0vvQVL.jpg | https://m.media-amazon.com/images/I/61bws410wUL.jpg | https://m.media-amazon.com/images/I/618FQgZCnnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Milliliters",
-  "Discount": 0,
+  "Discount": "63.44%",
   "SalePrice": "₹219.00",
   "Country": "China"
 }

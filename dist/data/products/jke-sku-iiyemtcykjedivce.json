@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51CJUs4YXSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qasd61jWL.jpg | https://m.media-amazon.com/images/I/4134IJMvN-L.jpg | https://m.media-amazon.com/images/I/511QS4U3VvL.jpg | https://m.media-amazon.com/images/I/51ZqGllKUFL.jpg | https://m.media-amazon.com/images/I/517YDVuq5TL.jpg | https://m.media-amazon.com/images/I/51gVoEsHHzL.jpg | https://m.media-amazon.com/images/I/51xscaxhf3L.jpg | https://m.media-amazon.com/images/I/51CJUs4YXSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "43.76%",
   "SalePrice": "₹4,499.00",
   "Model": "ST25"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51pSRmPV6iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81VnqAy23gL.jpg | https://m.media-amazon.com/images/I/51DWSshctKL.jpg | https://m.media-amazon.com/images/I/41x1Ob5CzcL.jpg | https://m.media-amazon.com/images/I/41afqhcudFL.jpg | https://m.media-amazon.com/images/I/31OgjWg5J-L.jpg | https://m.media-amazon.com/images/I/51pSRmPV6iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹22,920.15",
   "Model": "DT1953-QZ"
 }

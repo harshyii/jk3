@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mAWcLtjIL.jpg | https://m.media-amazon.com/images/I/41cM9MZhgQL.jpg | https://m.media-amazon.com/images/I/41VBaoK6uWL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "900 Milliliters",
-  "Discount": 0,
+  "Discount": "2.47%",
   "SalePrice": "₹395.00",
   "Model": "4T Gold 900",
   "Country": "India"

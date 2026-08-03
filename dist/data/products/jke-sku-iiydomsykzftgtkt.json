@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31GNM4KCYBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41QtwyU5PgL.jpg | https://m.media-amazon.com/images/I/41QtwyU5PgL.jpg | https://m.media-amazon.com/images/I/41T1amTbp+L.jpg | https://m.media-amazon.com/images/I/41p9y566CsL.jpg | https://m.media-amazon.com/images/I/41BJtKxV8cL.jpg | https://m.media-amazon.com/images/I/41PMcEbHD3L.jpg | https://m.media-amazon.com/images/I/31GNM4KCYBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.01%",
   "SalePrice": "₹3,299.00",
   "Model": "FHD 2-26DRE"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41NopDyZq1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91NkFwxRTaL.jpg | https://m.media-amazon.com/images/I/51f3wxGJlhL.jpg | https://m.media-amazon.com/images/I/51tuUJt+mXL.jpg | https://m.media-amazon.com/images/I/51F8nrSvUxL.jpg | https://m.media-amazon.com/images/I/51XRLoTvDoL.jpg | https://m.media-amazon.com/images/I/41e2cevOC5L.jpg | https://m.media-amazon.com/images/I/41NopDyZq1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "62.53%",
   "SalePrice": "₹749.00",
   "Model": "CF-8563"
 }

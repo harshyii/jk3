@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51AtuRVAryL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bXzX3lZqL.jpg | https://m.media-amazon.com/images/I/514QC3YMa0L.jpg | https://m.media-amazon.com/images/I/51Xq2xeCYtL.jpg | https://m.media-amazon.com/images/I/51zzI6JcI8L.jpg | https://m.media-amazon.com/images/I/41COpcKGVWL.jpg | https://m.media-amazon.com/images/I/41rLtibXRNL.jpg | https://m.media-amazon.com/images/I/51ZhwrOu6dL.jpg | https://m.media-amazon.com/images/I/51AtuRVAryL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.7%",
   "SalePrice": "₹699.00",
   "Model": "PW-STEM-SOLAR-100",
   "Country": "India"

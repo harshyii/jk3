@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41zaU3KvcmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XGAqVhLcL.jpg | https://m.media-amazon.com/images/I/41zaU3KvcmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "120.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10.53%",
   "SalePrice": "₹255.00",
   "Model": "JOSPW_01",
   "Country": "India"

@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/317P5khS-PL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/317P5khS-PL.jpg | https://m.media-amazon.com/images/I/317P5khS-PL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.98%",
   "SalePrice": "₹7,587.48",
   "Model": "4932478554"
 }

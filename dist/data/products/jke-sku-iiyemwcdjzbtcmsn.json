@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51gQi3uWfkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71a1kOU-zdL.jpg | https://m.media-amazon.com/images/I/41OoXpMcjyL.jpg | https://m.media-amazon.com/images/I/41IleTZVJKL.jpg | https://m.media-amazon.com/images/I/51taEQJ-fcL.jpg | https://m.media-amazon.com/images/I/51x6nOnsa0L.jpg | https://m.media-amazon.com/images/I/51Elja3+4aL.jpg | https://m.media-amazon.com/images/I/41W8H7xf5AL.jpg | https://m.media-amazon.com/images/I/51gQi3uWfkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.1765 Milliliters",
-  "Discount": 0,
+  "Discount": "40.7%",
   "SalePrice": "₹3,220.00",
   "Model": "G262016",
   "Country": "USA"

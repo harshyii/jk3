@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41-ZiI8wIxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51e-K0BVrxL.jpg | https://m.media-amazon.com/images/I/31iJlwT8sPL.jpg | https://m.media-amazon.com/images/I/31s-tfro+wL.jpg | https://m.media-amazon.com/images/I/31wcdE9b28L.jpg | https://m.media-amazon.com/images/I/41-ZiI8wIxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.41%",
   "SalePrice": "₹608.58",
   "Model": "85422"
 }

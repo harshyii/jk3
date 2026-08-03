@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41c5tJvWBML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Br32VMoWL.jpg | https://m.media-amazon.com/images/I/31kJdt0-ElL.jpg | https://m.media-amazon.com/images/I/41niayQfNTL.jpg | https://m.media-amazon.com/images/I/41c5tJvWBML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹12,003.38",
   "Model": "A241601",
   "Country": "USA"

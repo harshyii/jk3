@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41LT+BQwqwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Y1M7zhO1L.jpg | https://m.media-amazon.com/images/I/41K0-I5ALEL.jpg | https://m.media-amazon.com/images/I/51zYmRPvHVL.jpg | https://m.media-amazon.com/images/I/41XOzA8kdbL.jpg | https://m.media-amazon.com/images/I/51c8M2edJCL.jpg | https://m.media-amazon.com/images/I/51nTPRLyL1L.jpg | https://m.media-amazon.com/images/I/41LT+BQwqwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹3,700.00",
   "Model": "CIRLI1201"
 }

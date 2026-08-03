@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41Cc6kk3bbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91idhnLyJqL.jpg | https://m.media-amazon.com/images/I/51rcOTw5r4L.jpg | https://m.media-amazon.com/images/I/41xmcguq60S.jpg | https://m.media-amazon.com/images/I/21uz9mfQEvS.jpg | https://m.media-amazon.com/images/I/41Cc6kk3bbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "24.58%",
   "SalePrice": "₹905.00",
   "Model": "Pantry to FBA_May_68"
 }

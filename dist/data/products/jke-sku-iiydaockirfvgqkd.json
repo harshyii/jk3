@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51Xa8u3XelL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71nZ5DvCP1L.jpg | https://m.media-amazon.com/images/I/41xv+kh7KxL.jpg | https://m.media-amazon.com/images/I/41kOozCV8+L.jpg | https://m.media-amazon.com/images/I/41VjlJ1rjDL.jpg | https://m.media-amazon.com/images/I/51Sd+MOYfmL.jpg | https://m.media-amazon.com/images/I/419hHM2TBWL.jpg | https://m.media-amazon.com/images/I/51Xa8u3XelL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.67%",
   "SalePrice": "₹22,663.00",
   "Model": "FR.131-3B"
 }

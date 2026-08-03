@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41QA1pV+9TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511eIln3HNL.jpg | https://m.media-amazon.com/images/I/31NGun9o-vL.jpg | https://m.media-amazon.com/images/I/513puLRSjvL.jpg | https://m.media-amazon.com/images/I/513QJoes5pL.jpg | https://m.media-amazon.com/images/I/41A4nSEFHrL.jpg | https://m.media-amazon.com/images/I/41-kXs+Z8mL.jpg | https://m.media-amazon.com/images/I/51kDbCYgKML.jpg | https://m.media-amazon.com/images/I/41QA1pV+9TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "25.74%",
   "SalePrice": "₹19,595.00",
   "Model": "8240-5"
 }

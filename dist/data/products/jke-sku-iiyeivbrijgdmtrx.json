@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41NOmWY50hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41-FeNMBzoL.jpg | https://m.media-amazon.com/images/I/41-FeNMBzoL.jpg | https://m.media-amazon.com/images/I/41NOmWY50hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "61.83%",
   "SalePrice": "₹229.00",
   "Country": "China"
 }

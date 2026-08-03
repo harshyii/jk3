@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41kzdDJ9syL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71O8JyHJb7L.jpg | https://m.media-amazon.com/images/I/41-TCKz2yVL.jpg | https://m.media-amazon.com/images/I/518mQN0uKTL.jpg | https://m.media-amazon.com/images/I/41FXQmbtdKL.jpg | https://m.media-amazon.com/images/I/51ZOeo0yw6L.jpg | https://m.media-amazon.com/images/I/41giKyhtqBL.jpg | https://m.media-amazon.com/images/I/51x8qSe6GzL.jpg | https://m.media-amazon.com/images/I/41kzdDJ9syL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Count",
-  "Discount": 0,
+  "Discount": "22%",
   "SalePrice": "₹1,248.00",
   "Model": "53478",
   "Country": "USA"

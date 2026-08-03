@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51cH0MyJRPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81pvv7soopL.jpg | https://m.media-amazon.com/images/I/51LHl6n17UL.jpg | https://m.media-amazon.com/images/I/51n1hhfQTVL.jpg | https://m.media-amazon.com/images/I/51cEmPFpGxL.jpg | https://m.media-amazon.com/images/I/51mqSEK7rkL.jpg | https://m.media-amazon.com/images/I/514972RMx8L.jpg | https://m.media-amazon.com/images/I/51ma-Mpn8UL.jpg | https://m.media-amazon.com/images/I/51cH0MyJRPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹22,022.97",
   "Model": "DMCKIT5",
   "Country": "USA"

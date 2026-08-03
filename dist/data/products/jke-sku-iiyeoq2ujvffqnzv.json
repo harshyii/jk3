@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31+gyut75ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71OoYsJ2LeL.jpg | https://m.media-amazon.com/images/I/41lguO9zj6L.jpg | https://m.media-amazon.com/images/I/41zL6YACxBL.jpg | https://m.media-amazon.com/images/I/31+gyut75ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "78.51%",
   "SalePrice": "₹75.00",
   "Model": "Ytm-pg-001"
 }

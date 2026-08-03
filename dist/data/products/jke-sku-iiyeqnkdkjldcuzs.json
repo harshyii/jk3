@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/31sJmIBw9uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51czv6GC6VL.jpg | https://m.media-amazon.com/images/I/31sJmIBw9uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "56.2%",
   "SalePrice": "₹350.00",
   "Model": "Float Switch Sensor",
   "Country": "India"

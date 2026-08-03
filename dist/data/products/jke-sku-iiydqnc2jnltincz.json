@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/41FQ5vQ2WgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51m3V6US6uL.jpg | https://m.media-amazon.com/images/I/41FQ5vQ2WgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Count",
-  "Discount": 0,
+  "Discount": "4.95%",
   "SalePrice": "₹499.00",
   "Model": "195355"
 }

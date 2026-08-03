@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51pwasNDURL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51o1yxbmgaL.jpg | https://m.media-amazon.com/images/I/31NqdgmGQqL.jpg | https://m.media-amazon.com/images/I/31omW5QzrtL.jpg | https://m.media-amazon.com/images/I/31iBY7jleXL.jpg | https://m.media-amazon.com/images/I/310QNYZ0ZXL.jpg | https://m.media-amazon.com/images/I/31QMJvq0qGL.jpg | https://m.media-amazon.com/images/I/41i8Ata6C6L.jpg | https://m.media-amazon.com/images/I/51pwasNDURL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.93%",
   "SalePrice": "₹34,969.00",
   "Model": "DCG410B"
 }

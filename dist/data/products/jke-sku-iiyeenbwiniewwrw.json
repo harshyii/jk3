@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41ZSmceKlqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51uUlXUYiWL.jpg | https://m.media-amazon.com/images/I/31stF-vwG5L.jpg | https://m.media-amazon.com/images/I/31-KKRxvpKL.jpg | https://m.media-amazon.com/images/I/51CilKiv5oL.jpg | https://m.media-amazon.com/images/I/4191Ecld27L.jpg | https://m.media-amazon.com/images/I/413mnDVPH9L.jpg | https://m.media-amazon.com/images/I/41ZSmceKlqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "33.51%",
   "SalePrice": "₹1,994.00",
   "Model": "RL-1990"
 }

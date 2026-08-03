@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41gY8S5x93L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81kto9FTSdL.jpg | https://m.media-amazon.com/images/I/41FBFrrHwqL.jpg | https://m.media-amazon.com/images/I/412+8Wlk+qL.jpg | https://m.media-amazon.com/images/I/41O+l3wxCyL.jpg | https://m.media-amazon.com/images/I/31Mh98+UO7L.jpg | https://m.media-amazon.com/images/I/316vti2nmqL.jpg | https://m.media-amazon.com/images/I/31lE6keOIqL.jpg | https://m.media-amazon.com/images/I/41gY8S5x93L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹31,462.00",
   "Model": "5133002628"
 }

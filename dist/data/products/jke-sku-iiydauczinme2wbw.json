@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41XcEDPf5gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714D5b7m16L.jpg | https://m.media-amazon.com/images/I/41XcEDPf5gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.47%",
   "SalePrice": "₹4,936.90",
   "Model": "WRFC7",
   "Country": "USA"

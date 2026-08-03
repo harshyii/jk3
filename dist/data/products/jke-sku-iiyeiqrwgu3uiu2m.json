@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/415uYvTSIYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xmiaO8lAL.jpg | https://m.media-amazon.com/images/I/41I9WAE4fiL.jpg | https://m.media-amazon.com/images/I/51CvXGp6aUL.jpg | https://m.media-amazon.com/images/I/51PAw5RRBlL.jpg | https://m.media-amazon.com/images/I/51znv24EFFL.jpg | https://m.media-amazon.com/images/I/515thGxTh6L.jpg | https://m.media-amazon.com/images/I/415uYvTSIYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.05%",
   "SalePrice": "₹899.00",
   "Model": "Measure in cm Only",
   "Country": "China"

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41KQQOjhviL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61apIF-tnkL.jpg | https://m.media-amazon.com/images/I/31QkFM7YKML.jpg | https://m.media-amazon.com/images/I/41KQQOjhviL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.05%",
   "SalePrice": "₹232.00",
   "Model": "D153801"
 }

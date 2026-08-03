@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/419M3Fi3ECL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51IkPCvjBRL.jpg | https://m.media-amazon.com/images/I/31ul417oxoL.jpg | https://m.media-amazon.com/images/I/41H7r8tTQ1L.jpg | https://m.media-amazon.com/images/I/31yninPPrfL.jpg | https://m.media-amazon.com/images/I/41+pVimlMnL.jpg | https://m.media-amazon.com/images/I/41ensGX1vfL.jpg | https://m.media-amazon.com/images/I/419M3Fi3ECL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.45%",
   "SalePrice": "₹10,249.00",
   "Model": "DCF850N-XJ"
 }

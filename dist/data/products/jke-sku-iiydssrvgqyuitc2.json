@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51W7nK48XzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81wuWyOQWPL.jpg | https://m.media-amazon.com/images/I/41t12dtnrjL.jpg | https://m.media-amazon.com/images/I/41lGjvWqKrL.jpg | https://m.media-amazon.com/images/I/61qOIs1th6L.jpg | https://m.media-amazon.com/images/I/41RxYYykCUL.jpg | https://m.media-amazon.com/images/I/41ydtKYhCiL.jpg | https://m.media-amazon.com/images/I/51W7nK48XzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.98%",
   "SalePrice": "₹9,799.00",
   "Model": "SCD700D2K-B1"
 }

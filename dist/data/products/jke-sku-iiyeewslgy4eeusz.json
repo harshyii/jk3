@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/21XKnuMiWhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yUsRfQ8bL.jpg | https://m.media-amazon.com/images/I/21XKnuMiWhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹21,502.00",
   "Model": "48-22-9141"
 }

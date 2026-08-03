@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/61Du7bvKHZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xEQCZm8aL.jpg | https://m.media-amazon.com/images/I/41-vG1goKZL.jpg | https://m.media-amazon.com/images/I/41S0YSh-GwL.jpg | https://m.media-amazon.com/images/I/41v-Gm1mAdL.jpg | https://m.media-amazon.com/images/I/414AVPyEaBL.jpg | https://m.media-amazon.com/images/I/515Fw+DO7DL.jpg | https://m.media-amazon.com/images/I/51sXRWcSVlL.jpg | https://m.media-amazon.com/images/I/61Du7bvKHZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,600.86",
   "Model": "IG-MCSA01",
   "Country": "USA"

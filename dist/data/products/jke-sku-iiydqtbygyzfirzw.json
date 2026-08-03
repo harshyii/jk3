@@ -52,8 +52,8 @@
     "https://m.media-amazon.com/images/I/41I36spcuhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/816kA3xqSKL.jpg | https://m.media-amazon.com/images/I/414vAPEmyiL.jpg | https://m.media-amazon.com/images/I/41xfShVcuML.jpg | https://m.media-amazon.com/images/I/51DrL2CFdFL.jpg | https://m.media-amazon.com/images/I/41I36spcuhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "72 Count",
-  "Discount": 0,
+  "Discount": "48.76%",
   "SalePrice": "₹2,049.00"
 }

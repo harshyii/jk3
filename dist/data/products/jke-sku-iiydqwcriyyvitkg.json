@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51rsouJWTlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51rlt2vkbJL.jpg | https://m.media-amazon.com/images/I/31Hlf8ZfzyL.jpg | https://m.media-amazon.com/images/I/31IFPnK7KDL.jpg | https://m.media-amazon.com/images/I/51jEyL341wL.jpg | https://m.media-amazon.com/images/I/51rsouJWTlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.99%",
   "SalePrice": "₹5,454.00",
   "Model": "899-050-0875"
 }

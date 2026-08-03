@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41zGQtR0t-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61VmpwFRhFL.jpg | https://m.media-amazon.com/images/I/51fymlKF4sL.jpg | https://m.media-amazon.com/images/I/41IiREB-SoL.jpg | https://m.media-amazon.com/images/I/41zGQtR0t-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.22%",
   "SalePrice": "₹49,999.00",
   "Model": "RS001GM101"
 }

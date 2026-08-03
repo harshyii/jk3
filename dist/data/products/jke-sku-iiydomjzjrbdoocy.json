@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51hcA0quwiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51HXtEb1D+L.jpg | https://m.media-amazon.com/images/I/31vRAmdMJqL.jpg | https://m.media-amazon.com/images/I/51uSt1wFZxL.jpg | https://m.media-amazon.com/images/I/41mKRE5scfL.jpg | https://m.media-amazon.com/images/I/416uGmUqZQL.jpg | https://m.media-amazon.com/images/I/51hcA0quwiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.09%",
   "SalePrice": "₹1,650.00",
   "Model": "EMR-2013",
   "Country": "India"

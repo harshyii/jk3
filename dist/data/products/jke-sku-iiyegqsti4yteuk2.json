@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41NZskSbsfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MUVsBG41L.jpg | https://m.media-amazon.com/images/I/31ftFyhhSIL.jpg | https://m.media-amazon.com/images/I/41Ozi3S3ABL.jpg | https://m.media-amazon.com/images/I/41+LHAv5HdL.jpg | https://m.media-amazon.com/images/I/41DGzvkJ7TL.jpg | https://m.media-amazon.com/images/I/41WGtabfpGL.jpg | https://m.media-amazon.com/images/I/41dIGoqSckL.jpg | https://m.media-amazon.com/images/I/41NZskSbsfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "49.34%",
   "SalePrice": "₹5,839.00",
   "Model": "RT18KA"
 }

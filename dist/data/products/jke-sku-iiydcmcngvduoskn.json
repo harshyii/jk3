@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51Fp4tcsI8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617wg+hI5aL.jpg | https://m.media-amazon.com/images/I/51DzBjrQ8ZL.jpg | https://m.media-amazon.com/images/I/A11moyngUFL.jpg | https://m.media-amazon.com/images/I/51TeyAqdwYL.jpg | https://m.media-amazon.com/images/I/51k3-upwnLL.jpg | https://m.media-amazon.com/images/I/51QgQ4dCUAL.jpg | https://m.media-amazon.com/images/I/51i5PG+6HCL.jpg | https://m.media-amazon.com/images/I/51Fp4tcsI8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "60.36%",
   "SalePrice": "₹3,320.00",
   "Model": "PRO-L60"
 }

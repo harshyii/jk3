@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51bzId9OAdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DPaB2cT1L.jpg | https://m.media-amazon.com/images/I/31K2y0GMD2L.jpg | https://m.media-amazon.com/images/I/51MfANlaDdL.jpg | https://m.media-amazon.com/images/I/51DTVJ5l7ML.jpg | https://m.media-amazon.com/images/I/516jwy3aG+L.jpg | https://m.media-amazon.com/images/I/61iBHrsnfbL.jpg | https://m.media-amazon.com/images/I/513YVo-+arL.jpg | https://m.media-amazon.com/images/I/51bzId9OAdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "481.7 Grams",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,640.35",
   "Model": "SW2008P",
   "Country": "USA"

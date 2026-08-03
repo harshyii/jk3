@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41SveMQflQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71US3UPkbML.jpg | https://m.media-amazon.com/images/I/41CmvEdWO6L.jpg | https://m.media-amazon.com/images/I/41kpE1WeqiL.jpg | https://m.media-amazon.com/images/I/41o+ECMWUrL.jpg | https://m.media-amazon.com/images/I/41ibeS7e+tL.jpg | https://m.media-amazon.com/images/I/41mw+YSQ1-L.jpg | https://m.media-amazon.com/images/I/41K7JQ6CSgL.jpg | https://m.media-amazon.com/images/I/41SveMQflQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "52.01%",
   "SalePrice": "₹3,599.00",
   "Model": "SDH550KPA-IN"
 }

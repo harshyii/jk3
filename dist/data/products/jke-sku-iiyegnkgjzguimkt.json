@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51dFJ3DIs0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81qE5B6p1DL.jpg | https://m.media-amazon.com/images/I/51ZTZ1-P43L.jpg | https://m.media-amazon.com/images/I/41QaD3x-VpL.jpg | https://m.media-amazon.com/images/I/516LyldizTL.jpg | https://m.media-amazon.com/images/I/51dFJ3DIs0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "67.48%",
   "SalePrice": "₹520.00",
   "Model": "Aerowellsolarsprikler"
 }

@@ -84,9 +84,9 @@
     "https://m.media-amazon.com/images/I/41Zort3ThYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bIpiRbcTL.jpg | https://m.media-amazon.com/images/I/41CdXhMfKRL.jpg | https://m.media-amazon.com/images/I/51sBRatAYAL.jpg | https://m.media-amazon.com/images/I/515fz0sTsGL.jpg | https://m.media-amazon.com/images/I/51Pn2NgcBlL.jpg | https://m.media-amazon.com/images/I/41JOD6LjH2L.jpg | https://m.media-amazon.com/images/I/41Qtd7nGhQL.jpg | https://m.media-amazon.com/images/I/41Zort3ThYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.99%",
   "SalePrice": "₹23,241.00",
   "Model": "2191-21",
   "Country": "USA"

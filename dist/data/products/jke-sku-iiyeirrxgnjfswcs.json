@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/510tdXusMcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KN-1VR2BL.jpg | https://m.media-amazon.com/images/I/41-JGeGNxyL.jpg | https://m.media-amazon.com/images/I/418VDpnUMbL.jpg | https://m.media-amazon.com/images/I/41KtaYM+JEL.jpg | https://m.media-amazon.com/images/I/41AfcDSQn1L.jpg | https://m.media-amazon.com/images/I/510tdXusMcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "13.7%",
   "SalePrice": "₹46,258.00",
   "Model": "NXG 1150"
 }

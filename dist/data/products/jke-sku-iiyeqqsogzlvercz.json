@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41-GhGO0PbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/410ZNR-eKAL.jpg | https://m.media-amazon.com/images/I/410ZNR-eKAL.jpg | https://m.media-amazon.com/images/I/31keXYF2lbL.jpg | https://m.media-amazon.com/images/I/41-GhGO0PbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹1,250.00",
   "Model": "no",
   "Country": "India"

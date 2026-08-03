@@ -37,9 +37,9 @@
     "https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg | https://m.media-amazon.com/images/I/51BIK7ttaWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.69%",
   "SalePrice": "₹2,900.00",
   "Model": "E-3004"
 }

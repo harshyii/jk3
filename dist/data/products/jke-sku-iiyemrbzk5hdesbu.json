@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/516dKYEAEVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41tCPVG05+L.jpg | https://m.media-amazon.com/images/I/41tCPVG05+L.jpg | https://m.media-amazon.com/images/I/41p8GWZ9vTL.jpg | https://m.media-amazon.com/images/I/31rgf-wWjTL.jpg | https://m.media-amazon.com/images/I/41-UPyPxFfL.jpg | https://m.media-amazon.com/images/I/61OC5xe2hfL.jpg | https://m.media-amazon.com/images/I/51rqkTvwUaL.jpg | https://m.media-amazon.com/images/I/516dKYEAEVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.42%",
   "SalePrice": "₹755.00",
   "Model": "SP06"
 }

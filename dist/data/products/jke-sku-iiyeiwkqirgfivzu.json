@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51YF9paeeuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718xC1406nL.jpg | https://m.media-amazon.com/images/I/41OCOui-iSL.jpg | https://m.media-amazon.com/images/I/51cvQxJIZ-L.jpg | https://m.media-amazon.com/images/I/41CCdVx6bWL.jpg | https://m.media-amazon.com/images/I/41Xkiys5f3L.jpg | https://m.media-amazon.com/images/I/418ph00SEjL.jpg | https://m.media-amazon.com/images/I/51YF9paeeuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹12,322.00",
   "Model": "RYCORDLESSBLOWER"
 }

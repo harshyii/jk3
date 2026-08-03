@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31VbQwRbnRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/516Z38EAoRL.jpg | https://m.media-amazon.com/images/I/41+AXvaNEgL.jpg | https://m.media-amazon.com/images/I/51tiX5G4wdL.jpg | https://m.media-amazon.com/images/I/51lhEZx0-DL.jpg | https://m.media-amazon.com/images/I/51pxooWNhvL.jpg | https://m.media-amazon.com/images/I/41ptvufAUdL.jpg | https://m.media-amazon.com/images/I/31VbQwRbnRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "52.85%",
   "SalePrice": "₹471.00",
   "Model": "12V-1200-W-W"
 }

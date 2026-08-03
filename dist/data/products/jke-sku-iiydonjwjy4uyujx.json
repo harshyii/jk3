@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41VhTRy76fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/811LMdtseGL.jpg | https://m.media-amazon.com/images/I/41FURq9mwuL.jpg | https://m.media-amazon.com/images/I/41-zmHYHGUL.jpg | https://m.media-amazon.com/images/I/41mg90GhdkL.jpg | https://m.media-amazon.com/images/I/4102PW5CjjL.jpg | https://m.media-amazon.com/images/I/51DjKbJDEkL.jpg | https://m.media-amazon.com/images/I/41VhTRy76fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "8 Count",
-  "Discount": 0,
+  "Discount": "56.64%",
   "SalePrice": "₹199.00",
   "Model": "S-8"
 }

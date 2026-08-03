@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51HcrWr9fyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51en1nH-E0L.jpg | https://m.media-amazon.com/images/I/31Z0SEHa0eL.jpg | https://m.media-amazon.com/images/I/41eP87jwiaL.jpg | https://m.media-amazon.com/images/I/41IA5mMKCFL.jpg | https://m.media-amazon.com/images/I/41z-lleR+zL.jpg | https://m.media-amazon.com/images/I/51NE0NaqpAL.jpg | https://m.media-amazon.com/images/I/41KN5yeO0YL.jpg | https://m.media-amazon.com/images/I/51HcrWr9fyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "63.9%",
   "SalePrice": "₹469.00",
   "Model": "48vf-6000"
 }

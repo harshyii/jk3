@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41i3+evoftL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NhiI-UJzL.jpg | https://m.media-amazon.com/images/I/31iKkYWE7JL.jpg | https://m.media-amazon.com/images/I/61jARaU0duL.jpg | https://m.media-amazon.com/images/I/41ijo9qV+EL.jpg | https://m.media-amazon.com/images/I/41Unpyjxf0L.jpg | https://m.media-amazon.com/images/I/41i3+evoftL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.73%",
   "SalePrice": "₹3,632.00",
   "Model": "DCB183-B1",
   "Country": "Malaysia"

@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41ezwg+SsUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ezwg+SsUL.jpg | https://m.media-amazon.com/images/I/41ezwg+SsUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.29%",
   "SalePrice": "₹300.00",
   "Model": "Yuri-sds-8mm-160",
   "Country": "China"

@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51Q0vnfm8gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DXlA4AH6L.jpg | https://m.media-amazon.com/images/I/41mQqEaf7UL.jpg | https://m.media-amazon.com/images/I/51+B0FZTLDL.jpg | https://m.media-amazon.com/images/I/61lqAV-7eBL.jpg | https://m.media-amazon.com/images/I/51UtKmXydQL.jpg | https://m.media-amazon.com/images/I/61nuU+h5HYL.jpg | https://m.media-amazon.com/images/I/51q15VqXKSL.jpg | https://m.media-amazon.com/images/I/51Q0vnfm8gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.1765 Milliliters",
-  "Discount": 0,
+  "Discount": "57.42%",
   "SalePrice": "₹2,214.00",
   "Model": "CWS_101_16SW"
 }

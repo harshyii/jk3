@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41ZSz4WQ3TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/817fT5S7F+L.jpg | https://m.media-amazon.com/images/I/41XGelOz8lL.jpg | https://m.media-amazon.com/images/I/3161mLp9ltL.jpg | https://m.media-amazon.com/images/I/31JaFfFft2L.jpg | https://m.media-amazon.com/images/I/41tRQBNp0qL.jpg | https://m.media-amazon.com/images/I/41eupOJpy9L.jpg | https://m.media-amazon.com/images/I/41ZSz4WQ3TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.65%",
   "SalePrice": "₹5,878.00",
   "Model": "DV12DESBZ"
 }

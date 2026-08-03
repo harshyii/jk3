@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41OWuC2tnpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61kwAivCP1L.jpg | https://m.media-amazon.com/images/I/41W-pkdAZAL.jpg | https://m.media-amazon.com/images/I/41y3jOQzT5L.jpg | https://m.media-amazon.com/images/I/41AB81++VvL.jpg | https://m.media-amazon.com/images/I/51T9yIvuPnL.jpg | https://m.media-amazon.com/images/I/41OWuC2tnpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.32%",
   "SalePrice": "₹1,490.00",
   "Model": "A-Double battery gun"
 }

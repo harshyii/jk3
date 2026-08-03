@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41STw+a8G3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61q1LgyVRpL.jpg | https://m.media-amazon.com/images/I/216Pesl1leL.jpg | https://m.media-amazon.com/images/I/51Za+M+1btL.jpg | https://m.media-amazon.com/images/I/51mBeDjJqmL.jpg | https://m.media-amazon.com/images/I/51Xf6DCKLVL.jpg | https://m.media-amazon.com/images/I/51ZLjCgv5PL.jpg | https://m.media-amazon.com/images/I/41STw+a8G3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.85%",
   "SalePrice": "₹5,099.00",
   "Model": "GBH220"
 }

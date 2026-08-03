@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/51c5zFpeSVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71P5C3dvY2L.jpg | https://m.media-amazon.com/images/I/41EXHWJu+UL.jpg | https://m.media-amazon.com/images/I/412EUGbKqYL.jpg | https://m.media-amazon.com/images/I/41uRyIlwyFL.jpg | https://m.media-amazon.com/images/I/41fx7VdEKLL.jpg | https://m.media-amazon.com/images/I/41BnqRiIRZL.jpg | https://m.media-amazon.com/images/I/61B8jdKmY+L.jpg | https://m.media-amazon.com/images/I/51c5zFpeSVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.6%",
   "SalePrice": "₹50,138.00",
   "Model": "D25901K"
 }

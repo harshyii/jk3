@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41UvdtN67yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NADFi0qJL.jpg | https://m.media-amazon.com/images/I/41J5KVfY83L.jpg | https://m.media-amazon.com/images/I/41mQYn3eLoL.jpg | https://m.media-amazon.com/images/I/41Hx1hN8ydL.jpg | https://m.media-amazon.com/images/I/51btloD9ZJL.jpg | https://m.media-amazon.com/images/I/41lA8ObLYRL.jpg | https://m.media-amazon.com/images/I/41UvdtN67yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "23.72%",
   "SalePrice": "₹1,499.00",
   "Model": "IS260046989",
   "Country": "India"

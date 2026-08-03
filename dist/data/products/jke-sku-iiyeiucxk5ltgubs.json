@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41x8Au0JqbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Ro1vDY6kL.jpg | https://m.media-amazon.com/images/I/41BciGcqIDL.jpg | https://m.media-amazon.com/images/I/41x8Au0JqbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "22.55%",
   "SalePrice": "₹182.00",
   "Model": "TCT530 (1P)",
   "Country": "India"

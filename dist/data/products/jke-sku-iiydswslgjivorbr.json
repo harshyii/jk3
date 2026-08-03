@@ -91,9 +91,9 @@
     "https://m.media-amazon.com/images/I/51rhnMA3P9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715O7WtWLOL.jpg | https://m.media-amazon.com/images/I/51Z6H9FVsyL.jpg | https://m.media-amazon.com/images/I/51SpRxOkGQL.jpg | https://m.media-amazon.com/images/I/41rr4JFTchL.jpg | https://m.media-amazon.com/images/I/51qaGr3x5eL.jpg | https://m.media-amazon.com/images/I/51DdsTipmZL.jpg | https://m.media-amazon.com/images/I/51qh6OtTFBL.jpg | https://m.media-amazon.com/images/I/51rhnMA3P9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "29.28%",
   "SalePrice": "₹11,144.00",
   "Model": "DXMA1902091",
   "Country": "China"

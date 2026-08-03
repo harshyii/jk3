@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/311xz1iVBuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yykWP1D7L.jpg | https://m.media-amazon.com/images/I/311xz1iVBuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "30.49%",
   "SalePrice": "₹17,565.00",
   "Model": "53734",
   "Country": "USA"

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/61eIskyD9zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61IDL6CrPSL.jpg | https://m.media-amazon.com/images/I/413wMnsxWEL.jpg | https://m.media-amazon.com/images/I/61eIskyD9zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.06%",
   "SalePrice": "₹7,163.00",
   "Model": "td101"
 }

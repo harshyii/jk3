@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51R7mtVOAfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51I9dkphrpL.jpg | https://m.media-amazon.com/images/I/419jQKNFBWL.jpg | https://m.media-amazon.com/images/I/41pC-wQhDNL.jpg | https://m.media-amazon.com/images/I/41hV56X6n6L.jpg | https://m.media-amazon.com/images/I/41XWCBWAo0L.jpg | https://m.media-amazon.com/images/I/51TUmIigrDL.jpg | https://m.media-amazon.com/images/I/51R7mtVOAfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.74%",
   "SalePrice": "₹2,227.00",
   "Model": "60 A"
 }

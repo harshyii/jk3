@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/516EjIvY-VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61x0IG69XwL.jpg | https://m.media-amazon.com/images/I/31Z3NEjdulL.jpg | https://m.media-amazon.com/images/I/41X5zqVuLVL.jpg | https://m.media-amazon.com/images/I/51QdtNMeeCL.jpg | https://m.media-amazon.com/images/I/51uewzQfbuL.jpg | https://m.media-amazon.com/images/I/413aalEltjL.jpg | https://m.media-amazon.com/images/I/51kpzcCylRL.jpg | https://m.media-amazon.com/images/I/516EjIvY-VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Grams",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹30,262.00",
   "Model": "R18MT-0"
 }

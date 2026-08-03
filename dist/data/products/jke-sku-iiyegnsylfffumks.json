@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51dxNqqruEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71v9S3hQVQL.jpg | https://m.media-amazon.com/images/I/41n32oVuuzL.jpg | https://m.media-amazon.com/images/I/51wGWDIy0oL.jpg | https://m.media-amazon.com/images/I/51zopeWPbwL.jpg | https://m.media-amazon.com/images/I/51rTmE5I4cL.jpg | https://m.media-amazon.com/images/I/51kvhvaKmHL.jpg | https://m.media-amazon.com/images/I/51RCguCLSXL.jpg | https://m.media-amazon.com/images/I/51dxNqqruEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "72.6%",
   "SalePrice": "₹13,583.85",
   "Model": "ESP100"
 }

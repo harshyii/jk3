@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51wYU6g288L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XiL4zRQIL.jpg | https://m.media-amazon.com/images/I/41Q275jYV+L.jpg | https://m.media-amazon.com/images/I/51wYU6g288L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.69%",
   "SalePrice": "₹9,646.05",
   "Model": "HRP/AW/15M/3-8/B"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31R+wFGhuVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41GbLbthhGL.jpg | https://m.media-amazon.com/images/I/41GbLbthhGL.jpg | https://m.media-amazon.com/images/I/31R+wFGhuVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "54.41%",
   "SalePrice": "₹4,559.00",
   "Model": "Rs-dh1500"
 }

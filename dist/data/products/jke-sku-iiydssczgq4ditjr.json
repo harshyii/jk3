@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51cb7rie5jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ew2W6ReOL.jpg | https://m.media-amazon.com/images/I/31VX4mW8wQL.jpg | https://m.media-amazon.com/images/I/31IqxqZR4JL.jpg | https://m.media-amazon.com/images/I/510IQHpuWuL.jpg | https://m.media-amazon.com/images/I/61Xp+eb96QL.jpg | https://m.media-amazon.com/images/I/51Iw7d6-BGL.jpg | https://m.media-amazon.com/images/I/61AjIy6wvoL.jpg | https://m.media-amazon.com/images/I/51cb7rie5jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "61.29%",
   "SalePrice": "₹18,044.94",
   "Model": "ACC622"
 }

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41rPqBddPvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81kdliO1bpL.jpg | https://m.media-amazon.com/images/I/41rPqBddPvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "9.34%",
   "SalePrice": "₹67,989.00",
   "Model": "899-101-9001"
 }

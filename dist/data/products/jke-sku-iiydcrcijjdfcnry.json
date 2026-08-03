@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/515ENctq4HL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712f6ZAbpjL.jpg | https://m.media-amazon.com/images/I/414LdHqrHWL.jpg | https://m.media-amazon.com/images/I/41pWFy7w1oL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51WmkaJVcqL.jpg | https://m.media-amazon.com/images/I/51CcqN0u32L.jpg | https://m.media-amazon.com/images/I/41mWadqTmKL.jpg | https://m.media-amazon.com/images/I/51DK+QP-Z3L.jpg | https://m.media-amazon.com/images/I/515ENctq4HL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "3.01%",
   "SalePrice": "₹548.00",
   "Model": "FW1K"
 }

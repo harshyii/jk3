@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41k74eCLw0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/412gK-ZsZ7L.jpg | https://m.media-amazon.com/images/I/21qdfFHZoGL.jpg | https://m.media-amazon.com/images/I/21noWREEq-L.jpg | https://m.media-amazon.com/images/I/21MCvKOhbkL.jpg | https://m.media-amazon.com/images/I/41bHaATGTXL.jpg | https://m.media-amazon.com/images/I/41mBHFWEorL.jpg | https://m.media-amazon.com/images/I/41oLdD2k8fL.jpg | https://m.media-amazon.com/images/I/41k74eCLw0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "60.06%",
   "SalePrice": "₹399.00",
   "Model": "D100601"
 }

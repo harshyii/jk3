@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51dCMrAkErL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xwQGt7x7L.jpg | https://m.media-amazon.com/images/I/41T2MiY68iL.jpg | https://m.media-amazon.com/images/I/51HcDsu1z8L.jpg | https://m.media-amazon.com/images/I/41RaYutz-vL.jpg | https://m.media-amazon.com/images/I/41CQn-K7uwL.jpg | https://m.media-amazon.com/images/I/4159C2QIkvL.jpg | https://m.media-amazon.com/images/I/41fKAiS1-uL.jpg | https://m.media-amazon.com/images/I/51dCMrAkErL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.95%",
   "SalePrice": "₹1,110.00",
   "Model": "G17216",
   "Country": "USA"

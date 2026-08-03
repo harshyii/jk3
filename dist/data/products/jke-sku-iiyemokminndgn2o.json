@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/317s6BehxJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zqOz3pjtL.jpg | https://m.media-amazon.com/images/I/414rya6VrkL.jpg | https://m.media-amazon.com/images/I/317s6BehxJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "0.49%",
   "SalePrice": "₹1,207.00",
   "Model": "515548-4"
 }

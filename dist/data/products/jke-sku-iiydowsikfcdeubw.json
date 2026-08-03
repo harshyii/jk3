@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41M3YM37wZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41M3YM37wZL.jpg | https://m.media-amazon.com/images/I/41M3YM37wZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.69%",
   "SalePrice": "₹16,238.00",
   "Model": "M3600B"
 }

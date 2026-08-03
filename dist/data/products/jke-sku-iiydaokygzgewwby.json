@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41VrskdnO0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61o5JuGYLfL.jpg | https://m.media-amazon.com/images/I/31ZJAMi0gtL.jpg | https://m.media-amazon.com/images/I/41TeI+zifvL.jpg | https://m.media-amazon.com/images/I/41UaK2i6yGL.jpg | https://m.media-amazon.com/images/I/41VrskdnO0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.13%",
   "SalePrice": "₹3,039.00",
   "Model": "MTHD5-XJ"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21Wr2Zz1ApL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41e2ZV7+7DL.jpg | https://m.media-amazon.com/images/I/11iOHi5Wk5L.jpg | https://m.media-amazon.com/images/I/219yx3h2+SL.jpg | https://m.media-amazon.com/images/I/21Wr2Zz1ApL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "59.27%",
   "SalePrice": "₹244.00",
   "Model": "D-00066",
   "Country": "Japan"

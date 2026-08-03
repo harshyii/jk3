@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/514xLoNnbzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gFyR7iJ8L.jpg | https://m.media-amazon.com/images/I/41wrTBAO2NL.jpg | https://m.media-amazon.com/images/I/41JwPqY05hL.jpg | https://m.media-amazon.com/images/I/51QlijaikzL.jpg | https://m.media-amazon.com/images/I/41+uZ2MoZbL.jpg | https://m.media-amazon.com/images/I/515OAlmTwuL.jpg | https://m.media-amazon.com/images/I/514xLoNnbzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "32.28%",
   "SalePrice": "₹12,799.00",
   "Model": "GSB 185-LI Professional"
 }

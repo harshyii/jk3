@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51QdYPvtR8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PCrSQsDmL.jpg | https://m.media-amazon.com/images/I/41qbfc+IQhL.jpg | https://m.media-amazon.com/images/I/410PPO469HL.jpg | https://m.media-amazon.com/images/I/51QdYPvtR8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Milliliters",
-  "Discount": 0,
+  "Discount": "0.83%",
   "SalePrice": "₹594.00",
   "Model": "51788",
   "Country": "United Kingdom"

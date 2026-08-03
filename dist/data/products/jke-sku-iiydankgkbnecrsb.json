@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41VaKRlrUNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81aiXpPKXVL.jpg | https://m.media-amazon.com/images/I/41wGQJsEZML.jpg | https://m.media-amazon.com/images/I/41SmT7XACHL.jpg | https://m.media-amazon.com/images/I/41ZuoI1SdrL.jpg | https://m.media-amazon.com/images/I/51LV0hrsu1L.jpg | https://m.media-amazon.com/images/I/41gEvgjoCgL.jpg | https://m.media-amazon.com/images/I/419QhWoIfdL.jpg | https://m.media-amazon.com/images/I/41VaKRlrUNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.0 Grams",
-  "Discount": 0,
+  "Discount": "28.66%",
   "SalePrice": "₹1,854.00",
   "Model": "374",
   "Country": "Japan"

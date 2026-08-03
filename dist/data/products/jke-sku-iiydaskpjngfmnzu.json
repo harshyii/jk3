@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/51CznrHAwTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/911247o0njL.jpg | https://m.media-amazon.com/images/I/51CznrHAwTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.07%",
   "SalePrice": "₹21,405.00",
   "Model": "NAR146"
 }

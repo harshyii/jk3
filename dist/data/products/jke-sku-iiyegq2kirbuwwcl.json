@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41wNYtwr3BL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61IYj7JYEoL.jpg | https://m.media-amazon.com/images/I/416j16hBDIL.jpg | https://m.media-amazon.com/images/I/512Lvxb7uSL.jpg | https://m.media-amazon.com/images/I/51wgH2MWnnL.jpg | https://m.media-amazon.com/images/I/41Qwkx0gsdL.jpg | https://m.media-amazon.com/images/I/51Z+GXO4xWL.jpg | https://m.media-amazon.com/images/I/41Lw2BZQ20L.jpg | https://m.media-amazon.com/images/I/41wNYtwr3BL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹450.00",
   "Country": "India"
 }

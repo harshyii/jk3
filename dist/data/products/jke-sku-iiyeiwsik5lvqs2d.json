@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71F-b5H3YNL.jpg | https://m.media-amazon.com/images/I/41K5kDzaN5L.jpg | https://m.media-amazon.com/images/I/51HetT8rYCL.jpg | https://m.media-amazon.com/images/I/51rflV-DQ5L.jpg | https://m.media-amazon.com/images/I/51dDEfabLkL.jpg | https://m.media-amazon.com/images/I/51iD5WD-HGL.jpg | https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.93%",
   "SalePrice": "₹16,799.00",
   "Model": "AMP-66AP180TT"
 }

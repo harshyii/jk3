@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/513PUcYuK1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618MWO2jjGL.jpg | https://m.media-amazon.com/images/I/310BP4dP1XL.jpg | https://m.media-amazon.com/images/I/41yyVCm4kOL.jpg | https://m.media-amazon.com/images/I/51eFCmSAjcL.jpg | https://m.media-amazon.com/images/I/41yFfEmnJNL.jpg | https://m.media-amazon.com/images/I/41tcrBgHj2L.jpg | https://m.media-amazon.com/images/I/513PUcYuK1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.37%",
   "SalePrice": "₹4,599.00",
   "Country": "‎Malaysia"
 }

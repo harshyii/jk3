@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41-B5+6-fRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71r4KXQ6wDL.jpg | https://m.media-amazon.com/images/I/41-B5+6-fRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Piece",
-  "Discount": 0,
+  "Discount": "60%",
   "SalePrice": "₹800.00",
   "Model": "X3/Gx Series",
   "Country": "India"

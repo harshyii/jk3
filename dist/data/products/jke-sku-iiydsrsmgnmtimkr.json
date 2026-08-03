@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51REZ-gwYdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81+F3zAVI9L.jpg | https://m.media-amazon.com/images/I/51zciZa3a+L.jpg | https://m.media-amazon.com/images/I/51jHwTuYTtL.jpg | https://m.media-amazon.com/images/I/51KoKe4txNL.jpg | https://m.media-amazon.com/images/I/41uSSuuAgDL.jpg | https://m.media-amazon.com/images/I/51sX0FxKfJL.jpg | https://m.media-amazon.com/images/I/419GfDhnbRL.jpg | https://m.media-amazon.com/images/I/51REZ-gwYdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "51.87%",
   "SalePrice": "₹15,471.00",
   "Model": "S40"
 }

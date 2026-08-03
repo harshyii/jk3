@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41U5k7eiPsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bf+vEQ+DL.jpg | https://m.media-amazon.com/images/I/41lLJtQVZLL.jpg | https://m.media-amazon.com/images/I/41NDUok802L.jpg | https://m.media-amazon.com/images/I/51-9AfGuNnL.jpg | https://m.media-amazon.com/images/I/41U5k7eiPsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.74%",
   "SalePrice": "₹7,779.00",
   "Model": "86-7E02-KHOP"
 }

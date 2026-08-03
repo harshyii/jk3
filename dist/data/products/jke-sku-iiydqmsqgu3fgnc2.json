@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41ZgXAp1KzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t33aBZ1+L.jpg | https://m.media-amazon.com/images/I/41NDJUwOGdL.jpg | https://m.media-amazon.com/images/I/4199NBLdEEL.jpg | https://m.media-amazon.com/images/I/51WEBSwGHPL.jpg | https://m.media-amazon.com/images/I/41ZgXAp1KzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.42%",
   "SalePrice": "₹2,879.00",
   "Model": "Indi631"
 }

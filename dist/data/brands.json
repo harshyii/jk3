@@ -2,7 +2,7 @@
   {
     "name": "Eastman",
     "slug": "eastman",
-    "count": 157,
+    "count": 156,
     "image": "https://www.eastmanshop.com/cdn/shop/files/EASTMAN_LOGO_2_d03dc81a-227c-4cb6-a832-13cea09fe67b_1968x500.webp?v=1781506228",
     "featured": true
   },
@@ -163,7 +163,7 @@
   {
     "name": "Luminous",
     "slug": "luminous",
-    "count": 248,
+    "count": 246,
     "image": "https://lumprodsta.blob.core.windows.net/prodcontainer/assets/icons/LuminousLogoBlue.webp",
     "featured": true
   },
@@ -212,7 +212,7 @@
   {
     "name": "Meguiar's",
     "slug": "meguiars",
-    "count": 160,
+    "count": 159,
     "image": "https://www.meguiars.com/themes/custom/meg/logo.png",
     "featured": true
   },
@@ -226,14 +226,14 @@
   {
     "name": "Makita",
     "slug": "makita",
-    "count": 290,
+    "count": 288,
     "image": "https://makita.in/wp-content/themes/Makita/img/logo.jpg",
     "featured": true
   },
   {
     "name": "DeWalt",
     "slug": "dewalt",
-    "count": 297,
+    "count": 291,
     "image": "https://www.dewalt.com/_next/image?url=https%3A%2F%2Fbynder.sbdinc.com%2Ftransform%2F1d28105f-0bcc-4c55-816c-bbb190fbdf02%2FDW_Y-ON-B_LMB1%3Fio%3Dtransform%253Afit%252Cwidth%253A256%26format%3Dwebp%26quality%3D75&w=256&q=75",
     "featured": true
   },
@@ -331,7 +331,7 @@
   {
     "name": "Milwaukee",
     "slug": "milwaukee",
-    "count": 202,
+    "count": 200,
     "image": "https://vectorseek.com/wp-content/uploads/2023/04/Milwaukee-Tool-Logo-Vector.jpg",
     "featured": true
   },
@@ -345,7 +345,7 @@
   {
     "name": "DCA",
     "slug": "dca",
-    "count": 152,
+    "count": 7,
     "image": "https://www.dcatools.com/_nuxt/img/logo.3519305.png",
     "featured": false
   },
@@ -359,7 +359,7 @@
   {
     "name": "Dremel",
     "slug": "dremel",
-    "count": 180,
+    "count": 179,
     "image": "https://www.dremel.com/images/dremel_w340-png--16fe15ef3de449c0a6662896569f4483.png?imgWidth=340&imgHeight=111&scale=1",
     "featured": false
   },
@@ -380,7 +380,7 @@
   {
     "name": "CUMI",
     "slug": "cumi",
-    "count": 68,
+    "count": 64,
     "image": "https://www.cumi-murugappa.com/abrasives/wp-content/themes/cumi/images/logo.png",
     "featured": true
   },
@@ -401,14 +401,14 @@
   {
     "name": "Chemical Guys",
     "slug": "chemical-guys",
-    "count": 298,
+    "count": 295,
     "image": "https://www.chemicalguys.com/cdn/shop/files/chemical-guys-logo.svg?v=1682352461&width=352",
     "featured": false
   },
   {
     "name": "Waxpol",
     "slug": "waxpol",
-    "count": 183,
+    "count": 182,
     "image": "https://www.waxpol.com/images/logo.jpg",
     "featured": false
   },
@@ -443,14 +443,14 @@
   {
     "name": "Microtek",
     "slug": "microtek",
-    "count": 247,
+    "count": 246,
     "image": "https://www.microtek.in/img/logo.svg",
     "featured": true
   },
   {
     "name": "Havells",
     "slug": "havells",
-    "count": 301,
+    "count": 300,
     "image": "https://havells.com/media/logo/stores/1/Havells_Logo.svg",
     "featured": true
   },
@@ -478,14 +478,14 @@
   {
     "name": "Krost",
     "slug": "krost",
-    "count": 267,
+    "count": 266,
     "image": "https://atozshop.co.in/wp-content/uploads/2026/06/LOGO-01-755x218.webp",
     "featured": false
   },
   {
     "name": "Fischer",
     "slug": "fischer",
-    "count": 39,
+    "count": 37,
     "image": "https://media.fischer.group/v7/_media-prod_/national/samples/logos/logo-footer.png?h=30&func=bound",
     "featured": false
   },
@@ -597,14 +597,14 @@
   {
     "name": "Amazon Basics",
     "slug": "amazon-basics",
-    "count": 29,
+    "count": 28,
     "image": "https://m.media-amazon.com/images/I/71ljyg8mkVL.jpg | https://m.media-amazon.com/images/I/41X5uzTJh4L.jpg | https://m.media-amazon.com/images/I/61v7JkLWDCL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/31qnfzrWUaL.jpg | https://m.media-amazon.com/images/I/31aLFaE3WKL.jpg | https://m.media-amazon.com/images/I/41slXiu6j7L.jpg | https://m.media-amazon.com/images/I/51qu53dHYOL.jpg",
     "featured": false
   },
   {
     "name": "Other",
     "slug": "other",
-    "count": 1535,
+    "count": 1495,
     "image": "https://m.media-amazon.com/images/I/61XomfVpY-L.jpg | https://m.media-amazon.com/images/I/31A6HmoNrLL.jpg | https://m.media-amazon.com/images/I/410KrRvw8RL.jpg | https://m.media-amazon.com/images/I/51v+Oiz9buL.jpg | https://m.media-amazon.com/images/I/51awDMTArEL.jpg | https://m.media-amazon.com/images/I/41NK2Se5UAL.jpg | https://m.media-amazon.com/images/I/51K7PSKYXiL.jpg | https://m.media-amazon.com/images/I/41mBPbKGKTL.jpg",
     "featured": false
   },
@@ -730,7 +730,7 @@
   {
     "name": "Generic",
     "slug": "generic",
-    "count": 541,
+    "count": 533,
     "image": "https://m.media-amazon.com/images/I/61KHJogeW4L.jpg | https://m.media-amazon.com/images/I/41Jq4acmvyL.jpg | https://m.media-amazon.com/images/I/41UbeVfA66L.jpg | https://m.media-amazon.com/images/I/51IT6xJuhxL.jpg | https://m.media-amazon.com/images/I/4154amszULL.jpg | https://m.media-amazon.com/images/I/41RzSYQMUHL.jpg | https://m.media-amazon.com/images/I/41VC-VITFsL.jpg",
     "featured": false
   },
@@ -870,7 +870,7 @@
   {
     "name": "Fedus",
     "slug": "fedus",
-    "count": 40,
+    "count": 39,
     "image": "https://m.media-amazon.com/images/I/719r6zKcatL.jpg | https://m.media-amazon.com/images/I/41SQc9RUQML.jpg | https://m.media-amazon.com/images/I/612mRHNwIbL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41+wlXvKSnL.jpg | https://m.media-amazon.com/images/I/41j-PNLp1VL.jpg | https://m.media-amazon.com/images/I/41FS32PKGJL.jpg | https://m.media-amazon.com/images/I/41Sol0bd2XL.jpg | https://m.media-amazon.com/images/I/4124d96MbOL.jpg",
     "featured": false
   },
@@ -1050,13 +1050,6 @@
     "featured": false
   },
   {
-    "name": "Sonari",
-    "slug": "sonari",
-    "count": 2,
-    "image": "https://m.media-amazon.com/images/I/61P3xTqqIpL.jpg | https://m.media-amazon.com/images/I/41qbCyQlYAL.jpg | https://m.media-amazon.com/images/I/31MAfYFCTPL.jpg | https://m.media-amazon.com/images/I/31sM1hDjJEL.jpg | https://m.media-amazon.com/images/I/31FcKzl404L.jpg | https://m.media-amazon.com/images/I/3160I6KXD7L.jpg | https://m.media-amazon.com/images/I/51YAYe2lfDL.jpg",
-    "featured": false
-  },
-  {
     "name": "Pure Source India",
     "slug": "pure-source-india",
     "count": 5,
@@ -1089,13 +1082,6 @@
     "slug": "hammer",
     "count": 3,
     "image": "https://m.media-amazon.com/images/I/71L4r2qAVTL.jpg | https://m.media-amazon.com/images/I/41r-pZ+43vL.jpg | https://m.media-amazon.com/images/I/519f53WdOBL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/419nS-Cf8bL.jpg | https://m.media-amazon.com/images/I/41txyZ38u4L.jpg | https://m.media-amazon.com/images/I/41dMZldRBDL.jpg | https://m.media-amazon.com/images/I/41KhHh0VKbL.jpg | https://m.media-amazon.com/images/I/41khYMvBoOL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Acnos",
-    "slug": "acnos",
-    "count": 1,
-    "image": "https://m.media-amazon.com/images/I/61AbrwN6PqL.jpg | https://m.media-amazon.com/images/I/41sD3sMouSL.jpg | https://m.media-amazon.com/images/I/41is3tJOsaL.jpg | https://m.media-amazon.com/images/I/51Bs0jLrLXL.jpg | https://m.media-amazon.com/images/I/51LPQzSl9wL.jpg | https://m.media-amazon.com/images/I/41y0q67-hOL.jpg | https://m.media-amazon.com/images/I/41a9EG1zs5L.jpg | https://m.media-amazon.com/images/I/41FBUKSbXFL.jpg",
     "featured": false
   },
   {
@@ -1173,13 +1159,6 @@
     "slug": "gizga-essentials",
     "count": 4,
     "image": "https://m.media-amazon.com/images/I/6167PcB0w3S.jpg | https://m.media-amazon.com/images/I/41q1jl5omYS.jpg | https://m.media-amazon.com/images/I/61+-+2qBNlL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/410lXtSpWNL.jpg | https://m.media-amazon.com/images/I/41xBNx9UhsL.jpg | https://m.media-amazon.com/images/I/41WO8blQGkL.jpg | https://m.media-amazon.com/images/I/41vj25jN3lL.jpg | https://m.media-amazon.com/images/I/51xQUFyqpSL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Kaththai",
-    "slug": "kaththai",
-    "count": 1,
-    "image": "https://m.media-amazon.com/images/I/61tDgvp2LPL.jpg | https://m.media-amazon.com/images/I/31udzCf9KVL.jpg | https://m.media-amazon.com/images/I/41WsXpTYCSL.jpg | https://m.media-amazon.com/images/I/41cBctXlBVL.jpg | https://m.media-amazon.com/images/I/41R8QubfQvL.jpg | https://m.media-amazon.com/images/I/4141ELghLWL.jpg | https://m.media-amazon.com/images/I/41zUMISHlCL.jpg",
     "featured": false
   },
   {
@@ -1542,14 +1521,14 @@
   {
     "name": "3M",
     "slug": "3m",
-    "count": 175,
+    "count": 172,
     "image": "https://m.media-amazon.com/images/I/71qvIQE1acL.jpg | https://m.media-amazon.com/images/I/31iwVF40pkL.jpg | https://m.media-amazon.com/images/I/41l1OwMDEAL.jpg | https://m.media-amazon.com/images/I/41A6d3nufJL.jpg | https://m.media-amazon.com/images/I/417SrlBU66L.jpg | https://m.media-amazon.com/images/I/316dH1yBRDL.jpg | https://m.media-amazon.com/images/I/310NdDx7Y8L.jpg",
     "featured": false
   },
   {
     "name": "Scotch",
     "slug": "scotch",
-    "count": 12,
+    "count": 11,
     "image": "https://m.media-amazon.com/images/I/61DBn6sPzoL.jpg | https://m.media-amazon.com/images/I/41bsQCumy7L.jpg | https://m.media-amazon.com/images/I/31pBD-jpS1L.jpg | https://m.media-amazon.com/images/I/41jf83K9-AL.jpg | https://m.media-amazon.com/images/I/4168GaJnvlL.jpg | https://m.media-amazon.com/images/I/41MukAFhIXL.jpg | https://m.media-amazon.com/images/I/414a-SXrklL.jpg | https://m.media-amazon.com/images/I/51rxidagAlL.jpg",
     "featured": false
   },
@@ -1617,13 +1596,6 @@
     "featured": false
   },
   {
-    "name": "Babygo",
-    "slug": "babygo",
-    "count": 4,
-    "image": "https://m.media-amazon.com/images/I/61NWoisRjRL.jpg | https://m.media-amazon.com/images/I/41ix8FOkseL.jpg | https://m.media-amazon.com/images/I/41wddtfhtPL.jpg | https://m.media-amazon.com/images/I/41Z9zsGpgoL.jpg | https://m.media-amazon.com/images/I/31jde613ebL.jpg | https://m.media-amazon.com/images/I/41VRsJiKNAL.jpg | https://m.media-amazon.com/images/I/31HBaaPOsHL.jpg",
-    "featured": false
-  },
-  {
     "name": "Micros2U",
     "slug": "micros2u",
     "count": 2,
@@ -1647,8 +1619,8 @@
   {
     "name": "Softspun",
     "slug": "softspun",
-    "count": 34,
-    "image": "https://m.media-amazon.com/images/I/81jzJdqaJOL.jpg | https://m.media-amazon.com/images/I/51m3lRrvkhL.jpg | https://m.media-amazon.com/images/I/41LFuUhUyfL.jpg | https://m.media-amazon.com/images/I/51p-JMXg5oL.jpg | https://m.media-amazon.com/images/I/517Ra9l-kSL.jpg | https://m.media-amazon.com/images/I/51a1Jp0JiBL.jpg | https://m.media-amazon.com/images/I/51zvSv0DxAL.jpg",
+    "count": 32,
+    "image": "https://m.media-amazon.com/images/I/81od27xOMVL.jpg | https://m.media-amazon.com/images/I/51cxiP+PHJL.jpg | https://m.media-amazon.com/images/I/61nSbh6Q7PL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41hm85uwQ5L.jpg | https://m.media-amazon.com/images/I/51yhCcBNGML.jpg | https://m.media-amazon.com/images/I/51Do-R31UrL.jpg | https://m.media-amazon.com/images/I/51dRzDMyBGL.jpg | https://m.media-amazon.com/images/I/41zqkISPNML.jpg",
     "featured": false
   },
   {
@@ -1696,7 +1668,7 @@
   {
     "name": "Format:Paperback",
     "slug": "formatpaperback",
-    "count": 5,
+    "count": 4,
     "image": "https://m.media-amazon.com/images/I/61JRlylme7L.jpg | https://m.media-amazon.com/images/I/41DSDYDDcVL.jpg | https://m.media-amazon.com/images/I/518FMp8IvwL.jpg",
     "featured": false
   },
@@ -1960,17 +1932,17 @@
     "featured": false
   },
   {
-    "name": "Kenbrook Solar",
-    "slug": "kenbrook-solar",
-    "count": 47,
-    "image": "https://m.media-amazon.com/images/I/519gVYVs7vL.jpg | https://m.media-amazon.com/images/I/31VvR8asEFL.jpg | https://m.media-amazon.com/images/I/41tBayJbuGL.jpg | https://m.media-amazon.com/images/I/41sNiOXFEgL.jpg | https://m.media-amazon.com/images/I/41elHv0jCAL.jpg | https://m.media-amazon.com/images/I/51H+ceA6gaL.jpg | https://m.media-amazon.com/images/I/51etqwZ6heL.jpg",
-    "featured": false
-  },
-  {
     "name": "Ashapower",
     "slug": "ashapower",
     "count": 4,
     "image": "https://m.media-amazon.com/images/I/61+UuWfYvLL.jpg | https://m.media-amazon.com/images/I/313tiB0gxEL.jpg | https://m.media-amazon.com/images/I/41BWMICWf-L.jpg | https://m.media-amazon.com/images/I/41WqZbt+kNL.jpg | https://m.media-amazon.com/images/I/51R9tBmWLDL.jpg | https://m.media-amazon.com/images/I/41iQzMsFexL.jpg | https://m.media-amazon.com/images/I/41NhYgc4Q6L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Kenbrook Solar",
+    "slug": "kenbrook-solar",
+    "count": 46,
+    "image": "https://m.media-amazon.com/images/I/41+Yw9YCUBL.jpg | https://m.media-amazon.com/images/I/21nPkzOrLpL.jpg | https://m.media-amazon.com/images/I/51zL8BS4FnL.jpg | https://m.media-amazon.com/images/I/311YRpA8ZbL.jpg | https://m.media-amazon.com/images/I/31RBy7TrBDL.jpg | https://m.media-amazon.com/images/I/312fSb20mpL.jpg",
     "featured": false
   },
   {
@@ -2013,13 +1985,6 @@
     "slug": "morel",
     "count": 4,
     "image": "https://m.media-amazon.com/images/I/71zKCIIYw-L.jpg | https://m.media-amazon.com/images/I/31VgBoLcq6L.jpg | https://m.media-amazon.com/images/I/31S-JKXMpWL.jpg | https://m.media-amazon.com/images/I/31lZvJffonL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Wonderwink",
-    "slug": "wonderwink",
-    "count": 4,
-    "image": "https://m.media-amazon.com/images/I/51PGAQ+qqPL.jpg | https://m.media-amazon.com/images/I/31sJbJ9bBML.jpg | https://m.media-amazon.com/images/I/41QNegK0zqL.jpg",
     "featured": false
   },
   {
@@ -2151,7 +2116,7 @@
   {
     "name": "Black+Decker",
     "slug": "blackdecker",
-    "count": 289,
+    "count": 282,
     "image": "https://m.media-amazon.com/images/I/712WntYAiAL.jpg | https://m.media-amazon.com/images/I/41Wb9Ho2l0L.jpg | https://m.media-amazon.com/images/I/51p--xC80KL.jpg | https://m.media-amazon.com/images/I/31r8UMWsxSL.jpg | https://m.media-amazon.com/images/I/41byBSgvsuL.jpg | https://m.media-amazon.com/images/I/41vwpq02ucL.jpg | https://m.media-amazon.com/images/I/61i2eZwQ57L.jpg",
     "featured": false
   },
@@ -2221,7 +2186,7 @@
   {
     "name": "Freeman",
     "slug": "freeman",
-    "count": 89,
+    "count": 87,
     "image": "https://m.media-amazon.com/images/I/51N4-gXbapL.jpg | https://m.media-amazon.com/images/I/31EdXsyVOyL.jpg | https://m.media-amazon.com/images/I/31YKuQD+lZL.jpg | https://m.media-amazon.com/images/I/31kh0rlM0KL.jpg | https://m.media-amazon.com/images/I/31QPVH2ijbS.jpg",
     "featured": false
   },
@@ -3516,8 +3481,8 @@
   {
     "name": "Milwaukee Leather",
     "slug": "milwaukee-leather",
-    "count": 58,
-    "image": "https://m.media-amazon.com/images/I/61KbHR9-uiS.jpg | https://m.media-amazon.com/images/I/317M4shj6aS.jpg | https://m.media-amazon.com/images/I/31rDXDguvLS.jpg | https://m.media-amazon.com/images/I/41mEB9mGhJS.jpg | https://m.media-amazon.com/images/I/31PqHeZx6kS.jpg | https://m.media-amazon.com/images/I/41QC+91e4CS.jpg | https://m.media-amazon.com/images/I/31m8kMgeW2S.jpg | https://m.media-amazon.com/images/I/41CUuIy1luS.jpg",
+    "count": 21,
+    "image": "https://m.media-amazon.com/images/I/51RBdAH6wfL.jpg | https://m.media-amazon.com/images/I/31mMxjBSRHL.jpg | https://m.media-amazon.com/images/I/41eP9zTKgdL.jpg | https://m.media-amazon.com/images/I/51DgiU74LIL.jpg | https://m.media-amazon.com/images/I/41+itnPKyiL.jpg",
     "featured": false
   },
   {
@@ -3738,13 +3703,6 @@
     "featured": false
   },
   {
-    "name": "Dr. Shakti",
-    "slug": "dr-shakti",
-    "count": 2,
-    "image": "https://m.media-amazon.com/images/I/61l8Rb+mc4L.jpg | https://m.media-amazon.com/images/I/310IlV+mtJL.jpg | https://m.media-amazon.com/images/I/41QnEr7GmAL.jpg | https://m.media-amazon.com/images/I/31SQNGz5-8L.jpg | https://m.media-amazon.com/images/I/514kLkY2nBL.jpg",
-    "featured": false
-  },
-  {
     "name": "Vastu Vardan",
     "slug": "vastu-vardan",
     "count": 4,
@@ -3770,13 +3728,6 @@
     "slug": "divya-shakti",
     "count": 7,
     "image": "https://m.media-amazon.com/images/I/813EF5u9yNL.jpg | https://m.media-amazon.com/images/I/5180JvNHV2L.jpg",
-    "featured": false
-  },
-  {
-    "name": "Format:Hardcover",
-    "slug": "formathardcover",
-    "count": 2,
-    "image": "https://m.media-amazon.com/images/I/91zZVERKzjL.jpg | https://m.media-amazon.com/images/I/51Z9-TNy-HL.jpg | https://m.media-amazon.com/images/I/51W7L1DHq2L.jpg | https://m.media-amazon.com/images/I/51kc5uMFbYL.jpg | https://m.media-amazon.com/images/I/51rfRLMQr1L.jpg",
     "featured": false
   },
   {
@@ -3941,13 +3892,6 @@
     "featured": false
   },
   {
-    "name": "The South",
-    "slug": "the-south",
-    "count": 3,
-    "image": "https://m.media-amazon.com/images/I/61aV+JThYKL.jpg | https://m.media-amazon.com/images/I/41AyzebR1gL.jpg | https://m.media-amazon.com/images/I/41hI8hJouzL.jpg | https://m.media-amazon.com/images/I/316Z23TqWuL.jpg | https://m.media-amazon.com/images/I/31Xcn8N2w5L.jpg | https://m.media-amazon.com/images/I/41Dxb0eQ1EL.jpg | https://m.media-amazon.com/images/I/41PGhKT0PJL.jpg",
-    "featured": false
-  },
-  {
     "name": "Seagull",
     "slug": "seagull",
     "count": 1,
@@ -3983,24 +3927,10 @@
     "featured": false
   },
   {
-    "name": "Navus",
-    "slug": "navus",
-    "count": 2,
-    "image": "https://m.media-amazon.com/images/I/71z671CFIfL.jpg | https://m.media-amazon.com/images/I/31mnyfukUXL.jpg | https://m.media-amazon.com/images/I/41bscdIi2NL.jpg | https://m.media-amazon.com/images/I/21gUIoZD-eL.jpg | https://m.media-amazon.com/images/I/31LOwGHsyeL.jpg",
-    "featured": false
-  },
-  {
     "name": "Langullci",
     "slug": "langullci",
     "count": 1,
     "image": "https://m.media-amazon.com/images/I/51YO34WlDKL.jpg | https://m.media-amazon.com/images/I/31seFtuJatL.jpg | https://m.media-amazon.com/images/I/31iD4pMSF+L.jpg | https://m.media-amazon.com/images/I/4124LfSBUzL.jpg | https://m.media-amazon.com/images/I/41nLL+kSHHL.jpg | https://m.media-amazon.com/images/I/41umxIc3JrL.jpg | https://m.media-amazon.com/images/I/41VNGo5rzcL.jpg | https://m.media-amazon.com/images/I/41LpdkaW9kL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Adidas",
-    "slug": "adidas",
-    "count": 5,
-    "image": "https://m.media-amazon.com/images/I/717h5tnQZVL.jpg | https://m.media-amazon.com/images/I/31Mn6B6GBRL.jpg | https://m.media-amazon.com/images/I/31xI5CiZP8L.jpg | https://m.media-amazon.com/images/I/31SHjrVNFIL.jpg | https://m.media-amazon.com/images/I/41hsvHcFxTL.jpg | https://m.media-amazon.com/images/I/41FXWeXdXbL.jpg | https://m.media-amazon.com/images/I/31FWo50BS6L.jpg",
     "featured": false
   },
   {
@@ -4029,6 +3959,13 @@
     "slug": "postrhai",
     "count": 2,
     "image": "https://m.media-amazon.com/images/I/81Qu43qg8SL.jpg | https://m.media-amazon.com/images/I/41UCfHoxzrL.jpg | https://m.media-amazon.com/images/I/415bAvHMNfL.jpg | https://m.media-amazon.com/images/I/41ccG9hrAjL.jpg | https://m.media-amazon.com/images/I/41cNorPQVxL.jpg | https://m.media-amazon.com/images/I/411ZsRswG+L.jpg | https://m.media-amazon.com/images/I/21bZweP9BwL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Navus",
+    "slug": "navus",
+    "count": 1,
+    "image": "https://m.media-amazon.com/images/I/51hWpUequyL.jpg | https://m.media-amazon.com/images/I/41-BdyPaHwL.jpg | https://m.media-amazon.com/images/I/31DblqeM3RL.jpg | https://m.media-amazon.com/images/I/315Kw8CI2+L.jpg",
     "featured": false
   },
   {
@@ -4069,7 +4006,7 @@
   {
     "name": "Studio64",
     "slug": "studio64",
-    "count": 3,
+    "count": 1,
     "image": "https://m.media-amazon.com/images/I/61tzgonRpRL.jpg | https://m.media-amazon.com/images/I/31NWEfH3fgL.jpg | https://m.media-amazon.com/images/I/41mk4YacNrL.jpg",
     "featured": false
   },
@@ -4085,13 +4022,6 @@
     "slug": "yanveer",
     "count": 2,
     "image": "https://m.media-amazon.com/images/I/71eTpoL2cwL.jpg | https://m.media-amazon.com/images/I/51ziF6l0QJL.jpg | https://m.media-amazon.com/images/I/41Eeg+5ezRL.jpg | https://m.media-amazon.com/images/I/41B0zfRllyL.jpg | https://m.media-amazon.com/images/I/51wKs6fFanL.jpg | https://m.media-amazon.com/images/I/41AUdbxOx6L.jpg | https://m.media-amazon.com/images/I/41xWptfnK4L.jpg | https://m.media-amazon.com/images/I/51Kr944jBaL.jpg",
-    "featured": false
-  },
-  {
-    "name": "The Black Jackal",
-    "slug": "the-black-jackal",
-    "count": 1,
-    "image": "https://m.media-amazon.com/images/I/71k-9Ne8jTL.jpg | https://m.media-amazon.com/images/I/41JNriwuRCL.jpg | https://m.media-amazon.com/images/I/31I+fOLKLiL.jpg | https://m.media-amazon.com/images/I/418VdcEi3wL.jpg | https://m.media-amazon.com/images/I/51TCGKhPAUL.jpg | https://m.media-amazon.com/images/I/41YDJ0BTDyL.jpg | https://m.media-amazon.com/images/I/41yBDjwgtiL.jpg | https://m.media-amazon.com/images/I/41Xqs03b7hL.jpg",
     "featured": false
   },
   {
@@ -4627,13 +4557,6 @@
     "featured": false
   },
   {
-    "name": "Trufit",
-    "slug": "trufit",
-    "count": 1,
-    "image": "https://m.media-amazon.com/images/I/81rcd41x3CL.jpg | https://m.media-amazon.com/images/I/41NugvxEocL.jpg | https://m.media-amazon.com/images/I/41L5OHewE5L.jpg | https://m.media-amazon.com/images/I/41Aad9h7L8L.jpg | https://m.media-amazon.com/images/I/41fB86Qw62L.jpg | https://m.media-amazon.com/images/I/41zfY8o3uAL.jpg | https://m.media-amazon.com/images/I/41-MQk6CG3L.jpg",
-    "featured": false
-  },
-  {
     "name": "Etl Industries",
     "slug": "etl-industries",
     "count": 2,
@@ -4944,7 +4867,7 @@
   {
     "name": "Tallenge",
     "slug": "tallenge",
-    "count": 12,
+    "count": 9,
     "image": "https://m.media-amazon.com/images/I/919UNwW82LL.jpg | https://m.media-amazon.com/images/I/51nWS6UgB4L.jpg | https://m.media-amazon.com/images/I/41lXWVNAPdL.jpg | https://m.media-amazon.com/images/I/51hGyAjK0bL.jpg",
     "featured": false
   },
@@ -5058,13 +4981,6 @@
     "slug": "mother-sparsh",
     "count": 22,
     "image": "https://m.media-amazon.com/images/I/61+kfrSzCbL.jpg | https://m.media-amazon.com/images/I/41nLPlVavAL.jpg | https://m.media-amazon.com/images/I/51I7Gs86v+L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41ldSrkZHJL.jpg | https://m.media-amazon.com/images/I/41kiG79mq2L.jpg | https://m.media-amazon.com/images/I/41-MsIwph+L.jpg | https://m.media-amazon.com/images/I/41p1lClZxDL.jpg | https://m.media-amazon.com/images/I/41CKapi5iqL.jpg",
-    "featured": false
-  },
-  {
-    "name": "Motherly",
-    "slug": "motherly",
-    "count": 4,
-    "image": "https://m.media-amazon.com/images/I/81xGYp3gCuL.jpg | https://m.media-amazon.com/images/I/5176w5y1kML.jpg | https://m.media-amazon.com/images/I/51SImHP9wWL.jpg | https://m.media-amazon.com/images/I/51BmbOqG+-L.jpg | https://m.media-amazon.com/images/I/51pCil2rktL.jpg | https://m.media-amazon.com/images/I/51WzvkxAmIL.jpg | https://m.media-amazon.com/images/I/51qcRhG-mDL.jpg | https://m.media-amazon.com/images/I/51WRZeOW+LL.jpg",
     "featured": false
   },
   {
@@ -5187,6 +5103,13 @@
     "featured": false
   },
   {
+    "name": "Motherly",
+    "slug": "motherly",
+    "count": 2,
+    "image": "https://m.media-amazon.com/images/I/61fc-7OARhL.jpg | https://m.media-amazon.com/images/I/41px7y3xpEL.jpg | https://m.media-amazon.com/images/I/91QlmD8exTL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/515ZQqcchnL.jpg | https://m.media-amazon.com/images/I/515IElutdUL.jpg | https://m.media-amazon.com/images/I/51vz7Jqg+7L.jpg | https://m.media-amazon.com/images/I/5191imjPyjL.jpg | https://m.media-amazon.com/images/I/51I1tPkXAfL.jpg",
+    "featured": false
+  },
+  {
     "name": "Regalo Casila",
     "slug": "regalo-casila",
     "count": 1,
@@ -5194,16 +5117,9 @@
     "featured": false
   },
   {
-    "name": "Staranddaisy",
-    "slug": "staranddaisy",
-    "count": 2,
-    "image": "https://m.media-amazon.com/images/I/81B09YL7KGL.jpg | https://m.media-amazon.com/images/I/51p9P8uc8GL.jpg | https://m.media-amazon.com/images/I/51HwnDmBvTL.jpg | https://m.media-amazon.com/images/I/51481jt3CiL.jpg | https://m.media-amazon.com/images/I/41M00vMEr0L.jpg | https://m.media-amazon.com/images/I/51AH9AlPMuL.jpg | https://m.media-amazon.com/images/I/51FpADIOyNL.jpg | https://m.media-amazon.com/images/I/51tlJL5CtpL.jpg",
-    "featured": false
-  },
-  {
     "name": "Bymother'S Recipeformat:Grocery",
     "slug": "bymothers-recipeformatgrocery",
-    "count": 3,
+    "count": 2,
     "image": "https://m.media-amazon.com/images/I/51eXculRi3L.jpg | https://m.media-amazon.com/images/I/31Ce38uMX6L.jpg | https://m.media-amazon.com/images/I/315XWeu5tvL.jpg | https://m.media-amazon.com/images/I/51G4msKJBGL.jpg | https://m.media-amazon.com/images/I/51OC39NjWtL.jpg | https://m.media-amazon.com/images/I/51M5+DUekTL.jpg | https://m.media-amazon.com/images/I/31pY5H+3i9L.jpg | https://m.media-amazon.com/images/I/412YozTuZ7L.jpg",
     "featured": false
   },
@@ -5240,6 +5156,13 @@
     "slug": "way2ship",
     "count": 3,
     "image": "https://m.media-amazon.com/images/I/61n4nZU1W7L.jpg | https://m.media-amazon.com/images/I/41epyzaOqLL.jpg | https://m.media-amazon.com/images/I/51IN3EPBR6L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Staranddaisy",
+    "slug": "staranddaisy",
+    "count": 1,
+    "image": "https://m.media-amazon.com/images/I/91bczQx+y2L.jpg | https://m.media-amazon.com/images/I/51BZv-Gjg9L.jpg | https://m.media-amazon.com/images/I/71PCWjy1XqL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51-w91YyC9L.jpg | https://m.media-amazon.com/images/I/51nK7qf9v0L.jpg | https://m.media-amazon.com/images/I/51x0cNgDqvL.jpg | https://m.media-amazon.com/images/I/51CeB1DsFfL.jpg | https://m.media-amazon.com/images/I/51zn21ItzIL.jpg",
     "featured": false
   },
   {

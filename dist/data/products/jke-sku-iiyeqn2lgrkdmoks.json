@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51HhNmnGRXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61P0CozpPnL.jpg | https://m.media-amazon.com/images/I/41-1D5IfSOL.jpg | https://m.media-amazon.com/images/I/417D1jbx+lL.jpg | https://m.media-amazon.com/images/I/61xrf5zEcnL.jpg | https://m.media-amazon.com/images/I/51cIjymcO0L.jpg | https://m.media-amazon.com/images/I/51OlL7uCqhL.jpg | https://m.media-amazon.com/images/I/51Tx+Jz8R1L.jpg | https://m.media-amazon.com/images/I/51HhNmnGRXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "81.08%",
   "SalePrice": "₹189.00",
   "Model": "WIRE STRIPPER"
 }

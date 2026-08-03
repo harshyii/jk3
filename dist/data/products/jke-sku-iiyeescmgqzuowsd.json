@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41gazg-n9pL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61J7URYDpYL.jpg | https://m.media-amazon.com/images/I/41d-+Q17GLL.jpg | https://m.media-amazon.com/images/I/61N2o+VngGL.jpg | https://m.media-amazon.com/images/I/416CFIrmogL.jpg | https://m.media-amazon.com/images/I/4130VeJtL3L.jpg | https://m.media-amazon.com/images/I/41Zg+FHNveL.jpg | https://m.media-amazon.com/images/I/411sjiK4BdL.jpg | https://m.media-amazon.com/images/I/41gazg-n9pL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10.44%",
   "SalePrice": "₹20,599.00",
   "Model": "Kit"
 }

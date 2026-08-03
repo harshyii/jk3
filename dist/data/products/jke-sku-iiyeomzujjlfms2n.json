@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51yv2h5n4gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41gfyCTU3JL.jpg | https://m.media-amazon.com/images/I/21JmVPYRsgL.jpg | https://m.media-amazon.com/images/I/41NRre0dpSL.jpg | https://m.media-amazon.com/images/I/41UPS-tNabL.jpg | https://m.media-amazon.com/images/I/41vERXrXQsL.jpg | https://m.media-amazon.com/images/I/51sTw-YQxSL.jpg | https://m.media-amazon.com/images/I/31rFxml9AmL.jpg | https://m.media-amazon.com/images/I/51yv2h5n4gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "26.84%",
   "SalePrice": "₹199.00",
   "Model": "DE12-250"
 }

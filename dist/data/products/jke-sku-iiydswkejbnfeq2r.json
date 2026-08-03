@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41yroS3-o5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51uLiABWqvL.jpg | https://m.media-amazon.com/images/I/414JSSAccuL.jpg | https://m.media-amazon.com/images/I/41yroS3-o5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10.02%",
   "SalePrice": "₹449.00",
   "Model": "53777"
 }

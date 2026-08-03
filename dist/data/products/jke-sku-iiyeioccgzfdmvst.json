@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31h0CDArW7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81yTyQDj+rL.jpg | https://m.media-amazon.com/images/I/51zYWgRxQ2L.jpg | https://m.media-amazon.com/images/I/51+ykuohm9L.jpg | https://m.media-amazon.com/images/I/41FwZr2tdKL.jpg | https://m.media-amazon.com/images/I/41IDZ4jjVzL.jpg | https://m.media-amazon.com/images/I/41G7gXS5Y0L.jpg | https://m.media-amazon.com/images/I/51nQHXi5RWL.jpg | https://m.media-amazon.com/images/I/31h0CDArW7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹6,334.00",
   "Model": "572922"
 }

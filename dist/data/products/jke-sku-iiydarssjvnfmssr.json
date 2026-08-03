@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31X0cx3l07L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Qxz4-y3PL.jpg | https://m.media-amazon.com/images/I/51zm+ZsFpSL.jpg | https://m.media-amazon.com/images/I/51N0iS8QnWL.jpg | https://m.media-amazon.com/images/I/31X0cx3l07L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "16.3%",
   "SalePrice": "₹3,578.00",
   "Model": "DWA4219",
   "Country": "USA"

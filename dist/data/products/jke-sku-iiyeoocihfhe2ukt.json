@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/513NkBXylGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71piOjwmjyL.jpg | https://m.media-amazon.com/images/I/41uiJCtucIL.jpg | https://m.media-amazon.com/images/I/41QrExsMeAL.jpg | https://m.media-amazon.com/images/I/51dgeQyHpiL.jpg | https://m.media-amazon.com/images/I/513vcUnXoWL.jpg | https://m.media-amazon.com/images/I/513NkBXylGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "6.87%",
   "SalePrice": "₹19,799.00",
   "Model": "AMP-AP22048TT",
   "Country": "India"

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51pgw6HEhQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kkKx6n2RL.jpg | https://m.media-amazon.com/images/I/3189SY8IGrL.jpg | https://m.media-amazon.com/images/I/51zfDGRgwPL.jpg | https://m.media-amazon.com/images/I/51TX3ewPfQL.jpg | https://m.media-amazon.com/images/I/518GfzB6zrL.jpg | https://m.media-amazon.com/images/I/51OTxnzZoyL.jpg | https://m.media-amazon.com/images/I/41Ju3Sjd8JL.jpg | https://m.media-amazon.com/images/I/51pgw6HEhQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.23%",
   "SalePrice": "₹14,231.55",
   "Model": "BSH-120"
 }

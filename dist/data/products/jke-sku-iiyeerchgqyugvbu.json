@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/514pMIqzWNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XbORGiyuL.jpg | https://m.media-amazon.com/images/I/31zRPSab4kL.jpg | https://m.media-amazon.com/images/I/41IHTa8FM1L.jpg | https://m.media-amazon.com/images/I/41qiu30HrKL.jpg | https://m.media-amazon.com/images/I/41-SV31wKIL.jpg | https://m.media-amazon.com/images/I/417zkZQqqZL.jpg | https://m.media-amazon.com/images/I/514pMIqzWNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "35.21%",
   "SalePrice": "₹1,943.00",
   "Model": "GG6008"
 }

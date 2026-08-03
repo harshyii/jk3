@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31hlLrfYbEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Dm3AeXhFL.jpg | https://m.media-amazon.com/images/I/31hlLrfYbEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26%",
   "SalePrice": "₹2,995.52",
   "Model": "RT/HD/17",
   "Country": "India"

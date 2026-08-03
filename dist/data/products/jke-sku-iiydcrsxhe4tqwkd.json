@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/414irnkRzkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PHmC2oHWL.jpg | https://m.media-amazon.com/images/I/4156Tr3tb9L.jpg | https://m.media-amazon.com/images/I/414irnkRzkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Grams",
-  "Discount": 0,
+  "Discount": "41.12%",
   "SalePrice": "₹2,680.00",
   "Model": "herbal_mangocombo",
   "Country": "India"

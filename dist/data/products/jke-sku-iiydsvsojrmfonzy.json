@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/51ASWwi-1+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715e-eWXSnL.jpg | https://m.media-amazon.com/images/I/51ASWwi-1+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.85%",
   "SalePrice": "₹1,866.00",
   "Model": "HKTAC010671-NEW"
 }

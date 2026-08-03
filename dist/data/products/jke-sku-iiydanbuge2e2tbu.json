@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41hAv8jpAlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/412BGeNu6jL.jpg | https://m.media-amazon.com/images/I/31co-OYA6WL.jpg | https://m.media-amazon.com/images/I/41FIoIHCZiL.jpg | https://m.media-amazon.com/images/I/41hAv8jpAlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,383.50",
   "Model": "PB807/11"
 }

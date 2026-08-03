@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Y7fRAIe3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612L1f1vPHL.jpg | https://m.media-amazon.com/images/I/215qR5pr93L.jpg | https://m.media-amazon.com/images/I/31ir+nP9y0L.jpg | https://m.media-amazon.com/images/I/41Q5bjSTxWL.jpg | https://m.media-amazon.com/images/I/41v7ngRzL0L.jpg | https://m.media-amazon.com/images/I/41Y7fRAIe3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹687.75",
   "Model": "MLTR/20B/HW"
 }

@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31351jqVG0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41rMBWnqbpL.jpg | https://m.media-amazon.com/images/I/31rAsvDTcPL.jpg | https://m.media-amazon.com/images/I/31DG6K31i4L.jpg | https://m.media-amazon.com/images/I/31351jqVG0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹5,000.00",
   "Model": "AQ 900+"
 }

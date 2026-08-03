@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41E+iIaTc4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jQN5VCSVL.jpg | https://m.media-amazon.com/images/I/41rAiqzBZDL.jpg | https://m.media-amazon.com/images/I/41LPsSQdXoL.jpg | https://m.media-amazon.com/images/I/41m63QW9jcL.jpg | https://m.media-amazon.com/images/I/41mwhA7UwsL.jpg | https://m.media-amazon.com/images/I/51iXX+H9SgL.jpg | https://m.media-amazon.com/images/I/41S0sVH4KML.jpg | https://m.media-amazon.com/images/I/41E+iIaTc4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.02%",
   "SalePrice": "₹799.00",
   "Model": "78-Cordless Electric Screwdriver"
 }

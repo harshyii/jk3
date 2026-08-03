@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51By-IqmE1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51z1vgBBy7L.jpg | https://m.media-amazon.com/images/I/312kOM8GpOL.jpg | https://m.media-amazon.com/images/I/41rPkQ8qO7L.jpg | https://m.media-amazon.com/images/I/31eRQ5pZp2L.jpg | https://m.media-amazon.com/images/I/313mOunZ+OL.jpg | https://m.media-amazon.com/images/I/312baSJ1PEL.jpg | https://m.media-amazon.com/images/I/41UL4J1rvCL.jpg | https://m.media-amazon.com/images/I/51By-IqmE1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "26.92%",
   "SalePrice": "₹342.00",
   "Model": "E-3022_300"
 }

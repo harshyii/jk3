@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31Z4foy9aGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NE882flHL.jpg | https://m.media-amazon.com/images/I/31AiIDyH96L.jpg | https://m.media-amazon.com/images/I/31F-eE-R42L.jpg | https://m.media-amazon.com/images/I/31KhqeWpwVL.jpg | https://m.media-amazon.com/images/I/31Z4foy9aGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "35.71%",
   "SalePrice": "₹180.00",
   "Model": "8-100"
 }

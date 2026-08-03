@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/61JHraNgLbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Bsj68vGlL.jpg | https://m.media-amazon.com/images/I/41Bsj68vGlL.jpg | https://m.media-amazon.com/images/I/51PpPd49z4L.jpg | https://m.media-amazon.com/images/I/61rgKdfR3VL.jpg | https://m.media-amazon.com/images/I/51gPAWKg80L.jpg | https://m.media-amazon.com/images/I/61JHraNgLbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "65.31%",
   "SalePrice": "₹3,469.00",
   "Model": "699AID17.Ace.2.Jar.450W_GT"
 }

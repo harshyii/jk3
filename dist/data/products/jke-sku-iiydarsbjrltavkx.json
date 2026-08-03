@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/516DYjvt2jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zAB+WxyEL.jpg | https://m.media-amazon.com/images/I/41LfqtdzoWL.jpg | https://m.media-amazon.com/images/I/51963bUBvfL.jpg | https://m.media-amazon.com/images/I/51XYiYAgv4L.jpg | https://m.media-amazon.com/images/I/513kqjh+OYL.jpg | https://m.media-amazon.com/images/I/516DYjvt2jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.1765 Milliliters",
-  "Discount": 0,
+  "Discount": "21.65%",
   "SalePrice": "₹4,700.00",
   "Model": "SPI_111_16SW"
 }

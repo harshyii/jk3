@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31fxwsZFRkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614c8rcdYnL.jpg | https://m.media-amazon.com/images/I/614c8rcdYnL.jpg | https://m.media-amazon.com/images/I/51BJiLFgfFL.jpg | https://m.media-amazon.com/images/I/51WtEsinSdL.jpg | https://m.media-amazon.com/images/I/51KIsBS83CL.jpg | https://m.media-amazon.com/images/I/31fxwsZFRkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "56.55%",
   "SalePrice": "₹239.00",
   "Country": "India"
 }

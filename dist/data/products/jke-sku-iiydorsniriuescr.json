@@ -75,8 +75,8 @@
     "https://m.media-amazon.com/images/I/51ITZFL+zhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sLz3sjJfL.jpg | https://m.media-amazon.com/images/I/31ocTKDdjfL.jpg | https://m.media-amazon.com/images/I/41h+H3kaPxL.jpg | https://m.media-amazon.com/images/I/415ppjLTrrL.jpg | https://m.media-amazon.com/images/I/41TpDHHlGWL.jpg | https://m.media-amazon.com/images/I/41duEe4ynWL.jpg | https://m.media-amazon.com/images/I/41d6PSBs-jL.jpg | https://m.media-amazon.com/images/I/51ITZFL+zhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "150.0 Milliliters",
-  "Discount": 0,
+  "Discount": "28.05%",
   "SalePrice": "₹431.00"
 }

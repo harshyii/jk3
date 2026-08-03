@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41KgAYzDwjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81OLg4SeW9L.jpg | https://m.media-amazon.com/images/I/51BsNoMjs5L.jpg | https://m.media-amazon.com/images/I/51kpcyD28DL.jpg | https://m.media-amazon.com/images/I/41LfdGCBpGL.jpg | https://m.media-amazon.com/images/I/41EFdoxszgL.jpg | https://m.media-amazon.com/images/I/41iG6iRp6xL.jpg | https://m.media-amazon.com/images/I/41w5z5quR6L.jpg | https://m.media-amazon.com/images/I/41KgAYzDwjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "61.18%",
   "SalePrice": "₹4,406.00",
   "Model": "HGCM3038"
 }

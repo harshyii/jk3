@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31BPUVRZW6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31x-R1qktoL.jpg | https://m.media-amazon.com/images/I/31x-R1qktoL.jpg | https://m.media-amazon.com/images/I/31Yff3X5AvL.jpg | https://m.media-amazon.com/images/I/31UOI6PhuhL.jpg | https://m.media-amazon.com/images/I/21se61mkNLL.jpg | https://m.media-amazon.com/images/I/31BPUVRZW6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "45.21%",
   "SalePrice": "₹383.00",
   "Model": "80x40 Panel + Led Bulb +Switch"
 }

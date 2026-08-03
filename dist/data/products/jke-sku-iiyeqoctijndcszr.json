@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41THgI4AtPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NySCGdNDL.jpg | https://m.media-amazon.com/images/I/41JXK+Ic7AL.jpg | https://m.media-amazon.com/images/I/41U8bZcPZKL.jpg | https://m.media-amazon.com/images/I/41nwII2ZreL.jpg | https://m.media-amazon.com/images/I/41THgI4AtPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.44%",
   "SalePrice": "₹449.00",
   "Model": "Xpbtl3mm50m"
 }

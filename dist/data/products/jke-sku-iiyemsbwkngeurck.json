@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31WIxP7IxIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/4187fjAr1HL.jpg | https://m.media-amazon.com/images/I/4187fjAr1HL.jpg | https://m.media-amazon.com/images/I/31fyVpJH4dL.jpg | https://m.media-amazon.com/images/I/514ihMjmHaL.jpg | https://m.media-amazon.com/images/I/417orKydJpL.jpg | https://m.media-amazon.com/images/I/41LbBftQptL.jpg | https://m.media-amazon.com/images/I/31dmhrXM1FL.jpg | https://m.media-amazon.com/images/I/31WIxP7IxIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹499.00",
   "Model": "Spray Bottle Gun",
   "Country": "India"

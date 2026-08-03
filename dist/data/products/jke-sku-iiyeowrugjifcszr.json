@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41V+hwqpQQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-T9p8B+3L.jpg | https://m.media-amazon.com/images/I/41nJX3ZpfAL.jpg | https://m.media-amazon.com/images/I/51MJW5woWaL.jpg | https://m.media-amazon.com/images/I/41o6yx1J5zL.jpg | https://m.media-amazon.com/images/I/41MKbAZhl+L.jpg | https://m.media-amazon.com/images/I/41+3q2zvDRL.jpg | https://m.media-amazon.com/images/I/41M6CE7wGhL.jpg | https://m.media-amazon.com/images/I/41V+hwqpQQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "20.01%",
   "SalePrice": "₹13,999.00",
   "Model": "Maximus 2300+"
 }

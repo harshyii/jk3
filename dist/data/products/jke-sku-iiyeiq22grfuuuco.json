@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51u40Pz7UBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DCM6qmD0L.jpg | https://m.media-amazon.com/images/I/41OXXefT9SL.jpg | https://m.media-amazon.com/images/I/51EafOMLjpL.jpg | https://m.media-amazon.com/images/I/51UTjL7CaVL.jpg | https://m.media-amazon.com/images/I/51FEkGvZQLL.jpg | https://m.media-amazon.com/images/I/51u40Pz7UBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.86%",
   "SalePrice": "₹5,399.00",
   "Model": "INGCO"
 }

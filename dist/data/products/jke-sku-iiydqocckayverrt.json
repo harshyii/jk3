@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51ev8XnfMuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51lp5s3dLjL.jpg | https://m.media-amazon.com/images/I/51lp5s3dLjL.jpg | https://m.media-amazon.com/images/I/61GGyybSWgL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/61DeKpozMqL.jpg | https://m.media-amazon.com/images/I/61w8EeW0vTL.jpg | https://m.media-amazon.com/images/I/51Ed-U6686L.jpg | https://m.media-amazon.com/images/I/61nSzPX-6CL.jpg | https://m.media-amazon.com/images/I/51ev8XnfMuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.0 Grams",
-  "Discount": 0,
+  "Discount": "45.85%",
   "SalePrice": "₹124.00",
   "Model": "TSCTC200",
   "Country": "India"

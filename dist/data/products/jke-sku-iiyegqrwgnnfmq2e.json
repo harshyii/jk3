@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41KLCQtbZGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81R4rmTNt6L.jpg | https://m.media-amazon.com/images/I/41v5-DQuyzL.jpg | https://m.media-amazon.com/images/I/71HdsD-QKqL.jpg | https://m.media-amazon.com/images/I/51pUg6XxsRL.jpg | https://m.media-amazon.com/images/I/41SlLJtXM6L.jpg | https://m.media-amazon.com/images/I/418AYk2DOdL.jpg | https://m.media-amazon.com/images/I/41KLCQtbZGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.14%",
   "SalePrice": "₹359.00",
   "Model": "FDS346"
 }

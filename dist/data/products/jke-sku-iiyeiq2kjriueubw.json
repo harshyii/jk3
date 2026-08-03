@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31VjmMfzn1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Ph6CAk2fL.jpg | https://m.media-amazon.com/images/I/31oe-wfyNYL.jpg | https://m.media-amazon.com/images/I/21Lj7FXwlOL.jpg | https://m.media-amazon.com/images/I/2131IAPoNBL.jpg | https://m.media-amazon.com/images/I/31VjmMfzn1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "28.86%",
   "SalePrice": "₹249.00",
   "Model": "824, 827"
 }

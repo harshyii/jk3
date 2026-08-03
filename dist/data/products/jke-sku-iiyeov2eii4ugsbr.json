@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41FkvN5weCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41FkvN5weCL.jpg | https://m.media-amazon.com/images/I/41FkvN5weCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.64%",
   "SalePrice": "₹210.00",
   "Country": "India"
 }

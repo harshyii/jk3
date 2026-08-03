@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/410EmXgPX3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61h7dYh1zIL.jpg | https://m.media-amazon.com/images/I/41Z8PYcwUdL.jpg | https://m.media-amazon.com/images/I/51ZxSAmlyML.jpg | https://m.media-amazon.com/images/I/51FduThfnAL.jpg | https://m.media-amazon.com/images/I/41RQqPxABsL.jpg | https://m.media-amazon.com/images/I/41uiSmvLtiL.jpg | https://m.media-amazon.com/images/I/410EmXgPX3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.29%",
   "SalePrice": "₹23,999.00",
   "Model": "Zolt 1100+ILTT20060",
   "Country": "India"

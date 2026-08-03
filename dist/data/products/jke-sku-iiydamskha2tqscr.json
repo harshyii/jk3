@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51nn6lRO4kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81AoEC7LvvL.jpg | https://m.media-amazon.com/images/I/41ISwEJjW6L.jpg | https://m.media-amazon.com/images/I/51jMnkF4MRL.jpg | https://m.media-amazon.com/images/I/51MPS29xm3L.jpg | https://m.media-amazon.com/images/I/51Fz9mCAIqL.jpg | https://m.media-amazon.com/images/I/51awyR6Z9sL.jpg | https://m.media-amazon.com/images/I/51BrU75hjnL.jpg | https://m.media-amazon.com/images/I/51nn6lRO4kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "69.77%",
   "SalePrice": "₹2,329.30",
   "Model": "AIR_102_16SW"
 }

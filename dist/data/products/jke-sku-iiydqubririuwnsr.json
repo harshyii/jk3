@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/21ZYFYHuu-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cSgRUXTwL.jpg | https://m.media-amazon.com/images/I/21ZYFYHuu-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.7%",
   "SalePrice": "₹322.02",
   "Model": "OD/EC",
   "Country": "India"

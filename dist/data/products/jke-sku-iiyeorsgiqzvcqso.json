@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51IRma7H1fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81JrnV5hYRL.jpg | https://m.media-amazon.com/images/I/41KMGpWRxhL.jpg | https://m.media-amazon.com/images/I/51gD45kVZQL.jpg | https://m.media-amazon.com/images/I/51m1RKWJxpL.jpg | https://m.media-amazon.com/images/I/51TKYububeL.jpg | https://m.media-amazon.com/images/I/51kHi3ROWYL.jpg | https://m.media-amazon.com/images/I/416XFuThnsL.jpg | https://m.media-amazon.com/images/I/51IRma7H1fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "47.59%",
   "SalePrice": "₹6,289.00",
   "Model": "WC-DHP-008-B"
 }

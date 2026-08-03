@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31zZOsTHrUS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611DqulPBEL.jpg | https://m.media-amazon.com/images/I/31g+YADtwmL.jpg | https://m.media-amazon.com/images/I/31zZOsTHrUS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "7.31%",
   "SalePrice": "₹431.00",
   "Model": "SCP/CV/7"
 }

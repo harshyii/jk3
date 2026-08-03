@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/512KY6pXmEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71MG8ba4qTL.jpg | https://m.media-amazon.com/images/I/31iidEh8HuL.jpg | https://m.media-amazon.com/images/I/61QQuYOjVLL.jpg | https://m.media-amazon.com/images/I/51vhy0X1nkL.jpg | https://m.media-amazon.com/images/I/51BYXDNeGIL.jpg | https://m.media-amazon.com/images/I/51zJ-tBn8jL.jpg | https://m.media-amazon.com/images/I/517+2lAbBTL.jpg | https://m.media-amazon.com/images/I/512KY6pXmEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "62.47%",
   "SalePrice": "₹6,602.31",
   "Model": "WAC_118_16SW"
 }

@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31k6mbEIHSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61J5+aUCh7L.jpg | https://m.media-amazon.com/images/I/41lJbe89izL.jpg | https://m.media-amazon.com/images/I/41nZTtpEzwL.jpg | https://m.media-amazon.com/images/I/41Ep-rd+siL.jpg | https://m.media-amazon.com/images/I/31k6mbEIHSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "81.43%",
   "SalePrice": "₹265.00",
   "Model": "GIR_104"
 }

@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/51NL4FFJJ-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41HxZgBmU7L.jpg | https://m.media-amazon.com/images/I/41HxZgBmU7L.jpg | https://m.media-amazon.com/images/I/31fieuIaHmL.jpg | https://m.media-amazon.com/images/I/51NL4FFJJ-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.23%",
   "SalePrice": "₹499.00",
   "Model": "‎Formula 1_Protectant_295ml",
   "Country": "‎USA"

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31t4CBUxfuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/519nl9uuUKL.jpg | https://m.media-amazon.com/images/I/31t4CBUxfuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "57.53%",
   "SalePrice": "₹17,199.00",
   "Model": "2953-20"
 }

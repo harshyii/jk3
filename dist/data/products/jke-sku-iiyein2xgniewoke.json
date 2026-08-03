@@ -65,8 +65,8 @@
     "https://m.media-amazon.com/images/I/51tyUJdhYqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81pt8ntP5lL.jpg | https://m.media-amazon.com/images/I/51uqP74MjmL.jpg | https://m.media-amazon.com/images/I/51APELMmeDL.jpg | https://m.media-amazon.com/images/I/51bQEBFOQAL.jpg | https://m.media-amazon.com/images/I/51xO4Xyt6IL.jpg | https://m.media-amazon.com/images/I/41SohO9ap5L.jpg | https://m.media-amazon.com/images/I/41BWI72AqzL.jpg | https://m.media-amazon.com/images/I/51tyUJdhYqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Set",
-  "Discount": 0,
+  "Discount": "46.67%",
   "SalePrice": "₹4,949.00"
 }

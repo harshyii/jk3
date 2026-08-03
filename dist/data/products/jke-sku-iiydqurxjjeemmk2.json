@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51lNmLbDbHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TbmbqFTHL.jpg | https://m.media-amazon.com/images/I/415KSMfWqPL.jpg | https://m.media-amazon.com/images/I/51BRvjFleWL.jpg | https://m.media-amazon.com/images/I/51DWBUdIwAL.jpg | https://m.media-amazon.com/images/I/51yn8ciYo0L.jpg | https://m.media-amazon.com/images/I/51FzIEh20PL.jpg | https://m.media-amazon.com/images/I/51CEVn1juqL.jpg | https://m.media-amazon.com/images/I/51lNmLbDbHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.38%",
   "SalePrice": "₹2,512.00",
   "Model": "FS8720S000"
 }

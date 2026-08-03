@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41tGUbi8f+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71vfuvqmP-L.jpg | https://m.media-amazon.com/images/I/51S+0Hvw3TL.jpg | https://m.media-amazon.com/images/I/51iqU2k3IAL.jpg | https://m.media-amazon.com/images/I/51W9UsoTYoL.jpg | https://m.media-amazon.com/images/I/51OhIF+BZdL.jpg | https://m.media-amazon.com/images/I/519d7-phdpL.jpg | https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg | https://m.media-amazon.com/images/I/41tGUbi8f+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.36%",
   "SalePrice": "₹2,999.00",
   "Model": "DCJZ1202"
 }

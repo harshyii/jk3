@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51KbWMWKCQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81WmLnJ+CUL.jpg | https://m.media-amazon.com/images/I/41kPVuOH9mL.jpg | https://m.media-amazon.com/images/I/31NtqEbazYL.jpg | https://m.media-amazon.com/images/I/41uhdV2KoQL.jpg | https://m.media-amazon.com/images/I/51yJmDOgnyL.jpg | https://m.media-amazon.com/images/I/51L5RIMobPL.jpg | https://m.media-amazon.com/images/I/51bPAItlXuL.jpg | https://m.media-amazon.com/images/I/51KbWMWKCQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.0 Count",
-  "Discount": 0,
+  "Discount": "58.03%",
   "SalePrice": "₹2,224.50",
   "Model": "AC14RL3A"
 }

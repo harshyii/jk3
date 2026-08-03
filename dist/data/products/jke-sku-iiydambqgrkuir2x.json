@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41DHEhOYkjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71OGUPpwmnL.jpg | https://m.media-amazon.com/images/I/41mT9J9ptNL.jpg | https://m.media-amazon.com/images/I/31AhjXovgNL.jpg | https://m.media-amazon.com/images/I/51yMrzCIMQL.jpg | https://m.media-amazon.com/images/I/41PsmizqRpL.jpg | https://m.media-amazon.com/images/I/51YXD+rCVjL.jpg | https://m.media-amazon.com/images/I/51pEbHWrPcL.jpg | https://m.media-amazon.com/images/I/41DHEhOYkjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.67%",
   "SalePrice": "₹564.80",
   "Model": "408",
   "Country": "USA"

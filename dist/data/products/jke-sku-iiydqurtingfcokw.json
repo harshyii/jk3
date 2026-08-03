@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41SiCuvKXBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oEDUK+6yL.jpg | https://m.media-amazon.com/images/I/418aFEF-78L.jpg | https://m.media-amazon.com/images/I/41mS3aaxEsL.jpg | https://m.media-amazon.com/images/I/31WflobOgfL.jpg | https://m.media-amazon.com/images/I/41SiCuvKXBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹189.00",
   "Country": "China"
 }

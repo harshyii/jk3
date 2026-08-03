@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41pXQ8WZjxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fCxWeweiL.jpg | https://m.media-amazon.com/images/I/41jMXhUpgLL.jpg | https://m.media-amazon.com/images/I/41I0bTEIE4L.jpg | https://m.media-amazon.com/images/I/41pXQ8WZjxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.89%",
   "SalePrice": "₹99.00",
   "Model": "MST-1305-MD",
   "Country": "India"

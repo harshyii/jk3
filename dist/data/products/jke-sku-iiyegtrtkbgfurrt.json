@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41LRx5vE7TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qeKPdPpwL.jpg | https://m.media-amazon.com/images/I/41hpBPD2MrL.jpg | https://m.media-amazon.com/images/I/51kmGHVBFWL.jpg | https://m.media-amazon.com/images/I/51sFZi7DhLL.jpg | https://m.media-amazon.com/images/I/41LRx5vE7TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Milliliters",
-  "Discount": 0,
+  "Discount": "19.38%",
   "SalePrice": "₹129.00",
   "Model": "61039058",
   "Country": "India"

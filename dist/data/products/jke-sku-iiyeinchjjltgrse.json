@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31W5FO5AuUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/613KF5cGCbL.jpg | https://m.media-amazon.com/images/I/31ZHonMdDfL.jpg | https://m.media-amazon.com/images/I/31VTQIC-buL.jpg | https://m.media-amazon.com/images/I/41+Mu2M5QWL.jpg | https://m.media-amazon.com/images/I/31PMcuFoJLL.jpg | https://m.media-amazon.com/images/I/31W5FO5AuUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹17,927.93",
   "Model": "PSK106SB",
   "Country": "USA"

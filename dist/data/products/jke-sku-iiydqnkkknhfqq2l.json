@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51gtQfY-zBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Ugg24K8CL.jpg | https://m.media-amazon.com/images/I/410cs4dBDPL.jpg | https://m.media-amazon.com/images/I/51PxwXMXgUL.jpg | https://m.media-amazon.com/images/I/41LpU2pHP7L.jpg | https://m.media-amazon.com/images/I/41gMu+Dj5pL.jpg | https://m.media-amazon.com/images/I/41i9HgVTNzL.jpg | https://m.media-amazon.com/images/I/51gtQfY-zBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "70.05%",
   "SalePrice": "₹5,510.00",
   "Model": "Ryobi A99HT2"
 }

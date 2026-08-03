@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51TcB-VXRGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712DhpHHSuL.jpg | https://m.media-amazon.com/images/I/41ATyF0RfDL.jpg | https://m.media-amazon.com/images/I/51IZXM2xV0L.jpg | https://m.media-amazon.com/images/I/41r0QNrmLyL.jpg | https://m.media-amazon.com/images/I/41Pn+IKn+iL.jpg | https://m.media-amazon.com/images/I/51sWAFxTkEL.jpg | https://m.media-amazon.com/images/I/51TcB-VXRGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "38.77%",
   "SalePrice": "₹398.00",
   "Model": "HCPAD3-2024",
   "Country": "China"

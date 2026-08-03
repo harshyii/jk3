@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51kB86kE-wL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71k0buo7GfL.jpg | https://m.media-amazon.com/images/I/517xGBzZ23L.jpg | https://m.media-amazon.com/images/I/51MymS4IBIL.jpg | https://m.media-amazon.com/images/I/51yQu8lnexL.jpg | https://m.media-amazon.com/images/I/518NCT8NTHL.jpg | https://m.media-amazon.com/images/I/51qDqOQj-WL.jpg | https://m.media-amazon.com/images/I/51kB86kE-wL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.31%",
   "SalePrice": "₹14,999.00",
   "Model": "CRHLI202885"
 }

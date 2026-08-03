@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41yUAT8FwiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51SHQICj-9L.jpg | https://m.media-amazon.com/images/I/31XmPTDkBML.jpg | https://m.media-amazon.com/images/I/41x4ATP-QLL.jpg | https://m.media-amazon.com/images/I/41opVTVlfZL.jpg | https://m.media-amazon.com/images/I/41eS2fMet1L.jpg | https://m.media-amazon.com/images/I/41DgVN970EL.jpg | https://m.media-amazon.com/images/I/41yUAT8FwiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "86.09%",
   "SalePrice": "₹139.00",
   "Model": "EW-001"
 }

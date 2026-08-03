@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41I6L0RdbJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DMAJUIuIL.jpg | https://m.media-amazon.com/images/I/41I6L0RdbJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "54.22%",
   "SalePrice": "₹4,578.00",
   "Model": "CIDLI1228"
 }

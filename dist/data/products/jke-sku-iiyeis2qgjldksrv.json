@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/514HlcHarjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dcunDTiPL.jpg | https://m.media-amazon.com/images/I/31JCSlgHwYL.jpg | https://m.media-amazon.com/images/I/41k6QM4o3mL.jpg | https://m.media-amazon.com/images/I/41d1qwg4zXL.jpg | https://m.media-amazon.com/images/I/41IhLnx80PL.jpg | https://m.media-amazon.com/images/I/51XVs8rIzlL.jpg | https://m.media-amazon.com/images/I/41ys+UjJFbL.jpg | https://m.media-amazon.com/images/I/514HlcHarjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "17.37%",
   "SalePrice": "₹35,199.00",
   "Model": "ICW1600+AB6hr"
 }

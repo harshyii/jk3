@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/4163l9C4y3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31fLE4ZjpNL.jpg | https://m.media-amazon.com/images/I/31fLE4ZjpNL.jpg | https://m.media-amazon.com/images/I/4163l9C4y3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.06%",
   "SalePrice": "₹3,819.00",
   "Model": "RW22H"
 }

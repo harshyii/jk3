@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/310rnYq0wnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41jt5eWa5zL.jpg | https://m.media-amazon.com/images/I/31hLVhRWb1L.jpg | https://m.media-amazon.com/images/I/41nxtHzNU2L.jpg | https://m.media-amazon.com/images/I/31qhIdliPBL.jpg | https://m.media-amazon.com/images/I/31WWwXm9mQL.jpg | https://m.media-amazon.com/images/I/41ACY3jp6YL.jpg | https://m.media-amazon.com/images/I/31IiRFVjxNL.jpg | https://m.media-amazon.com/images/I/310rnYq0wnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "55.24%",
   "SalePrice": "₹256.00",
   "Model": "2065-2065_HAMMER_600"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41S33-4ZksL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51X9CqpJZ4L.jpg | https://m.media-amazon.com/images/I/31Yhp60+KuL.jpg | https://m.media-amazon.com/images/I/41rcVVXucCL.jpg | https://m.media-amazon.com/images/I/41S33-4ZksL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.96%",
   "SalePrice": "₹2,849.00",
   "Model": "Falcon",
   "Country": "India"

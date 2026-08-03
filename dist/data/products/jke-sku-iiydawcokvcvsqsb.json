@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51jHb2JF+PL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61y3fsuvpAL.jpg | https://m.media-amazon.com/images/I/51DkHxy1gcL.jpg | https://m.media-amazon.com/images/I/51QtvznFvWL.jpg | https://m.media-amazon.com/images/I/41vwv8xfRqL.jpg | https://m.media-amazon.com/images/I/51jHb2JF+PL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹17,571.14",
   "Model": "48-59-1850",
   "Country": "USA"

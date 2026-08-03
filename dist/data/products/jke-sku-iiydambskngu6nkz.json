@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/316pQnR2wbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/517E8YtYTyL.jpg | https://m.media-amazon.com/images/I/41eYyTTicTL.jpg | https://m.media-amazon.com/images/I/41m6fCZXcrL.jpg | https://m.media-amazon.com/images/I/316pQnR2wbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.35%",
   "SalePrice": "₹3,843.00",
   "Model": "‎2615062832",
   "Country": "USA"

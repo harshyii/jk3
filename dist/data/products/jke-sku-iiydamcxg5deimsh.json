@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41Dv5MDH5KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TTbz0KX0L.jpg | https://m.media-amazon.com/images/I/41TpRh0+T8L.jpg | https://m.media-amazon.com/images/I/41CEvXVl-4L.jpg | https://m.media-amazon.com/images/I/51QkXTXLHAL.jpg | https://m.media-amazon.com/images/I/518y847liaL.jpg | https://m.media-amazon.com/images/I/41D3q+7JkxL.jpg | https://m.media-amazon.com/images/I/414S91XMFTL.jpg | https://m.media-amazon.com/images/I/41Dv5MDH5KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "60.00 Count",
-  "Discount": 0,
+  "Discount": "61.5%",
   "SalePrice": "₹924.00",
   "Model": "PR70/p10 4612",
   "Country": "Germany"

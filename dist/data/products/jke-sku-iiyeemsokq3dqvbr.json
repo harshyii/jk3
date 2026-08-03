@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41Cczr0W4vL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/311w8BdqJRL.jpg | https://m.media-amazon.com/images/I/311w8BdqJRL.jpg | https://m.media-amazon.com/images/I/41ecAJ+SLtL.jpg | https://m.media-amazon.com/images/I/41Cczr0W4vL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "80.66%",
   "SalePrice": "₹322.74",
   "Country": "Ireland"
 }

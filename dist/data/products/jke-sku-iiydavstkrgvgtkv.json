@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51JK5XcP5zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719-EdFBcCL.jpg | https://m.media-amazon.com/images/I/41T5nbDLrUL.jpg | https://m.media-amazon.com/images/I/51RrKBpphyL.jpg | https://m.media-amazon.com/images/I/51tc8GPsAYL.jpg | https://m.media-amazon.com/images/I/51VDixlxfNL.jpg | https://m.media-amazon.com/images/I/51JK5XcP5zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5000.88 Milliliters",
-  "Discount": 0,
+  "Discount": "49.02%",
   "SalePrice": "₹38,952.26",
   "Model": "513505"
 }

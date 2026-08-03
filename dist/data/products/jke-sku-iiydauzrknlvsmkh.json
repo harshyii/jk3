@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51ys+ADOqqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61IlOR--o6L.jpg | https://m.media-amazon.com/images/I/51ys+ADOqqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.36%",
   "SalePrice": "₹309.00",
   "Model": "TN15",
   "Country": "India"

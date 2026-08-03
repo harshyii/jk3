@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41ktDhBQ+ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KMaSU0m7L.jpg | https://m.media-amazon.com/images/I/415mn5Bh0WL.jpg | https://m.media-amazon.com/images/I/415GKva7SyL.jpg | https://m.media-amazon.com/images/I/519d5bFGgRL.jpg | https://m.media-amazon.com/images/I/41ktDhBQ+ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "26.7%",
   "SalePrice": "₹2,199.00",
   "Model": "Shakti-lfp-12v-15ah",
   "Country": "India"

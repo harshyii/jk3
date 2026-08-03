@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41WprOzkNOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71o2zqGnzBL.jpg | https://m.media-amazon.com/images/I/41bdhnMCkPL.jpg | https://m.media-amazon.com/images/I/31CPH-nUy1L.jpg | https://m.media-amazon.com/images/I/31DKuOAJWVL.jpg | https://m.media-amazon.com/images/I/41WprOzkNOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "54.17%",
   "SalePrice": "₹550.00",
   "Model": "Xp-ph2-65mm-10"
 }

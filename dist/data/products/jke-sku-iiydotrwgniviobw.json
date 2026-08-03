@@ -89,9 +89,9 @@
     "https://m.media-amazon.com/images/I/51n0QGSQc0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81LLxU5BkxL.jpg | https://m.media-amazon.com/images/I/518SzSVy3YL.jpg | https://m.media-amazon.com/images/I/51jfXLq7+sL.jpg | https://m.media-amazon.com/images/I/51vDKq1xnBL.jpg | https://m.media-amazon.com/images/I/41zPzz9QsmL.jpg | https://m.media-amazon.com/images/I/51nKjMTUfLL.jpg | https://m.media-amazon.com/images/I/51n0QGSQc0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "8 Pack",
-  "Discount": 0,
+  "Discount": "64.32%",
   "SalePrice": "₹6,222.00",
   "Country": "China"
 }

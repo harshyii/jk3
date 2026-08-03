@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51i9E-wcT4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/916QAaxvdyL.jpg | https://m.media-amazon.com/images/I/51JU3S6CmVL.jpg | https://m.media-amazon.com/images/I/51ORP9UHobL.jpg | https://m.media-amazon.com/images/I/51sttphqfCL.jpg | https://m.media-amazon.com/images/I/51i9E-wcT4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.57%",
   "SalePrice": "₹6,129.00",
   "Model": "DMR12"
 }

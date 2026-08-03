@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31-DOKaXmrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yPCyVRPIL.jpg | https://m.media-amazon.com/images/I/31cDN1V+hXL.jpg | https://m.media-amazon.com/images/I/31ICa3J+H-L.jpg | https://m.media-amazon.com/images/I/31hxSE3CPxL.jpg | https://m.media-amazon.com/images/I/31-DOKaXmrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "230.0 Grams",
-  "Discount": 0,
+  "Discount": "57.06%",
   "SalePrice": "₹429.00",
   "Model": "F230",
   "Country": "India"

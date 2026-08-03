@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41-NmeAEM-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610lYVCLCCL.jpg | https://m.media-amazon.com/images/I/41x-H5n5mLL.jpg | https://m.media-amazon.com/images/I/41665XGpfgL.jpg | https://m.media-amazon.com/images/I/41uF7GhBJXL.jpg | https://m.media-amazon.com/images/I/5142CXekBqL.jpg | https://m.media-amazon.com/images/I/51Egrx1m2EL.jpg | https://m.media-amazon.com/images/I/41xvRkgb3SL.jpg | https://m.media-amazon.com/images/I/41-NmeAEM-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "12.28%",
   "SalePrice": "₹700.00",
   "Country": "China"
 }

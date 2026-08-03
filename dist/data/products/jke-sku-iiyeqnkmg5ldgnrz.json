@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31ybzm-Bg5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61N92TYeytL.jpg | https://m.media-amazon.com/images/I/31zHS4Ja+qL.jpg | https://m.media-amazon.com/images/I/41CZSEhuSgL.jpg | https://m.media-amazon.com/images/I/41AdmoBnUEL.jpg | https://m.media-amazon.com/images/I/31ybzm-Bg5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.74%",
   "SalePrice": "₹2,390.00",
   "Model": "RG6-100"
 }

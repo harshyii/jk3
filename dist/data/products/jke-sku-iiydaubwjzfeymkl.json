@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31niISIGRtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61eOYs4iyQL.jpg | https://m.media-amazon.com/images/I/51fVabzjJgL.jpg | https://m.media-amazon.com/images/I/51uKwh9RW9L.jpg | https://m.media-amazon.com/images/I/41WjO9VmdvL.jpg | https://m.media-amazon.com/images/I/41Qx3OlfzlL.jpg | https://m.media-amazon.com/images/I/61xLdxKrBHL.jpg | https://m.media-amazon.com/images/I/31niISIGRtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,566.30",
   "Model": "48-32-1551"
 }

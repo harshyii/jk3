@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/518Bv7+OaAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61E5TdhYatL.jpg | https://m.media-amazon.com/images/I/41EWO4pEESL.jpg | https://m.media-amazon.com/images/I/41FENEFhrdL.jpg | https://m.media-amazon.com/images/I/41-AVQxxuSL.jpg | https://m.media-amazon.com/images/I/41SZvO7Gc5L.jpg | https://m.media-amazon.com/images/I/41RllBhgbdL.jpg | https://m.media-amazon.com/images/I/41ej9DXxhaL.jpg | https://m.media-amazon.com/images/I/518Bv7+OaAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.64%",
   "SalePrice": "₹25,808.00",
   "Model": "HG6031VK"
 }

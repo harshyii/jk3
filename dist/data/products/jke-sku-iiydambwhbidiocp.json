@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51Ci+tYO6GL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415-iSMvHML.jpg | https://m.media-amazon.com/images/I/313tUh11W9L.jpg | https://m.media-amazon.com/images/I/4171XakWgVL.jpg | https://m.media-amazon.com/images/I/5112lfxrK8L.jpg | https://m.media-amazon.com/images/I/41x1i6nLlAL.jpg | https://m.media-amazon.com/images/I/51YuQ-RCB8L.jpg | https://m.media-amazon.com/images/I/51Ci+tYO6GL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.98%",
   "SalePrice": "₹9,703.21",
   "Model": "220-01"
 }

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/4133DZxVzRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617yaC9e-qL.jpg | https://m.media-amazon.com/images/I/21pQ5rwfsNL.jpg | https://m.media-amazon.com/images/I/41H9EHZA-5L.jpg | https://m.media-amazon.com/images/I/41FOLjhF3dL.jpg | https://m.media-amazon.com/images/I/41EMNDR91mL.jpg | https://m.media-amazon.com/images/I/41hYz5YURJL.jpg | https://m.media-amazon.com/images/I/5150WHcWGUL.jpg | https://m.media-amazon.com/images/I/4133DZxVzRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19%",
   "SalePrice": "₹5,301.75",
   "Model": "DLC/150",
   "Country": "India"

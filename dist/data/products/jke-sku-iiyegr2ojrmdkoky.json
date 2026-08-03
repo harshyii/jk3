@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/61SVqRREK8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JPfyjvHTL.jpg | https://m.media-amazon.com/images/I/51SpV1AU2XL.jpg | https://m.media-amazon.com/images/I/510+JO5He9L.jpg | https://m.media-amazon.com/images/I/51xF+ElogmL.jpg | https://m.media-amazon.com/images/I/51mAfVgdOZL.jpg | https://m.media-amazon.com/images/I/51wxf-ZOc-L.jpg | https://m.media-amazon.com/images/I/61SVqRREK8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "38.04%",
   "SalePrice": "₹619.00",
   "Model": "PUN-Sp01"
 }

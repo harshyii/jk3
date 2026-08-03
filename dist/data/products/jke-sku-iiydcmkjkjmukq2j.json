@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41Pqp+FF8WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51nXxv-6A4L.jpg | https://m.media-amazon.com/images/I/31as7nfAIHL.jpg | https://m.media-amazon.com/images/I/51DyqvEZZEL.jpg | https://m.media-amazon.com/images/I/51b1sVb61zL.jpg | https://m.media-amazon.com/images/I/4102AKHpNdL.jpg | https://m.media-amazon.com/images/I/51Md4h67LrL.jpg | https://m.media-amazon.com/images/I/41Pqp+FF8WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.0 Milliliters",
-  "Discount": 0,
+  "Discount": "29.17%",
   "SalePrice": "₹255.00",
   "Model": "FP 200",
   "Country": "India"

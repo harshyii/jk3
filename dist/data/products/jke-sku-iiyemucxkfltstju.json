@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/311B9AqSP4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61WMPKGBsTL.jpg | https://m.media-amazon.com/images/I/31hoQLT66uL.jpg | https://m.media-amazon.com/images/I/31V7cIILMWL.jpg | https://m.media-amazon.com/images/I/31uNlm3uWML.jpg | https://m.media-amazon.com/images/I/312Gdm-lwxL.jpg | https://m.media-amazon.com/images/I/311B9AqSP4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.4%",
   "SalePrice": "₹249.00",
   "Model": "3.8\" Sockets-B 10,12, 13"
 }

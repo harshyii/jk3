@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41cK89F8f4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81i-JSsbS9L.jpg | https://m.media-amazon.com/images/I/41cK89F8f4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.36%",
   "SalePrice": "₹7,332.00",
   "Model": "562",
   "Country": "USA"

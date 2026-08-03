@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51ZQn9ANvIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71e-UxhgElL.jpg | https://m.media-amazon.com/images/I/417vk+SUfrL.jpg | https://m.media-amazon.com/images/I/41Iy+wtsL4L.jpg | https://m.media-amazon.com/images/I/51ktQAgjXuL.jpg | https://m.media-amazon.com/images/I/41jXbtdn0WL.jpg | https://m.media-amazon.com/images/I/41LdWAc7ZyL.jpg | https://m.media-amazon.com/images/I/51j-byG2rPL.jpg | https://m.media-amazon.com/images/I/51ZQn9ANvIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,573.62",
   "Model": "Ejoyous7n8fk2muit"
 }

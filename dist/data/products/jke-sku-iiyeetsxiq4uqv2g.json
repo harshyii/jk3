@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715EUD9aJjL.jpg | https://m.media-amazon.com/images/I/41XDTyyY+-L.jpg | https://m.media-amazon.com/images/I/51ibz5IfSAL.jpg | https://m.media-amazon.com/images/I/51DLyJichNL.jpg | https://m.media-amazon.com/images/I/51s+4Vm6O3L.jpg | https://m.media-amazon.com/images/I/517R2i+VmkL.jpg | https://m.media-amazon.com/images/I/51y6-fji1rL.jpg | https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹17,708.44",
   "Model": "DCBP034G",
   "Country": "USA"

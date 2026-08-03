@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41Yo+qm7mlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71JnNkH4h6L.jpg | https://m.media-amazon.com/images/I/517sgKUMuFL.jpg | https://m.media-amazon.com/images/I/51WuoXjcbcL.jpg | https://m.media-amazon.com/images/I/41ZV+gXqjFL.jpg | https://m.media-amazon.com/images/I/51fJQkRZyUL.jpg | https://m.media-amazon.com/images/I/41TG-03y7wL.jpg | https://m.media-amazon.com/images/I/41Yo+qm7mlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46%",
   "SalePrice": "₹5,399.00",
   "Model": "XE-BL2032"
 }

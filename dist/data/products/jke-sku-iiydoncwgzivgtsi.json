@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71U4CquFDcL.jpg | https://m.media-amazon.com/images/I/31WCGw9IYML.jpg | https://m.media-amazon.com/images/I/61bwj4vxL7L.jpg | https://m.media-amazon.com/images/I/41jyoFuEJeL.jpg | https://m.media-amazon.com/images/I/61w4OjAzjlL.jpg | https://m.media-amazon.com/images/I/5114LVEprwL.jpg | https://m.media-amazon.com/images/I/31U1Uu5WNCL.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.6%",
   "SalePrice": "₹12,099.00",
   "Model": "DCG405N-XJ"
 }

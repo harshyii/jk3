@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/517vdQ9JKjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TK8KolZ6L.jpg | https://m.media-amazon.com/images/I/31QgHIyYs9L.jpg | https://m.media-amazon.com/images/I/71gNh5HAVPL.jpg | https://m.media-amazon.com/images/I/41QDhpf1kSL.jpg | https://m.media-amazon.com/images/I/51xg1d5OkGL.jpg | https://m.media-amazon.com/images/I/41KrAgZpK+L.jpg | https://m.media-amazon.com/images/I/41P89rgla3L.jpg | https://m.media-amazon.com/images/I/517vdQ9JKjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.58%",
   "SalePrice": "₹2,497.00",
   "Model": "GWS 600"
 }

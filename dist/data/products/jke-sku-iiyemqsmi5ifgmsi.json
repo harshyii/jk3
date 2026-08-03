@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31VJ90EPbgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61BYySuVAgL.jpg | https://m.media-amazon.com/images/I/31qZYdys-6L.jpg | https://m.media-amazon.com/images/I/41jgHOlxwNL.jpg | https://m.media-amazon.com/images/I/41xtT8ScSXL.jpg | https://m.media-amazon.com/images/I/4154OCPRMlL.jpg | https://m.media-amazon.com/images/I/41EZ0KLbSIL.jpg | https://m.media-amazon.com/images/I/41eKtAIRxHL.jpg | https://m.media-amazon.com/images/I/31VJ90EPbgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "75.09%",
   "SalePrice": "₹199.00",
   "Model": "FEDUS_PHILIPS_POWER_CORD_1.2M_BLACK",
   "Country": "India"

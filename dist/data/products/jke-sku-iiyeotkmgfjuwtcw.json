@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41NnXHJR+mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RYX77YpoL.jpg | https://m.media-amazon.com/images/I/31t4Y9yibKL.jpg | https://m.media-amazon.com/images/I/31unER0xvdL.jpg | https://m.media-amazon.com/images/I/31eC16E9NbL.jpg | https://m.media-amazon.com/images/I/41NnXHJR+mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.97%",
   "SalePrice": "₹2,549.00",
   "Model": "DSM08-100"
 }

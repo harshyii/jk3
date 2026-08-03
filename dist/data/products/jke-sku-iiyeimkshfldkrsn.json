@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41fVlsdsr2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/312i4VFBVQL.jpg | https://m.media-amazon.com/images/I/312i4VFBVQL.jpg | https://m.media-amazon.com/images/I/41RQI+ELEeL.jpg | https://m.media-amazon.com/images/I/31WqRbChW9L.jpg | https://m.media-amazon.com/images/I/41fVlsdsr2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "58.33%",
   "SalePrice": "₹2,500.00",
   "Model": "XPT-532"
 }

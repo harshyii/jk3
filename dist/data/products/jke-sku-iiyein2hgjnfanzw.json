@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41A6b6JLYaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+q+1GgBvL.jpg | https://m.media-amazon.com/images/I/41CnokCUq0L.jpg | https://m.media-amazon.com/images/I/41LefbKiCKL.jpg | https://m.media-amazon.com/images/I/41rzgRlPi0L.jpg | https://m.media-amazon.com/images/I/41SFMGt24wL.jpg | https://m.media-amazon.com/images/I/515Rxg0nPvL.jpg | https://m.media-amazon.com/images/I/417kY3WvWxL.jpg | https://m.media-amazon.com/images/I/41A6b6JLYaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "58.33%",
   "SalePrice": "₹6,424.00",
   "Model": "Hoolcar02670",
   "Country": "USA"

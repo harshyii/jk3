@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/412cCdsS9VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wJcUC8ELL.jpg | https://m.media-amazon.com/images/I/41BhKNcJegL.jpg | https://m.media-amazon.com/images/I/51aEb2GNb+L.jpg | https://m.media-amazon.com/images/I/51I6cs9JzoL.jpg | https://m.media-amazon.com/images/I/51T2JPqKmaL.jpg | https://m.media-amazon.com/images/I/51sTU5DHmtL.jpg | https://m.media-amazon.com/images/I/41p5Wbs4J-L.jpg | https://m.media-amazon.com/images/I/412cCdsS9VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "48%",
   "SalePrice": "₹5,199.00",
   "Model": "Imperial"
 }

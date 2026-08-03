@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51fBB0MdfWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71B-VjqBsFL.jpg | https://m.media-amazon.com/images/I/41vpZar5lYL.jpg | https://m.media-amazon.com/images/I/41EFdoxszgL.jpg | https://m.media-amazon.com/images/I/41LfdGCBpGL.jpg | https://m.media-amazon.com/images/I/41EkbsLFVgL.jpg | https://m.media-amazon.com/images/I/51+kMc00gzL.jpg | https://m.media-amazon.com/images/I/41CYQF6OO3L.jpg | https://m.media-amazon.com/images/I/51fBB0MdfWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "41.01%",
   "SalePrice": "₹2,949.00",
   "Model": "HG0474_H"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51hO-LIBNqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uU8bXc7eL.jpg | https://m.media-amazon.com/images/I/418Eh-7rPwL.jpg | https://m.media-amazon.com/images/I/41u60DRbhML.jpg | https://m.media-amazon.com/images/I/41ulQa4nfWL.jpg | https://m.media-amazon.com/images/I/416cLTew8rL.jpg | https://m.media-amazon.com/images/I/41fCYwGcb7L.jpg | https://m.media-amazon.com/images/I/41MVUF0f1QL.jpg | https://m.media-amazon.com/images/I/51hO-LIBNqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Set",
-  "Discount": 0,
+  "Discount": "32.08%",
   "SalePrice": "₹8,150.00",
   "Model": "BT 1050 HPW"
 }

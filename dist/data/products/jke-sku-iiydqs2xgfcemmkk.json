@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51CuK72EqJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sON2FQXyL.jpg | https://m.media-amazon.com/images/I/31LllVBGC6L.jpg | https://m.media-amazon.com/images/I/31PPN3bIs0S.jpg | https://m.media-amazon.com/images/I/41F6dZdb5lL.jpg | https://m.media-amazon.com/images/I/41uaR6sJv3L.jpg | https://m.media-amazon.com/images/I/51CuK72EqJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.05%",
   "SalePrice": "₹433.00",
   "Model": "LNP/CV/7"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51IgREy2x3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TmKoXOZgL.jpg | https://m.media-amazon.com/images/I/41lJGzIjqVL.jpg | https://m.media-amazon.com/images/I/41TWOgi6GKL.jpg | https://m.media-amazon.com/images/I/410zk-KDJ8L.jpg | https://m.media-amazon.com/images/I/41UvA1viACL.jpg | https://m.media-amazon.com/images/I/51IgREy2x3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "78.63%",
   "SalePrice": "₹1,987.00",
   "Model": "CMHT58116"
 }

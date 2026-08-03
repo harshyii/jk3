@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31XgTyDy3+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415ptcQCGbL.jpg | https://m.media-amazon.com/images/I/21oKmSLlVdL.jpg | https://m.media-amazon.com/images/I/41uSqP1T2vL.jpg | https://m.media-amazon.com/images/I/41SKfUFiIlL.jpg | https://m.media-amazon.com/images/I/21033vwTllL.jpg | https://m.media-amazon.com/images/I/31XgTyDy3+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "23.38%",
   "SalePrice": "₹249.00",
   "Model": "WP215023"
 }

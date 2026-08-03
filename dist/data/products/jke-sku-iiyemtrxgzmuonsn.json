@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81RTiaOFnmL.jpg | https://m.media-amazon.com/images/I/51Q-mFypbGL.jpg | https://m.media-amazon.com/images/I/51s2Oo4A0VL.jpg | https://m.media-amazon.com/images/I/51rsTa0V-GL.jpg | https://m.media-amazon.com/images/I/51zEsQs2HCL.jpg | https://m.media-amazon.com/images/I/51pEKkE1f0L.jpg | https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37%",
   "SalePrice": "₹1,449.00",
   "Model": "VR ED06-91"
 }

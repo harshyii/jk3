@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51o3jHazYXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AKqB2mRqL.jpg | https://m.media-amazon.com/images/I/31Ft3gc1IQL.jpg | https://m.media-amazon.com/images/I/51pF2sn6fbL.jpg | https://m.media-amazon.com/images/I/51z3ecGnoYL.jpg | https://m.media-amazon.com/images/I/41byX-CJJDL.jpg | https://m.media-amazon.com/images/I/51W56z+cFGL.jpg | https://m.media-amazon.com/images/I/513ZrsRKfFL.jpg | https://m.media-amazon.com/images/I/51o3jHazYXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "16.0 Ounce",
-  "Discount": 0,
+  "Discount": "42%",
   "SalePrice": "₹2,828.00",
   "Model": "51860"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41CpkzbSntL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610BywYOtlL.jpg | https://m.media-amazon.com/images/I/31bCXpomC6L.jpg | https://m.media-amazon.com/images/I/413fes3LmML.jpg | https://m.media-amazon.com/images/I/41ewSCFVg3L.jpg | https://m.media-amazon.com/images/I/41eNLToILmL.jpg | https://m.media-amazon.com/images/I/41qyo+9bo3L.jpg | https://m.media-amazon.com/images/I/41CpkzbSntL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.07%",
   "SalePrice": "₹86.33",
   "Model": "JHF/4"
 }

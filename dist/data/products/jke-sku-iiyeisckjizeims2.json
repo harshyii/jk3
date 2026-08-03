@@ -85,9 +85,9 @@
     "https://m.media-amazon.com/images/I/41+7yHk6gPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Ceh4ftgZL.jpg | https://m.media-amazon.com/images/I/51KUNLFZzTL.jpg | https://m.media-amazon.com/images/I/51aZnYlEONL.jpg | https://m.media-amazon.com/images/I/41CbF9YOrCL.jpg | https://m.media-amazon.com/images/I/511DmUfn0PL.jpg | https://m.media-amazon.com/images/I/51tnIdMOIbL.jpg | https://m.media-amazon.com/images/I/414qjlgCZyL.jpg | https://m.media-amazon.com/images/I/41+7yHk6gPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.12%",
   "SalePrice": "₹11,111.00",
   "Model": "DXMA1901158"
 }

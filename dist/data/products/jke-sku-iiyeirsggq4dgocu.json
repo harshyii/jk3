@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51RVv9BaHnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TMsCua76L.jpg | https://m.media-amazon.com/images/I/41hHaW2ETVL.jpg | https://m.media-amazon.com/images/I/51d9aAvLCjL.jpg | https://m.media-amazon.com/images/I/51dbGPqQyaL.jpg | https://m.media-amazon.com/images/I/51qTde3gYFL.jpg | https://m.media-amazon.com/images/I/51twIaRGJvL.jpg | https://m.media-amazon.com/images/I/51v1N33-+8L.jpg | https://m.media-amazon.com/images/I/51RVv9BaHnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "198.4467 Grams",
-  "Discount": 0,
+  "Discount": "68.01%",
   "SalePrice": "₹3,173.00",
   "Model": "CJKT1002"
 }

@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/21bLQ1+XaiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ihW3bCrIL.jpg | https://m.media-amazon.com/images/I/41ECkpJ8KwL.jpg | https://m.media-amazon.com/images/I/21bLQ1+XaiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29%",
   "SalePrice": "₹8,468.00",
   "Model": "S2025"
 }

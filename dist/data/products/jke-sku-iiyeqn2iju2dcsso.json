@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51SQ55cZQML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41dONTpRwwL.jpg | https://m.media-amazon.com/images/I/21xDEmnD+LL.jpg | https://m.media-amazon.com/images/I/41g5pQf+pEL.jpg | https://m.media-amazon.com/images/I/51obtM7e4kL.jpg | https://m.media-amazon.com/images/I/51XvTU-2OML.jpg | https://m.media-amazon.com/images/I/51zyz6Ec-NL.jpg | https://m.media-amazon.com/images/I/51SQ55cZQML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.0 Milliliters",
-  "Discount": 0,
+  "Discount": "47.36%",
   "SalePrice": "₹289.00",
   "Country": "India"
 }

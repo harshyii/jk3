@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/312VCU6CfxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/514yDxP0j+L.jpg | https://m.media-amazon.com/images/I/31MMlf7cILL.jpg | https://m.media-amazon.com/images/I/51jXxZBavqL.jpg | https://m.media-amazon.com/images/I/51nIbNFq+BL.jpg | https://m.media-amazon.com/images/I/312VCU6CfxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "450.0 Milliliters",
-  "Discount": 0,
+  "Discount": "41.74%",
   "SalePrice": "₹349.00",
   "Country": "India"
 }

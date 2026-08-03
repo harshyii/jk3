@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51GzJYySEOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41yDFb+BrVL.jpg | https://m.media-amazon.com/images/I/41yDFb+BrVL.jpg | https://m.media-amazon.com/images/I/41D-iqgNg0L.jpg | https://m.media-amazon.com/images/I/51bMkWU51zL.jpg | https://m.media-amazon.com/images/I/51MLVQb29tL.jpg | https://m.media-amazon.com/images/I/41WTrGBBgaL.jpg | https://m.media-amazon.com/images/I/51X1UlaOJHL.jpg | https://m.media-amazon.com/images/I/51GzJYySEOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "20.83%",
   "SalePrice": "₹6,765.00",
   "Model": "UTLS-966-SND"
 }

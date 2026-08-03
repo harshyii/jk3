@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/514Fr2E3ZwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Xjq3Z5z6L.jpg | https://m.media-amazon.com/images/I/4126pZIcU-L.jpg | https://m.media-amazon.com/images/I/515pvoriF9L.jpg | https://m.media-amazon.com/images/I/519rgPx+uvL.jpg | https://m.media-amazon.com/images/I/51kteOvgchL.jpg | https://m.media-amazon.com/images/I/517by5J7UQL.jpg | https://m.media-amazon.com/images/I/514Fr2E3ZwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.92%",
   "SalePrice": "₹6,249.00",
   "Model": "X150"
 }

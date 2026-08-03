@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41g4i8MwJ7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81YIJSk8iYL.jpg | https://m.media-amazon.com/images/I/51XDacuu6lL.jpg | https://m.media-amazon.com/images/I/51d4ayJiQiL.jpg | https://m.media-amazon.com/images/I/41iHOeLmikL.jpg | https://m.media-amazon.com/images/I/41WxTOnJpkL.jpg | https://m.media-amazon.com/images/I/41bpSJ2PNGL.jpg | https://m.media-amazon.com/images/I/41qbLCwVzmL.jpg | https://m.media-amazon.com/images/I/41g4i8MwJ7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.48%",
   "SalePrice": "₹16,349.00",
   "Country": "‎Taiwan"
 }

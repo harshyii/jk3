@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71lJaI8uFkL.jpg | https://m.media-amazon.com/images/I/41zo4z2+JuL.jpg | https://m.media-amazon.com/images/I/41cyg8rzjFL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.98%",
   "SalePrice": "₹250.00",
   "Model": "FCB+07I"
 }

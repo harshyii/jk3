@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/519OlxYtFFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71KBPc5BKZL.jpg | https://m.media-amazon.com/images/I/41Yq2sy9MgL.jpg | https://m.media-amazon.com/images/I/51ZxS5uuQcL.jpg | https://m.media-amazon.com/images/I/51NiL24xjbL.jpg | https://m.media-amazon.com/images/I/51UgoAN7q6L.jpg | https://m.media-amazon.com/images/I/51JnpW9zR8L.jpg | https://m.media-amazon.com/images/I/519OlxYtFFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "38.72%",
   "SalePrice": "₹5,699.00",
   "Model": "DCPB298"
 }

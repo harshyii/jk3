@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/31jIEBTNowL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71KOba3deQL.jpg | https://m.media-amazon.com/images/I/31jIEBTNowL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6 Count",
-  "Discount": 0,
+  "Discount": "66.18%",
   "SalePrice": "₹5,938.06",
   "Model": "692"
 }

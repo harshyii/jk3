@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/4125FZnMfyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nhzFwI-+L.jpg | https://m.media-amazon.com/images/I/310RNFPaeIL.jpg | https://m.media-amazon.com/images/I/41kCk-V6I6L.jpg | https://m.media-amazon.com/images/I/41eEWn9hWcL.jpg | https://m.media-amazon.com/images/I/41eI6tFi3CL.jpg | https://m.media-amazon.com/images/I/512baR8-B1L.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.55%",
   "SalePrice": "₹7,239.00",
   "Model": "DWAPVCIR"
 }

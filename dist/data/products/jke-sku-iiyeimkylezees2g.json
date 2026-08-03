@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41nhdJmAaKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51socS0x0DL.jpg | https://m.media-amazon.com/images/I/31XFGMuTyxL.jpg | https://m.media-amazon.com/images/I/51lOc0yYGzL.jpg | https://m.media-amazon.com/images/I/31s3dZVHjlL.jpg | https://m.media-amazon.com/images/I/41nhdJmAaKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Grams",
-  "Discount": 0,
+  "Discount": "41.74%",
   "SalePrice": "₹349.00",
   "Model": "WAX004",
   "Country": "India"

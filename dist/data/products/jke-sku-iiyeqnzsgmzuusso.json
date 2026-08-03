@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/419iJA8UBHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EoHS-XvNL.jpg | https://m.media-amazon.com/images/I/31X8gc08saL.jpg | https://m.media-amazon.com/images/I/419iJA8UBHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "39.98%",
   "SalePrice": "₹500.00",
   "Model": "D070308"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/31OcZu97hnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719InHudbQL.jpg | https://m.media-amazon.com/images/I/31MwoZEKWAL.jpg | https://m.media-amazon.com/images/I/51uLwPYiwjL.jpg | https://m.media-amazon.com/images/I/51wZi8JnkwL.jpg | https://m.media-amazon.com/images/I/41MOgwGf9IL.jpg | https://m.media-amazon.com/images/I/31STU1ofgTL.jpg | https://m.media-amazon.com/images/I/31OcZu97hnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "38.65%",
   "SalePrice": "₹2,635.00",
   "Model": "BXIR1802IN"
 }

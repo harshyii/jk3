@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/416YtOiffrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71UiApB078L.jpg | https://m.media-amazon.com/images/I/41n0DElf6QL.jpg | https://m.media-amazon.com/images/I/A1vBit-teuL.png | https://m.media-amazon.com/images/I/31maOWmIMEL.jpg | https://m.media-amazon.com/images/I/51-cG11Do0L.jpg | https://m.media-amazon.com/images/I/51aHp52VkdL.jpg | https://m.media-amazon.com/images/I/515LxCtPmFL.jpg | https://m.media-amazon.com/images/I/416YtOiffrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "150.00 Milliliters",
-  "Discount": 0,
+  "Discount": "16.9%",
   "SalePrice": "₹241.00",
   "Model": "ASF820",
   "Country": "India"

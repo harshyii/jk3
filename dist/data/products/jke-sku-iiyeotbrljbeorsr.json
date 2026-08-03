@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41cZQAHgbeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7117YZURRkL.jpg | https://m.media-amazon.com/images/I/41vCqdnImML.jpg | https://m.media-amazon.com/images/I/41uxuBZ8xPL.jpg | https://m.media-amazon.com/images/I/51GisqD9FTL.jpg | https://m.media-amazon.com/images/I/41vjIvJ9lCL.jpg | https://m.media-amazon.com/images/I/41uqG8dw8yL.jpg | https://m.media-amazon.com/images/I/41cZQAHgbeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.46%",
   "SalePrice": "₹1,699.00",
   "Model": "Tomahawk T8000"
 }

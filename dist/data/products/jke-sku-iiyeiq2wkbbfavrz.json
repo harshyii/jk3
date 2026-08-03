@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41l0BWYxhUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71d8j9CY3mL.jpg | https://m.media-amazon.com/images/I/41Fh46bSg+L.jpg | https://m.media-amazon.com/images/I/510KqlwSuiL.jpg | https://m.media-amazon.com/images/I/51Q63LbPFVL.jpg | https://m.media-amazon.com/images/I/51+oTLvdBuL.jpg | https://m.media-amazon.com/images/I/51eYJ6stUcL.jpg | https://m.media-amazon.com/images/I/41l0BWYxhUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.34%",
   "SalePrice": "₹4,239.00",
   "Model": "JPT-BID-HD18"
 }

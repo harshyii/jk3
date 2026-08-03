@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/416yt8QFJ-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31L+-7VW5TL.jpg | https://m.media-amazon.com/images/I/31L+-7VW5TL.jpg | https://m.media-amazon.com/images/I/313MaSs+aPL.jpg | https://m.media-amazon.com/images/I/41F50KJeZoL.jpg | https://m.media-amazon.com/images/I/416yt8QFJ-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "230.0 Grams",
-  "Discount": 0,
+  "Discount": "59.96%",
   "SalePrice": "₹400.00",
   "Model": "TU-2",
   "Country": "USA"

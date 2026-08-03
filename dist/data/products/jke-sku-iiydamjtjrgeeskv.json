@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/517GdeJauLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51HdqpkPIiL.jpg | https://m.media-amazon.com/images/I/11ptz5IRmbL.jpg | https://m.media-amazon.com/images/I/21ewELonY3L.jpg | https://m.media-amazon.com/images/I/51hQHr3CfsL.jpg | https://m.media-amazon.com/images/I/517GdeJauLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.83%",
   "SalePrice": "₹1,007.00",
   "Model": "DT8087-QZ"
 }

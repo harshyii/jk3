@@ -64,8 +64,8 @@
     "https://m.media-amazon.com/images/I/51M5+DUekTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ONWYs9FUL.jpg | https://m.media-amazon.com/images/I/31TQf5BbmxL.jpg | https://m.media-amazon.com/images/I/41BIHaVZ5LL.jpg | https://m.media-amazon.com/images/I/310bC99QOKL.jpg | https://m.media-amazon.com/images/I/31sGUUFCn3L.jpg | https://m.media-amazon.com/images/I/51IuX53qT8L.jpg | https://m.media-amazon.com/images/I/51vqBs-xzhL.jpg | https://m.media-amazon.com/images/I/51M5+DUekTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400.0 Grams",
-  "Discount": 0,
+  "Discount": "6.25%",
   "SalePrice": "₹150.00"
 }

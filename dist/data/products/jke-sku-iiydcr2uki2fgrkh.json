@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/314nkt15NuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51zdqVFrdFL.jpg | https://m.media-amazon.com/images/I/314nkt15NuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "14.97%",
   "SalePrice": "₹7,899.00",
   "Model": "EML3090+",
   "Country": "India"

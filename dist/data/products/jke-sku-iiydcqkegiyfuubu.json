@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41G-DoHtS4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61n-8clOo2L.jpg | https://m.media-amazon.com/images/I/312-McRVj6L.jpg | https://m.media-amazon.com/images/I/31QOLbn4egL.jpg | https://m.media-amazon.com/images/I/31-XgljM3nL.jpg | https://m.media-amazon.com/images/I/31gfD9EXvaL.jpg | https://m.media-amazon.com/images/I/41lUS73QUSL.jpg | https://m.media-amazon.com/images/I/41G-DoHtS4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.24%",
   "SalePrice": "₹511.00",
   "Model": "CPL/CV/8"
 }

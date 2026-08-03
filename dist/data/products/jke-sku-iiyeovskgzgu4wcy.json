@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/513cu8nDLcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710wJR79PVL.jpg | https://m.media-amazon.com/images/I/5171g3F7lKL.jpg | https://m.media-amazon.com/images/I/41-Z-lVGz0L.jpg | https://m.media-amazon.com/images/I/41iM2iqm4gL.jpg | https://m.media-amazon.com/images/I/41a8p-Pt1KL.jpg | https://m.media-amazon.com/images/I/41xDqU7f3GL.jpg | https://m.media-amazon.com/images/I/41v+Qt+G6EL.jpg | https://m.media-amazon.com/images/I/513cu8nDLcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "25.93%",
   "SalePrice": "₹15,689.00",
   "Model": "190 1178 DWM"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41poPthwFHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51JWRXSSiYL.jpg | https://m.media-amazon.com/images/I/21DVbLiEGaL.jpg | https://m.media-amazon.com/images/I/21YBbKLPwKL.jpg | https://m.media-amazon.com/images/I/21leboLIXLL.jpg | https://m.media-amazon.com/images/I/41poPthwFHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "8.79%",
   "SalePrice": "₹12,760.00",
   "Model": "GHRACCAE1851"
 }

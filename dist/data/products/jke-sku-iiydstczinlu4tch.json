@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41Y07IEM+LL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AYRMRk2bL.jpg | https://m.media-amazon.com/images/I/41IebEc7HhL.jpg | https://m.media-amazon.com/images/I/61ixvnzrwWL.jpg | https://m.media-amazon.com/images/I/51lW8Pe3GML.jpg | https://m.media-amazon.com/images/I/51l+jWr3vaL.jpg | https://m.media-amazon.com/images/I/51cYM-cMfLL.jpg | https://m.media-amazon.com/images/I/515Es3m58vL.jpg | https://m.media-amazon.com/images/I/41Y07IEM+LL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "54.51%",
   "SalePrice": "₹1,819.00",
   "Model": "FBLI2001A"
 }

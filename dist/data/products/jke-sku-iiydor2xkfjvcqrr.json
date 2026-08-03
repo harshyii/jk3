@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31B7Ap5EjrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31B7Ap5EjrL.jpg | https://m.media-amazon.com/images/I/31B7Ap5EjrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.27%",
   "SalePrice": "₹36,400.00",
   "Model": "MAX-3KVA"
 }

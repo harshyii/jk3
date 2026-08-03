@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41GMzX1gaEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61e1VKlLfML.jpg | https://m.media-amazon.com/images/I/418rTGG4nlL.jpg | https://m.media-amazon.com/images/I/51LoX3PdMDL.jpg | https://m.media-amazon.com/images/I/419HT3aks+L.jpg | https://m.media-amazon.com/images/I/41lJQjaVi1L.jpg | https://m.media-amazon.com/images/I/51IPKqnb8yL.jpg | https://m.media-amazon.com/images/I/41O6KPpxBjL.jpg | https://m.media-amazon.com/images/I/41GMzX1gaEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "57.79%",
   "SalePrice": "₹21,107.00",
   "Model": "4000-2/32"
 }

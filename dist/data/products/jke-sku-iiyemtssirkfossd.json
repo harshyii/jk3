@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51Rlya+K7iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71hXX87w5xL.jpg | https://m.media-amazon.com/images/I/518lnc-MtmL.jpg | https://m.media-amazon.com/images/I/51G-dINg++L.jpg | https://m.media-amazon.com/images/I/41BWp5IMUEL.jpg | https://m.media-amazon.com/images/I/51Khffvxd-L.jpg | https://m.media-amazon.com/images/I/51gyGHsc+CL.jpg | https://m.media-amazon.com/images/I/415c5W4OJiL.jpg | https://m.media-amazon.com/images/I/51Rlya+K7iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.84%",
   "SalePrice": "₹11,110.90",
   "Model": "LEILUO"
 }

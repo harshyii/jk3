@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41nXbvpGJBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61iI6tCN-QL.jpg | https://m.media-amazon.com/images/I/31D11OhScoL.jpg | https://m.media-amazon.com/images/I/41iRMv+Y8JL.jpg | https://m.media-amazon.com/images/I/41zRn+3Mr7L.jpg | https://m.media-amazon.com/images/I/41nXbvpGJBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Milliliters",
-  "Discount": 0,
+  "Discount": "67.33%",
   "SalePrice": "₹163.00",
   "Country": "India"
 }

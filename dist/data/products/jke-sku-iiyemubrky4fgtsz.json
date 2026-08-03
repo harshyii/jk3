@@ -62,8 +62,8 @@
     "https://m.media-amazon.com/images/I/517pFlmwI4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71diEcwtFBL.jpg | https://m.media-amazon.com/images/I/31PXZTZxP7L.jpg | https://m.media-amazon.com/images/I/51VJu70BNbL.jpg | https://m.media-amazon.com/images/I/514zw1kDIDL.jpg | https://m.media-amazon.com/images/I/517lIGKLj4L.jpg | https://m.media-amazon.com/images/I/51zKa7mPdYL.jpg | https://m.media-amazon.com/images/I/51+AIep0YSL.jpg | https://m.media-amazon.com/images/I/517pFlmwI4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300 Milliliters",
-  "Discount": 0,
+  "Discount": "26.97%",
   "SalePrice": "₹620.00"
 }

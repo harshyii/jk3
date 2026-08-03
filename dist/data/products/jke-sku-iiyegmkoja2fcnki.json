@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/61gylx0aLnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51l8hOrwZJL.jpg | https://m.media-amazon.com/images/I/31J-H+CXYBL.jpg | https://m.media-amazon.com/images/I/414Xim7TH+L.jpg | https://m.media-amazon.com/images/I/4172nk-XgKL.jpg | https://m.media-amazon.com/images/I/41TFcoyzHnL.jpg | https://m.media-amazon.com/images/I/51HjvvG3bSL.jpg | https://m.media-amazon.com/images/I/61gylx0aLnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.6%",
   "SalePrice": "₹16,599.00",
   "Model": "Power sine 800+RC15000",
   "Country": "India"

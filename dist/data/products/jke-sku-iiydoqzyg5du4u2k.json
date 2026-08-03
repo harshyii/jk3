@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51MW+6Ln6ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/819S0i8SJ0L.jpg | https://m.media-amazon.com/images/I/41Xt99FUOrL.jpg | https://m.media-amazon.com/images/I/512LG9VzwqL.jpg | https://m.media-amazon.com/images/I/51qO1MLmVLL.jpg | https://m.media-amazon.com/images/I/41ZGMZpamjL.jpg | https://m.media-amazon.com/images/I/51DPBLg6dHL.jpg | https://m.media-amazon.com/images/I/41f4S98uHkL.jpg | https://m.media-amazon.com/images/I/51MW+6Ln6ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "63.44%",
   "SalePrice": "₹548.00",
   "Country": "India"
 }

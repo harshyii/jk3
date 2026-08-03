@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31A7EIjB0WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31A7EIjB0WL.jpg | https://m.media-amazon.com/images/I/31A7EIjB0WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10.22%",
   "SalePrice": "₹32,400.00",
   "Model": "MAX-2KVA"
 }

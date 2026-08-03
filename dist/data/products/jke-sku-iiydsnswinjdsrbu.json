@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31qx7GNjNnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XYBMgb8YL.jpg | https://m.media-amazon.com/images/I/519uixOAstL.jpg | https://m.media-amazon.com/images/I/51GM-mBSrrL.jpg | https://m.media-amazon.com/images/I/51U1S40ZH3L.jpg | https://m.media-amazon.com/images/I/51-aIdfNL6L.jpg | https://m.media-amazon.com/images/I/413UUpe71-L.jpg | https://m.media-amazon.com/images/I/41dtGbTL8PL.jpg | https://m.media-amazon.com/images/I/31qx7GNjNnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.42%",
   "SalePrice": "₹39,234.00",
   "Model": "E-08713"
 }

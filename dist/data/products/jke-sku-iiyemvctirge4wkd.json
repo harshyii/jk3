@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/21wURZSN8iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51U6k+xBSiL.jpg | https://m.media-amazon.com/images/I/211RnyaL-cL.jpg | https://m.media-amazon.com/images/I/216vKA18aJL.jpg | https://m.media-amazon.com/images/I/31eZSTN9-OL.jpg | https://m.media-amazon.com/images/I/21wURZSN8iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.27%",
   "SalePrice": "₹538.00",
   "Model": "2713"
 }

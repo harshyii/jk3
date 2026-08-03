@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41tWWituhtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511ElzsFZ9L.jpg | https://m.media-amazon.com/images/I/31jzm03W03L.jpg | https://m.media-amazon.com/images/I/41-59mq9jaL.jpg | https://m.media-amazon.com/images/I/410t8ByjE3L.jpg | https://m.media-amazon.com/images/I/41bDjCfeUiL.jpg | https://m.media-amazon.com/images/I/41vdeekeSzL.jpg | https://m.media-amazon.com/images/I/41oseXz-JeL.jpg | https://m.media-amazon.com/images/I/41tWWituhtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.86%",
   "SalePrice": "₹3,999.00",
   "Model": "ABPB27K100"
 }

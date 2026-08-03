@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41RMdfOkCfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616QbI+I5LL.jpg | https://m.media-amazon.com/images/I/51NF7OQ81cL.jpg | https://m.media-amazon.com/images/I/514MF1GJsvL.jpg | https://m.media-amazon.com/images/I/41VD3XbkZuL.jpg | https://m.media-amazon.com/images/I/41z5hXz7TML.jpg | https://m.media-amazon.com/images/I/41DC5a6RtXL.jpg | https://m.media-amazon.com/images/I/41RMdfOkCfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "60.13%",
   "SalePrice": "₹3,189.00",
   "Model": "JPT-21V-PS"
 }

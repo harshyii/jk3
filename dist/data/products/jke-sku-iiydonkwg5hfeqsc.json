@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41ESKb0v5JL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TY9qwrfuL.jpg | https://m.media-amazon.com/images/I/41994Pe84yL.jpg | https://m.media-amazon.com/images/I/31Z8H2FcrEL.jpg | https://m.media-amazon.com/images/I/31E6JWBoZJL.jpg | https://m.media-amazon.com/images/I/41HremFU7cL.jpg | https://m.media-amazon.com/images/I/41k0sW9k6XL.jpg | https://m.media-amazon.com/images/I/41y6XYs3I4L.jpg | https://m.media-amazon.com/images/I/41ESKb0v5JL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.58%",
   "SalePrice": "₹14,699.25",
   "Model": "CP100DZ"
 }

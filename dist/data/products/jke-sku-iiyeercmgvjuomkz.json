@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41ODWMyArJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/816rmBqhtmL.jpg | https://m.media-amazon.com/images/I/41ODWMyArJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "25.62%",
   "SalePrice": "₹5,950.00",
   "Model": "ROUTER PARA8TPR"
 }

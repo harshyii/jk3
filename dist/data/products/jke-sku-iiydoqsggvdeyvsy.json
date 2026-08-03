@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31R3Q7AyAcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51l+9l4a39L.jpg | https://m.media-amazon.com/images/I/31R3Q7AyAcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.86%",
   "SalePrice": "₹6,730.00",
   "Model": "Dongcheng"
 }

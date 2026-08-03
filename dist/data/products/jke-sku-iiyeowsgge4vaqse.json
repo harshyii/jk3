@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31esg3cKCTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UfBGCWWIL.jpg | https://m.media-amazon.com/images/I/31+n6NbYInL.jpg | https://m.media-amazon.com/images/I/31nnVotHIsL.jpg | https://m.media-amazon.com/images/I/31pRiGNhj9L.jpg | https://m.media-amazon.com/images/I/31esg3cKCTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "61%",
   "SalePrice": "₹2,340.00",
   "Model": "Xpt 425"
 }

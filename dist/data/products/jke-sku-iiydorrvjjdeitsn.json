@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/41czKUSAJiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41czKUSAJiL.jpg | https://m.media-amazon.com/images/I/41czKUSAJiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "35.98%",
   "SalePrice": "₹5,400.00",
   "Model": "SCP180"
 }

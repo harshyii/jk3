@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41Msjxg9myL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Q6MvQLqyL.jpg | https://m.media-amazon.com/images/I/41Msjxg9myL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "73.81%",
   "SalePrice": "₹9,703.11",
   "Model": "48-32-5150"
 }

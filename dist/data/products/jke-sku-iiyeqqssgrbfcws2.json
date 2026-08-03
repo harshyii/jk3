@@ -37,8 +37,8 @@
     "https://m.media-amazon.com/images/I/41zqwxtztSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PP9PKn5PL.jpg | https://m.media-amazon.com/images/I/41zqwxtztSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.0 Milliliters",
-  "Discount": 0,
+  "Discount": "35.83%",
   "SalePrice": "₹1,694.00"
 }

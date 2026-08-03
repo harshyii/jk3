@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/318aTln05EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51GkkW+2hjL.jpg | https://m.media-amazon.com/images/I/418Bfps+95L.jpg | https://m.media-amazon.com/images/I/617x7MGMccL.jpg | https://m.media-amazon.com/images/I/41ilAKoJ20L.jpg | https://m.media-amazon.com/images/I/41y-maejnJL.jpg | https://m.media-amazon.com/images/I/318aTln05EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹32,964.96",
   "Model": "DMP181Z"
 }

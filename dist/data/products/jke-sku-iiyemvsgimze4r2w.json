@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41uRpNhAzUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Uuzj4P5mL.jpg | https://m.media-amazon.com/images/I/31Q81B9e0fL.jpg | https://m.media-amazon.com/images/I/41UEnB4CDuL.jpg | https://m.media-amazon.com/images/I/51Q4w6TP9yL.jpg | https://m.media-amazon.com/images/I/51i-WCh7yqL.jpg | https://m.media-amazon.com/images/I/41uRpNhAzUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "48.46%",
   "SalePrice": "₹2,061.00",
   "Model": "KRT-6A"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51SXCxnTJQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61h6REDxbCL.jpg | https://m.media-amazon.com/images/I/41Ch+F4ZTHL.jpg | https://m.media-amazon.com/images/I/41D3CLrbgoL.jpg | https://m.media-amazon.com/images/I/31an+kRciKL.jpg | https://m.media-amazon.com/images/I/41O-bIB7FML.jpg | https://m.media-amazon.com/images/I/51vMY-h4CZL.jpg | https://m.media-amazon.com/images/I/51SXCxnTJQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹19,822.41",
   "Model": "XOB01Z"
 }

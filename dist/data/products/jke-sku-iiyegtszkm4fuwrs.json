@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51veF1j8XgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rOWcvFLML.jpg | https://m.media-amazon.com/images/I/41KjJgULloL.jpg | https://m.media-amazon.com/images/I/41ui9qF1JTL.jpg | https://m.media-amazon.com/images/I/51GnQa7sAPL.jpg | https://m.media-amazon.com/images/I/31dqwXWW9uL.jpg | https://m.media-amazon.com/images/I/51QfbRB9OPL.jpg | https://m.media-amazon.com/images/I/51veF1j8XgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.01%",
   "SalePrice": "₹2,899.00",
   "Model": "60w Solar Panel"
 }

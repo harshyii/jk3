@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31kFrGL0-pL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YuYl8QX8L.jpg | https://m.media-amazon.com/images/I/31-PL9FYZgL.jpg | https://m.media-amazon.com/images/I/31kFrGL0-pL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400 Grams",
-  "Discount": 0,
+  "Discount": "20.16%",
   "SalePrice": "₹396.00",
   "Model": "45110",
   "Country": "India"

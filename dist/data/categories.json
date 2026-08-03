@@ -65,14 +65,14 @@
   {
     "name": "Electronics",
     "slug": "electronics",
-    "count": 440,
+    "count": 439,
     "image": "https://m.media-amazon.com/images/I/61FSJbnM3rL.jpg | https://m.media-amazon.com/images/I/31M8wFNDQKL.jpg | https://m.media-amazon.com/images/I/61HcROpcW0L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41oTxMGlUBL.jpg | https://m.media-amazon.com/images/I/41cSTzHBaSL.jpg | https://m.media-amazon.com/images/I/412lRK6+MbL.jpg | https://m.media-amazon.com/images/I/41G06FM0USL.jpg | https://m.media-amazon.com/images/I/41Ec3rlRbcL.jpg",
     "featured": false
   },
   {
     "name": "Electrical & Solar",
     "slug": "electrical-solar",
-    "count": 1514,
+    "count": 1509,
     "image": "https://m.media-amazon.com/images/I/61BVeOaT4VL.jpg | https://m.media-amazon.com/images/I/41hayVkUZ7L.jpg | https://m.media-amazon.com/images/I/41f2YzCoFaL.jpg | https://m.media-amazon.com/images/I/410IoUreZXL.jpg | https://m.media-amazon.com/images/I/41nr4cq8vkL.jpg | https://m.media-amazon.com/images/I/41O1sk0lwzL.jpg | https://m.media-amazon.com/images/I/41NjteJ8OeL.jpg | https://m.media-amazon.com/images/I/41O0Ec71aPL.jpg",
     "featured": false
   },
@@ -86,21 +86,21 @@
   {
     "name": "Other",
     "slug": "other",
-    "count": 5012,
+    "count": 4725,
     "image": "https://m.media-amazon.com/images/I/71RK2Xp2CeL.jpg | https://m.media-amazon.com/images/I/51AxifdyFLL.jpg | https://m.media-amazon.com/images/I/51IphOiOu1L.jpg | https://m.media-amazon.com/images/I/41n-fSDnbVL.jpg | https://m.media-amazon.com/images/I/41q6MoX5KwL.jpg",
     "featured": false
   },
   {
     "name": "Safety & Security",
     "slug": "safety-security",
-    "count": 52,
+    "count": 51,
     "image": "https://m.media-amazon.com/images/I/61wRXG-flwL.jpg | https://m.media-amazon.com/images/I/41sB3M8YQBL.jpg | https://m.media-amazon.com/images/I/61ckp7lKElL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41vy37iCc8L.jpg | https://m.media-amazon.com/images/I/41ReaSRrxbL.jpg | https://m.media-amazon.com/images/I/41DkweuXbXL.jpg | https://m.media-amazon.com/images/I/415lb7oQKbL.jpg | https://m.media-amazon.com/images/I/41WMuu-sSpL.jpg",
     "featured": false
   },
   {
     "name": "Automotive & Accessories",
     "slug": "automotive-accessories",
-    "count": 425,
+    "count": 419,
     "image": "https://m.media-amazon.com/images/I/51AVLHZpfWL.jpg | https://m.media-amazon.com/images/I/311dJQkkKYL.jpg | https://m.media-amazon.com/images/I/41Pj6b-W8lL.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/41EpvVDufWL.jpg | https://m.media-amazon.com/images/I/41T5-ngMwGL.jpg | https://m.media-amazon.com/images/I/41uRCRXK-zL.jpg | https://m.media-amazon.com/images/I/41Vts0W-76L.jpg",
     "featured": false
   },
@@ -114,7 +114,7 @@
   {
     "name": "Tools & Machinery",
     "slug": "tools-machinery",
-    "count": 1827,
+    "count": 1822,
     "image": "https://m.media-amazon.com/images/I/61dgHHNYeuL.jpg | https://m.media-amazon.com/images/I/41n1rN7L3-L.jpg | https://m.media-amazon.com/images/I/41mLjf0aQTL.jpg | https://m.media-amazon.com/images/I/51cgjVpQjnL.jpg | https://m.media-amazon.com/images/I/41oHfgOjY7L.jpg | https://m.media-amazon.com/images/I/51xNZrRG3zL.jpg | https://m.media-amazon.com/images/I/41jiSTcHQoL.jpg",
     "featured": false
   },
@@ -128,14 +128,14 @@
   {
     "name": "Abrasives & Finishing",
     "slug": "abrasives-finishing",
-    "count": 210,
+    "count": 209,
     "image": "https://m.media-amazon.com/images/I/61KfCg8wqKL.jpg | https://m.media-amazon.com/images/I/31RKmHq5g9L.jpg | https://m.media-amazon.com/images/I/41oEKZI34RL.jpg | https://m.media-amazon.com/images/I/51HpWzbdJ+L.jpg | https://m.media-amazon.com/images/I/41KhYUwRaXL.jpg | https://m.media-amazon.com/images/I/51j0oVh3VVL.jpg | https://m.media-amazon.com/images/I/51yY1gQeeyL.jpg | https://m.media-amazon.com/images/I/41TShoienGL.jpg",
     "featured": false
   },
   {
     "name": "Health & Personal Care",
     "slug": "health-personal-care",
-    "count": 235,
+    "count": 234,
     "image": "https://m.media-amazon.com/images/I/71jiwwJgrqL.jpg | https://m.media-amazon.com/images/I/41YNPA-M-fL.jpg | https://m.media-amazon.com/images/I/51kRXtChhOL.jpg | https://m.media-amazon.com/images/I/51Q91UVBALL.jpg | https://m.media-amazon.com/images/I/51DiHsyg1KL.jpg | https://m.media-amazon.com/images/I/51kw1RwcruL.jpg | https://m.media-amazon.com/images/I/51rfiwyQ7WL.jpg | https://m.media-amazon.com/images/I/51Xhb6DnpuL.jpg",
     "featured": false
   },
@@ -156,7 +156,7 @@
   {
     "name": "Building & Construction",
     "slug": "building-construction",
-    "count": 145,
+    "count": 144,
     "image": "https://m.media-amazon.com/images/I/71cFzaT16BL.jpg | https://m.media-amazon.com/images/I/51ZbpXgaAYL.jpg | https://m.media-amazon.com/images/I/51hg8FPr-SL.jpg | https://m.media-amazon.com/images/I/5132+cPIyJL.jpg | https://m.media-amazon.com/images/I/41jBRRtRoCL.jpg | https://m.media-amazon.com/images/I/51fOCiYFUBL.jpg | https://m.media-amazon.com/images/I/51ifjjBhxqL.jpg | https://m.media-amazon.com/images/I/51M9rqOkUWL.jpg",
     "featured": false
   },
@@ -170,14 +170,14 @@
   {
     "name": "Fasteners",
     "slug": "fasteners",
-    "count": 407,
+    "count": 405,
     "image": "https://m.media-amazon.com/images/I/51iH14gP3zL.jpg | https://m.media-amazon.com/images/I/313QHVBBrzL.jpg | https://m.media-amazon.com/images/I/31YQCm95LFL.jpg | https://m.media-amazon.com/images/I/41yBhPvXzdL.jpg | https://m.media-amazon.com/images/I/41fGYN4-nqL.jpg",
     "featured": false
   },
   {
     "name": "Office & Industrial",
     "slug": "office-industrial",
-    "count": 65,
+    "count": 64,
     "image": "https://m.media-amazon.com/images/I/61J+AhvHaBL.jpg | https://m.media-amazon.com/images/I/41JJbmCRIyL.jpg | https://m.media-amazon.com/images/I/51tNYxpbAUL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/412nyqaqxlL.jpg | https://m.media-amazon.com/images/I/41pkKbLpzHL.jpg | https://m.media-amazon.com/images/I/41ugNWA-+CL.jpg | https://m.media-amazon.com/images/I/41Bwgkir-pL.jpg",
     "featured": false
   },
@@ -191,7 +191,7 @@
   {
     "name": "Apparel & Workwear",
     "slug": "apparel-workwear",
-    "count": 23,
+    "count": 21,
     "image": "https://m.media-amazon.com/images/I/710mh95hALL.jpg | https://m.media-amazon.com/images/I/41bkvMD0eAL.jpg | https://m.media-amazon.com/images/I/51L4-2kC2aL.jpg | https://m.media-amazon.com/images/I/51UdkSzBfZL.jpg | https://m.media-amazon.com/images/I/51QdAdrQHDL.jpg | https://m.media-amazon.com/images/I/51scO8EcL9L.jpg | https://m.media-amazon.com/images/I/41yJjb29uOL.jpg | https://m.media-amazon.com/images/I/41ibGrLypgL.jpg",
     "featured": false
   },

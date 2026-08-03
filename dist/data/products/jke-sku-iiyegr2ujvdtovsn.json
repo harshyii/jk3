@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41r-rqR8UPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61e+DE2NdEL.jpg | https://m.media-amazon.com/images/I/41VwL2YqIsL.jpg | https://m.media-amazon.com/images/I/51ODZi6a6cL.jpg | https://m.media-amazon.com/images/I/51sz0Gr8PeL.jpg | https://m.media-amazon.com/images/I/51pl9WhLFmL.jpg | https://m.media-amazon.com/images/I/41r-rqR8UPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "60.01%",
   "SalePrice": "₹1,999.00",
   "Model": "ACDB",
   "Country": "India"

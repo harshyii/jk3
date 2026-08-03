@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31HboAAgGOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ndrZXpJWL.jpg | https://m.media-amazon.com/images/I/31RC-7UXzzL.jpg | https://m.media-amazon.com/images/I/31p5AEZkG-L.jpg | https://m.media-amazon.com/images/I/31FzxZ5RVAL.jpg | https://m.media-amazon.com/images/I/31rB0xPDajL.jpg | https://m.media-amazon.com/images/I/31HboAAgGOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "310.0 Milliliters",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹9,211.00",
   "Model": "512211"
 }

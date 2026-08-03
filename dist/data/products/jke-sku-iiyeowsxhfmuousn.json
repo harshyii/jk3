@@ -88,9 +88,9 @@
     "https://m.media-amazon.com/images/I/41OymbOGdCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6170RxZUm+L.jpg | https://m.media-amazon.com/images/I/41POiUioXLL.jpg | https://m.media-amazon.com/images/I/51j6dPe7XnL.jpg | https://m.media-amazon.com/images/I/51x1kru0LFL.jpg | https://m.media-amazon.com/images/I/513e1lfJQzL.jpg | https://m.media-amazon.com/images/I/51kVoJ3qVVL.jpg | https://m.media-amazon.com/images/I/51hBzqaKjgL.jpg | https://m.media-amazon.com/images/I/41OymbOGdCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "11.21%",
   "SalePrice": "₹7,990.00",
   "Country": "China"
 }

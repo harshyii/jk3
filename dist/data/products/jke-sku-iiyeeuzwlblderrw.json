@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51XqFOodYIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ESDLG1rQL.jpg | https://m.media-amazon.com/images/I/412YotzOscL.jpg | https://m.media-amazon.com/images/I/51B5mewzykL.jpg | https://m.media-amazon.com/images/I/41Ut-5POnnL.jpg | https://m.media-amazon.com/images/I/516o8DKpaRL.jpg | https://m.media-amazon.com/images/I/51XqFOodYIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "296.0 Milliliters",
-  "Discount": 0,
+  "Discount": "24.82%",
   "SalePrice": "₹939.00",
   "Model": "53850"
 }

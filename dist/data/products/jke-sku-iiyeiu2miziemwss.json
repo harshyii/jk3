@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41OGCA6uRaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fZxuF+GQL.jpg | https://m.media-amazon.com/images/I/41lXII1vaRL.jpg | https://m.media-amazon.com/images/I/51vtJ70NS6L.jpg | https://m.media-amazon.com/images/I/417CbiXqSPL.jpg | https://m.media-amazon.com/images/I/41o9eyKF6EL.jpg | https://m.media-amazon.com/images/I/51aF7LBoR9L.jpg | https://m.media-amazon.com/images/I/41BTdSjt3BL.jpg | https://m.media-amazon.com/images/I/41OGCA6uRaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "65.07%",
   "SalePrice": "₹349.00",
   "Model": "T6845-B"
 }

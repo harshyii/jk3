@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51S0Qa7xApL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81axl7Meg+L.jpg | https://m.media-amazon.com/images/I/51I-rpdPz9L.jpg | https://m.media-amazon.com/images/I/51StX57kmLL.jpg | https://m.media-amazon.com/images/I/51o4k4jqXEL.jpg | https://m.media-amazon.com/images/I/51a1Vps52GL.jpg | https://m.media-amazon.com/images/I/51G7bHB3zNL.jpg | https://m.media-amazon.com/images/I/51C+ekze2bL.jpg | https://m.media-amazon.com/images/I/51S0Qa7xApL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.59%",
   "SalePrice": "₹3,999.00",
   "Model": "VR RH 26-24"
 }

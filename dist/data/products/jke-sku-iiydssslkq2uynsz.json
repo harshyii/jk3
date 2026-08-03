@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31u54ONt+kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71JeIWJzcuL.jpg | https://m.media-amazon.com/images/I/31UwO-NKE0L.jpg | https://m.media-amazon.com/images/I/41fTZ9ZjSKL.jpg | https://m.media-amazon.com/images/I/41JLzulK3RL.jpg | https://m.media-amazon.com/images/I/314eJLnrdBL.jpg | https://m.media-amazon.com/images/I/41N8bL1w3AL.jpg | https://m.media-amazon.com/images/I/31N9WuVMssL.jpg | https://m.media-amazon.com/images/I/31u54ONt+kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,030.75",
   "Model": "OP406A",
   "Country": "USA"

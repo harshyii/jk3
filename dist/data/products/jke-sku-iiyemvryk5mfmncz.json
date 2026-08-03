@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51KrL-0tzAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vREajDhEL.jpg | https://m.media-amazon.com/images/I/41nUuh5zIjL.jpg | https://m.media-amazon.com/images/I/51L6jUg47sL.jpg | https://m.media-amazon.com/images/I/5109Opw05JL.jpg | https://m.media-amazon.com/images/I/51kjG1ZexRL.jpg | https://m.media-amazon.com/images/I/51ABH-E5J0L.jpg | https://m.media-amazon.com/images/I/51KrL-0tzAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "61.13%",
   "SalePrice": "₹1,399.00",
   "Model": "AU001"
 }

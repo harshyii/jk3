@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51uEJGYpKEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MG8ff1ArL.jpg | https://m.media-amazon.com/images/I/41tolQ9cvFL.jpg | https://m.media-amazon.com/images/I/41OOV5EAFUL.jpg | https://m.media-amazon.com/images/I/41yEgFPByOL.jpg | https://m.media-amazon.com/images/I/410AFgDo3FL.jpg | https://m.media-amazon.com/images/I/51-jhRklXwL.jpg | https://m.media-amazon.com/images/I/51bV78sTKzL.jpg | https://m.media-amazon.com/images/I/51uEJGYpKEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹18,599.48",
   "Model": "XDT18ZB"
 }

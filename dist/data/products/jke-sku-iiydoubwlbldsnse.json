@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31S9dmFBnfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41e3r+-9hJL.jpg | https://m.media-amazon.com/images/I/31S9dmFBnfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹12,959.10",
   "Model": "431012"
 }

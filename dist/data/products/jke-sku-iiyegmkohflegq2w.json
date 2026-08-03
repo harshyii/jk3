@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51Dve49ashL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DrXHtC0eL.jpg | https://m.media-amazon.com/images/I/412TLhsBLlL.jpg | https://m.media-amazon.com/images/I/41YgjLuKDEL.jpg | https://m.media-amazon.com/images/I/410VcYXeRSL.jpg | https://m.media-amazon.com/images/I/41bGp3vxlTL.jpg | https://m.media-amazon.com/images/I/41Yd-Hs-v5L.jpg | https://m.media-amazon.com/images/I/51Dve49ashL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "8.24%",
   "SalePrice": "₹25,599.00",
   "Model": "Power sine 1100+RC25000+Trolley"
 }

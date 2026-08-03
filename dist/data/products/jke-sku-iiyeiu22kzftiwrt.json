@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51mzX3zCzbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71F0bJzEFML.jpg | https://m.media-amazon.com/images/I/41lUtqxlEOL.jpg | https://m.media-amazon.com/images/I/51x0SjHRaqL.jpg | https://m.media-amazon.com/images/I/51FaEiuND9L.jpg | https://m.media-amazon.com/images/I/51rMI0UKr3L.jpg | https://m.media-amazon.com/images/I/51YweWLsOYL.jpg | https://m.media-amazon.com/images/I/51mzX3zCzbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "54.17%",
   "SalePrice": "₹4,848.00",
   "Model": "RS7508"
 }

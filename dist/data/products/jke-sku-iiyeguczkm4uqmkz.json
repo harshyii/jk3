@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51Hogj3QCXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51vTqSj2NpL.jpg | https://m.media-amazon.com/images/I/51vTqSj2NpL.jpg | https://m.media-amazon.com/images/I/41yv5k0m6NL.jpg | https://m.media-amazon.com/images/I/417UnL1PaDL.jpg | https://m.media-amazon.com/images/I/5148dbQ3bYL.jpg | https://m.media-amazon.com/images/I/51WYLpzPebL.jpg | https://m.media-amazon.com/images/I/51ipnRFkjGL.jpg | https://m.media-amazon.com/images/I/51Hogj3QCXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹37,023.06",
   "Model": "PBLCK01K"
 }

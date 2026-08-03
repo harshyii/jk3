@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41XrPGLAwAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71iTo+xi2LL.jpg | https://m.media-amazon.com/images/I/41Uaho4eiTL.jpg | https://m.media-amazon.com/images/I/41LuE1C5zhL.jpg | https://m.media-amazon.com/images/I/41hltFzfZUL.jpg | https://m.media-amazon.com/images/I/41XrPGLAwAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.31%",
   "SalePrice": "₹4,969.00",
   "Model": "CSGLI20042"
 }

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51zn6zm8u3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51WmEMQmELL.jpg | https://m.media-amazon.com/images/I/41N1J74NnwL.jpg | https://m.media-amazon.com/images/I/41V6FeaE9rL.jpg | https://m.media-amazon.com/images/I/51zn6zm8u3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹58,537.46",
   "Model": "BL4040DC1",
   "Country": "USA"

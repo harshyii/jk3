@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51GoM3+6l2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qQgDVrbPL.jpg | https://m.media-amazon.com/images/I/51dQpEFMBUL.jpg | https://m.media-amazon.com/images/I/51WpWH0tQjL.jpg | https://m.media-amazon.com/images/I/51NsBAWqFVL.jpg | https://m.media-amazon.com/images/I/51PAoVUIljL.jpg | https://m.media-amazon.com/images/I/51+SHbnixWL.jpg | https://m.media-amazon.com/images/I/51GoM3+6l2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3790.0 Milliliters",
-  "Discount": 0,
+  "Discount": "30.98%",
   "SalePrice": "₹16,728.00",
   "Model": "CWS_104SW",
   "Country": "USA"

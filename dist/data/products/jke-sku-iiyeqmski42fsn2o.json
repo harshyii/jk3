@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41+pHKShzuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51xrJ3KuYyL.jpg | https://m.media-amazon.com/images/I/41+pHKShzuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "56.25%",
   "SalePrice": "₹6,999.00",
   "Model": "AP-4G-SG4.0MP-DUAL CAM-V-G-4"
 }

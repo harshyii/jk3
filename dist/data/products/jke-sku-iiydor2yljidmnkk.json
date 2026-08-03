@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41YxhDH91yS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51j6cVR7stL.jpg | https://m.media-amazon.com/images/I/41ucTSPsa+L.jpg | https://m.media-amazon.com/images/I/41tqwjkdbUL.jpg | https://m.media-amazon.com/images/I/51mYEloM6ZL.jpg | https://m.media-amazon.com/images/I/51cWsUOkfRL.jpg | https://m.media-amazon.com/images/I/41YgjLuKDEL.jpg | https://m.media-amazon.com/images/I/41YxhDH91yS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "14.7%",
   "SalePrice": "₹27,799.00",
   "Model": "Eco-Volt-1550-RC25000"
 }

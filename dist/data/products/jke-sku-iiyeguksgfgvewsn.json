@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51PLf+M9TqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510trrdc78L.jpg | https://m.media-amazon.com/images/I/31w-1DWaOzL.jpg | https://m.media-amazon.com/images/I/41VBp6E8LLL.jpg | https://m.media-amazon.com/images/I/41ZBB7jFP8L.jpg | https://m.media-amazon.com/images/I/41oqzLPhrIL.jpg | https://m.media-amazon.com/images/I/41QLAUQsAiL.jpg | https://m.media-amazon.com/images/I/41ASKAIgKjL.jpg | https://m.media-amazon.com/images/I/51PLf+M9TqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.86%",
   "SalePrice": "₹22,099.00",
   "Model": "Zolt 1100"
 }

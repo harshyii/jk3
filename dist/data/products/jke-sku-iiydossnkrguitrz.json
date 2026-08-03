@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31g9d9JffBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81e0AHRXi5L.jpg | https://m.media-amazon.com/images/I/41afsgIC30L.jpg | https://m.media-amazon.com/images/I/31Y7s5AxZ+L.jpg | https://m.media-amazon.com/images/I/31ncUC5FMXL.jpg | https://m.media-amazon.com/images/I/31wrr-C+uJL.jpg | https://m.media-amazon.com/images/I/31yFhN50SCL.jpg | https://m.media-amazon.com/images/I/31g9d9JffBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.14%",
   "SalePrice": "₹588.00",
   "Model": "80-CIZL-KFLG_"
 }

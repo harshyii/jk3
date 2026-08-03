@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41DZbRtNUOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xSSYGq+2L.jpg | https://m.media-amazon.com/images/I/51VcrOzm0xL.jpg | https://m.media-amazon.com/images/I/4178hepx3WL.jpg | https://m.media-amazon.com/images/I/31VRVSnZohL.jpg | https://m.media-amazon.com/images/I/31RqxyXDHcL.jpg | https://m.media-amazon.com/images/I/41DZbRtNUOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.13%",
   "SalePrice": "₹13,375.00",
   "Model": "P10TSAE"
 }

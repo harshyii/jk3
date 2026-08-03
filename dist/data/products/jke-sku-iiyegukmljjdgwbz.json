@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41EPi89uzmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718ih3jkrsL.jpg | https://m.media-amazon.com/images/I/41OVjnqrLhL.jpg | https://m.media-amazon.com/images/I/51Zb84LnAyL.jpg | https://m.media-amazon.com/images/I/41siUQQkEnL.jpg | https://m.media-amazon.com/images/I/41YkQ1pVIcL.jpg | https://m.media-amazon.com/images/I/41d+1R7Q66L.jpg | https://m.media-amazon.com/images/I/51KsrbTwKBL.jpg | https://m.media-amazon.com/images/I/41EPi89uzmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "20.63%",
   "SalePrice": "₹11,359.00",
   "Model": "nest solar panel-1"
 }

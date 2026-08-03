@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41vL0GdxpmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51poUtvJIqL.jpg | https://m.media-amazon.com/images/I/51poUtvJIqL.jpg | https://m.media-amazon.com/images/I/315dz7+pF-L.jpg | https://m.media-amazon.com/images/I/31xwTMZPjrL.jpg | https://m.media-amazon.com/images/I/41vL0GdxpmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "42.95%",
   "SalePrice": "₹4,849.00",
   "Country": "China"
 }

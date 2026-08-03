@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51i99PEqarL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51SiJijtEoL.jpg | https://m.media-amazon.com/images/I/31TwPxO-X4L.jpg | https://m.media-amazon.com/images/I/415e3CpV4+L.jpg | https://m.media-amazon.com/images/I/411-S3Gq5gL.jpg | https://m.media-amazon.com/images/I/31rQe2AttfL.jpg | https://m.media-amazon.com/images/I/512axv0+8IL.jpg | https://m.media-amazon.com/images/I/51RQsLKnCbL.jpg | https://m.media-amazon.com/images/I/51i99PEqarL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.82%",
   "SalePrice": "₹159.00",
   "Model": "pruner01"
 }

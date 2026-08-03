@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/61Llnbk0xrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81cobVPHEdL.jpg | https://m.media-amazon.com/images/I/51bqEjW9CtL.jpg | https://m.media-amazon.com/images/I/410p5xF70lL.jpg | https://m.media-amazon.com/images/I/51nmoV19QDL.jpg | https://m.media-amazon.com/images/I/417DxZvDE6L.jpg | https://m.media-amazon.com/images/I/41ELdN3Zv9L.jpg | https://m.media-amazon.com/images/I/51iXYjBPo+L.jpg | https://m.media-amazon.com/images/I/61Llnbk0xrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.54%",
   "SalePrice": "₹10,891.00",
   "Model": "BHA021",
   "Country": "USA"

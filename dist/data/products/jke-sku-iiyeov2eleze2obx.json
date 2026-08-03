@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/412uQpt7fbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DF7At4CLL.jpg | https://m.media-amazon.com/images/I/41TWALLsRwL.jpg | https://m.media-amazon.com/images/I/51g1WWsU1VL.jpg | https://m.media-amazon.com/images/I/51mO-XzughL.jpg | https://m.media-amazon.com/images/I/41mbrk+59hL.jpg | https://m.media-amazon.com/images/I/515Gcd1FwTL.jpg | https://m.media-amazon.com/images/I/412uQpt7fbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "44.13%",
   "SalePrice": "₹4,799.00",
   "Model": "SIDS1-1800"
 }

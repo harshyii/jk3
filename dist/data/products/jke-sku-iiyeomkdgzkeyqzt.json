@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51xdkkGymGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61hyt3Q-Y-L.jpg | https://m.media-amazon.com/images/I/31s+H3oAZfL.jpg | https://m.media-amazon.com/images/I/41FNzBD2MqL.jpg | https://m.media-amazon.com/images/I/51UgC8unEcL.jpg | https://m.media-amazon.com/images/I/41ldAh0ZHcL.jpg | https://m.media-amazon.com/images/I/51oi-xebemL.jpg | https://m.media-amazon.com/images/I/51d39YLj19L.jpg | https://m.media-amazon.com/images/I/51xdkkGymGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "42 Piece",
-  "Discount": 0,
+  "Discount": "78.36%",
   "SalePrice": "₹649.00",
   "Model": "M84"
 }

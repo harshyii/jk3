@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41Sdw6sHIgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611PR3z1Z8L.jpg | https://m.media-amazon.com/images/I/31ZFeEdHEIL.jpg | https://m.media-amazon.com/images/I/31ze8KBEVaL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/41IMh3bkOJL.jpg | https://m.media-amazon.com/images/I/41+LW+nrzDL.jpg | https://m.media-amazon.com/images/I/41Sdw6sHIgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.06%",
   "SalePrice": "₹429.00",
   "Model": "90-948"
 }

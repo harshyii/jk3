@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/416YydsPQsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PcouOXHnL.jpg | https://m.media-amazon.com/images/I/417FTNBNRAL.jpg | https://m.media-amazon.com/images/I/51hHb4ksh-L.jpg | https://m.media-amazon.com/images/I/51+P1y2wYKL.jpg | https://m.media-amazon.com/images/I/41JuB44ipRL.jpg | https://m.media-amazon.com/images/I/41SyG9mQapL.jpg | https://m.media-amazon.com/images/I/41LyIQ53+lL.jpg | https://m.media-amazon.com/images/I/416YydsPQsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "71.13%",
   "SalePrice": "₹11,550.00",
   "Model": "Bluth Solar Bifacial solar panel"
 }

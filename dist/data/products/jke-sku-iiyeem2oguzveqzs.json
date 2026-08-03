@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51Rv7p6peJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DbrG6ctDL.jpg | https://m.media-amazon.com/images/I/31NqW0alvcL.jpg | https://m.media-amazon.com/images/I/41fnVRGd2xL.jpg | https://m.media-amazon.com/images/I/61iqG5IOqKL.jpg | https://m.media-amazon.com/images/I/41MOcsdZ16L.jpg | https://m.media-amazon.com/images/I/61E7CfgsqQL.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg | https://m.media-amazon.com/images/I/51Rv7p6peJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.99%",
   "SalePrice": "₹7,979.00",
   "Model": "DCMPP568N-XJ"
 }

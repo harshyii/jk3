@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41Pf+yH9klL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SpoKZocmL.jpg | https://m.media-amazon.com/images/I/41Pf+yH9klL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.9%",
   "SalePrice": "₹7,199.00",
   "Model": "MAKITA-4327"
 }

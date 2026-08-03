@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41tVEKVeL0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616R-EjDcgL.jpg | https://m.media-amazon.com/images/I/31Ir-Atg8jL.jpg | https://m.media-amazon.com/images/I/413sQ6N47uL.jpg | https://m.media-amazon.com/images/I/51DR-N9pjbL.jpg | https://m.media-amazon.com/images/I/414Dh8mVnrL.jpg | https://m.media-amazon.com/images/I/514VwmZ1UdL.jpg | https://m.media-amazon.com/images/I/51WckmYxswL.jpg | https://m.media-amazon.com/images/I/41tVEKVeL0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "38.89%",
   "SalePrice": "₹5,499.00",
   "Model": "PB-65",
   "Country": "India"

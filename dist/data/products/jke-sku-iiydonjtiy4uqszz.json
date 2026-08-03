@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/515-1jSWNwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NR6Gs2tPL.jpg | https://m.media-amazon.com/images/I/411vRoouMKL.jpg | https://m.media-amazon.com/images/I/41W6aqypM4L.jpg | https://m.media-amazon.com/images/I/51FOJhCrNsL.jpg | https://m.media-amazon.com/images/I/41x8aXuI51L.jpg | https://m.media-amazon.com/images/I/517yLMDLnYL.jpg | https://m.media-amazon.com/images/I/41fua4BrkPL.jpg | https://m.media-amazon.com/images/I/515-1jSWNwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.19%",
   "SalePrice": "₹11,029.00",
   "Model": "BDCSFL20C"
 }

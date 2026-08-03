@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41rUt4ozXSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71yOFKczbjL.jpg | https://m.media-amazon.com/images/I/41Oqf8VFQXL.jpg | https://m.media-amazon.com/images/I/51MvvKM-wIL.jpg | https://m.media-amazon.com/images/I/41vBSTz4OyL.jpg | https://m.media-amazon.com/images/I/51+asb-LDlL.jpg | https://m.media-amazon.com/images/I/41G03yfcuKL.jpg | https://m.media-amazon.com/images/I/41rUt4ozXSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "43.41%",
   "SalePrice": "₹339.00",
   "Model": "SCR-01",
   "Country": "India"

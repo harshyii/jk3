@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/51uJPd-2URL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81dyPozVVEL.jpg | https://m.media-amazon.com/images/I/51uJPd-2URL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹162.00",
   "Model": "AA"
 }

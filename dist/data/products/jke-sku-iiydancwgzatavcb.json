@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31FzOSmnx-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616v4h2ICVL.jpg | https://m.media-amazon.com/images/I/41nDsFTBYML.jpg | https://m.media-amazon.com/images/I/31RZ2QI6LbL.jpg | https://m.media-amazon.com/images/I/41eDnbxq6EL.jpg | https://m.media-amazon.com/images/I/31yMlAmuKcL.jpg | https://m.media-amazon.com/images/I/41vzfHo6EbL.jpg | https://m.media-amazon.com/images/I/3199ZuB3fmL.jpg | https://m.media-amazon.com/images/I/31FzOSmnx-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.85%",
   "SalePrice": "₹5,972.00",
   "Model": "PMPN"
 }

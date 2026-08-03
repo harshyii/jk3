@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/61fMsQ-tMML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/716S4k4umDL.jpg | https://m.media-amazon.com/images/I/41FxBJJz+2L.jpg | https://m.media-amazon.com/images/I/61tA9B942ZL.jpg | https://m.media-amazon.com/images/I/51k+ys7XdsL.jpg | https://m.media-amazon.com/images/I/51OywXsPn9L.jpg | https://m.media-amazon.com/images/I/61PgNzJ7i1L.jpg | https://m.media-amazon.com/images/I/51HNamnetGL.jpg | https://m.media-amazon.com/images/I/61fMsQ-tMML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.1765 Milliliters",
-  "Discount": 0,
+  "Discount": "59.97%",
   "SalePrice": "₹5,427.00",
   "Model": "WAC23516SW"
 }

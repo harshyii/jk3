@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/31LPScILCjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/613ZauyLBML.jpg | https://m.media-amazon.com/images/I/41IGn8aqP2L.jpg | https://m.media-amazon.com/images/I/518cmeqBn6L.jpg | https://m.media-amazon.com/images/I/41gDdpLZV8L.jpg | https://m.media-amazon.com/images/I/21Bb-jX0YDL.jpg | https://m.media-amazon.com/images/I/11dDS9W09xL.jpg | https://m.media-amazon.com/images/I/31LPScILCjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.06%",
   "SalePrice": "₹399.00",
   "Model": "MST-1789",
   "Country": "India"

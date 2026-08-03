@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41mTTf+84uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710KaVHFWkL.jpg | https://m.media-amazon.com/images/I/41LRyZTa4QL.jpg | https://m.media-amazon.com/images/I/415kqLXrycL.jpg | https://m.media-amazon.com/images/I/41qpuh4i-OL.jpg | https://m.media-amazon.com/images/I/41IwdyPBIrL.jpg | https://m.media-amazon.com/images/I/418N0WG8j7L.jpg | https://m.media-amazon.com/images/I/41b1f8WFvFL.jpg | https://m.media-amazon.com/images/I/41mTTf+84uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "43.17%",
   "SalePrice": "₹20,603.57",
   "Model": "2606-20"
 }

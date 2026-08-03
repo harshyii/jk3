@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41flsjWo5RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aTV+HgD3L.jpg | https://m.media-amazon.com/images/I/41apyG3f2FL.jpg | https://m.media-amazon.com/images/I/41zELh1WTTL.jpg | https://m.media-amazon.com/images/I/41FRe-f+PdL.jpg | https://m.media-amazon.com/images/I/41svxKX7s-L.jpg | https://m.media-amazon.com/images/I/31vPIsWa2hL.jpg | https://m.media-amazon.com/images/I/41flsjWo5RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹17,246.00",
   "Model": "097807"
 }

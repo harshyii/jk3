@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41MYFuN+dgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/8100-6FCiNL.jpg | https://m.media-amazon.com/images/I/41MYFuN+dgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "11.1 Grams",
-  "Discount": 0,
+  "Discount": "44.5%",
   "SalePrice": "₹4,999.00",
   "Model": "2045036"
 }

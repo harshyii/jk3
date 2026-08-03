@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41QAVCm-QmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610NSScNEEL.jpg | https://m.media-amazon.com/images/I/41crqUNLQXL.jpg | https://m.media-amazon.com/images/I/51mpxMwq7YL.jpg | https://m.media-amazon.com/images/I/41js7yBPv7L.jpg | https://m.media-amazon.com/images/I/41QAVCm-QmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "72 Kilograms",
-  "Discount": 0,
+  "Discount": "35.01%",
   "SalePrice": "₹5,199.00",
   "Model": "M4101B"
 }

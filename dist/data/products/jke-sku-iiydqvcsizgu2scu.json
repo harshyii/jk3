@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/21VpEXNqkSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71X9VWIi+6L.jpg | https://m.media-amazon.com/images/I/41zGKwjIgLL.jpg | https://m.media-amazon.com/images/I/51T5z+peH5L.jpg | https://m.media-amazon.com/images/I/21qC3MbfmrL.jpg | https://m.media-amazon.com/images/I/2112GedRmaL.jpg | https://m.media-amazon.com/images/I/21VpEXNqkSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42%",
   "SalePrice": "₹232.00",
   "Model": "CABLE-CLPO59-590",
   "Country": "China"

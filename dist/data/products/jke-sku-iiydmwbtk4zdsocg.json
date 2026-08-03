@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41q64uI1hHS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61hIl+kGMPL.jpg | https://m.media-amazon.com/images/I/41s6xq7bfBL.jpg | https://m.media-amazon.com/images/I/312z63Y9osS.jpg | https://m.media-amazon.com/images/I/41Xd6ECim3S.jpg | https://m.media-amazon.com/images/I/41ivDN2Hk2S.jpg | https://m.media-amazon.com/images/I/415RmFZuzES.jpg | https://m.media-amazon.com/images/I/41iswRgBOeS.jpg | https://m.media-amazon.com/images/I/41q64uI1hHS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "11%",
   "SalePrice": "₹271.45",
   "Model": "TW/3-16"
 }

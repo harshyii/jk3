@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51oStY+VmSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pmYJ7uvRL.jpg | https://m.media-amazon.com/images/I/41-YfjPdFiL.jpg | https://m.media-amazon.com/images/I/51oStY+VmSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "41.62%",
   "SalePrice": "₹5,837.00",
   "Model": "CRLI20401"
 }

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/21p2D20sshL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41U+btt42VL.jpg | https://m.media-amazon.com/images/I/21KB5KWG++L.jpg | https://m.media-amazon.com/images/I/21To+cojmSL.jpg | https://m.media-amazon.com/images/I/21p2D20sshL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.4%",
   "SalePrice": "₹219.00",
   "Model": "IML 10H"
 }

@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41uN3TgsGkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YwCTWomRL.jpg | https://m.media-amazon.com/images/I/41uN3TgsGkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.75%",
   "SalePrice": "₹4,833.43",
   "Model": "TIG/D/24D/N",
   "Country": "India"

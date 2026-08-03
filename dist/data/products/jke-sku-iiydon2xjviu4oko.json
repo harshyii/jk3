@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/31euBNIGWML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71F-mzCeL5L.jpg | https://m.media-amazon.com/images/I/41AkSy+8GZL.jpg | https://m.media-amazon.com/images/I/41+CMIjuw1L.jpg | https://m.media-amazon.com/images/I/31pjiVq9ywL.jpg | https://m.media-amazon.com/images/I/31euBNIGWML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.55%",
   "SalePrice": "₹934.00",
   "Model": "FAU/0-2"
 }

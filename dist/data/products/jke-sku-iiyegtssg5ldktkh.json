@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41ZhWLKohOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41L9JswiSCL.jpg | https://m.media-amazon.com/images/I/41L9JswiSCL.jpg | https://m.media-amazon.com/images/I/41ZhWLKohOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "58.4%",
   "SalePrice": "₹166.00",
   "Model": "SP - SOler"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/3127oMgnekL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41mi4qKQ67L.jpg | https://m.media-amazon.com/images/I/11DB9RNC6UL.jpg | https://m.media-amazon.com/images/I/21N8dGFBoJL.jpg | https://m.media-amazon.com/images/I/212m15GOSjL.jpg | https://m.media-amazon.com/images/I/21CVVhJbLdL.jpg | https://m.media-amazon.com/images/I/3127oMgnekL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.7%",
   "SalePrice": "₹965.09",
   "Model": "CSP/RRT/8/UG"
 }

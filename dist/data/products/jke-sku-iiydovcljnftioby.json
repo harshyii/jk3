@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31PSN1JQDJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31PSN1JQDJL.jpg | https://m.media-amazon.com/images/I/31PSN1JQDJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.3%",
   "SalePrice": "₹509.00",
   "Model": "10mm long nut runner pack of 3"
 }

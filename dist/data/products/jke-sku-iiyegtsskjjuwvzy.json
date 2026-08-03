@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/417FGWML5sL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/417FGWML5sL.jpg | https://m.media-amazon.com/images/I/417FGWML5sL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "72.43%",
   "SalePrice": "₹110.00",
   "Model": "SP-0857",
   "Country": "India"

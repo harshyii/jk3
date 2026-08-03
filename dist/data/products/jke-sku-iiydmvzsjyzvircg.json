@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31-Z051iDoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ed4Nk0V0L.jpg | https://m.media-amazon.com/images/I/41+YUdiEYQL.jpg | https://m.media-amazon.com/images/I/51DV7QM33lS.jpg | https://m.media-amazon.com/images/I/31-Z051iDoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "9.24%",
   "SalePrice": "₹2,739.00",
   "Model": "DWST1-71228"
 }

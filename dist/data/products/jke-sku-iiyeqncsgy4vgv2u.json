@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51kQwjiUJ9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ooMjBk7fL.jpg | https://m.media-amazon.com/images/I/41se7kvTWmL.jpg | https://m.media-amazon.com/images/I/41IYa8T9E4L.jpg | https://m.media-amazon.com/images/I/41vrzfbn3xL.jpg | https://m.media-amazon.com/images/I/51j0rIFOocL.jpg | https://m.media-amazon.com/images/I/51DcRL6h9IL.jpg | https://m.media-amazon.com/images/I/51kQwjiUJ9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.11%",
   "SalePrice": "₹1,594.00",
   "Model": "VPBG-101169"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41KP0vmE0JL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610PUaB318L.jpg | https://m.media-amazon.com/images/I/41KP0vmE0JL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,624.48",
   "Model": "ADP10",
   "Country": "USA"

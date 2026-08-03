@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51yor7hQhvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713T4VnXEvL.jpg | https://m.media-amazon.com/images/I/31zjrVjP4eL.jpg | https://m.media-amazon.com/images/I/41WWoEkeIEL.jpg | https://m.media-amazon.com/images/I/510Y2LUy5wL.jpg | https://m.media-amazon.com/images/I/51CHjZv0z1L.jpg | https://m.media-amazon.com/images/I/51cUDPf8F-L.jpg | https://m.media-amazon.com/images/I/519wF3PdI2L.jpg | https://m.media-amazon.com/images/I/51yor7hQhvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.2 Milliliters",
-  "Discount": 0,
+  "Discount": "58.14%",
   "SalePrice": "₹2,575.81",
   "Model": "TVD_201_16SW"
 }

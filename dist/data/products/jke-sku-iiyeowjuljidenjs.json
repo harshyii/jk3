@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41-FGBCCmHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81R2KE2P8QL.jpg | https://m.media-amazon.com/images/I/41eD58-PsJL.jpg | https://m.media-amazon.com/images/I/31Ke6CuZemL.jpg | https://m.media-amazon.com/images/I/41TKn9GMs6L.jpg | https://m.media-amazon.com/images/I/41-FGBCCmHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "75.19%",
   "SalePrice": "₹99.00",
   "Model": "cd-r1"
 }

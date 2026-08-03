@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41eteYBGyLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510eTlp3coL.jpg | https://m.media-amazon.com/images/I/31NVNtLK4vL.jpg | https://m.media-amazon.com/images/I/31f9JiGgG7L.jpg | https://m.media-amazon.com/images/I/41eteYBGyLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "97.31%",
   "SalePrice": "₹2,689.00",
   "Model": "Injectable-Epoxy-Mortar"
 }

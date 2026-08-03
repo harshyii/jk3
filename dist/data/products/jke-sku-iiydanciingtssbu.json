@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41rZw8cpceL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91wjekX0T7L.jpg | https://m.media-amazon.com/images/I/41zftgDBXFL.jpg | https://m.media-amazon.com/images/I/41IvuiCQ2+L.jpg | https://m.media-amazon.com/images/I/41nmSpNHwGL.jpg | https://m.media-amazon.com/images/I/4180m-+59dL.jpg | https://m.media-amazon.com/images/I/41I+E6Lt8iL.jpg | https://m.media-amazon.com/images/I/512J6iWFLmL.jpg | https://m.media-amazon.com/images/I/41rZw8cpceL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "13.4%",
   "SalePrice": "₹3,896.00",
   "Model": "G18216"
 }

@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41KZ6AqNb5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41KZ6AqNb5L.jpg | https://m.media-amazon.com/images/I/41KZ6AqNb5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.15%",
   "SalePrice": "₹6,049.00",
   "Model": "CHOP7"
 }

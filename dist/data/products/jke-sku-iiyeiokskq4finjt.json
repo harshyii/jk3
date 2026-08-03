@@ -50,8 +50,8 @@
     "https://m.media-amazon.com/images/I/41pchDtc-UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61R545u2sdL.jpg | https://m.media-amazon.com/images/I/41TMwW1xf3L.jpg | https://m.media-amazon.com/images/I/31zoKPVYqQL.jpg | https://m.media-amazon.com/images/I/41-Kf8ROyDL.jpg | https://m.media-amazon.com/images/I/31NuPDPuM-L.jpg | https://m.media-amazon.com/images/I/41pchDtc-UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "27.62%",
   "SalePrice": "₹2,099.00"
 }

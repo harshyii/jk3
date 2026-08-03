@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31MIT-f+cgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SpkL3MSmL.jpg | https://m.media-amazon.com/images/I/31uDRIACrrL.jpg | https://m.media-amazon.com/images/I/31jBV9bin3L.jpg | https://m.media-amazon.com/images/I/31wK8otPaeL.jpg | https://m.media-amazon.com/images/I/31MIT-f+cgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "61.99%",
   "SalePrice": "₹1,900.00",
   "Model": "AG750282"
 }

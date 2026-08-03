@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31ubcUb3VnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ffmb+FvbL.jpg | https://m.media-amazon.com/images/I/31UEsqKutML.jpg | https://m.media-amazon.com/images/I/318J9Fx6TPL.jpg | https://m.media-amazon.com/images/I/51wKiJC8u-L.jpg | https://m.media-amazon.com/images/I/31ubcUb3VnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.4%",
   "SalePrice": "₹249.00",
   "Model": "HFJP6"
 }

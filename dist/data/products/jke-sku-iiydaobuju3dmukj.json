@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41dExn1t3HL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61LBselM1BL.jpg | https://m.media-amazon.com/images/I/51yjE-S1XJL.jpg | https://m.media-amazon.com/images/I/51VDZRE1AmL.jpg | https://m.media-amazon.com/images/I/51XaXTuG62L.jpg | https://m.media-amazon.com/images/I/413ondhOTcL.jpg | https://m.media-amazon.com/images/I/41K4hSjNu4L.jpg | https://m.media-amazon.com/images/I/41dExn1t3HL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.92%",
   "SalePrice": "₹159.00",
   "Model": "17006CLR"
 }

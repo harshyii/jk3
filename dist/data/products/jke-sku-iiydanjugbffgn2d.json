@@ -78,9 +78,9 @@
     "https://m.media-amazon.com/images/I/51K6ClhVfoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81TEyIBP20L.jpg | https://m.media-amazon.com/images/I/41ZPNrkTuJL.jpg | https://m.media-amazon.com/images/I/61HSeFwthPL.jpg | https://m.media-amazon.com/images/I/41AYRdoS3OL.jpg | https://m.media-amazon.com/images/I/41bstUXHH2L.jpg | https://m.media-amazon.com/images/I/41mRDgnbN4L.jpg | https://m.media-amazon.com/images/I/41YW7TT8ylL.jpg | https://m.media-amazon.com/images/I/51K6ClhVfoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.42%",
   "SalePrice": "₹66,999.00",
   "Model": "DWS780-QS"
 }

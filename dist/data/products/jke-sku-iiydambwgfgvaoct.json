@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51AqdI+AQTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51k6saDL47L.jpg | https://m.media-amazon.com/images/I/31ppK8mhi9L.jpg | https://m.media-amazon.com/images/I/51yYEufUEpL.jpg | https://m.media-amazon.com/images/I/51na1LKC5IL.jpg | https://m.media-amazon.com/images/I/51zRDX3LxWL.jpg | https://m.media-amazon.com/images/I/51AqdI+AQTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "62%",
   "SalePrice": "₹3,953.00",
   "Model": "10640"
 }

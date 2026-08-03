@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41BuWe7jDlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AzN2cjQyL.jpg | https://m.media-amazon.com/images/I/41dBzYM3c3L.jpg | https://m.media-amazon.com/images/I/51fwaH+ZNwL.jpg | https://m.media-amazon.com/images/I/51RRw18S0vL.jpg | https://m.media-amazon.com/images/I/51SRTqlgQQL.jpg | https://m.media-amazon.com/images/I/51Xg4XyzRZL.jpg | https://m.media-amazon.com/images/I/51IQtNH1LmL.jpg | https://m.media-amazon.com/images/I/41BuWe7jDlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "7.7%",
   "SalePrice": "₹599.00",
   "Model": "5315",
   "Country": "India"

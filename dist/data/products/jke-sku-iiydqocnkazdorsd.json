@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41iDh6GD2OS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61R9HsNZBCS.jpg | https://m.media-amazon.com/images/I/31gL3dbiC5S.jpg | https://m.media-amazon.com/images/I/41d4pQndyUS.jpg | https://m.media-amazon.com/images/I/41urF2E-puS.jpg | https://m.media-amazon.com/images/I/414s84cjjLS.jpg | https://m.media-amazon.com/images/I/41iDh6GD2OS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "61.99%",
   "SalePrice": "₹603.27",
   "Model": "6.296-108.0",
   "Country": "Germany"

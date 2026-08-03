@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51hgU21ppUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zrWN1KuBL.jpg | https://m.media-amazon.com/images/I/41Yeo+oV53L.jpg | https://m.media-amazon.com/images/I/41u3sJfKPML.jpg | https://m.media-amazon.com/images/I/51hgU21ppUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Milliliters",
-  "Discount": 0,
+  "Discount": "13.6%",
   "SalePrice": "₹3,499.00",
   "Country": "India"
 }

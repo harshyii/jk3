@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51953erBk9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61a2yiuzpAL.jpg | https://m.media-amazon.com/images/I/41Q4ASAXA1L.jpg | https://m.media-amazon.com/images/I/51LdhznXXEL.jpg | https://m.media-amazon.com/images/I/41cvYbPrxgL.jpg | https://m.media-amazon.com/images/I/51TxkJyo9mL.jpg | https://m.media-amazon.com/images/I/41SBGz4R6CL.jpg | https://m.media-amazon.com/images/I/51953erBk9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "65.03%",
   "SalePrice": "₹699.00",
   "Model": "226057"
 }

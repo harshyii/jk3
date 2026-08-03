@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41WiI2VvJ6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81p3JJAbWUL.jpg | https://m.media-amazon.com/images/I/51aVBIy3AGL.jpg | https://m.media-amazon.com/images/I/4131U3yAAdL.jpg | https://m.media-amazon.com/images/I/41cmOATsyoL.jpg | https://m.media-amazon.com/images/I/41qJ4gnhxqL.jpg | https://m.media-amazon.com/images/I/4159PSIGlyL.jpg | https://m.media-amazon.com/images/I/41WiI2VvJ6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.69%",
   "SalePrice": "₹999.00",
   "Model": "JLN11"
 }

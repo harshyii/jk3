@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41INHrUCjvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51hmbt5P-8L.jpg | https://m.media-amazon.com/images/I/31-aNqEYqPL.jpg | https://m.media-amazon.com/images/I/41Vp8jDoi-L.jpg | https://m.media-amazon.com/images/I/41QPALIqKwL.jpg | https://m.media-amazon.com/images/I/416dFiBAMwL.jpg | https://m.media-amazon.com/images/I/41PVpf9kBpL.jpg | https://m.media-amazon.com/images/I/51g36zLPRwL.jpg | https://m.media-amazon.com/images/I/41INHrUCjvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.42%",
   "SalePrice": "₹1,575.00",
   "Model": "2303C-000"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51qJlUw-jtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71WnO2wNl9L.jpg | https://m.media-amazon.com/images/I/41QAJmIZhkL.jpg | https://m.media-amazon.com/images/I/51qJlUw-jtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.67%",
   "SalePrice": "₹8,651.00",
   "Model": "CDGLI20012"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51h630+XoCL.jpg | https://m.media-amazon.com/images/I/313i3Auw14L.jpg | https://m.media-amazon.com/images/I/41G0oO2Zk7L.jpg | https://m.media-amazon.com/images/I/31EzA8YiiBL.jpg | https://m.media-amazon.com/images/I/51t-GVxHoQL.jpg | https://m.media-amazon.com/images/I/51xlmhb+icL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "28.25%",
   "SalePrice": "₹13,859.00",
   "Model": "DCMST561N-XJ"
 }

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/21Q3XfTe5TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61HN3j1hpwL.jpg | https://m.media-amazon.com/images/I/31cjKr1uw-L.jpg | https://m.media-amazon.com/images/I/31iiWFKdrpL.jpg | https://m.media-amazon.com/images/I/31453nQQ3EL.jpg | https://m.media-amazon.com/images/I/31M589UHOzL.jpg | https://m.media-amazon.com/images/I/410zYubyZDL.jpg | https://m.media-amazon.com/images/I/21Q3XfTe5TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.39%",
   "SalePrice": "₹7,937.00",
   "Model": "A577"
 }

@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41O82DG98wL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51hqtuF7Y4L.jpg | https://m.media-amazon.com/images/I/418GRdxTQsL.jpg | https://m.media-amazon.com/images/I/41ZkD7PENKL.jpg | https://m.media-amazon.com/images/I/41o1Q6ou+YL.jpg | https://m.media-amazon.com/images/I/51MPYnEDVzL.jpg | https://m.media-amazon.com/images/I/41SjiZ+LwKL.jpg | https://m.media-amazon.com/images/I/51Km-Ic1jAL.jpg | https://m.media-amazon.com/images/I/41O82DG98wL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹73,458.00",
   "Model": "HSMC1361SGP",
   "Country": "China"

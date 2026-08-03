@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51D1Fm6fX8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612CuWDEneL.jpg | https://m.media-amazon.com/images/I/41ZJ3ISfHoL.jpg | https://m.media-amazon.com/images/I/410NpC-7sgL.jpg | https://m.media-amazon.com/images/I/412N99-QLDL.jpg | https://m.media-amazon.com/images/I/419bORHYoXL.jpg | https://m.media-amazon.com/images/I/51iSfIwZzFL.jpg | https://m.media-amazon.com/images/I/51D1Fm6fX8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹17,500.00",
   "Model": "Eco Watt Neo 900",
   "Country": "India"

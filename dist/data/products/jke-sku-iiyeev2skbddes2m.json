@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51e0-5fjk-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41P5cNvWBCL.jpg | https://m.media-amazon.com/images/I/41P5cNvWBCL.jpg | https://m.media-amazon.com/images/I/41iPggswgzL.jpg | https://m.media-amazon.com/images/I/51slmTpPlvL.jpg | https://m.media-amazon.com/images/I/61luq10OlKL.jpg | https://m.media-amazon.com/images/I/51e0-5fjk-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.3%",
   "SalePrice": "₹79.00",
   "Model": "23-2-Report File"
 }

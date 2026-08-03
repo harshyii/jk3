@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51Rv+8Sb65L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71W1R17a4PL.jpg | https://m.media-amazon.com/images/I/31DWrz2T7gL.jpg | https://m.media-amazon.com/images/I/61E8msiKJ0L.jpg | https://m.media-amazon.com/images/I/5128xpjK1LL.jpg | https://m.media-amazon.com/images/I/61bUrdHcP2L.jpg | https://m.media-amazon.com/images/I/61iMwo1LifL.jpg | https://m.media-amazon.com/images/I/61pzpr2MpmL.jpg | https://m.media-amazon.com/images/I/51Rv+8Sb65L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.00 Milliliters",
-  "Discount": 0,
+  "Discount": "38.78%",
   "SalePrice": "₹4,296.00",
   "Model": "CLD_997_16SW",
   "Country": "USA"

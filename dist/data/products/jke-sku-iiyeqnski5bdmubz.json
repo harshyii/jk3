@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41vm6HhyF8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71tq9GsGGUL.jpg | https://m.media-amazon.com/images/I/41nydMHW57L.jpg | https://m.media-amazon.com/images/I/41vm6HhyF8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "84.55%",
   "SalePrice": "₹247.00",
   "Model": "ABH60501"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51WlrB-uCoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pXZgWCkML.jpg | https://m.media-amazon.com/images/I/41leXb-baoL.jpg | https://m.media-amazon.com/images/I/41tiB2mfCvL.jpg | https://m.media-amazon.com/images/I/51pfq5ciKRL.jpg | https://m.media-amazon.com/images/I/4118OrncPSL.jpg | https://m.media-amazon.com/images/I/41ebO9VBQCL.jpg | https://m.media-amazon.com/images/I/51WlrB-uCoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.02%",
   "SalePrice": "₹2,799.00",
   "Model": "5005"
 }

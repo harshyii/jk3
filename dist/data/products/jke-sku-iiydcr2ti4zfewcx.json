@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31XPLoxaVEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81A6nZRX2xL.jpg | https://m.media-amazon.com/images/I/31hiHZ1om4L.jpg | https://m.media-amazon.com/images/I/31XPLoxaVEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.96%",
   "SalePrice": "₹9,962.00",
   "Model": "D2"
 }

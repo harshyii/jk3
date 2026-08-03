@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31m1yCEyNiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+WdR3qEeL.jpg | https://m.media-amazon.com/images/I/31xcG47O29L.jpg | https://m.media-amazon.com/images/I/41vLV+w4CeL.jpg | https://m.media-amazon.com/images/I/41Lxc6jcpqL.jpg | https://m.media-amazon.com/images/I/31i8+wpc6tL.jpg | https://m.media-amazon.com/images/I/317TLVEcneL.jpg | https://m.media-amazon.com/images/I/312mYHMdfHL.jpg | https://m.media-amazon.com/images/I/31m1yCEyNiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.38%",
   "SalePrice": "₹6,499.00",
   "Model": "DF001DW"
 }

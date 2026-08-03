@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51LD2qm+XhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71YOuj-cNIL.jpg | https://m.media-amazon.com/images/I/51RxWtWgwvL.jpg | https://m.media-amazon.com/images/I/51abItAyqFL.jpg | https://m.media-amazon.com/images/I/51R-DfwHWJL.jpg | https://m.media-amazon.com/images/I/51FT+xQyEKL.jpg | https://m.media-amazon.com/images/I/51SIJDeLI-L.jpg | https://m.media-amazon.com/images/I/51H5jEzFK4L.jpg | https://m.media-amazon.com/images/I/51LD2qm+XhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.64%",
   "SalePrice": "₹590.00",
   "Model": "PLIERS 24 IN 1"
 }

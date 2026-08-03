@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41k6p9Q3gyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Q6Du1mA7L.jpg | https://m.media-amazon.com/images/I/319d-wX0xDL.jpg | https://m.media-amazon.com/images/I/61uwjgwWDoL.jpg | https://m.media-amazon.com/images/I/41LWR2P-ibL.jpg | https://m.media-amazon.com/images/I/41fFcx5k1ML.jpg | https://m.media-amazon.com/images/I/41-mEkH8F-L.jpg | https://m.media-amazon.com/images/I/41k6p9Q3gyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.54%",
   "SalePrice": "₹12,999.00",
   "Model": "Crest"
 }

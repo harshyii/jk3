@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31PgOkTVuCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/317JjJLpyyL.jpg | https://m.media-amazon.com/images/I/317JjJLpyyL.jpg | https://m.media-amazon.com/images/I/31wO8Lur0mL.jpg | https://m.media-amazon.com/images/I/41C5wOwZplL.jpg | https://m.media-amazon.com/images/I/414EFwwB0aL.jpg | https://m.media-amazon.com/images/I/41K8ZiumvDL.jpg | https://m.media-amazon.com/images/I/41rCAMYR-bL.jpg | https://m.media-amazon.com/images/I/31PgOkTVuCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.6%",
   "SalePrice": "₹24,990.00",
   "Model": "Spk-100w-cart"
 }

@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/31CNtCCXRxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510n5HQc4HL.jpg | https://m.media-amazon.com/images/I/31CNtCCXRxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "120.0 Milliliters",
-  "Discount": 0,
+  "Discount": "9.96%",
   "SalePrice": "₹235.00",
   "Model": "PPW_001",
   "Country": "India"

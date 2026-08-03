@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41AgXzdRrxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51EjXHAeEoL.jpg | https://m.media-amazon.com/images/I/41zeX3FnG2L.jpg | https://m.media-amazon.com/images/I/51lUP6BzArL.jpg | https://m.media-amazon.com/images/I/51YpO-9mCpL.jpg | https://m.media-amazon.com/images/I/511RoRhlBVL.jpg | https://m.media-amazon.com/images/I/51P-j1O62pL.jpg | https://m.media-amazon.com/images/I/41AgXzdRrxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "23.55%",
   "SalePrice": "₹1,399.00",
   "Model": "T7386"
 }

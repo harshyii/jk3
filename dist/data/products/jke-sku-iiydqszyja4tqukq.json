@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41O5f0vN10L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41EE9uus9OL.jpg | https://m.media-amazon.com/images/I/31h6GPN8svL.jpg | https://m.media-amazon.com/images/I/41cuYnmaDML.jpg | https://m.media-amazon.com/images/I/41dzAdh-gVL.jpg | https://m.media-amazon.com/images/I/41DmMn1-ucL.jpg | https://m.media-amazon.com/images/I/41dLfEAq61L.jpg | https://m.media-amazon.com/images/I/41O5f0vN10L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "10.75%",
   "SalePrice": "₹1,204.00",
   "Model": "G2R/B",
   "Country": "India"

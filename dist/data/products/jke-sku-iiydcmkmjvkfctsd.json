@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/61TCI22X2mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715FfRYGncS.jpg | https://m.media-amazon.com/images/I/412fVRe7xsS.jpg | https://m.media-amazon.com/images/I/51DIhOr0lwL.jpg | https://m.media-amazon.com/images/I/61M2bWmaNTL.jpg | https://m.media-amazon.com/images/I/51PgyHqKImL.jpg | https://m.media-amazon.com/images/I/51IsYEbDbmL.jpg | https://m.media-amazon.com/images/I/514+TNjpIZL.jpg | https://m.media-amazon.com/images/I/61TCI22X2mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.0 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,230.42",
   "Model": "WAC_707_16SW",
   "Country": "USA"

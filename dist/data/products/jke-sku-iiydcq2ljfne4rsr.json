@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41E2vm5Xd3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41E2vm5Xd3L.jpg | https://m.media-amazon.com/images/I/41E2vm5Xd3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,279.07",
   "Model": "48-22-8175"
 }

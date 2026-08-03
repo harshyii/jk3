@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/318hTXv+3lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31LCWg8CYTL.jpg | https://m.media-amazon.com/images/I/31LCWg8CYTL.jpg | https://m.media-amazon.com/images/I/41ghKNRUClL.jpg | https://m.media-amazon.com/images/I/41DChxTeYNL.jpg | https://m.media-amazon.com/images/I/416wB6WwJUL.jpg | https://m.media-amazon.com/images/I/41xd+wZJuzL.jpg | https://m.media-amazon.com/images/I/41rCermiYKL.jpg | https://m.media-amazon.com/images/I/318hTXv+3lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "48.89%",
   "SalePrice": "₹4,599.00",
   "Model": "BG140204"
 }

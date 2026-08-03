@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41jEb+Oy8+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61rjRn3s9sL.jpg | https://m.media-amazon.com/images/I/41ghgQyuqWL.jpg | https://m.media-amazon.com/images/I/41PUQVRoVpL.jpg | https://m.media-amazon.com/images/I/41jEb+Oy8+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.74%",
   "SalePrice": "₹17,999.00",
   "Model": "MW102"
 }

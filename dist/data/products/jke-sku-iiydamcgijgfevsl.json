@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51HtaAaXdBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91wTCxKCKLL.jpg | https://m.media-amazon.com/images/I/51GKm+2nk4L.jpg | https://m.media-amazon.com/images/I/41sWJ1KP62L.jpg | https://m.media-amazon.com/images/I/51VkR6rIrYL.jpg | https://m.media-amazon.com/images/I/51ZW7IG058L.jpg | https://m.media-amazon.com/images/I/51l-goidwjL.jpg | https://m.media-amazon.com/images/I/41UFx8uU7fL.jpg | https://m.media-amazon.com/images/I/51HtaAaXdBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "62.59%",
   "SalePrice": "₹1,534.00",
   "Model": "EZ456"
 }

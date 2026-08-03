@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41p2ajDfQbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511wshjykmL.jpg | https://m.media-amazon.com/images/I/41nZXD4oKKL.jpg | https://m.media-amazon.com/images/I/41wH9KzTibL.jpg | https://m.media-amazon.com/images/I/31XT5k+G08L.jpg | https://m.media-amazon.com/images/I/415DMUn3GvL.jpg | https://m.media-amazon.com/images/I/41aHtB4cBlL.jpg | https://m.media-amazon.com/images/I/51jeBgj60AL.jpg | https://m.media-amazon.com/images/I/41p2ajDfQbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.54%",
   "SalePrice": "₹14,577.00",
   "Model": "BDERO600"
 }

@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31ncXSSi2mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sKIcWGH1L.jpg | https://m.media-amazon.com/images/I/31+0F2z4EpL.jpg | https://m.media-amazon.com/images/I/3170CI2QwOL.jpg | https://m.media-amazon.com/images/I/31ncXSSi2mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "3.67%",
   "SalePrice": "₹289.00",
   "Model": "PincerC012-7inch"
 }

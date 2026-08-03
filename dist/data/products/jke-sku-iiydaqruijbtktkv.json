@@ -84,9 +84,9 @@
     "https://m.media-amazon.com/images/I/51zOeLKd-iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31p+bB-uwNL.jpg | https://m.media-amazon.com/images/I/31p+bB-uwNL.jpg | https://m.media-amazon.com/images/I/4158U7nkOIL.jpg | https://m.media-amazon.com/images/I/51NnY-43KdL.jpg | https://m.media-amazon.com/images/I/51VE7K8wleL.jpg | https://m.media-amazon.com/images/I/31+jUMjCkcL.jpg | https://m.media-amazon.com/images/I/51zOeLKd-iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.56%",
   "SalePrice": "₹2,900.00",
   "Model": "FHSSWSTOWH16"
 }

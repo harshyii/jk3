@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41lEHBWEKML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PVCYpErrL.jpg | https://m.media-amazon.com/images/I/41EXpVlW2FL.jpg | https://m.media-amazon.com/images/I/51IBzfvMTgL.jpg | https://m.media-amazon.com/images/I/510UsRk5o5L.jpg | https://m.media-amazon.com/images/I/51g05YVbRvL.jpg | https://m.media-amazon.com/images/I/51bjIxqfKPL.jpg | https://m.media-amazon.com/images/I/51Dipo5jhfL.jpg | https://m.media-amazon.com/images/I/41lEHBWEKML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹648.00",
   "Model": "G240616",
   "Country": "USA"

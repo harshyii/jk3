@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51arTne0n3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71kADrlKKbL.jpg | https://m.media-amazon.com/images/I/412ZzlreeaL.jpg | https://m.media-amazon.com/images/I/51RtZRMobnL.jpg | https://m.media-amazon.com/images/I/41N-P-8bZNL.jpg | https://m.media-amazon.com/images/I/41BvepVg0ML.jpg | https://m.media-amazon.com/images/I/41hgq8wkfIL.jpg | https://m.media-amazon.com/images/I/51arTne0n3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.04%",
   "SalePrice": "₹6,955.00",
   "Model": "RGH9528"
 }

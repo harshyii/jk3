@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51YjU6uPzhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Tms98AS7L.jpg | https://m.media-amazon.com/images/I/51ynbpud66L.jpg | https://m.media-amazon.com/images/I/41BLSkljmaL.jpg | https://m.media-amazon.com/images/I/51C76fUwo3L.jpg | https://m.media-amazon.com/images/I/51woCSyoMrL.jpg | https://m.media-amazon.com/images/I/41pwNLXsatL.jpg | https://m.media-amazon.com/images/I/51YjU6uPzhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.6%",
   "SalePrice": "₹699.00",
   "Model": "TSB1653",
   "Country": "China"

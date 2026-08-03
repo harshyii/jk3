@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/510up7ahxlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ssK82glyL.jpg | https://m.media-amazon.com/images/I/513ZgmVFELL.jpg | https://m.media-amazon.com/images/I/61qu3bdWQFL.jpg | https://m.media-amazon.com/images/I/51hDZ82s+2L.jpg | https://m.media-amazon.com/images/I/51LPwmWDEwL.jpg | https://m.media-amazon.com/images/I/41UVjhX-WuL.jpg | https://m.media-amazon.com/images/I/51E4Vh3b5ZL.jpg | https://m.media-amazon.com/images/I/510up7ahxlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "70.88%",
   "SalePrice": "₹4,641.00",
   "Model": "COM105KT"
 }

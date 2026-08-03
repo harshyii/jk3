@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51xgCJU4S+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31GQIUK9dHL.jpg | https://m.media-amazon.com/images/I/31GQIUK9dHL.jpg | https://m.media-amazon.com/images/I/41MHZ7esk6L.jpg | https://m.media-amazon.com/images/I/51GntgyVtlL.jpg | https://m.media-amazon.com/images/I/51lTRCFjfyL.jpg | https://m.media-amazon.com/images/I/51xgCJU4S+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.39%",
   "SalePrice": "₹3,499.00",
   "Model": "AG4-95A"
 }

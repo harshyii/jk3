@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51POO89byrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81OS506kRZL.jpg | https://m.media-amazon.com/images/I/516qlusok0L.jpg | https://m.media-amazon.com/images/I/41WCuHYgT5L.jpg | https://m.media-amazon.com/images/I/41Uzir6gPVL.jpg | https://m.media-amazon.com/images/I/51tWa7PO28L.jpg | https://m.media-amazon.com/images/I/51c6rowsE3L.jpg | https://m.media-amazon.com/images/I/51wL+ot8RFL.jpg | https://m.media-amazon.com/images/I/51POO89byrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.72%",
   "SalePrice": "₹26,565.13",
   "Model": "DCS391B"
 }

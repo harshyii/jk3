@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51Zl9FR4kdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AKAUkBwZL.jpg | https://m.media-amazon.com/images/I/41vsT4e2YmL.jpg | https://m.media-amazon.com/images/I/41xZEuR82rL.jpg | https://m.media-amazon.com/images/I/410jbIfdDcL.jpg | https://m.media-amazon.com/images/I/51Zl9FR4kdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.85%",
   "SalePrice": "₹189.00",
   "Model": "9V",
   "Country": "India"

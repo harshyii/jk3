@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31p22INYwUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dH6PvJiDL.jpg | https://m.media-amazon.com/images/I/319bB+DFomL.jpg | https://m.media-amazon.com/images/I/31Sxh+Wp1LL.jpg | https://m.media-amazon.com/images/I/41iBm4JAckL.jpg | https://m.media-amazon.com/images/I/31p22INYwUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "750.0 Milliliters",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹9,010.00",
   "Model": "539197"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/510xu0z-YTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711oCbAKQML.jpg | https://m.media-amazon.com/images/I/41tB4kKOvDL.jpg | https://m.media-amazon.com/images/I/41yWhKuVX9L.jpg | https://m.media-amazon.com/images/I/41CFkK1H2+L.jpg | https://m.media-amazon.com/images/I/51lGmCx1zPL.jpg | https://m.media-amazon.com/images/I/51wmXuSvnAL.jpg | https://m.media-amazon.com/images/I/510xu0z-YTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹999.00",
   "Model": "DZ9245",
   "Country": "China"

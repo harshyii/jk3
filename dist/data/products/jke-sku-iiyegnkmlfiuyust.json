@@ -34,9 +34,9 @@
     "https://m.media-amazon.com/images/I/21aGI9olqEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21aGI9olqEL.jpg | https://m.media-amazon.com/images/I/21aGI9olqEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "14.82%",
   "SalePrice": "₹1,282.00",
   "Model": "PT-284"
 }

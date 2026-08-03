@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51eo5TjWnmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Om-APhpHL.jpg | https://m.media-amazon.com/images/I/41aZc4+vIKL.jpg | https://m.media-amazon.com/images/I/51eo5TjWnmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.81%",
   "SalePrice": "₹15,725.00",
   "Model": "DCH133NT"
 }

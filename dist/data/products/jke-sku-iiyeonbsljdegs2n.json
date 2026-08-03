@@ -91,9 +91,9 @@
     "https://m.media-amazon.com/images/I/41enUhjEjzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41054nTrZqL.jpg | https://m.media-amazon.com/images/I/21zhbzK0pBL.jpg | https://m.media-amazon.com/images/I/41ufK4zja2L.jpg | https://m.media-amazon.com/images/I/41fAshKrb1L.jpg | https://m.media-amazon.com/images/I/51TWOtFsDiL.jpg | https://m.media-amazon.com/images/I/41aTMT7IzmL.jpg | https://m.media-amazon.com/images/I/41IufYQ8P1L.jpg | https://m.media-amazon.com/images/I/41enUhjEjzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.57%",
   "SalePrice": "₹2,957.00",
   "Model": "1200DC33K350",
   "Country": "India"

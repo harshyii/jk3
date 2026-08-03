@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41PryeQyx0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xZ0ghRdBL.jpg | https://m.media-amazon.com/images/I/31kyIl7exmL.jpg | https://m.media-amazon.com/images/I/31OC-LlBAkL.jpg | https://m.media-amazon.com/images/I/31dj3195MaL.jpg | https://m.media-amazon.com/images/I/41pzbZUj0gL.jpg | https://m.media-amazon.com/images/I/51Dwii1OIFL.jpg | https://m.media-amazon.com/images/I/31y-lm1sluL.jpg | https://m.media-amazon.com/images/I/41PryeQyx0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.1%",
   "SalePrice": "₹18,204.79",
   "Model": "2460-20"
 }

@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31Yz3hgjpsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61z7Zxw7RBL.jpg | https://m.media-amazon.com/images/I/31Yz3hgjpsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "44.02%",
   "SalePrice": "₹1,399.00",
   "Model": "LB1220",
   "Country": "China"

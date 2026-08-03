@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31pMoAn0RiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51xrU6JmEKL.jpg | https://m.media-amazon.com/images/I/31TARLku8mL.jpg | https://m.media-amazon.com/images/I/31pOM33kPNL.jpg | https://m.media-amazon.com/images/I/31ixqQCu4NL.jpg | https://m.media-amazon.com/images/I/31pMoAn0RiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.00 Piece",
-  "Discount": 0,
+  "Discount": "56.86%",
   "SalePrice": "₹129.00",
   "Country": "India"
 }

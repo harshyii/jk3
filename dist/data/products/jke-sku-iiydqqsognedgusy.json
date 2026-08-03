@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41EWZKiSuSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61sLSBpUktL.jpg | https://m.media-amazon.com/images/I/31DND5ZP69L.jpg | https://m.media-amazon.com/images/I/31NbIiQ3D4L.jpg | https://m.media-amazon.com/images/I/41a8vLfglaL.jpg | https://m.media-amazon.com/images/I/51mV6-YM29L.jpg | https://m.media-amazon.com/images/I/41EWZKiSuSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "30.2%",
   "SalePrice": "₹2,105.03",
   "Model": "508001",
   "Country": "USA"

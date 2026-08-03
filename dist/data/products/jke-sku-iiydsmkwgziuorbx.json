@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41JuwamzGoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71y+GaTjk2L.jpg | https://m.media-amazon.com/images/I/41JuwamzGoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "4.0 Count",
-  "Discount": 0,
+  "Discount": "58.2%",
   "SalePrice": "₹4,180.00",
   "Country": "USA"
 }

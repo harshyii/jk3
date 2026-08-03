@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51ix-eQqBRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81r0mdPIadL.jpg | https://m.media-amazon.com/images/I/415eS1gm4uL.jpg | https://m.media-amazon.com/images/I/51JcPM-nP9L.jpg | https://m.media-amazon.com/images/I/31vCxom2bdL.jpg | https://m.media-amazon.com/images/I/41DurIVcNtL.jpg | https://m.media-amazon.com/images/I/51ix-eQqBRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "58.36%",
   "SalePrice": "₹3,510.00",
   "Model": "DCN8901050"
 }

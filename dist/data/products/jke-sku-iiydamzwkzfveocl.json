@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41OQy6UwYOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81e9cCFjtPL.jpg | https://m.media-amazon.com/images/I/41OQy6UwYOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.29%",
   "SalePrice": "₹6,594.00",
   "Model": "M20501",
   "Country": "USA"

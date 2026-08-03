@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51aZel3wq4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81GbWZmzVWL.jpg | https://m.media-amazon.com/images/I/51WSnLdBueL.jpg | https://m.media-amazon.com/images/I/51g6R-ibjLL.jpg | https://m.media-amazon.com/images/I/51mA7SKE1zL.jpg | https://m.media-amazon.com/images/I/51arTK-W1fL.jpg | https://m.media-amazon.com/images/I/51T3E6V65eL.jpg | https://m.media-amazon.com/images/I/51aZel3wq4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹9,000.00",
   "Model": "B0F3CY13L3"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51Xi-IyOquL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ATxGbRPhL.jpg | https://m.media-amazon.com/images/I/31rO5U90BvL.jpg | https://m.media-amazon.com/images/I/419Ia4xQWsL.jpg | https://m.media-amazon.com/images/I/416lXgFczNL.jpg | https://m.media-amazon.com/images/I/41tXYSrdtKL.jpg | https://m.media-amazon.com/images/I/51Xi-IyOquL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "30.1%",
   "SalePrice": "₹35,500.00",
   "Model": "899-631-1901-899-BA2-T160"
 }

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/5149N9qpITL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZkKntw1uL.jpg | https://m.media-amazon.com/images/I/41Ecn0hNOYL.jpg | https://m.media-amazon.com/images/I/41B9Rjo0ZXL.jpg | https://m.media-amazon.com/images/I/41okEMtu9MS.jpg | https://m.media-amazon.com/images/I/41+6qEvZfeL.jpg | https://m.media-amazon.com/images/I/519ovoDcCFL.jpg | https://m.media-amazon.com/images/I/21szxtRqmIL.jpg | https://m.media-amazon.com/images/I/5149N9qpITL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60%",
   "SalePrice": "₹16,749.00",
   "Model": "CPWB"
 }

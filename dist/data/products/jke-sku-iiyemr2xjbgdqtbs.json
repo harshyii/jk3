@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51AJidN1d7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ZpVxeiHNL.jpg | https://m.media-amazon.com/images/I/31cMYMW0q2L.jpg | https://m.media-amazon.com/images/I/51BObsu1xKL.jpg | https://m.media-amazon.com/images/I/41R+Rv66uUL.jpg | https://m.media-amazon.com/images/I/51HqlcGKLfL.jpg | https://m.media-amazon.com/images/I/41pMAgU3FfL.jpg | https://m.media-amazon.com/images/I/511hUZCGYlL.jpg | https://m.media-amazon.com/images/I/51AJidN1d7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "5.01%",
   "SalePrice": "₹949.00",
   "Model": "BT72PM03",
   "Country": "China"

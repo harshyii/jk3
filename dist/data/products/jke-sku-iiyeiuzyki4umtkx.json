@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/21cq3oklZpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61AtwzhuQTL.jpg | https://m.media-amazon.com/images/I/21F7TL8XgwL.jpg | https://m.media-amazon.com/images/I/31booeURT9L.jpg | https://m.media-amazon.com/images/I/211zcOvtRXL.jpg | https://m.media-amazon.com/images/I/21cq3oklZpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.17%",
   "SalePrice": "₹599.00",
   "Model": "1703"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51b-dCKgPeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NNePiRqML.jpg | https://m.media-amazon.com/images/I/51b-dCKgPeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "22.88%",
   "SalePrice": "₹5,990.00",
   "Model": "Milwaukee - 49-22-1110",
   "Country": "USA"

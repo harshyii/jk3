@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51mAMah8NiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71cwrIcI2xL.jpg | https://m.media-amazon.com/images/I/41ervca9CpL.jpg | https://m.media-amazon.com/images/I/51vwdoa-L0L.jpg | https://m.media-amazon.com/images/I/51HqXW6aHWL.jpg | https://m.media-amazon.com/images/I/51ZNo0mW4+L.jpg | https://m.media-amazon.com/images/I/519ytYa+QdL.jpg | https://m.media-amazon.com/images/I/51yNg4ua5UL.jpg | https://m.media-amazon.com/images/I/51mAMah8NiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "72.88%",
   "SalePrice": "₹2,533.85",
   "Model": "AIR_101_16SW"
 }

@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31DBliBUSZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51M8YQtRkIL.jpg | https://m.media-amazon.com/images/I/41si35XWB0L.jpg | https://m.media-amazon.com/images/I/31DBliBUSZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.59%",
   "SalePrice": "₹4,800.00",
   "Model": "Pressure Washer 12V"
 }

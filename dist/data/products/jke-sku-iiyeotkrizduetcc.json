@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41otbTh-d7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uPSgW24LL.jpg | https://m.media-amazon.com/images/I/31L3K57hnaL.jpg | https://m.media-amazon.com/images/I/41CTCej1KxL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51IY-1sxNSL.jpg | https://m.media-amazon.com/images/I/417GhjhTeVL.jpg | https://m.media-amazon.com/images/I/416qUNgz4mL.jpg | https://m.media-amazon.com/images/I/41sJxXY9F3L.jpg | https://m.media-amazon.com/images/I/41otbTh-d7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹5,999.00",
   "Model": "Powerlit Ultra 240",
   "Country": "India"

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51RSqRSW+hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61h1KrOq8FL.jpg | https://m.media-amazon.com/images/I/31EKOXPyvWL.jpg | https://m.media-amazon.com/images/I/31IhhZ9ossL.jpg | https://m.media-amazon.com/images/I/41F6fXeI+WL.jpg | https://m.media-amazon.com/images/I/21GykVfdFCL.jpg | https://m.media-amazon.com/images/I/41M2DIbqc1L.jpg | https://m.media-amazon.com/images/I/51qGMdq8irL.jpg | https://m.media-amazon.com/images/I/51RSqRSW+hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹10,630.09",
   "Model": "P738"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/11SqXfrAyML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41yurwRLUdL.jpg | https://m.media-amazon.com/images/I/318YQ9lDoTL.jpg | https://m.media-amazon.com/images/I/11SqXfrAyML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹25,542.00",
   "Model": "B-55706"
 }

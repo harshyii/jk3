@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/21s453cC5ZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41xhf19NSgL.jpg | https://m.media-amazon.com/images/I/21s453cC5ZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.46%",
   "SalePrice": "₹2,793.21",
   "Model": "435000",
   "Country": "USA"

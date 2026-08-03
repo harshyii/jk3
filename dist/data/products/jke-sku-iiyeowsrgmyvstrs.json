@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51DqIbDDbPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Z44+EfZCL.jpg | https://m.media-amazon.com/images/I/311M4Ikyd1L.jpg | https://m.media-amazon.com/images/I/51v1GvU0+9L.jpg | https://m.media-amazon.com/images/I/51qNEPsVZnL.jpg | https://m.media-amazon.com/images/I/516mtKpIqvL.jpg | https://m.media-amazon.com/images/I/51q15YAhQsL.jpg | https://m.media-amazon.com/images/I/51DqIbDDbPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "73.07%",
   "SalePrice": "₹269.00",
   "Model": "SP99"
 }

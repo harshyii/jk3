@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71RgFBBcxlL.jpg | https://m.media-amazon.com/images/I/41-IsITeYnL.jpg | https://m.media-amazon.com/images/I/41TZ6OVyagL.jpg | https://m.media-amazon.com/images/I/41mAMt5ogmL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.74%",
   "SalePrice": "₹349.00",
   "Model": "FCP+08 + YT+125"
 }

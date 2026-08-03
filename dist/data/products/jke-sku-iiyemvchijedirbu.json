@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/31TAZHoLAXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mBmUNLJ-L.jpg | https://m.media-amazon.com/images/I/2173N3JOOYL.jpg | https://m.media-amazon.com/images/I/415LcjlykKL.jpg | https://m.media-amazon.com/images/I/41WB4OmGoaL.jpg | https://m.media-amazon.com/images/I/31-JJ4uP7YL.jpg | https://m.media-amazon.com/images/I/31Zz29PNzdL.jpg | https://m.media-amazon.com/images/I/318h1jKaXVL.jpg | https://m.media-amazon.com/images/I/31TAZHoLAXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "60.08%",
   "SalePrice": "₹319.00",
   "Model": "Stpas001"
 }

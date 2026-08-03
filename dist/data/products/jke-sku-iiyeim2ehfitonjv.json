@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51hgU21ppUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71o2uITJ9TL.jpg | https://m.media-amazon.com/images/I/316-w2kAS-L.jpg | https://m.media-amazon.com/images/I/51YkCvsNGfL.jpg | https://m.media-amazon.com/images/I/41omPK6iC7L.jpg | https://m.media-amazon.com/images/I/51dc-vyA32L.jpg | https://m.media-amazon.com/images/I/31DE9PubQWL.jpg | https://m.media-amazon.com/images/I/51hgU21ppUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "20000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "14.29%",
   "SalePrice": "₹11,999.00",
   "Model": "NEW GEN 4 Ltr",
   "Country": "India"

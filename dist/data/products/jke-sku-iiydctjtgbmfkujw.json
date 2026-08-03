@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41BMf0f5nRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81NO0Eis27L.jpg | https://m.media-amazon.com/images/I/41BMf0f5nRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.68%",
   "SalePrice": "₹839.00",
   "Model": "FN50-Fibreglass13mmX50m",
   "Country": "India"

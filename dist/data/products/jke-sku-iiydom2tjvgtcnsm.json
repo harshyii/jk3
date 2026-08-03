@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51Fm-d9d8GL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61R7imvmLZL.jpg | https://m.media-amazon.com/images/I/51Vzb1OkIBL.jpg | https://m.media-amazon.com/images/I/51Zb111indL.jpg | https://m.media-amazon.com/images/I/41hReEDaNWL.jpg | https://m.media-amazon.com/images/I/51Fm-d9d8GL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.63%",
   "SalePrice": "₹23,374.00",
   "Model": "DCH133M1-QW"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51XL5iYDjdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7129XlVezcL.jpg | https://m.media-amazon.com/images/I/412Naekx4SL.jpg | https://m.media-amazon.com/images/I/41xRWTOsqAL.jpg | https://m.media-amazon.com/images/I/41ZgorWuwCL.jpg | https://m.media-amazon.com/images/I/515JJDegWQL.jpg | https://m.media-amazon.com/images/I/41fKLLj7GBL.jpg | https://m.media-amazon.com/images/I/51XL5iYDjdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.78%",
   "SalePrice": "₹2,218.00",
   "Model": "ID7118"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51nn6lRO4kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81OT9dai4bL.jpg | https://m.media-amazon.com/images/I/41WNNM55n0L.jpg | https://m.media-amazon.com/images/I/51Fz9mCAIqL.jpg | https://m.media-amazon.com/images/I/51awyR6Z9sL.jpg | https://m.media-amazon.com/images/I/51jMnkF4MRL.jpg | https://m.media-amazon.com/images/I/51MPS29xm3L.jpg | https://m.media-amazon.com/images/I/51BrU75hjnL.jpg | https://m.media-amazon.com/images/I/51nn6lRO4kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "118.3 Milliliters",
-  "Discount": 0,
+  "Discount": "64.65%",
   "SalePrice": "₹1,096.00",
   "Model": "AIR_102_04SW",
   "Country": "USA"

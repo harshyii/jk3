@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/21Xo9BNUOCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eT9E4PAoL.jpg | https://m.media-amazon.com/images/I/51UwUQ4mLXL.jpg | https://m.media-amazon.com/images/I/41G4h4IA5QL.jpg | https://m.media-amazon.com/images/I/31IYJ493KdL.jpg | https://m.media-amazon.com/images/I/41SvV0h489L.jpg | https://m.media-amazon.com/images/I/51518KfAdQL.jpg | https://m.media-amazon.com/images/I/21Xo9BNUOCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.1%",
   "SalePrice": "₹719.00",
   "Model": "DS-AMZ042"
 }

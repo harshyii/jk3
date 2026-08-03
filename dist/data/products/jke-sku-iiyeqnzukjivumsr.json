@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41ncIqOtXkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nbKfOtdoL.jpg | https://m.media-amazon.com/images/I/31jyvYuRoJL.jpg | https://m.media-amazon.com/images/I/41h1ZqeGAlL.jpg | https://m.media-amazon.com/images/I/41ncIqOtXkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.04%",
   "SalePrice": "₹177.00",
   "Model": "D090408-D090308"
 }

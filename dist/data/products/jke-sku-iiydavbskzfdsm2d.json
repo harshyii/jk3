@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/416dIFem2OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71VmiKQqsaL.jpg | https://m.media-amazon.com/images/I/41GFHGIAXXL.jpg | https://m.media-amazon.com/images/I/4188PTcSEvL.jpg | https://m.media-amazon.com/images/I/314vvZAQogL.jpg | https://m.media-amazon.com/images/I/31pUbAi0seL.jpg | https://m.media-amazon.com/images/I/31TCYro5vSL.jpg | https://m.media-amazon.com/images/I/41VguDXD0UL.jpg | https://m.media-amazon.com/images/I/416dIFem2OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "26.52%",
   "SalePrice": "₹8,034.00",
   "Model": "DR260C"
 }

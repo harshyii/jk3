@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41H-BgzfdcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51D4JXZkKtL.jpg | https://m.media-amazon.com/images/I/310MgSf1I+L.jpg | https://m.media-amazon.com/images/I/31xr7kyK5KL.jpg | https://m.media-amazon.com/images/I/41uDtL0HfZL.jpg | https://m.media-amazon.com/images/I/41oTb+hwhDL.jpg | https://m.media-amazon.com/images/I/41CsxYn-R5L.jpg | https://m.media-amazon.com/images/I/41H-BgzfdcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63.62%",
   "SalePrice": "₹6,464.00",
   "Model": "49-66-6742"
 }

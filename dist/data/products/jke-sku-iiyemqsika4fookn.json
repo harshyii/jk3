@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51GBfhc2lcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/819cj+OHMOL.jpg | https://m.media-amazon.com/images/I/51uqkomuwsL.jpg | https://m.media-amazon.com/images/I/51wKXLgrxQL.jpg | https://m.media-amazon.com/images/I/516I6qwJZpL.jpg | https://m.media-amazon.com/images/I/418+jmuDa+L.jpg | https://m.media-amazon.com/images/I/51irQ1TFWTL.jpg | https://m.media-amazon.com/images/I/51KvYcKq3hL.jpg | https://m.media-amazon.com/images/I/51GBfhc2lcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "266.1618 Milliliters",
-  "Discount": 0,
+  "Discount": "69.83%",
   "SalePrice": "₹5,914.06",
   "Model": "AIRSPRAY20103"
 }

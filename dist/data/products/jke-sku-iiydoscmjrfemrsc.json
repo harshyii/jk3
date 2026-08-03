@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/313nn2CuswL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/313nn2CuswL.jpg | https://m.media-amazon.com/images/I/313nn2CuswL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.56%",
   "SalePrice": "₹3,948.00",
   "Country": "‎China"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41zzKFEYx9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NFfnFguuL.jpg | https://m.media-amazon.com/images/I/31V1RA1ljaL.jpg | https://m.media-amazon.com/images/I/31ZZMpNkVTL.jpg | https://m.media-amazon.com/images/I/41GZfx+lxJL.jpg | https://m.media-amazon.com/images/I/41zzKFEYx9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.00 Count",
-  "Discount": 0,
+  "Discount": "0.5%",
   "SalePrice": "₹995.00",
   "Model": "CP-100",
   "Country": "India"

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51mEPufDYCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KiVkWeCKL.jpg | https://m.media-amazon.com/images/I/21ZHk1JgJiL.jpg | https://m.media-amazon.com/images/I/31af5rcwlCL.jpg | https://m.media-amazon.com/images/I/41LbomkYs+L.jpg | https://m.media-amazon.com/images/I/51B8h1i44cL.jpg | https://m.media-amazon.com/images/I/51g5oXIAi-L.jpg | https://m.media-amazon.com/images/I/41nQW8rpbUL.jpg | https://m.media-amazon.com/images/I/51mEPufDYCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "48.9%",
   "SalePrice": "₹255.00",
   "Model": "TH-T32"
 }

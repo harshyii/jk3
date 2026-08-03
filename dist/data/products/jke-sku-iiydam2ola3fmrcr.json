@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81vb0qQNjjL.jpg | https://m.media-amazon.com/images/I/51UdX-CatPL.jpg | https://m.media-amazon.com/images/I/41Ka+WRlEpL.jpg | https://m.media-amazon.com/images/I/41tAoBp1YRL.jpg | https://m.media-amazon.com/images/I/41B8xSwpWKL.jpg | https://m.media-amazon.com/images/I/41pK5rVM85L.jpg | https://m.media-amazon.com/images/I/41HZZA9z0xL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "41.09%",
   "SalePrice": "₹1,289.00",
   "Model": "DWMTC15"
 }

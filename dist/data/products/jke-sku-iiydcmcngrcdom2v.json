@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41O8OvhrP-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-wHl-GRHL.jpg | https://m.media-amazon.com/images/I/41AcVH3kZ-L.jpg | https://m.media-amazon.com/images/I/518G2GN6X6L.jpg | https://m.media-amazon.com/images/I/51V9IOZZTWL.jpg | https://m.media-amazon.com/images/I/41WjJ661aML.jpg | https://m.media-amazon.com/images/I/41XBy0neFEL.jpg | https://m.media-amazon.com/images/I/41O8OvhrP-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.41%",
   "SalePrice": "₹3,605.00",
   "Model": "PRO-DL60"
 }

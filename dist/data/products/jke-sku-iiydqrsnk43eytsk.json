@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41eOQPeJRBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Vyxk6mFVL.jpg | https://m.media-amazon.com/images/I/41wtkizT6uL.jpg | https://m.media-amazon.com/images/I/41cC+oev97L.jpg | https://m.media-amazon.com/images/I/410yyij0HFL.jpg | https://m.media-amazon.com/images/I/41eOQPeJRBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.9%",
   "SalePrice": "₹4,959.00",
   "Model": "DWST83294-1"
 }

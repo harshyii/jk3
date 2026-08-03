@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/410zXB2lLSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XIPh6e0pL.jpg | https://m.media-amazon.com/images/I/515ND6+2DEL.jpg | https://m.media-amazon.com/images/I/412QKS0o0bL.jpg | https://m.media-amazon.com/images/I/31Djh4GYsZL.jpg | https://m.media-amazon.com/images/I/31VRb-ll88L.jpg | https://m.media-amazon.com/images/I/31RWm8WSomL.jpg | https://m.media-amazon.com/images/I/41ENGvsVG7L.jpg | https://m.media-amazon.com/images/I/410zXB2lLSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.01%",
   "SalePrice": "₹4,269.00",
   "Model": "CDLI1228"
 }

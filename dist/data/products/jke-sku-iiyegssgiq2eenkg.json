@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41loXWTMw3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7185zU9VXBL.jpg | https://m.media-amazon.com/images/I/41JfIVzgbZL.jpg | https://m.media-amazon.com/images/I/31maQaq7UVL.jpg | https://m.media-amazon.com/images/I/41L0ElxcriL.jpg | https://m.media-amazon.com/images/I/41p9xrSyRQL.jpg | https://m.media-amazon.com/images/I/41loXWTMw3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "45.61%",
   "SalePrice": "₹489.00",
   "Model": "Gearbox G10SS"
 }

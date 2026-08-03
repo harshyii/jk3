@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41X6UE42TgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ur4hznOXL.jpg | https://m.media-amazon.com/images/I/317hiYUoEQL.jpg | https://m.media-amazon.com/images/I/31dY370m0FL.jpg | https://m.media-amazon.com/images/I/418jLYFkr5L.jpg | https://m.media-amazon.com/images/I/516eqTOhqsL.jpg | https://m.media-amazon.com/images/I/41+gNcXEizL.jpg | https://m.media-amazon.com/images/I/31ZcHrjLFwL.jpg | https://m.media-amazon.com/images/I/41X6UE42TgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "3.34%",
   "SalePrice": "₹694.00",
   "Model": "32530"
 }

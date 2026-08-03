@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51phpcWGjEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PRr-AIz3L.jpg | https://m.media-amazon.com/images/I/31tObfttmQL.jpg | https://m.media-amazon.com/images/I/41aEffjATuL.jpg | https://m.media-amazon.com/images/I/41roGdkQBLL.jpg | https://m.media-amazon.com/images/I/41vivimOmAL.jpg | https://m.media-amazon.com/images/I/41By2uMOa3L.jpg | https://m.media-amazon.com/images/I/41X8P+7WpEL.jpg | https://m.media-amazon.com/images/I/51phpcWGjEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "2.53%",
   "SalePrice": "₹193.00",
   "Model": "BL230"
 }

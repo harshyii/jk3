@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41OkVyDUgZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qVtNGNs9L.jpg | https://m.media-amazon.com/images/I/41UDPOj5EBL.jpg | https://m.media-amazon.com/images/I/71e7bWM1wSL.jpg | https://m.media-amazon.com/images/I/51vmF+kfCVL.jpg | https://m.media-amazon.com/images/I/51jf+rKF7TL.jpg | https://m.media-amazon.com/images/I/51Kw2PGTDdL.jpg | https://m.media-amazon.com/images/I/41H5Ix-JxcL.jpg | https://m.media-amazon.com/images/I/41OkVyDUgZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.3%",
   "SalePrice": "₹17,890.00",
   "Model": "GHWRAPF025"
 }

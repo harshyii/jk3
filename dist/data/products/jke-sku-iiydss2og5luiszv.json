@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51oiq8a-20L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/316SktUBqTL.jpg | https://m.media-amazon.com/images/I/316SktUBqTL.jpg | https://m.media-amazon.com/images/I/51hpuF2+IpL.jpg | https://m.media-amazon.com/images/I/51bcZjWbQ2L.jpg | https://m.media-amazon.com/images/I/51PBhJl43NL.jpg | https://m.media-amazon.com/images/I/51oiq8a-20L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹1,800.00",
   "Model": "ED50028)"
 }

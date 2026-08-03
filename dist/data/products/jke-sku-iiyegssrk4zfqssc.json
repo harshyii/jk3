@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41hkCqqJPdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61U2Kp3XaOL.jpg | https://m.media-amazon.com/images/I/416LU9wKdnL.jpg | https://m.media-amazon.com/images/I/51fj3XohLyL.jpg | https://m.media-amazon.com/images/I/51Ro1RMR5jL.jpg | https://m.media-amazon.com/images/I/51oh8IoKTGL.jpg | https://m.media-amazon.com/images/I/516WDiAkm3L.jpg | https://m.media-amazon.com/images/I/51yt9cj9mqL.jpg | https://m.media-amazon.com/images/I/41hkCqqJPdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,995.83",
   "Model": "10AWG-SAE-MC-4-1FT-2PCS",
   "Country": "USA"

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41gRV0jVpKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ny2FdX4vL.jpg | https://m.media-amazon.com/images/I/31U4UT97YSL.jpg | https://m.media-amazon.com/images/I/418M2LVOU+L.jpg | https://m.media-amazon.com/images/I/21iw8Qy8ELL.jpg | https://m.media-amazon.com/images/I/51t+mbpEMoL.jpg | https://m.media-amazon.com/images/I/41gRV0jVpKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹3,633.00",
   "Model": "MTNF9-XJ"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41dxsI6S9yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81oIeRkACkL.jpg | https://m.media-amazon.com/images/I/51mou0O9U+L.jpg | https://m.media-amazon.com/images/I/517VzrFhHqL.jpg | https://m.media-amazon.com/images/I/31XddxWuGCL.jpg | https://m.media-amazon.com/images/I/51EPhNoyYrL.jpg | https://m.media-amazon.com/images/I/51gKwRpdQtL.jpg | https://m.media-amazon.com/images/I/41dxsI6S9yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.00 Count",
-  "Discount": 0,
+  "Discount": "14.72%",
   "SalePrice": "₹255.00",
   "Model": "CABLETIES_250X3.6_BLACK_100"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51YG6sUtPtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71e6JTfk-lL.jpg | https://m.media-amazon.com/images/I/41Q0669N8YL.jpg | https://m.media-amazon.com/images/I/B11qoCkEEjL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/610atSAewdL.jpg | https://m.media-amazon.com/images/I/51voEmKSvTL.jpg | https://m.media-amazon.com/images/I/51NvBkIQMwL.jpg | https://m.media-amazon.com/images/I/517xVBDAkBL.jpg | https://m.media-amazon.com/images/I/51YG6sUtPtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.18 Milliliters",
-  "Discount": 0,
+  "Discount": "60.01%",
   "SalePrice": "₹3,077.00",
   "Model": "SPI22016SW"
 }

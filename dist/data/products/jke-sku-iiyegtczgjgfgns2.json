@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51KIbdR6e+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71v-ugLNIpL.jpg | https://m.media-amazon.com/images/I/41gri-bqqbL.jpg | https://m.media-amazon.com/images/I/51rGDOWjOOL.jpg | https://m.media-amazon.com/images/I/51M-ZtJQ4bL.jpg | https://m.media-amazon.com/images/I/51qs1+43TYL.jpg | https://m.media-amazon.com/images/I/41M9MH95KKL.jpg | https://m.media-amazon.com/images/I/51I2+6Ul8-L.jpg | https://m.media-amazon.com/images/I/51KIbdR6e+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.98%",
   "SalePrice": "₹6,897.00",
   "Model": "M20032",
   "Country": "USA"

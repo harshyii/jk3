@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51-w3fTr34L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61S2rZvk83L.jpg | https://m.media-amazon.com/images/I/41xtu8P6P3L.jpg | https://m.media-amazon.com/images/I/31cIK+fiHpL.jpg | https://m.media-amazon.com/images/I/41MMSiXJ-xL.jpg | https://m.media-amazon.com/images/I/51zZa1rHJsL.jpg | https://m.media-amazon.com/images/I/51iBDrBqbVL.jpg | https://m.media-amazon.com/images/I/518DakU+c8L.jpg | https://m.media-amazon.com/images/I/51-w3fTr34L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,162.73",
   "Model": "48-22-1230",
   "Country": "USA"

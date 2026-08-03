@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/31NCx5YYlxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41nscam2GmL.jpg | https://m.media-amazon.com/images/I/31NCx5YYlxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.32%",
   "SalePrice": "₹6,900.00",
   "Model": "DSF02-180"
 }

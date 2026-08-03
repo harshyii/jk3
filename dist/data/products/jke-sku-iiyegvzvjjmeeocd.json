@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51TKrrBWMzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TV54YMW1L.jpg | https://m.media-amazon.com/images/I/41MY5eCCE+L.jpg | https://m.media-amazon.com/images/I/41pBav+TzfL.jpg | https://m.media-amazon.com/images/I/51EB-ML7QIL.jpg | https://m.media-amazon.com/images/I/51TKrrBWMzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "53.34%",
   "SalePrice": "₹2,799.00",
   "Model": "Upgraded Version"
 }

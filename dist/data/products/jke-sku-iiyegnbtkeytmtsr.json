@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51kSMU2taRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61f+XvITshL.jpg | https://m.media-amazon.com/images/I/41WfUrPjb5L.jpg | https://m.media-amazon.com/images/I/41OOTZHpE7L.jpg | https://m.media-amazon.com/images/I/41D9yLl3JhL.jpg | https://m.media-amazon.com/images/I/41aXYIjGC7L.jpg | https://m.media-amazon.com/images/I/51kSMU2taRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.72%",
   "SalePrice": "₹4,213.00",
   "Model": "CPAG-5-1200W RS"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41XoLCjwQLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81kL5KEXKoL.jpg | https://m.media-amazon.com/images/I/414Wh3yOmwL.jpg | https://m.media-amazon.com/images/I/31pEQwOkLEL.jpg | https://m.media-amazon.com/images/I/119AWyzS6KL.jpg | https://m.media-amazon.com/images/I/51nPSVn0IHL.jpg | https://m.media-amazon.com/images/I/41MkQ58FxfL.jpg | https://m.media-amazon.com/images/I/31DUCNbinUL.jpg | https://m.media-amazon.com/images/I/41XoLCjwQLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "54.76%",
   "SalePrice": "₹1,900.12",
   "Model": "NS18-125"
 }

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51XnaQJMH-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wCmrCEspL.jpg | https://m.media-amazon.com/images/I/41xOVWOrEaL.jpg | https://m.media-amazon.com/images/I/81Cpelpv0kL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/515h+D6wU6L.jpg | https://m.media-amazon.com/images/I/51O6v98hBbL.jpg | https://m.media-amazon.com/images/I/51LFEdmNSFL.jpg | https://m.media-amazon.com/images/I/41hlr3ZekKL.jpg | https://m.media-amazon.com/images/I/51XnaQJMH-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "34%",
   "SalePrice": "₹462.00",
   "Model": "Wash & Wax Car Shampoo"
 }

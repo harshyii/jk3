@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51jvA1+0S1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714ASmZokIL.jpg | https://m.media-amazon.com/images/I/41w8K9Xp+hL.jpg | https://m.media-amazon.com/images/I/51B785x2SPL.jpg | https://m.media-amazon.com/images/I/5163oeWozoL.jpg | https://m.media-amazon.com/images/I/512l4CfwF0L.jpg | https://m.media-amazon.com/images/I/51ZZQYlYZ-L.jpg | https://m.media-amazon.com/images/I/51BnkrJyTDL.jpg | https://m.media-amazon.com/images/I/51jvA1+0S1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,932.81",
   "Model": "M6PFP2",
   "Country": "USA"

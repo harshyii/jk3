@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41b9fAqiN5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61D6434fasL.jpg | https://m.media-amazon.com/images/I/31wsO2N7YEL.jpg | https://m.media-amazon.com/images/I/41oghhi-a7L.jpg | https://m.media-amazon.com/images/I/41oLw4KuOwL.jpg | https://m.media-amazon.com/images/I/31BNRALGxhL.jpg | https://m.media-amazon.com/images/I/41CgZnngPRL.jpg | https://m.media-amazon.com/images/I/41WJvDGY0hL.jpg | https://m.media-amazon.com/images/I/41b9fAqiN5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.1%",
   "SalePrice": "₹2,615.00",
   "Model": "MTJS1-XJ"
 }

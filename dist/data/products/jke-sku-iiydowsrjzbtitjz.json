@@ -45,8 +45,8 @@
     "https://m.media-amazon.com/images/I/31xst08OmFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PFIFgIFzL.jpg | https://m.media-amazon.com/images/I/31JxRle83ML.jpg | https://m.media-amazon.com/images/I/31xst08OmFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Milliliters",
-  "Discount": 0,
+  "Discount": "59.05%",
   "SalePrice": "₹389.00"
 }

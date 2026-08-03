@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41lM-X4QYFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61exvfc5yXL.jpg | https://m.media-amazon.com/images/I/31dzT3tuJCL.jpg | https://m.media-amazon.com/images/I/41lM-X4QYFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.63%",
   "SalePrice": "₹556.00",
   "Model": "EPB820301"
 }

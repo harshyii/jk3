@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41gZaH3bQfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aCMYsXzuL.jpg | https://m.media-amazon.com/images/I/31toqsHp63L.jpg | https://m.media-amazon.com/images/I/31tPXpb4A1L.jpg | https://m.media-amazon.com/images/I/31McZXUJCgL.jpg | https://m.media-amazon.com/images/I/51xVElU9j4L.jpg | https://m.media-amazon.com/images/I/410S2y6l5PL.jpg | https://m.media-amazon.com/images/I/41gZaH3bQfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "74.92%",
   "SalePrice": "₹75.00",
   "Model": "MiniSolarPanel"
 }

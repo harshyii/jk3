@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41m0Z+m4jqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bXyuOwY2L.jpg | https://m.media-amazon.com/images/I/310A+v3oKyL.jpg | https://m.media-amazon.com/images/I/41zq5O-PhWL.jpg | https://m.media-amazon.com/images/I/51UAckIUzUL.jpg | https://m.media-amazon.com/images/I/417dat0q8ML.jpg | https://m.media-amazon.com/images/I/41OrSq+N4UL.jpg | https://m.media-amazon.com/images/I/41aQxB1qhyL.jpg | https://m.media-amazon.com/images/I/41m0Z+m4jqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "50.42%",
   "SalePrice": "₹347.06",
   "Model": "FT-3565",
   "Country": "China"

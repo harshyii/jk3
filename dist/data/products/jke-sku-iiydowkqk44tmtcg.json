@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41-ZtPOBjZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71S9rl-HJFL.jpg | https://m.media-amazon.com/images/I/31uRAJdK4sL.jpg | https://m.media-amazon.com/images/I/31OKywC1-KL.jpg | https://m.media-amazon.com/images/I/5176i6RhU5L.jpg | https://m.media-amazon.com/images/I/41-ZtPOBjZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.83%",
   "SalePrice": "₹651.00",
   "Model": "wigson red hammer 2.5lb+stencil"
 }

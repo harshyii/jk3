@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41ibKTsqLgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+38RRik7L.jpg | https://m.media-amazon.com/images/I/41dxTziZytL.jpg | https://m.media-amazon.com/images/I/31uxcqxyxLL.jpg | https://m.media-amazon.com/images/I/51a+rdS7tNL.jpg | https://m.media-amazon.com/images/I/51OVg50h9bL.jpg | https://m.media-amazon.com/images/I/51Qa-tiVbQL.jpg | https://m.media-amazon.com/images/I/51PYbg0Ze7L.jpg | https://m.media-amazon.com/images/I/41ibKTsqLgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "591.0 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,920.95",
   "Model": "53837",
   "Country": "USA"

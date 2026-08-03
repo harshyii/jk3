@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41CGZdY6bQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7173JSo7MAL.jpg | https://m.media-amazon.com/images/I/41ci19pUkIL.jpg | https://m.media-amazon.com/images/I/312XyOiG4ZL.jpg | https://m.media-amazon.com/images/I/31kNvVJU6uL.jpg | https://m.media-amazon.com/images/I/41CGZdY6bQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "70.35%",
   "SalePrice": "₹59.00",
   "Model": "SOLAR 80X40"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41MQyzupmtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41cLOqFDwOL.jpg | https://m.media-amazon.com/images/I/41cLOqFDwOL.jpg | https://m.media-amazon.com/images/I/41TzlyrI+wL.jpg | https://m.media-amazon.com/images/I/41MQyzupmtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.05%",
   "SalePrice": "₹2,599.00",
   "Model": "‎15MTR4",
   "Country": "India"

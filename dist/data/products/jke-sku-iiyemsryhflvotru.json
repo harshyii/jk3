@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31TDcbRxFCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/418W15ugJNL.jpg | https://m.media-amazon.com/images/I/11vH5Qf5hEL.jpg | https://m.media-amazon.com/images/I/21NwWyOX03L.jpg | https://m.media-amazon.com/images/I/21LkycGByLL.jpg | https://m.media-amazon.com/images/I/21+JTfF7trL.jpg | https://m.media-amazon.com/images/I/31TDcbRxFCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "76.76%",
   "SalePrice": "₹165.00",
   "Model": "CSP/OF/SF/25G"
 }

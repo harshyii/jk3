@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51zMKlbnr8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51i4eK9+w3L.jpg | https://m.media-amazon.com/images/I/318sczH8g7L.jpg | https://m.media-amazon.com/images/I/516YAYZ9irL.jpg | https://m.media-amazon.com/images/I/414SYLJNAKL.jpg | https://m.media-amazon.com/images/I/51T8rMuQTOL.jpg | https://m.media-amazon.com/images/I/41vdO3vwSgL.jpg | https://m.media-amazon.com/images/I/51zMKlbnr8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "36.67%",
   "SalePrice": "₹3,799.00",
   "Model": "DTBPWAWG2"
 }

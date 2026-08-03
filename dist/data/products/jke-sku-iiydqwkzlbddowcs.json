@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41tMfX7r-2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Q53XnduWL.jpg | https://m.media-amazon.com/images/I/41y6MLxB-eL.jpg | https://m.media-amazon.com/images/I/41VVZmcwOXL.jpg | https://m.media-amazon.com/images/I/31HajG-7kTL.jpg | https://m.media-amazon.com/images/I/41YcpU5f31L.jpg | https://m.media-amazon.com/images/I/41VZpMzKqAL.jpg | https://m.media-amazon.com/images/I/41HzptBO3hL.jpg | https://m.media-amazon.com/images/I/41tMfX7r-2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.37%",
   "SalePrice": "₹7,678.00",
   "Model": "ZT-JKSXC-0210311SZ-100S-60S-35S",
   "Country": "USA"

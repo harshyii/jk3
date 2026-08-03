@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51UQp-jMF+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/716x1rXVs7L.jpg | https://m.media-amazon.com/images/I/41V23+TSGVL.jpg | https://m.media-amazon.com/images/I/511KWQw8PfL.jpg | https://m.media-amazon.com/images/I/41nr8r0rhVL.jpg | https://m.media-amazon.com/images/I/41vRi36dULL.jpg | https://m.media-amazon.com/images/I/51emrx+mrlL.jpg | https://m.media-amazon.com/images/I/51UQp-jMF+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.1%",
   "SalePrice": "₹719.00",
   "Model": "DS-AMZ036"
 }

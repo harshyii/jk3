@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/116bKRQ0s0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51pkfTImWPL.jpg | https://m.media-amazon.com/images/I/21EVqqp8jJL.jpg | https://m.media-amazon.com/images/I/116bKRQ0s0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.5%",
   "SalePrice": "₹594.00",
   "Model": "1706"
 }

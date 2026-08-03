@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Dk459MCTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qtIJNWgyL.jpg | https://m.media-amazon.com/images/I/31WCnbo9DKL.jpg | https://m.media-amazon.com/images/I/318BNl856HL.jpg | https://m.media-amazon.com/images/I/21Vg4wWtLML.jpg | https://m.media-amazon.com/images/I/41Dk459MCTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "9.84 Feet",
-  "Discount": 0,
+  "Discount": "57.26%",
   "SalePrice": "₹427.00",
   "Model": "D-Link"
 }

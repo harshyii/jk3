@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41LH1QIRVkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SnyXxgocL.jpg | https://m.media-amazon.com/images/I/41L0Jn0f69L.jpg | https://m.media-amazon.com/images/I/31L-BnJbdyL.jpg | https://m.media-amazon.com/images/I/41LkbygTg0L.jpg | https://m.media-amazon.com/images/I/41TgSkhylvL.jpg | https://m.media-amazon.com/images/I/41w-6yj1lQL.jpg | https://m.media-amazon.com/images/I/41LH1QIRVkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.4%",
   "SalePrice": "₹5,719.00",
   "Model": "DWST83347-1"
 }

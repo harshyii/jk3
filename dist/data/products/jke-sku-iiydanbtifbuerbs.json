@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/618f0QDK5UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t4bCVA4bL.jpg | https://m.media-amazon.com/images/I/41-zpgRD3qL.jpg | https://m.media-amazon.com/images/I/61S-H1BiSHL.jpg | https://m.media-amazon.com/images/I/51zILBKuf6L.jpg | https://m.media-amazon.com/images/I/51AHru6YxcL.jpg | https://m.media-amazon.com/images/I/51+qCUq2N5L.jpg | https://m.media-amazon.com/images/I/61TlZshK6NL.jpg | https://m.media-amazon.com/images/I/618f0QDK5UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.2 Milliliters",
-  "Discount": 0,
+  "Discount": "20%",
   "SalePrice": "₹3,709.00",
   "Model": "CWS_133_16SW"
 }

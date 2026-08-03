@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51JF-hdpbSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-mjXrrTNL.jpg | https://m.media-amazon.com/images/I/31TJHfRLYWL.jpg | https://m.media-amazon.com/images/I/31gnJGm+y+L.jpg | https://m.media-amazon.com/images/I/61bZImOs7LL.jpg | https://m.media-amazon.com/images/I/31Y4onDg7FL.jpg | https://m.media-amazon.com/images/I/41ElJPdV5pL.jpg | https://m.media-amazon.com/images/I/41rQdcODHiL.jpg | https://m.media-amazon.com/images/I/51JF-hdpbSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.95%",
   "SalePrice": "₹6,684.00",
   "Model": "DCV100-XJ"
 }

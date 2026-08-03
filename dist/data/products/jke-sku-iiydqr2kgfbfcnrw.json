@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41pMVJ+5GbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41fAPiiCN9L.jpg | https://m.media-amazon.com/images/I/31VIVW3HfDL.jpg | https://m.media-amazon.com/images/I/41HubJ7f06L.jpg | https://m.media-amazon.com/images/I/41pMVJ+5GbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "74.39%",
   "SalePrice": "₹179.00",
   "Model": "GardenToolKit"
 }

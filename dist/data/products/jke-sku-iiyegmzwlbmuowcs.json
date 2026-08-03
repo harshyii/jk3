@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41ciFH9zCZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KYNE6fXhL.jpg | https://m.media-amazon.com/images/I/312ZWRwqQkL.jpg | https://m.media-amazon.com/images/I/41k92HWtN3L.jpg | https://m.media-amazon.com/images/I/31GI-9qwhnL.jpg | https://m.media-amazon.com/images/I/51lrlmxmJ4L.jpg | https://m.media-amazon.com/images/I/51SDZ6o4-3L.jpg | https://m.media-amazon.com/images/I/41UCeW8f5tL.jpg | https://m.media-amazon.com/images/I/41ciFH9zCZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,152.63",
   "Model": "MUSB-2PC"
 }

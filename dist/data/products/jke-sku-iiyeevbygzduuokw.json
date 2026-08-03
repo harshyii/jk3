@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41ubMm8L0wL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91O1YvTKjiL.jpg | https://m.media-amazon.com/images/I/51hCyMFYU9L.jpg | https://m.media-amazon.com/images/I/41WmV3HGAXL.jpg | https://m.media-amazon.com/images/I/51jZAtnJLqL.jpg | https://m.media-amazon.com/images/I/31P5nAdOYgL.jpg | https://m.media-amazon.com/images/I/419RIY2DCIL.jpg | https://m.media-amazon.com/images/I/41ubMm8L0wL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "73.64%",
   "SalePrice": "₹527.00",
   "Model": "VERAT-D-SOCKET-SET-01"
 }

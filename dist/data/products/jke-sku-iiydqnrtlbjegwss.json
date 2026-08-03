@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51pYlxOfdyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711KqzcsfCL.jpg | https://m.media-amazon.com/images/I/31dD2140uzL.jpg | https://m.media-amazon.com/images/I/41-GTXagnhL.jpg | https://m.media-amazon.com/images/I/41HaYmehTtL.jpg | https://m.media-amazon.com/images/I/414GD47RhNL.jpg | https://m.media-amazon.com/images/I/21Keufh-ZuL.jpg | https://m.media-amazon.com/images/I/41nHKuKjV1L.jpg | https://m.media-amazon.com/images/I/51pYlxOfdyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.25%",
   "SalePrice": "₹1,849.00",
   "Country": "India"
 }

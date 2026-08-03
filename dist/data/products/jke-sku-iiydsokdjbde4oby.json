@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41XFOLatX1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71izGBuuJHL.jpg | https://m.media-amazon.com/images/I/41dbSMyMOqL.jpg | https://m.media-amazon.com/images/I/41bXXYuoUNL.jpg | https://m.media-amazon.com/images/I/41cE6MOierL.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "149.95 Count",
-  "Discount": 0,
+  "Discount": "58.18%",
   "SalePrice": "₹32,901.00",
   "Model": "PBLCS300B"
 }

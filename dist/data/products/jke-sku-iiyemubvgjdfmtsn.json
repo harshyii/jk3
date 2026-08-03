@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21OAGtqg6UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51gQPXB9sfL.jpg | https://m.media-amazon.com/images/I/2141G2TUv+L.jpg | https://m.media-amazon.com/images/I/21+yC7lSjQL.jpg | https://m.media-amazon.com/images/I/21caV4A67SL.jpg | https://m.media-amazon.com/images/I/21OAGtqg6UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.56%",
   "SalePrice": "₹199.00",
   "Model": "A773"
 }

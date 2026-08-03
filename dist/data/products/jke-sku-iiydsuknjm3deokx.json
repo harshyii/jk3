@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41I56k4JWvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/810DpMRBfLL.jpg | https://m.media-amazon.com/images/I/41kViQiCIJL.jpg | https://m.media-amazon.com/images/I/41UjmpWns+L.jpg | https://m.media-amazon.com/images/I/4194n2SjL3L.jpg | https://m.media-amazon.com/images/I/41K-hLBI6UL.jpg | https://m.media-amazon.com/images/I/41I56k4JWvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Count",
-  "Discount": 0,
+  "Discount": "23.05%",
   "SalePrice": "₹16,922.00",
   "Model": "DCD7781D2-IN"
 }

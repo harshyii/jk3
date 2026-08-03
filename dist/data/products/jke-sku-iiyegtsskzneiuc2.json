@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/61aq5mvJzbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+AeXOqVyL.jpg | https://m.media-amazon.com/images/I/41Waz3gx4UL.jpg | https://m.media-amazon.com/images/I/51gcV50tkjL.jpg | https://m.media-amazon.com/images/I/51NcdFkdWtL.jpg | https://m.media-amazon.com/images/I/41ry8H0l9CL.jpg | https://m.media-amazon.com/images/I/51VfYGARcrL.jpg | https://m.media-amazon.com/images/I/61aq5mvJzbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "35%",
   "SalePrice": "₹6,500.00",
   "Model": "Air Purifier - With Extra Filter",
   "Country": "India"

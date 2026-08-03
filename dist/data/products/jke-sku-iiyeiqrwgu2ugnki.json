@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41KyzO+z7WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ayD-hKxWL.jpg | https://m.media-amazon.com/images/I/31MEei8TFOL.jpg | https://m.media-amazon.com/images/I/41KyzO+z7WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "11.11%",
   "SalePrice": "₹464.00",
   "Model": "HMC020_NEW"
 }

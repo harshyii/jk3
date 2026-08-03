@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41hwx3a2EJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zR+ZBfJbL.jpg | https://m.media-amazon.com/images/I/41egj2Z8UhL.jpg | https://m.media-amazon.com/images/I/51HKqi72j7L.jpg | https://m.media-amazon.com/images/I/41Gqb5DiqJL.jpg | https://m.media-amazon.com/images/I/511w-YkvNoL.jpg | https://m.media-amazon.com/images/I/51CBArbkgkL.jpg | https://m.media-amazon.com/images/I/41hwx3a2EJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "62.51%",
   "SalePrice": "₹1,649.00",
   "Model": "12V Li-ion Cordless Drill"
 }

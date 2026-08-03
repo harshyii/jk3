@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wfkxzlA6L.jpg | https://m.media-amazon.com/images/I/31-4-D0gvRL.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "57.14%",
   "SalePrice": "₹23,660.00",
   "Model": "H60MCSAZ"
 }

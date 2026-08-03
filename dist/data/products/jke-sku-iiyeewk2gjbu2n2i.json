@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51-rSHOquOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71iUx1HV9yL.jpg | https://m.media-amazon.com/images/I/51cRV4eJl0L.jpg | https://m.media-amazon.com/images/I/4113c8fZ2XL.jpg | https://m.media-amazon.com/images/I/51h4qbXcPXL.jpg | https://m.media-amazon.com/images/I/51d9AsBZ7TL.jpg | https://m.media-amazon.com/images/I/51-rSHOquOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹2,100.00",
   "Model": "Home Version(2.0Ah)"
 }

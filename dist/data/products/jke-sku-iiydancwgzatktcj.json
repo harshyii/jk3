@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31IWFcVdNsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41cvPV4EbxL.jpg | https://m.media-amazon.com/images/I/31CsIAdMTPL.jpg | https://m.media-amazon.com/images/I/31TINPqn88L.jpg | https://m.media-amazon.com/images/I/21kXe4mZ9oL.jpg | https://m.media-amazon.com/images/I/31YA+OtaaLL.jpg | https://m.media-amazon.com/images/I/21-eOpFPCRL.jpg | https://m.media-amazon.com/images/I/31GOK4zbY1L.jpg | https://m.media-amazon.com/images/I/31IWFcVdNsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,632.00",
   "Model": "RPCN45B"
 }

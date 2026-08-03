@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/513LXLAy7wL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Lqe-zOjWL.jpg | https://m.media-amazon.com/images/I/51QnPE2pglL.jpg | https://m.media-amazon.com/images/I/51e98FoH5vL.jpg | https://m.media-amazon.com/images/I/41tAHb-2HlL.jpg | https://m.media-amazon.com/images/I/51OUinxu3VL.jpg | https://m.media-amazon.com/images/I/51RYMX4ZSfL.jpg | https://m.media-amazon.com/images/I/51t1XfArV1L.jpg | https://m.media-amazon.com/images/I/513LXLAy7wL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "52.45%",
   "SalePrice": "₹475.00",
   "Model": "UB_double side tape"
 }

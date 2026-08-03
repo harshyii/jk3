@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51LSQZFGg7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61iWToi3-+L.jpg | https://m.media-amazon.com/images/I/41irdlaW6mL.jpg | https://m.media-amazon.com/images/I/41k0xTV-69L.jpg | https://m.media-amazon.com/images/I/41AM4MTQn6L.jpg | https://m.media-amazon.com/images/I/41x1lbaOFrL.jpg | https://m.media-amazon.com/images/I/51AvHLxniRL.jpg | https://m.media-amazon.com/images/I/51dcrd3cI4L.jpg | https://m.media-amazon.com/images/I/51LSQZFGg7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "64.19%",
   "SalePrice": "₹1,146.00",
   "Model": "409",
   "Country": "USA"

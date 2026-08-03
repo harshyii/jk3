@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/4125FZnMfyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614vZiaw-7L.jpg | https://m.media-amazon.com/images/I/31YxA8mRCwL.jpg | https://m.media-amazon.com/images/I/31zK5tJNo1L.jpg | https://m.media-amazon.com/images/I/41F6Q5IovkL.jpg | https://m.media-amazon.com/images/I/51pXA4XSJCL.jpg | https://m.media-amazon.com/images/I/411SQX6NxtL.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "64.54%",
   "SalePrice": "₹7,246.00",
   "Model": "DWAPXCIR"
 }

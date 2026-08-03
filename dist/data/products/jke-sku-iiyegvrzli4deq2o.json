@@ -85,9 +85,9 @@
     "https://m.media-amazon.com/images/I/41n0pnHIA-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FdvLeUYtL.jpg | https://m.media-amazon.com/images/I/31aKvEPMLdL.jpg | https://m.media-amazon.com/images/I/41RwYQ5i-zL.jpg | https://m.media-amazon.com/images/I/51j2YKzx2dL.jpg | https://m.media-amazon.com/images/I/41Eu1ENcnML.jpg | https://m.media-amazon.com/images/I/411GzI-mqiL.jpg | https://m.media-amazon.com/images/I/41n0pnHIA-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.33%",
   "SalePrice": "₹130.00",
   "Model": "LHLDDDBNL5R009"
 }

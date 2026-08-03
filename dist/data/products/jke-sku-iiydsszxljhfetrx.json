@@ -37,9 +37,9 @@
     "https://m.media-amazon.com/images/I/51wfgmC1URL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wfgmC1URL.jpg | https://m.media-amazon.com/images/I/51wfgmC1URL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "23.99%",
   "SalePrice": "₹1,315.00",
   "Model": "621713-6"
 }

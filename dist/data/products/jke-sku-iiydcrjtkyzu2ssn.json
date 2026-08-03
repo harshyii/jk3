@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41hTwRosuCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51iwx9G4IhL.jpg | https://m.media-amazon.com/images/I/316SQ1mG6VL.jpg | https://m.media-amazon.com/images/I/419zeJVpMuL.jpg | https://m.media-amazon.com/images/I/41WmHJ2e7BL.jpg | https://m.media-amazon.com/images/I/41MXszOsyqL.jpg | https://m.media-amazon.com/images/I/41KpgGeq05L.jpg | https://m.media-amazon.com/images/I/41cJgKBpv8L.jpg | https://m.media-amazon.com/images/I/41hTwRosuCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "39.08%",
   "SalePrice": "₹304.00",
   "Model": "CAW10"
 }

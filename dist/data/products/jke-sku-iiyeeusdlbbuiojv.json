@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51LWGYvsROL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61y1LRsiSPL.jpg | https://m.media-amazon.com/images/I/41qONqx99NL.jpg | https://m.media-amazon.com/images/I/41SEBbbZ6sL.jpg | https://m.media-amazon.com/images/I/51XkZRUbjML.jpg | https://m.media-amazon.com/images/I/51ir7x8mK2L.jpg | https://m.media-amazon.com/images/I/51pCkZN2KOL.jpg | https://m.media-amazon.com/images/I/51Pkpwn3YZL.jpg | https://m.media-amazon.com/images/I/51LWGYvsROL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "57.46%",
   "SalePrice": "₹425.00",
   "Model": "YHTSPORT-"
 }

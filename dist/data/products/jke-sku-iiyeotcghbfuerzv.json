@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51alT0F9TrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Ca5QluB+L.jpg | https://m.media-amazon.com/images/I/51N2ljf6XML.jpg | https://m.media-amazon.com/images/I/51alT0F9TrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.12%",
   "SalePrice": "₹18,999.00",
   "Model": "COSLI241198"
 }

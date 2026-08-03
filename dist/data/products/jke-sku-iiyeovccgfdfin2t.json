@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51QVHDbK66L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71UMd6-3b-L.jpg | https://m.media-amazon.com/images/I/41w5fLOpjfL.jpg | https://m.media-amazon.com/images/I/41gkH6iZM7L.jpg | https://m.media-amazon.com/images/I/51oXj5NSinL.jpg | https://m.media-amazon.com/images/I/51Lyxn0t8LL.jpg | https://m.media-amazon.com/images/I/517W6aqbtWL.jpg | https://m.media-amazon.com/images/I/519mdWbyPvL.jpg | https://m.media-amazon.com/images/I/51QVHDbK66L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "79.18%",
   "SalePrice": "₹1,499.00",
   "Model": "Solar Panel 7W"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31124Uhk7vL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EFEv1S1KL.jpg | https://m.media-amazon.com/images/I/31m8dOFsN8L.jpg | https://m.media-amazon.com/images/I/410EZfGLo9L.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/51221pJWvML.jpg | https://m.media-amazon.com/images/I/51xqWofEWuL.jpg | https://m.media-amazon.com/images/I/31124Uhk7vL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "22.74%",
   "SalePrice": "₹11,299.00",
   "Model": "DCMBL562N-XJ"
 }

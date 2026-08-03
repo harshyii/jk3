@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21kQTgQImlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VaAyxv5LL.jpg | https://m.media-amazon.com/images/I/31cHCxpKfPL.jpg | https://m.media-amazon.com/images/I/514lMInYzaL.jpg | https://m.media-amazon.com/images/I/51q8M7aCBSL.jpg | https://m.media-amazon.com/images/I/21kQTgQImlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.02%",
   "SalePrice": "₹659.00",
   "Model": "1600A02Z9X"
 }

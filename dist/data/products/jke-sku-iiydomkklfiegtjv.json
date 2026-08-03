@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/412BQkOmVpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81gMZ46BdYL.jpg | https://m.media-amazon.com/images/I/412BQkOmVpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "12%",
   "SalePrice": "₹198.00",
   "Model": "Invictus_EAN_IJABHCFJHDBEI"
 }

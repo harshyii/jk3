@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41nd6HJzApL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51tQwFCrPgL.jpg | https://m.media-amazon.com/images/I/315gjCe+jvL.jpg | https://m.media-amazon.com/images/I/21JfVQlaNFL.jpg | https://m.media-amazon.com/images/I/31l0m+TOd+L.jpg | https://m.media-amazon.com/images/I/31MrCcql1fL.jpg | https://m.media-amazon.com/images/I/31IvCBcwE6L.jpg | https://m.media-amazon.com/images/I/41nznsDQ86L.jpg | https://m.media-amazon.com/images/I/41nd6HJzApL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "29.77%",
   "SalePrice": "₹13,905.00",
   "Model": "H41SSTS9Z"
 }

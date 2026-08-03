@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/61TdATkHt0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SMaZlg+jL.jpg | https://m.media-amazon.com/images/I/51CFXEq4-kL.jpg | https://m.media-amazon.com/images/I/51w6tppoAEL.jpg | https://m.media-amazon.com/images/I/51wRZ0ytn5L.jpg | https://m.media-amazon.com/images/I/51qjQ1Ru3bL.jpg | https://m.media-amazon.com/images/I/51s2iBjWtXL.jpg | https://m.media-amazon.com/images/I/612Tx1valCL.jpg | https://m.media-amazon.com/images/I/61TdATkHt0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "41.05%",
   "SalePrice": "₹2,313.33",
   "Model": "ACC_B01",
   "Country": "USA"

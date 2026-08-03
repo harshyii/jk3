@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41mBNuq1AzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713kTs1F-8L.jpg | https://m.media-amazon.com/images/I/41muzKIwd2L.jpg | https://m.media-amazon.com/images/I/41mmIJJTZOL.jpg | https://m.media-amazon.com/images/I/515nxfnJ65L.jpg | https://m.media-amazon.com/images/I/516HAISwO2L.jpg | https://m.media-amazon.com/images/I/51i-3n2Cb4L.jpg | https://m.media-amazon.com/images/I/517OoytZEPL.jpg | https://m.media-amazon.com/images/I/41mBNuq1AzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "71.34%",
   "SalePrice": "₹3,725.00",
   "Model": "HGCM939_"
 }

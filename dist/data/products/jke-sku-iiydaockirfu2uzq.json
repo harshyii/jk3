@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31ODmk0uYZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SY0MRpSWL.jpg | https://m.media-amazon.com/images/I/31KpNTWSeSL.jpg | https://m.media-amazon.com/images/I/31vvBaejXfL.jpg | https://m.media-amazon.com/images/I/4167410f3qL.jpg | https://m.media-amazon.com/images/I/41n0SLnEoYL.jpg | https://m.media-amazon.com/images/I/318Vfnko8UL.jpg | https://m.media-amazon.com/images/I/31IPOt4pbHL.jpg | https://m.media-amazon.com/images/I/31ODmk0uYZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "58.04%",
   "SalePrice": "₹4,196.00",
   "Model": "P23-12"
 }

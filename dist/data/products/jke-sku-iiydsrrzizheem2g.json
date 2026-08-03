@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41svuLEr+tL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61waI9s7ZyL.jpg | https://m.media-amazon.com/images/I/41GLYFrj4pL.jpg | https://m.media-amazon.com/images/I/41-32IcT9lL.jpg | https://m.media-amazon.com/images/I/51TXo52J2tL.jpg | https://m.media-amazon.com/images/I/41Plx2pyIGL.jpg | https://m.media-amazon.com/images/I/41upsFS93FL.jpg | https://m.media-amazon.com/images/I/41svuLEr+tL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "34.59%",
   "SalePrice": "₹3,807.00",
   "Model": "E-2202_E-624-R1"
 }

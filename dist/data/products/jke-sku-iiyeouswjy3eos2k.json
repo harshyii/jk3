@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51csLAbE05L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81nX6lbXpgL.jpg | https://m.media-amazon.com/images/I/51S0Nf3avJL.jpg | https://m.media-amazon.com/images/I/51prPaTubtL.jpg | https://m.media-amazon.com/images/I/51pkLPRZYzL.jpg | https://m.media-amazon.com/images/I/51csLAbE05L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "62.22%",
   "SalePrice": "₹10,200.00",
   "Model": "CRHLI212282"
 }

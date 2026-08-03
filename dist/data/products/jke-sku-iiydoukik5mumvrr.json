@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51ffkmubgUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AtyEtlOML.jpg | https://m.media-amazon.com/images/I/41HYUo-xzZL.jpg | https://m.media-amazon.com/images/I/51xhxjOJXeL.jpg | https://m.media-amazon.com/images/I/41ugKbkNAVL.jpg | https://m.media-amazon.com/images/I/51m4XiBRpxL.jpg | https://m.media-amazon.com/images/I/51ZTEp8j12L.jpg | https://m.media-amazon.com/images/I/51bqpoY5T7L.jpg | https://m.media-amazon.com/images/I/51ffkmubgUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Milliliters",
-  "Discount": 0,
+  "Discount": "9.29%",
   "SalePrice": "₹449.00",
   "Model": "31975",
   "Country": "China"

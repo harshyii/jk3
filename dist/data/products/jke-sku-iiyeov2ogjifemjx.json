@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/51n8taoGhOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712kmRZbDxL.jpg | https://m.media-amazon.com/images/I/31-YicO8cCL.jpg | https://m.media-amazon.com/images/I/61P-zgYWgTL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41CXFbjaKZL.jpg | https://m.media-amazon.com/images/I/51I0wQtUilL.jpg | https://m.media-amazon.com/images/I/515ee5kvcCL.jpg | https://m.media-amazon.com/images/I/51rd5FNmFxL.jpg | https://m.media-amazon.com/images/I/51n8taoGhOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.01%",
   "SalePrice": "₹2,499.00",
   "Model": "UPR129",
   "Country": "India"

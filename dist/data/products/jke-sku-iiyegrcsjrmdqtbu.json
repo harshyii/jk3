@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/412GmPUP-AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5113AwCwJqL.jpg | https://m.media-amazon.com/images/I/21q38fJiiXL.jpg | https://m.media-amazon.com/images/I/41sR3Pi2JcL.jpg | https://m.media-amazon.com/images/I/51+Wm35XT0L.jpg | https://m.media-amazon.com/images/I/415+fwZLCrL.jpg | https://m.media-amazon.com/images/I/41M37TUuRnL.jpg | https://m.media-amazon.com/images/I/412GmPUP-AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "25.56%",
   "SalePrice": "₹6,699.00",
   "Model": "DH22PBS"
 }

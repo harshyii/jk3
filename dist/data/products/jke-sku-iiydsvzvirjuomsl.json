@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31qvhpmXJ-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31qvhpmXJ-L.jpg | https://m.media-amazon.com/images/I/31qvhpmXJ-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "21.54%",
   "SalePrice": "₹5,100.00",
   "Model": "DCA 26mm Hammer AZC05"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51QfV2egCPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71VEv7CvZhL.jpg | https://m.media-amazon.com/images/I/51Fv635+kzL.jpg | https://m.media-amazon.com/images/I/41J9kU6rBJL.jpg | https://m.media-amazon.com/images/I/41XVQByszBL.jpg | https://m.media-amazon.com/images/I/41wGMkDf8-L.jpg | https://m.media-amazon.com/images/I/51mazBTnutL.jpg | https://m.media-amazon.com/images/I/51qTrFaJ6pL.jpg | https://m.media-amazon.com/images/I/51QfV2egCPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.08%",
   "SalePrice": "₹897.00",
   "Model": "HKSDB0558"
 }

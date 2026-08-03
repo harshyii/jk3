@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51emzlhhn5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71wUJf9jn0L.jpg | https://m.media-amazon.com/images/I/41jDxSsPioL.jpg | https://m.media-amazon.com/images/I/51a+GrcqOcL.jpg | https://m.media-amazon.com/images/I/51B9lQi6+uL.jpg | https://m.media-amazon.com/images/I/51VlAmKQPcL.jpg | https://m.media-amazon.com/images/I/51-3eRfXbTL.jpg | https://m.media-amazon.com/images/I/51Me5TCs2UL.jpg | https://m.media-amazon.com/images/I/51emzlhhn5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "25.58%",
   "SalePrice": "₹3,668.00",
   "Model": "SPI_208_16SW",
   "Country": "USA"

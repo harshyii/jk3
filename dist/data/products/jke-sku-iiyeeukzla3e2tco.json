@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51gVdqYO5fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511gDIESCtL.jpg | https://m.media-amazon.com/images/I/31g2P4FnpaL.jpg | https://m.media-amazon.com/images/I/513IuXpcb-L.jpg | https://m.media-amazon.com/images/I/41olVY2kivL.jpg | https://m.media-amazon.com/images/I/317zYlX1jSL.jpg | https://m.media-amazon.com/images/I/4136eRLmabL.jpg | https://m.media-amazon.com/images/I/51gVdqYO5fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "36.14%",
   "SalePrice": "₹159.00",
   "Model": "GT-81"
 }

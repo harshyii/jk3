@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/519cA5dAxhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715uUp9K4ZL.jpg | https://m.media-amazon.com/images/I/41TniP51yXL.jpg | https://m.media-amazon.com/images/I/51Rk2cJfPqL.jpg | https://m.media-amazon.com/images/I/51suUm7BisL.jpg | https://m.media-amazon.com/images/I/51-2-cS8rEL.jpg | https://m.media-amazon.com/images/I/613lGHdKhNL.jpg | https://m.media-amazon.com/images/I/51-R9esYNnL.jpg | https://m.media-amazon.com/images/I/519cA5dAxhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3785.4118 Milliliters",
-  "Discount": 0,
+  "Discount": "43.12%",
   "SalePrice": "₹13,970.21",
   "Model": "TVD_109SW",
   "Country": "USA"

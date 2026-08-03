@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/412RaRDovRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715okOaSF9L.jpg | https://m.media-amazon.com/images/I/412RaRDovRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "25.0 Count",
-  "Discount": 0,
+  "Discount": "26.24%",
   "SalePrice": "₹1,099.00",
   "Model": "1837840",
   "Country": "Germany"

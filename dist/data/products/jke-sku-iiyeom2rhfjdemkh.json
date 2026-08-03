@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41BP8piz1uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81+LEcP7B8L.jpg | https://m.media-amazon.com/images/I/51Z4IEDniIL.jpg | https://m.media-amazon.com/images/I/51KI2N3+b5L.jpg | https://m.media-amazon.com/images/I/51SgvL8vEDL.jpg | https://m.media-amazon.com/images/I/516fSKseyqL.jpg | https://m.media-amazon.com/images/I/51gLrL9LjJL.jpg | https://m.media-amazon.com/images/I/51vStCMuLML.jpg | https://m.media-amazon.com/images/I/41BP8piz1uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "14.37%",
   "SalePrice": "₹4,349.00",
   "Model": "B0G3Q9R21G"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31wzKkL+5rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51GLr1ZU4sL.jpg | https://m.media-amazon.com/images/I/31w3b0xlKEL.jpg | https://m.media-amazon.com/images/I/31x9VobfBQL.jpg | https://m.media-amazon.com/images/I/21Qhh4QPxwL.jpg | https://m.media-amazon.com/images/I/31wzKkL+5rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "60%",
   "SalePrice": "₹600.00",
   "Model": "XP-FLT-4\"-10pcs",
   "Country": "India"

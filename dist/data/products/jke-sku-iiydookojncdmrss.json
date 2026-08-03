@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41x5dq-9vIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Qtlt9HLxL.jpg | https://m.media-amazon.com/images/I/41x5dq-9vIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹32,694.11",
   "Model": "2803-20"
 }

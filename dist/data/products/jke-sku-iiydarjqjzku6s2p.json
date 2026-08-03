@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41XUMTA7Q1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71-4otserSL.jpg | https://m.media-amazon.com/images/I/41FcYjHd9jL.jpg | https://m.media-amazon.com/images/I/51jUiJYVjBL.jpg | https://m.media-amazon.com/images/I/61LxEFNHdNL.jpg | https://m.media-amazon.com/images/I/61gpj-WxmdL.jpg | https://m.media-amazon.com/images/I/51wZTTNF5jL.jpg | https://m.media-amazon.com/images/I/51PLrhdB7XL.jpg | https://m.media-amazon.com/images/I/41XUMTA7Q1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3790.0 Milliliters",
-  "Discount": 0,
+  "Discount": "47.14%",
   "SalePrice": "₹13,373.02",
   "Model": "CLD_202SW",
   "Country": "USA"

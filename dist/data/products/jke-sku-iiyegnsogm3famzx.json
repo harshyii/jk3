@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/513pDFajIgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61XnJZ8Z6qL.jpg | https://m.media-amazon.com/images/I/41m5a4kmMoL.jpg | https://m.media-amazon.com/images/I/71dtrauzGtL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41qIyYAb-eL.jpg | https://m.media-amazon.com/images/I/41Mx7VJYmcL.jpg | https://m.media-amazon.com/images/I/41km8E-9k1L.jpg | https://m.media-amazon.com/images/I/41aBR41hroL.jpg | https://m.media-amazon.com/images/I/513pDFajIgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "680.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹1,575.00",
   "Model": "617945",
   "Country": "USA"

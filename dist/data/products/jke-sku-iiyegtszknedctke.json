@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41LmVMiA0lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61twQyNR+dL.jpg | https://m.media-amazon.com/images/I/31pnqR8Fe4L.jpg | https://m.media-amazon.com/images/I/413OEtS+1iL.jpg | https://m.media-amazon.com/images/I/51fFHahrg1L.jpg | https://m.media-amazon.com/images/I/41SmfL7xjpL.jpg | https://m.media-amazon.com/images/I/51ZiVxOjICL.jpg | https://m.media-amazon.com/images/I/41LmVMiA0lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹9,999.00",
   "Model": "220W Solar Panel"
 }

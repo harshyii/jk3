@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51m042UscHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91c9bOX-WEL.jpg | https://m.media-amazon.com/images/I/51dRO+Csp0L.jpg | https://m.media-amazon.com/images/I/5113m9enTQL.jpg | https://m.media-amazon.com/images/I/51m042UscHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.39%",
   "SalePrice": "₹2,930.00",
   "Model": "1/2\" SOCKET SET"
 }

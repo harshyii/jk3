@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31OQFHoRH3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51oAAYDp-RL.jpg | https://m.media-amazon.com/images/I/31adoaBDhpL.jpg | https://m.media-amazon.com/images/I/31Vy5VSzMEL.jpg | https://m.media-amazon.com/images/I/31OQFHoRH3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.4%",
   "SalePrice": "₹199.00",
   "Model": "SP 21"
 }

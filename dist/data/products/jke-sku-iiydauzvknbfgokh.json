@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/415AOo0ybOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718cCUXqeCL.jpg | https://m.media-amazon.com/images/I/415AOo0ybOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Milliliters",
-  "Discount": 0,
+  "Discount": "13.73%",
   "SalePrice": "₹289.00",
   "Model": "3M_Wash_Shampoo_250ml",
   "Country": "India"

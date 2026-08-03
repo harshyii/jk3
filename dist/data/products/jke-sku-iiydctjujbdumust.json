@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41l9GpZezFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51HsVx83dLL.jpg | https://m.media-amazon.com/images/I/413exM0zYqL.jpg | https://m.media-amazon.com/images/I/41byhdXkehL.jpg | https://m.media-amazon.com/images/I/31CZnUQn4IL.jpg | https://m.media-amazon.com/images/I/41WDWWArP2L.jpg | https://m.media-amazon.com/images/I/41l9GpZezFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.9%",
   "SalePrice": "₹22,123.00",
   "Model": "XPH12Z"
 }

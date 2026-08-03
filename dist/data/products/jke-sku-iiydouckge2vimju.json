@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/419f5TR4TGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61WyAuSU2RL.jpg | https://m.media-amazon.com/images/I/41UeQKPdqiL.jpg | https://m.media-amazon.com/images/I/51MMsEMsHyL.jpg | https://m.media-amazon.com/images/I/419f5TR4TGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "32 Count",
-  "Discount": 0,
+  "Discount": "72.54%",
   "SalePrice": "₹549.00",
   "Model": "HKSDB0348"
 }

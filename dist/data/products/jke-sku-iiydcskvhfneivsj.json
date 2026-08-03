@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/61U80zx00vL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bYDTfo3eL.jpg | https://m.media-amazon.com/images/I/41Fkx7n-HGL.jpg | https://m.media-amazon.com/images/I/61U80zx00vL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "20 Count",
-  "Discount": 0,
+  "Discount": "8.61%",
   "SalePrice": "₹329.00",
   "Country": "India"
 }

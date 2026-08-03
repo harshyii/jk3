@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41q05zwQCyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jYSykRbCL.jpg | https://m.media-amazon.com/images/I/41q05zwQCyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.1765 Milliliters",
-  "Discount": 0,
+  "Discount": "42.92%",
   "SalePrice": "₹2,599.22",
   "Model": "G4216",
   "Country": "USA"

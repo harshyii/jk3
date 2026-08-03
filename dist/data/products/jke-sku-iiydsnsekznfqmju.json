@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31lEaeOhs9S.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41flZi03COS.jpg | https://m.media-amazon.com/images/I/31lEaeOhs9S.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "35.35%",
   "SalePrice": "₹7,499.00",
   "Model": "ASP-1200",
   "Country": "India"

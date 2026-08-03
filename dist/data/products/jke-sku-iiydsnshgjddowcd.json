@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41RiqeIA6RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61fvXZZ97fS.jpg | https://m.media-amazon.com/images/I/41MNG5IN82S.jpg | https://m.media-amazon.com/images/I/41AiX9HTdZL.jpg | https://m.media-amazon.com/images/I/41-dzmK1m6L.jpg | https://m.media-amazon.com/images/I/41Crkt3hQeL.jpg | https://m.media-amazon.com/images/I/41e9ehXS10L.jpg | https://m.media-amazon.com/images/I/41X501FPMJL.jpg | https://m.media-amazon.com/images/I/41RiqeIA6RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.02%",
   "SalePrice": "₹999.00",
   "Model": "CT-2.5/4/6MM"
 }

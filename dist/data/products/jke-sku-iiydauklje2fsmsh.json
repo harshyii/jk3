@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41H8N0sohjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71kFR3RAaYL.jpg | https://m.media-amazon.com/images/I/41H8N0sohjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "207 Milliliters",
-  "Discount": 0,
+  "Discount": "24.02%",
   "SalePrice": "₹1,025.00",
   "Model": "G10307"
 }

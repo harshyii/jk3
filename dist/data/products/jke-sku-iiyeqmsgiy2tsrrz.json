@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41CQUseVTbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71wfa77cnaL.jpg | https://m.media-amazon.com/images/I/41r5N0oSvKL.jpg | https://m.media-amazon.com/images/I/410dDwwcPIL.jpg | https://m.media-amazon.com/images/I/41CQUseVTbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Grams",
-  "Discount": 0,
+  "Discount": "59.92%",
   "SalePrice": "₹200.00",
   "Country": "India"
 }

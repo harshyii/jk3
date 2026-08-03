@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41Aoo79F-dL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81c604A33NL.jpg | https://m.media-amazon.com/images/I/41PxqVluWGL.jpg | https://m.media-amazon.com/images/I/41+2JPikRfL.jpg | https://m.media-amazon.com/images/I/41gOHbNpy4L.jpg | https://m.media-amazon.com/images/I/41w6BV06YsL.jpg | https://m.media-amazon.com/images/I/41xNaHRprUL.jpg | https://m.media-amazon.com/images/I/413jZDXeMzL.jpg | https://m.media-amazon.com/images/I/41Aoo79F-dL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹48,833.66",
   "Model": "DCF860QQ1"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51xMgrcWEYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5101U3Uo9uL.jpg | https://m.media-amazon.com/images/I/31jHjsRpz5L.jpg | https://m.media-amazon.com/images/I/31OyTZCKABL.jpg | https://m.media-amazon.com/images/I/41BDh3z48tL.jpg | https://m.media-amazon.com/images/I/51xMgrcWEYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.86%",
   "SalePrice": "₹17,800.00",
   "Model": "Online UPS E2-1KVA"
 }

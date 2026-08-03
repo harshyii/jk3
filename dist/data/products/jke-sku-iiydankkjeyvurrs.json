@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/419MjwVCo3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51H76vE7AGL.jpg | https://m.media-amazon.com/images/I/41gIiR2S15L.jpg | https://m.media-amazon.com/images/I/419MjwVCo3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.45%",
   "SalePrice": "₹4,159.00",
   "Model": "194419-4"
 }

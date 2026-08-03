@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/518DHf5K9IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Ai1C19LQL.jpg | https://m.media-amazon.com/images/I/41lFXroDqXL.jpg | https://m.media-amazon.com/images/I/51-X1GEgghL.jpg | https://m.media-amazon.com/images/I/51golP8gfBL.jpg | https://m.media-amazon.com/images/I/51-hdoWFGmL.jpg | https://m.media-amazon.com/images/I/51asMH4nBxL.jpg | https://m.media-amazon.com/images/I/518DHf5K9IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "350 Grams",
-  "Discount": 0,
+  "Discount": "12.25%",
   "SalePrice": "₹358.00",
   "Model": "CPRR350",
   "Country": "India"

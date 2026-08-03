@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51V8IYrFa0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619vRMSNkxL.jpg | https://m.media-amazon.com/images/I/31P6VUvVaxL.jpg | https://m.media-amazon.com/images/I/51g4ztr4hYL.jpg | https://m.media-amazon.com/images/I/51OiJV56Z6L.jpg | https://m.media-amazon.com/images/I/51k5ZSKq31L.jpg | https://m.media-amazon.com/images/I/51-5tiG9TtL.jpg | https://m.media-amazon.com/images/I/51V8IYrFa0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.65%",
   "SalePrice": "₹11,583.39",
   "Model": "ED 520"
 }

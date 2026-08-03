@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/410BqKBMV2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eEjtfrOJL.jpg | https://m.media-amazon.com/images/I/419VyCxSJ8L.jpg | https://m.media-amazon.com/images/I/71MS87GLD9L.jpg | https://m.media-amazon.com/images/I/41OqhzC+VtL.jpg | https://m.media-amazon.com/images/I/51qkZH0WPzL.jpg | https://m.media-amazon.com/images/I/51xLu7HeviL.jpg | https://m.media-amazon.com/images/I/51ZdMWlzvPL.jpg | https://m.media-amazon.com/images/I/410BqKBMV2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "73.95%",
   "SalePrice": "₹130.00",
   "Model": "CT_TWIST_TIES_50MTR_1"
 }

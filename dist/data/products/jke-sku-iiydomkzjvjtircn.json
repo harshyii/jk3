@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/314Oh8s52yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/410I1BWqI+L.jpg | https://m.media-amazon.com/images/I/314Oh8s52yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "45.36%",
   "SalePrice": "₹2,987.00",
   "Model": "48-32-4531"
 }

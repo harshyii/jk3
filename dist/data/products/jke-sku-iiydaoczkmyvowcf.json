@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41uM+l2zR3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rV5WZQjwL.jpg | https://m.media-amazon.com/images/I/413mZWPSjhL.jpg | https://m.media-amazon.com/images/I/41JIJHJx-jL.jpg | https://m.media-amazon.com/images/I/51aVP48qQNL.jpg | https://m.media-amazon.com/images/I/51pjTd2OaPL.jpg | https://m.media-amazon.com/images/I/41OtX2qNAML.jpg | https://m.media-amazon.com/images/I/41uM+l2zR3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.24%",
   "SalePrice": "₹11,003.00",
   "Model": "CM618",
   "Country": "China"

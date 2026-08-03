@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41LVltdLP8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Qqr4jpwvL.jpg | https://m.media-amazon.com/images/I/51K+OX1wAnL.jpg | https://m.media-amazon.com/images/I/41sgJ6Qrp8L.jpg | https://m.media-amazon.com/images/I/51+qN4R7DUL.jpg | https://m.media-amazon.com/images/I/41LVltdLP8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.83%",
   "SalePrice": "₹16,749.80",
   "Model": "DT2290-QZ"
 }

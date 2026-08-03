@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31QuwDQZVcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Spo7rsPTL.jpg | https://m.media-amazon.com/images/I/31MttCO5qRL.jpg | https://m.media-amazon.com/images/I/31LRNlXL-1L.jpg | https://m.media-amazon.com/images/I/31YvG3iAKBL.jpg | https://m.media-amazon.com/images/I/31QuwDQZVcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.71%",
   "SalePrice": "₹27,372.00",
   "Model": "821524-1"
 }

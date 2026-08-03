@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cmExzU9BL.jpg | https://m.media-amazon.com/images/I/51cmExzU9BL.jpg | https://m.media-amazon.com/images/I/31HVJJK8IEL.jpg | https://m.media-amazon.com/images/I/41uudLh0n8L.jpg | https://m.media-amazon.com/images/I/41BQcNcnHTL.jpg | https://m.media-amazon.com/images/I/418SUENABGL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.00 Grams",
-  "Discount": 0,
+  "Discount": "23.21%",
   "SalePrice": "₹215.00",
   "Model": "2 IN 1-100g"
 }

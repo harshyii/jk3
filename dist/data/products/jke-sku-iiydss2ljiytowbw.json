@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71OkEdQCdcL.jpg | https://m.media-amazon.com/images/I/41xD5O6-nbL.jpg | https://m.media-amazon.com/images/I/41k7u7NM0EL.jpg | https://m.media-amazon.com/images/I/51jSLqTFxnL.jpg | https://m.media-amazon.com/images/I/51QhMHBwTuL.jpg | https://m.media-amazon.com/images/I/517R2i+VmkL.jpg | https://m.media-amazon.com/images/I/31jXDJVSfnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹13,507.96",
   "Model": "DCBP034C",
   "Country": "USA"

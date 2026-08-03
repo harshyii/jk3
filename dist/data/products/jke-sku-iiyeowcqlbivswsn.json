@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51QX1o0NPoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61F8u7xKQ4L.jpg | https://m.media-amazon.com/images/I/41yWGNhu29L.jpg | https://m.media-amazon.com/images/I/41L9k1FPsiL.jpg | https://m.media-amazon.com/images/I/41qbBa-2A1L.jpg | https://m.media-amazon.com/images/I/41y3jOQzT5L.jpg | https://m.media-amazon.com/images/I/51LHsdwfv+L.jpg | https://m.media-amazon.com/images/I/51QX1o0NPoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "34.03%",
   "SalePrice": "₹1,648.00",
   "Model": "KJLKLSKLFJL"
 }

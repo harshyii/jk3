@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/41WcBuXJERL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sP2S4dMkL.jpg | https://m.media-amazon.com/images/I/41b-nJVwplL.jpg | https://m.media-amazon.com/images/I/41e5cRxytrL.jpg | https://m.media-amazon.com/images/I/41fHValKqjL.jpg | https://m.media-amazon.com/images/I/41pIm53sOsL.jpg | https://m.media-amazon.com/images/I/41woWtdlebL.jpg | https://m.media-amazon.com/images/I/41pEjxyn9SL.jpg | https://m.media-amazon.com/images/I/41WcBuXJERL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹34,299.72",
   "Model": "HP002GZ"
 }

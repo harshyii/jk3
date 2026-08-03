@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/417XvG4XTVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Hqt5XpvfL.jpg | https://m.media-amazon.com/images/I/41+6jkJjd2L.jpg | https://m.media-amazon.com/images/I/41-BNTc2BnL.jpg | https://m.media-amazon.com/images/I/41HZ+gzGLaL.jpg | https://m.media-amazon.com/images/I/41b-IL+rz7L.jpg | https://m.media-amazon.com/images/I/41OR+oeGgLL.jpg | https://m.media-amazon.com/images/I/417XvG4XTVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.15%",
   "SalePrice": "₹23,399.00",
   "Model": "Power sine 1100+ILTT20060+Trolley",
   "Country": "India"

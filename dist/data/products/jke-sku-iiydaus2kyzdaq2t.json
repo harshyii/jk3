@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/21amZlNhnrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/515Qh4Ww8hL.jpg | https://m.media-amazon.com/images/I/310DrdZuX1L.jpg | https://m.media-amazon.com/images/I/31tqPS5H8uL.jpg | https://m.media-amazon.com/images/I/51dhWTHkf9L.jpg | https://m.media-amazon.com/images/I/41d1GN3p4-L.jpg | https://m.media-amazon.com/images/I/41UOT41B38L.jpg | https://m.media-amazon.com/images/I/21zuWqvNUPL.jpg | https://m.media-amazon.com/images/I/21amZlNhnrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "7.7%",
   "SalePrice": "₹30,268.60",
   "Model": "BDEG400"
 }

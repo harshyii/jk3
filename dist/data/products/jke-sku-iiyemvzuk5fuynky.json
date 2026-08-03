@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51VKAX3V4RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uZdQ73OvL.jpg | https://m.media-amazon.com/images/I/413smlcbBsL.jpg | https://m.media-amazon.com/images/I/51-3QMwniJL.jpg | https://m.media-amazon.com/images/I/515DAfxNSvL.jpg | https://m.media-amazon.com/images/I/51OP9UaCHPL.jpg | https://m.media-amazon.com/images/I/51dnMN2iUvL.jpg | https://m.media-amazon.com/images/I/51NGfsMuEML.jpg | https://m.media-amazon.com/images/I/51VKAX3V4RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.01%",
   "SalePrice": "₹2,199.00",
   "Model": "POR-3252"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/21HAKXAh0WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71HxPIs73PL.jpg | https://m.media-amazon.com/images/I/31-TlWfWokL.jpg | https://m.media-amazon.com/images/I/51ozBYJdq3L.jpg | https://m.media-amazon.com/images/I/31WNro1hNoL.jpg | https://m.media-amazon.com/images/I/41iqJ3IOoEL.jpg | https://m.media-amazon.com/images/I/31dw8kGjjYL.jpg | https://m.media-amazon.com/images/I/21HAKXAh0WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "33.33%",
   "SalePrice": "₹180.00",
   "Model": "E-2101B_ScrewdriverKit"
 }

@@ -87,9 +87,9 @@
     "https://m.media-amazon.com/images/I/31iAtRCbMVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51YgSJNbfnL.jpg | https://m.media-amazon.com/images/I/21954ou6hSL.jpg | https://m.media-amazon.com/images/I/41pUCJxwvHL.jpg | https://m.media-amazon.com/images/I/41jxeGgO2zL.jpg | https://m.media-amazon.com/images/I/41uikrXMlYL.jpg | https://m.media-amazon.com/images/I/41m1V+xhNuL.jpg | https://m.media-amazon.com/images/I/31iAtRCbMVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹4,499.00",
   "Model": "FHCFESTGMI48",
   "Country": "India"

@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31DJqgdF3QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61LYB6CW-FL.jpg | https://m.media-amazon.com/images/I/31WNis1+8fL.jpg | https://m.media-amazon.com/images/I/418yBhvICML.jpg | https://m.media-amazon.com/images/I/31DJqgdF3QL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.48%",
   "SalePrice": "₹7,190.00",
   "Model": "Xp-pw-572"
 }

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51ddGbbzGSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Fxvu4u8LL.jpg | https://m.media-amazon.com/images/I/51ddGbbzGSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "8.92%",
   "SalePrice": "₹429.00",
   "Model": "CJ009",
   "Country": "India"

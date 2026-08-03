@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51eSTUx7xIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sH2M4x6GL.jpg | https://m.media-amazon.com/images/I/514NCMsyibL.jpg | https://m.media-amazon.com/images/I/51bY6oTs2LL.jpg | https://m.media-amazon.com/images/I/51uhuP7oGjL.jpg | https://m.media-amazon.com/images/I/51TJFoyxcWL.jpg | https://m.media-amazon.com/images/I/51ykqXfv2EL.jpg | https://m.media-amazon.com/images/I/51eSTUx7xIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5.0 Meters",
-  "Discount": 0,
+  "Discount": "62.56%",
   "SalePrice": "₹374.00",
   "Country": "China"
 }

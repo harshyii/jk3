@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51OpkKtjtHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71OgYk4-5JL.jpg | https://m.media-amazon.com/images/I/516sExAggbL.jpg | https://m.media-amazon.com/images/I/41rtKpqTesL.jpg | https://m.media-amazon.com/images/I/51xDJ3amsEL.jpg | https://m.media-amazon.com/images/I/41bilpV2pFL.jpg | https://m.media-amazon.com/images/I/51YNyFajVVL.jpg | https://m.media-amazon.com/images/I/51OpkKtjtHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Count",
-  "Discount": 0,
+  "Discount": "62.12%",
   "SalePrice": "₹189.00",
   "Model": "BB-118"
 }

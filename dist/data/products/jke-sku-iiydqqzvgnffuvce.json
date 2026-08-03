@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41BtcKsmQYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tYb3+TPlL.jpg | https://m.media-amazon.com/images/I/31dCi4qcKdL.jpg | https://m.media-amazon.com/images/I/412atmI+lCL.jpg | https://m.media-amazon.com/images/I/41AJzlrbkxL.jpg | https://m.media-amazon.com/images/I/41OCnbl-1YL.jpg | https://m.media-amazon.com/images/I/41feUaACPZL.jpg | https://m.media-amazon.com/images/I/41iTvKOXgtL.jpg | https://m.media-amazon.com/images/I/41BtcKsmQYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24%",
   "SalePrice": "₹2,153.08",
   "Model": "JUG/1-600-100"
 }

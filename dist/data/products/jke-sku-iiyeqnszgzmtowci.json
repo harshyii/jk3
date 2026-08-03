@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/4177k6W50yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-sZymSJYL.jpg | https://m.media-amazon.com/images/I/419x9GVhsAL.jpg | https://m.media-amazon.com/images/I/41P8RFqeC6L.jpg | https://m.media-amazon.com/images/I/41dal9bvhmL.jpg | https://m.media-amazon.com/images/I/4177k6W50yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "56.32%",
   "SalePrice": "₹349.00",
   "Model": "Plr-001"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41ijer8EuuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61N3eGRIUTL.jpg | https://m.media-amazon.com/images/I/41LIwB4LyxL.jpg | https://m.media-amazon.com/images/I/41A4n+PWZLL.jpg | https://m.media-amazon.com/images/I/41zmvZP+PPL.jpg | https://m.media-amazon.com/images/I/41ijer8EuuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.5%",
   "SalePrice": "₹8,850.00",
   "Model": "XPC-RH-01"
 }

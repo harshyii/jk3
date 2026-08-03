@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31-s76+26AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617Gy8ma9PL.jpg | https://m.media-amazon.com/images/I/41a3efslLEL.jpg | https://m.media-amazon.com/images/I/31-s76+26AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.4 Grams",
-  "Discount": 0,
+  "Discount": "0.93%",
   "SalePrice": "₹425.00",
   "Country": "Poland"
 }

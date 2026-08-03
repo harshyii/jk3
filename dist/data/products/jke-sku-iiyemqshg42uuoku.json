@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Sk7rMi0EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wZe5YN3zL.jpg | https://m.media-amazon.com/images/I/31qrVOnspRL.jpg | https://m.media-amazon.com/images/I/31rBDRlkQeL.jpg | https://m.media-amazon.com/images/I/31baFEvZ5JL.jpg | https://m.media-amazon.com/images/I/31VeIdAVVfL.jpg | https://m.media-amazon.com/images/I/51o2YbUwqyL.jpg | https://m.media-amazon.com/images/I/41Sk7rMi0EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27%",
   "SalePrice": "₹1,452.70",
   "Model": "MFNL/2BC"
 }

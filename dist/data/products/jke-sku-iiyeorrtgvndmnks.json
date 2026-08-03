@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31tbedpexOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UI00iCWFL.jpg | https://m.media-amazon.com/images/I/412EhpblhjL.jpg | https://m.media-amazon.com/images/I/31tbedpexOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.0 Count",
-  "Discount": 0,
+  "Discount": "50.04%",
   "SalePrice": "₹649.00",
   "Model": "6x110mm",
   "Country": "China"

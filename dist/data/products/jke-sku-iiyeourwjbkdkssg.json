@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31PGRfsE48L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41fhTuPn9qL.jpg | https://m.media-amazon.com/images/I/41fhTuPn9qL.jpg | https://m.media-amazon.com/images/I/216CK9U569L.jpg | https://m.media-amazon.com/images/I/31PGRfsE48L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "60.12%",
   "SalePrice": "₹199.00",
   "Country": "India"
 }

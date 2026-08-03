@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41XxVzDixyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41-sCEdg1JL.jpg | https://m.media-amazon.com/images/I/41-sCEdg1JL.jpg | https://m.media-amazon.com/images/I/31x9mOAG2IL.jpg | https://m.media-amazon.com/images/I/41XxVzDixyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.1%",
   "SalePrice": "₹15,290.00",
   "Model": "XPT437"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51qhC6A8h4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81IOROq6MNL.jpg | https://m.media-amazon.com/images/I/41F4U5IMk2L.jpg | https://m.media-amazon.com/images/I/51BLuE9GbUL.jpg | https://m.media-amazon.com/images/I/51p4KFnu4+L.jpg | https://m.media-amazon.com/images/I/513BWXZ2CsL.jpg | https://m.media-amazon.com/images/I/51mOoe09NvL.jpg | https://m.media-amazon.com/images/I/51yrLGxlHmL.jpg | https://m.media-amazon.com/images/I/51qhC6A8h4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹20,561.31",
   "Model": "solar panel"
 }

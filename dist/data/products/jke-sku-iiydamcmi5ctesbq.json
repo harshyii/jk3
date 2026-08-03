@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/3181haT3zdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/3181haT3zdL.jpg | https://m.media-amazon.com/images/I/3181haT3zdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.03%",
   "SalePrice": "₹3,533.00",
   "Model": "06-83-2960"
 }

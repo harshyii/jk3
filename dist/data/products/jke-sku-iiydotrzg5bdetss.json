@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/412jXpbR58L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ZlYYjroXL.jpg | https://m.media-amazon.com/images/I/41IYY1vadxL.jpg | https://m.media-amazon.com/images/I/412jXpbR58L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.06%",
   "SalePrice": "₹7,788.00",
   "Model": "P118-B"
 }

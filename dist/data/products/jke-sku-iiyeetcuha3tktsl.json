@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/419JTvCPCfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61v+ZCJz+0L.jpg | https://m.media-amazon.com/images/I/41WUsKTgljL.jpg | https://m.media-amazon.com/images/I/41awszA9FjL.jpg | https://m.media-amazon.com/images/I/41tuopx8l+L.jpg | https://m.media-amazon.com/images/I/41nExGBjMnL.jpg | https://m.media-amazon.com/images/I/41l3dI5jGxL.jpg | https://m.media-amazon.com/images/I/41mBax6XiOL.jpg | https://m.media-amazon.com/images/I/419JTvCPCfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹37,200.33",
   "Model": "3404-22"
 }

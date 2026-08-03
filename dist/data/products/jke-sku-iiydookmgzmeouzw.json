@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31R1FZosRdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71EHnh74fbL.jpg | https://m.media-amazon.com/images/I/51+YL19pGDL.jpg | https://m.media-amazon.com/images/I/411tv4EtR0L.jpg | https://m.media-amazon.com/images/I/31R1FZosRdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.02%",
   "SalePrice": "₹449.00",
   "Model": "3\"1000",
   "Country": "India"

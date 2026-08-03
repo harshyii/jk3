@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51sOTTQo5sL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91sEsYyUOBL.jpg | https://m.media-amazon.com/images/I/61SqlTywxML.jpg | https://m.media-amazon.com/images/I/51VNjwLnJkL.jpg | https://m.media-amazon.com/images/I/51fbgGWmRSL.jpg | https://m.media-amazon.com/images/I/41QKHNjuWWL.jpg | https://m.media-amazon.com/images/I/51ChLa+Bw5L.jpg | https://m.media-amazon.com/images/I/51fnAZRZBaL.jpg | https://m.media-amazon.com/images/I/51sOTTQo5sL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100 Count",
-  "Discount": 0,
+  "Discount": "72.59%",
   "SalePrice": "₹219.00",
   "Model": "11S_STK_THM_004"
 }

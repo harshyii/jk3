@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/319kt4mphWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bxl+VV+XL.jpg | https://m.media-amazon.com/images/I/51q1hQAbkxL.jpg | https://m.media-amazon.com/images/I/41aR2jI63SL.jpg | https://m.media-amazon.com/images/I/41m-TGwqMQL.jpg | https://m.media-amazon.com/images/I/41eg6El77ML.jpg | https://m.media-amazon.com/images/I/417C4MGdOFL.jpg | https://m.media-amazon.com/images/I/319kt4mphWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,194.19",
   "Model": "770B-01",
   "Country": "USA"

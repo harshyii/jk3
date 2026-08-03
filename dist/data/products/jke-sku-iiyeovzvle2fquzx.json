@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41fPsP-Mu9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81eQ4JcbOPL.jpg | https://m.media-amazon.com/images/I/41FHBHo2rGL.jpg | https://m.media-amazon.com/images/I/51N6KadVdvL.jpg | https://m.media-amazon.com/images/I/51Lfm4yCTuL.jpg | https://m.media-amazon.com/images/I/41DPti0b10L.jpg | https://m.media-amazon.com/images/I/51B0EbD4UPL.jpg | https://m.media-amazon.com/images/I/511bBS4E1hL.jpg | https://m.media-amazon.com/images/I/41fPsP-Mu9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.09%",
   "SalePrice": "₹999.00",
   "Model": "AP4"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41mdfaL93WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kdrAGywPL.jpg | https://m.media-amazon.com/images/I/31MSfMpjOxL.jpg | https://m.media-amazon.com/images/I/41Teyv8V98S.jpg | https://m.media-amazon.com/images/I/41ujNt0-TiL.jpg | https://m.media-amazon.com/images/I/419pRLJEHML.jpg | https://m.media-amazon.com/images/I/41kaHRdj5tL.jpg | https://m.media-amazon.com/images/I/41mdfaL93WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.17%",
   "SalePrice": "₹1,399.00",
   "Model": "BCF601AA"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/3179ss0iUJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qGdmPzSJL.jpg | https://m.media-amazon.com/images/I/318y1ZCbBcL.jpg | https://m.media-amazon.com/images/I/51LBJKsKi2L.jpg | https://m.media-amazon.com/images/I/51tGXjMrPdL.jpg | https://m.media-amazon.com/images/I/51soIy09MiL.jpg | https://m.media-amazon.com/images/I/41ppjHnemhL.jpg | https://m.media-amazon.com/images/I/41D5ssqIigL.jpg | https://m.media-amazon.com/images/I/3179ss0iUJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.36%",
   "SalePrice": "₹4,494.00",
   "Model": "BMT126C"
 }

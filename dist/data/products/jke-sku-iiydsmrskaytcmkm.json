@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31NjA3-XP6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61sdTxgjs-L.jpg | https://m.media-amazon.com/images/I/31NjA3-XP6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "26.05%",
   "SalePrice": "₹9,613.00",
   "Model": "PDB13008"
 }

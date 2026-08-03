@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/417EeM3854L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+Cy7BQuTL.jpg | https://m.media-amazon.com/images/I/417EeM3854L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.18%",
   "SalePrice": "₹2,215.00",
   "Model": "DZJ02-13"
 }

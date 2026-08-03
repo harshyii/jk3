@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51DIIa35uPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mMEAVou0L.jpg | https://m.media-amazon.com/images/I/31UYF3XphML.jpg | https://m.media-amazon.com/images/I/51cakVySW4L.jpg | https://m.media-amazon.com/images/I/41IBH88WVoL.jpg | https://m.media-amazon.com/images/I/51IHlzXM5DL.jpg | https://m.media-amazon.com/images/I/51oxWRmsVcL.jpg | https://m.media-amazon.com/images/I/41Sb1NVmKYL.jpg | https://m.media-amazon.com/images/I/51DIIa35uPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.22%",
   "SalePrice": "₹20,371.30",
   "Model": "4300-5/40"
 }

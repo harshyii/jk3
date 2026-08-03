@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/21zB6Nk7q2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XZ2JEXHcL.jpg | https://m.media-amazon.com/images/I/21y2MSDo9OL.jpg | https://m.media-amazon.com/images/I/21ZZ1opbI5L.jpg | https://m.media-amazon.com/images/I/21oqao+WnKL.jpg | https://m.media-amazon.com/images/I/21zB6Nk7q2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.73%",
   "SalePrice": "₹229.00",
   "Model": "1734N"
 }

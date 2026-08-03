@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41Bns7x6mEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Cx3935mpL.jpg | https://m.media-amazon.com/images/I/51Cx3935mpL.jpg | https://m.media-amazon.com/images/I/51TQi2IZyuL.jpg | https://m.media-amazon.com/images/I/51fbXt3Ra2L.jpg | https://m.media-amazon.com/images/I/51RWma4svGL.jpg | https://m.media-amazon.com/images/I/41S5TkeKOML.jpg | https://m.media-amazon.com/images/I/413a5Cxb3JL.jpg | https://m.media-amazon.com/images/I/41Bns7x6mEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "58.12%",
   "SalePrice": "₹209.00",
   "Model": "Water_Pump_Plier_Kit"
 }

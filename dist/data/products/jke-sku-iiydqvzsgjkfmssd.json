@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31he-Ie2waL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41VsAMyBKjL.jpg | https://m.media-amazon.com/images/I/41VsAMyBKjL.jpg | https://m.media-amazon.com/images/I/51kegIAY2SL.jpg | https://m.media-amazon.com/images/I/31he-Ie2waL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.3%",
   "SalePrice": "₹595.00",
   "Model": "6x110mm",
   "Country": "India"

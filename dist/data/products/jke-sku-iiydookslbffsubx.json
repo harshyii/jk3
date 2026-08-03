@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41nX-9Ivu5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71taHSpRnzL.jpg | https://m.media-amazon.com/images/I/31kO38xYZVL.jpg | https://m.media-amazon.com/images/I/41BTSqAqIhL.jpg | https://m.media-amazon.com/images/I/412JWL3JhFL.jpg | https://m.media-amazon.com/images/I/41nX-9Ivu5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "9 Count",
-  "Discount": 0,
+  "Discount": "13.83%",
   "SalePrice": "₹1,527.74",
   "Model": "36103"
 }

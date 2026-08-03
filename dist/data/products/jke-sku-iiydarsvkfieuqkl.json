@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/51NyI1vHKPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NyI1vHKPL.jpg | https://m.media-amazon.com/images/I/51NyI1vHKPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "58.77%",
   "SalePrice": "₹2,008.94",
   "Model": "Milwaukee - 48-32-5033"
 }

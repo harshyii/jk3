@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51wbrdmOH5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71WR00cLYCL.jpg | https://m.media-amazon.com/images/I/419NjzvVXrL.jpg | https://m.media-amazon.com/images/I/61RiITf4duL.jpg | https://m.media-amazon.com/images/I/51MZ1ALeWZL.jpg | https://m.media-amazon.com/images/I/51ebJz86OOL.jpg | https://m.media-amazon.com/images/I/51F9-bQrtML.jpg | https://m.media-amazon.com/images/I/51u7lZossOL.jpg | https://m.media-amazon.com/images/I/51wbrdmOH5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "650.0 Milliliters",
-  "Discount": 0,
+  "Discount": "37.64%",
   "SalePrice": "₹1,925.00",
   "Country": "India"
 }

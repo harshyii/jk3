@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41MTQAXwE0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61g-5JOmqaL.jpg | https://m.media-amazon.com/images/I/41Xz5-emc1L.jpg | https://m.media-amazon.com/images/I/41GEtkOfFRL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41sF66eWOJL.jpg | https://m.media-amazon.com/images/I/41X9aiAd4BL.jpg | https://m.media-amazon.com/images/I/41hW3zWr2YL.jpg | https://m.media-amazon.com/images/I/51ApAto4HHL.jpg | https://m.media-amazon.com/images/I/41MTQAXwE0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹21,938.00",
   "Model": "899-A1N-1025-899-BA2-T160-899-281-0AIO"
 }

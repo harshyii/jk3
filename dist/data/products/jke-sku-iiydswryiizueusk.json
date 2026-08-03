@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31zUBJ8tMES.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31dk+es0wqS.jpg | https://m.media-amazon.com/images/I/31dk+es0wqS.jpg | https://m.media-amazon.com/images/I/31WQOmJP+lS.jpg | https://m.media-amazon.com/images/I/419MIptrRcS.jpg | https://m.media-amazon.com/images/I/31sog5+UG5S.jpg | https://m.media-amazon.com/images/I/31zUBJ8tMES.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹10,500.00",
   "Model": "XP 22\" chainsaw XPG-CS22"
 }

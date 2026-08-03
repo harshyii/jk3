@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/51NhjaoTuNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bKvX8vKqL.jpg | https://m.media-amazon.com/images/I/31OP-dzyi8L.jpg | https://m.media-amazon.com/images/I/61FmDyfLKgL.jpg | https://m.media-amazon.com/images/I/41a5nYCKO7L.jpg | https://m.media-amazon.com/images/I/61Eskt18caL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/51NhjaoTuNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "21.82%",
   "SalePrice": "₹15,049.00",
   "Model": "DCH133N-XJ"
 }

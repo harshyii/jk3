@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41d0z376bML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71nnjgfVSNL.jpg | https://m.media-amazon.com/images/I/41y65B9oCoL.jpg | https://m.media-amazon.com/images/I/41Ywo5pF8fL.jpg | https://m.media-amazon.com/images/I/41vxdO8mEWL.jpg | https://m.media-amazon.com/images/I/41qxsvhqrYL.jpg | https://m.media-amazon.com/images/I/51iiRmmZdTL.jpg | https://m.media-amazon.com/images/I/51CFMLyMNKL.jpg | https://m.media-amazon.com/images/I/41d0z376bML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹14,333.94",
   "Model": "HSLM-01"
 }

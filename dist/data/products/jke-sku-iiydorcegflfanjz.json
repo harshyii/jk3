@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31Gl6dC37LS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51QPYf6WMmS.jpg | https://m.media-amazon.com/images/I/31Gl6dC37LS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.1%",
   "SalePrice": "₹4,702.15",
   "Model": "HM-099988002009-VB"
 }

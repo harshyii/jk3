@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51Hc7Fxut6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qH91z28+L.jpg | https://m.media-amazon.com/images/I/41SBvRaSXnL.jpg | https://m.media-amazon.com/images/I/51QVqY05yXL.jpg | https://m.media-amazon.com/images/I/51-tsBTcoxL.jpg | https://m.media-amazon.com/images/I/41zw-TVKOUL.jpg | https://m.media-amazon.com/images/I/51xoSSKwWnL.jpg | https://m.media-amazon.com/images/I/51YLshy4ymL.jpg | https://m.media-amazon.com/images/I/51Hc7Fxut6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "44.78%",
   "SalePrice": "₹1,380.00",
   "Model": "HM-01 WG730"
 }

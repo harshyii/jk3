@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41FXU4g9DAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UeRqwTdNL.jpg | https://m.media-amazon.com/images/I/51UeRqwTdNL.jpg | https://m.media-amazon.com/images/I/514lYBefC5L.jpg | https://m.media-amazon.com/images/I/41FXU4g9DAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "20000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "24.32%",
   "SalePrice": "₹4,995.00",
   "Country": "India"
 }

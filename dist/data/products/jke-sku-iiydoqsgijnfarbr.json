@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41Q0lvEoLyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/514DnItC-xL.jpg | https://m.media-amazon.com/images/I/41Q0lvEoLyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.34%",
   "SalePrice": "₹4,909.00",
   "Model": "DZC05-26"
 }

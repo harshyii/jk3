@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41qgXZsdgcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Q1WzyiMqL.jpg | https://m.media-amazon.com/images/I/41qgXZsdgcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "58 Count",
-  "Discount": 0,
+  "Discount": "28.57%",
   "SalePrice": "₹500.00",
   "Model": "Htb-65mm-2.5"
 }

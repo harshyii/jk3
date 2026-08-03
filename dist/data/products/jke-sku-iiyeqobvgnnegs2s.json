@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/414xT4XX6RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51hCAFwgIXL.jpg | https://m.media-amazon.com/images/I/51hCAFwgIXL.jpg | https://m.media-amazon.com/images/I/51Kzf4eQU4L.jpg | https://m.media-amazon.com/images/I/51CcjUU7IHL.jpg | https://m.media-amazon.com/images/I/311LKqfKfAL.jpg | https://m.media-amazon.com/images/I/311aYY62bDL.jpg | https://m.media-amazon.com/images/I/416j3fOd+hL.jpg | https://m.media-amazon.com/images/I/414xT4XX6RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "55.05%",
   "SalePrice": "₹8,499.00",
   "Model": "DMR04-12"
 }

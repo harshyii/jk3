@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51lgze02WCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ZgbcNP8ML.jpg | https://m.media-amazon.com/images/I/51nYYaMBMCL.jpg | https://m.media-amazon.com/images/I/51m+3Lfpy1L.jpg | https://m.media-amazon.com/images/I/41sDPptWGRL.jpg | https://m.media-amazon.com/images/I/41rNgyROeLL.jpg | https://m.media-amazon.com/images/I/51ajJlC4J5L.jpg | https://m.media-amazon.com/images/I/51vZC-yiVhL.jpg | https://m.media-amazon.com/images/I/51lgze02WCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,282.95",
   "Model": "JC7831",
   "Country": "USA"

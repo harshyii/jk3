@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51BYIU72VyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61W63lzXcML.jpg | https://m.media-amazon.com/images/I/410Qt1qmU7L.jpg | https://m.media-amazon.com/images/I/41K7OKoeRbL.jpg | https://m.media-amazon.com/images/I/51-zp6l5PmL.jpg | https://m.media-amazon.com/images/I/61aUdSFmA6L.jpg | https://m.media-amazon.com/images/I/515hwRPkz9L.jpg | https://m.media-amazon.com/images/I/517iyd+tZUL.jpg | https://m.media-amazon.com/images/I/51BYIU72VyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹24,679.70",
   "Model": "XRJ01Z"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51W6dIP2LOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qR0IBluaL.jpg | https://m.media-amazon.com/images/I/51syUfiVg0L.jpg | https://m.media-amazon.com/images/I/51UofU1jVlL.jpg | https://m.media-amazon.com/images/I/41xlYu5jm6L.jpg | https://m.media-amazon.com/images/I/51W6dIP2LOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "70.45%",
   "SalePrice": "₹1,699.00",
   "Model": "E-00418"
 }

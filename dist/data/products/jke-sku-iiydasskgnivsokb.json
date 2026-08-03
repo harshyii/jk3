@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/41+j+RuguwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61AlGxg3DdL.jpg | https://m.media-amazon.com/images/I/41tA2u65tRL.jpg | https://m.media-amazon.com/images/I/417uAWq5nKL.jpg | https://m.media-amazon.com/images/I/419gGXeLHxL.jpg | https://m.media-amazon.com/images/I/41TMpR26JML.jpg | https://m.media-amazon.com/images/I/41BJScfq2zL.jpg | https://m.media-amazon.com/images/I/51Rc7hSIjiL.jpg | https://m.media-amazon.com/images/I/41+j+RuguwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹18,691.00",
   "Model": "BDCI20C"
 }

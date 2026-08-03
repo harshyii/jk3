@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51HwR8EEABL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CosL3N9PL.jpg | https://m.media-amazon.com/images/I/31aXL7TMojL.jpg | https://m.media-amazon.com/images/I/41-+73kp2BL.jpg | https://m.media-amazon.com/images/I/41puIrNV-vL.jpg | https://m.media-amazon.com/images/I/51pY0H8J2RL.jpg | https://m.media-amazon.com/images/I/51sJHATbnhL.jpg | https://m.media-amazon.com/images/I/51HwR8EEABL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "0.1%",
   "SalePrice": "₹3,995.00",
   "Model": "BUBC"
 }

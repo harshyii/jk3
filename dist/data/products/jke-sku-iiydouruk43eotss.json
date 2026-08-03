@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51ZAZHrA4uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712etwSiscL.jpg | https://m.media-amazon.com/images/I/41RV3R5YmWL.jpg | https://m.media-amazon.com/images/I/51Vi44i8SVL.jpg | https://m.media-amazon.com/images/I/41aCpTHYBuL.jpg | https://m.media-amazon.com/images/I/61kLqvKr-XL.jpg | https://m.media-amazon.com/images/I/61l38VeA0EL.jpg | https://m.media-amazon.com/images/I/51ZAZHrA4uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.33%",
   "SalePrice": "₹5,542.00",
   "Model": "SC16-IN"
 }

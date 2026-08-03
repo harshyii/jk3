@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41gDWz+mMbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41YHCLyzgWL.jpg | https://m.media-amazon.com/images/I/31+Yyb-09pL.jpg | https://m.media-amazon.com/images/I/61Ru-llq6eL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41ULw1+ME0L.jpg | https://m.media-amazon.com/images/I/41U1KZPcHzL.jpg | https://m.media-amazon.com/images/I/41xoCfjoioL.jpg | https://m.media-amazon.com/images/I/41VcLfVlDgL.jpg | https://m.media-amazon.com/images/I/41gDWz+mMbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "12.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹855.00",
   "Country": "India"
 }

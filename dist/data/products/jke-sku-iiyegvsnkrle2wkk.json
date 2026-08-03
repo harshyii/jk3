@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41G6CoeY5pL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51HTUEwspoL.jpg | https://m.media-amazon.com/images/I/31spABsK7lL.jpg | https://m.media-amazon.com/images/I/516HsJTtzmL.jpg | https://m.media-amazon.com/images/I/41yA5DpDnmL.jpg | https://m.media-amazon.com/images/I/51D9DOlrxXL.jpg | https://m.media-amazon.com/images/I/41G6CoeY5pL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "48%",
   "SalePrice": "₹130.00",
   "Model": "MX-3092_Black"
 }

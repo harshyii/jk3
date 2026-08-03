@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51JQJse8OeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RwQI5pcDL.jpg | https://m.media-amazon.com/images/I/31mVQWBxZmL.jpg | https://m.media-amazon.com/images/I/41HN0hHnKkL.jpg | https://m.media-amazon.com/images/I/31mwNqmcMKL.jpg | https://m.media-amazon.com/images/I/51+ZCvInzSL.jpg | https://m.media-amazon.com/images/I/51hbddDUdFL.jpg | https://m.media-amazon.com/images/I/51xAo+cd4BL.jpg | https://m.media-amazon.com/images/I/51JQJse8OeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10.44%",
   "SalePrice": "₹34,323.00",
   "Model": "BHSM15FX08",
   "Country": "China"

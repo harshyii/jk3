@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51atOHdj-AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dxc8-ZKLL.jpg | https://m.media-amazon.com/images/I/41OSlrqTxGL.jpg | https://m.media-amazon.com/images/I/41WKIvOl7XL.jpg | https://m.media-amazon.com/images/I/4114OS6rfSL.jpg | https://m.media-amazon.com/images/I/51atOHdj-AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "7.00 Count",
-  "Discount": 0,
+  "Discount": "18%",
   "SalePrice": "₹8,199.00",
   "Model": "Sun King Home P1"
 }

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31vyiekdsYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ZOReH8r4L.jpg | https://m.media-amazon.com/images/I/41ZOReH8r4L.jpg | https://m.media-amazon.com/images/I/31azXq6SiSL.jpg | https://m.media-amazon.com/images/I/31vyiekdsYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.25%",
   "SalePrice": "₹399.00",
   "Model": "ELELSAOLPAPO2"
 }

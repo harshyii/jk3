@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/41MBbG-3I4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61G4BWdNuJL.jpg | https://m.media-amazon.com/images/I/41zaGh4hDaL.jpg | https://m.media-amazon.com/images/I/51Dhdn2kjRL.jpg | https://m.media-amazon.com/images/I/41m7i1ARa7L.jpg | https://m.media-amazon.com/images/I/41YT9U3SJJL.jpg | https://m.media-amazon.com/images/I/415RspeM+YL.jpg | https://m.media-amazon.com/images/I/41Yb7Qmyp8L.jpg | https://m.media-amazon.com/images/I/41MBbG-3I4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹29,013.59",
   "Model": "FD09R1"
 }

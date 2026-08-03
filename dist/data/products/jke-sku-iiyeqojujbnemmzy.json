@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41UeLCWY9lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81AME3b25qL.jpg | https://m.media-amazon.com/images/I/41jQqrhPonL.jpg | https://m.media-amazon.com/images/I/41UeLCWY9lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27.78%",
   "SalePrice": "₹6,500.00",
   "Model": "Lkl-45t122023015"
 }

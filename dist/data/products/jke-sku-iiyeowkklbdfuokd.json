@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31zVfDIZPaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61VycBANznL.jpg | https://m.media-amazon.com/images/I/316PTT2InaL.jpg | https://m.media-amazon.com/images/I/31S1W2PG+DL.jpg | https://m.media-amazon.com/images/I/31zVfDIZPaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "65%",
   "SalePrice": "₹420.00",
   "Model": "Xp-mnh-8mm-65mm"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31FF4YfHafL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615S-MXb8LL.jpg | https://m.media-amazon.com/images/I/41c44rtsyWL.jpg | https://m.media-amazon.com/images/I/41A7qXm1tKL.jpg | https://m.media-amazon.com/images/I/11Gj7K8XBtL.jpg | https://m.media-amazon.com/images/I/110h9SWwPpL.jpg | https://m.media-amazon.com/images/I/21dRgh2gwxL.jpg | https://m.media-amazon.com/images/I/21ZKxYGnrOL.jpg | https://m.media-amazon.com/images/I/31FF4YfHafL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.42%",
   "SalePrice": "₹4,235.00",
   "Model": "DT2186",
   "Country": "China"

@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/517voLxUNhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510GlxC4SRL.jpg | https://m.media-amazon.com/images/I/31pyz4SM4qL.jpg | https://m.media-amazon.com/images/I/41S9NAuQkgL.jpg | https://m.media-amazon.com/images/I/41vj4LmcRuL.jpg | https://m.media-amazon.com/images/I/51YH2hIe6+L.jpg | https://m.media-amazon.com/images/I/514zLVTBR7L.jpg | https://m.media-amazon.com/images/I/517voLxUNhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "21%",
   "SalePrice": "₹7,900.00",
   "Model": "NXG 1150e"
 }

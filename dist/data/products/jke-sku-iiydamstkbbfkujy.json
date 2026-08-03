@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/41iZkzm5YPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Awb+LIC4L.jpg | https://m.media-amazon.com/images/I/415yhCd1ndL.jpg | https://m.media-amazon.com/images/I/61dZq5TTVTL.jpg | https://m.media-amazon.com/images/I/51ECdCIBofL.jpg | https://m.media-amazon.com/images/I/517N9kJ8auL.jpg | https://m.media-amazon.com/images/I/31vKLGgo4dL.jpg | https://m.media-amazon.com/images/I/511cwGDlAxL.jpg | https://m.media-amazon.com/images/I/41iZkzm5YPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "43.27%",
   "SalePrice": "₹198.00",
   "Model": "1507604"
 }

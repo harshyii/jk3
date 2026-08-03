@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51KiLTox2hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71YtD56gcyL.jpg | https://m.media-amazon.com/images/I/41+dtQBNHKL.jpg | https://m.media-amazon.com/images/I/51GHz29+TcL.jpg | https://m.media-amazon.com/images/I/51FPbWv0a6L.jpg | https://m.media-amazon.com/images/I/51wVSFmkvLL.jpg | https://m.media-amazon.com/images/I/51gphK5Iz8L.jpg | https://m.media-amazon.com/images/I/51i1gCAHGvL.jpg | https://m.media-amazon.com/images/I/51KiLTox2hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.63%",
   "SalePrice": "₹2,768.04",
   "Model": "AIR_224_16SW",
   "Country": "USA"

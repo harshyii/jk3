@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41Z74O8GKDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xHw7rs7yL.jpg | https://m.media-amazon.com/images/I/41TAPr2OS8L.jpg | https://m.media-amazon.com/images/I/41MgCZlunmL.jpg | https://m.media-amazon.com/images/I/41s7ywWqUjL.jpg | https://m.media-amazon.com/images/I/51vfi8BqDLL.jpg | https://m.media-amazon.com/images/I/411zLEsMSFL.jpg | https://m.media-amazon.com/images/I/51hDn8h6UKL.jpg | https://m.media-amazon.com/images/I/41Z74O8GKDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "44%",
   "SalePrice": "₹560.00",
   "Model": "TW52708"
 }

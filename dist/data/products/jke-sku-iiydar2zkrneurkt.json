@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41m97fUFj7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61M+ZADbbcL.jpg | https://m.media-amazon.com/images/I/41m97fUFj7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.07%",
   "SalePrice": "₹365.00",
   "Model": "a13092700ux1055"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/419Nr1LmDeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KU0vyWHrL.jpg | https://m.media-amazon.com/images/I/4198qvfm9QL.jpg | https://m.media-amazon.com/images/I/51Hs7AF11nL.jpg | https://m.media-amazon.com/images/I/51V9Kyz8UrL.jpg | https://m.media-amazon.com/images/I/51Lw3Ib+S4L.jpg | https://m.media-amazon.com/images/I/51ghQHl3CJL.jpg | https://m.media-amazon.com/images/I/51wbI4-OyWL.jpg | https://m.media-amazon.com/images/I/419Nr1LmDeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.1%",
   "SalePrice": "₹2,459.00",
   "Model": "T7385"
 }

@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/314WfqSqAVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/514dYXAzHnL.jpg | https://m.media-amazon.com/images/I/314WfqSqAVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "56.69%",
   "SalePrice": "₹1,299.00",
   "Model": "Vx-Wavex",
   "Country": "India"

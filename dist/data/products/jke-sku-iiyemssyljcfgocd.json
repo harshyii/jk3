@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41zzg7KW6cL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51b3M5iPWjL.jpg | https://m.media-amazon.com/images/I/312Ym+eA9gL.jpg | https://m.media-amazon.com/images/I/41D95bziccL.jpg | https://m.media-amazon.com/images/I/41y7yZxUEYL.jpg | https://m.media-amazon.com/images/I/41zzg7KW6cL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "44%",
   "SalePrice": "₹27,999.00",
   "Model": "550W Bi Facial Non DCR"
 }

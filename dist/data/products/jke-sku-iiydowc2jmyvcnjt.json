@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51dXAVHsA4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61rGn7cCxiL.jpg | https://m.media-amazon.com/images/I/31qo0rbo-HL.jpg | https://m.media-amazon.com/images/I/41YOkpf2L1L.jpg | https://m.media-amazon.com/images/I/516NFBv4AjL.jpg | https://m.media-amazon.com/images/I/41Cr7nCaWvL.jpg | https://m.media-amazon.com/images/I/51GkiNHo7LL.jpg | https://m.media-amazon.com/images/I/51dXAVHsA4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.93%",
   "SalePrice": "₹19,999.00",
   "Model": "CWKTH012",
   "Country": "China"

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51Z5ijj9iLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61mxGQH4eJL.jpg | https://m.media-amazon.com/images/I/41ad1T-IqYL.jpg | https://m.media-amazon.com/images/I/514QIHMFVNL.jpg | https://m.media-amazon.com/images/I/51m3wZIqOzL.jpg | https://m.media-amazon.com/images/I/51b-kW7I++L.jpg | https://m.media-amazon.com/images/I/5138i+k+Q3L.jpg | https://m.media-amazon.com/images/I/51Z5ijj9iLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Grams",
-  "Discount": 0,
+  "Discount": "46.91%",
   "SalePrice": "₹318.00",
   "Country": "India"
 }

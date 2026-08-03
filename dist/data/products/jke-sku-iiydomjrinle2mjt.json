@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41UHVLmYryL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71MNwQIRjeL.jpg | https://m.media-amazon.com/images/I/51PGwqaWTML.jpg | https://m.media-amazon.com/images/I/41No96B9-PL.jpg | https://m.media-amazon.com/images/I/41UHVLmYryL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "68.65%",
   "SalePrice": "₹470.00",
   "Model": "CL-NW-TRDS-3842",
   "Country": "India"

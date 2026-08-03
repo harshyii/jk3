@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51WAifVvMQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71hz8j+ySaL.jpg | https://m.media-amazon.com/images/I/41IfWX+bmjL.jpg | https://m.media-amazon.com/images/I/51Xpp8srFGL.jpg | https://m.media-amazon.com/images/I/51MiuIHP-DL.jpg | https://m.media-amazon.com/images/I/41viZEXRkoL.jpg | https://m.media-amazon.com/images/I/41SgAywxDLL.jpg | https://m.media-amazon.com/images/I/61DUruU21HL.jpg | https://m.media-amazon.com/images/I/51WAifVvMQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "68.67%",
   "SalePrice": "₹3,759.00",
   "Model": "RM"
 }

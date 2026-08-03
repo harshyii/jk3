@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41d4SW0SS7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614eMwutWoL.jpg | https://m.media-amazon.com/images/I/41d4SW0SS7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "25.43%",
   "SalePrice": "₹4,134.67",
   "Model": "TIG/M/24D/BSP",
   "Country": "India"

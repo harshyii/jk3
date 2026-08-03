@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41uB82JTxEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/517EvMrulpL.jpg | https://m.media-amazon.com/images/I/31Ae3t2NvvL.jpg | https://m.media-amazon.com/images/I/41pXLvwySeL.jpg | https://m.media-amazon.com/images/I/31b1OtWIg1L.jpg | https://m.media-amazon.com/images/I/41t4mrJ-GkL.jpg | https://m.media-amazon.com/images/I/41i8tFhwkeL.jpg | https://m.media-amazon.com/images/I/31RGPpJjTXL.jpg | https://m.media-amazon.com/images/I/41uB82JTxEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "70.15%",
   "SalePrice": "₹340.00",
   "Model": "E-2049_12/300MM"
 }

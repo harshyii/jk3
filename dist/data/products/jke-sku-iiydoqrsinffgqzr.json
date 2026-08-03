@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/319YzAwuxIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31p4iKIDjVL.jpg | https://m.media-amazon.com/images/I/31p4iKIDjVL.jpg | https://m.media-amazon.com/images/I/319YzAwuxIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.95%",
   "SalePrice": "₹16,025.00",
   "Model": "Life Line Plus"
 }

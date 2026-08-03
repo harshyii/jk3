@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51rAEVRGohL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KQEmwc0PL.jpg | https://m.media-amazon.com/images/I/314um-TvZhL.jpg | https://m.media-amazon.com/images/I/51rAEVRGohL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.95%",
   "SalePrice": "₹3,023.00",
   "Model": "STW/18G"
 }

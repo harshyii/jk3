@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/418qj9Q4AVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51rH6rxM7TL.jpg | https://m.media-amazon.com/images/I/313X9Ec41UL.jpg | https://m.media-amazon.com/images/I/51jjo90n-RL.jpg | https://m.media-amazon.com/images/I/51f98cSDNOL.jpg | https://m.media-amazon.com/images/I/51HeeLKqrPL.jpg | https://m.media-amazon.com/images/I/418qj9Q4AVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "80.83%",
   "SalePrice": "₹249.00",
   "Model": "ZA-D0CJ-O70E_NEW"
 }

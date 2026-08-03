@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51NqutZ0oeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610IEp8ErpL.jpg | https://m.media-amazon.com/images/I/31Z-At3F5RL.jpg | https://m.media-amazon.com/images/I/412OGQ0LgJL.jpg | https://m.media-amazon.com/images/I/51gbjyv7hBL.jpg | https://m.media-amazon.com/images/I/51TULu2GKFL.jpg | https://m.media-amazon.com/images/I/51LvyE1Tx4L.jpg | https://m.media-amazon.com/images/I/51NqutZ0oeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹15,580.34",
   "Model": "BDCR20B"
 }

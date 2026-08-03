@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/415MWLXwYGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/519vwfLkksL.jpg | https://m.media-amazon.com/images/I/31tHOhJ5gkL.jpg | https://m.media-amazon.com/images/I/41-ZxvXy0iL.jpg | https://m.media-amazon.com/images/I/41J419CrckL.jpg | https://m.media-amazon.com/images/I/41mBheMxh+L.jpg | https://m.media-amazon.com/images/I/41y6Fa6zt7L.jpg | https://m.media-amazon.com/images/I/415MWLXwYGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Liters",
-  "Discount": 0,
+  "Discount": "55.1%",
   "SalePrice": "₹4,890.00",
   "Model": "GHWECAPWB005"
 }

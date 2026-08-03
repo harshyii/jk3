@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/813fD18c3kL.jpg | https://m.media-amazon.com/images/I/51sTjewYj5L.jpg | https://m.media-amazon.com/images/I/512duzo8jeL.jpg | https://m.media-amazon.com/images/I/51Ee5QTk7ZL.jpg | https://m.media-amazon.com/images/I/51W9UsoTYoL.jpg | https://m.media-amazon.com/images/I/51OhIF+BZdL.jpg | https://m.media-amazon.com/images/I/51JAgT4wegL.jpg | https://m.media-amazon.com/images/I/51Yp7o-TZtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "45.3%",
   "SalePrice": "₹2,899.00",
   "Model": "DCJZ1208"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41s0YfOLE0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71w0Su6GonL.jpg | https://m.media-amazon.com/images/I/41AFuiwTTIL.jpg | https://m.media-amazon.com/images/I/416jgBvI0fL.jpg | https://m.media-amazon.com/images/I/41ZpPtw2JGL.jpg | https://m.media-amazon.com/images/I/514xp5eP5jL.jpg | https://m.media-amazon.com/images/I/51fhgNf+dZL.jpg | https://m.media-amazon.com/images/I/51bPHKXufEL.jpg | https://m.media-amazon.com/images/I/41s0YfOLE0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "35.63%",
   "SalePrice": "₹5,071.00",
   "Model": "G200526",
   "Country": "USA"

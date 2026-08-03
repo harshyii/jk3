@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31JGUZxrrML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ldS1t4yPL.jpg | https://m.media-amazon.com/images/I/31DKgQC1KdL.jpg | https://m.media-amazon.com/images/I/31A+3qBW52L.jpg | https://m.media-amazon.com/images/I/21YS+TlHi+L.jpg | https://m.media-amazon.com/images/I/31JGUZxrrML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5.00 Count",
-  "Discount": 0,
+  "Discount": "35.82%",
   "SalePrice": "₹2,641.00",
   "Model": "Square Tool Bit"
 }

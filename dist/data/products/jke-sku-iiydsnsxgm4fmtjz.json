@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41ZwiaJ7eML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61v2RwQIFQL.jpg | https://m.media-amazon.com/images/I/41WD1CR5nGL.jpg | https://m.media-amazon.com/images/I/51t07vnmz+L.jpg | https://m.media-amazon.com/images/I/51oNynifN0L.jpg | https://m.media-amazon.com/images/I/51jbUklcd2L.jpg | https://m.media-amazon.com/images/I/51cIoMQbvIL.jpg | https://m.media-amazon.com/images/I/41ZwiaJ7eML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.83%",
   "SalePrice": "₹4,091.00",
   "Model": "HOWS4"
 }

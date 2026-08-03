@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ltM6MhR-L.jpg | https://m.media-amazon.com/images/I/410brs2iUJL.jpg | https://m.media-amazon.com/images/I/51AD+074n6L.jpg | https://m.media-amazon.com/images/I/51HdLsmQZgL.jpg | https://m.media-amazon.com/images/I/51IBJ7wPtqL.jpg | https://m.media-amazon.com/images/I/51V2QoUOENL.jpg | https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.04%",
   "SalePrice": "₹25,099.00",
   "Model": "AMP-66AP280TT"
 }

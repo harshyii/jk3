@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41qotmAY-qL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712kiDaFqQL.jpg | https://m.media-amazon.com/images/I/41JpgMjFwtL.jpg | https://m.media-amazon.com/images/I/51uVKQN6z5L.jpg | https://m.media-amazon.com/images/I/51nFDBo0GRL.jpg | https://m.media-amazon.com/images/I/51XJ3Ty3qmL.jpg | https://m.media-amazon.com/images/I/51CcfHxW4gL.jpg | https://m.media-amazon.com/images/I/51mbt9gCZQL.jpg | https://m.media-amazon.com/images/I/41qotmAY-qL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.16%",
   "SalePrice": "₹5,028.06",
   "Model": "‎Torque X",
   "Country": "‎China"

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Gp+6s1umL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91mqgza+7cL.jpg | https://m.media-amazon.com/images/I/4101pSAU0GL.jpg | https://m.media-amazon.com/images/I/41h6ZB9XGgL.jpg | https://m.media-amazon.com/images/I/41jcBqZzOUL.jpg | https://m.media-amazon.com/images/I/51Fq6C0yT3L.jpg | https://m.media-amazon.com/images/I/31xI3RHE9BL.jpg | https://m.media-amazon.com/images/I/41-Km5BRL0L.jpg | https://m.media-amazon.com/images/I/41Gp+6s1umL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "7.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹10,004.21",
   "Model": "AA/AAA solar battery charger",
   "Country": "USA"

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41RZ3nwNB+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81R+I4xh9KL.jpg | https://m.media-amazon.com/images/I/51ppk+Fk+EL.jpg | https://m.media-amazon.com/images/I/41319DEYucL.jpg | https://m.media-amazon.com/images/I/41RZ3nwNB+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "47.35%",
   "SalePrice": "₹10,741.00",
   "Model": "CSLI18513"
 }

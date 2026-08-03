@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51eGLIf3KzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+Zg6z--8L.jpg | https://m.media-amazon.com/images/I/41Ueb53YPnL.jpg | https://m.media-amazon.com/images/I/51tNHHLavTL.jpg | https://m.media-amazon.com/images/I/51KTLkK-CgL.jpg | https://m.media-amazon.com/images/I/51+FttNwegL.jpg | https://m.media-amazon.com/images/I/51oRqaGhYuL.jpg | https://m.media-amazon.com/images/I/410Xw0iBg0L.jpg | https://m.media-amazon.com/images/I/51eGLIf3KzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.82%",
   "SalePrice": "₹73,771.20",
   "Model": "UC-200"
 }

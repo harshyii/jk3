@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41Cac1vNMKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51FCJamOdJL.jpg | https://m.media-amazon.com/images/I/31Ya9nNZ-WL.jpg | https://m.media-amazon.com/images/I/41k3JE55eML.jpg | https://m.media-amazon.com/images/I/31NHn68nQLL.jpg | https://m.media-amazon.com/images/I/41GYwKzteCL.jpg | https://m.media-amazon.com/images/I/41Cac1vNMKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "23.12%",
   "SalePrice": "₹399.00",
   "Model": "PR-YKEH-N4RW_R",
   "Country": "India"

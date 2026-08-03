@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51mslXulQ0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415wBdoFqtL.jpg | https://m.media-amazon.com/images/I/415wBdoFqtL.jpg | https://m.media-amazon.com/images/I/41X5RFErJXL.jpg | https://m.media-amazon.com/images/I/31vUC8TueIL.jpg | https://m.media-amazon.com/images/I/41kuzEv+LeL.jpg | https://m.media-amazon.com/images/I/51mslXulQ0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "61.77%",
   "SalePrice": "₹229.00",
   "Model": "S P5426365"
 }

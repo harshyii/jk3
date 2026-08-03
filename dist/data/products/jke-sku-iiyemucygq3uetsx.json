@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/3120J+HuUdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61GO3kGx1iL.jpg | https://m.media-amazon.com/images/I/31YG72UJdVL.jpg | https://m.media-amazon.com/images/I/11bqIb8w1iL.jpg | https://m.media-amazon.com/images/I/21KDNEFlKtL.jpg | https://m.media-amazon.com/images/I/31+iSj3zVJL.jpg | https://m.media-amazon.com/images/I/31fr2pYprxL.jpg | https://m.media-amazon.com/images/I/31YyMFs4snL.jpg | https://m.media-amazon.com/images/I/3120J+HuUdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.17%",
   "SalePrice": "₹509.00",
   "Model": "B703"
 }

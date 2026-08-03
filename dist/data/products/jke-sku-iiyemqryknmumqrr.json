@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51byM7ZpDaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51HpnWKSfIL.jpg | https://m.media-amazon.com/images/I/31lFZL5kdWL.jpg | https://m.media-amazon.com/images/I/31lNZg8fK6L.jpg | https://m.media-amazon.com/images/I/315xtJqxlmL.jpg | https://m.media-amazon.com/images/I/41eoo9ruwML.jpg | https://m.media-amazon.com/images/I/31dj0nSqtgL.jpg | https://m.media-amazon.com/images/I/51byM7ZpDaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "67.95%",
   "SalePrice": "₹1,136.00",
   "Model": "‎eBay Motors",
   "Country": "‎Hong Kong"

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61H86PzV3HL.jpg | https://m.media-amazon.com/images/I/41LavFw+bKL.jpg | https://m.media-amazon.com/images/I/51NiDGSYpAL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51D1jXVaf1L.jpg | https://m.media-amazon.com/images/I/51lyqe-A0eL.jpg | https://m.media-amazon.com/images/I/61SlYbKkARL.jpg | https://m.media-amazon.com/images/I/61ACj5l38eL.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.00 Count",
-  "Discount": 0,
+  "Discount": "4.55%",
   "SalePrice": "₹315.00",
   "Country": "India"
 }

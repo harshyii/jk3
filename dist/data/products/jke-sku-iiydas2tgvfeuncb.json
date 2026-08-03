@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/414ImyFH6oL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yRea3kOlL.jpg | https://m.media-amazon.com/images/I/41PkmVNijUL.jpg | https://m.media-amazon.com/images/I/5119bsyxHrL.jpg | https://m.media-amazon.com/images/I/516DLDP5yHL.jpg | https://m.media-amazon.com/images/I/61G9NuNrCnL.jpg | https://m.media-amazon.com/images/I/61licaUfw2L.jpg | https://m.media-amazon.com/images/I/51HygoIJLlL.jpg | https://m.media-amazon.com/images/I/414ImyFH6oL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "499.8 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,583.44",
   "Model": "230241",
   "Country": "USA"

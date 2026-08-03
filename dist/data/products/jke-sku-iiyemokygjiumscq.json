@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41sFBW7-1FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61iAmf08weL.jpg | https://m.media-amazon.com/images/I/31ItseUNncL.jpg | https://m.media-amazon.com/images/I/41sFBW7-1FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "25.06%",
   "SalePrice": "₹1,199.00",
   "Model": "510086-1"
 }

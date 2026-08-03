@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41QP1k0g3lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71D1LKTfUqL.jpg | https://m.media-amazon.com/images/I/51pq8BCSg0L.jpg | https://m.media-amazon.com/images/I/411C3-NmYpL.jpg | https://m.media-amazon.com/images/I/41GCKwSngSL.jpg | https://m.media-amazon.com/images/I/51hQ+orMUlL.jpg | https://m.media-amazon.com/images/I/41eulHBJGbL.jpg | https://m.media-amazon.com/images/I/51csW3GcwUL.jpg | https://m.media-amazon.com/images/I/41QP1k0g3lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,133.31",
   "Model": "JCS223",
   "Country": "USA"

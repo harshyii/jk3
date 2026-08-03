@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41KGKy61UZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/516Q3Z2A3qL.jpg | https://m.media-amazon.com/images/I/41N4PDvb6uL.jpg | https://m.media-amazon.com/images/I/41KGKy61UZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.24%",
   "SalePrice": "₹2,190.00",
   "Model": "INGCO-AAC1408"
 }

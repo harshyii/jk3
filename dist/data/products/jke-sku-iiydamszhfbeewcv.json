@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41UaqdOzHbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SI1kVaRBL.jpg | https://m.media-amazon.com/images/I/31w3yNyNGYL.jpg | https://m.media-amazon.com/images/I/41LbCGg7sML.jpg | https://m.media-amazon.com/images/I/51-5MBm0NLL.jpg | https://m.media-amazon.com/images/I/51Ra+yCmYbL.jpg | https://m.media-amazon.com/images/I/41UaqdOzHbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300.0 Milliliters",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹839.00",
   "Model": "3342000",
   "Country": "Germany"

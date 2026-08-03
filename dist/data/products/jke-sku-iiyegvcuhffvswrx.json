@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31w3+GTzZAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614RldXZNHL.jpg | https://m.media-amazon.com/images/I/3158N7zTvFL.jpg | https://m.media-amazon.com/images/I/21PDzT52QrL.jpg | https://m.media-amazon.com/images/I/31XugdPldWL.jpg | https://m.media-amazon.com/images/I/31w3+GTzZAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "57.75%",
   "SalePrice": "₹1,500.00",
   "Model": "DH52ME"
 }

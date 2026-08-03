@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41tQPLpL7lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51rB0ZJZvOL.jpg | https://m.media-amazon.com/images/I/41aapIS7MXL.jpg | https://m.media-amazon.com/images/I/81-YDB4yYkL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41WgS0eDZ3L.jpg | https://m.media-amazon.com/images/I/41-Sw9I8xkL.jpg | https://m.media-amazon.com/images/I/41NjMle3+cL.jpg | https://m.media-amazon.com/images/I/41tQPLpL7lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹199.00",
   "Model": "‎BSH-CL-NCL-4-BR"
 }

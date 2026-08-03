@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41OOOgkMh3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81nbxw5Xd1L.jpg | https://m.media-amazon.com/images/I/51vv-ShvevL.jpg | https://m.media-amazon.com/images/I/41J9d+d3HoL.jpg | https://m.media-amazon.com/images/I/519bsIU-yVL.jpg | https://m.media-amazon.com/images/I/51x4LAzbLfL.jpg | https://m.media-amazon.com/images/I/41VL6JMvoNL.jpg | https://m.media-amazon.com/images/I/41LMa2tx0oL.jpg | https://m.media-amazon.com/images/I/41OOOgkMh3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "48.25%",
   "SalePrice": "₹310.00",
   "Model": "105pc Rotary Set"
 }

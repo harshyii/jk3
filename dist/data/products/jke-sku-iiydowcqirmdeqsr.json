@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51uOruQmakL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/518u7nx2WIL.jpg | https://m.media-amazon.com/images/I/31z86ewJcRL.jpg | https://m.media-amazon.com/images/I/31ND3TZxovL.jpg | https://m.media-amazon.com/images/I/31Lel2Rcw-L.jpg | https://m.media-amazon.com/images/I/41zLHzyF1aL.jpg | https://m.media-amazon.com/images/I/411qA7OuvJL.jpg | https://m.media-amazon.com/images/I/416tM-ZRuXL.jpg | https://m.media-amazon.com/images/I/51uOruQmakL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "41.69%",
   "SalePrice": "₹21,621.00",
   "Model": "RW01Z"
 }

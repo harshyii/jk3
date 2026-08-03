@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31JfDKm2a6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71M38xusVsL.jpg | https://m.media-amazon.com/images/I/316CrAo7jRL.jpg | https://m.media-amazon.com/images/I/31JfDKm2a6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹17,999.00",
   "Model": "WZ 600",
   "Country": "India"

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/61DA8unaTuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51DkhXYl3TL.jpg | https://m.media-amazon.com/images/I/21BcwCoffxL.jpg | https://m.media-amazon.com/images/I/31gcOTTrLcL.jpg | https://m.media-amazon.com/images/I/51M+rEq7HuL.jpg | https://m.media-amazon.com/images/I/51IWRBW0udL.jpg | https://m.media-amazon.com/images/I/617dd3teh2L.jpg | https://m.media-amazon.com/images/I/51SrXKRHZsL.jpg | https://m.media-amazon.com/images/I/61DA8unaTuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹28,454.98",
   "Model": "#PBLRC25B"
 }

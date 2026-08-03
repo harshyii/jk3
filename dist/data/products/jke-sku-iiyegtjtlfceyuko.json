@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/61K6MvtfssL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UkFaYkaML.jpg | https://m.media-amazon.com/images/I/41R0oxJg-jL.jpg | https://m.media-amazon.com/images/I/41DbNIEy9ML.jpg | https://m.media-amazon.com/images/I/41Zl7zA9SWL.jpg | https://m.media-amazon.com/images/I/51DTTjEqDiL.jpg | https://m.media-amazon.com/images/I/61K6MvtfssL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹1,679.00",
   "Model": "1837662",
   "Country": "Germany"

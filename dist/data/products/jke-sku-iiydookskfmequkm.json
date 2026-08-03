@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51Fn9bcfWfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711-QFnZR9L.jpg | https://m.media-amazon.com/images/I/41KgsdRKJNL.jpg | https://m.media-amazon.com/images/I/41WhOzcZD+L.jpg | https://m.media-amazon.com/images/I/51Fn9bcfWfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "7 Count",
-  "Discount": 0,
+  "Discount": "76.86%",
   "SalePrice": "₹352.00",
   "Model": "36104"
 }

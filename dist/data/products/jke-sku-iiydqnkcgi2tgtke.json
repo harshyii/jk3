@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41DJ1p+uXZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Q8G3zu0yL.jpg | https://m.media-amazon.com/images/I/411Af+yL+BL.jpg | https://m.media-amazon.com/images/I/51Y5eFLyVEL.jpg | https://m.media-amazon.com/images/I/41YyBp9qXGL.jpg | https://m.media-amazon.com/images/I/51g8C-9f+JL.jpg | https://m.media-amazon.com/images/I/41fGnncksLL.jpg | https://m.media-amazon.com/images/I/51R8LITyeQL.jpg | https://m.media-amazon.com/images/I/41DJ1p+uXZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹24,282.31",
   "Model": "DCS356C1"
 }

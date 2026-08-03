@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51r33+aasaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71gyuWbmwOL.jpg | https://m.media-amazon.com/images/I/41L9Y3CyGeL.jpg | https://m.media-amazon.com/images/I/41xzhDIqDcL.jpg | https://m.media-amazon.com/images/I/51ML97YeJpL.jpg | https://m.media-amazon.com/images/I/41miZqiqTrL.jpg | https://m.media-amazon.com/images/I/51V2omWE2lL.jpg | https://m.media-amazon.com/images/I/51ebefd+6vL.jpg | https://m.media-amazon.com/images/I/51r33+aasaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "430.7 Grams",
-  "Discount": 0,
+  "Discount": "40.74%",
   "SalePrice": "₹2,129.16",
   "Model": "G16216EU",
   "Country": "USA"

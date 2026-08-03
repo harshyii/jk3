@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51Jr6t2FRJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51S9FtnEIjL.jpg | https://m.media-amazon.com/images/I/41vqPJ-3z8L.jpg | https://m.media-amazon.com/images/I/41GUhN+76tL.jpg | https://m.media-amazon.com/images/I/51q05De9qRL.jpg | https://m.media-amazon.com/images/I/51omoMGDLfL.jpg | https://m.media-amazon.com/images/I/51K2iHjB1nL.jpg | https://m.media-amazon.com/images/I/51avCukNYeL.jpg | https://m.media-amazon.com/images/I/51Jr6t2FRJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "7.73%",
   "SalePrice": "₹549.00",
   "Model": "31418"
 }

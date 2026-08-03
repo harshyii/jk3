@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41X87n502CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vzBD1yL8L.jpg | https://m.media-amazon.com/images/I/31OvPkH0pUL.jpg | https://m.media-amazon.com/images/I/31Z3PYpwKXL.jpg | https://m.media-amazon.com/images/I/31X-J73rdKL.jpg | https://m.media-amazon.com/images/I/41X87n502CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "65.74%",
   "SalePrice": "₹4,278.77",
   "Model": "088381-555333"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/61C0ubMVAhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aCMYsXzuL.jpg | https://m.media-amazon.com/images/I/31toqsHp63L.jpg | https://m.media-amazon.com/images/I/41hjfpXeB5L.jpg | https://m.media-amazon.com/images/I/51vvZLAdLeL.jpg | https://m.media-amazon.com/images/I/31tPXpb4A1L.jpg | https://m.media-amazon.com/images/I/41oby9fbCWL.jpg | https://m.media-amazon.com/images/I/61BCmxEEB9L.jpg | https://m.media-amazon.com/images/I/61C0ubMVAhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Piece",
-  "Discount": 0,
+  "Discount": "78.26%",
   "SalePrice": "₹65.00",
   "Model": "6VSLRWRE"
 }

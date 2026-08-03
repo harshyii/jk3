@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51wZHQSW06L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71B62BepvkL.jpg | https://m.media-amazon.com/images/I/41cOhyf42RL.jpg | https://m.media-amazon.com/images/I/51PLxEWghfL.jpg | https://m.media-amazon.com/images/I/51tRYetIq2L.jpg | https://m.media-amazon.com/images/I/51vf4R5sUVL.jpg | https://m.media-amazon.com/images/I/51vzxYoTOzL.jpg | https://m.media-amazon.com/images/I/617ogz2Q9nL.jpg | https://m.media-amazon.com/images/I/51wZHQSW06L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Milliliters",
-  "Discount": 0,
+  "Discount": "7.7%",
   "SalePrice": "₹1,199.00",
   "Model": "Graphene Guard",
   "Country": "Germany"

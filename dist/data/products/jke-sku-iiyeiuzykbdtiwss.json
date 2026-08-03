@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/21gtseWDVqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/519MBJ2ocDL.jpg | https://m.media-amazon.com/images/I/31KNpaXHHlL.jpg | https://m.media-amazon.com/images/I/21gnjZGk90L.jpg | https://m.media-amazon.com/images/I/21gtseWDVqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.4%",
   "SalePrice": "₹209.00",
   "Model": "18 - 2022"
 }

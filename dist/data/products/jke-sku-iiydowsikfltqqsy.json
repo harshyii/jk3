@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31kLZxCsRUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ft5zAz40L.jpg | https://m.media-amazon.com/images/I/31ZCjpQ-xWL.jpg | https://m.media-amazon.com/images/I/41DEQ6ouOkL.jpg | https://m.media-amazon.com/images/I/31kLZxCsRUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.09%",
   "SalePrice": "₹8,760.00",
   "Model": "GA5010"
 }

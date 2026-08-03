@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41jAfRG5LZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81l+ht+iTPL.jpg | https://m.media-amazon.com/images/I/41P0CW4+35L.jpg | https://m.media-amazon.com/images/I/519Z3wetDWL.jpg | https://m.media-amazon.com/images/I/51ODZi6a6cL.jpg | https://m.media-amazon.com/images/I/41bzkQzXTVL.jpg | https://m.media-amazon.com/images/I/51SGwQtXsZL.jpg | https://m.media-amazon.com/images/I/41jAfRG5LZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "73.01%",
   "SalePrice": "₹1,349.00",
   "Model": "DCDB"
 }

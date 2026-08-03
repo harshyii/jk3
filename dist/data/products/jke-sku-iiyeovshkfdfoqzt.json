@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41iXrkbnP-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+Prn+exwL.jpg | https://m.media-amazon.com/images/I/41nF504fw8L.jpg | https://m.media-amazon.com/images/I/318nW761sZL.jpg | https://m.media-amazon.com/images/I/31IVamTt6xL.jpg | https://m.media-amazon.com/images/I/51luTOBEBwL.jpg | https://m.media-amazon.com/images/I/41pIilrvFFL.jpg | https://m.media-amazon.com/images/I/41iXrkbnP-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.44%",
   "SalePrice": "₹3,799.00",
   "Model": "DSM02-125B"
 }

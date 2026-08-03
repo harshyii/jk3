@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31Wxeu9svBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61V-SIahdUL.jpg | https://m.media-amazon.com/images/I/31Ji8uImsXL.jpg | https://m.media-amazon.com/images/I/31ASjp20p0L.jpg | https://m.media-amazon.com/images/I/31Wxeu9svBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300.0 Grams",
-  "Discount": 0,
+  "Discount": "56%",
   "SalePrice": "₹220.00",
   "Model": "JL010-WaxBlue",
   "Country": "India"

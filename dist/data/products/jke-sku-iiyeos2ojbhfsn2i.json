@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51fBB0MdfWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7147wKCtDAL.jpg | https://m.media-amazon.com/images/I/41c3xw78qoL.jpg | https://m.media-amazon.com/images/I/41EFdoxszgL.jpg | https://m.media-amazon.com/images/I/41giCSURiAL.jpg | https://m.media-amazon.com/images/I/41nUCruafqL.jpg | https://m.media-amazon.com/images/I/41LfdGCBpGL.jpg | https://m.media-amazon.com/images/I/41RqSEGfrML.jpg | https://m.media-amazon.com/images/I/51fBB0MdfWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63.98%",
   "SalePrice": "₹3,699.00",
   "Model": "HGCM3000"
 }

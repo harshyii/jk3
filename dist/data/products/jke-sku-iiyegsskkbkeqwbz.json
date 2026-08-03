@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/413mepFM1gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EReQ44r2L.jpg | https://m.media-amazon.com/images/I/31fPIcJJjoL.jpg | https://m.media-amazon.com/images/I/41AF+e5lCjL.jpg | https://m.media-amazon.com/images/I/41wHyYAat2L.jpg | https://m.media-amazon.com/images/I/416gTLUJ-xL.jpg | https://m.media-amazon.com/images/I/41ToCM5JXQL.jpg | https://m.media-amazon.com/images/I/413mepFM1gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Piece",
-  "Discount": 0,
+  "Discount": "13.99%",
   "SalePrice": "₹252.00",
   "Model": "BS330"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51CU9CW69KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41D-Q-UpCNL.jpg | https://m.media-amazon.com/images/I/41D-Q-UpCNL.jpg | https://m.media-amazon.com/images/I/4103NYxC9mL.jpg | https://m.media-amazon.com/images/I/41navBOMuSL.jpg | https://m.media-amazon.com/images/I/41J6SkyJQeS.jpg | https://m.media-amazon.com/images/I/51CU9CW69KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.33%",
   "SalePrice": "₹278.00",
   "Model": "tc13"
 }

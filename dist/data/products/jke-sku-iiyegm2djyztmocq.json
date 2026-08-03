@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41VQY6b2WTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wTEbbjRCL.jpg | https://m.media-amazon.com/images/I/410gPntTtmL.jpg | https://m.media-amazon.com/images/I/51SR-5jGQiL.jpg | https://m.media-amazon.com/images/I/41wtjwNHdzL.jpg | https://m.media-amazon.com/images/I/41VQY6b2WTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "14.0 Count",
-  "Discount": 0,
+  "Discount": "14.71%",
   "SalePrice": "₹1,449.00",
   "Model": "1600A02BY0"
 }

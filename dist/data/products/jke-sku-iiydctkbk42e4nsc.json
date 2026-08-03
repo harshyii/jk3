@@ -78,9 +78,9 @@
     "https://m.media-amazon.com/images/I/41rWHjI+veL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t1ZAEUOhL.jpg | https://m.media-amazon.com/images/I/41xRdjihIBL.jpg | https://m.media-amazon.com/images/I/418jp+hBGJL.jpg | https://m.media-amazon.com/images/I/41Eh09nHQJL.jpg | https://m.media-amazon.com/images/I/41D2XoAh+5L.jpg | https://m.media-amazon.com/images/I/41aGdxfoMBL.jpg | https://m.media-amazon.com/images/I/41kyB0U1rdL.jpg | https://m.media-amazon.com/images/I/41rWHjI+veL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.82%",
   "SalePrice": "₹17,499.00",
   "Model": "DCD996NT-XJ"
 }

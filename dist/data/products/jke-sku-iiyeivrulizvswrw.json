@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/514LrZ+eSIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JcMis95AL.jpg | https://m.media-amazon.com/images/I/41F3DLQIJoL.jpg | https://m.media-amazon.com/images/I/411593WgnhL.jpg | https://m.media-amazon.com/images/I/51pPaeTcdGL.jpg | https://m.media-amazon.com/images/I/41TUcLT2JOL.jpg | https://m.media-amazon.com/images/I/51waK1yQP2L.jpg | https://m.media-amazon.com/images/I/51Le5T2dmlL.jpg | https://m.media-amazon.com/images/I/514LrZ+eSIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "56.6%",
   "SalePrice": "₹10,849.00",
   "Model": "06019M50F1"
 }

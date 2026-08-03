@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31Idxo2gk+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51f-mrSCkmL.jpg | https://m.media-amazon.com/images/I/311pbJt-BJL.jpg | https://m.media-amazon.com/images/I/31ybWBSoT-L.jpg | https://m.media-amazon.com/images/I/31-MBhPlzNL.jpg | https://m.media-amazon.com/images/I/31Idxo2gk+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "10.48%",
   "SalePrice": "₹3,760.00",
   "Model": "Xpt 442"
 }

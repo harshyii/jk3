@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41fLbXu-fIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ahvjnaeWL.jpg | https://m.media-amazon.com/images/I/517jwNscZJL.jpg | https://m.media-amazon.com/images/I/51L1YVLqnuL.jpg | https://m.media-amazon.com/images/I/51pzAw+jjyL.jpg | https://m.media-amazon.com/images/I/51czcBm6T6L.jpg | https://m.media-amazon.com/images/I/51YrV3jo-pL.jpg | https://m.media-amazon.com/images/I/41fLbXu-fIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "64.95%",
   "SalePrice": "₹18,418.00",
   "Model": "‎92044-6PK",
   "Country": "‎USA"

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51RT6pJlyRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sDDKGPYTL.jpg | https://m.media-amazon.com/images/I/51rXDQf2C-L.jpg | https://m.media-amazon.com/images/I/51-JHn9Z0fL.jpg | https://m.media-amazon.com/images/I/51FElBG25mL.jpg | https://m.media-amazon.com/images/I/51XHtnvzlsL.jpg | https://m.media-amazon.com/images/I/51RT6pJlyRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.23%",
   "SalePrice": "₹9,999.00",
   "Model": "CIDLI209686"
 }

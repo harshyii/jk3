@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/21BfMv7CvpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31uUFdQhEoL.jpg | https://m.media-amazon.com/images/I/31uUFdQhEoL.jpg | https://m.media-amazon.com/images/I/2115uQvBgBL.jpg | https://m.media-amazon.com/images/I/21BfMv7CvpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.41%",
   "SalePrice": "₹3,180.00",
   "Model": "KID13"
 }

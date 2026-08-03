@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/3149kkkh3DL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wwxvoHg8L.jpg | https://m.media-amazon.com/images/I/415ZAfwMJVL.jpg | https://m.media-amazon.com/images/I/41PQrfcpgfL.jpg | https://m.media-amazon.com/images/I/31P8Cs7IOyL.jpg | https://m.media-amazon.com/images/I/3149kkkh3DL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "27.19%",
   "SalePrice": "₹203.86",
   "Model": "PBUM1033-5W-PK2"
 }

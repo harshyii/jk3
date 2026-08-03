@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41KgwvlxUAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612bQMxoc4L.jpg | https://m.media-amazon.com/images/I/310WG4UI2HL.jpg | https://m.media-amazon.com/images/I/41KgwvlxUAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.51%",
   "SalePrice": "₹325.00",
   "Model": "EPB820121"
 }

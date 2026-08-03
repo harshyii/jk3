@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41n0RelG9mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51FKXdk0E0L.jpg | https://m.media-amazon.com/images/I/31xNXfovj0L.jpg | https://m.media-amazon.com/images/I/513jZ+uglKL.jpg | https://m.media-amazon.com/images/I/41386iRDImL.jpg | https://m.media-amazon.com/images/I/419BV8uDefL.jpg | https://m.media-amazon.com/images/I/414wfxEAsSL.jpg | https://m.media-amazon.com/images/I/51MCrlkG+BL.jpg | https://m.media-amazon.com/images/I/41n0RelG9mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.2%",
   "SalePrice": "₹249.00",
   "Model": "TR223"
 }

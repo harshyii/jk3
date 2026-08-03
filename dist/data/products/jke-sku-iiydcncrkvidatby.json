@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31X10BGlvVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UUl1KxTdL.jpg | https://m.media-amazon.com/images/I/31Qm4maeDAL.jpg | https://m.media-amazon.com/images/I/31IQmcPmlLL.jpg | https://m.media-amazon.com/images/I/41TJKkkXbxL.jpg | https://m.media-amazon.com/images/I/31P5ubR47pL.jpg | https://m.media-amazon.com/images/I/31pneAxW3UL.jpg | https://m.media-amazon.com/images/I/41j6bAL6AML.jpg | https://m.media-amazon.com/images/I/31X10BGlvVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹18,411.20",
   "Model": "BDCD8PK"
 }

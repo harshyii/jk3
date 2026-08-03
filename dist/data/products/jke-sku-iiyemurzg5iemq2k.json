@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31H-gAS2IDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71BpTva2AFL.jpg | https://m.media-amazon.com/images/I/41a7K+5u5ML.jpg | https://m.media-amazon.com/images/I/31H-gAS2IDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "650.0 Milliliters",
-  "Discount": 0,
+  "Discount": "33.37%",
   "SalePrice": "₹599.00",
   "Model": "WASHRTU650",
   "Country": "India"

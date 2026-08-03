@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51E0fv8wkML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712l2pwgYGL.jpg | https://m.media-amazon.com/images/I/41xN--gbh8L.jpg | https://m.media-amazon.com/images/I/51E0fv8wkML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "42.04%",
   "SalePrice": "₹9,669.00",
   "Model": "DCZE125(Type EM)"
 }

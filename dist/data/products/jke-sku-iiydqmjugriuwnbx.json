@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/511RiGrCuoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61P21ecPhaL.jpg | https://m.media-amazon.com/images/I/31RkU3BZr8L.jpg | https://m.media-amazon.com/images/I/41TRrTCMOfL.jpg | https://m.media-amazon.com/images/I/510YB1w3XsL.jpg | https://m.media-amazon.com/images/I/41qUUnK2PlL.jpg | https://m.media-amazon.com/images/I/518V-DLiwfL.jpg | https://m.media-amazon.com/images/I/61KhCjAPo-L.jpg | https://m.media-amazon.com/images/I/511RiGrCuoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "6.68%",
   "SalePrice": "₹6,065.00",
   "Model": "06273410",
   "Country": "Germany"

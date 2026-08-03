@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51L9QQTAunL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KKH9ZVgeL.jpg | https://m.media-amazon.com/images/I/31Sh9PFDoCL.jpg | https://m.media-amazon.com/images/I/31G1J20GQgL.jpg | https://m.media-amazon.com/images/I/31lfSOSaVYL.jpg | https://m.media-amazon.com/images/I/51L9QQTAunL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.01%",
   "SalePrice": "₹37,790.00",
   "Model": "SWST-P8R2-EHGI-V1"
 }

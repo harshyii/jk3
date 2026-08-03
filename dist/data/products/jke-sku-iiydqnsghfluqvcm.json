@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/21yPEkxa9hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AlrxX1wtL.jpg | https://m.media-amazon.com/images/I/31gk4lakDhL.jpg | https://m.media-amazon.com/images/I/21yPEkxa9hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "29.79%",
   "SalePrice": "₹26,870.00",
   "Model": "G1CH"
 }

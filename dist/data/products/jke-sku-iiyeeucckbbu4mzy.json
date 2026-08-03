@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41DoFsvJ1IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-EsA1G2pL.jpg | https://m.media-amazon.com/images/I/41+IJNfKLXL.jpg | https://m.media-amazon.com/images/I/41syIK3KmUL.jpg | https://m.media-amazon.com/images/I/31o2yTf4NuL.jpg | https://m.media-amazon.com/images/I/41DoFsvJ1IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹99.00",
   "Model": "HGFH768"
 }

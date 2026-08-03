@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51-RMDOSBfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81fMhwixfVL.jpg | https://m.media-amazon.com/images/I/5104dGokmAL.jpg | https://m.media-amazon.com/images/I/41Vb6IXWDIL.jpg | https://m.media-amazon.com/images/I/51OOu11ds2L.jpg | https://m.media-amazon.com/images/I/51upFgIDbLL.jpg | https://m.media-amazon.com/images/I/41q7fSXYXjL.jpg | https://m.media-amazon.com/images/I/51-RMDOSBfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "76.72%",
   "SalePrice": "₹349.00",
   "Model": "BR-Firefly001"
 }

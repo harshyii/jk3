@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51vLHETO7UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yopdHidgL.jpg | https://m.media-amazon.com/images/I/319Ho+BfJlL.jpg | https://m.media-amazon.com/images/I/31m8U4Fv3sL.jpg | https://m.media-amazon.com/images/I/51vLHETO7UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "78.08%",
   "SalePrice": "₹219.00",
   "Model": "‎Hol-KR",
   "Country": "‎India"

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71gY+RmVFkL.jpg | https://m.media-amazon.com/images/I/41YZdhqPtdL.jpg | https://m.media-amazon.com/images/I/710jtAb9oTL.jpg | https://m.media-amazon.com/images/I/41zoUmQKWQL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "6.85%",
   "SalePrice": "₹340.00",
   "Model": "PWSF1L",
   "Country": "India"

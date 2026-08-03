@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41jRljP6ZaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VlzlsjheL.jpg | https://m.media-amazon.com/images/I/31DRZ4hgVUL.jpg | https://m.media-amazon.com/images/I/41XblvyqK6L.jpg | https://m.media-amazon.com/images/I/41DTW2+pxWL.jpg | https://m.media-amazon.com/images/I/41jRljP6ZaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹99.00",
   "Model": "HGFH774"
 }

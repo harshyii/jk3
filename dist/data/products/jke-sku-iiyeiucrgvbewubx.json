@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51rj2yF2EWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TN-P7KU5L.jpg | https://m.media-amazon.com/images/I/41TzJL46DQL.jpg | https://m.media-amazon.com/images/I/41h7LboV50L.jpg | https://m.media-amazon.com/images/I/41CPPot7dDL.jpg | https://m.media-amazon.com/images/I/41xA9oK6kPL.jpg | https://m.media-amazon.com/images/I/51rj2yF2EWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "34.0 Grams",
-  "Discount": 0,
+  "Discount": "3.13%",
   "SalePrice": "₹774.00",
   "Model": "VN-SQUX-Q77L"
 }

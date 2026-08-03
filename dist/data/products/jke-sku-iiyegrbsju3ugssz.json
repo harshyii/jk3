@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/61814MittuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61n2xhzZgML.jpg | https://m.media-amazon.com/images/I/41fmdlZeL6L.jpg | https://m.media-amazon.com/images/I/61KiG4Kdw7L.jpg | https://m.media-amazon.com/images/I/51tiPcdEOIL.jpg | https://m.media-amazon.com/images/I/61MmPLg98lL.jpg | https://m.media-amazon.com/images/I/61814MittuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹499.00",
   "Country": "India"
 }

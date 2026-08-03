@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/3159q8Q5z7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41gD+oLZF4L.jpg | https://m.media-amazon.com/images/I/31lS6wJZWTL.jpg | https://m.media-amazon.com/images/I/31VRhevMNJL.jpg | https://m.media-amazon.com/images/I/31X81FonnDL.jpg | https://m.media-amazon.com/images/I/41rF35AEcLL.jpg | https://m.media-amazon.com/images/I/41jgdEZoY0L.jpg | https://m.media-amazon.com/images/I/3159q8Q5z7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "21.82%",
   "SalePrice": "₹301.00",
   "Model": "PLCI02"
 }

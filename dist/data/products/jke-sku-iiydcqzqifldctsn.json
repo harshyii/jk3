@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51qzSEUYA5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51y00T5Ce5L.jpg | https://m.media-amazon.com/images/I/41MZFlS2bXL.jpg | https://m.media-amazon.com/images/I/416KxskjYZL.jpg | https://m.media-amazon.com/images/I/41N8dR1fVqL.jpg | https://m.media-amazon.com/images/I/51z7cuOD6iL.jpg | https://m.media-amazon.com/images/I/41own-AWO1L.jpg | https://m.media-amazon.com/images/I/414Zo96YmdL.jpg | https://m.media-amazon.com/images/I/51qzSEUYA5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "600 Meters",
-  "Discount": 0,
+  "Discount": "49.9%",
   "SalePrice": "₹250.00",
   "Model": "TA-91091-P1-2"
 }

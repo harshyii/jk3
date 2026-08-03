@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/418y+ET7wkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51WbeUQdIIL.jpg | https://m.media-amazon.com/images/I/41A1ms+eFqL.jpg | https://m.media-amazon.com/images/I/510Ncu7P7cL.jpg | https://m.media-amazon.com/images/I/51ABBisLVtL.jpg | https://m.media-amazon.com/images/I/51p8yw5vdXL.jpg | https://m.media-amazon.com/images/I/51am1QSe9AL.jpg | https://m.media-amazon.com/images/I/51l7tU5YQFL.jpg | https://m.media-amazon.com/images/I/418y+ET7wkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Grams",
-  "Discount": 0,
+  "Discount": "60.8%",
   "SalePrice": "₹6,376.00",
   "Model": "51820"
 }

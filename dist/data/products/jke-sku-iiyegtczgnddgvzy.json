@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41zUxxUXTxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31epz6RMaPL.jpg | https://m.media-amazon.com/images/I/31epz6RMaPL.jpg | https://m.media-amazon.com/images/I/41zUxxUXTxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹2,750.00",
   "Model": "XPT 540"
 }

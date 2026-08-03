@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41MxjfUjFzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jAUsmapEL.jpg | https://m.media-amazon.com/images/I/41NPINxf5XL.jpg | https://m.media-amazon.com/images/I/51fc7ZngHLL.jpg | https://m.media-amazon.com/images/I/411IjYY6McL.jpg | https://m.media-amazon.com/images/I/41MxjfUjFzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "33.48%",
   "SalePrice": "₹465.00",
   "Model": "IK5:19 + IK7.5:25",
   "Country": "India"

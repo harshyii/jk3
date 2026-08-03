@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/11QAnoWIsNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/11QAnoWIsNL.jpg | https://m.media-amazon.com/images/I/11QAnoWIsNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.87%",
   "SalePrice": "₹1,362.00",
   "Country": "‎India"
 }

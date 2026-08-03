@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41uf5VaIQNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cIhJla-TL.jpg | https://m.media-amazon.com/images/I/21QUo0phQYL.jpg | https://m.media-amazon.com/images/I/41dDV1eESPL.jpg | https://m.media-amazon.com/images/I/41NHbSJ5LtL.jpg | https://m.media-amazon.com/images/I/411ydHmhLlL.jpg | https://m.media-amazon.com/images/I/41uf5VaIQNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.1%",
   "SalePrice": "₹249.00",
   "Model": "TH-T24"
 }

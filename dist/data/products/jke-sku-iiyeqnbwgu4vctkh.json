@@ -52,8 +52,8 @@
     "https://m.media-amazon.com/images/I/51NlZKRPCCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51IZjQUmhAL.jpg | https://m.media-amazon.com/images/I/51IZjQUmhAL.jpg | https://m.media-amazon.com/images/I/51vfhHOZ3IL.jpg | https://m.media-amazon.com/images/I/51A1PzZeP9L.jpg | https://m.media-amazon.com/images/I/51NlZKRPCCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "79.7%",
   "SalePrice": "₹81.00"
 }

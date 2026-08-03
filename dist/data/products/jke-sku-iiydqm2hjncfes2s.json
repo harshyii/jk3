@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41VCfeBVvLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SBF33TizS.jpg | https://m.media-amazon.com/images/I/31S74o1sCSS.jpg | https://m.media-amazon.com/images/I/41ck9Dqa2GL.jpg | https://m.media-amazon.com/images/I/41b9S4zx5NL.jpg | https://m.media-amazon.com/images/I/41ARQLEzegL.jpg | https://m.media-amazon.com/images/I/51ribp8Vn4L.jpg | https://m.media-amazon.com/images/I/41VCfeBVvLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.01%",
   "SalePrice": "₹1,949.00",
   "Model": "GHBKTATK125"
 }

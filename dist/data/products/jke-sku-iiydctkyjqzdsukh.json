@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51XULAKwZbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41rCFKIXXVL.jpg | https://m.media-amazon.com/images/I/41rCFKIXXVL.jpg | https://m.media-amazon.com/images/I/21GYRlRTO3L.jpg | https://m.media-amazon.com/images/I/51d8cU2a2fL.jpg | https://m.media-amazon.com/images/I/51XULAKwZbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.03%",
   "SalePrice": "₹424.00",
   "Model": "B01MXL29QG",
   "Country": "India"

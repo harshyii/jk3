@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41u-0GdpKqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61GhskhoWuL.jpg | https://m.media-amazon.com/images/I/417M9ZqpmIL.jpg | https://m.media-amazon.com/images/I/513cyGg-FCL.jpg | https://m.media-amazon.com/images/I/41u-0GdpKqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.0 Grams",
-  "Discount": 0,
+  "Discount": "20.75%",
   "SalePrice": "₹210.00",
   "Model": "AAP620",
   "Country": "India"

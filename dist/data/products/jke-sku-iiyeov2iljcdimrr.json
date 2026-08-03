@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41P+iUlyYaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61OiSgliIEL.jpg | https://m.media-amazon.com/images/I/41X3xdhxjlL.jpg | https://m.media-amazon.com/images/I/41P+iUlyYaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹405.00",
   "Model": "Silky 200",
   "Country": "India"

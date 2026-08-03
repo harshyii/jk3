@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31cq7SmGc5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41hTG57GcCL.jpg | https://m.media-amazon.com/images/I/41hTG57GcCL.jpg | https://m.media-amazon.com/images/I/41iA72y22bL.jpg | https://m.media-amazon.com/images/I/31cq7SmGc5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "20.92%",
   "SalePrice": "₹9,489.00",
   "Model": "CIWLI2001"
 }

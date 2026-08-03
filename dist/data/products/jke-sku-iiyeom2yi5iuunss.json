@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/41UGlV78VZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xQ+4uI-dL.jpg | https://m.media-amazon.com/images/I/41xrud0EvPL.jpg | https://m.media-amazon.com/images/I/61kBWInyx9L.jpg | https://m.media-amazon.com/images/I/41BNDlJdjdL.jpg | https://m.media-amazon.com/images/I/41QhvtpwoJL.jpg | https://m.media-amazon.com/images/I/41m8AwhM6mL.jpg | https://m.media-amazon.com/images/I/51DW9Rbcj-L.jpg | https://m.media-amazon.com/images/I/41UGlV78VZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹999.00",
   "Model": "KR-60W-C2C+IW-CBL",
   "Country": "India"

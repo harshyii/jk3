@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51dyaYBPmcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PXwn8A8PL.jpg | https://m.media-amazon.com/images/I/41iNtY9AlkL.jpg | https://m.media-amazon.com/images/I/51hQVT6309L.jpg | https://m.media-amazon.com/images/I/513ppDgTBGL.jpg | https://m.media-amazon.com/images/I/51uOjpqitWL.jpg | https://m.media-amazon.com/images/I/513l+eDhKFL.jpg | https://m.media-amazon.com/images/I/515gQ7XN3WL.jpg | https://m.media-amazon.com/images/I/51dyaYBPmcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,306.00",
   "Model": "M5MFP2",
   "Country": "USA"

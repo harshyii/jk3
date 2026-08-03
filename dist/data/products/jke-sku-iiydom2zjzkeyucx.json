@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/314nkt15NuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51zdqVFrdFL.jpg | https://m.media-amazon.com/images/I/314nkt15NuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.85%",
   "SalePrice": "₹10,519.00",
   "Model": "EML5090",
   "Country": "India"

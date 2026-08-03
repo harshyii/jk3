@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41VoeBZ86qL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71GLyvxI5JL.jpg | https://m.media-amazon.com/images/I/41oghokMz6L.jpg | https://m.media-amazon.com/images/I/71xd0JuCduL.jpg | https://m.media-amazon.com/images/I/41-2SFKiIvL.jpg | https://m.media-amazon.com/images/I/51BtBYiAj9L.jpg | https://m.media-amazon.com/images/I/51SFVisTBRL.jpg | https://m.media-amazon.com/images/I/41Gt3qtw-sL.jpg | https://m.media-amazon.com/images/I/41VoeBZ86qL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.25%",
   "SalePrice": "₹3,799.00",
   "Model": "DWST83345-1"
 }

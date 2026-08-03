@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/5191+XHU7GL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UTQfYH6-L.jpg | https://m.media-amazon.com/images/I/41WEXeogIKL.jpg | https://m.media-amazon.com/images/I/51+t-7urxvL.jpg | https://m.media-amazon.com/images/I/518do9zuOxL.jpg | https://m.media-amazon.com/images/I/516t4FU9wFL.jpg | https://m.media-amazon.com/images/I/51pzOjwGARL.jpg | https://m.media-amazon.com/images/I/5191+XHU7GL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "32.59%",
   "SalePrice": "₹5,258.00",
   "Model": "EIW-280_new"
 }

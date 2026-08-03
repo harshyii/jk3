@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41Rq6AUPHIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sZDye5h6L.jpg | https://m.media-amazon.com/images/I/41Rq6AUPHIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "68.18%",
   "SalePrice": "₹3,999.00",
   "Model": "COPLI2001"
 }

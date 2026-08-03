@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51WOVEvRVPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71LrLjVrXqL.jpg | https://m.media-amazon.com/images/I/511tFl+WdpL.jpg | https://m.media-amazon.com/images/I/41qOxUeOqUL.jpg | https://m.media-amazon.com/images/I/513LUY1gHCL.jpg | https://m.media-amazon.com/images/I/51hxXuif4tL.jpg | https://m.media-amazon.com/images/I/51GSM+2XPyL.jpg | https://m.media-amazon.com/images/I/516TfPa04bL.jpg | https://m.media-amazon.com/images/I/51WOVEvRVPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "9990.0 Grams",
-  "Discount": 0,
+  "Discount": "28.51%",
   "SalePrice": "₹1,429.00",
   "Model": "VIR-111",
   "Country": "India"

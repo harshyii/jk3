@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41TAOkEr0SL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51W+usftfxL.jpg | https://m.media-amazon.com/images/I/41rkfExLCiL.jpg | https://m.media-amazon.com/images/I/41QXWC8Fv9L.jpg | https://m.media-amazon.com/images/I/41PLvjMwPZL.jpg | https://m.media-amazon.com/images/I/41UZdkWVZnL.jpg | https://m.media-amazon.com/images/I/51n0SJDSwqL.jpg | https://m.media-amazon.com/images/I/41eAe2gAmUL.jpg | https://m.media-amazon.com/images/I/41TAOkEr0SL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.64%",
   "SalePrice": "₹600.00",
   "Model": "‎TDresser_250ml_P2"
 }

@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/21It5exTAgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51JEbGnp7zL.jpg | https://m.media-amazon.com/images/I/21IBh5Zak8L.jpg | https://m.media-amazon.com/images/I/21It5exTAgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.86%",
   "SalePrice": "₹1,089.00",
   "Country": "‎ Mexico"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41l0CWhZfUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81mgjFgbnxL.jpg | https://m.media-amazon.com/images/I/513U1uGSIrL.jpg | https://m.media-amazon.com/images/I/51TxbdmwQ1L.jpg | https://m.media-amazon.com/images/I/41ghRYvXVtL.jpg | https://m.media-amazon.com/images/I/41ojmQOvtTL.jpg | https://m.media-amazon.com/images/I/41fy67Y5AxL.jpg | https://m.media-amazon.com/images/I/51yTe4zqV6L.jpg | https://m.media-amazon.com/images/I/41l0CWhZfUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "56.86%",
   "SalePrice": "₹198.00",
   "Model": "WF-CARBON0W0D1",
   "Country": "India"

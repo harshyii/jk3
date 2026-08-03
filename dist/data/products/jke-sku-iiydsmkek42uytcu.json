@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31D2-gWORyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EOtNkgA-L.jpg | https://m.media-amazon.com/images/I/41BP7t8YiCL.jpg | https://m.media-amazon.com/images/I/31I2KvJ3GOL.jpg | https://m.media-amazon.com/images/I/41MbbCJ2+yL.jpg | https://m.media-amazon.com/images/I/31D2-gWORyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "61.36%",
   "SalePrice": "₹386.00",
   "Model": "24140408"
 }

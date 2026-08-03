@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31eaWNuY+0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/514KhNnILzL.jpg | https://m.media-amazon.com/images/I/31Dh19asGRL.jpg | https://m.media-amazon.com/images/I/41UYZKHDeKL.jpg | https://m.media-amazon.com/images/I/31SH+NHSeML.jpg | https://m.media-amazon.com/images/I/21d66KzJUkL.jpg | https://m.media-amazon.com/images/I/31smEGaCDEL.jpg | https://m.media-amazon.com/images/I/31eaWNuY+0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.04%",
   "SalePrice": "₹789.00",
   "Model": "EIDB-5080_5/16HexBit",
   "Country": "India"

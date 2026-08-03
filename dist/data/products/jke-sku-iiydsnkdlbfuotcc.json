@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41XFOLatX1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nqNB4LlGL.jpg | https://m.media-amazon.com/images/I/31lroc2GZSL.jpg | https://m.media-amazon.com/images/I/41bXXYuoUNL.jpg | https://m.media-amazon.com/images/I/31xeSEcTczL.jpg | https://m.media-amazon.com/images/I/31pcaN7MPrL.jpg | https://m.media-amazon.com/images/I/31jUs0inIBL.jpg | https://m.media-amazon.com/images/I/31Vi0Dzd-+L.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹19,834.18",
   "Model": "2V-Y53L-22LZ"
 }

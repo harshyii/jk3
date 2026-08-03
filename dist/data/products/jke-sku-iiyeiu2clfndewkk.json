@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51dexlDtHvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AltHLtSeL.jpg | https://m.media-amazon.com/images/I/31hN0kQjJpL.jpg | https://m.media-amazon.com/images/I/41jfkjQhVGL.jpg | https://m.media-amazon.com/images/I/51GsP13x5LL.jpg | https://m.media-amazon.com/images/I/51WyGSK4VZL.jpg | https://m.media-amazon.com/images/I/51qYrPWr1uL.jpg | https://m.media-amazon.com/images/I/51dexlDtHvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.76%",
   "SalePrice": "₹10,750.00",
   "Model": "Solar Pro 1400VA-12V"
 }

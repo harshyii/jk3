@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/412qsHFzCbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717HwPGc+AL.jpg | https://m.media-amazon.com/images/I/41oD2vFBlOL.jpg | https://m.media-amazon.com/images/I/41t7f85gQsL.jpg | https://m.media-amazon.com/images/I/51QVeKfNpUL.jpg | https://m.media-amazon.com/images/I/511UJ-qxN1L.jpg | https://m.media-amazon.com/images/I/510wRuy0S+L.jpg | https://m.media-amazon.com/images/I/412qsHFzCbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "13.48%",
   "SalePrice": "₹12,667.27",
   "Model": "7W Solar Panel for Security Camera"
 }

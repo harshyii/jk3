@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/5146W3FmORL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pAFo8UIRL.jpg | https://m.media-amazon.com/images/I/51YXU77jdjL.jpg | https://m.media-amazon.com/images/I/510jYfqHnGL.jpg | https://m.media-amazon.com/images/I/5146W3FmORL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "66.19%",
   "SalePrice": "₹1,690.00",
   "Model": "CWGS"
 }

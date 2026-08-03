@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41PKIACl1SL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619+cqGIfdL.jpg | https://m.media-amazon.com/images/I/41k5MNPDN-L.jpg | https://m.media-amazon.com/images/I/41PKIACl1SL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "29.94%",
   "SalePrice": "₹3,510.00",
   "Model": "NP-300",
   "Country": "India"

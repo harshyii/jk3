@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41Jw42+gVKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jWW396-mL.jpg | https://m.media-amazon.com/images/I/3161mzclbDL.jpg | https://m.media-amazon.com/images/I/41e+ewBLtXL.jpg | https://m.media-amazon.com/images/I/419XDjkHYbL.jpg | https://m.media-amazon.com/images/I/21exzCr8yFL.jpg | https://m.media-amazon.com/images/I/31d0DnNNW6L.jpg | https://m.media-amazon.com/images/I/51ROXDOEv3L.jpg | https://m.media-amazon.com/images/I/41Jw42+gVKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Kilograms",
-  "Discount": 0,
+  "Discount": "30.25%",
   "SalePrice": "₹27,899.00",
   "Model": "Icon 1100",
   "Country": "India"

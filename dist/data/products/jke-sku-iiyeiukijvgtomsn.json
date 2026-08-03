@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41xGo9Ik3lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61sT6TFO9EL.jpg | https://m.media-amazon.com/images/I/31gGxxjeYbL.jpg | https://m.media-amazon.com/images/I/41-ZU7d9KiL.jpg | https://m.media-amazon.com/images/I/51XqB4FDC7L.jpg | https://m.media-amazon.com/images/I/412fflLB4yL.jpg | https://m.media-amazon.com/images/I/410hTiPZ6TL.jpg | https://m.media-amazon.com/images/I/419HTFBOidL.jpg | https://m.media-amazon.com/images/I/41xGo9Ik3lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹30,752.23",
   "Model": "2525-20"
 }

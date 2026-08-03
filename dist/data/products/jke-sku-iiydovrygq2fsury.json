@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51-ZDi7h68L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/811Tpe71QSL.jpg | https://m.media-amazon.com/images/I/41+5TM7FppL.jpg | https://m.media-amazon.com/images/I/41NaAlPW25L.jpg | https://m.media-amazon.com/images/I/41uKnV89lzL.jpg | https://m.media-amazon.com/images/I/51-ZDi7h68L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.1%",
   "SalePrice": "₹599.00",
   "Model": "DS-AMZ030"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41eeDeneduL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712GKSm6pjL.jpg | https://m.media-amazon.com/images/I/4115hJNHNPL.jpg | https://m.media-amazon.com/images/I/51OGon52GDL.jpg | https://m.media-amazon.com/images/I/41qPXbSu31L.jpg | https://m.media-amazon.com/images/I/51QE2IHG4CL.jpg | https://m.media-amazon.com/images/I/51ROXPVcENL.jpg | https://m.media-amazon.com/images/I/41vZJwMgz-L.jpg | https://m.media-amazon.com/images/I/41eeDeneduL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.76%",
   "SalePrice": "₹888.00",
   "Model": "Solar Photovoltaic Panel"
 }

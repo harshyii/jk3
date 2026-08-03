@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/31ij7d0LJpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7122w0VlJ4L.jpg | https://m.media-amazon.com/images/I/41OeFqyAV0L.jpg | https://m.media-amazon.com/images/I/51v4wvQMnlL.jpg | https://m.media-amazon.com/images/I/41ED1qLTH8L.jpg | https://m.media-amazon.com/images/I/41eEL6B4x+L.jpg | https://m.media-amazon.com/images/I/51Hp7fLKVFL.jpg | https://m.media-amazon.com/images/I/41WAtlpTtkL.jpg | https://m.media-amazon.com/images/I/31ij7d0LJpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.91%",
   "SalePrice": "₹2,939.00",
   "Model": "TC46A"
 }

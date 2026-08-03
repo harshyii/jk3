@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31HhFPo6MWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81QUu7AxVEL.jpg | https://m.media-amazon.com/images/I/41mvteT-qjL.jpg | https://m.media-amazon.com/images/I/41M1txfN+dL.jpg | https://m.media-amazon.com/images/I/51hFCPYqM2L.jpg | https://m.media-amazon.com/images/I/51tHbHVLkFL.jpg | https://m.media-amazon.com/images/I/51HzPbZoBFL.jpg | https://m.media-amazon.com/images/I/51g-6ijhdcL.jpg | https://m.media-amazon.com/images/I/31HhFPo6MWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "52.02%",
   "SalePrice": "₹2,399.00",
   "Model": "DM6"
 }

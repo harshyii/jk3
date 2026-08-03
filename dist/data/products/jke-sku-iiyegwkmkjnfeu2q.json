@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51GsGPJftZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yQXmcH5UL.jpg | https://m.media-amazon.com/images/I/51yQXmcH5UL.jpg | https://m.media-amazon.com/images/I/41Ctzdcj5PL.jpg | https://m.media-amazon.com/images/I/418jpDflVYL.jpg | https://m.media-amazon.com/images/I/51LaVRqK5gL.jpg | https://m.media-amazon.com/images/I/51BwARtyykL.jpg | https://m.media-amazon.com/images/I/51BBA9pLhML.jpg | https://m.media-amazon.com/images/I/51GsGPJftZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "15.04%",
   "SalePrice": "₹24,299.00",
   "Model": "UCTT-28066"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41d4Fz5APbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71J7-hjpUVL.jpg | https://m.media-amazon.com/images/I/41YVTJBRCnL.jpg | https://m.media-amazon.com/images/I/415SB4A5G+L.jpg | https://m.media-amazon.com/images/I/41qW++LcZ-L.jpg | https://m.media-amazon.com/images/I/41d4Fz5APbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Pack",
-  "Discount": 0,
+  "Discount": "25.5%",
   "SalePrice": "₹260.00",
   "Model": "Spa-Wheelset-Pk5",
   "Country": "India"

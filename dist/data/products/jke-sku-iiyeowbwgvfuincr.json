@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51HbKfoWbaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/517J0g1tQ-L.jpg | https://m.media-amazon.com/images/I/31Xk7wW6VwL.jpg | https://m.media-amazon.com/images/I/31oU9woGsTL.jpg | https://m.media-amazon.com/images/I/416fdXdDspL.jpg | https://m.media-amazon.com/images/I/51-9OoN1ySL.jpg | https://m.media-amazon.com/images/I/51UhdR0ucAL.jpg | https://m.media-amazon.com/images/I/510gHQ4H2qL.jpg | https://m.media-amazon.com/images/I/51HbKfoWbaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "52.71%",
   "SalePrice": "₹236.00",
   "Model": "TH-T34"
 }

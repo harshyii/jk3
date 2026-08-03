@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/41aBjk52jWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Z5ROpskBL.jpg | https://m.media-amazon.com/images/I/41aBjk52jWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹12,124.00",
   "Model": "‎Sonax Hybrid DryWax 10 l",
   "Country": "‎Germany"

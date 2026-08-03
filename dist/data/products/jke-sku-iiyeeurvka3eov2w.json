@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/21ZBlIizdqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41JfzW-F6wL.jpg | https://m.media-amazon.com/images/I/21WUTRKwB2L.jpg | https://m.media-amazon.com/images/I/41NhWKIXkpL.jpg | https://m.media-amazon.com/images/I/318mlIXjE7L.jpg | https://m.media-amazon.com/images/I/31h6QSyL9YL.jpg | https://m.media-amazon.com/images/I/21GesV19bxL.jpg | https://m.media-amazon.com/images/I/21KtHxsjm7L.jpg | https://m.media-amazon.com/images/I/21ZBlIizdqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "38.34%",
   "SalePrice": "₹616.00",
   "Country": "‎India"
 }

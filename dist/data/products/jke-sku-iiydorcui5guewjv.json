@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41JNAb9WwZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PhzYs4O3L.jpg | https://m.media-amazon.com/images/I/416tQokgfjL.jpg | https://m.media-amazon.com/images/I/51KCLzhspcL.jpg | https://m.media-amazon.com/images/I/41P9HU2BU3L.jpg | https://m.media-amazon.com/images/I/41NcQUN3DtL.jpg | https://m.media-amazon.com/images/I/41IwZL019lL.jpg | https://m.media-amazon.com/images/I/31I8chgxEqL.jpg | https://m.media-amazon.com/images/I/41JNAb9WwZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.42%",
   "SalePrice": "₹44,156.00",
   "Model": "D25773K-QS"
 }

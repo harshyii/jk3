@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31V3sLj85CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Q2aAr1yiL.jpg | https://m.media-amazon.com/images/I/31V3sLj85CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "18.85%",
   "SalePrice": "₹198.00",
   "Model": "D-45727",
   "Country": "Japan"

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51kHlS7kDHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81y0Ou35RTL.jpg | https://m.media-amazon.com/images/I/51ksmjpMB4L.jpg | https://m.media-amazon.com/images/I/41XmQMvZ66L.jpg | https://m.media-amazon.com/images/I/51ZRpniU2rL.jpg | https://m.media-amazon.com/images/I/510p4TQRQ-L.jpg | https://m.media-amazon.com/images/I/51Qc-ugT+nL.jpg | https://m.media-amazon.com/images/I/51NOfv0MgeL.jpg | https://m.media-amazon.com/images/I/51kHlS7kDHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "78.01%",
   "SalePrice": "₹2,199.00",
   "Model": "TX-BPW Cyan New"
 }

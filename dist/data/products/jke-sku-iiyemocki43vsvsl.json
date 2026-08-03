@@ -89,9 +89,9 @@
     "https://m.media-amazon.com/images/I/41XdP1rb9zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615WugMBkfL.jpg | https://m.media-amazon.com/images/I/41DeA9mq5lL.jpg | https://m.media-amazon.com/images/I/41eQBVbngDL.jpg | https://m.media-amazon.com/images/I/31NqNYxSydL.jpg | https://m.media-amazon.com/images/I/416SAkJLb5L.jpg | https://m.media-amazon.com/images/I/417uzyPkzmL.jpg | https://m.media-amazon.com/images/I/41onAhRRpBL.jpg | https://m.media-amazon.com/images/I/41XdP1rb9zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "64.29%",
   "SalePrice": "₹2,499.00",
   "Model": "wrb-sw-twist2-std-slvr_gry",
   "Country": "India"

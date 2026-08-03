@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/21lP20YRP2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NUfzbPfTL.jpg | https://m.media-amazon.com/images/I/21lP20YRP2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "5.1%",
   "SalePrice": "₹9,641.00",
   "Model": "00434999",
   "Country": "USA"

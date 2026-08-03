@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/417atL7mAtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qO7PmTMkL.jpg | https://m.media-amazon.com/images/I/41rZwewwHeL.jpg | https://m.media-amazon.com/images/I/410lvx01oQL.jpg | https://m.media-amazon.com/images/I/41vlKENUMxL.jpg | https://m.media-amazon.com/images/I/31p2wKWcRAL.jpg | https://m.media-amazon.com/images/I/41kvjhGNFgL.jpg | https://m.media-amazon.com/images/I/419mXNxhVWL.jpg | https://m.media-amazon.com/images/I/417atL7mAtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.22%",
   "SalePrice": "₹7,717.00",
   "Model": "ETL-2030040HY",
   "Country": "USA"

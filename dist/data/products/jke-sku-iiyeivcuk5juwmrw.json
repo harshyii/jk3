@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/417Ylt2SpsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/613Lra+IwEL.jpg | https://m.media-amazon.com/images/I/41UrjcaDEDL.jpg | https://m.media-amazon.com/images/I/41enIr4f90L.jpg | https://m.media-amazon.com/images/I/41mS8fLxPBL.jpg | https://m.media-amazon.com/images/I/41LUFlF5qbL.jpg | https://m.media-amazon.com/images/I/417Ylt2SpsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "38.25%",
   "SalePrice": "₹8,562.00",
   "Model": "LTIN66063331"
 }

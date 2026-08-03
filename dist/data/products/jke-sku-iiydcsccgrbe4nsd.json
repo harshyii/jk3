@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41WsmMVbI4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41WsmMVbI4L.jpg | https://m.media-amazon.com/images/I/41WsmMVbI4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.83%",
   "SalePrice": "₹1,764.00",
   "Model": "10mm dongcheng"
 }

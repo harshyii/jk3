@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41FSR45GI6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31nbw+Mnr3L.jpg | https://m.media-amazon.com/images/I/31nbw+Mnr3L.jpg | https://m.media-amazon.com/images/I/41FSR45GI6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "27.76%",
   "SalePrice": "₹3,529.00",
   "Model": "RS4508"
 }

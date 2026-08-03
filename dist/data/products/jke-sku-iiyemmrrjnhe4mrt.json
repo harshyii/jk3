@@ -29,8 +29,8 @@
     "https://m.media-amazon.com/images/I/41nr-T-4RIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6135N0CDzeL.jpg | https://m.media-amazon.com/images/I/41nr-T-4RIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "4.7%",
   "SalePrice": "₹932.00"
 }

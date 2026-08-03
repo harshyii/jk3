@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/310uIG6VnlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51UK+O+IBYL.jpg | https://m.media-amazon.com/images/I/31AN7uxPb0L.jpg | https://m.media-amazon.com/images/I/41n+p+Eb5QL.jpg | https://m.media-amazon.com/images/I/41sr4GJMLKL.jpg | https://m.media-amazon.com/images/I/31J52jrZtQL.jpg | https://m.media-amazon.com/images/I/310uIG6VnlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200.00 Count",
-  "Discount": 0,
+  "Discount": "5.68%",
   "SalePrice": "₹349.00",
   "Model": "4426"
 }

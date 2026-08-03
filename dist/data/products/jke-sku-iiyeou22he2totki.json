@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31tsTGC9fHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21zihBahOqL.jpg | https://m.media-amazon.com/images/I/21zihBahOqL.jpg | https://m.media-amazon.com/images/I/31-GLYdYxZL.jpg | https://m.media-amazon.com/images/I/51CjzIZXf6L.jpg | https://m.media-amazon.com/images/I/31tsTGC9fHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "30.0 Milliliters",
-  "Discount": 0,
+  "Discount": "3.7%",
   "SalePrice": "₹130.00",
   "Country": "India"
 }

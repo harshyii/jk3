@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31iG+uVoeAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51bp-D7UHbL.jpg | https://m.media-amazon.com/images/I/31iG+uVoeAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "24.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹40,620.07",
   "Model": "2126-21XC",
   "Country": "USA"

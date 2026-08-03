@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41DLIB1R6cL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81dW-QNsbwL.jpg | https://m.media-amazon.com/images/I/51IyFIKUdDL.jpg | https://m.media-amazon.com/images/I/31PD+-lg-AL.jpg | https://m.media-amazon.com/images/I/311p6kkBwAL.jpg | https://m.media-amazon.com/images/I/41TfSb9eUvL.jpg | https://m.media-amazon.com/images/I/41lOKEe0XoL.jpg | https://m.media-amazon.com/images/I/41DLIB1R6cL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "600 Milliliters",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹1,170.00",
   "Model": "3M_Liquid_Wax_200Ml_3Pcs"
 }

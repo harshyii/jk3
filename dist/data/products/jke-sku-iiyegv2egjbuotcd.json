@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41cMTSoPc7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/818qWjxO3IL.jpg | https://m.media-amazon.com/images/I/41kQoKLA31L.jpg | https://m.media-amazon.com/images/I/41znspthg+L.jpg | https://m.media-amazon.com/images/I/41l88NURvXL.jpg | https://m.media-amazon.com/images/I/31-A977QVqL.jpg | https://m.media-amazon.com/images/I/31q7OidZmBL.jpg | https://m.media-amazon.com/images/I/41cMTSoPc7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "48.3%",
   "SalePrice": "₹289.00",
   "Model": "FG45"
 }

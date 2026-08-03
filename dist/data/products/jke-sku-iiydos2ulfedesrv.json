@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/414CUZuweLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71R1pYgcCLL.jpg | https://m.media-amazon.com/images/I/312nu9BQSQL.jpg | https://m.media-amazon.com/images/I/51BrAVNP-zL.jpg | https://m.media-amazon.com/images/I/61efsRY2YaL.jpg | https://m.media-amazon.com/images/I/51luphKobHL.jpg | https://m.media-amazon.com/images/I/414CUZuweLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "350.00 Milliliters",
-  "Discount": 0,
+  "Discount": "48.86%",
   "SalePrice": "₹359.00",
   "Model": "ISP350",
   "Country": "India"

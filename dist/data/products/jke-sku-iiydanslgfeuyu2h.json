@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41hsQAptk7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/513VXIEv0sL.jpg | https://m.media-amazon.com/images/I/41hsQAptk7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.1%",
   "SalePrice": "₹14,687.00",
   "Model": "HR2470"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51TZOJROtyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Wbn+0poOL.jpg | https://m.media-amazon.com/images/I/419l9XIN8wL.jpg | https://m.media-amazon.com/images/I/41kOQa0yGIL.jpg | https://m.media-amazon.com/images/I/51egzwg--xL.jpg | https://m.media-amazon.com/images/I/51zzA-kumVL.jpg | https://m.media-amazon.com/images/I/51L3l2V11yL.jpg | https://m.media-amazon.com/images/I/51TZOJROtyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Pack",
-  "Discount": 0,
+  "Discount": "27.05%",
   "SalePrice": "₹6,565.02",
   "Model": "RCG-CW-200"
 }

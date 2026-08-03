@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41ZzCrZPOmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NqeuUJv0L.jpg | https://m.media-amazon.com/images/I/41-O++LLv7L.jpg | https://m.media-amazon.com/images/I/41Fr5vfeaWL.jpg | https://m.media-amazon.com/images/I/516uePyLG1L.jpg | https://m.media-amazon.com/images/I/41ZzCrZPOmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.27%",
   "SalePrice": "₹299.00",
   "Country": "Thailand"
 }

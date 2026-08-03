@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/314w8eG-UeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AMQvC7FfL.jpg | https://m.media-amazon.com/images/I/41jzNm6W+kL.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg | https://m.media-amazon.com/images/I/31X3B1ZQaaL.jpg | https://m.media-amazon.com/images/I/31s56TTtUrL.jpg | https://m.media-amazon.com/images/I/31NpDthgbKL.jpg | https://m.media-amazon.com/images/I/314w8eG-UeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.23%",
   "SalePrice": "₹27,560.00",
   "Model": "PCL946K1"
 }

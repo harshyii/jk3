@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/31P9ClT0URL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41CbVk63kML.jpg | https://m.media-amazon.com/images/I/41CbVk63kML.jpg | https://m.media-amazon.com/images/I/51yHsOBWM6L.jpg | https://m.media-amazon.com/images/I/31P9ClT0URL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "73.58%",
   "SalePrice": "₹79.00",
   "Model": "SP-Solar"
 }

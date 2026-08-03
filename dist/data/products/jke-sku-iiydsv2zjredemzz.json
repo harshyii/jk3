@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/415ECLQprNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ABAPTtM4L.jpg | https://m.media-amazon.com/images/I/31PBnAig42L.jpg | https://m.media-amazon.com/images/I/51VAesbgc0L.jpg | https://m.media-amazon.com/images/I/41VzmZSMpZL.jpg | https://m.media-amazon.com/images/I/41J5iXgb81L.jpg | https://m.media-amazon.com/images/I/61a03SQJIkL.jpg | https://m.media-amazon.com/images/I/415ECLQprNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.44%",
   "SalePrice": "₹2,739.00",
   "Model": "GL350L-B1"
 }

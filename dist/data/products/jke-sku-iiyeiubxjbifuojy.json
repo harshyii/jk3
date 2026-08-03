@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51f6p-dZOiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81tBgZ6of4L.jpg | https://m.media-amazon.com/images/I/4122QtPfTNL.jpg | https://m.media-amazon.com/images/I/41FKj1F8AIL.jpg | https://m.media-amazon.com/images/I/51LlTp1GkfL.jpg | https://m.media-amazon.com/images/I/51-xsOB5HML.jpg | https://m.media-amazon.com/images/I/51bCg9oMiqL.jpg | https://m.media-amazon.com/images/I/51f6p-dZOiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.03%",
   "SalePrice": "₹1,799.00",
   "Model": "TR1"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41x4GpMbT1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+DHxZ6eML.jpg | https://m.media-amazon.com/images/I/41x4GpMbT1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "20.99%",
   "SalePrice": "₹5,679.00",
   "Model": "RT160028"
 }

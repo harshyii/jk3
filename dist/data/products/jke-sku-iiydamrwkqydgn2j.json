@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/21Rq0G-rjkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51y1ugo7DML.jpg | https://m.media-amazon.com/images/I/21Rq0G-rjkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.71%",
   "SalePrice": "₹2,785.00",
   "Model": "61466",
   "Country": "USA"

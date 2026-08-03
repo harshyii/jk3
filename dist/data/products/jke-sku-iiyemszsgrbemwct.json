@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41DU40f76xL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ea9RY92BL.jpg | https://m.media-amazon.com/images/I/31iTHWFJInL.jpg | https://m.media-amazon.com/images/I/41saS2y54yL.jpg | https://m.media-amazon.com/images/I/31rweZobhaL.jpg | https://m.media-amazon.com/images/I/41DU40f76xL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "20.5%",
   "SalePrice": "₹7,950.00",
   "Model": "XP-IW-02"
 }

@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/316GwBKWbiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NhNCBZeUL.jpg | https://m.media-amazon.com/images/I/316GwBKWbiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "40.75%",
   "SalePrice": "₹9,574.00",
   "Model": "DH 26 PB"
 }

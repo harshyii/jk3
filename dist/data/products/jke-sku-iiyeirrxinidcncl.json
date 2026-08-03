@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31yDjf6uqjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51I-wnqwYYL.jpg | https://m.media-amazon.com/images/I/21sAuzR3wxL.jpg | https://m.media-amazon.com/images/I/319fEe4HYOL.jpg | https://m.media-amazon.com/images/I/31yDjf6uqjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.82%",
   "SalePrice": "₹209.00",
   "Model": "L 32H"
 }

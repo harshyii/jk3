@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/312MHfPvzEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71-7WflavML.jpg | https://m.media-amazon.com/images/I/414xFeHP8OL.jpg | https://m.media-amazon.com/images/I/312MHfPvzEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.48%",
   "SalePrice": "₹1,729.00",
   "Model": "KIT/SKT/H/1-4/9LH/UG"
 }

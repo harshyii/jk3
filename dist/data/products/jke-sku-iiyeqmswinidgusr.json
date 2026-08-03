@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/419hxJWHqTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31UYAbVo6CL.jpg | https://m.media-amazon.com/images/I/31UYAbVo6CL.jpg | https://m.media-amazon.com/images/I/61fdxGbpuYL.jpg | https://m.media-amazon.com/images/I/419hxJWHqTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.72%",
   "SalePrice": "₹5,599.00",
   "Model": "Endico-rhd-26"
 }

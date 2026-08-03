@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41XEqqN3LYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZeymnHCQL.jpg | https://m.media-amazon.com/images/I/41XEqqN3LYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "3.65%",
   "SalePrice": "₹290.00",
   "Model": "D-45537"
 }

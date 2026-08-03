@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41jiSTcHQoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dgHHNYeuL.jpg | https://m.media-amazon.com/images/I/41n1rN7L3-L.jpg | https://m.media-amazon.com/images/I/41mLjf0aQTL.jpg | https://m.media-amazon.com/images/I/51cgjVpQjnL.jpg | https://m.media-amazon.com/images/I/41oHfgOjY7L.jpg | https://m.media-amazon.com/images/I/51xNZrRG3zL.jpg | https://m.media-amazon.com/images/I/41jiSTcHQoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "52.02%",
   "SalePrice": "₹23,990.00",
   "Model": "EcoFlow River 2 (EFR600)"
 }

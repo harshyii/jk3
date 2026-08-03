@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/419pUvssv9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ax0-Bt51L.jpg | https://m.media-amazon.com/images/I/51ax0-Bt51L.jpg | https://m.media-amazon.com/images/I/41hBgdbbKaL.jpg | https://m.media-amazon.com/images/I/41DKGHjQq7L.jpg | https://m.media-amazon.com/images/I/4101ZwllpkL.jpg | https://m.media-amazon.com/images/I/411LJOsgIOL.jpg | https://m.media-amazon.com/images/I/41NWVNLsTSL.jpg | https://m.media-amazon.com/images/I/419pUvssv9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "33.41%",
   "SalePrice": "₹3,329.00",
   "Country": "India"
 }

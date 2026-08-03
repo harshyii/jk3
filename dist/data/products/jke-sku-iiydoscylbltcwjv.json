@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31PDqpGTjJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/417Myy-GsvL.jpg | https://m.media-amazon.com/images/I/31PDqpGTjJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "20.55%",
   "SalePrice": "₹6,165.00",
   "Model": "48-22-6105"
 }

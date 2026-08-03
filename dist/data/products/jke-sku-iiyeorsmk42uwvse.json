@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41NjS5G3rhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718CEjoGOhL.jpg | https://m.media-amazon.com/images/I/31QyRhhA1zL.jpg | https://m.media-amazon.com/images/I/4101jKUud5L.jpg | https://m.media-amazon.com/images/I/411hhbXCQzL.jpg | https://m.media-amazon.com/images/I/41lHeQcVMzL.jpg | https://m.media-amazon.com/images/I/41ol552BbcL.jpg | https://m.media-amazon.com/images/I/41d5v4BKcBL.jpg | https://m.media-amazon.com/images/I/41NjS5G3rhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.01%",
   "SalePrice": "₹7,499.00",
   "Model": "Zelio M 1200",
   "Country": "India"

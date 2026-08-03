@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41Fc9CruuOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Fc9CruuOL.jpg | https://m.media-amazon.com/images/I/41Fc9CruuOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "39.01%",
   "SalePrice": "₹11,137.78",
   "Model": "3401-20"
 }

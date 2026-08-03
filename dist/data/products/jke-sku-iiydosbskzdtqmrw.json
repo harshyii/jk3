@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41swphvI7bL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vrtKVT0mL.jpg | https://m.media-amazon.com/images/I/41D7o-tMmVL.jpg | https://m.media-amazon.com/images/I/41RJQR+H66L.jpg | https://m.media-amazon.com/images/I/41Qyp6LtiDL.jpg | https://m.media-amazon.com/images/I/51HUsEnU5ML.jpg | https://m.media-amazon.com/images/I/51mCdjh-wFL.jpg | https://m.media-amazon.com/images/I/410srFzF2QL.jpg | https://m.media-amazon.com/images/I/41swphvI7bL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "27.29%",
   "SalePrice": "₹349.00",
   "Model": "DEB 2m (10 PACK)",
   "Country": "India"

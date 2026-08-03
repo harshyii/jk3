@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/414gqoKH-jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712A4a-HTZL.jpg | https://m.media-amazon.com/images/I/41h-gGyJ7oL.jpg | https://m.media-amazon.com/images/I/41vb2ryS5UL.jpg | https://m.media-amazon.com/images/I/41FwEy3tHHL.jpg | https://m.media-amazon.com/images/I/51dCGiiq5IL.jpg | https://m.media-amazon.com/images/I/41JqlNhfEWL.jpg | https://m.media-amazon.com/images/I/415JKDuUIbL.jpg | https://m.media-amazon.com/images/I/414gqoKH-jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "36.68%",
   "SalePrice": "₹1,519.00",
   "Model": "SSA-3715-N"
 }

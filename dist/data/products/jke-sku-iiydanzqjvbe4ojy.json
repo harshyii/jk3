@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31rtYHxCOXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61pyR+uCkML.jpg | https://m.media-amazon.com/images/I/31Bi+S8yfXL.jpg | https://m.media-amazon.com/images/I/31bj-JvrywL.jpg | https://m.media-amazon.com/images/I/31u27DDu1EL.jpg | https://m.media-amazon.com/images/I/31rtYHxCOXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "310 Milliliters",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹9,578.00",
   "Model": "FISCH-512186"
 }

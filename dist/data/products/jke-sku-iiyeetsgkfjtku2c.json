@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41r7MH-VFlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41vK-Xb+-OL.jpg | https://m.media-amazon.com/images/I/31xb5BEjmpL.jpg | https://m.media-amazon.com/images/I/31+9eb10pkL.jpg | https://m.media-amazon.com/images/I/41r7MH-VFlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.87%",
   "SalePrice": "₹21,500.00",
   "Model": "SPT30"
 }

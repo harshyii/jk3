@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31vEXCmOLwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SX3jFaGhL.jpg | https://m.media-amazon.com/images/I/31fXuIR080L.jpg | https://m.media-amazon.com/images/I/41L2OJOaGDL.jpg | https://m.media-amazon.com/images/I/31vEXCmOLwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "81.19%",
   "SalePrice": "₹376.00",
   "Model": "TC-105"
 }

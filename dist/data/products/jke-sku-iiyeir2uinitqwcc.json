@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41wzu5opHvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FPT0MAbcL.jpg | https://m.media-amazon.com/images/I/31sY9Y9pHiL.jpg | https://m.media-amazon.com/images/I/41RIEcCgPHL.jpg | https://m.media-amazon.com/images/I/41195Vg+NOL.jpg | https://m.media-amazon.com/images/I/41dm4h5vkeL.jpg | https://m.media-amazon.com/images/I/41d21LJHEjL.jpg | https://m.media-amazon.com/images/I/41wzu5opHvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.93%",
   "SalePrice": "₹464.00",
   "Model": "CBP 102"
 }

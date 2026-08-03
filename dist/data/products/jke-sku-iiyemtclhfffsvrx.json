@@ -93,9 +93,9 @@
     "https://m.media-amazon.com/images/I/51etkWZVeOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71uicfJxN-L.jpg | https://m.media-amazon.com/images/I/41KThv70z4L.jpg | https://m.media-amazon.com/images/I/417zT+fZIEL.jpg | https://m.media-amazon.com/images/I/51F4-tVJ+WL.jpg | https://m.media-amazon.com/images/I/41CBCnR3VdL.jpg | https://m.media-amazon.com/images/I/51Iy+N1n-6L.jpg | https://m.media-amazon.com/images/I/51TB0HSCppL.jpg | https://m.media-amazon.com/images/I/51etkWZVeOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "58.42%",
   "SalePrice": "₹7,899.00",
   "Model": "X10A"
 }

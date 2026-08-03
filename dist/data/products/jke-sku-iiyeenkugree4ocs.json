@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51XF8JWkTGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611fm5Af8FL.jpg | https://m.media-amazon.com/images/I/41VxoYdSc9L.jpg | https://m.media-amazon.com/images/I/412wZAB-LgL.jpg | https://m.media-amazon.com/images/I/417UrBcga5L.jpg | https://m.media-amazon.com/images/I/51XF8JWkTGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.8%",
   "SalePrice": "₹18,250.00",
   "Model": "JMSW_3000+",
   "Country": "India"

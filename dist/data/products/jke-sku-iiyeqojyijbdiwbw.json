@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/31ocYMTMC1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51YBW3Ip2HL.jpg | https://m.media-amazon.com/images/I/31ocYMTMC1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.96%",
   "SalePrice": "₹205.00",
   "Model": "CP06"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51MRbsMBGpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81PPpa7H+-L.jpg | https://m.media-amazon.com/images/I/41olm3-8szL.jpg | https://m.media-amazon.com/images/I/41UtSjTGGVL.jpg | https://m.media-amazon.com/images/I/41N8ew2DV+L.jpg | https://m.media-amazon.com/images/I/41iJYaFtbWL.jpg | https://m.media-amazon.com/images/I/51haApSkNAL.jpg | https://m.media-amazon.com/images/I/51MRbsMBGpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.78%",
   "SalePrice": "₹10,990.00",
   "Model": "IBELL CAR WASHER"
 }

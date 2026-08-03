@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51uK17Wx6DL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81BtzN6YeLL.jpg | https://m.media-amazon.com/images/I/4156hAN+FdL.jpg | https://m.media-amazon.com/images/I/415Y7e--lCL.jpg | https://m.media-amazon.com/images/I/31CgS-ScBFL.jpg | https://m.media-amazon.com/images/I/41S-k-vRS1L.jpg | https://m.media-amazon.com/images/I/51EDVTVCueL.jpg | https://m.media-amazon.com/images/I/51UxRN9K3XL.jpg | https://m.media-amazon.com/images/I/51uK17Wx6DL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.83%",
   "SalePrice": "₹31,742.10",
   "Model": "DWST83541-1"
 }

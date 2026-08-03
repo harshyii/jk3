@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41TQ6XN+IML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yoxBSS8iL.jpg | https://m.media-amazon.com/images/I/21gZTWKfH8L.jpg | https://m.media-amazon.com/images/I/316dMDefWhL.jpg | https://m.media-amazon.com/images/I/21rKhkd1hxL.jpg | https://m.media-amazon.com/images/I/21O0tHsMd5S.jpg | https://m.media-amazon.com/images/I/41AA66sRNFL.jpg | https://m.media-amazon.com/images/I/41TQ6XN+IML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "42.97%",
   "SalePrice": "₹284.00",
   "Model": "E-2006"
 }

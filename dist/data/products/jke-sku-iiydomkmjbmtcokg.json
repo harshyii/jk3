@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41IcteFN25L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41IgRQsU6NL.jpg | https://m.media-amazon.com/images/I/31iNUzfP-9L.jpg | https://m.media-amazon.com/images/I/31vwtD9l73L.jpg | https://m.media-amazon.com/images/I/31uz+zVqatL.jpg | https://m.media-amazon.com/images/I/41IcteFN25L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.67%",
   "SalePrice": "₹2,690.00",
   "Model": "EMT2090",
   "Country": "India"

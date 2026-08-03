@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/3140xdxp5OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61HipytyHLL.jpg | https://m.media-amazon.com/images/I/3140xdxp5OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.56%",
   "SalePrice": "₹710.00",
   "Model": "NYLON HAMMER50MM"
 }

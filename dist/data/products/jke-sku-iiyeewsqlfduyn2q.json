@@ -84,9 +84,9 @@
     "https://m.media-amazon.com/images/I/41ZoIhFUtlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71qkfbtOW4L.jpg | https://m.media-amazon.com/images/I/31Ce9wsLlHL.jpg | https://m.media-amazon.com/images/I/414i6JPHo1L.jpg | https://m.media-amazon.com/images/I/41b+6lIugYL.jpg | https://m.media-amazon.com/images/I/41an3TBcCrL.jpg | https://m.media-amazon.com/images/I/41vEl3R1BgL.jpg | https://m.media-amazon.com/images/I/41ZoIhFUtlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.54%",
   "SalePrice": "₹3,299.00",
   "Model": "FHCLE2SPWS48"
 }

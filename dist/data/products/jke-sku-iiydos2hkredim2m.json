@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41TuBrB9pPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Cc0zQfl6L.jpg | https://m.media-amazon.com/images/I/41QxQuZc76L.jpg | https://m.media-amazon.com/images/I/41qId+MLNdL.jpg | https://m.media-amazon.com/images/I/61c9CkewRkL.jpg | https://m.media-amazon.com/images/I/41qOuy5zShL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg | https://m.media-amazon.com/images/I/41TuBrB9pPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.78%",
   "SalePrice": "₹3,249.00",
   "Model": "BEW210-QS"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51huwveBCjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ajdpFZHEL.jpg | https://m.media-amazon.com/images/I/41rpIsEPUHL.jpg | https://m.media-amazon.com/images/I/31-1Mq9uesL.jpg | https://m.media-amazon.com/images/I/51GsTQnEstL.jpg | https://m.media-amazon.com/images/I/41JW8+79PhL.jpg | https://m.media-amazon.com/images/I/61zVNxWSG0L.jpg | https://m.media-amazon.com/images/I/51VDXt7XwmL.jpg | https://m.media-amazon.com/images/I/51huwveBCjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,767.69",
   "Model": "50769",
   "Country": "USA"

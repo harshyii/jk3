@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41JH8eg2IqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41WzZdm0Q3L.jpg | https://m.media-amazon.com/images/I/21QmPaap7pL.jpg | https://m.media-amazon.com/images/I/51cUWbrTiFL.jpg | https://m.media-amazon.com/images/I/41JH8eg2IqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "45.89%",
   "SalePrice": "₹2,705.00",
   "Model": "Rechargeable Pen Camera",
   "Country": "India"

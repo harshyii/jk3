@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/21Up1udmx+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NpHxnwXnL.jpg | https://m.media-amazon.com/images/I/21Up1udmx+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.27%",
   "SalePrice": "₹5,769.57",
   "Model": "SDP/12"
 }

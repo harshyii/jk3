@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51r41hRUjZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51E5kp1HSNL.jpg | https://m.media-amazon.com/images/I/31X5ooR6RFL.jpg | https://m.media-amazon.com/images/I/31oAKXXHiPL.jpg | https://m.media-amazon.com/images/I/615F5OjS5KL.jpg | https://m.media-amazon.com/images/I/51r41hRUjZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.46%",
   "SalePrice": "₹10,399.00",
   "Model": "UPS SOLAR 2035VA/24V PWM",
   "Country": "India"

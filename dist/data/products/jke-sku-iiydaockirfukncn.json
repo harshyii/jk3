@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31lX98Lzv+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618QH+J2UNL.jpg | https://m.media-amazon.com/images/I/41QZbvZthFL.jpg | https://m.media-amazon.com/images/I/31aZ-kk-J1L.jpg | https://m.media-amazon.com/images/I/51RbsnAe5tL.jpg | https://m.media-amazon.com/images/I/41WI4R9e92L.jpg | https://m.media-amazon.com/images/I/412UdzaDDaL.jpg | https://m.media-amazon.com/images/I/41ImsjK3L3L.jpg | https://m.media-amazon.com/images/I/31lX98Lzv+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.92%",
   "SalePrice": "₹2,627.00",
   "Model": "SF16-1"
 }

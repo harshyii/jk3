@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/2170POzjdoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qAtT4uNcL.jpg | https://m.media-amazon.com/images/I/31pN6Tac-JL.jpg | https://m.media-amazon.com/images/I/31z0DYubNcL.jpg | https://m.media-amazon.com/images/I/31j-a9QYo3L.jpg | https://m.media-amazon.com/images/I/313TpdsdLiL.jpg | https://m.media-amazon.com/images/I/31MtsMwL4pL.jpg | https://m.media-amazon.com/images/I/314BqhIsYcL.jpg | https://m.media-amazon.com/images/I/2170POzjdoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "1.24%",
   "SalePrice": "₹319.00",
   "Model": "BDHT16697"
 }

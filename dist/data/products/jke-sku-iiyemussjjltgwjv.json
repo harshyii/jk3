@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41wttC5xCTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61LAdjb5BOL.jpg | https://m.media-amazon.com/images/I/31Wpos1PYQL.jpg | https://m.media-amazon.com/images/I/419XH2KbLpL.jpg | https://m.media-amazon.com/images/I/51gTbe8IsdL.jpg | https://m.media-amazon.com/images/I/51pDunky4FL.jpg | https://m.media-amazon.com/images/I/41X79IZ6vFL.jpg | https://m.media-amazon.com/images/I/514pQvKRQZL.jpg | https://m.media-amazon.com/images/I/41wttC5xCTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400.0 Milliliters",
-  "Discount": 0,
+  "Discount": "13.05%",
   "SalePrice": "₹999.00",
   "Model": "IX260102070",
   "Country": "India"

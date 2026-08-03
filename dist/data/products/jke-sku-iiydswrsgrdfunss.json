@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31B6OFZKOYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61T6ch7tRkL.jpg | https://m.media-amazon.com/images/I/31MZQ42HQZL.jpg | https://m.media-amazon.com/images/I/41EOTmX6y9L.jpg | https://m.media-amazon.com/images/I/41aWe24M6kL.jpg | https://m.media-amazon.com/images/I/31MUTuWpfjL.jpg | https://m.media-amazon.com/images/I/31B6OFZKOYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "7.13%",
   "SalePrice": "₹341.76",
   "Model": "FNL/4ST"
 }

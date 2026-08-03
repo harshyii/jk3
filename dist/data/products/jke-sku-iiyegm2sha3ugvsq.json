@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/512yp9FP8XL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710sfFkuMvL.jpg | https://m.media-amazon.com/images/I/31iYwXy34rL.jpg | https://m.media-amazon.com/images/I/61qB4NrLUgL.jpg | https://m.media-amazon.com/images/I/41SmbujJTRL.jpg | https://m.media-amazon.com/images/I/515G-WsMn-L.jpg | https://m.media-amazon.com/images/I/51H9p8EGQAL.jpg | https://m.media-amazon.com/images/I/512yp9FP8XL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "33.34%",
   "SalePrice": "₹11,998.00",
   "Model": "DCF922N-B1"
 }

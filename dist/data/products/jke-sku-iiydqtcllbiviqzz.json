@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41FZY1ACP-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71IGkd4PRtL.jpg | https://m.media-amazon.com/images/I/51WPsCh6cjL.jpg | https://m.media-amazon.com/images/I/5160G2gDl+L.jpg | https://m.media-amazon.com/images/I/51r9P88NWyL.jpg | https://m.media-amazon.com/images/I/41pfOi3XCGL.jpg | https://m.media-amazon.com/images/I/61x29-YWviL.jpg | https://m.media-amazon.com/images/I/41JePddWVhL.jpg | https://m.media-amazon.com/images/I/41FZY1ACP-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "67.17%",
   "SalePrice": "₹18,607.27",
   "Model": "Baldr 120W"
 }

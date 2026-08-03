@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31M07X1N1TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/516icqP3PNL.jpg | https://m.media-amazon.com/images/I/31M07X1N1TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "18.53%",
   "SalePrice": "₹1,262.00",
   "Model": "TIG/2-5/N",
   "Country": "India"

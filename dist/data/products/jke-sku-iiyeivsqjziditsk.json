@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51J0lIzb3gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81LA5QEe6NL.jpg | https://m.media-amazon.com/images/I/51tZsJyZDhL.jpg | https://m.media-amazon.com/images/I/41KD0InlbkL.jpg | https://m.media-amazon.com/images/I/51C+Z5nvs0L.jpg | https://m.media-amazon.com/images/I/41Va2OpSfIL.jpg | https://m.media-amazon.com/images/I/51TkdQbH4JL.jpg | https://m.media-amazon.com/images/I/51J0lIzb3gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "51.02%",
   "SalePrice": "₹3,233.00",
   "Model": "TD13-85R1"
 }

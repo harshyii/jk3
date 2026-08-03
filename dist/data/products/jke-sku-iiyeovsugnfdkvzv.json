@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31Amn-ZlFqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mp9CotTAL.jpg | https://m.media-amazon.com/images/I/415A1mOzTpL.jpg | https://m.media-amazon.com/images/I/31h1YyKKAQL.jpg | https://m.media-amazon.com/images/I/31Amn-ZlFqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.07%",
   "SalePrice": "₹899.00",
   "Model": "Sgw-22"
 }

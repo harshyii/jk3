@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41guC0ORYKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-PvktgGjL.jpg | https://m.media-amazon.com/images/I/41PY8X8SBwL.jpg | https://m.media-amazon.com/images/I/417ScEhVqUL.jpg | https://m.media-amazon.com/images/I/41cXqD6PM-L.jpg | https://m.media-amazon.com/images/I/41x66ops59L.jpg | https://m.media-amazon.com/images/I/214ZntRqCIL.jpg | https://m.media-amazon.com/images/I/41QEEtx4bxL.jpg | https://m.media-amazon.com/images/I/41guC0ORYKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.13%",
   "SalePrice": "₹6,097.76",
   "Model": "48-22-6625",
   "Country": "USA"

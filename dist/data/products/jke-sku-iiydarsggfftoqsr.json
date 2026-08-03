@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51yNg4ua5UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81A2-ajt8lL.jpg | https://m.media-amazon.com/images/I/51a8dNVTTAL.jpg | https://m.media-amazon.com/images/I/51ZNo0mW4+L.jpg | https://m.media-amazon.com/images/I/51S8ecCAo7L.jpg | https://m.media-amazon.com/images/I/51Fz9mCAIqL.jpg | https://m.media-amazon.com/images/I/51awyR6Z9sL.jpg | https://m.media-amazon.com/images/I/51LdzxjiJBL.jpg | https://m.media-amazon.com/images/I/51yNg4ua5UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "946 Milliliters",
-  "Discount": 0,
+  "Discount": "33.34%",
   "SalePrice": "₹4,265.87",
   "Model": "AIR_300"
 }

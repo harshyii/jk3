@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51SjU5+QEIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ryJ8d6vqL.jpg | https://m.media-amazon.com/images/I/41ryJ8d6vqL.jpg | https://m.media-amazon.com/images/I/312yBdhv6FL.jpg | https://m.media-amazon.com/images/I/51SjU5+QEIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.76%",
   "SalePrice": "₹1,359.00",
   "Model": "TC"
 }

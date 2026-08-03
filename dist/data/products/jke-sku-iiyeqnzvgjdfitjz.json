@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51mhVCK2lJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jozD3AlGL.jpg | https://m.media-amazon.com/images/I/41E+ky8sGkL.jpg | https://m.media-amazon.com/images/I/514SW+KatBL.jpg | https://m.media-amazon.com/images/I/51Lmjq2N3DL.jpg | https://m.media-amazon.com/images/I/51qKARXA8iL.jpg | https://m.media-amazon.com/images/I/51EcgNQTjoL.jpg | https://m.media-amazon.com/images/I/51mhVCK2lJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.13%",
   "SalePrice": "₹199.00",
   "Country": "‎China"
 }

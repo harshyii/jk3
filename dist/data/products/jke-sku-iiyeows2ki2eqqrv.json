@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/413rl3RAkSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PdTXMGJjL.jpg | https://m.media-amazon.com/images/I/41WZ3bFtvyL.jpg | https://m.media-amazon.com/images/I/413rl3RAkSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "22.25%",
   "SalePrice": "₹699.00",
   "Model": "BM500",
   "Country": "India"

@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41T3GkNfnxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Y-s4GfTCL.jpg | https://m.media-amazon.com/images/I/41g6e0As6fL.jpg | https://m.media-amazon.com/images/I/51IVMxz0T1L.jpg | https://m.media-amazon.com/images/I/41T3GkNfnxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "45 Piece",
-  "Discount": 0,
+  "Discount": "20.02%",
   "SalePrice": "₹799.00",
   "Model": "SDM_CL"
 }

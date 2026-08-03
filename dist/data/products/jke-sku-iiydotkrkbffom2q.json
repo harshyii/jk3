@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51RT-Bs04rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51RT-Bs04rL.jpg | https://m.media-amazon.com/images/I/51RT-Bs04rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Grams",
-  "Discount": 0,
+  "Discount": "44.49%",
   "SalePrice": "₹2,719.00",
   "Country": "India"
 }

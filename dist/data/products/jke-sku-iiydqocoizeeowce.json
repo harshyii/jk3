@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51ue+ZiCeTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yMiDW2gFL.jpg | https://m.media-amazon.com/images/I/519mGn5qvkL.jpg | https://m.media-amazon.com/images/I/5101rwUA1AL.jpg | https://m.media-amazon.com/images/I/41dTJLqsOEL.jpg | https://m.media-amazon.com/images/I/51s0rFlVevL.jpg | https://m.media-amazon.com/images/I/51H5R2IR0gL.jpg | https://m.media-amazon.com/images/I/51h2yU3iWAL.jpg | https://m.media-amazon.com/images/I/51ue+ZiCeTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "25.69%",
   "SalePrice": "₹6,628.00",
   "Model": "JC3023",
   "Country": "USA"

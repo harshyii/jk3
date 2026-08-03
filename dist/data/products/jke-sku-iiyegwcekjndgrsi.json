@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/41xxtRbVHeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41xxtRbVHeL.jpg | https://m.media-amazon.com/images/I/41xxtRbVHeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.2%",
   "SalePrice": "₹3,939.00",
   "Model": "CC034"
 }

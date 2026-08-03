@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51LJW3gjsNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61rjyrWTVtL.jpg | https://m.media-amazon.com/images/I/41xGhZ2rYPL.jpg | https://m.media-amazon.com/images/I/414knIBKt+L.jpg | https://m.media-amazon.com/images/I/41-OZqR6xkL.jpg | https://m.media-amazon.com/images/I/51XGsro2GGL.jpg | https://m.media-amazon.com/images/I/51fbQrwkQlL.jpg | https://m.media-amazon.com/images/I/51WXWlc2DfL.jpg | https://m.media-amazon.com/images/I/51LJW3gjsNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "65.03%",
   "SalePrice": "₹699.00",
   "Model": "‎PAAXUS Wax Pro Car Duster"
 }

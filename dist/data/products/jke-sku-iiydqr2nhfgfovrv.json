@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51u07BbrQEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61mwe24kkhL.jpg | https://m.media-amazon.com/images/I/313vt7mxOjL.jpg | https://m.media-amazon.com/images/I/41vA1eyShhL.jpg | https://m.media-amazon.com/images/I/51liulCrwGL.jpg | https://m.media-amazon.com/images/I/41uyKz4w4kL.jpg | https://m.media-amazon.com/images/I/41Iu7oWfCUL.jpg | https://m.media-amazon.com/images/I/410Bgf1OvrL.jpg | https://m.media-amazon.com/images/I/51u07BbrQEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.99%",
   "SalePrice": "₹33,500.00",
   "Model": "3000-2/25"
 }

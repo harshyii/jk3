@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/315QDmeakdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ZZD9EjrKL.jpg | https://m.media-amazon.com/images/I/31p2F2jwqBL.jpg | https://m.media-amazon.com/images/I/21NG+FNucLL.jpg | https://m.media-amazon.com/images/I/315QDmeakdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.35%",
   "SalePrice": "₹3,745.00",
   "Model": "DQU160"
 }

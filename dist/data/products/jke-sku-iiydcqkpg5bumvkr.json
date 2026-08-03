@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31NCjRi20zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71IfC8Url5L.jpg | https://m.media-amazon.com/images/I/41NzgN2lusL.jpg | https://m.media-amazon.com/images/I/41r9IA+bIjL.jpg | https://m.media-amazon.com/images/I/31NCjRi20zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "175.0 Milliliters",
-  "Discount": 0,
+  "Discount": "73.98%",
   "SalePrice": "₹2,602.00",
   "Model": "Freeman Apple Cider Vinegar Facial Mask"
 }

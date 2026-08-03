@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41pBjtnZS-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31z-KozMfAL.jpg | https://m.media-amazon.com/images/I/31z-KozMfAL.jpg | https://m.media-amazon.com/images/I/31EIkDYFdmL.jpg | https://m.media-amazon.com/images/I/31jUnl8nUxL.jpg | https://m.media-amazon.com/images/I/41VZZriBbwL.jpg | https://m.media-amazon.com/images/I/41pBjtnZS-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "62.66%",
   "SalePrice": "₹149.00",
   "Model": "Solar panel"
 }

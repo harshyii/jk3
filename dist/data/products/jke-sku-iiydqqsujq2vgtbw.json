@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41aASvh73QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31kp22LM4jL.jpg | https://m.media-amazon.com/images/I/21KYO9qz1aL.jpg | https://m.media-amazon.com/images/I/31rw8IEKmWL.jpg | https://m.media-amazon.com/images/I/211cMi2WGIL.jpg | https://m.media-amazon.com/images/I/41aASvh73QL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "57.07%",
   "SalePrice": "₹26,622.27",
   "Model": "R18TPS-0"
 }

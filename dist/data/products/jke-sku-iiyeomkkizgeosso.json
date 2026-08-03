@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31IGzrb1eWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617N4XgJ5ZL.jpg | https://m.media-amazon.com/images/I/31NcMa7dJ-L.jpg | https://m.media-amazon.com/images/I/41EUQmnLRfL.jpg | https://m.media-amazon.com/images/I/3167pSGtbDL.jpg | https://m.media-amazon.com/images/I/31IGzrb1eWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹6,000.00",
   "Model": "HY-SP-CW-3"
 }

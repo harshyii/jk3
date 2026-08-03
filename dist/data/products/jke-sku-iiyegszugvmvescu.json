@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/414INfQwP6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61BTUjjC-QL.jpg | https://m.media-amazon.com/images/I/418+IFqdsAL.jpg | https://m.media-amazon.com/images/I/41EU92VOzFL.jpg | https://m.media-amazon.com/images/I/41DEZA7ua4L.jpg | https://m.media-amazon.com/images/I/414INfQwP6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.0 Count",
-  "Discount": 0,
+  "Discount": "32.01%",
   "SalePrice": "₹65,576.00",
   "Model": "3050-21"
 }

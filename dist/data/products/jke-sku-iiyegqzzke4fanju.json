@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31QRbIwLLwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71D9LnREQFL.jpg | https://m.media-amazon.com/images/I/51N6ZomhUpL.jpg | https://m.media-amazon.com/images/I/31QFQfKFJDL.jpg | https://m.media-amazon.com/images/I/31ffE6k3-xL.jpg | https://m.media-amazon.com/images/I/31OfJWfEfjL.jpg | https://m.media-amazon.com/images/I/41rFaJWS1BL.jpg | https://m.media-amazon.com/images/I/31QRbIwLLwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.22%",
   "SalePrice": "₹6,999.00",
   "Country": "‎Romania"
 }

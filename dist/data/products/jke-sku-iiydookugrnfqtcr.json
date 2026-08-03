@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41GSwUk5bUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61m8PGFX2GL.jpg | https://m.media-amazon.com/images/I/316Gwzp5pbL.jpg | https://m.media-amazon.com/images/I/41AY8XlfZZL.jpg | https://m.media-amazon.com/images/I/41oFpAhQJ7L.jpg | https://m.media-amazon.com/images/I/41StLNE5mmL.jpg | https://m.media-amazon.com/images/I/41wTxfufy4L.jpg | https://m.media-amazon.com/images/I/51BbQI8c30L.jpg | https://m.media-amazon.com/images/I/41GSwUk5bUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹16,517.04",
   "Model": "16026"
 }

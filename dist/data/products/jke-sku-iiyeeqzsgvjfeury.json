@@ -35,8 +35,8 @@
     "https://m.media-amazon.com/images/I/41iprYQMvML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ldIs9cfiL.jpg | https://m.media-amazon.com/images/I/41iprYQMvML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "700.0 Milliliters",
-  "Discount": 0,
+  "Discount": "22.93%",
   "SalePrice": "₹1,163.00"
 }

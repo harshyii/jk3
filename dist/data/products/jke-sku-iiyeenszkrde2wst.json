@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51fqALlEvVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61GnOdRrTnL.jpg | https://m.media-amazon.com/images/I/41DeD4-tXlL.jpg | https://m.media-amazon.com/images/I/51gVqgJ++HL.jpg | https://m.media-amazon.com/images/I/51LZBuzs4nL.jpg | https://m.media-amazon.com/images/I/51xRwtnl46L.jpg | https://m.media-amazon.com/images/I/51a543lDsnL.jpg | https://m.media-amazon.com/images/I/51y+oq1YnvL.jpg | https://m.media-amazon.com/images/I/51fqALlEvVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "46.04%",
   "SalePrice": "₹6,433.00",
   "Model": "ADP05"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31L2k08CXhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/414DuCXJ35L.jpg | https://m.media-amazon.com/images/I/31Ik4UfeFML.jpg | https://m.media-amazon.com/images/I/31elBU8PE7S.jpg | https://m.media-amazon.com/images/I/51P+jdZKRNL.jpg | https://m.media-amazon.com/images/I/41gAkzxLVtL.jpg | https://m.media-amazon.com/images/I/41e6gxEAmCL.jpg | https://m.media-amazon.com/images/I/416s0vATihL.jpg | https://m.media-amazon.com/images/I/31L2k08CXhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.53%",
   "SalePrice": "₹12,444.00",
   "Model": "D25133K"
 }

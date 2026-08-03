@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41JQPoQnDgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sqg2lwRlL.jpg | https://m.media-amazon.com/images/I/51PcpO4bkVL.jpg | https://m.media-amazon.com/images/I/51u9akCCQhL.jpg | https://m.media-amazon.com/images/I/41r8dVIWo2L.jpg | https://m.media-amazon.com/images/I/51FcMSB2SwL.jpg | https://m.media-amazon.com/images/I/41AuLfid06L.jpg | https://m.media-amazon.com/images/I/41SjWUufgAL.jpg | https://m.media-amazon.com/images/I/41JQPoQnDgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "75.95%",
   "SalePrice": "₹625.00",
   "Model": "New Cat7 Combo"
 }

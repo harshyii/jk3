@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51-3DTdnO-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Qp1nJviBL.jpg | https://m.media-amazon.com/images/I/41CsR3W-r0L.jpg | https://m.media-amazon.com/images/I/51lgA8MWwrL.jpg | https://m.media-amazon.com/images/I/41KojVZDdUL.jpg | https://m.media-amazon.com/images/I/51PE8DFtfPL.jpg | https://m.media-amazon.com/images/I/416-xAstq0L.jpg | https://m.media-amazon.com/images/I/41fsThjFvnL.jpg | https://m.media-amazon.com/images/I/51-3DTdnO-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.04%",
   "SalePrice": "₹7,938.00",
   "Model": "F5"
 }

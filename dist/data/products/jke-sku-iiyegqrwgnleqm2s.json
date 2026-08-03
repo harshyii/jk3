@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/418AYk2DOdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81CXzoqD5OL.jpg | https://m.media-amazon.com/images/I/410gyBNb8wL.jpg | https://m.media-amazon.com/images/I/51YnIBj+5gL.jpg | https://m.media-amazon.com/images/I/41AeB4YSltL.jpg | https://m.media-amazon.com/images/I/51DA4xPBqVL.jpg | https://m.media-amazon.com/images/I/41fAPrLrttL.jpg | https://m.media-amazon.com/images/I/41iWYDe7h0L.jpg | https://m.media-amazon.com/images/I/418AYk2DOdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "65.36%",
   "SalePrice": "₹450.00",
   "Model": "FDS349"
 }

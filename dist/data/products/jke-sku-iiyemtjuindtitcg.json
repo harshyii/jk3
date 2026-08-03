@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41AuP1gR+pL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31AQsl6S4HL.jpg | https://m.media-amazon.com/images/I/31AQsl6S4HL.jpg | https://m.media-amazon.com/images/I/41AuP1gR+pL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.17%",
   "SalePrice": "₹2,519.00",
   "Model": "RW13"
 }

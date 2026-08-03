@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41osgz3KM5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-VjAHDmFL.jpg | https://m.media-amazon.com/images/I/31frDnQoYNL.jpg | https://m.media-amazon.com/images/I/41iQceGiFSL.jpg | https://m.media-amazon.com/images/I/41Y-YOG6-NL.jpg | https://m.media-amazon.com/images/I/41iT-Ox0+NL.jpg | https://m.media-amazon.com/images/I/41g49QL2a+L.jpg | https://m.media-amazon.com/images/I/41osgz3KM5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.43%",
   "SalePrice": "₹539.00",
   "Model": "SPS 151"
 }

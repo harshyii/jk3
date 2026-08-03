@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41OUtauWWKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Z4GKX65IL.jpg | https://m.media-amazon.com/images/I/31AtJsVH37L.jpg | https://m.media-amazon.com/images/I/51ze4Dc1AfL.jpg | https://m.media-amazon.com/images/I/31HjfJoxEiL.jpg | https://m.media-amazon.com/images/I/51F5toweScL.jpg | https://m.media-amazon.com/images/I/41kYmQqE09L.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg | https://m.media-amazon.com/images/I/41OUtauWWKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "52.53%",
   "SalePrice": "₹5,649.00",
   "Model": "WP1500K-B1"
 }

@@ -36,8 +36,8 @@
     "https://m.media-amazon.com/images/I/41TMms5gf2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81BZE94GLvL.jpg | https://m.media-amazon.com/images/I/41TMms5gf2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.0 Milliliters",
-  "Discount": 0,
+  "Discount": "22.59%",
   "SalePrice": "₹7,225.00"
 }

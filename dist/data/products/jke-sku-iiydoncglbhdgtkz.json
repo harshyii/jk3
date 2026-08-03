@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/319KArnyzAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/319KArnyzAL.jpg | https://m.media-amazon.com/images/I/319KArnyzAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.24%",
   "SalePrice": "₹5,302.00",
   "Model": "Tc"
 }

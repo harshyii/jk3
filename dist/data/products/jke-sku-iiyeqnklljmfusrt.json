@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51BiaQLQT3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Mv3PfheUL.jpg | https://m.media-amazon.com/images/I/514iCBXvl6L.jpg | https://m.media-amazon.com/images/I/51r5HMrN-XL.jpg | https://m.media-amazon.com/images/I/51UPiA8qG3L.jpg | https://m.media-amazon.com/images/I/51BiaQLQT3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "60 Count",
-  "Discount": 0,
+  "Discount": "27.79%",
   "SalePrice": "₹6,499.00",
   "Country": "India"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41i4AQ6EIzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71GgEpysvPL.jpg | https://m.media-amazon.com/images/I/31JPchYdNiL.jpg | https://m.media-amazon.com/images/I/41GoyN5B3IL.jpg | https://m.media-amazon.com/images/I/41VNGV65B-L.jpg | https://m.media-amazon.com/images/I/41PhZqEp3wL.jpg | https://m.media-amazon.com/images/I/41e65hyFeBL.jpg | https://m.media-amazon.com/images/I/41Z1jZlWdCL.jpg | https://m.media-amazon.com/images/I/41i4AQ6EIzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Case",
-  "Discount": 0,
+  "Discount": "20%",
   "SalePrice": "₹17,598.00",
   "Model": "BID/13/20-2/EU"
 }

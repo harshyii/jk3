@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/416hZP-nrKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71B-iwcRYlL.jpg | https://m.media-amazon.com/images/I/41BTHJcbPvL.jpg | https://m.media-amazon.com/images/I/41CBPe+rvkL.jpg | https://m.media-amazon.com/images/I/41GeosC1bvL.jpg | https://m.media-amazon.com/images/I/41o+oSqg+TL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/416hZP-nrKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.6%",
   "SalePrice": "₹12,599.00",
   "Model": "BES7101800MS"
 }

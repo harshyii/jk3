@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41fCsa6QbvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61HP3fbFG2L.jpg | https://m.media-amazon.com/images/I/31UyaQSGc4L.jpg | https://m.media-amazon.com/images/I/41vYlsj0VwL.jpg | https://m.media-amazon.com/images/I/31YxFIETusL.jpg | https://m.media-amazon.com/images/I/41n6jCOGc5L.jpg | https://m.media-amazon.com/images/I/41U2cy99cFL.jpg | https://m.media-amazon.com/images/I/41fCsa6QbvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.1%",
   "SalePrice": "₹499.00",
   "Model": "TR193"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41HGww342lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619leSoYFzL.jpg | https://m.media-amazon.com/images/I/41XuCHX0FdL.jpg | https://m.media-amazon.com/images/I/51hCdKKlrsL.jpg | https://m.media-amazon.com/images/I/51kyC16gxwL.jpg | https://m.media-amazon.com/images/I/513ipsEqcUL.jpg | https://m.media-amazon.com/images/I/51+2G3n4MHL.jpg | https://m.media-amazon.com/images/I/41HGww342lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.21%",
   "SalePrice": "₹3,647.00",
   "Model": "EMC-125J"
 }

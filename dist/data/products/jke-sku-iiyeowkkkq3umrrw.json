@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31bU+-O0LlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61s4GXgpdcL.jpg | https://m.media-amazon.com/images/I/31Z2c2iq0bL.jpg | https://m.media-amazon.com/images/I/41dQdYB7EPL.jpg | https://m.media-amazon.com/images/I/41C-8A4NUXL.jpg | https://m.media-amazon.com/images/I/31bU+-O0LlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Piece",
-  "Discount": 0,
+  "Discount": "48.33%",
   "SalePrice": "₹620.00",
   "Model": "Xp-dsb110-9seg",
   "Country": "India"

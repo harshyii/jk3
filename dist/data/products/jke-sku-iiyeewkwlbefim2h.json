@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51LS9Tr3TVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61x0BdNhhDL.jpg | https://m.media-amazon.com/images/I/41oQJ3xJUCL.jpg | https://m.media-amazon.com/images/I/71Bp5euAqlL.jpg | https://m.media-amazon.com/images/I/51B64bBHQeL.jpg | https://m.media-amazon.com/images/I/51UKgWl5pFL.jpg | https://m.media-amazon.com/images/I/31XdByXcSTL.jpg | https://m.media-amazon.com/images/I/51LS9Tr3TVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "20.55%",
   "SalePrice": "₹1,311.00",
   "Model": "EID-2500-02"
 }

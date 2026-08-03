@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51KtgRlax9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51D4FyBSe7L.jpg | https://m.media-amazon.com/images/I/31bB4qVD1VL.jpg | https://m.media-amazon.com/images/I/51H6vdLDZHL.jpg | https://m.media-amazon.com/images/I/41S-+mULDXL.jpg | https://m.media-amazon.com/images/I/51KtgRlax9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.54%",
   "SalePrice": "₹9,999.00",
   "Model": "1000VA/12V 1KW PWM"
 }

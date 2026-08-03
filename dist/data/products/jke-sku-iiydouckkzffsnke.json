@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41W+hYqMEcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41qhqwtY81L.jpg | https://m.media-amazon.com/images/I/31Cs11npb+L.jpg | https://m.media-amazon.com/images/I/41lfH5LIH8L.jpg | https://m.media-amazon.com/images/I/31BkHYp1kKL.jpg | https://m.media-amazon.com/images/I/51CyzVtcsrL.jpg | https://m.media-amazon.com/images/I/51MNna7KX1L.jpg | https://m.media-amazon.com/images/I/51lNLWQLZFL.jpg | https://m.media-amazon.com/images/I/41W+hYqMEcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹38,514.38",
   "Model": "MM50-01"
 }

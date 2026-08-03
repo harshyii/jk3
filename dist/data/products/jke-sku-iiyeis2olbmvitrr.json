@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51dpOLE91UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JEWF6A38L.jpg | https://m.media-amazon.com/images/I/319GlZZznoL.jpg | https://m.media-amazon.com/images/I/417dpmAFmmL.jpg | https://m.media-amazon.com/images/I/413g8+5uInL.jpg | https://m.media-amazon.com/images/I/41QoNAOXqML.jpg | https://m.media-amazon.com/images/I/51uebEIlb2L.jpg | https://m.media-amazon.com/images/I/41GZG1bVdrL.jpg | https://m.media-amazon.com/images/I/51dpOLE91UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.29%",
   "SalePrice": "₹32,799.00",
   "Model": "ICW1100+AB4hr"
 }

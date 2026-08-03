@@ -85,9 +85,9 @@
     "https://m.media-amazon.com/images/I/41EqWUiNwTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NqmJnmHqL.jpg | https://m.media-amazon.com/images/I/41jSIRXwc2L.jpg | https://m.media-amazon.com/images/I/416iOfGSIcL.jpg | https://m.media-amazon.com/images/I/51Tsvp9wCDL.jpg | https://m.media-amazon.com/images/I/41OmbTb1O+L.jpg | https://m.media-amazon.com/images/I/415aegBaUeL.jpg | https://m.media-amazon.com/images/I/41ei3tuQ-1L.jpg | https://m.media-amazon.com/images/I/41EqWUiNwTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "14.29%",
   "SalePrice": "₹2,999.00",
   "Model": "Lit v3",
   "Country": "China"

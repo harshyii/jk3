@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41VGi4EibWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61n6ffPlcrL.jpg | https://m.media-amazon.com/images/I/4140W0VDALL.jpg | https://m.media-amazon.com/images/I/41yz4iCqKlL.jpg | https://m.media-amazon.com/images/I/41FJ-adjpPL.jpg | https://m.media-amazon.com/images/I/41UwZu3He+L.jpg | https://m.media-amazon.com/images/I/41VGi4EibWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.00 Count",
-  "Discount": 0,
+  "Discount": "12.95%",
   "SalePrice": "₹1,566.00",
   "Model": "SSA-3650-6"
 }

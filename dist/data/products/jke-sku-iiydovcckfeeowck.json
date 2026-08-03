@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31aus-kbmuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71he3zXiklL.jpg | https://m.media-amazon.com/images/I/51u5VvoEbcL.jpg | https://m.media-amazon.com/images/I/41eNBIXnknL.jpg | https://m.media-amazon.com/images/I/41bg7esCn-L.jpg | https://m.media-amazon.com/images/I/51D5FVQM95L.jpg | https://m.media-amazon.com/images/I/31aus-kbmuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5.0 Count",
-  "Discount": 0,
+  "Discount": "41.81%",
   "SalePrice": "₹348.00",
   "Country": "India"
 }

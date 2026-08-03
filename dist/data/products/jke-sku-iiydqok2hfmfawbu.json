@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41H7zqguN+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71yeVD35FdL.jpg | https://m.media-amazon.com/images/I/51GeUjrAtKL.jpg | https://m.media-amazon.com/images/I/51zNQ8piRXL.jpg | https://m.media-amazon.com/images/I/31XNrADpY-L.jpg | https://m.media-amazon.com/images/I/51gafEl00WL.jpg | https://m.media-amazon.com/images/I/41H7zqguN+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "1.28%",
   "SalePrice": "₹1,617.00",
   "Model": "WRFF7",
   "Country": "USA"

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41Vb20Bb3OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611ZHpa7sCL.jpg | https://m.media-amazon.com/images/I/31gzNdI2AHL.jpg | https://m.media-amazon.com/images/I/41hNKwriNRL.jpg | https://m.media-amazon.com/images/I/41xUOWvEb9L.jpg | https://m.media-amazon.com/images/I/41m6ng7zLIL.jpg | https://m.media-amazon.com/images/I/415oUNylE6L.jpg | https://m.media-amazon.com/images/I/41x17jkG0BL.jpg | https://m.media-amazon.com/images/I/41Vb20Bb3OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.08%",
   "SalePrice": "₹8,499.00",
   "Model": "Zelio M 1300"
 }

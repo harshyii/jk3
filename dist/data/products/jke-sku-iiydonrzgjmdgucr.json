@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41xetY92EhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71BhooO2bAL.jpg | https://m.media-amazon.com/images/I/4161SOaMU7L.jpg | https://m.media-amazon.com/images/I/41+i3l1w3ML.jpg | https://m.media-amazon.com/images/I/511EIyrgZML.jpg | https://m.media-amazon.com/images/I/41qio9KvHhL.jpg | https://m.media-amazon.com/images/I/411yzicl3dL.jpg | https://m.media-amazon.com/images/I/41giBXYB0PL.jpg | https://m.media-amazon.com/images/I/41xetY92EhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "71.27%",
   "SalePrice": "₹6,240.00",
   "Model": "MG7516-BLK-M"
 }

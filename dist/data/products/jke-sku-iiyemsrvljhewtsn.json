@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/519wh0a1VtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615KMODi9UL.jpg | https://m.media-amazon.com/images/I/415mCCRWElL.jpg | https://m.media-amazon.com/images/I/51yFNXeJKoL.jpg | https://m.media-amazon.com/images/I/51rwKLaSMJL.jpg | https://m.media-amazon.com/images/I/519Zd683KhL.jpg | https://m.media-amazon.com/images/I/61ItH4kFOSL.jpg | https://m.media-amazon.com/images/I/51j+ie11uZL.jpg | https://m.media-amazon.com/images/I/519wh0a1VtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.0 Milliliters",
-  "Discount": 0,
+  "Discount": "32.24%",
   "SalePrice": "₹2,499.00",
   "Country": "India"
 }

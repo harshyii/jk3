@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31jei44esvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61CtkMtSG5L.jpg | https://m.media-amazon.com/images/I/21FObfH0xzL.jpg | https://m.media-amazon.com/images/I/21N3tOeqjnL.jpg | https://m.media-amazon.com/images/I/31jei44esvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Meters",
-  "Discount": 0,
+  "Discount": "43.94%",
   "SalePrice": "₹162.00",
   "Model": "WIREWRAP1M",
   "Country": "India"

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/3171s6GxOwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715FhYTP3iL.jpg | https://m.media-amazon.com/images/I/417teRP6G1L.jpg | https://m.media-amazon.com/images/I/3171s6GxOwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,606.38",
   "Model": "ZSBDCE",
   "Country": "USA"

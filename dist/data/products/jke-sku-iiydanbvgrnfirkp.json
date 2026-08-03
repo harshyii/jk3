@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/410MHp+iiYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31v5+d-2h-L.jpg | https://m.media-amazon.com/images/I/31v5+d-2h-L.jpg | https://m.media-amazon.com/images/I/410MHp+iiYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,102.18",
   "Model": "CCR6",
   "Country": "USA"

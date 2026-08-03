@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/518kHAfmCzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71YoW7nTahL.jpg | https://m.media-amazon.com/images/I/31iv2Ww0rvL.jpg | https://m.media-amazon.com/images/I/51-sTPjon-L.jpg | https://m.media-amazon.com/images/I/41B5IEVkCsL.jpg | https://m.media-amazon.com/images/I/41+BtPAmkCL.jpg | https://m.media-amazon.com/images/I/41GpEV143KL.jpg | https://m.media-amazon.com/images/I/51mOOyLIT2L.jpg | https://m.media-amazon.com/images/I/518kHAfmCzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "38.49%",
   "SalePrice": "₹799.00",
   "Model": "10GCDC194CCNBFT",
   "Country": "China"

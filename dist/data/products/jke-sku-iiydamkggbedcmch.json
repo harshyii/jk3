@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41CoYvKpw9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71uoah3qQJL.jpg | https://m.media-amazon.com/images/I/41botZ3FinL.jpg | https://m.media-amazon.com/images/I/41Bw3Qzh7EL.jpg | https://m.media-amazon.com/images/I/41x9SVlRMJL.jpg | https://m.media-amazon.com/images/I/41krCn2aykL.jpg | https://m.media-amazon.com/images/I/41bSFJycNUL.jpg | https://m.media-amazon.com/images/I/41CoYvKpw9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "47.75%",
   "SalePrice": "₹12,035.00",
   "Model": "M9132"
 }

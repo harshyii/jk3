@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51dauRKw2aL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615t9t2U3gL.jpg | https://m.media-amazon.com/images/I/41LQdie-I8L.jpg | https://m.media-amazon.com/images/I/51CVUk6uRML.jpg | https://m.media-amazon.com/images/I/51bQmB8zJML.jpg | https://m.media-amazon.com/images/I/41vpg1YiDOL.jpg | https://m.media-amazon.com/images/I/41kZ8WzYQPL.jpg | https://m.media-amazon.com/images/I/51pN0KK-okL.jpg | https://m.media-amazon.com/images/I/51dauRKw2aL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹24,649.24",
   "Model": "48-32-4034",
   "Country": "USA"

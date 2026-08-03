@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51uE2SAGyBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mXcDQEj1L.jpg | https://m.media-amazon.com/images/I/41jke3rrhgL.jpg | https://m.media-amazon.com/images/I/416X6I3IzlL.jpg | https://m.media-amazon.com/images/I/51uE2SAGyBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.42%",
   "SalePrice": "₹6,200.00",
   "Model": "HP1630"
 }

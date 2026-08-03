@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41jVn0bCbkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71b39g0RdAL.jpg | https://m.media-amazon.com/images/I/41c5FXgEHjL.jpg | https://m.media-amazon.com/images/I/41WchL3N1jL.jpg | https://m.media-amazon.com/images/I/31cf-Q49FfL.jpg | https://m.media-amazon.com/images/I/317wzlBnx6L.jpg | https://m.media-amazon.com/images/I/31EgzUxVaNL.jpg | https://m.media-amazon.com/images/I/319Bcuoz8qL.jpg | https://m.media-amazon.com/images/I/41jVn0bCbkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.09%",
   "SalePrice": "₹949.00",
   "Model": "SW50",
   "Country": "India"

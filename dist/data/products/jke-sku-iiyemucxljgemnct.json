@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31x33w76+sL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Jwq-UJcDL.jpg | https://m.media-amazon.com/images/I/31pxmwCGDFL.jpg | https://m.media-amazon.com/images/I/31aRtvf3-rL.jpg | https://m.media-amazon.com/images/I/31roWz4OucL.jpg | https://m.media-amazon.com/images/I/31VAAR1oYRL.jpg | https://m.media-amazon.com/images/I/31x33w76+sL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.4%",
   "SalePrice": "₹209.00",
   "Model": "1/2\"BI- HEX SOCKET-8,10"
 }

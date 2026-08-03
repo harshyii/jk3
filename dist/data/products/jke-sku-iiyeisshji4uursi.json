@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41MpCab1QYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Yqt-bhokL.jpg | https://m.media-amazon.com/images/I/310piCZxKSL.jpg | https://m.media-amazon.com/images/I/41J-RXE45qL.jpg | https://m.media-amazon.com/images/I/51whuZphjQL.jpg | https://m.media-amazon.com/images/I/51Lrgqd5wVL.jpg | https://m.media-amazon.com/images/I/51HCmmDpIqL.jpg | https://m.media-amazon.com/images/I/51PMPTBslTL.jpg | https://m.media-amazon.com/images/I/41MpCab1QYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Liters",
-  "Discount": 0,
+  "Discount": "49.54%",
   "SalePrice": "₹1,650.00",
   "Model": "XTGLOSS1K",
   "Country": "India"

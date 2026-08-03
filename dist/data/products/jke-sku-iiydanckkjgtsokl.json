@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41E-Q8kiKFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pRhGE+SdL.jpg | https://m.media-amazon.com/images/I/51ekNPb6H6L.jpg | https://m.media-amazon.com/images/I/41E-Q8kiKFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "15.05%",
   "SalePrice": "₹254.00",
   "Model": "1447057"
 }

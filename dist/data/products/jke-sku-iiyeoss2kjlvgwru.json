@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51K2XMc7+iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/815IOHajGTL.jpg | https://m.media-amazon.com/images/I/51K2XMc7+iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "40.59%",
   "SalePrice": "₹5,940.00",
   "Model": "CROSLI20021"
 }

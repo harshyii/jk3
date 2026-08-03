@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/519GmgEPaRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615ULzw53BL.jpg | https://m.media-amazon.com/images/I/3161meYvDmL.jpg | https://m.media-amazon.com/images/I/41ntoVh0OWL.jpg | https://m.media-amazon.com/images/I/41uxx2jiiGL.jpg | https://m.media-amazon.com/images/I/519GmgEPaRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "20.36%",
   "SalePrice": "₹5,495.00",
   "Model": "900"
 }

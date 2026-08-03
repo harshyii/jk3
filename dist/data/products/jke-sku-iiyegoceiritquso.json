@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41dQImGgGCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71j8VFk+FCL.jpg | https://m.media-amazon.com/images/I/419-KJbrzKL.jpg | https://m.media-amazon.com/images/I/519nMdeYxPL.jpg | https://m.media-amazon.com/images/I/41BNsDC8-EL.jpg | https://m.media-amazon.com/images/I/51Q15vQwmdL.jpg | https://m.media-amazon.com/images/I/51r4ccxwTzL.jpg | https://m.media-amazon.com/images/I/41JUVg+Ge3L.jpg | https://m.media-amazon.com/images/I/41dQImGgGCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "5.78%",
   "SalePrice": "₹14,793.00",
   "Model": "DH45-66"
 }

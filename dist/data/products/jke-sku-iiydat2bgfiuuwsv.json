@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51i0ydVG+rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611nE-Bp62L.jpg | https://m.media-amazon.com/images/I/31tntvFDL1L.jpg | https://m.media-amazon.com/images/I/51RrM+c9eOL.jpg | https://m.media-amazon.com/images/I/51bFcaZXFjL.jpg | https://m.media-amazon.com/images/I/51kV2xv7hmL.jpg | https://m.media-amazon.com/images/I/51i0ydVG+rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "499.8 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,468.06",
   "Model": "543200-755",
   "Country": "USA"

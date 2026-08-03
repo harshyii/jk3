@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51HFcF9bVJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t9H8ibOHL.jpg | https://m.media-amazon.com/images/I/41HKnGjRg7L.jpg | https://m.media-amazon.com/images/I/41Ln8Nxe4vL.jpg | https://m.media-amazon.com/images/I/41yjKYVJrcL.jpg | https://m.media-amazon.com/images/I/41hrwyhpnML.jpg | https://m.media-amazon.com/images/I/41CyfEyuXiL.jpg | https://m.media-amazon.com/images/I/517QyR2DpzL.jpg | https://m.media-amazon.com/images/I/51HFcF9bVJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.85%",
   "SalePrice": "₹3,789.00",
   "Model": "TC881"
 }

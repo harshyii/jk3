@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51sOwXsE5lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71JEE1PNdrL.jpg | https://m.media-amazon.com/images/I/41Wn3Rz+W4L.jpg | https://m.media-amazon.com/images/I/412El1fKwZL.jpg | https://m.media-amazon.com/images/I/51orYUIj51L.jpg | https://m.media-amazon.com/images/I/41WTgr9M5PL.jpg | https://m.media-amazon.com/images/I/51zLEGecR+L.jpg | https://m.media-amazon.com/images/I/51MDQGG2SUL.jpg | https://m.media-amazon.com/images/I/51sOwXsE5lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹57,345.34",
   "Model": "DCD1007WW1"
 }

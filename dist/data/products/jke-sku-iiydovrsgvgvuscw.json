@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51+NDI+MANL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71N+yFagedL.jpg | https://m.media-amazon.com/images/I/41TnODjdsDL.jpg | https://m.media-amazon.com/images/I/41li+RmI8yL.jpg | https://m.media-amazon.com/images/I/51CgXXbT4FL.jpg | https://m.media-amazon.com/images/I/51zrGirTxKL.jpg | https://m.media-amazon.com/images/I/51vrcMwQ77L.jpg | https://m.media-amazon.com/images/I/51tP1ZmBnNL.jpg | https://m.media-amazon.com/images/I/51+NDI+MANL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹8,007.27",
   "Model": "WAC22916SW",
   "Country": "USA"

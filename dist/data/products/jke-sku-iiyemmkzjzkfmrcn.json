@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/616jgO0l9oL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61VzFpj++OL.jpg | https://m.media-amazon.com/images/I/41ADPWF1o2L.jpg | https://m.media-amazon.com/images/I/515FTbXT1fL.jpg | https://m.media-amazon.com/images/I/5104tD2FOQL.jpg | https://m.media-amazon.com/images/I/412YZfvB7xL.jpg | https://m.media-amazon.com/images/I/51FbbRbIlLL.jpg | https://m.media-amazon.com/images/I/616jgO0l9oL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "60.06%",
   "SalePrice": "₹399.00",
   "Model": "New Wire Stripper Wire Cutter 2025"
 }

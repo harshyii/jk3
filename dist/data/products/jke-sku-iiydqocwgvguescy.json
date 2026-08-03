@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51sFZi7DhLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61filbwbBBL.jpg | https://m.media-amazon.com/images/I/51jILb77pSL.jpg | https://m.media-amazon.com/images/I/51r+WThnX-L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51BNPey3kUL.jpg | https://m.media-amazon.com/images/I/51r6NJlWorL.jpg | https://m.media-amazon.com/images/I/61KtoYB3WNL.jpg | https://m.media-amazon.com/images/I/51kmGHVBFWL.jpg | https://m.media-amazon.com/images/I/51sFZi7DhLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "750.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹99.00",
   "Model": "61008267"
 }

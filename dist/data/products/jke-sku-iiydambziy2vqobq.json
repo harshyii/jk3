@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41m2j7vGmJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EoLv3QRPL.jpg | https://m.media-amazon.com/images/I/41m2j7vGmJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,535.04",
   "Model": "49-22-0071",
   "Country": "USA"

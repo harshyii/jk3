@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/514qSsRlIAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41raGsCjL9L.jpg | https://m.media-amazon.com/images/I/312oxPEG0AL.jpg | https://m.media-amazon.com/images/I/31WdDn7PaIL.jpg | https://m.media-amazon.com/images/I/51gZp2es8wL.jpg | https://m.media-amazon.com/images/I/514qSsRlIAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹5,850.00",
   "Model": "1100-12V"
 }

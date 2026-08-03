@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41FnDUl-vlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61hF8tp9nRL.jpg | https://m.media-amazon.com/images/I/41xzlVo7q+L.jpg | https://m.media-amazon.com/images/I/31s150rHAnL.jpg | https://m.media-amazon.com/images/I/411BtSV33uL.jpg | https://m.media-amazon.com/images/I/41FnDUl-vlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Count",
-  "Discount": 0,
+  "Discount": "19.24%",
   "SalePrice": "₹20,699.00",
   "Model": "Power Sine"
 }

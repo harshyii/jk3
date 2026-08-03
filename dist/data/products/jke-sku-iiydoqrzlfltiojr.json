@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41iQ7KwjuKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81tT18AnIaL.jpg | https://m.media-amazon.com/images/I/41+dj0eL+0L.jpg | https://m.media-amazon.com/images/I/31S0-Di1OiL.jpg | https://m.media-amazon.com/images/I/31jvOAj95lL.jpg | https://m.media-amazon.com/images/I/41iQ7KwjuKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "9.42%",
   "SalePrice": "₹1,349.00",
   "Model": "TC-10A"
 }

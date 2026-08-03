@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41z4VG616TS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yzjIwPXuS.jpg | https://m.media-amazon.com/images/I/41Ds6Aaw8pS.jpg | https://m.media-amazon.com/images/I/51884VPXg0S.jpg | https://m.media-amazon.com/images/I/41OViaWV7uS.jpg | https://m.media-amazon.com/images/I/419HMTH03FS.jpg | https://m.media-amazon.com/images/I/41FR9AtHgKL.jpg | https://m.media-amazon.com/images/I/41GdhR24MwL.jpg | https://m.media-amazon.com/images/I/41z4VG616TS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹35,009.15",
   "Model": "XFD14Z"
 }

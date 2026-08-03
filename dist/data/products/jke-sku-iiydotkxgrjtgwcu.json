@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51Q4Myn0kGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41nK0QHDz8L.jpg | https://m.media-amazon.com/images/I/31GVaCHU7ML.jpg | https://m.media-amazon.com/images/I/51ekxzx5t3L.jpg | https://m.media-amazon.com/images/I/41eM68990LL.jpg | https://m.media-amazon.com/images/I/41UgdKP+FWL.jpg | https://m.media-amazon.com/images/I/4136n4GdrmL.jpg | https://m.media-amazon.com/images/I/41PEKoVVJxL.jpg | https://m.media-amazon.com/images/I/51Q4Myn0kGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹10,616.16",
   "Model": "545675"
 }

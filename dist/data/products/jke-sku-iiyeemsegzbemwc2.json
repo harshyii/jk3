@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51w4IGVJBDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mRs2afXlL.jpg | https://m.media-amazon.com/images/I/410d1CodgBL.jpg | https://m.media-amazon.com/images/I/51E+n6m+KRL.jpg | https://m.media-amazon.com/images/I/51w4IGVJBDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "15.78%",
   "SalePrice": "₹37,899.00",
   "Model": "Optimus 2300"
 }

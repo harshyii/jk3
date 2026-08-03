@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41nV-BUwYNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718T9t4gkUL.jpg | https://m.media-amazon.com/images/I/41nV-BUwYNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.36%",
   "SalePrice": "₹6,999.00",
   "Model": "SEBz 900VA"
 }

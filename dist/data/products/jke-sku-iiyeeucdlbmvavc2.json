@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/516Hw0YEhLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612H+RO77oL.jpg | https://m.media-amazon.com/images/I/41FsbgvJBAL.jpg | https://m.media-amazon.com/images/I/413nlBJABmL.jpg | https://m.media-amazon.com/images/I/41BEPShJpSL.jpg | https://m.media-amazon.com/images/I/41HWvd9azbL.jpg | https://m.media-amazon.com/images/I/41pmUFXgq5L.jpg | https://m.media-amazon.com/images/I/516Hw0YEhLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "28.29%",
   "SalePrice": "₹25,099.00",
   "Model": "Inverlast ILTT 25060 200A"
 }

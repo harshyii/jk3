@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51W9KzEx1rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Cd-4E78OL.jpg | https://m.media-amazon.com/images/I/41Nl6WBQG0L.jpg | https://m.media-amazon.com/images/I/51VtWNqMBZL.jpg | https://m.media-amazon.com/images/I/410oCe+h6kL.jpg | https://m.media-amazon.com/images/I/41ZMFbY4KgL.jpg | https://m.media-amazon.com/images/I/51gK7bsCo7L.jpg | https://m.media-amazon.com/images/I/41IkTMBzhpL.jpg | https://m.media-amazon.com/images/I/51W9KzEx1rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "17.5%",
   "SalePrice": "₹6,599.00",
   "Model": "KR580"
 }

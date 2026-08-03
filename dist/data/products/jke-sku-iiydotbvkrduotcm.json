@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31VFSauBE9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zDib109wL.jpg | https://m.media-amazon.com/images/I/31qrG5x4SKL.jpg | https://m.media-amazon.com/images/I/31XHoo4n4uL.jpg | https://m.media-amazon.com/images/I/31Gd4vdjXoL.jpg | https://m.media-amazon.com/images/I/41XCI5QIHuL.jpg | https://m.media-amazon.com/images/I/3146ss0-JuL.jpg | https://m.media-amazon.com/images/I/31VFSauBE9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.43%",
   "SalePrice": "₹9,450.00",
   "Model": "AW100S9Z"
 }

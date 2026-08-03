@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/418iTtGLM+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Ggvt+KOEL.jpg | https://m.media-amazon.com/images/I/31Ys7aL-Q2L.jpg | https://m.media-amazon.com/images/I/41umoNDEzdL.jpg | https://m.media-amazon.com/images/I/414jFKHBVxL.jpg | https://m.media-amazon.com/images/I/418iTtGLM+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.57%",
   "SalePrice": "₹22,157.00",
   "Model": "JUMBOUPS-4000",
   "Country": "India"

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41J2UvXQPFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71trOphFX2L.jpg | https://m.media-amazon.com/images/I/41yRCls25eL.jpg | https://m.media-amazon.com/images/I/41ZrjpPrpTL.jpg | https://m.media-amazon.com/images/I/41J2UvXQPFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹24,788.00",
   "Model": "5133002888_never_used"
 }

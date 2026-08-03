@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41tFKlvTLJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51f1XvgViuL.jpg | https://m.media-amazon.com/images/I/31NUydJfXQL.jpg | https://m.media-amazon.com/images/I/41lu1MVwZaL.jpg | https://m.media-amazon.com/images/I/41GKHeQvbvL.jpg | https://m.media-amazon.com/images/I/31vz4YnuKvL.jpg | https://m.media-amazon.com/images/I/41RlorwI9hL.jpg | https://m.media-amazon.com/images/I/41tFKlvTLJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.67%",
   "SalePrice": "₹2,549.00",
   "Model": "DMP02-6"
 }

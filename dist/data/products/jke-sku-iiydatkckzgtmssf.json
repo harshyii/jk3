@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/31w2ba77GQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21cVBT1HIXL.jpg | https://m.media-amazon.com/images/I/21cVBT1HIXL.jpg | https://m.media-amazon.com/images/I/31w2ba77GQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,190.46",
   "Model": "A10HS09",
   "Country": "USA"

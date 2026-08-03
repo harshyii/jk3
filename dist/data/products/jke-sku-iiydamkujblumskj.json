@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31wLIsGpFWS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dnqEP-r2L.jpg | https://m.media-amazon.com/images/I/514E7emCxiL.jpg | https://m.media-amazon.com/images/I/41ZeGCRYwsS.jpg | https://m.media-amazon.com/images/I/31wLIsGpFWS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "325 Milliliters",
-  "Discount": 0,
+  "Discount": "0.11%",
   "SalePrice": "₹3,695.00",
   "Model": "T-284",
   "Country": "USA"

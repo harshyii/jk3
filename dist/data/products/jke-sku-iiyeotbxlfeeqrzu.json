@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41R-uVCh4FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61k+vZLSYNL.jpg | https://m.media-amazon.com/images/I/31J+OfmcsiL.jpg | https://m.media-amazon.com/images/I/31SdI0P4c1L.jpg | https://m.media-amazon.com/images/I/41Koo+sG2hL.jpg | https://m.media-amazon.com/images/I/41JMLebS6fL.jpg | https://m.media-amazon.com/images/I/41R-uVCh4FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.45%",
   "SalePrice": "₹2,999.00",
   "Model": "DZJ02-13"
 }

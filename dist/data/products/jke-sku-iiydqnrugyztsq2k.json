@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31D6bGeKJuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41IPEazxk7L.jpg | https://m.media-amazon.com/images/I/31D6bGeKJuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.61%",
   "SalePrice": "₹3,248.00",
   "Model": "LD12SP"
 }

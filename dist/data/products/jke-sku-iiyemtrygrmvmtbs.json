@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51genZAlt-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51nSbeDOF9L.jpg | https://m.media-amazon.com/images/I/310TTuhxzTL.jpg | https://m.media-amazon.com/images/I/41UZE1FwDgL.jpg | https://m.media-amazon.com/images/I/51genZAlt-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "78.48%",
   "SalePrice": "₹7,100.00",
   "Model": "1050VA/12",
   "Country": "India"

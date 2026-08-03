@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51o2ebmx0TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zDV+lar1L.jpg | https://m.media-amazon.com/images/I/51OL92MHGyL.jpg | https://m.media-amazon.com/images/I/51zcxTakulL.jpg | https://m.media-amazon.com/images/I/51o2ebmx0TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "10.71%",
   "SalePrice": "₹1,000.00",
   "Model": "AVG 115",
   "Country": "India"

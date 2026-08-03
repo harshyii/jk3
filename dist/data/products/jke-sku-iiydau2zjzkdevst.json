@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51S5JTHZshL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KPOCmUSoL.jpg | https://m.media-amazon.com/images/I/41FfBTxF8AL.jpg | https://m.media-amazon.com/images/I/51kZsOxRPeL.jpg | https://m.media-amazon.com/images/I/51DRcHrOb0L.jpg | https://m.media-amazon.com/images/I/412SAXTjpnL.jpg | https://m.media-amazon.com/images/I/51QcnS-UqPL.jpg | https://m.media-amazon.com/images/I/51bzEqafBwL.jpg | https://m.media-amazon.com/images/I/51S5JTHZshL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "27.2%",
   "SalePrice": "₹44,515.00",
   "Model": "DWH205DH"
 }

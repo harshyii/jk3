@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41fr19-wCfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81kiOpbim3L.jpg | https://m.media-amazon.com/images/I/51E7g9wk+iL.jpg | https://m.media-amazon.com/images/I/41Wv2hOsCTL.jpg | https://m.media-amazon.com/images/I/51qeYsRw2SL.jpg | https://m.media-amazon.com/images/I/51hlPRig-CL.jpg | https://m.media-amazon.com/images/I/51wbD98SQDL.jpg | https://m.media-amazon.com/images/I/41fr19-wCfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "51.49%",
   "SalePrice": "₹1,940.00",
   "Model": "Old version"
 }

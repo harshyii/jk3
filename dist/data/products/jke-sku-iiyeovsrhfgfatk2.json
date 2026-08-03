@@ -82,9 +82,9 @@
     "https://m.media-amazon.com/images/I/51Kr944jBaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eTpoL2cwL.jpg | https://m.media-amazon.com/images/I/51ziF6l0QJL.jpg | https://m.media-amazon.com/images/I/41Eeg+5ezRL.jpg | https://m.media-amazon.com/images/I/41B0zfRllyL.jpg | https://m.media-amazon.com/images/I/51wKs6fFanL.jpg | https://m.media-amazon.com/images/I/41AUdbxOx6L.jpg | https://m.media-amazon.com/images/I/41xWptfnK4L.jpg | https://m.media-amazon.com/images/I/51Kr944jBaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.0 Set",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹999.00",
   "Country": "India"
 }

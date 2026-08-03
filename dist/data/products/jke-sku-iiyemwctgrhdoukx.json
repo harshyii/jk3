@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41ib-bTzPVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71kbF7NtHuL.jpg | https://m.media-amazon.com/images/I/41sIliWbCOL.jpg | https://m.media-amazon.com/images/I/51q1ueXeS9L.jpg | https://m.media-amazon.com/images/I/51GxYeG8MfL.jpg | https://m.media-amazon.com/images/I/51AtJZmKLeL.jpg | https://m.media-amazon.com/images/I/51Zm38WFwVL.jpg | https://m.media-amazon.com/images/I/51mXJSpxYAL.jpg | https://m.media-amazon.com/images/I/41ib-bTzPVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "61.33%",
   "SalePrice": "₹599.00",
   "Model": "SNC-H2H-9.8ft",
   "Country": "China"

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/415RREZLgIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ceeoVbo0L.jpg | https://m.media-amazon.com/images/I/41drv7NsuhL.jpg | https://m.media-amazon.com/images/I/41Z4nU1zGkL.jpg | https://m.media-amazon.com/images/I/41jIZ4CDJTL.jpg | https://m.media-amazon.com/images/I/415RREZLgIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "46.02%",
   "SalePrice": "₹1,484.00",
   "Model": "445",
   "Country": "USA"

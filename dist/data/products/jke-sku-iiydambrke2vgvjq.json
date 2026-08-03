@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41vn5zpvudL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61b5vA4KsSL.jpg | https://m.media-amazon.com/images/I/41jjMZPZcIL.jpg | https://m.media-amazon.com/images/I/51lRT586H2L.jpg | https://m.media-amazon.com/images/I/41a-KVSNpOL.jpg | https://m.media-amazon.com/images/I/41+3Fc1j-GL.jpg | https://m.media-amazon.com/images/I/41i4mXcMRIL.jpg | https://m.media-amazon.com/images/I/41vn5zpvudL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "2.75%",
   "SalePrice": "₹106.00",
   "Model": "17066"
 }

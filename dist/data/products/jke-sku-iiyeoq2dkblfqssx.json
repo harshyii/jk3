@@ -81,9 +81,9 @@
     "https://m.media-amazon.com/images/I/417ryXfYyTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yXOkXuclL.jpg | https://m.media-amazon.com/images/I/31J2U2cr26L.jpg | https://m.media-amazon.com/images/I/41JawmRP80L.jpg | https://m.media-amazon.com/images/I/41xFdGGtOGL.jpg | https://m.media-amazon.com/images/I/41UZSE22MNL.jpg | https://m.media-amazon.com/images/I/41-ytg7EqTL.jpg | https://m.media-amazon.com/images/I/41gFTnx4GSL.jpg | https://m.media-amazon.com/images/I/417ryXfYyTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "4.44%",
   "SalePrice": "₹8,600.00",
   "Model": "FHCILE5SAB48"
 }

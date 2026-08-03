@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51A2-+HlLVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71cYQnLo+fL.jpg | https://m.media-amazon.com/images/I/41Wz-qiYb8L.jpg | https://m.media-amazon.com/images/I/51HKqi72j7L.jpg | https://m.media-amazon.com/images/I/41kQ5y0lS2L.jpg | https://m.media-amazon.com/images/I/511w-YkvNoL.jpg | https://m.media-amazon.com/images/I/51CBArbkgkL.jpg | https://m.media-amazon.com/images/I/51A2-+HlLVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "63.65%",
   "SalePrice": "₹1,999.00",
   "Model": "Cordless Drill With Full kit"
 }

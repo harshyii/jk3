@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51NYyyrNf7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NyHi91ZfL.jpg | https://m.media-amazon.com/images/I/41iR1+gEarL.jpg | https://m.media-amazon.com/images/I/41qFjdXLFkL.jpg | https://m.media-amazon.com/images/I/51NYyyrNf7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,458.57",
   "Model": "FBA_O437",
   "Country": "USA"

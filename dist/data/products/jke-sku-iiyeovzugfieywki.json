@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41pkSd3hNfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41aX9JschuL.jpg | https://m.media-amazon.com/images/I/41aX9JschuL.jpg | https://m.media-amazon.com/images/I/31p1TbNZPUL.jpg | https://m.media-amazon.com/images/I/31Rl5tIUupL.jpg | https://m.media-amazon.com/images/I/51DIa4mT7JL.jpg | https://m.media-amazon.com/images/I/31TBMqAWcoL.jpg | https://m.media-amazon.com/images/I/31h7oszJYPL.jpg | https://m.media-amazon.com/images/I/41pkSd3hNfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "54.99%",
   "SalePrice": "₹3,149.00",
   "Model": "DSM125A"
 }

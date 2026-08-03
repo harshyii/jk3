@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51JKh6Y3s6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719vR0sd9IL.jpg | https://m.media-amazon.com/images/I/41BEYCaXugL.jpg | https://m.media-amazon.com/images/I/51XAlJ6ylcL.jpg | https://m.media-amazon.com/images/I/41EQS6+eEnL.jpg | https://m.media-amazon.com/images/I/51yaRIoS21L.jpg | https://m.media-amazon.com/images/I/51fANZEY42L.jpg | https://m.media-amazon.com/images/I/51eCoM6H3IL.jpg | https://m.media-amazon.com/images/I/51JKh6Y3s6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹15,014.49",
   "Model": "TO4225-0YD-ID",
   "Country": "USA"

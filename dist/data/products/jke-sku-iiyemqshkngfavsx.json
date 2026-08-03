@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31CwKBXKoGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Un86-tWzL.jpg | https://m.media-amazon.com/images/I/21kitEvmmKL.jpg | https://m.media-amazon.com/images/I/21QedmvB4QL.jpg | https://m.media-amazon.com/images/I/21+caHOp2jL.jpg | https://m.media-amazon.com/images/I/31LtsoQp9hL.jpg | https://m.media-amazon.com/images/I/31CwKBXKoGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "26.31%",
   "SalePrice": "₹1,042.00",
   "Model": "CSP/XRT/14/UG"
 }

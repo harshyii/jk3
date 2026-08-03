@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31wKnu511FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31twJwEPMIL.jpg | https://m.media-amazon.com/images/I/31twJwEPMIL.jpg | https://m.media-amazon.com/images/I/31wKnu511FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "41.98%",
   "SalePrice": "₹5,881.00",
   "Model": "DSM180A"
 }

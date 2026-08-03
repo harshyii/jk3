@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/51WPeBAkJPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51WPeBAkJPL.jpg | https://m.media-amazon.com/images/I/51WPeBAkJPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "40.08%",
   "SalePrice": "₹299.00",
   "Model": "216911"
 }

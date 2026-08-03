@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51ZcppiwneL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SO-B26E0L.jpg | https://m.media-amazon.com/images/I/41qBfyoeIuL.jpg | https://m.media-amazon.com/images/I/41avZ95x1HL.jpg | https://m.media-amazon.com/images/I/41OOEh1kk1L.jpg | https://m.media-amazon.com/images/I/41AgQzMxlqL.jpg | https://m.media-amazon.com/images/I/41-6aMTcsdL.jpg | https://m.media-amazon.com/images/I/41cOGu-YBcL.jpg | https://m.media-amazon.com/images/I/51ZcppiwneL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.1%",
   "SalePrice": "₹734.00",
   "Model": "SMSG010",
   "Country": "China"

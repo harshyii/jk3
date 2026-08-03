@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41TajqIKO4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tQnZyPRJL.jpg | https://m.media-amazon.com/images/I/41lMwjnA-FL.jpg | https://m.media-amazon.com/images/I/41hNKwriNRL.jpg | https://m.media-amazon.com/images/I/51n0TazG2nL.jpg | https://m.media-amazon.com/images/I/41pbJu9609L.jpg | https://m.media-amazon.com/images/I/41t0efSeFoL.jpg | https://m.media-amazon.com/images/I/51IDvOFOYCL.jpg | https://m.media-amazon.com/images/I/41TajqIKO4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.59%",
   "SalePrice": "₹16,999.00",
   "Model": "Optimus 2800",
   "Country": "India"

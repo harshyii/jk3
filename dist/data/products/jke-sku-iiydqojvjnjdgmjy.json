@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/511q95KbdhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wOQ-1hAsL.jpg | https://m.media-amazon.com/images/I/41lD8U0MH2L.jpg | https://m.media-amazon.com/images/I/41g4PaQk-8L.jpg | https://m.media-amazon.com/images/I/51GkutSjTVL.jpg | https://m.media-amazon.com/images/I/41R-DAo0PbL.jpg | https://m.media-amazon.com/images/I/511q95KbdhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,027.56",
   "Model": "#RY31RN01"
 }

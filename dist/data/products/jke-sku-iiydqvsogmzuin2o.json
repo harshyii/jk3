@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/312kklh9H1S.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711zYHDTorL.jpg | https://m.media-amazon.com/images/I/41qfPcpv3pL.jpg | https://m.media-amazon.com/images/I/31XDX2Ze6CL.jpg | https://m.media-amazon.com/images/I/312kklh9H1S.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹525.00",
   "Model": "UVJ"
 }

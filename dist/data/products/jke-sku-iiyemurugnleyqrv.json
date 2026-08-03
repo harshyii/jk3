@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51U494VaG7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zV5uf0+oL.jpg | https://m.media-amazon.com/images/I/41qXYKnPbNL.jpg | https://m.media-amazon.com/images/I/31aGbSRQPqL.jpg | https://m.media-amazon.com/images/I/51FHG4SV4aL.jpg | https://m.media-amazon.com/images/I/51GZqIf+dcL.jpg | https://m.media-amazon.com/images/I/51Qu9zheeAL.jpg | https://m.media-amazon.com/images/I/51fjOf5FHFL.jpg | https://m.media-amazon.com/images/I/51U494VaG7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.00 Milliliters",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹298.00",
   "Country": "India"
 }

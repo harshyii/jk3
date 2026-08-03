@@ -79,9 +79,9 @@
     "https://m.media-amazon.com/images/I/41gffzrNsKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61j0ZxuTHzL.jpg | https://m.media-amazon.com/images/I/417k1tQks7L.jpg | https://m.media-amazon.com/images/I/41DIA+4kMdL.jpg | https://m.media-amazon.com/images/I/419LAIOjs6L.jpg | https://m.media-amazon.com/images/I/41iqYLiNtRL.jpg | https://m.media-amazon.com/images/I/21haE-JTXpL.jpg | https://m.media-amazon.com/images/I/410C00QnfoL.jpg | https://m.media-amazon.com/images/I/41gffzrNsKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.0 Count",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹6,943.00",
   "Model": "50492"
 }

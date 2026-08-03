@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51IvBivw8CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zu0D7u7jL.jpg | https://m.media-amazon.com/images/I/41nhNIH6sDL.jpg | https://m.media-amazon.com/images/I/51hmwakPmeL.jpg | https://m.media-amazon.com/images/I/41Rx3tehakL.jpg | https://m.media-amazon.com/images/I/41KZawEDVgL.jpg | https://m.media-amazon.com/images/I/510pOoGnq9L.jpg | https://m.media-amazon.com/images/I/51IvBivw8CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "70%",
   "SalePrice": "₹5,999.00",
   "Model": "WS-120"
 }

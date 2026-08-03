@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/217TjmLfMlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SxEzLKBUL.jpg | https://m.media-amazon.com/images/I/41MhaF4vzHL.jpg | https://m.media-amazon.com/images/I/31cTdXmhRUL.jpg | https://m.media-amazon.com/images/I/31wCMk8tCIL.jpg | https://m.media-amazon.com/images/I/41omQlg+h5L.jpg | https://m.media-amazon.com/images/I/31PzS6D3ymL.jpg | https://m.media-amazon.com/images/I/31KsAwVWTdL.jpg | https://m.media-amazon.com/images/I/217TjmLfMlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Count",
-  "Discount": 0,
+  "Discount": "79.98%",
   "SalePrice": "₹200.00",
   "Model": "RW-737"
 }

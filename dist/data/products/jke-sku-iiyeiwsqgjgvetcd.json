@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Q4Sp8ppUL.jpg | https://m.media-amazon.com/images/I/41I5xbx+n4L.jpg | https://m.media-amazon.com/images/I/51ih+f2YylL.jpg | https://m.media-amazon.com/images/I/516a9EUVKwL.jpg | https://m.media-amazon.com/images/I/51Doy7Hw8kL.jpg | https://m.media-amazon.com/images/I/61xkm9UG87L.jpg | https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.67%",
   "SalePrice": "₹14,299.00",
   "Model": "AMP-48AP180TT"
 }

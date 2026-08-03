@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51A10dhGJKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TMY7YSqOL.jpg | https://m.media-amazon.com/images/I/41LbhDCODML.jpg | https://m.media-amazon.com/images/I/41gexpP109L.jpg | https://m.media-amazon.com/images/I/51td3qHxT1L.jpg | https://m.media-amazon.com/images/I/41uaR-vQIqL.jpg | https://m.media-amazon.com/images/I/41FLy2tUMbL.jpg | https://m.media-amazon.com/images/I/51xKTo4vw-L.jpg | https://m.media-amazon.com/images/I/51A10dhGJKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.01%",
   "SalePrice": "₹2,199.00",
   "Model": "MG1309-NEW"
 }

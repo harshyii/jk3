@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31Kvsp93TeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71N2VhKDN8L.jpg | https://m.media-amazon.com/images/I/41sj8Yei0hL.jpg | https://m.media-amazon.com/images/I/41PDVdkIfiL.jpg | https://m.media-amazon.com/images/I/31Kvsp93TeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹12,000.22",
   "Model": "2625-20"
 }

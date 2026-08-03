@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51nXCgs5aJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71M8zhA2MzL.jpg | https://m.media-amazon.com/images/I/41noJILy15L.jpg | https://m.media-amazon.com/images/I/51SMPvZ+NoL.jpg | https://m.media-amazon.com/images/I/51XwxNcwbzL.jpg | https://m.media-amazon.com/images/I/51s3-vJkzoL.jpg | https://m.media-amazon.com/images/I/515bq1ZJVOL.jpg | https://m.media-amazon.com/images/I/51nXCgs5aJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.2 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,696.00",
   "Model": "TVD_107_16SW",
   "Country": "USA"

@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41c9IGhAvUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jzDETR81L.jpg | https://m.media-amazon.com/images/I/41c9IGhAvUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.91%",
   "SalePrice": "₹5,116.00",
   "Model": "RS4516"
 }

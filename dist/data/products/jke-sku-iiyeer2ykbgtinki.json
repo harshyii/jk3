@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51phoRvzCYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510kl9MhusL.jpg | https://m.media-amazon.com/images/I/31h64vUQbeL.jpg | https://m.media-amazon.com/images/I/31vByLvVUOL.jpg | https://m.media-amazon.com/images/I/51rQx8f3ufL.jpg | https://m.media-amazon.com/images/I/51phoRvzCYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "5.38%",
   "SalePrice": "₹6,150.00",
   "Model": "SMARTHYBRID-1075-DG_SW-1"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41qip+vAFCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fJjhUF-xL.jpg | https://m.media-amazon.com/images/I/51pVxktqooL.jpg | https://m.media-amazon.com/images/I/41oztGy64ZL.jpg | https://m.media-amazon.com/images/I/41qip+vAFCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.04%",
   "SalePrice": "₹639.00",
   "Model": "GTIN"
 }

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41rBTpn-lTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Nlzz-6T0L.jpg | https://m.media-amazon.com/images/I/21HyNHdTr0L.jpg | https://m.media-amazon.com/images/I/41rBTpn-lTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.22%",
   "SalePrice": "₹2,872.28",
   "Model": "VDG",
   "Country": "India"

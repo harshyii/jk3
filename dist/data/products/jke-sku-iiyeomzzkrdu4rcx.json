@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51fH9MR2w3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511FnGvJOML.jpg | https://m.media-amazon.com/images/I/511FnGvJOML.jpg | https://m.media-amazon.com/images/I/61iLsgIonTL.jpg | https://m.media-amazon.com/images/I/51mlXyVcXZL.jpg | https://m.media-amazon.com/images/I/51uT7HejTJL.jpg | https://m.media-amazon.com/images/I/41pHU8znI8L.jpg | https://m.media-amazon.com/images/I/41irpzVN9FL.jpg | https://m.media-amazon.com/images/I/51fH9MR2w3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Grams",
-  "Discount": 0,
+  "Discount": "70.07%",
   "SalePrice": "₹299.00",
   "Country": "China"
 }

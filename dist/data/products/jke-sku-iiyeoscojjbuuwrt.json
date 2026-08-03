@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51SBENlOrfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Te4tKAOQL.jpg | https://m.media-amazon.com/images/I/415+l-EydXL.jpg | https://m.media-amazon.com/images/I/41xqes-JCFL.jpg | https://m.media-amazon.com/images/I/41bZpc+jQ5L.jpg | https://m.media-amazon.com/images/I/51hXBfHAQ0L.jpg | https://m.media-amazon.com/images/I/41T0otQgH0L.jpg | https://m.media-amazon.com/images/I/51SBENlOrfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹6,999.00",
   "Model": "DT-6502"
 }

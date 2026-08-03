@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41FvsMWD+aL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41FvsMWD+aL.jpg | https://m.media-amazon.com/images/I/41FvsMWD+aL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.5%",
   "SalePrice": "₹405.00",
   "Model": "402770"
 }

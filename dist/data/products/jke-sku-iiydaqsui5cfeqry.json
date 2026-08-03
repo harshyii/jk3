@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/5164sbbWDjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61fRGotGv2L.jpg | https://m.media-amazon.com/images/I/51DGpbc7-JL.jpg | https://m.media-amazon.com/images/I/51I4MiFnK8L.jpg | https://m.media-amazon.com/images/I/51ahxqWRu0L.jpg | https://m.media-amazon.com/images/I/41IFWhw34hL.jpg | https://m.media-amazon.com/images/I/51uWaG7crvL.jpg | https://m.media-amazon.com/images/I/51rxADtGddL.jpg | https://m.media-amazon.com/images/I/5164sbbWDjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "51.91%",
   "SalePrice": "₹20,187.00",
   "Model": "BUF_HEXKITS_8"
 }

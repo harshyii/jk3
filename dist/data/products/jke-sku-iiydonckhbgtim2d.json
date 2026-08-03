@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/518H87OqKtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512IkswpobL.jpg | https://m.media-amazon.com/images/I/512IkswpobL.jpg | https://m.media-amazon.com/images/I/518H87OqKtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "62.88%",
   "SalePrice": "₹111.00",
   "Model": "APT-JWFF40"
 }

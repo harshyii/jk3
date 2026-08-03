@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31vB+JMvUrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31vB+JMvUrL.jpg | https://m.media-amazon.com/images/I/31vB+JMvUrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "17.98%",
   "SalePrice": "₹4,921.00",
   "Model": "DCA AZC02-20 Hammer"
 }

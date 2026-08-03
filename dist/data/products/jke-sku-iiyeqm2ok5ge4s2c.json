@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51Hks-0HZYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Pi36WGGiL.jpg | https://m.media-amazon.com/images/I/41ZJ-gH3TRL.jpg | https://m.media-amazon.com/images/I/51Hks-0HZYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60.06%",
   "SalePrice": "₹998.00",
   "Model": "TBA1500-CHA500-COMBO",
   "Country": "China"

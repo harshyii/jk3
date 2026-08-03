@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/514UTO1z1IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713LtLQujjL.jpg | https://m.media-amazon.com/images/I/41w6r+LT8uL.jpg | https://m.media-amazon.com/images/I/41o42HtU3cL.jpg | https://m.media-amazon.com/images/I/31438c+13eL.jpg | https://m.media-amazon.com/images/I/517FeXgZS8L.jpg | https://m.media-amazon.com/images/I/51RJbAYi-eL.jpg | https://m.media-amazon.com/images/I/514UTO1z1IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "65.98%",
   "SalePrice": "₹510.00",
   "Model": "SPA_CombiSPANpk12"
 }

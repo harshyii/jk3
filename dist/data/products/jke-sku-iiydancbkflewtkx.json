@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41VWt1pvobL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61++vkwfC-L.jpg | https://m.media-amazon.com/images/I/41VWt1pvobL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "453.4 Grams",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,201.71",
   "Country": "USA"
 }

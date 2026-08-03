@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/518wVmWcdxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81edAPrPXAL.jpg | https://m.media-amazon.com/images/I/41SdSxJnDaL.jpg | https://m.media-amazon.com/images/I/319oqf4VqRL.jpg | https://m.media-amazon.com/images/I/41j1kWG-dLL.jpg | https://m.media-amazon.com/images/I/412Izzq55+L.jpg | https://m.media-amazon.com/images/I/41PG7my1bdL.jpg | https://m.media-amazon.com/images/I/51+sm0Nzk4L.jpg | https://m.media-amazon.com/images/I/518wVmWcdxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "7.00 Count",
-  "Discount": 0,
+  "Discount": "36.92%",
   "SalePrice": "₹4,131.00",
   "Country": "India"
 }

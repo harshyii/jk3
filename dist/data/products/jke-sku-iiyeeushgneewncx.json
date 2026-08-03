@@ -79,9 +79,9 @@
     "https://m.media-amazon.com/images/I/41WWvBpXkpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RkE7DWk2L.jpg | https://m.media-amazon.com/images/I/31JGGDgm9QL.jpg | https://m.media-amazon.com/images/I/317gLXRq-hL.jpg | https://m.media-amazon.com/images/I/51enA0KIdwL.jpg | https://m.media-amazon.com/images/I/51WaN5R5ajL.jpg | https://m.media-amazon.com/images/I/51HGj6CZSEL.jpg | https://m.media-amazon.com/images/I/41WWvBpXkpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.57%",
   "SalePrice": "₹3,368.00",
   "Model": "FHCAS1SBNC48"
 }

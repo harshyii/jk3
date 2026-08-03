@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41jTc0W7LBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dnrJ13LwL.jpg | https://m.media-amazon.com/images/I/510BbsnxeFL.jpg | https://m.media-amazon.com/images/I/51tJ0uIw0FL.jpg | https://m.media-amazon.com/images/I/519yrm965zL.jpg | https://m.media-amazon.com/images/I/41K7hOZSW8L.jpg | https://m.media-amazon.com/images/I/51bAeIQ97VL.jpg | https://m.media-amazon.com/images/I/519pQDKWXHL.jpg | https://m.media-amazon.com/images/I/41jTc0W7LBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,191.49",
   "Model": "DXMA1311361",
   "Country": "USA"

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/515DaNPbxeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71V8KQq9oTL.jpg | https://m.media-amazon.com/images/I/41dYEiOiT2L.jpg | https://m.media-amazon.com/images/I/61Ydxf3wZhL.jpg | https://m.media-amazon.com/images/I/61mnP43JSnL.jpg | https://m.media-amazon.com/images/I/51BXIQsMFxL.jpg | https://m.media-amazon.com/images/I/51bK5TJ2-iL.jpg | https://m.media-amazon.com/images/I/61tCiu1268L.jpg | https://m.media-amazon.com/images/I/515DaNPbxeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.2 Milliliters",
-  "Discount": 0,
+  "Discount": "43.04%",
   "SalePrice": "₹2,518.84",
   "Model": "CWS_110_16SW",
   "Country": "USA"

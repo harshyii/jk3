@@ -42,8 +42,8 @@
     "https://m.media-amazon.com/images/I/41rkoMMydlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UFnpZTFJL.jpg | https://m.media-amazon.com/images/I/31ym+uBIyiL.jpg | https://m.media-amazon.com/images/I/41-qEaBbobL.jpg | https://m.media-amazon.com/images/I/418JY2bhOdL.jpg | https://m.media-amazon.com/images/I/41rkoMMydlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Piece",
-  "Discount": 0,
+  "Discount": "15.59%",
   "SalePrice": "₹590.00"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51AjxK75xrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/817MF-pL0xL.jpg | https://m.media-amazon.com/images/I/51r9ZZGIObL.jpg | https://m.media-amazon.com/images/I/61+HdsU8cqS.jpg | https://m.media-amazon.com/images/I/61bJTC0YzSS.jpg | https://m.media-amazon.com/images/I/51H32m33nQS.jpg | https://m.media-amazon.com/images/I/616hZzB577S.jpg | https://m.media-amazon.com/images/I/61dNPfxLA0L.jpg | https://m.media-amazon.com/images/I/51AjxK75xrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "66.71%",
   "SalePrice": "₹499.00",
   "Model": "solar"
 }

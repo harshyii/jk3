@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31EAcrVzH6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RPUkOPdhL.jpg | https://m.media-amazon.com/images/I/319gu9BlIxL.jpg | https://m.media-amazon.com/images/I/31EAcrVzH6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.75%",
   "SalePrice": "₹1,959.00",
   "Model": "DHT042525"
 }

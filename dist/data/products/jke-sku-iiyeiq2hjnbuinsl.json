@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/31PpeDwugUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71S9Xo6Y4CL.jpg | https://m.media-amazon.com/images/I/41W0qCcleEL.jpg | https://m.media-amazon.com/images/I/41U5sW83rHL.jpg | https://m.media-amazon.com/images/I/41RQAQOUWQL.jpg | https://m.media-amazon.com/images/I/31l3+Vd3YUL.jpg | https://m.media-amazon.com/images/I/419WwuyFxwL.jpg | https://m.media-amazon.com/images/I/41Gx-O-1opL.jpg | https://m.media-amazon.com/images/I/31PpeDwugUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹38,740.00",
   "Model": "RID18BL-0"
 }

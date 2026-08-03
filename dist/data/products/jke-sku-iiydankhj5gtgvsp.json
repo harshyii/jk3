@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31A38lyLr4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71RZBZLSg7L.jpg | https://m.media-amazon.com/images/I/41vUBGN0TiL.jpg | https://m.media-amazon.com/images/I/41D5J5cFLEL.jpg | https://m.media-amazon.com/images/I/41SepPlhXmL.jpg | https://m.media-amazon.com/images/I/41sKh63fd4L.jpg | https://m.media-amazon.com/images/I/31A38lyLr4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "36.64%",
   "SalePrice": "₹2,980.00",
   "Model": "DW1720",
   "Country": "USA"

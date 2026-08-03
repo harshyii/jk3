@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51SK6DMYpWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51xbkdUSQuL.jpg | https://m.media-amazon.com/images/I/31-4eJkYiDL.jpg | https://m.media-amazon.com/images/I/61jtBJpndzL.jpg | https://m.media-amazon.com/images/I/4102GsuWSxL.jpg | https://m.media-amazon.com/images/I/51SK6DMYpWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹5,700.00",
   "Model": "DPB 20C"
 }

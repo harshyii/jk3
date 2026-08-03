@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/516TfPa04bL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41kSHOAwH6L.jpg | https://m.media-amazon.com/images/I/41kSHOAwH6L.jpg | https://m.media-amazon.com/images/I/51-YuUBXRsL.jpg | https://m.media-amazon.com/images/I/61QlWxYeIKL.jpg | https://m.media-amazon.com/images/I/513LUY1gHCL.jpg | https://m.media-amazon.com/images/I/51hxXuif4tL.jpg | https://m.media-amazon.com/images/I/51GSM+2XPyL.jpg | https://m.media-amazon.com/images/I/516TfPa04bL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "975.0 Grams",
-  "Discount": 0,
+  "Discount": "10.2%",
   "SalePrice": "₹229.00",
   "Model": "WHT-SML-001"
 }

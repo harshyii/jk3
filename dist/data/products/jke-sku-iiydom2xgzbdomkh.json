@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/51HWQ8E8MCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Zwm915HcL.jpg | https://m.media-amazon.com/images/I/31GtgX0cJAL.jpg | https://m.media-amazon.com/images/I/71a1QScEfNL.jpg | https://m.media-amazon.com/images/I/31JFXevswBL.jpg | https://m.media-amazon.com/images/I/41LKLxF6RBL.jpg | https://m.media-amazon.com/images/I/31e9O8mNRwL.jpg | https://m.media-amazon.com/images/I/31uoda0dg1L.jpg | https://m.media-amazon.com/images/I/51HWQ8E8MCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.48%",
   "SalePrice": "₹1,394.00",
   "Model": "LBP/04/PT",
   "Country": "India"

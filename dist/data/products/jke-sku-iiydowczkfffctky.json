@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41LzHIZM-mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71I7pncL13L.jpg | https://m.media-amazon.com/images/I/41k2V8VKCZL.jpg | https://m.media-amazon.com/images/I/51505T3SV3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/414mTbz1ZxL.jpg | https://m.media-amazon.com/images/I/51ZWeS2Os+L.jpg | https://m.media-amazon.com/images/I/51UDpqjdXRL.jpg | https://m.media-amazon.com/images/I/41zRYm9ZZ1L.jpg | https://m.media-amazon.com/images/I/41LzHIZM-mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "769.0 Milliliters",
-  "Discount": 0,
+  "Discount": "30.56%",
   "SalePrice": "₹1,909.00",
   "Model": "53410"
 }

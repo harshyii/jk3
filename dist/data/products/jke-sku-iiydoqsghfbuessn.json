@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41czbFzQQ5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510FdBP6UuL.jpg | https://m.media-amazon.com/images/I/41czbFzQQ5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.08%",
   "SalePrice": "₹7,951.00",
   "Model": "DZZ90"
 }

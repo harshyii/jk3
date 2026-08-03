@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/511iNjrhpHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gh2jt0aNL.jpg | https://m.media-amazon.com/images/I/41cani08aqL.jpg | https://m.media-amazon.com/images/I/61L0i0qywCL.jpg | https://m.media-amazon.com/images/I/51L9KR2pSGL.jpg | https://m.media-amazon.com/images/I/51tSgGe2OlL.jpg | https://m.media-amazon.com/images/I/51RpGUy3lLL.jpg | https://m.media-amazon.com/images/I/51WjGeGHfkL.jpg | https://m.media-amazon.com/images/I/511iNjrhpHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹497.00",
   "Model": "FEDUS-CAT-7-FLAT-5M-WHITE+",
   "Country": "India"

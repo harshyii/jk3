@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51Fe4x9803L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XLWui0j8L.jpg | https://m.media-amazon.com/images/I/413SdbgM9rL.jpg | https://m.media-amazon.com/images/I/51XvWoj0K4L.jpg | https://m.media-amazon.com/images/I/51F6pxqg6fL.jpg | https://m.media-amazon.com/images/I/51a4oKxenjL.jpg | https://m.media-amazon.com/images/I/51TY07H3pSL.jpg | https://m.media-amazon.com/images/I/51Fe4x9803L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "35.4%",
   "SalePrice": "₹4,069.00",
   "Model": "JPT-CID-PS18"
 }

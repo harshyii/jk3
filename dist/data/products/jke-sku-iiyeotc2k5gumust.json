@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41Xf0G2D1hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ro-v1rOeL.jpg | https://m.media-amazon.com/images/I/31YNvIc0BOL.jpg | https://m.media-amazon.com/images/I/5186I2iOdfL.jpg | https://m.media-amazon.com/images/I/31vo-DiR-pL.jpg | https://m.media-amazon.com/images/I/31rZI+kVwlL.jpg | https://m.media-amazon.com/images/I/41Xf0G2D1hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.35%",
   "SalePrice": "₹12,999.00",
   "Model": "Elegant Plus 1512",
   "Country": "India"

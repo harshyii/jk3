@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51jdZ5LEaFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/818VPn9p5JL.jpg | https://m.media-amazon.com/images/I/51+2bog390L.jpg | https://m.media-amazon.com/images/I/51yseZiQlFL.jpg | https://m.media-amazon.com/images/I/41FtMdzKzzL.jpg | https://m.media-amazon.com/images/I/412xrFIAy-L.jpg | https://m.media-amazon.com/images/I/41uD-DDqa3L.jpg | https://m.media-amazon.com/images/I/51jdZ5LEaFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "9 Piece",
-  "Discount": 0,
+  "Discount": "3.33%",
   "SalePrice": "₹11,599.00",
   "Model": "THCOM 18"
 }

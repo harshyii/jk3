@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/71DQo++4BPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71cVj-Dn0vL.jpg | https://m.media-amazon.com/images/I/41dM5vEF9PL.jpg | https://m.media-amazon.com/images/I/71DQo++4BPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "48.74%",
   "SalePrice": "₹102.00",
   "Model": "GFH5675"
 }

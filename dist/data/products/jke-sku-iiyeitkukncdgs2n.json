@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51PBs1bGncL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Vkrdm9qwL.jpg | https://m.media-amazon.com/images/I/41RDX7cH0TL.jpg | https://m.media-amazon.com/images/I/51xaLBTwTvL.jpg | https://m.media-amazon.com/images/I/517X7UEbMTL.jpg | https://m.media-amazon.com/images/I/51PAryoujAL.jpg | https://m.media-amazon.com/images/I/61xU5I7N9oL.jpg | https://m.media-amazon.com/images/I/51kGC1jM-ZL.jpg | https://m.media-amazon.com/images/I/51PBs1bGncL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "946.3529 Milliliters",
-  "Discount": 0,
+  "Discount": "67.52%",
   "SalePrice": "₹6,815.16",
   "Model": "WAC21532SW"
 }

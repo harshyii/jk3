@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41-R7-TsSDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+pYncry5L.jpg | https://m.media-amazon.com/images/I/41-R7-TsSDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "70.07%",
   "SalePrice": "₹299.00",
   "Model": "KS-END-CLAMP"
 }

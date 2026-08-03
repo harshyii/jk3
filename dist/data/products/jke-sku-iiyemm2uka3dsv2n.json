@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41kq55hOYEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619IefalytL.jpg | https://m.media-amazon.com/images/I/41BwT2BdUYL.jpg | https://m.media-amazon.com/images/I/316ppders8L.jpg | https://m.media-amazon.com/images/I/31BS1Yurz8L.jpg | https://m.media-amazon.com/images/I/41kq55hOYEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹4,200.00",
   "Model": "DCJZ1202E"
 }

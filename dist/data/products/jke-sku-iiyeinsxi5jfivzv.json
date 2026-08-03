@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51jeDo6coYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bkdYBRdXL.jpg | https://m.media-amazon.com/images/I/41iB556J5AL.jpg | https://m.media-amazon.com/images/I/417uvTNkRCL.jpg | https://m.media-amazon.com/images/I/41hKVvWeB4L.jpg | https://m.media-amazon.com/images/I/41gEuw2xttL.jpg | https://m.media-amazon.com/images/I/41CM-XkY7ZL.jpg | https://m.media-amazon.com/images/I/51VI6c7z1uL.jpg | https://m.media-amazon.com/images/I/51jeDo6coYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "51.3%",
   "SalePrice": "₹1,899.00",
   "Model": "Tapo A201"
 }

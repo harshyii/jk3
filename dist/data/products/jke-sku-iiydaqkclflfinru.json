@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51b6zhYCnmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712sxBOsmsL.jpg | https://m.media-amazon.com/images/I/41v91B-v+5L.jpg | https://m.media-amazon.com/images/I/51gErBekeuL.jpg | https://m.media-amazon.com/images/I/21b2ukvWFcL.jpg | https://m.media-amazon.com/images/I/51w78kjqN9L.jpg | https://m.media-amazon.com/images/I/51qdrK2nHQL.jpg | https://m.media-amazon.com/images/I/51sbMetDZCL.jpg | https://m.media-amazon.com/images/I/51b6zhYCnmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "73.23%",
   "SalePrice": "₹2,998.70",
   "Model": "ACC_121.16HD3"
 }

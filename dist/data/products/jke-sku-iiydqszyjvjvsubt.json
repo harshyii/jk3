@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31lbAUoLzQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51xHRRLqvTL.jpg | https://m.media-amazon.com/images/I/31V5uzfSyTL.jpg | https://m.media-amazon.com/images/I/31DIJ4+adHL.jpg | https://m.media-amazon.com/images/I/31aoUPY7gtL.jpg | https://m.media-amazon.com/images/I/31lbAUoLzQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19%",
   "SalePrice": "₹81.00",
   "Model": "HC/11/4/BSP"
 }

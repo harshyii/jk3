@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41VdNkMLhTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aJ4vHp5WL.jpg | https://m.media-amazon.com/images/I/514L63f9AML.jpg | https://m.media-amazon.com/images/I/51KK-qJhU+L.jpg | https://m.media-amazon.com/images/I/41VdNkMLhTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.04%",
   "SalePrice": "₹10,155.00",
   "Model": "B-07353",
   "Country": "USA"

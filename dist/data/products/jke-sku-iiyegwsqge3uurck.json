@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51A5r1YIPBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61n3izOdQiL.jpg | https://m.media-amazon.com/images/I/41Chlyx++9L.jpg | https://m.media-amazon.com/images/I/51gWKWYS-SL.jpg | https://m.media-amazon.com/images/I/61NZYPphwmL.jpg | https://m.media-amazon.com/images/I/41b7Wg6V0UL.jpg | https://m.media-amazon.com/images/I/511RzMH-fmL.jpg | https://m.media-amazon.com/images/I/51osStl+fFL.jpg | https://m.media-amazon.com/images/I/51A5r1YIPBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "81.66%",
   "SalePrice": "₹549.99",
   "Model": "PR1167",
   "Country": "China"

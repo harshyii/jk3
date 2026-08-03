@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/61P5PdbR4GL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61hkjJJLhhL.jpg | https://m.media-amazon.com/images/I/31Vy+huNKjL.jpg | https://m.media-amazon.com/images/I/71MuSH9W5GL.jpg | https://m.media-amazon.com/images/I/61B7GN5OqaL.jpg | https://m.media-amazon.com/images/I/41CmhFm3QCL.jpg | https://m.media-amazon.com/images/I/61mixHs1CmL.jpg | https://m.media-amazon.com/images/I/41e+z9kDQzL.jpg | https://m.media-amazon.com/images/I/61P5PdbR4GL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.68%",
   "SalePrice": "₹13,599.00",
   "Model": "DCS369N-XJ"
 }

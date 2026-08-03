@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/410DZqsQRHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KPTL8Dp7L.jpg | https://m.media-amazon.com/images/I/41yLbS3N78L.jpg | https://m.media-amazon.com/images/I/41LQ3GOdyNL.jpg | https://m.media-amazon.com/images/I/412wTOpybyL.jpg | https://m.media-amazon.com/images/I/31LqMsO12YL.jpg | https://m.media-amazon.com/images/I/51A4plD8i9L.jpg | https://m.media-amazon.com/images/I/410DZqsQRHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹13,802.30",
   "Model": "DT03Z"
 }

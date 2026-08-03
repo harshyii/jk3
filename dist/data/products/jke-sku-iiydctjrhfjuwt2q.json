@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51LoqWvZFXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XJY-qWwKL.jpg | https://m.media-amazon.com/images/I/51KlAf6UFcL.jpg | https://m.media-amazon.com/images/I/41tkXnSKSzL.jpg | https://m.media-amazon.com/images/I/51+L9ZTB7PL.jpg | https://m.media-amazon.com/images/I/51LoqWvZFXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "36.43%",
   "SalePrice": "₹32,606.34",
   "Model": "DCB205-2CK",
   "Country": "USA"

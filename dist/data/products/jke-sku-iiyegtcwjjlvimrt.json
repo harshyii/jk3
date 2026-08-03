@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/21PDGapwedL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5170lgnjNcL.jpg | https://m.media-amazon.com/images/I/41sfsrDdgCL.jpg | https://m.media-amazon.com/images/I/21PDGapwedL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Piece",
-  "Discount": 0,
+  "Discount": "24.36%",
   "SalePrice": "₹29,500.00",
   "Country": "China"
 }

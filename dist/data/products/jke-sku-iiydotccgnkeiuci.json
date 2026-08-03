@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41pZlxIQ9qL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ckIpenT3L.jpg | https://m.media-amazon.com/images/I/41ckIpenT3L.jpg | https://m.media-amazon.com/images/I/31xEMpPzDYL.jpg | https://m.media-amazon.com/images/I/41HZsp5ZJdL.jpg | https://m.media-amazon.com/images/I/41pZlxIQ9qL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "65.94%",
   "SalePrice": "₹204.00",
   "Model": "DFDV5756"
 }

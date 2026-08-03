@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41LNYVJ3pAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/314bUw5RIHL.jpg | https://m.media-amazon.com/images/I/314bUw5RIHL.jpg | https://m.media-amazon.com/images/I/315RChynG6L.jpg | https://m.media-amazon.com/images/I/51NSs4yQCOL.jpg | https://m.media-amazon.com/images/I/41LNYVJ3pAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹375.00",
   "Model": "hsd-432",
   "Country": "India"

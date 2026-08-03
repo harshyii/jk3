@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51HHiSvELxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81j-0bJ5piL.jpg | https://m.media-amazon.com/images/I/41dMhlNzByL.jpg | https://m.media-amazon.com/images/I/517krTg8hFL.jpg | https://m.media-amazon.com/images/I/51Ak1kXsxdL.jpg | https://m.media-amazon.com/images/I/51HHiSvELxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300.0 Milliliters",
-  "Discount": 0,
+  "Discount": "66.78%",
   "SalePrice": "₹199.00",
   "Country": "India"
 }

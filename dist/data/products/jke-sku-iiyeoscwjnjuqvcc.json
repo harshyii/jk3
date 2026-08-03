@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41q+toIvr5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Pd8k75hwL.jpg | https://m.media-amazon.com/images/I/41q+toIvr5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "17.34%",
   "SalePrice": "₹2,479.00",
   "Model": "ED55038"
 }

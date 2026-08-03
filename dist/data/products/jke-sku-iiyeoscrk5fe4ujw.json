@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/510kJMZ1QuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/813EYKv3t2L.jpg | https://m.media-amazon.com/images/I/51MMkmTDQBL.jpg | https://m.media-amazon.com/images/I/51Yqw3gC4xL.jpg | https://m.media-amazon.com/images/I/41S53z9a-TL.jpg | https://m.media-amazon.com/images/I/510kJMZ1QuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "56.36%",
   "SalePrice": "₹9,600.00",
   "Model": "CKLI20286"
 }

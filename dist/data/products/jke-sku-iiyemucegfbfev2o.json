@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/516pYwEj0sL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41US5kqL8jL.jpg | https://m.media-amazon.com/images/I/41US5kqL8jL.jpg | https://m.media-amazon.com/images/I/41YjAP262-L.jpg | https://m.media-amazon.com/images/I/41hOfO5acxL.jpg | https://m.media-amazon.com/images/I/513kAqDhaDL.jpg | https://m.media-amazon.com/images/I/516pYwEj0sL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "80%",
   "SalePrice": "₹11,500.00",
   "Model": "SHARKBIFICAL575-700W"
 }

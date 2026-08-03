@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51zYyMYzzJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51GcWHdhi6L.jpg | https://m.media-amazon.com/images/I/41fl8-6NDDL.jpg | https://m.media-amazon.com/images/I/41g-f98GGDL.jpg | https://m.media-amazon.com/images/I/51zXMaF6jfL.jpg | https://m.media-amazon.com/images/I/51ixtwioBHL.jpg | https://m.media-amazon.com/images/I/517FkQK3W9L.jpg | https://m.media-amazon.com/images/I/51zYyMYzzJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "6.7%",
   "SalePrice": "₹167.00",
   "Country": "Vietnam"
 }

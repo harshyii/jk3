@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51ddbOc5DuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ahblHep1L.jpg | https://m.media-amazon.com/images/I/41eSrFC3MdL.jpg | https://m.media-amazon.com/images/I/31R7w4F8ghL.jpg | https://m.media-amazon.com/images/I/51ajn9qJyRL.jpg | https://m.media-amazon.com/images/I/51lQv0xRpKL.jpg | https://m.media-amazon.com/images/I/51WzMsoWovL.jpg | https://m.media-amazon.com/images/I/41ZG70SQ6uL.jpg | https://m.media-amazon.com/images/I/51ddbOc5DuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.94%",
   "SalePrice": "₹2,213.00",
   "Model": "AG10-70"
 }

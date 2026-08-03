@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51Y-dZr0m9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81q4ZlBKxIL.jpg | https://m.media-amazon.com/images/I/511QL8xzPpL.jpg | https://m.media-amazon.com/images/I/51UfnlJamsL.jpg | https://m.media-amazon.com/images/I/512sWyB4E7L.jpg | https://m.media-amazon.com/images/I/51C1II56HmL.jpg | https://m.media-amazon.com/images/I/516tw1P495L.jpg | https://m.media-amazon.com/images/I/516NukoGj1L.jpg | https://m.media-amazon.com/images/I/51Y-dZr0m9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "71.05%",
   "SalePrice": "₹7,171.00",
   "Model": "GAP40016"
 }

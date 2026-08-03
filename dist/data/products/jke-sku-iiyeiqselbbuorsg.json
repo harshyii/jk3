@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51mEBqADCfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61fFh7hOEwL.jpg | https://m.media-amazon.com/images/I/41anzG6G-TL.jpg | https://m.media-amazon.com/images/I/51pa0Ucc1gL.jpg | https://m.media-amazon.com/images/I/51dbTLHndqL.jpg | https://m.media-amazon.com/images/I/51MhaoqNBDL.jpg | https://m.media-amazon.com/images/I/51G97ZxWavL.jpg | https://m.media-amazon.com/images/I/51loBAdIzFL.jpg | https://m.media-amazon.com/images/I/51mEBqADCfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "14.26%",
   "SalePrice": "₹2,717.00",
   "Model": "3N-LBFO-SALZ"
 }

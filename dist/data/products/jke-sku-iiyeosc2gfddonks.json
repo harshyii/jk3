@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41yvgAWLPtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61mV1VenveL.jpg | https://m.media-amazon.com/images/I/41ZI+lBgx6L.jpg | https://m.media-amazon.com/images/I/41Yuf2fknQL.jpg | https://m.media-amazon.com/images/I/41GyihH4TPL.jpg | https://m.media-amazon.com/images/I/41iKSykHyYL.jpg | https://m.media-amazon.com/images/I/41Cg3mm93+L.jpg | https://m.media-amazon.com/images/I/51fhJ5DTIgL.jpg | https://m.media-amazon.com/images/I/41yvgAWLPtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.01%",
   "SalePrice": "₹2,499.00",
   "Model": "‎Steam Blast",
   "Country": "‎China"

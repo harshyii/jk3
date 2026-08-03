@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51dF7MkL0cL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61CoqHIxt6L.jpg | https://m.media-amazon.com/images/I/31tKLxKextL.jpg | https://m.media-amazon.com/images/I/51ikIPii6PL.jpg | https://m.media-amazon.com/images/I/415d8Xzl5mL.jpg | https://m.media-amazon.com/images/I/41r3xUFE6TL.jpg | https://m.media-amazon.com/images/I/41vNG26KPtL.jpg | https://m.media-amazon.com/images/I/41QCJyrectL.jpg | https://m.media-amazon.com/images/I/51dF7MkL0cL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Grams",
-  "Discount": 0,
+  "Discount": "40.04%",
   "SalePrice": "₹599.00",
   "Model": "Ultra_Wax_Carnauba",
   "Country": "India"

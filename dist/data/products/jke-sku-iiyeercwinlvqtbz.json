@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41p1E2u4pgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81UEMMtq-5L.jpg | https://m.media-amazon.com/images/I/41Nu3bei3SL.jpg | https://m.media-amazon.com/images/I/413q3kxm9mL.jpg | https://m.media-amazon.com/images/I/31TdbzleXXL.jpg | https://m.media-amazon.com/images/I/41p1E2u4pgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "0.4%",
   "SalePrice": "₹249.00",
   "Model": "Xtra_DiamondWheel",
   "Country": "India"

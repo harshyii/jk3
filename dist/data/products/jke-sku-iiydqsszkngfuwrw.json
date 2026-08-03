@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41Zald89DuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yVDw1j11S.jpg | https://m.media-amazon.com/images/I/41YroCMhHyS.jpg | https://m.media-amazon.com/images/I/41ifKlG3uSS.jpg | https://m.media-amazon.com/images/I/31Q8Ri9mxqL.jpg | https://m.media-amazon.com/images/I/41JW2saD9dL.jpg | https://m.media-amazon.com/images/I/41Zald89DuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "4.00 Count",
-  "Discount": 0,
+  "Discount": "52.05%",
   "SalePrice": "₹479.00",
   "Model": "T3"
 }

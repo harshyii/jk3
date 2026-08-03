@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/31gZc7PGfsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41SxbAFMJFL.jpg | https://m.media-amazon.com/images/I/31gZc7PGfsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "4.98%",
   "SalePrice": "₹3,800.00",
   "Model": "DSS125B"
 }

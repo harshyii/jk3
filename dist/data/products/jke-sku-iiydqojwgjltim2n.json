@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51sUfC6UJpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71RKCcPmsEL.jpg | https://m.media-amazon.com/images/I/51Tju2ea5uL.jpg | https://m.media-amazon.com/images/I/4134dlTr10L.jpg | https://m.media-amazon.com/images/I/41isqeVGd7L.jpg | https://m.media-amazon.com/images/I/51v+APnt3+L.jpg | https://m.media-amazon.com/images/I/41sr2lDHnFL.jpg | https://m.media-amazon.com/images/I/51sUfC6UJpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.74%",
   "SalePrice": "₹5,009.00",
   "Model": "AIW12562"
 }

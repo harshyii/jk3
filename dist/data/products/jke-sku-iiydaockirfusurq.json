@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41a7Xs5S1tL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71kStAkoeZL.jpg | https://m.media-amazon.com/images/I/41+ANRHAp5L.jpg | https://m.media-amazon.com/images/I/310ZkPM+GbL.jpg | https://m.media-amazon.com/images/I/51nPSVn0IHL.jpg | https://m.media-amazon.com/images/I/41Pr9trnCML.jpg | https://m.media-amazon.com/images/I/31DUCNbinUL.jpg | https://m.media-amazon.com/images/I/41XoLCjwQLL.jpg | https://m.media-amazon.com/images/I/41a7Xs5S1tL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹1,977.72",
   "Model": "NS18-1"
 }

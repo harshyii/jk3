@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/410XmGOQJZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61HcoKmrasL.jpg | https://m.media-amazon.com/images/I/41snBt9UnTL.jpg | https://m.media-amazon.com/images/I/51om2FQ5qBL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41JvolX26eL.jpg | https://m.media-amazon.com/images/I/511uafi-GUL.jpg | https://m.media-amazon.com/images/I/51dz51nxNlL.jpg | https://m.media-amazon.com/images/I/51nXMR9CHfL.jpg | https://m.media-amazon.com/images/I/410XmGOQJZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15%",
   "SalePrice": "₹612.00",
   "Country": "‎India"
 }

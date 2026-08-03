@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/411ctDsBZsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71hHNyBDCIL.jpg | https://m.media-amazon.com/images/I/513fipEfbgL.jpg | https://m.media-amazon.com/images/I/51E+n6m+KRL.jpg | https://m.media-amazon.com/images/I/41wb7k5EWsL.jpg | https://m.media-amazon.com/images/I/411ctDsBZsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "31.52%",
   "SalePrice": "₹42,999.00",
   "Model": "Optimus 2800 + 2 RC 18000"
 }

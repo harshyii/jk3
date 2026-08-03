@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51FxgHAuPqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91u+UObPqOL.jpg | https://m.media-amazon.com/images/I/51zOk9bYrPL.jpg | https://m.media-amazon.com/images/I/51mEpghjjeL.jpg | https://m.media-amazon.com/images/I/51cPrnZDPTL.jpg | https://m.media-amazon.com/images/I/41HTzmOBulL.jpg | https://m.media-amazon.com/images/I/51FxgHAuPqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹13,205.27",
   "Model": "BHTI06",
   "Country": "USA"

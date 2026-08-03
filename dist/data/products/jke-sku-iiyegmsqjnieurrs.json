@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41Zjii-+CTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51F0N3F7VFL.jpg | https://m.media-amazon.com/images/I/31Xz5beZ+lL.jpg | https://m.media-amazon.com/images/I/41DZRtVl63L.jpg | https://m.media-amazon.com/images/I/41yEtGro6sL.jpg | https://m.media-amazon.com/images/I/51Sk5ojhnwL.jpg | https://m.media-amazon.com/images/I/51-6l0-Zz2L.jpg | https://m.media-amazon.com/images/I/41Zjii-+CTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "57.31%",
   "SalePrice": "₹213.00",
   "Model": "AP-A134"
 }

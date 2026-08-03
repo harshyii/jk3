@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51eoHdptdtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Tk29Wgc2L.jpg | https://m.media-amazon.com/images/I/41FEwEkcnGL.jpg | https://m.media-amazon.com/images/I/519fekRQKVL.jpg | https://m.media-amazon.com/images/I/41Ctzdcj5PL.jpg | https://m.media-amazon.com/images/I/41Fa8YINvmL.jpg | https://m.media-amazon.com/images/I/41at1jbC6KL.jpg | https://m.media-amazon.com/images/I/51eoHdptdtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.13%",
   "SalePrice": "₹14,999.00",
   "Model": "SC18054-150AH"
 }

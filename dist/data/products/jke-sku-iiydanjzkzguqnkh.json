@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41w5fnJJQiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61lJPOlaRuL.jpg | https://m.media-amazon.com/images/I/41Vmfq5UAvL.jpg | https://m.media-amazon.com/images/I/41S6DVmqd-L.jpg | https://m.media-amazon.com/images/I/41igQDbgEbL.jpg | https://m.media-amazon.com/images/I/51ZU76e4LmL.jpg | https://m.media-amazon.com/images/I/51Z02maYbYL.jpg | https://m.media-amazon.com/images/I/41P5cu5AMOL.jpg | https://m.media-amazon.com/images/I/41w5fnJJQiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "72.5%",
   "SalePrice": "₹2,572.74",
   "Model": "LH-JX100 Silver"
 }

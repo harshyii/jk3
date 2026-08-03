@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41EvMCxA14L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61MfrGRcvfL.jpg | https://m.media-amazon.com/images/I/31pi+-3y1AL.jpg | https://m.media-amazon.com/images/I/51F0AQHSD9L.jpg | https://m.media-amazon.com/images/I/31-0rt1LEeL.jpg | https://m.media-amazon.com/images/I/31U1hCPAYNL.jpg | https://m.media-amazon.com/images/I/413CYRfV+YL.jpg | https://m.media-amazon.com/images/I/41EvMCxA14L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.8%",
   "SalePrice": "₹669.00",
   "Model": "1643"
 }

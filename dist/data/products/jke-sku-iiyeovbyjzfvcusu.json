@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51Ok1W94K0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gsYwNdwqL.jpg | https://m.media-amazon.com/images/I/41AbbVwvIML.jpg | https://m.media-amazon.com/images/I/616DXND0s2L.jpg | https://m.media-amazon.com/images/I/61ZQ+33OXvL.jpg | https://m.media-amazon.com/images/I/61i7Bd5GPaL.jpg | https://m.media-amazon.com/images/I/51ir3l2z2XL.jpg | https://m.media-amazon.com/images/I/41eAYXHGVjL.jpg | https://m.media-amazon.com/images/I/51Ok1W94K0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "67.89%",
   "SalePrice": "₹1,926.00",
   "Model": "Angle Grinder Machine"
 }

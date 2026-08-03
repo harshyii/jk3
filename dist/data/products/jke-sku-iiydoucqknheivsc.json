@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41G+BdLzypL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+dCL0lQML.jpg | https://m.media-amazon.com/images/I/517gsw5qpkL.jpg | https://m.media-amazon.com/images/I/51sLTmkIGvL.jpg | https://m.media-amazon.com/images/I/51vJS9CoerL.jpg | https://m.media-amazon.com/images/I/51xZKRne0mL.jpg | https://m.media-amazon.com/images/I/51oJcD0GdbL.jpg | https://m.media-amazon.com/images/I/41G+BdLzypL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.04%",
   "SalePrice": "₹1,563.00",
   "Model": "IBLED06-91"
 }

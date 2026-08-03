@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41CX+mw-DhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Pp+-AGu4L.jpg | https://m.media-amazon.com/images/I/41Pp+-AGu4L.jpg | https://m.media-amazon.com/images/I/41mfvcf8MCL.jpg | https://m.media-amazon.com/images/I/51n7EzddHXL.jpg | https://m.media-amazon.com/images/I/41Ir3wh01PL.jpg | https://m.media-amazon.com/images/I/51ivtuqGzeL.jpg | https://m.media-amazon.com/images/I/41CX+mw-DhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "70.1%",
   "SalePrice": "₹299.00",
   "Model": "B587"
 }

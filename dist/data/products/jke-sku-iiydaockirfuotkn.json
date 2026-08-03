@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41b0MRAkhcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81HQn31ZiSL.jpg | https://m.media-amazon.com/images/I/41VTAbA0YaL.jpg | https://m.media-amazon.com/images/I/41qobSyODEL.jpg | https://m.media-amazon.com/images/I/51RbsnAe5tL.jpg | https://m.media-amazon.com/images/I/415BzOuEbOL.jpg | https://m.media-amazon.com/images/I/31i1AqEGsPL.jpg | https://m.media-amazon.com/images/I/41q4pER5ogL.jpg | https://m.media-amazon.com/images/I/41b0MRAkhcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "71.81%",
   "SalePrice": "₹2,625.23",
   "Model": "SF16-25"
 }

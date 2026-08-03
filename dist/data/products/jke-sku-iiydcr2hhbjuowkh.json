@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/513Yn8NWuSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Z9-DuIYcL.jpg | https://m.media-amazon.com/images/I/41B1j4KGX0L.jpg | https://m.media-amazon.com/images/I/419mljJhBDL.jpg | https://m.media-amazon.com/images/I/51y78OlMFJL.jpg | https://m.media-amazon.com/images/I/51a2DL0hjPL.jpg | https://m.media-amazon.com/images/I/51N+q2qbfFL.jpg | https://m.media-amazon.com/images/I/51p3LRI9GpL.jpg | https://m.media-amazon.com/images/I/513Yn8NWuSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.99%",
   "SalePrice": "₹3,999.00",
   "Model": "M700-B5"
 }

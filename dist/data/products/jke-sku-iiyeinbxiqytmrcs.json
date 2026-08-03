@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/31i9IRNKQxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81G3WkMgtSL.jpg | https://m.media-amazon.com/images/I/51CztZa1YFL.jpg | https://m.media-amazon.com/images/I/512e7Q5L57L.jpg | https://m.media-amazon.com/images/I/51ZaEYqiRJL.jpg | https://m.media-amazon.com/images/I/51MaI+bfnOL.jpg | https://m.media-amazon.com/images/I/51JzeuoXEbL.jpg | https://m.media-amazon.com/images/I/51tpRpcFTFL.jpg | https://m.media-amazon.com/images/I/31i9IRNKQxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "15 Count",
-  "Discount": 0,
+  "Discount": "4%",
   "SalePrice": "₹288.00",
   "Model": "Tfx150VET_BK7RL_BL2RL_GR2RL_RD2RL_YL2RL"
 }

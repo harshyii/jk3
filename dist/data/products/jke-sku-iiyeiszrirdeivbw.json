@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41fYr61s18L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51bS8+dVJlL.jpg | https://m.media-amazon.com/images/I/31xoWjCzcGL.jpg | https://m.media-amazon.com/images/I/41Dc7jkfqdL.jpg | https://m.media-amazon.com/images/I/41nidlzCTcL.jpg | https://m.media-amazon.com/images/I/41bdeLZlk8L.jpg | https://m.media-amazon.com/images/I/41HAo6dHCvL.jpg | https://m.media-amazon.com/images/I/51-3MfK+4eL.jpg | https://m.media-amazon.com/images/I/41fYr61s18L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "150.0 Milliliters",
-  "Discount": 0,
+  "Discount": "60%",
   "SalePrice": "₹3,795.00",
   "Model": "SBE010",
   "Country": "USA"

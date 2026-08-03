@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/21dzzRhEiqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/513IXBfqpcL.jpg | https://m.media-amazon.com/images/I/317-1rlZ62L.jpg | https://m.media-amazon.com/images/I/41ZrhoRAmqL.jpg | https://m.media-amazon.com/images/I/41fRkHZIvML.jpg | https://m.media-amazon.com/images/I/51iOpFp6q8L.jpg | https://m.media-amazon.com/images/I/41iu1a965CL.jpg | https://m.media-amazon.com/images/I/51oxkr9uJ7L.jpg | https://m.media-amazon.com/images/I/21dzzRhEiqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "34.78%",
   "SalePrice": "₹511.79",
   "Model": "952",
   "Country": "USA"

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/510eZkLcswL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81CejP+ahiL.jpg | https://m.media-amazon.com/images/I/41+PtCbhiCL.jpg | https://m.media-amazon.com/images/I/51C3+Dee3KL.jpg | https://m.media-amazon.com/images/I/51dX3Qqlc8L.jpg | https://m.media-amazon.com/images/I/51XaPv45-uL.jpg | https://m.media-amazon.com/images/I/41DfneXQRkL.jpg | https://m.media-amazon.com/images/I/510lMBtUYyL.jpg | https://m.media-amazon.com/images/I/510eZkLcswL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,219.42",
   "Model": "M6CFP2",
   "Country": "USA"

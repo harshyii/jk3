@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41URk6pSo8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71A0hdJbRML.jpg | https://m.media-amazon.com/images/I/41DtmEzSMvL.jpg | https://m.media-amazon.com/images/I/51PQNVPDSXL.jpg | https://m.media-amazon.com/images/I/51KnqqlKhLL.jpg | https://m.media-amazon.com/images/I/51HVdjd9gWL.jpg | https://m.media-amazon.com/images/I/41CWkujAOHL.jpg | https://m.media-amazon.com/images/I/41xgqm6yO0L.jpg | https://m.media-amazon.com/images/I/41URk6pSo8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹225.00",
   "Model": "‎LR03P10B/94",
   "Country": "‎Chile"

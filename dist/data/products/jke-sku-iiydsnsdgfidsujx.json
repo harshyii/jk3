@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51F5K0289vL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91sKL4eBK2L.jpg | https://m.media-amazon.com/images/I/51UzIzyF8ML.jpg | https://m.media-amazon.com/images/I/51zHEz9Ox1L.jpg | https://m.media-amazon.com/images/I/41LwYHuQHDL.jpg | https://m.media-amazon.com/images/I/51BIYQssYML.jpg | https://m.media-amazon.com/images/I/61Vvf7l5epL.jpg | https://m.media-amazon.com/images/I/51CeIr8RH4L.jpg | https://m.media-amazon.com/images/I/51F5K0289vL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.19%",
   "SalePrice": "₹2,856.00",
   "Model": "EZ506HP"
 }

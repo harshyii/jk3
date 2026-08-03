@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/312+6PKZJdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Mg8+-RLYL.jpg | https://m.media-amazon.com/images/I/41k63Wp4JmL.jpg | https://m.media-amazon.com/images/I/31mCHR8P35L.jpg | https://m.media-amazon.com/images/I/318mOz2FSgL.jpg | https://m.media-amazon.com/images/I/41C3BhpkenL.jpg | https://m.media-amazon.com/images/I/41i2s-5A5zL.jpg | https://m.media-amazon.com/images/I/312+6PKZJdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,381.16",
   "Model": "04173410",
   "Country": "USA"

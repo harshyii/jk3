@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51YH+xPoEtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+LusvT0QL.jpg | https://m.media-amazon.com/images/I/51GmuYmGuRL.jpg | https://m.media-amazon.com/images/I/51V+5T6wYwL.jpg | https://m.media-amazon.com/images/I/51lSuaCbBSL.jpg | https://m.media-amazon.com/images/I/51+ALwW3bIL.jpg | https://m.media-amazon.com/images/I/51QD5fxF8OL.jpg | https://m.media-amazon.com/images/I/51dH+FMeUnL.jpg | https://m.media-amazon.com/images/I/51YH+xPoEtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "41.74%",
   "SalePrice": "₹6,699.00",
   "Model": "969"
 }

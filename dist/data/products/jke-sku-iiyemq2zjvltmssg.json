@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51-uH+Mx4WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pZaue7tIL.jpg | https://m.media-amazon.com/images/I/31Y51MvuJjL.jpg | https://m.media-amazon.com/images/I/518SDYqE60L.jpg | https://m.media-amazon.com/images/I/51thN2D9vJL.jpg | https://m.media-amazon.com/images/I/31GwTM0G8TL.jpg | https://m.media-amazon.com/images/I/51ahgo4DPdL.jpg | https://m.media-amazon.com/images/I/518MsW+xUuL.jpg | https://m.media-amazon.com/images/I/51-uH+Mx4WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "33.31%",
   "SalePrice": "₹2,200.00",
   "Model": "G10MGAS9Z"
 }

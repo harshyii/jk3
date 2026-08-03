@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41BZG+KvCpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71MSzTMKZuL.jpg | https://m.media-amazon.com/images/I/51YdLuTGcOL.jpg | https://m.media-amazon.com/images/I/41KyaWvfImL.jpg | https://m.media-amazon.com/images/I/41BZG+KvCpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Piece",
-  "Discount": 0,
+  "Discount": "27.51%",
   "SalePrice": "₹1,449.00",
   "Model": "Xp-stt-4-10",
   "Country": "India"

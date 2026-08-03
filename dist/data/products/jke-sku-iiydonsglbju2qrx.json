@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51p9BSMWl1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71v0qVGTB2L.jpg | https://m.media-amazon.com/images/I/415lqYXfw3L.jpg | https://m.media-amazon.com/images/I/41v0K1QcuYL.jpg | https://m.media-amazon.com/images/I/51CVDzElKmL.jpg | https://m.media-amazon.com/images/I/41ruCfvUh4L.jpg | https://m.media-amazon.com/images/I/41q66DJEK-L.jpg | https://m.media-amazon.com/images/I/41UPWsi-0aL.jpg | https://m.media-amazon.com/images/I/51p9BSMWl1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "18.89%",
   "SalePrice": "₹28,899.00",
   "Model": "NXG 1150e+LPT12150H +210Wp"
 }

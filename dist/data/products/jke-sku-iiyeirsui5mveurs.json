@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51zBUPe3GHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/8126ulMYRWL.jpg | https://m.media-amazon.com/images/I/518-8pP2HSL.jpg | https://m.media-amazon.com/images/I/41Zf+wDCzsL.jpg | https://m.media-amazon.com/images/I/41y9l5UCs5L.jpg | https://m.media-amazon.com/images/I/41ybfRXB2yL.jpg | https://m.media-amazon.com/images/I/418BLCWVmdL.jpg | https://m.media-amazon.com/images/I/51xD7gSdJqL.jpg | https://m.media-amazon.com/images/I/51zBUPe3GHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.52%",
   "SalePrice": "₹804.00",
   "Model": "8 PCS Screwdriver"
 }

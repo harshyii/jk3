@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51HyxpNanzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61U-L+UpiUL.jpg | https://m.media-amazon.com/images/I/51OsBqBWqKL.jpg | https://m.media-amazon.com/images/I/41N-WjQf-0L.jpg | https://m.media-amazon.com/images/I/51jsxbJaAaL.jpg | https://m.media-amazon.com/images/I/51OViMdVDkL.jpg | https://m.media-amazon.com/images/I/51fQcuUs3fL.jpg | https://m.media-amazon.com/images/I/51dgbLI4NRL.jpg | https://m.media-amazon.com/images/I/51HyxpNanzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "23.17%",
   "SalePrice": "₹5,117.00",
   "Model": "PMDL60063294"
 }

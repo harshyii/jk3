@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51jJc6FhwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Z9kiCOJ7L.jpg | https://m.media-amazon.com/images/I/51QYjMYIsEL.jpg | https://m.media-amazon.com/images/I/617SS+7WxML.jpg | https://m.media-amazon.com/images/I/51bySnW3v1L.jpg | https://m.media-amazon.com/images/I/516eKB6lRQL.jpg | https://m.media-amazon.com/images/I/51Syp0weAwL.jpg | https://m.media-amazon.com/images/I/51Grtcn+6xL.jpg | https://m.media-amazon.com/images/I/51jJc6FhwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.52%",
   "SalePrice": "₹197.00",
   "Model": "Glow Tape"
 }

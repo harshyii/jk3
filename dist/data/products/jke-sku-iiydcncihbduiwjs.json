@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41DQNg6swPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51BtZzTpnvL.jpg | https://m.media-amazon.com/images/I/41nJ5hWOvVL.jpg | https://m.media-amazon.com/images/I/41DQNg6swPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.01%",
   "SalePrice": "₹5,399.00",
   "Model": "EP42-12"
 }

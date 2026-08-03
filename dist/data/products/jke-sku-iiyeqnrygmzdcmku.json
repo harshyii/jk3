@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51lcPFTFQaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Ykoj3jgTL.jpg | https://m.media-amazon.com/images/I/51duolYN+mL.jpg | https://m.media-amazon.com/images/I/512o32hG+HL.jpg | https://m.media-amazon.com/images/I/51rmG6foZ-L.jpg | https://m.media-amazon.com/images/I/51xZXHykjFL.jpg | https://m.media-amazon.com/images/I/51gjUFiRpAL.jpg | https://m.media-amazon.com/images/I/51lcPFTFQaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.35%",
   "SalePrice": "₹3,999.00",
   "Model": "GREEN-SHADE-NET"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41LvgC0IzuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71u92D3VRhL.jpg | https://m.media-amazon.com/images/I/41FdIyagTvL.jpg | https://m.media-amazon.com/images/I/51KFQZnh6SL.jpg | https://m.media-amazon.com/images/I/41-bIdJr2NL.jpg | https://m.media-amazon.com/images/I/41LvgC0IzuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.55%",
   "SalePrice": "₹499.00",
   "Model": "Brdng004"
 }

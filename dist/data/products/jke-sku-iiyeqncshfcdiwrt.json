@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51HmbzCVj3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71-NmdrsorL.jpg | https://m.media-amazon.com/images/I/4139hBgsAjL.jpg | https://m.media-amazon.com/images/I/41OjBMEOAgL.jpg | https://m.media-amazon.com/images/I/41ylOj5Ii6L.jpg | https://m.media-amazon.com/images/I/51tTdGfy5ZL.jpg | https://m.media-amazon.com/images/I/51xS5R6ZBqL.jpg | https://m.media-amazon.com/images/I/51-W-0wq4YL.jpg | https://m.media-amazon.com/images/I/51HmbzCVj3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "52.79%",
   "SalePrice": "₹330.00",
   "Model": "NIYA-CUTTER-MC-01"
 }

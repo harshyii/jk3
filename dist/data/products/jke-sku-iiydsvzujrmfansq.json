@@ -31,8 +31,8 @@
     "https://m.media-amazon.com/images/I/21TaZepacXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21TaZepacXL.jpg | https://m.media-amazon.com/images/I/21TaZepacXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.36%",
   "SalePrice": "₹4,611.00"
 }

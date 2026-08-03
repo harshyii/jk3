@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51grdv75iiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61IzRuLRNeL.jpg | https://m.media-amazon.com/images/I/41nNMecbpWL.jpg | https://m.media-amazon.com/images/I/51grdv75iiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "55.57%",
   "SalePrice": "₹355.00",
   "Model": "F1-kit-blue",
   "Country": "India"

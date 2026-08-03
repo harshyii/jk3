@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41Pn4T5R2fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51omd85-w4L.jpg | https://m.media-amazon.com/images/I/31DsTmugRqL.jpg | https://m.media-amazon.com/images/I/51mw9N9iIVL.jpg | https://m.media-amazon.com/images/I/41Pn4T5R2fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.27%",
   "SalePrice": "₹669.00",
   "Model": "1600A032VF"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41NrdqrXPtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Yy+fVayzL.jpg | https://m.media-amazon.com/images/I/31NMTi457ZL.jpg | https://m.media-amazon.com/images/I/31lH3seGKOL.jpg | https://m.media-amazon.com/images/I/51i+UdValyL.jpg | https://m.media-amazon.com/images/I/31surL8XhrL.jpg | https://m.media-amazon.com/images/I/41liWlS3q-L.jpg | https://m.media-amazon.com/images/I/41NrdqrXPtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.65%",
   "SalePrice": "₹319.00",
   "Model": "70-379E"
 }

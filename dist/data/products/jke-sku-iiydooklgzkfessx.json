@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/614r4tDAvxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71WWIlMgP9L.jpg | https://m.media-amazon.com/images/I/41G76o144qL.jpg | https://m.media-amazon.com/images/I/41baEY5aR8L.jpg | https://m.media-amazon.com/images/I/41iMhSet7HL.jpg | https://m.media-amazon.com/images/I/61gyQY9ucDL.jpg | https://m.media-amazon.com/images/I/41xxCA5bx9L.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/614r4tDAvxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.95%",
   "SalePrice": "₹19,398.00",
   "Model": "DW714-IN"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51UlmrZTKKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ckGOu7NlL.jpg | https://m.media-amazon.com/images/I/41KmncEKm6L.jpg | https://m.media-amazon.com/images/I/51CJRpDiraL.jpg | https://m.media-amazon.com/images/I/61RSbNE6x9L.jpg | https://m.media-amazon.com/images/I/51xRBoEkEKL.jpg | https://m.media-amazon.com/images/I/41ErG8nnXML.jpg | https://m.media-amazon.com/images/I/51UlmrZTKKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.11%",
   "SalePrice": "₹399.00",
   "Model": "BDHT22148"
 }

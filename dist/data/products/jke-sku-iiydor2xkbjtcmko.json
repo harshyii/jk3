@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/510PA93ioXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Keo4nWpAL.jpg | https://m.media-amazon.com/images/I/41za0XYR9OL.jpg | https://m.media-amazon.com/images/I/31JjSZ5-dnL.jpg | https://m.media-amazon.com/images/I/417olo5fB1L.jpg | https://m.media-amazon.com/images/I/510PA93ioXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.78%",
   "SalePrice": "₹18,250.00",
   "Model": "JUMBOUPS-3000",
   "Country": "India"

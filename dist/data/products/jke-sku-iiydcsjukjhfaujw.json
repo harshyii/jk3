@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51+gT2e9blL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71CBaex20jL.jpg | https://m.media-amazon.com/images/I/51+gT2e9blL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "3.75%",
   "SalePrice": "₹5,293.00",
   "Model": "NP-W126S Rechargeable Battery",
   "Country": "China"

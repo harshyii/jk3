@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51cNiwCY12L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81GV9-V9AiL.jpg | https://m.media-amazon.com/images/I/51qxw6ANHUL.jpg | https://m.media-amazon.com/images/I/51ra+tKjmkL.jpg | https://m.media-amazon.com/images/I/41VZgRGXkRL.jpg | https://m.media-amazon.com/images/I/51piQXvDFAL.jpg | https://m.media-amazon.com/images/I/51u3CdzzttL.jpg | https://m.media-amazon.com/images/I/51FyiHkOPlL.jpg | https://m.media-amazon.com/images/I/51cNiwCY12L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "16.04%",
   "SalePrice": "₹20,932.00",
   "Model": "MH-SP-005"
 }

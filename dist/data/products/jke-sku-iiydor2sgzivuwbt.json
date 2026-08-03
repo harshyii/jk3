@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zsfecQu+L.jpg | https://m.media-amazon.com/images/I/41qC5MjmDIL.jpg | https://m.media-amazon.com/images/I/41u4VREPB-L.jpg | https://m.media-amazon.com/images/I/41B-zsuZJvL.jpg | https://m.media-amazon.com/images/I/41aHDM0rJ0L.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Grams",
-  "Discount": 0,
+  "Discount": "12.24%",
   "SalePrice": "₹430.00",
   "Model": "MPG-1",
   "Country": "India"

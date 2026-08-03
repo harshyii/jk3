@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/5176yMbKoTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619BrrBu3EL.jpg | https://m.media-amazon.com/images/I/41Hhy1COWNL.jpg | https://m.media-amazon.com/images/I/41FDBjo1oFL.jpg | https://m.media-amazon.com/images/I/31an8MhiHDL.jpg | https://m.media-amazon.com/images/I/51jiiIKDJRL.jpg | https://m.media-amazon.com/images/I/518bWVd8vLL.jpg | https://m.media-amazon.com/images/I/51ixtpPHk1L.jpg | https://m.media-amazon.com/images/I/5176yMbKoTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "15.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.06%",
   "SalePrice": "₹449.00",
   "Model": "VNM15MLSCTC172539",
   "Country": "China"

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51pbOqEWWQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5121ius61HL.jpg | https://m.media-amazon.com/images/I/31YipVOVD1L.jpg | https://m.media-amazon.com/images/I/516Qb60YQZL.jpg | https://m.media-amazon.com/images/I/415JwhIyZnL.jpg | https://m.media-amazon.com/images/I/51984Dsy2hL.jpg | https://m.media-amazon.com/images/I/51pbOqEWWQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "12.38%",
   "SalePrice": "₹4,990.00",
   "Model": "Cook Pro TC-20"
 }

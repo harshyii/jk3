@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41lhzEoOCAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31vHZfU4hML.jpg | https://m.media-amazon.com/images/I/31vHZfU4hML.jpg | https://m.media-amazon.com/images/I/41lhzEoOCAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.67%",
   "SalePrice": "₹21,699.00",
   "Model": "LPTT12200L"
 }

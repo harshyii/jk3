@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41qV6QIo3JL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yx32l+91L.jpg | https://m.media-amazon.com/images/I/41IWDzck1bL.jpg | https://m.media-amazon.com/images/I/41Gyy-UG-kL.jpg | https://m.media-amazon.com/images/I/51KqcTng5mL.jpg | https://m.media-amazon.com/images/I/51HBhH-1RJL.jpg | https://m.media-amazon.com/images/I/51yfuMpf8qL.jpg | https://m.media-amazon.com/images/I/41qV6QIo3JL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "900.0 Milliliters",
-  "Discount": 0,
+  "Discount": "2.96%",
   "SalePrice": "₹131.00",
   "Model": "3291207"
 }

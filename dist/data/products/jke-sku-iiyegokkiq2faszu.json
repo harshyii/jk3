@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/510ALZKphSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bw2s+Lo+L.jpg | https://m.media-amazon.com/images/I/41Cgc6I4+QL.jpg | https://m.media-amazon.com/images/I/41NvXZ0MbaL.jpg | https://m.media-amazon.com/images/I/510ALZKphSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Piece",
-  "Discount": 0,
+  "Discount": "43.11%",
   "SalePrice": "₹995.00",
   "Country": "India"
 }

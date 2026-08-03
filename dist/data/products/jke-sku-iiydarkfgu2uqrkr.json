@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41YtUauOXEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51iSzQrFCjL.jpg | https://m.media-amazon.com/images/I/41402O12v3L.jpg | https://m.media-amazon.com/images/I/41YtUauOXEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "18.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹22,570.35",
   "Model": "D-46202"
 }

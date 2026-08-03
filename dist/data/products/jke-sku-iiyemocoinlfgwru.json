@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51EyPChbW-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712nEH8O43L.jpg | https://m.media-amazon.com/images/I/51J5laxd7GL.jpg | https://m.media-amazon.com/images/I/41OAcqcw84L.jpg | https://m.media-amazon.com/images/I/31zdkOx86EL.jpg | https://m.media-amazon.com/images/I/516nMSNnpzL.jpg | https://m.media-amazon.com/images/I/31MUlSE1yhL.jpg | https://m.media-amazon.com/images/I/51EyPChbW-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "4 Count",
-  "Discount": 0,
+  "Discount": "56.96%",
   "SalePrice": "₹1,549.00",
   "Country": "China"
 }

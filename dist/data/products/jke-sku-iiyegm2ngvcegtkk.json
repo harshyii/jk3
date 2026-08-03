@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41Mr+-Tr-xL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61MOQzm81sL.jpg | https://m.media-amazon.com/images/I/51CWLKhkOFL.jpg | https://m.media-amazon.com/images/I/51CqlCb6jqL.jpg | https://m.media-amazon.com/images/I/41XZ3-pya2L.jpg | https://m.media-amazon.com/images/I/41dxCj6aPAL.jpg | https://m.media-amazon.com/images/I/410QBPEaojL.jpg | https://m.media-amazon.com/images/I/51VBv6XTL1L.jpg | https://m.media-amazon.com/images/I/41Mr+-Tr-xL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "59.17%",
   "SalePrice": "₹15,415.21",
   "Model": "W3-801-26-NEW"
 }

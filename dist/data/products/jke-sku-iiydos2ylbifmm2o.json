@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/21LoYWlrvUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51gUDMb07sL.jpg | https://m.media-amazon.com/images/I/31WRQA0vl9L.jpg | https://m.media-amazon.com/images/I/61VP3pnI8HL.jpg | https://m.media-amazon.com/images/I/21qyvbRNoCL.jpg | https://m.media-amazon.com/images/I/21LoYWlrvUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.55%",
   "SalePrice": "₹140.00",
   "Model": "SFDSP61M7702L10S2MW"
 }

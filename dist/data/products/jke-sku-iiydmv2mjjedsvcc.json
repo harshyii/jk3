@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31R9kREDvzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71gnRBriZRL.jpg | https://m.media-amazon.com/images/I/41alHKLNqBL.jpg | https://m.media-amazon.com/images/I/41WV+E3A9BL.jpg | https://m.media-amazon.com/images/I/61p1F0Et8sL.jpg | https://m.media-amazon.com/images/I/61Y3I4D9+5L.jpg | https://m.media-amazon.com/images/I/61CL0i9YNSL.jpg | https://m.media-amazon.com/images/I/61EhLiapShL.jpg | https://m.media-amazon.com/images/I/31R9kREDvzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹15,713.99",
   "Model": "BDCMS20C"
 }

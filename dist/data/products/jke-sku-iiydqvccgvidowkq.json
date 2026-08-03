@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41VV72YQHcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TDj1gEqhL.jpg | https://m.media-amazon.com/images/I/41hGeTaje5L.jpg | https://m.media-amazon.com/images/I/414MjuLQt8L.jpg | https://m.media-amazon.com/images/I/41hAyNUgTCL.jpg | https://m.media-amazon.com/images/I/41VV72YQHcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Grams",
-  "Discount": 0,
+  "Discount": "40.11%",
   "SalePrice": "₹1,305.00",
   "Model": "A- F-1 N Shake",
   "Country": "India"

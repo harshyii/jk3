@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51PNReMeylL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31W7eAoM82L.jpg | https://m.media-amazon.com/images/I/21fOTZTbeCL.jpg | https://m.media-amazon.com/images/I/21dfib86D2L.jpg | https://m.media-amazon.com/images/I/31heeGLIvbL.jpg | https://m.media-amazon.com/images/I/51u7EXCCtDL.jpg | https://m.media-amazon.com/images/I/51rPMEMNVwL.jpg | https://m.media-amazon.com/images/I/51VyhyRES6L.jpg | https://m.media-amazon.com/images/I/51PNReMeylL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.84%",
   "SalePrice": "₹9,350.00",
   "Model": "SWST‑P3R1‑SHGI‑V1"
 }

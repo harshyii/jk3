@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51XAQfMmqAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CkDrHZiTL.jpg | https://m.media-amazon.com/images/I/41Bm5+18OuL.jpg | https://m.media-amazon.com/images/I/31kwDstkVAL.jpg | https://m.media-amazon.com/images/I/51JKSinX1xL.jpg | https://m.media-amazon.com/images/I/41WHB2HsJrL.jpg | https://m.media-amazon.com/images/I/317WD-NkE8L.jpg | https://m.media-amazon.com/images/I/51NU3O-thEL.jpg | https://m.media-amazon.com/images/I/51XAQfMmqAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.32%",
   "SalePrice": "₹65,027.00",
   "Model": "TW1000"
 }

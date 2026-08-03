@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31+0G9Gng-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91bqTSC5rVL.jpg | https://m.media-amazon.com/images/I/41YtxLtA2lL.jpg | https://m.media-amazon.com/images/I/41JGuXki8ML.jpg | https://m.media-amazon.com/images/I/41F5qyMXCcL.jpg | https://m.media-amazon.com/images/I/413tOTWkWiL.jpg | https://m.media-amazon.com/images/I/31+0G9Gng-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.22%",
   "SalePrice": "₹4,444.03",
   "Model": "123ABC"
 }

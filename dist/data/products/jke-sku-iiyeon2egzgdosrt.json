@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41BjJwtiq0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ubhHx5d4L.jpg | https://m.media-amazon.com/images/I/41tnaUQbsdL.jpg | https://m.media-amazon.com/images/I/51dr0khySXL.jpg | https://m.media-amazon.com/images/I/41BjJwtiq0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.35%",
   "SalePrice": "₹8,547.00",
   "Model": "LDIS09CYUAYL001C004SB033S",
   "Country": "India"

@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/314weXet4LL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/314weXet4LL.jpg | https://m.media-amazon.com/images/I/314weXet4LL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "17.35%",
   "SalePrice": "₹3,059.79",
   "Model": "TIG/M/12/BSP",
   "Country": "India"

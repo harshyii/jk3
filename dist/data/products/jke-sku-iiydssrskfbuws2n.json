@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41+I4kCJRZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/616uEHVrfjL.jpg | https://m.media-amazon.com/images/I/21TQo2rZRbL.jpg | https://m.media-amazon.com/images/I/512dTOjKDLL.jpg | https://m.media-amazon.com/images/I/41oDP+bihJL.jpg | https://m.media-amazon.com/images/I/51gF+5rIK1L.jpg | https://m.media-amazon.com/images/I/518MbbJ3sNL.jpg | https://m.media-amazon.com/images/I/41+I4kCJRZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.59%",
   "SalePrice": "₹1,490.00",
   "Model": "GHWIBHMBL015"
 }

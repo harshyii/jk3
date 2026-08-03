@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/31ClL8JtyWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71H2IMs3YnL.jpg | https://m.media-amazon.com/images/I/41x4DZKRUGL.jpg | https://m.media-amazon.com/images/I/31ZyXHYRBkL.jpg | https://m.media-amazon.com/images/I/51jsGtnuegL.jpg | https://m.media-amazon.com/images/I/41nNeY-hMwL.jpg | https://m.media-amazon.com/images/I/41wT+E9mENL.jpg | https://m.media-amazon.com/images/I/31NersIfatL.jpg | https://m.media-amazon.com/images/I/31ClL8JtyWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.14%",
   "SalePrice": "₹31,546.00",
   "Model": "DCS565B"
 }

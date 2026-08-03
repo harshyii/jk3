@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41DCv0YB1pL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61GBlbuV35L.jpg | https://m.media-amazon.com/images/I/41DCv0YB1pL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "41.21%",
   "SalePrice": "₹2,939.00",
   "Model": "AA019"
 }

@@ -81,9 +81,9 @@
     "https://m.media-amazon.com/images/I/41cIz1DwNkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wGcFOth5L.jpg | https://m.media-amazon.com/images/I/41Ly8j00HhL.jpg | https://m.media-amazon.com/images/I/519QA99VoiL.jpg | https://m.media-amazon.com/images/I/41oWyjyQJnL.jpg | https://m.media-amazon.com/images/I/41cIz1DwNkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.17%",
   "SalePrice": "₹1,544.00",
   "Model": "Ventil Air DX",
   "Country": "India"

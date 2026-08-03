@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/31gzTZuYBsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KI6nY9loL.jpg | https://m.media-amazon.com/images/I/31GkwAx-iBL.jpg | https://m.media-amazon.com/images/I/41yzZBrpOaL.jpg | https://m.media-amazon.com/images/I/51thbxCqVWL.jpg | https://m.media-amazon.com/images/I/314axnn4cmL.jpg | https://m.media-amazon.com/images/I/41JGB9G-5vL.jpg | https://m.media-amazon.com/images/I/315pb8Ow1sL.jpg | https://m.media-amazon.com/images/I/31gzTZuYBsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "62.58%",
   "SalePrice": "₹299.00",
   "Country": "Japan"
 }

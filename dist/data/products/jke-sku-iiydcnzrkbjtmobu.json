@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41bvQDRKtkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61z5pDxhq7L.jpg | https://m.media-amazon.com/images/I/31i5e0fgnQL.jpg | https://m.media-amazon.com/images/I/31PZVx667oL.jpg | https://m.media-amazon.com/images/I/31oNZty42FL.jpg | https://m.media-amazon.com/images/I/41ugf9a5vcL.jpg | https://m.media-amazon.com/images/I/318Nmzh0WfL.jpg | https://m.media-amazon.com/images/I/41Xm3XQovML.jpg | https://m.media-amazon.com/images/I/41bvQDRKtkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "19.14%",
   "SalePrice": "₹4,042.00",
   "Model": "US2258"
 }

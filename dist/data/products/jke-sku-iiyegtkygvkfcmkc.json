@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41Pif+Oj4cL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81RR9kCWKvL.jpg | https://m.media-amazon.com/images/I/41tFSUVRGoL.jpg | https://m.media-amazon.com/images/I/41+CDa2ZBNL.jpg | https://m.media-amazon.com/images/I/51FrvfJHVLL.jpg | https://m.media-amazon.com/images/I/41nKSs+QMAL.jpg | https://m.media-amazon.com/images/I/41dRlHjH1bL.jpg | https://m.media-amazon.com/images/I/41Pif+Oj4cL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "67.98%",
   "SalePrice": "₹9,286.00",
   "Model": "K700"
 }

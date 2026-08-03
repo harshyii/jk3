@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41BiF5iiJkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61cShG0S-5L.jpg | https://m.media-amazon.com/images/I/41ThSDVICLL.jpg | https://m.media-amazon.com/images/I/41-ej6gKymL.jpg | https://m.media-amazon.com/images/I/51paxIMtaaL.jpg | https://m.media-amazon.com/images/I/51HqHITaRXL.jpg | https://m.media-amazon.com/images/I/51mHDSy+thL.jpg | https://m.media-amazon.com/images/I/41Wg50+I1yL.jpg | https://m.media-amazon.com/images/I/41BiF5iiJkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,522.02",
   "Model": "DM18D",
   "Country": "USA"

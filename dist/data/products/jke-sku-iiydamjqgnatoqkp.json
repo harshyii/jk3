@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41huhZF1liL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+XQErdlML.jpg | https://m.media-amazon.com/images/I/31RYpRTG-ML.jpg | https://m.media-amazon.com/images/I/41nS4twifFL.jpg | https://m.media-amazon.com/images/I/41vTJaR3K5L.jpg | https://m.media-amazon.com/images/I/41huhZF1liL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "12.56%",
   "SalePrice": "₹3,724.00",
   "Model": "02083000"
 }

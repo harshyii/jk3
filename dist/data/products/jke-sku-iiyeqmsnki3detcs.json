@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51au366th2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Tkw04rMaL.jpg | https://m.media-amazon.com/images/I/41UbW6xtbVL.jpg | https://m.media-amazon.com/images/I/41uYncTXBFL.jpg | https://m.media-amazon.com/images/I/41DPqiK7TkL.jpg | https://m.media-amazon.com/images/I/51+OfCk4PtL.jpg | https://m.media-amazon.com/images/I/51-SyVgF2dL.jpg | https://m.media-amazon.com/images/I/51wjxbEHwKL.jpg | https://m.media-amazon.com/images/I/51au366th2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.72%",
   "SalePrice": "₹3,799.00",
   "Model": "BCCS21V6BMC01"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41I0GlAuw-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xxb59qPaL.jpg | https://m.media-amazon.com/images/I/31uwIA2oaZL.jpg | https://m.media-amazon.com/images/I/41a2f9Y-fNL.jpg | https://m.media-amazon.com/images/I/41I0GlAuw-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "65.49%",
   "SalePrice": "₹2,503.00",
   "Model": "E-01591"
 }

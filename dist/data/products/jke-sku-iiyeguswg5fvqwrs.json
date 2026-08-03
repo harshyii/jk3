@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/5189vGaBkNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71LB0JHdWBL.jpg | https://m.media-amazon.com/images/I/41gGZvzPiuL.jpg | https://m.media-amazon.com/images/I/51ZSXyF9qPL.jpg | https://m.media-amazon.com/images/I/51ndbpiRzxL.jpg | https://m.media-amazon.com/images/I/5189vGaBkNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Set",
-  "Discount": 0,
+  "Discount": "12.35%",
   "SalePrice": "₹74,499.00",
   "Model": "Optimus 4500+",
   "Country": "India"

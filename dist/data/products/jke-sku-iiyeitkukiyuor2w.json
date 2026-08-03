@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51BlWnCzlxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NJcQs4haL.jpg | https://m.media-amazon.com/images/I/41eXeIR4k0L.jpg | https://m.media-amazon.com/images/I/51LWpnT1ZTL.jpg | https://m.media-amazon.com/images/I/51dSVG+QqvL.jpg | https://m.media-amazon.com/images/I/51lSbtlKQcL.jpg | https://m.media-amazon.com/images/I/51xgBkAIa0L.jpg | https://m.media-amazon.com/images/I/51BlWnCzlxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.1765 Milliliters",
-  "Discount": 0,
+  "Discount": "51.83%",
   "SalePrice": "₹6,896.00",
   "Model": "CLY702"
 }

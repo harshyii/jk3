@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/21oe8jurFUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41X3RSNAZyL.jpg | https://m.media-amazon.com/images/I/41X3RSNAZyL.jpg | https://m.media-amazon.com/images/I/31l5R7qjfEL.jpg | https://m.media-amazon.com/images/I/21oe8jurFUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "35%",
   "SalePrice": "₹6,500.00",
   "Model": "Sp-mono-200w"
 }

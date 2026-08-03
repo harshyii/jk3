@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41uWZmMUTiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EEFqgGUIL.jpg | https://m.media-amazon.com/images/I/31HRX66UPzL.jpg | https://m.media-amazon.com/images/I/41uWZmMUTiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.6%",
   "SalePrice": "₹5,896.00",
   "Model": "DT5929-QZ",
   "Country": "China"

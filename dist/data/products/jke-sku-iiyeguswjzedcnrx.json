@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51xNVxmRyfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6111yPbM4IL.jpg | https://m.media-amazon.com/images/I/41DaFbQTISL.jpg | https://m.media-amazon.com/images/I/51dEBVMEstL.jpg | https://m.media-amazon.com/images/I/51haqn4vA8L.jpg | https://m.media-amazon.com/images/I/519tElO1ObL.jpg | https://m.media-amazon.com/images/I/51UPKxwj10L.jpg | https://m.media-amazon.com/images/I/41WChXxKx7L.jpg | https://m.media-amazon.com/images/I/51xNVxmRyfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.01%",
   "SalePrice": "₹2,749.00",
   "Model": "JPT-12V-IMPACT-KIT"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/410Tq64gF5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81hyW0yp5ML.jpg | https://m.media-amazon.com/images/I/51YtqCgUe9L.jpg | https://m.media-amazon.com/images/I/51ZB9pxN3CL.jpg | https://m.media-amazon.com/images/I/41i9ruQLEBL.jpg | https://m.media-amazon.com/images/I/51H2JtF6kgL.jpg | https://m.media-amazon.com/images/I/51n1DLzBG9L.jpg | https://m.media-amazon.com/images/I/51MiWYuNyxL.jpg | https://m.media-amazon.com/images/I/410Tq64gF5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "62.78%",
   "SalePrice": "₹12,204.00",
   "Model": "S40"
 }

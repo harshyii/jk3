@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/61KKNIYjqxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VjrhNSZeL.jpg | https://m.media-amazon.com/images/I/41sRJp+0+wL.jpg | https://m.media-amazon.com/images/I/51F5DOvE6IL.jpg | https://m.media-amazon.com/images/I/515gIZ04ibL.jpg | https://m.media-amazon.com/images/I/61RftgyJsCL.jpg | https://m.media-amazon.com/images/I/61KKNIYjqxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3785.4118 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹19,721.90",
   "Model": "10155"
 }

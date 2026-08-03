@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41SdQFvLXDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81hc95Qi7+L.jpg | https://m.media-amazon.com/images/I/419tfiwXCuL.jpg | https://m.media-amazon.com/images/I/516Fsop0tDL.jpg | https://m.media-amazon.com/images/I/41SdQFvLXDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "56.84%",
   "SalePrice": "₹1,381.27",
   "Model": "420"
 }

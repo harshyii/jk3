@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41MZZZAKR7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71QSxvdr+zL.jpg | https://m.media-amazon.com/images/I/51daLEgeXTL.jpg | https://m.media-amazon.com/images/I/51sq1xquMvL.jpg | https://m.media-amazon.com/images/I/41Kj9scoEqL.jpg | https://m.media-amazon.com/images/I/41UriMr-fpL.jpg | https://m.media-amazon.com/images/I/41RuEy1SqAL.jpg | https://m.media-amazon.com/images/I/51jP-aHQJCL.jpg | https://m.media-amazon.com/images/I/41MZZZAKR7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "75%",
   "SalePrice": "₹3,177.00",
   "Model": "F293"
 }

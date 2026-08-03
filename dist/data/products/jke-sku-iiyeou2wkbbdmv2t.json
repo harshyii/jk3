@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41fd5G2TQsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61epx5MBuAL.jpg | https://m.media-amazon.com/images/I/31EHJPSZLIL.jpg | https://m.media-amazon.com/images/I/41P+C3aVk9L.jpg | https://m.media-amazon.com/images/I/511dV7tY2IL.jpg | https://m.media-amazon.com/images/I/41hxOAy1CAL.jpg | https://m.media-amazon.com/images/I/41PGEX01kNL.jpg | https://m.media-amazon.com/images/I/41fd5G2TQsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.33%",
   "SalePrice": "₹16,999.00",
   "Model": "inv12v105ah",
   "Country": "India"

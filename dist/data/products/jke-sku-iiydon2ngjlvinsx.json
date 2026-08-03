@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51OzlUN5yRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jyf0sdEoL.jpg | https://m.media-amazon.com/images/I/41jWGaAcInL.jpg | https://m.media-amazon.com/images/I/91dC30hC0aL.png | https://m.media-amazon.com/images/I/41NmDCAbqCL.jpg | https://m.media-amazon.com/images/I/31Aevaf-zxL.jpg | https://m.media-amazon.com/images/I/41DZglziTkL.jpg | https://m.media-amazon.com/images/I/41BpQZlr6EL.jpg | https://m.media-amazon.com/images/I/51OzlUN5yRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Milliliters",
-  "Discount": 0,
+  "Discount": "18.4%",
   "SalePrice": "₹399.00",
   "Model": "Invictus_EAN_BBIAEC_GM",
   "Country": "Germany"

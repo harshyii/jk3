@@ -81,9 +81,9 @@
     "https://m.media-amazon.com/images/I/31zvAzTkaGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617Zs0T9ycL.jpg | https://m.media-amazon.com/images/I/31ZfKxYeD1L.jpg | https://m.media-amazon.com/images/I/31O+NrciZ9L.jpg | https://m.media-amazon.com/images/I/21SSjDjFYLL.jpg | https://m.media-amazon.com/images/I/41q0v9q7PVL.jpg | https://m.media-amazon.com/images/I/31n2EDGlPFL.jpg | https://m.media-amazon.com/images/I/31zvAzTkaGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.32%",
   "SalePrice": "₹410.00",
   "Model": "LHLDDDHAIC4N009"
 }

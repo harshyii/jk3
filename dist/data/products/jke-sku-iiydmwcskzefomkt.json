@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31dBwGf07VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41qVXrYzO0L.jpg | https://m.media-amazon.com/images/I/31dBwGf07VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.34%",
   "SalePrice": "₹11,499.00",
   "Model": "RW 14E"
 }

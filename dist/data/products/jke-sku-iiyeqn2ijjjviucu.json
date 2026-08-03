@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41kofYb2swL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31j71KmtUQL.jpg | https://m.media-amazon.com/images/I/31j71KmtUQL.jpg | https://m.media-amazon.com/images/I/41mFWgOxJcL.jpg | https://m.media-amazon.com/images/I/61odhShLCaL.jpg | https://m.media-amazon.com/images/I/41hD9yrOGML.jpg | https://m.media-amazon.com/images/I/41kofYb2swL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "33.28%",
   "SalePrice": "₹800.00",
   "Model": "Car Care Spray for Interior & Exterior",
   "Country": "India"

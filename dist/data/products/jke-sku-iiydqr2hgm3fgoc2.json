@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41dPWMc04fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71tMv5fqiEL.jpg | https://m.media-amazon.com/images/I/41iOtHCv7tL.jpg | https://m.media-amazon.com/images/I/41dPWMc04fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,370.60",
   "Model": "Jadpesmip506nab9"
 }

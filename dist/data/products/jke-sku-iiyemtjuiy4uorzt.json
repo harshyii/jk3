@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/51bxdr0xVUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41fXFPNqWhL.jpg | https://m.media-amazon.com/images/I/41fXFPNqWhL.jpg | https://m.media-amazon.com/images/I/51bxdr0xVUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "46.43%",
   "SalePrice": "₹6,005.00",
   "Model": "RWS 180"
 }

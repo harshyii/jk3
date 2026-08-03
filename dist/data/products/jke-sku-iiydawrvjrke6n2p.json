@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51bE3okUtDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61t2HTvGqaL.jpg | https://m.media-amazon.com/images/I/41QSPPEHF+L.jpg | https://m.media-amazon.com/images/I/51fO-BIviYL.jpg | https://m.media-amazon.com/images/I/51RnQ7VoYuL.jpg | https://m.media-amazon.com/images/I/51bE3okUtDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.53%",
   "SalePrice": "₹53,072.00",
   "Model": "GA4542C"
 }

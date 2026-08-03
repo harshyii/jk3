@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41l4ywQuRkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qKpWimWhL.jpg | https://m.media-amazon.com/images/I/51qKpWimWhL.jpg | https://m.media-amazon.com/images/I/51PhkW+l1IL.jpg | https://m.media-amazon.com/images/I/51PBdygrcmL.jpg | https://m.media-amazon.com/images/I/41OtrVW9qnL.jpg | https://m.media-amazon.com/images/I/41zaltFmxTL.jpg | https://m.media-amazon.com/images/I/41oDUOiQE+L.jpg | https://m.media-amazon.com/images/I/41l4ywQuRkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "33.39%",
   "SalePrice": "₹732.00",
   "Model": "Auto Tools & Supplies"
 }

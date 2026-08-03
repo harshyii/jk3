@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/411AaIKE7IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PHqV18s8L.jpg | https://m.media-amazon.com/images/I/51zmjfN58ZL.jpg | https://m.media-amazon.com/images/I/51RT9-JhSwL.jpg | https://m.media-amazon.com/images/I/41YH70uy4dL.jpg | https://m.media-amazon.com/images/I/51Xwy6hECyL.jpg | https://m.media-amazon.com/images/I/41HcIBs5YSL.jpg | https://m.media-amazon.com/images/I/51qdbIJwa6L.jpg | https://m.media-amazon.com/images/I/411AaIKE7IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.45%",
   "SalePrice": "₹41,216.00",
   "Model": "XSH03Z"
 }

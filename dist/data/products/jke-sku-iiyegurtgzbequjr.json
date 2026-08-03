@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41EZDQd4hOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61lcFEnHgDL.jpg | https://m.media-amazon.com/images/I/41Fachs2UuL.jpg | https://m.media-amazon.com/images/I/51xtv5vOSzL.jpg | https://m.media-amazon.com/images/I/41IqZ0U7ezL.jpg | https://m.media-amazon.com/images/I/519NnMNiR4L.jpg | https://m.media-amazon.com/images/I/412WJLGjh8L.jpg | https://m.media-amazon.com/images/I/41X1+ZcPteL.jpg | https://m.media-amazon.com/images/I/41EZDQd4hOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "5.49%",
   "SalePrice": "₹23,627.00",
   "Model": "KR2000"
 }

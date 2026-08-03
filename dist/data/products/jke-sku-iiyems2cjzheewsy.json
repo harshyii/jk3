@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/312Fz1bEUvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Tqm4JQlWL.jpg | https://m.media-amazon.com/images/I/41IuN1efK6L.jpg | https://m.media-amazon.com/images/I/31MVQf1N9yL.jpg | https://m.media-amazon.com/images/I/31Fk3OUNlrL.jpg | https://m.media-amazon.com/images/I/41S4UYkNKFL.jpg | https://m.media-amazon.com/images/I/31dnv9iSAwL.jpg | https://m.media-amazon.com/images/I/312Fz1bEUvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Grams",
-  "Discount": 0,
+  "Discount": "12.39%",
   "SalePrice": "₹2,199.00",
   "Model": "TWP-112"
 }

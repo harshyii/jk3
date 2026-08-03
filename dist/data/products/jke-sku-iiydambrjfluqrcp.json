@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31gInhcWtXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71v3aOZqLeL.jpg | https://m.media-amazon.com/images/I/31CWlNdIrbL.jpg | https://m.media-amazon.com/images/I/317KVMo5oVL.jpg | https://m.media-amazon.com/images/I/31Mkvcn+cDL.jpg | https://m.media-amazon.com/images/I/41-9WnU8BfL.jpg | https://m.media-amazon.com/images/I/41GYwkKhWgL.jpg | https://m.media-amazon.com/images/I/31gInhcWtXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.3%",
   "SalePrice": "₹267.00",
   "Model": "DT7500",
   "Country": "Czech Republic"

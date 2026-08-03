@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31MKOXy3ZsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NCqxc+14L.jpg | https://m.media-amazon.com/images/I/31kOYs1C9mL.jpg | https://m.media-amazon.com/images/I/41EJdhmzd9L.jpg | https://m.media-amazon.com/images/I/51mlgpK3AyL.jpg | https://m.media-amazon.com/images/I/51H2ECpgYaL.jpg | https://m.media-amazon.com/images/I/51AubBZCXzL.jpg | https://m.media-amazon.com/images/I/515J-Y341bL.jpg | https://m.media-amazon.com/images/I/31MKOXy3ZsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.03%",
   "SalePrice": "₹3,498.00",
   "Model": "E-2257_3/8"
 }

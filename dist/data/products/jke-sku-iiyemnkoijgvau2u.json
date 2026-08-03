@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31IFoQn92ZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51z-MnPqpQL.jpg | https://m.media-amazon.com/images/I/31IFoQn92ZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.13%",
   "SalePrice": "₹16,290.00",
   "Model": "3651-20"
 }

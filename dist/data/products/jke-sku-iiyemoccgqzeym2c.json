@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51RRlU8-X4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61h5bn-CytL.jpg | https://m.media-amazon.com/images/I/41jNwvxGzlL.jpg | https://m.media-amazon.com/images/I/41FesNt3N+L.jpg | https://m.media-amazon.com/images/I/51kwi0r10nL.jpg | https://m.media-amazon.com/images/I/51RRlU8-X4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.03%",
   "SalePrice": "₹6,097.00",
   "Model": "DP4020"
 }

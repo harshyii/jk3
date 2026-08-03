@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41C5MJK1VTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51uUlXUYiWL.jpg | https://m.media-amazon.com/images/I/31stF-vwG5L.jpg | https://m.media-amazon.com/images/I/31-KKRxvpKL.jpg | https://m.media-amazon.com/images/I/31+14HTLsTL.jpg | https://m.media-amazon.com/images/I/41WW5G1nI2L.jpg | https://m.media-amazon.com/images/I/41WP473NWlL.jpg | https://m.media-amazon.com/images/I/418MepQ18WL.jpg | https://m.media-amazon.com/images/I/41C5MJK1VTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.26%",
   "SalePrice": "₹1,989.00",
   "Model": "Solar_Inverter-New"
 }

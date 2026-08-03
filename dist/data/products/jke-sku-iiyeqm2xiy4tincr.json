@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/318YCGPe0ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wvHcG4R3L.jpg | https://m.media-amazon.com/images/I/318YCGPe0ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "7.02%",
   "SalePrice": "₹265.00",
   "Model": "Yupi-12x100x160-sds",
   "Country": "China"

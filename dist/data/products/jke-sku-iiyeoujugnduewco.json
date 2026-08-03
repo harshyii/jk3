@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41xCMYm4D5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41MyKgm-xHL.jpg | https://m.media-amazon.com/images/I/11YVUrrnv7L.jpg | https://m.media-amazon.com/images/I/11WmejJ--eL.jpg | https://m.media-amazon.com/images/I/11YRJkSjjKL.jpg | https://m.media-amazon.com/images/I/11zSXYUe-DL.jpg | https://m.media-amazon.com/images/I/11s6LCiFl3L.jpg | https://m.media-amazon.com/images/I/41exYI1XQyL.jpg | https://m.media-amazon.com/images/I/41xCMYm4D5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "45.15%",
   "SalePrice": "₹379.00",
   "Model": "‎KSI52092605",
   "Country": "‎Hong Kong"

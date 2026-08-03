@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41immF+BOJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615g1FN9F1L.jpg | https://m.media-amazon.com/images/I/41RV7ogYWDL.jpg | https://m.media-amazon.com/images/I/51dOUlVKQ6L.jpg | https://m.media-amazon.com/images/I/511lf5O16QL.jpg | https://m.media-amazon.com/images/I/41X2ClTa27L.jpg | https://m.media-amazon.com/images/I/51qDOocTwiL.jpg | https://m.media-amazon.com/images/I/41immF+BOJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "45.41%",
   "SalePrice": "₹2,729.00",
   "Model": "872AID244.RL.5090.Inverter_CKR"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/519bYPHAl7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81t6aceiytL.jpg | https://m.media-amazon.com/images/I/519bYPHAl7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.67%",
   "SalePrice": "₹6,989.00",
   "Model": "CRHLI201881"
 }

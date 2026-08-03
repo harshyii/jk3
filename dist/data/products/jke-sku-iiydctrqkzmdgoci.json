@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/31ZnLgO-NeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31ZnLgO-NeL.jpg | https://m.media-amazon.com/images/I/31ZnLgO-NeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.8%",
   "SalePrice": "₹324.00",
   "Model": "SM"
 }

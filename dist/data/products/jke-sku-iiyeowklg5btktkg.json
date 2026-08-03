@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41VKPRmbyTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51gCKRxe-TL.jpg | https://m.media-amazon.com/images/I/31lqNaWb8iL.jpg | https://m.media-amazon.com/images/I/41IWoIf7NZL.jpg | https://m.media-amazon.com/images/I/41VKPRmbyTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "48.92%",
   "SalePrice": "₹45,950.00",
   "Model": "SW-3K-MAX-PRO-HDG-NB (6P)"
 }

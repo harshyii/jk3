@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/416XIJdzjtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SvVfa0otL.jpg | https://m.media-amazon.com/images/I/416XIJdzjtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "43.75%",
   "SalePrice": "₹1,900.00",
   "Model": "LDTIN53049602"
 }

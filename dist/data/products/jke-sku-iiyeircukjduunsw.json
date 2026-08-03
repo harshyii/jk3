@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/21Bh+SVfxvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41iRwNB-UpL.jpg | https://m.media-amazon.com/images/I/21MihvqN9PL.jpg | https://m.media-amazon.com/images/I/31PODDHvaLL.jpg | https://m.media-amazon.com/images/I/21Bh+SVfxvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.68%",
   "SalePrice": "₹249.00",
   "Model": "TSW 10"
 }

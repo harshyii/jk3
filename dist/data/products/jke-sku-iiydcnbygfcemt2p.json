@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41Xag7GiolL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71lMiR-SADL.jpg | https://m.media-amazon.com/images/I/41U+6ipAn7L.jpg | https://m.media-amazon.com/images/I/410YsJGSUwL.jpg | https://m.media-amazon.com/images/I/41I2WRowMYL.jpg | https://m.media-amazon.com/images/I/41Xag7GiolL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.49%",
   "SalePrice": "₹499.00",
   "Model": "fuji_albumlomo_pink"
 }

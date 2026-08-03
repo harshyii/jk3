@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51nlIeJAvNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61l6e-IdevL.jpg | https://m.media-amazon.com/images/I/41M3tUV8+6L.jpg | https://m.media-amazon.com/images/I/41PXCpTHJcL.jpg | https://m.media-amazon.com/images/I/31ubo85h6vL.jpg | https://m.media-amazon.com/images/I/411vhhDcCtL.jpg | https://m.media-amazon.com/images/I/51nlIeJAvNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "47.51%",
   "SalePrice": "₹2,099.00",
   "Country": "India"
 }

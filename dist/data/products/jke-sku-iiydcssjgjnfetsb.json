@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/31H5wrEtfKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DnWhPweoL.jpg | https://m.media-amazon.com/images/I/41oaBy6HPbL.jpg | https://m.media-amazon.com/images/I/41ba-WJ2yvL.jpg | https://m.media-amazon.com/images/I/414c6F-WItL.jpg | https://m.media-amazon.com/images/I/41ZPjWLSRRL.jpg | https://m.media-amazon.com/images/I/41QL3iwG2FL.jpg | https://m.media-amazon.com/images/I/41fUStPdkQL.jpg | https://m.media-amazon.com/images/I/31H5wrEtfKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "14.03%",
   "SalePrice": "₹82,787.41",
   "Model": "CC301DZ"
 }

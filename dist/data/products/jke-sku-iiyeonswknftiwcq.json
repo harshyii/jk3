@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/4195jPMKUFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61usUWDDfDL.jpg | https://m.media-amazon.com/images/I/31DD4GKNz0L.jpg | https://m.media-amazon.com/images/I/3142fr3qEXL.jpg | https://m.media-amazon.com/images/I/31zLOo+jCoL.jpg | https://m.media-amazon.com/images/I/4195jPMKUFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "52%",
   "SalePrice": "₹4,800.00",
   "Model": "KV-0810"
 }

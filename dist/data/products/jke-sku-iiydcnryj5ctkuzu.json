@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jX1eb6O0L.jpg | https://m.media-amazon.com/images/I/31cJQMbgW+L.jpg | https://m.media-amazon.com/images/I/51wacqDIXuL.jpg | https://m.media-amazon.com/images/I/41JVYj6qpYL.jpg | https://m.media-amazon.com/images/I/41DkAh3RyTL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "29.16%",
   "SalePrice": "₹3,749.00",
   "Model": "GL250-GB"
 }

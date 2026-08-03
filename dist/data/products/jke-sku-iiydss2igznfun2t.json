@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31hbz3V7X3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eh1tUX23L.jpg | https://m.media-amazon.com/images/I/31tsYJBVeuL.jpg | https://m.media-amazon.com/images/I/21sGPS+Mx+L.jpg | https://m.media-amazon.com/images/I/412oocD+K9L.jpg | https://m.media-amazon.com/images/I/31hbz3V7X3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Count",
-  "Discount": 0,
+  "Discount": "42.92%",
   "SalePrice": "₹399.00",
   "Country": "India"
 }

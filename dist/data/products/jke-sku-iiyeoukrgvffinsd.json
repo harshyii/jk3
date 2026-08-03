@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51Z4IWBJahL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-igzNzrQL.jpg | https://m.media-amazon.com/images/I/31YKuJ8CoTL.jpg | https://m.media-amazon.com/images/I/41GJifQ3G0L.jpg | https://m.media-amazon.com/images/I/41MYhWX73rL.jpg | https://m.media-amazon.com/images/I/41dSime+F4L.jpg | https://m.media-amazon.com/images/I/418bhbnHvGL.jpg | https://m.media-amazon.com/images/I/311iPn6ZJLL.jpg | https://m.media-amazon.com/images/I/51Z4IWBJahL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹999.00",
   "Model": "Wireless",
   "Country": "India"

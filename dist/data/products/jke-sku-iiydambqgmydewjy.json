@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41bKQBGfFbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415DU8erpjL.jpg | https://m.media-amazon.com/images/I/31HtRzc+KCL.jpg | https://m.media-amazon.com/images/I/31X6OZb+5KL.jpg | https://m.media-amazon.com/images/I/31JlkUmuIEL.jpg | https://m.media-amazon.com/images/I/41nA-55BR9L.jpg | https://m.media-amazon.com/images/I/41u8J0fX7hL.jpg | https://m.media-amazon.com/images/I/41gpmZxzwFL.jpg | https://m.media-amazon.com/images/I/41bKQBGfFbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "65.37%",
   "SalePrice": "₹5,431.71",
   "Model": "225-02"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41OLkuZ0TYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yw4ZjK+aL.jpg | https://m.media-amazon.com/images/I/41THb3yJETL.jpg | https://m.media-amazon.com/images/I/41BOj0iswRL.jpg | https://m.media-amazon.com/images/I/41OLkuZ0TYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹15,629.82",
   "Model": "P3105"
 }

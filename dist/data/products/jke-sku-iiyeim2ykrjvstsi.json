@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51ffg89FS-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510SxPHXs8L.jpg | https://m.media-amazon.com/images/I/510SxPHXs8L.jpg | https://m.media-amazon.com/images/I/51UnPMniTrL.jpg | https://m.media-amazon.com/images/I/61RjXTWjLtL.jpg | https://m.media-amazon.com/images/I/51kMWvRsbRL.jpg | https://m.media-amazon.com/images/I/51ffg89FS-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "20.46%",
   "SalePrice": "₹3,643.00",
   "Model": "MG2008"
 }

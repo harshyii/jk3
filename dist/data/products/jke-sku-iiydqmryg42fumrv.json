@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51yomyB9dzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7145QucZOKL.jpg | https://m.media-amazon.com/images/I/418WY3EwGLL.jpg | https://m.media-amazon.com/images/I/51kftJMcXdL.jpg | https://m.media-amazon.com/images/I/51Z4sz19dhL.jpg | https://m.media-amazon.com/images/I/51Shhp77qXL.jpg | https://m.media-amazon.com/images/I/511vIfqB7RL.jpg | https://m.media-amazon.com/images/I/51yomyB9dzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "28.43%",
   "SalePrice": "₹27,197.00",
   "Model": "45355"
 }

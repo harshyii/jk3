@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/51fJJBvsBML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719C4XWV+GL.jpg | https://m.media-amazon.com/images/I/51fJJBvsBML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "46.85%",
   "SalePrice": "₹8,609.00",
   "Model": "CAIWLI208"
 }

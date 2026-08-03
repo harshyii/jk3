@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41t6+PGTvQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81j0J4l4S6L.jpg | https://m.media-amazon.com/images/I/41dageyXAYL.jpg | https://m.media-amazon.com/images/I/41OuzaX3d-L.jpg | https://m.media-amazon.com/images/I/41pmlbZpRnL.jpg | https://m.media-amazon.com/images/I/31mDdl6+h9L.jpg | https://m.media-amazon.com/images/I/41s02wX85SL.jpg | https://m.media-amazon.com/images/I/41pQ0sF-lxL.jpg | https://m.media-amazon.com/images/I/41t6+PGTvQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹29,511.00",
   "Model": "RPD18BL2-0"
 }

@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31rPSU5bhZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61AZtE8anUL.jpg | https://m.media-amazon.com/images/I/21GqyyAXpML.jpg | https://m.media-amazon.com/images/I/412QzZZYlyL.jpg | https://m.media-amazon.com/images/I/412zwU01wYL.jpg | https://m.media-amazon.com/images/I/31rPSU5bhZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.98%",
   "SalePrice": "₹1,700.04",
   "Model": "WST/01/ST"
 }

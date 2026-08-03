@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/412vWYUWFUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61U0LKHyVkL.jpg | https://m.media-amazon.com/images/I/41evft2IBuL.jpg | https://m.media-amazon.com/images/I/412vWYUWFUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "650.00 Milliliters",
-  "Discount": 0,
+  "Discount": "36.14%",
   "SalePrice": "₹493.00",
   "Model": "CP650",
   "Country": "India"

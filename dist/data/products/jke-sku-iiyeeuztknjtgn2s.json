@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41wnKHcbSZL.jpg | https://m.media-amazon.com/images/I/41wnKHcbSZL.jpg | https://m.media-amazon.com/images/I/31lgL2egHSL.jpg | https://m.media-amazon.com/images/I/51jed+VvMuL.jpg | https://m.media-amazon.com/images/I/41WbmOwifiL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹840.00",
   "Model": "‎Coolant",
   "Country": "‎India"

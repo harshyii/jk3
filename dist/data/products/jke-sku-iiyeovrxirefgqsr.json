@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/51UB46BGavL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81faaAPW03L.jpg | https://m.media-amazon.com/images/I/51DL3p+JnQL.jpg | https://m.media-amazon.com/images/I/51O0f2C7GlL.jpg | https://m.media-amazon.com/images/I/41luLUlB-EL.jpg | https://m.media-amazon.com/images/I/51fAH7WpVsL.jpg | https://m.media-amazon.com/images/I/517o8bwB28L.jpg | https://m.media-amazon.com/images/I/51n5uI4nXxL.jpg | https://m.media-amazon.com/images/I/51UB46BGavL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "51.82%",
   "SalePrice": "₹3,999.00",
   "Model": "DCJZ2039"
 }

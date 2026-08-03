@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51uvDGHN0eL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81UWlA92smL.jpg | https://m.media-amazon.com/images/I/510zygpXN8L.jpg | https://m.media-amazon.com/images/I/21edDXkQmJL.jpg | https://m.media-amazon.com/images/I/31MFR02XwZL.jpg | https://m.media-amazon.com/images/I/21GJA7dAFZL.jpg | https://m.media-amazon.com/images/I/51uvDGHN0eL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "45.5%",
   "SalePrice": "₹11,869.00",
   "Model": "CIWLI2085"
 }

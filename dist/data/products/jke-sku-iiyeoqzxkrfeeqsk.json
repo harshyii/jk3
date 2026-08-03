@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51Z7186rKiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31nK1xE+RyL.jpg | https://m.media-amazon.com/images/I/31nK1xE+RyL.jpg | https://m.media-amazon.com/images/I/51veBEWUzXL.jpg | https://m.media-amazon.com/images/I/41mVFSS6QYL.jpg | https://m.media-amazon.com/images/I/51vGdgjIR-L.jpg | https://m.media-amazon.com/images/I/51VJ3PzRbtL.jpg | https://m.media-amazon.com/images/I/51Z7186rKiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹999.00",
   "Model": "Basic Drill 400W"
 }

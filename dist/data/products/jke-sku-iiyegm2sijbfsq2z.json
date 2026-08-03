@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AOlV3gxYL.jpg | https://m.media-amazon.com/images/I/31pXZd5iGYL.jpg | https://m.media-amazon.com/images/I/61nbsVz+MqL.jpg | https://m.media-amazon.com/images/I/41wEvkn3X7L.jpg | https://m.media-amazon.com/images/I/61SLlWBR77L.jpg | https://m.media-amazon.com/images/I/41YkZWUaoSL.jpg | https://m.media-amazon.com/images/I/414x5Je7k5L.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.55%",
   "SalePrice": "₹10,695.00",
   "Model": "DCF911N-B1"
 }

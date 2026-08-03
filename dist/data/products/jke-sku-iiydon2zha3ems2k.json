@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51mwsbbJlSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41zWPujjHeL.jpg | https://m.media-amazon.com/images/I/21Kl4D1k8TL.jpg | https://m.media-amazon.com/images/I/41YE+T+9EcL.jpg | https://m.media-amazon.com/images/I/41XpkpMzE1L.jpg | https://m.media-amazon.com/images/I/41UIWwVrpaL.jpg | https://m.media-amazon.com/images/I/41--MAOCr2L.jpg | https://m.media-amazon.com/images/I/418VlEJLP5L.jpg | https://m.media-amazon.com/images/I/51mwsbbJlSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "38.94%",
   "SalePrice": "₹8,491.00",
   "Model": "2050-15"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51s1fGyjp2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Cpev5ngdL.jpg | https://m.media-amazon.com/images/I/41BCdbWrGRL.jpg | https://m.media-amazon.com/images/I/61+5fyi-hIL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51mfezRqvUL.jpg | https://m.media-amazon.com/images/I/51BbPNAnr6L.jpg | https://m.media-amazon.com/images/I/51Q+qv9UFLL.jpg | https://m.media-amazon.com/images/I/51+sfnWPsSL.jpg | https://m.media-amazon.com/images/I/51s1fGyjp2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "450.0 Milliliters",
-  "Discount": 0,
+  "Discount": "57.22%",
   "SalePrice": "₹299.00",
   "Country": "India"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/315Oq2xxnDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+Cwbj5zKL.jpg | https://m.media-amazon.com/images/I/21PzMVkFlcL.jpg | https://m.media-amazon.com/images/I/31VYNXjwHpL.jpg | https://m.media-amazon.com/images/I/312sl5jdP3L.jpg | https://m.media-amazon.com/images/I/315Oq2xxnDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.5%",
   "SalePrice": "₹149.00",
   "Model": "1/2\"BI- HEX SOCKET-22"
 }

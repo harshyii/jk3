@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41mbIdFVszL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xl38UmsIL.jpg | https://m.media-amazon.com/images/I/51oKO59bjpL.jpg | https://m.media-amazon.com/images/I/71etRz9iK7L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51-dc1fPdWL.jpg | https://m.media-amazon.com/images/I/41PTcFg1KkL.jpg | https://m.media-amazon.com/images/I/41lsA9TSSTL.jpg | https://m.media-amazon.com/images/I/51dOdtGUYEL.jpg | https://m.media-amazon.com/images/I/41mbIdFVszL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.0 Count",
-  "Discount": 0,
+  "Discount": "9.55%",
   "SalePrice": "₹199.00",
   "Country": "Vietnam"
 }

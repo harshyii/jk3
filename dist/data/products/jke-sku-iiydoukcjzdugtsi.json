@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51VCkxnyveL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MdE9akCVL.jpg | https://m.media-amazon.com/images/I/31DSMpWwPsL.jpg | https://m.media-amazon.com/images/I/51-r5p44lML.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41G0T7yt95L.jpg | https://m.media-amazon.com/images/I/51Xif4JzP8L.jpg | https://m.media-amazon.com/images/I/51PWpjG-gYL.jpg | https://m.media-amazon.com/images/I/51ZhspnJBxL.jpg | https://m.media-amazon.com/images/I/51VCkxnyveL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "1.79%",
   "SalePrice": "₹384.00",
   "Model": "181237"
 }

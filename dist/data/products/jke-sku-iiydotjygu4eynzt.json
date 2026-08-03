@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YbTgXn3GL.jpg | https://m.media-amazon.com/images/I/41XgHLZ6xIL.jpg | https://m.media-amazon.com/images/I/31MnNWNNjYL.jpg | https://m.media-amazon.com/images/I/41FgoX-FZ-L.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "33.58%",
   "SalePrice": "₹265.00",
   "Model": "FSP+06"
 }

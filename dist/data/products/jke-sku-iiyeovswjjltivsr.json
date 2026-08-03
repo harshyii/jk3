@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51B3TdpqRrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/419QPz022QL.jpg | https://m.media-amazon.com/images/I/21T1F2M3wDL.jpg | https://m.media-amazon.com/images/I/21Bir-2FYdL.jpg | https://m.media-amazon.com/images/I/21MijWtCRGL.jpg | https://m.media-amazon.com/images/I/51naBF9uArL.jpg | https://m.media-amazon.com/images/I/51IFSGHCkQL.jpg | https://m.media-amazon.com/images/I/51hffi4thiL.jpg | https://m.media-amazon.com/images/I/51B3TdpqRrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "57.2%",
   "SalePrice": "₹449.00",
   "Model": "D100602"
 }

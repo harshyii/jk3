@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51DQ88IuUBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81S2zodHxfL.jpg | https://m.media-amazon.com/images/I/41hp2ga-M0L.jpg | https://m.media-amazon.com/images/I/51vbm44M2-L.jpg | https://m.media-amazon.com/images/I/41OT0sU4JeL.jpg | https://m.media-amazon.com/images/I/5104wYjrZRL.jpg | https://m.media-amazon.com/images/I/51DQ88IuUBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹29,456.00",
   "Model": "R18CSP-0"
 }

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41IH+6tAdNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51LaEciCZAL.jpg | https://m.media-amazon.com/images/I/31ZRtsjEnOL.jpg | https://m.media-amazon.com/images/I/410AIVJaXPL.jpg | https://m.media-amazon.com/images/I/51kQq+A3jQL.jpg | https://m.media-amazon.com/images/I/41ydkfdCi+L.jpg | https://m.media-amazon.com/images/I/41hIYOGis4L.jpg | https://m.media-amazon.com/images/I/41IH+6tAdNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.41%",
   "SalePrice": "₹3,137.00",
   "Model": "PCG002",
   "Country": "USA"

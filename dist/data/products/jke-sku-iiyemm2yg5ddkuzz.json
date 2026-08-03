@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/419Bb-0iYeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ofREUQ9LL.jpg | https://m.media-amazon.com/images/I/41NH91TdgVL.jpg | https://m.media-amazon.com/images/I/41mvcCWHGML.jpg | https://m.media-amazon.com/images/I/51N0NuVCHUL.jpg | https://m.media-amazon.com/images/I/51VDZLj-E9L.jpg | https://m.media-amazon.com/images/I/41BeigKgatL.jpg | https://m.media-amazon.com/images/I/419Bb-0iYeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹10,059.00",
   "Model": "ELBME"
 }

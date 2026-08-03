@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51-uH+Mx4WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41hYxn6N+0L.jpg | https://m.media-amazon.com/images/I/31NSKkIDlmL.jpg | https://m.media-amazon.com/images/I/518SDYqE60L.jpg | https://m.media-amazon.com/images/I/618ju5iQ-vL.jpg | https://m.media-amazon.com/images/I/31HaIzI81jL.jpg | https://m.media-amazon.com/images/I/31cgf0UFDdL.jpg | https://m.media-amazon.com/images/I/518MsW+xUuL.jpg | https://m.media-amazon.com/images/I/51-uH+Mx4WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.7%",
   "SalePrice": "₹2,979.00",
   "Model": "G13MGAS9Z"
 }

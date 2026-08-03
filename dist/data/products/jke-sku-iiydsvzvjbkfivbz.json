@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/11NyiO2vJxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/11iwV0hen8L.jpg | https://m.media-amazon.com/images/I/11iwV0hen8L.jpg | https://m.media-amazon.com/images/I/11NyiO2vJxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "10.49%",
   "SalePrice": "₹16,111.00",
   "Model": "Dong DCK 11kg Hammer"
 }

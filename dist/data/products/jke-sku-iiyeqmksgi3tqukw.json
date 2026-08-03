@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51EcawFN-fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eRuJBsN7L.jpg | https://m.media-amazon.com/images/I/51NM2UtGgAL.jpg | https://m.media-amazon.com/images/I/51oPmrNJPQL.jpg | https://m.media-amazon.com/images/I/51ivyFS62mL.jpg | https://m.media-amazon.com/images/I/51+5PKdpZsL.jpg | https://m.media-amazon.com/images/I/51dqCJkD+4L.jpg | https://m.media-amazon.com/images/I/51EERD8EgEL.jpg | https://m.media-amazon.com/images/I/51EcawFN-fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Piece",
-  "Discount": 0,
+  "Discount": "27.78%",
   "SalePrice": "₹6,499.00",
   "Model": "TH2COM71"
 }

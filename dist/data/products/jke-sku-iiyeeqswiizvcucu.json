@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/31ZUZrjfCkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/415qyJ5ArgL.jpg | https://m.media-amazon.com/images/I/31ZUZrjfCkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹14,314.00",
   "Model": "49-66-6336"
 }

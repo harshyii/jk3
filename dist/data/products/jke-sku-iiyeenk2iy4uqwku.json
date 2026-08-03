@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51SelqE5wpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fZeok--fL.jpg | https://m.media-amazon.com/images/I/51r7wFpSFHL.jpg | https://m.media-amazon.com/images/I/51Z7TDf13rL.jpg | https://m.media-amazon.com/images/I/51V0Hx0kWcL.jpg | https://m.media-amazon.com/images/I/51Kw5ztC3aL.jpg | https://m.media-amazon.com/images/I/41M7IH9VH9L.jpg | https://m.media-amazon.com/images/I/51SelqE5wpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.97%",
   "SalePrice": "₹1,151.00",
   "Model": "IBL HT17-30"
 }

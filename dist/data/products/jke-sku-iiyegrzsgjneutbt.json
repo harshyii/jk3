@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/513k7ldvz2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61N0xXjCiML.jpg | https://m.media-amazon.com/images/I/41jL8RFk8wL.jpg | https://m.media-amazon.com/images/I/51hrzPOIzCL.jpg | https://m.media-amazon.com/images/I/31c9TU2qCaL.jpg | https://m.media-amazon.com/images/I/21gDbbdn7CL.jpg | https://m.media-amazon.com/images/I/41o9ZiuSu0L.jpg | https://m.media-amazon.com/images/I/310dYBq64KL.jpg | https://m.media-amazon.com/images/I/513k7ldvz2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "40.01%",
   "SalePrice": "₹2,999.00",
   "Model": "HKTS12201"
 }

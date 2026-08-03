@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41XxD5FiZ0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61XbGif8RmL.jpg | https://m.media-amazon.com/images/I/31eMMBeNeYL.jpg | https://m.media-amazon.com/images/I/4198LZM1xcL.jpg | https://m.media-amazon.com/images/I/31mdX0nVcWL.jpg | https://m.media-amazon.com/images/I/51Tfss6Z4rL.jpg | https://m.media-amazon.com/images/I/417+Ywqo3ML.jpg | https://m.media-amazon.com/images/I/31tW5-wf4-L.jpg | https://m.media-amazon.com/images/I/41XxD5FiZ0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.26%",
   "SalePrice": "₹1,249.00",
   "Model": "1600A033BK"
 }

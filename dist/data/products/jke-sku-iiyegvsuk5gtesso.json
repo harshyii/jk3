@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41U6Z4mwzmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/517b2ZxKFLL.jpg | https://m.media-amazon.com/images/I/31aCKsX4i0L.jpg | https://m.media-amazon.com/images/I/51s0M2mbLQL.jpg | https://m.media-amazon.com/images/I/31zXFw3BDQL.jpg | https://m.media-amazon.com/images/I/31qJ8H7r6XL.jpg | https://m.media-amazon.com/images/I/41U6Z4mwzmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "32.73%",
   "SalePrice": "₹2,690.00",
   "Model": "Injectable mortar HIT-RE 10 580/1-A1"
 }

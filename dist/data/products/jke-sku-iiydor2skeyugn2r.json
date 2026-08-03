@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31wWZKUQn4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61pfcTugAbL.jpg | https://m.media-amazon.com/images/I/31wWZKUQn4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.36%",
   "SalePrice": "₹6,070.00",
   "Model": "UPS EB 1100",
   "Country": "India"

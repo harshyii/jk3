@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/11MvBPu6j9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41SllDun20L.jpg | https://m.media-amazon.com/images/I/11ZyycixSLL.jpg | https://m.media-amazon.com/images/I/21q02zuUYuL.jpg | https://m.media-amazon.com/images/I/21Q9HEJSq0L.jpg | https://m.media-amazon.com/images/I/11MvBPu6j9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.68%",
   "SalePrice": "₹222.00",
   "Model": "DRXB"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/31EuOwLTCfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PiqCCuPtL.jpg | https://m.media-amazon.com/images/I/31CdQAVwiwL.jpg | https://m.media-amazon.com/images/I/41Eqh-76NKL.jpg | https://m.media-amazon.com/images/I/417FYgb6EdL.jpg | https://m.media-amazon.com/images/I/41l5mhRCheL.jpg | https://m.media-amazon.com/images/I/41L0M74IfxL.jpg | https://m.media-amazon.com/images/I/419ob2r3WCL.jpg | https://m.media-amazon.com/images/I/31EuOwLTCfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹499.00",
   "Model": "3-METER",
   "Country": "India"

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51zSUBT65gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Dvc1XJnML.jpg | https://m.media-amazon.com/images/I/31FTGWahUYL.jpg | https://m.media-amazon.com/images/I/41G560yGi0L.jpg | https://m.media-amazon.com/images/I/41L9CO8GuhL.jpg | https://m.media-amazon.com/images/I/61JaDIrr38L.jpg | https://m.media-amazon.com/images/I/51NvEvH5ASL.jpg | https://m.media-amazon.com/images/I/51ejym9aduL.jpg | https://m.media-amazon.com/images/I/51zSUBT65gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.00 Milliliters",
-  "Discount": 0,
+  "Discount": "70.54%",
   "SalePrice": "₹4,346.21",
   "Model": "GAP_619_16SW"
 }

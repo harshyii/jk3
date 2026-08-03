@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51VEqoP97KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VJCTA16sL.jpg | https://m.media-amazon.com/images/I/51VJCTA16sL.jpg | https://m.media-amazon.com/images/I/51oNsadhqjL.jpg | https://m.media-amazon.com/images/I/518TPymJrIL.jpg | https://m.media-amazon.com/images/I/51VEqoP97KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "7.41%",
   "SalePrice": "₹12,499.00",
   "Model": "SolarPanel_330watt"
 }

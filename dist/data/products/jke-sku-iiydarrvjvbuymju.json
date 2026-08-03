@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51tprQpXvKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71wQ+NQlUVL.jpg | https://m.media-amazon.com/images/I/41R1-NleWaL.jpg | https://m.media-amazon.com/images/I/51kWVHbrK4L.jpg | https://m.media-amazon.com/images/I/51pbdzBXiQL.jpg | https://m.media-amazon.com/images/I/513SbQrRfXL.jpg | https://m.media-amazon.com/images/I/61qZ0DUahbL.jpg | https://m.media-amazon.com/images/I/51R7K+4QhJL.jpg | https://m.media-amazon.com/images/I/51tprQpXvKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,129.64",
   "Country": "‎USA"
 }

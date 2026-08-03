@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51-SgVdQy0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/810AOd1Yf1L.jpg | https://m.media-amazon.com/images/I/51AoHMor1mL.jpg | https://m.media-amazon.com/images/I/51Me5TCs2UL.jpg | https://m.media-amazon.com/images/I/51s8mYv5lYL.jpg | https://m.media-amazon.com/images/I/51zoYttESbL.jpg | https://m.media-amazon.com/images/I/61X5Meyij6L.jpg | https://m.media-amazon.com/images/I/51xBwppPJvL.jpg | https://m.media-amazon.com/images/I/51-SgVdQy0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2365.8824 Milliliters",
-  "Discount": 0,
+  "Discount": "56.45%",
   "SalePrice": "₹19,717.00",
   "Model": "HOL_113"
 }

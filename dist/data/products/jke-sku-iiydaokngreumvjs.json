@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51DwAjPkM8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61avUoJhIjL.jpg | https://m.media-amazon.com/images/I/41ojuhD+i9L.jpg | https://m.media-amazon.com/images/I/41fofvBGLoL.jpg | https://m.media-amazon.com/images/I/51DwAjPkM8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.53%",
   "SalePrice": "₹500.00",
   "Model": "‎tw2"
 }

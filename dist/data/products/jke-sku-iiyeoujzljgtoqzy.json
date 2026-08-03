@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31kjPpXKidL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510hpHXOTDL.jpg | https://m.media-amazon.com/images/I/31kjPpXKidL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36%",
   "SalePrice": "₹1,600.00",
   "Model": "IC-002"
 }

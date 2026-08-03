@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/313m7j1AjrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71r+HM1tg9L.jpg | https://m.media-amazon.com/images/I/41dWDr81VbL.jpg | https://m.media-amazon.com/images/I/41PNBSHLz7L.jpg | https://m.media-amazon.com/images/I/41f85dDN5QL.jpg | https://m.media-amazon.com/images/I/41VLCFGcyhL.jpg | https://m.media-amazon.com/images/I/41uc9744AIL.jpg | https://m.media-amazon.com/images/I/41bVk50GFEL.jpg | https://m.media-amazon.com/images/I/313m7j1AjrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.0 Count",
-  "Discount": 0,
+  "Discount": "48.01%",
   "SalePrice": "₹4,732.00",
   "Model": "HS1938"
 }

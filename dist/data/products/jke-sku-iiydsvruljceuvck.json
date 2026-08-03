@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51acrNjp1kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71te5S6QuBL.jpg | https://m.media-amazon.com/images/I/414F4vaJwSL.jpg | https://m.media-amazon.com/images/I/41yNKWYZVFL.jpg | https://m.media-amazon.com/images/I/51CLMjpJiaL.jpg | https://m.media-amazon.com/images/I/41yyf45F2lL.jpg | https://m.media-amazon.com/images/I/51oVAGomCoL.jpg | https://m.media-amazon.com/images/I/51zcjTFsN4L.jpg | https://m.media-amazon.com/images/I/51acrNjp1kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.82%",
   "SalePrice": "₹41,080.50",
   "Model": "AMCSolarPanel-100W"
 }

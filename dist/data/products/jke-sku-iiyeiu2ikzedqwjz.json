@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31i-KtqiNwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51d3Be2LpTL.jpg | https://m.media-amazon.com/images/I/31JheJufk5L.jpg | https://m.media-amazon.com/images/I/51AazGxE3LL.jpg | https://m.media-amazon.com/images/I/41zPlXKu+EL.jpg | https://m.media-amazon.com/images/I/41GBvyabSLL.jpg | https://m.media-amazon.com/images/I/31x1Qetaj+L.jpg | https://m.media-amazon.com/images/I/31i-KtqiNwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.51%",
   "SalePrice": "₹2,997.00",
   "Model": "EDG-100S"
 }

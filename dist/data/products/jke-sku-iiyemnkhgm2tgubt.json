@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51C5K3Mm0BL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pm5A9mrYL.jpg | https://m.media-amazon.com/images/I/41DSE3IW7HL.jpg | https://m.media-amazon.com/images/I/51m68e0iE9L.jpg | https://m.media-amazon.com/images/I/51TTHMm2vnL.jpg | https://m.media-amazon.com/images/I/51Gt3lZG3rL.jpg | https://m.media-amazon.com/images/I/51-5zQjHlOL.jpg | https://m.media-amazon.com/images/I/51C5K3Mm0BL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "40.08%",
   "SalePrice": "₹299.00",
   "Model": "CF-2517-Grey & Black"
 }

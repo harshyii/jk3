@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41a9o6SHvNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51B55muDkVL.jpg | https://m.media-amazon.com/images/I/31WYQ4xvKcL.jpg | https://m.media-amazon.com/images/I/316PsaJkkbL.jpg | https://m.media-amazon.com/images/I/31nZMvEOBHL.jpg | https://m.media-amazon.com/images/I/41a9o6SHvNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.91%",
   "SalePrice": "₹6,646.00",
   "Model": "XPT-436"
 }

@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51WjqfspmKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/516H0VcEX1L.jpg | https://m.media-amazon.com/images/I/417N6oVD8LL.jpg | https://m.media-amazon.com/images/I/41FpK3qPk5L.jpg | https://m.media-amazon.com/images/I/51JaM0dVlQL.jpg | https://m.media-amazon.com/images/I/51nLm1r3gnL.jpg | https://m.media-amazon.com/images/I/51G7K2PH97L.jpg | https://m.media-amazon.com/images/I/41s1jraPZIL.jpg | https://m.media-amazon.com/images/I/51WjqfspmKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.65%",
   "SalePrice": "₹10,196.40",
   "Model": "PCL206B"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31nHLY2dmML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614hieD5jeL.jpg | https://m.media-amazon.com/images/I/31jkMW8QtsL.jpg | https://m.media-amazon.com/images/I/31T4H8OHBVL.jpg | https://m.media-amazon.com/images/I/31xng4JUhnL.jpg | https://m.media-amazon.com/images/I/31nHLY2dmML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17%",
   "SalePrice": "₹249.00",
   "Model": "1/2\" HEX SOCKET-32"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41WpwbUyhrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51V6QKzudwL.jpg | https://m.media-amazon.com/images/I/31wApHU4lLL.jpg | https://m.media-amazon.com/images/I/41t9SdschEL.jpg | https://m.media-amazon.com/images/I/41ojRcWh9aL.jpg | https://m.media-amazon.com/images/I/41WpwbUyhrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "51.16%",
   "SalePrice": "₹2,979.00",
   "Model": "Evocook PB-13"
 }

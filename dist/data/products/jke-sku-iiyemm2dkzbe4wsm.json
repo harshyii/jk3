@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51vqucbC6VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81+Kc0roFiL.jpg | https://m.media-amazon.com/images/I/51YtnLMo+ZL.jpg | https://m.media-amazon.com/images/I/51Di2B6rGkL.jpg | https://m.media-amazon.com/images/I/51py6ge4AVL.jpg | https://m.media-amazon.com/images/I/51ahfbDGs4L.jpg | https://m.media-amazon.com/images/I/51JrJGahTYL.jpg | https://m.media-amazon.com/images/I/51vqucbC6VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.34%",
   "SalePrice": "₹8,499.00",
   "Model": "CIWLI20236"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31AXHM57QoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Z69hZXwnL.jpg | https://m.media-amazon.com/images/I/413PUJnf6+L.jpg | https://m.media-amazon.com/images/I/41lIRLce6oL.jpg | https://m.media-amazon.com/images/I/51zBpy+jHdL.jpg | https://m.media-amazon.com/images/I/51bKg2CFkcL.jpg | https://m.media-amazon.com/images/I/41i0fzfPXzL.jpg | https://m.media-amazon.com/images/I/31AXHM57QoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "71.03%",
   "SalePrice": "₹4,249.89",
   "Model": "885"
 }

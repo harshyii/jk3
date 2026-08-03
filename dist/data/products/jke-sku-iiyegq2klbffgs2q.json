@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41MzNiUGI5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51sY09AwncL.jpg | https://m.media-amazon.com/images/I/31hd8xOkioL.jpg | https://m.media-amazon.com/images/I/316VrXAwQVL.jpg | https://m.media-amazon.com/images/I/31+n1D+ULYL.jpg | https://m.media-amazon.com/images/I/31ZVHkdn5wL.jpg | https://m.media-amazon.com/images/I/31nPpV3x4DL.jpg | https://m.media-amazon.com/images/I/41MzNiUGI5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹189.00",
   "Model": "1411"
 }

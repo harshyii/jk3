@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/310vgE9v9LL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41p8yy3xTsL.jpg | https://m.media-amazon.com/images/I/21TVxMSZJGL.jpg | https://m.media-amazon.com/images/I/310vgE9v9LL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "23.46%",
   "SalePrice": "₹995.00",
   "Model": "B-40353"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31TLPP3YsIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71hVBpT0XBL.jpg | https://m.media-amazon.com/images/I/412Zz4jlnTL.jpg | https://m.media-amazon.com/images/I/51r9yktsGFL.jpg | https://m.media-amazon.com/images/I/51LH7z9b2IL.jpg | https://m.media-amazon.com/images/I/315vfxATJ4L.jpg | https://m.media-amazon.com/images/I/41o0Yf6DXhL.jpg | https://m.media-amazon.com/images/I/41hF9jHAqvL.jpg | https://m.media-amazon.com/images/I/31TLPP3YsIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "30.45%",
   "SalePrice": "₹9,103.00",
   "Model": "FWNDS52086036"
 }

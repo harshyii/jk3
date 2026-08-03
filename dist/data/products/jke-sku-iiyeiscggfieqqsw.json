@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41EUOzlBynL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61w2FuN+DEL.jpg | https://m.media-amazon.com/images/I/3167lZ-wClL.jpg | https://m.media-amazon.com/images/I/51rdBjszqzL.jpg | https://m.media-amazon.com/images/I/41EmVjTZTZL.jpg | https://m.media-amazon.com/images/I/31EcPjbzlsL.jpg | https://m.media-amazon.com/images/I/31b0t2hC1vL.jpg | https://m.media-amazon.com/images/I/41UChPpRQjL.jpg | https://m.media-amazon.com/images/I/41EUOzlBynL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.66%",
   "SalePrice": "₹5,299.00",
   "Model": "XPC-ID-01"
 }

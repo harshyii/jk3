@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41pkHC3KXLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cM52-QV-L.jpg | https://m.media-amazon.com/images/I/51cM52-QV-L.jpg | https://m.media-amazon.com/images/I/31lMQVqixJL.jpg | https://m.media-amazon.com/images/I/41pkHC3KXLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "110 Milliliters",
-  "Discount": 0,
+  "Discount": "21.05%",
   "SalePrice": "₹150.00",
   "Country": "India"
 }

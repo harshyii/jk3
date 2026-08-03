@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51OyB-N2adL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41vYUpgV7qL.jpg | https://m.media-amazon.com/images/I/31vqBdEKmLL.jpg | https://m.media-amazon.com/images/I/51mLM7-mRZL.jpg | https://m.media-amazon.com/images/I/514NU1I30lL.jpg | https://m.media-amazon.com/images/I/41p60oCnR7L.jpg | https://m.media-amazon.com/images/I/41v6-BSZWXL.jpg | https://m.media-amazon.com/images/I/41RETHSRGGL.jpg | https://m.media-amazon.com/images/I/51OyB-N2adL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.5%",
   "SalePrice": "₹74,494.00",
   "Model": "MLB5120060",
   "Country": "India"

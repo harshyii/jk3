@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51XojVHsY6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51QxAnPemxL.jpg | https://m.media-amazon.com/images/I/41P21ik8iTL.jpg | https://m.media-amazon.com/images/I/51iq4SxFtCL.jpg | https://m.media-amazon.com/images/I/514+ohnb0TL.jpg | https://m.media-amazon.com/images/I/41ID6vMWUAL.jpg | https://m.media-amazon.com/images/I/616co+spTwL.jpg | https://m.media-amazon.com/images/I/51u4mQDpjDL.jpg | https://m.media-amazon.com/images/I/51XojVHsY6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.55%",
   "SalePrice": "₹69,440.00",
   "Model": "XWT07Z"
 }

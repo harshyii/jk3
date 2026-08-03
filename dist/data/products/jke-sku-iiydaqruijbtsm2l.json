@@ -80,9 +80,9 @@
     "https://m.media-amazon.com/images/I/31-k4Kbmo-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61a1d5ftNTL.jpg | https://m.media-amazon.com/images/I/41QC85Vx-6L.jpg | https://m.media-amazon.com/images/I/41GNGikcRaL.jpg | https://m.media-amazon.com/images/I/31-k4Kbmo-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.74%",
   "SalePrice": "₹2,490.00",
   "Model": "FHVVEMTDBB12",
   "Country": "India"

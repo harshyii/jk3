@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41mEdxWlS7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51K5ddbQzKL.jpg | https://m.media-amazon.com/images/I/41DdppI1KAL.jpg | https://m.media-amazon.com/images/I/31LcGZCn0cL.jpg | https://m.media-amazon.com/images/I/31FOXcVcrhL.jpg | https://m.media-amazon.com/images/I/31-eI871tQL.jpg | https://m.media-amazon.com/images/I/31SEvmgHEoL.jpg | https://m.media-amazon.com/images/I/41mEdxWlS7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "38.6%",
   "SalePrice": "₹307.00",
   "Model": "GY10927"
 }

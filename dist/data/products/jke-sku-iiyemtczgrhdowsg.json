@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41QYtIJIFFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31YWmR6sBpL.jpg | https://m.media-amazon.com/images/I/31YWmR6sBpL.jpg | https://m.media-amazon.com/images/I/41QYtIJIFFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.87%",
   "SalePrice": "₹1,905.00",
   "Model": "RW10"
 }

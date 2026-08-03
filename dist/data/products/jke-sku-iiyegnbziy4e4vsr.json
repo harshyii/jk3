@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41yq0x00NzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yaxO0bfzL.jpg | https://m.media-amazon.com/images/I/317j+Ph5R9L.jpg | https://m.media-amazon.com/images/I/31Fbutz2NJL.jpg | https://m.media-amazon.com/images/I/51q1ehcWZRL.jpg | https://m.media-amazon.com/images/I/31T3dnA-tIL.jpg | https://m.media-amazon.com/images/I/51CRS05mT+L.jpg | https://m.media-amazon.com/images/I/41yq0x00NzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.67%",
   "SalePrice": "₹1,541.00",
   "Model": "MA6",
   "Country": "USA"

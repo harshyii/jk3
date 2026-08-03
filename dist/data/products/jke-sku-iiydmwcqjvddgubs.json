@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51DpheyKcrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kGIMcchqL.jpg | https://m.media-amazon.com/images/I/418qaBuoeGL.jpg | https://m.media-amazon.com/images/I/51DpheyKcrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "37.56%",
   "SalePrice": "₹24,999.00",
   "Model": "ELM4121"
 }

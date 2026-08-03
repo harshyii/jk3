@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41SxpPQ42YL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kYGEUGQ2L.jpg | https://m.media-amazon.com/images/I/51kYGEUGQ2L.jpg | https://m.media-amazon.com/images/I/41nvNa-YMOL.jpg | https://m.media-amazon.com/images/I/31Uu5jXddGL.jpg | https://m.media-amazon.com/images/I/41SxpPQ42YL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "60.9%",
   "SalePrice": "₹3,910.00",
   "Model": "XPC-DM-02"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51TKdzIh9uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61eYIzj9bpL.jpg | https://m.media-amazon.com/images/I/31XjBKqTgGL.jpg | https://m.media-amazon.com/images/I/31vShRRoi5L.jpg | https://m.media-amazon.com/images/I/41XsUAu7jnL.jpg | https://m.media-amazon.com/images/I/313-dwFTSBL.jpg | https://m.media-amazon.com/images/I/31hWvuKsJJL.jpg | https://m.media-amazon.com/images/I/51TKdzIh9uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.58%",
   "SalePrice": "₹6,199.00",
   "Model": "FSMH13E5",
   "Country": "China"

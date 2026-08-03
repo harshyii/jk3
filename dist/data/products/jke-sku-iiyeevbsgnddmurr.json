@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31EztHHzU0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51utGAharmL.jpg | https://m.media-amazon.com/images/I/310G1-NEwJL.jpg | https://m.media-amazon.com/images/I/31s0Q0Kp9JL.jpg | https://m.media-amazon.com/images/I/31bm+4bXmkL.jpg | https://m.media-amazon.com/images/I/31570PS9fiL.jpg | https://m.media-amazon.com/images/I/31EztHHzU0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "64.13%",
   "SalePrice": "₹179.00",
   "Model": "RM"
 }

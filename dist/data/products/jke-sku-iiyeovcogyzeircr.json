@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31uvpRn6z7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pxtrwJWKL.jpg | https://m.media-amazon.com/images/I/41pxtrwJWKL.jpg | https://m.media-amazon.com/images/I/31464VA858L.jpg | https://m.media-amazon.com/images/I/31B+VaYHbLL.jpg | https://m.media-amazon.com/images/I/41Og8IsyGoL.jpg | https://m.media-amazon.com/images/I/41KR6vOUNoL.jpg | https://m.media-amazon.com/images/I/31uvpRn6z7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "64.89%",
   "SalePrice": "₹1,799.00",
   "Model": "DQB2000"
 }

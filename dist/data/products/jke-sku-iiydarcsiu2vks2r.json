@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41Nhfh7czWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/815ZldOd-yL.jpg | https://m.media-amazon.com/images/I/41Neq-0ODdL.jpg | https://m.media-amazon.com/images/I/51Poy-6aX3L.jpg | https://m.media-amazon.com/images/I/41aqormNi2L.jpg | https://m.media-amazon.com/images/I/417ntrCeioL.jpg | https://m.media-amazon.com/images/I/41Nhfh7czWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹3,971.00",
   "Model": "42831"
 }

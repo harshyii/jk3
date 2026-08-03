@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41JpNVFvafL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ql-xnqsJL.jpg | https://m.media-amazon.com/images/I/31RrlSi2vJL.jpg | https://m.media-amazon.com/images/I/41zSCWpcbKL.jpg | https://m.media-amazon.com/images/I/41uWRyRHoQL.jpg | https://m.media-amazon.com/images/I/51BuY4vJmxL.jpg | https://m.media-amazon.com/images/I/51mA6PbGqcL.jpg | https://m.media-amazon.com/images/I/41JpNVFvafL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.36%",
   "SalePrice": "₹9,399.00",
   "Model": "NXG 1450e",
   "Country": "India"

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/513lW+K2zXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mbxX558qL.jpg | https://m.media-amazon.com/images/I/41CcCdUnSbL.jpg | https://m.media-amazon.com/images/I/41AF+bSK1WL.jpg | https://m.media-amazon.com/images/I/51gdbzC2sbL.jpg | https://m.media-amazon.com/images/I/51U4HV2itGL.jpg | https://m.media-amazon.com/images/I/51T2t4+kUDL.jpg | https://m.media-amazon.com/images/I/513lW+K2zXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.63%",
   "SalePrice": "₹1,935.00",
   "Model": "ID13-75"
 }

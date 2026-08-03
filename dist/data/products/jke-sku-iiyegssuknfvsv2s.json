@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41P9tV5mLeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Kym8kth5L.jpg | https://m.media-amazon.com/images/I/31nAnTS4WNL.jpg | https://m.media-amazon.com/images/I/41tr1OH8mML.jpg | https://m.media-amazon.com/images/I/414KscWJUQL.jpg | https://m.media-amazon.com/images/I/41U0bu07+gL.jpg | https://m.media-amazon.com/images/I/414WauWTW-L.jpg | https://m.media-amazon.com/images/I/41P9tV5mLeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.3%",
   "SalePrice": "₹7,399.00",
   "Model": "150952"
 }

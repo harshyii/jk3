@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/21SkDNIzPCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DUcKhuvAL.jpg | https://m.media-amazon.com/images/I/41O6GsERpeL.jpg | https://m.media-amazon.com/images/I/21SkDNIzPCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "22.22%",
   "SalePrice": "₹700.00",
   "Model": "Xp-cs-crank-01"
 }

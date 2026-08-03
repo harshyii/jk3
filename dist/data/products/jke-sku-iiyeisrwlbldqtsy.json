@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51N6J6I0nDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/815G9X0xCKL.jpg | https://m.media-amazon.com/images/I/517TUPWZLqL.jpg | https://m.media-amazon.com/images/I/51N6J6I0nDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹5,300.00",
   "Model": "CIDLI20558"
 }

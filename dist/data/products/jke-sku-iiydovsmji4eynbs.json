@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41DRlGsPzRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fF+6YChYL.jpg | https://m.media-amazon.com/images/I/51bHq7oykdL.jpg | https://m.media-amazon.com/images/I/41BomZVkuML.jpg | https://m.media-amazon.com/images/I/51WW5VwL2GL.jpg | https://m.media-amazon.com/images/I/51f92cuux3L.jpg | https://m.media-amazon.com/images/I/41I+QzFkejL.jpg | https://m.media-amazon.com/images/I/41DRlGsPzRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2838 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹14,906.33",
   "Model": "50984",
   "Country": "USA"

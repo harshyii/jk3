@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41XS01d3VVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81tOvdz2QBL.jpg | https://m.media-amazon.com/images/I/51uKsVVus+L.jpg | https://m.media-amazon.com/images/I/51lTLrDFRqL.jpg | https://m.media-amazon.com/images/I/51QSX3I6pOL.jpg | https://m.media-amazon.com/images/I/51hswnqPrkL.jpg | https://m.media-amazon.com/images/I/41bPhJ2-5VL.jpg | https://m.media-amazon.com/images/I/51InKCmcEnL.jpg | https://m.media-amazon.com/images/I/41XS01d3VVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.45%",
   "SalePrice": "₹2,499.00",
   "Model": "XE-CD1610"
 }

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51SKcs+Lv-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81cOPX0P4GL.jpg | https://m.media-amazon.com/images/I/41SdeHcsSVL.jpg | https://m.media-amazon.com/images/I/51DZtE6CK+L.jpg | https://m.media-amazon.com/images/I/41pnBAv0jwL.jpg | https://m.media-amazon.com/images/I/514Hp3jgmdL.jpg | https://m.media-amazon.com/images/I/51pR-kHoJHL.jpg | https://m.media-amazon.com/images/I/51RrlNuNpCL.jpg | https://m.media-amazon.com/images/I/51SKcs+Lv-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63%",
   "SalePrice": "₹3,999.00",
   "Model": "HGCM3041"
 }

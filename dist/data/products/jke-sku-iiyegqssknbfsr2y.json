@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41aRs8MIssL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31hjTjmuujL.jpg | https://m.media-amazon.com/images/I/31hjTjmuujL.jpg | https://m.media-amazon.com/images/I/41SGC3egfRL.jpg | https://m.media-amazon.com/images/I/41aRs8MIssL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "28.72%",
   "SalePrice": "₹350.00",
   "Model": "Yellow"
 }

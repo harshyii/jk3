@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41LPHPaHS5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dlveacuwL.jpg | https://m.media-amazon.com/images/I/318DJ3FQ8gL.jpg | https://m.media-amazon.com/images/I/41PN7YkBbTL.jpg | https://m.media-amazon.com/images/I/518Z23ruQtL.jpg | https://m.media-amazon.com/images/I/410zth0ay2L.jpg | https://m.media-amazon.com/images/I/41LPHPaHS5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.17%",
   "SalePrice": "₹149.00",
   "Model": "TW7510",
   "Country": "India"

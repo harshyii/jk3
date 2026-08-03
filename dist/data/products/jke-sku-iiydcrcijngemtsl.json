@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51jy6z73vcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pXRb069QL.jpg | https://m.media-amazon.com/images/I/41Odoptna2L.jpg | https://m.media-amazon.com/images/I/41so71O7ZaL.jpg | https://m.media-amazon.com/images/I/51IFYPRLxPL.jpg | https://m.media-amazon.com/images/I/51gFDnfzK6L.jpg | https://m.media-amazon.com/images/I/51S-aBq5LtL.jpg | https://m.media-amazon.com/images/I/51TzpK8SczL.jpg | https://m.media-amazon.com/images/I/51jy6z73vcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "24.91%",
   "SalePrice": "₹440.00",
   "Model": "APC1K",
   "Country": "India"

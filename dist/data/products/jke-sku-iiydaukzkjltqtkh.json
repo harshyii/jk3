@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51hX0HPyBVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nhXyCO0bL.jpg | https://m.media-amazon.com/images/I/41cDlVwYxuL.jpg | https://m.media-amazon.com/images/I/41xNAtNIJIL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41H1xdsoyLL.jpg | https://m.media-amazon.com/images/I/41teNWPQUwL.jpg | https://m.media-amazon.com/images/I/41-b6TWDw2L.jpg | https://m.media-amazon.com/images/I/51L5Tiq3X5L.jpg | https://m.media-amazon.com/images/I/51hX0HPyBVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400.0 Grams",
-  "Discount": 0,
+  "Discount": "5.04%",
   "SalePrice": "₹565.00",
   "Country": "India"
 }

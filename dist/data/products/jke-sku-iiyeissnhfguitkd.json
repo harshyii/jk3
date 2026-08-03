@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51hgU21ppUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81G2uEVp3rL.jpg | https://m.media-amazon.com/images/I/41pmUeiNfIL.jpg | https://m.media-amazon.com/images/I/41er18QR5GL.jpg | https://m.media-amazon.com/images/I/41RCvNTJmQL.jpg | https://m.media-amazon.com/images/I/51hgU21ppUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "1.06%",
   "SalePrice": "₹935.00",
   "Country": "India"
 }

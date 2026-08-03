@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51ziXz99NHS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Na2gF2nnS.jpg | https://m.media-amazon.com/images/I/41CjejWalKS.jpg | https://m.media-amazon.com/images/I/41t7Or4Q8HS.jpg | https://m.media-amazon.com/images/I/41h3H717vSS.jpg | https://m.media-amazon.com/images/I/51ziXz99NHS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "499.8 Milliliters",
-  "Discount": 0,
+  "Discount": "31.85%",
   "SalePrice": "₹599.00",
   "Model": "288200-755",
   "Country": "Germany"

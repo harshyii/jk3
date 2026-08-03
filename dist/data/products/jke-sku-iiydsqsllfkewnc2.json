@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31FlfMTGIHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mExkw1kZL.jpg | https://m.media-amazon.com/images/I/31yr7odZxFL.jpg | https://m.media-amazon.com/images/I/314tp5cdzuL.jpg | https://m.media-amazon.com/images/I/31nYhVDSK4L.jpg | https://m.media-amazon.com/images/I/31FlfMTGIHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "21.02%",
   "SalePrice": "₹7,100.00",
   "Model": "Shakti Charge-1450"
 }

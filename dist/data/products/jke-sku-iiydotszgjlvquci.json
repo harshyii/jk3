@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41S13j91g+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71lwyj4rjmL.jpg | https://m.media-amazon.com/images/I/51DVzWJjxkL.jpg | https://m.media-amazon.com/images/I/410pTJVICkL.jpg | https://m.media-amazon.com/images/I/51tSsQ73uuL.jpg | https://m.media-amazon.com/images/I/5181nvdK+PL.jpg | https://m.media-amazon.com/images/I/41h2GlJ-dJL.jpg | https://m.media-amazon.com/images/I/41S13j91g+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "57.21%",
   "SalePrice": "₹279.00",
   "Model": "AP-IS11A013"
 }

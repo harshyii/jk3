@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51JvcV2Iu2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51YR3fr3NKL.jpg | https://m.media-amazon.com/images/I/31vggKpzNfL.jpg | https://m.media-amazon.com/images/I/51Wl+uo+ojL.jpg | https://m.media-amazon.com/images/I/518FU7UJhUL.jpg | https://m.media-amazon.com/images/I/41wf8N3aPWL.jpg | https://m.media-amazon.com/images/I/41dBoqdN9uL.jpg | https://m.media-amazon.com/images/I/41m7N0FFflL.jpg | https://m.media-amazon.com/images/I/51JvcV2Iu2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.98%",
   "SalePrice": "₹1,950.00",
   "Model": "Zip tie cutter set"
 }

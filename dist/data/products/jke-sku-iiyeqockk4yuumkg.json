@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31DPytbTQhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81719Fmn+-L.jpg | https://m.media-amazon.com/images/I/41PzQdbujvL.jpg | https://m.media-amazon.com/images/I/41aP2sJhnnL.jpg | https://m.media-amazon.com/images/I/41kx35ZEawL.jpg | https://m.media-amazon.com/images/I/31F5HkNsh-L.jpg | https://m.media-amazon.com/images/I/41-IgAAPKLL.jpg | https://m.media-amazon.com/images/I/31DPytbTQhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "51.24%",
   "SalePrice": "₹1,950.00",
   "Model": "EAPRO 55W"
 }

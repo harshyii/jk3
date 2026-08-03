@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31d5dRNno0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bClxjZM8L.jpg | https://m.media-amazon.com/images/I/31gKftq+ZZL.jpg | https://m.media-amazon.com/images/I/31auTgL2YAL.jpg | https://m.media-amazon.com/images/I/41aCeG3SvhL.jpg | https://m.media-amazon.com/images/I/31d5dRNno0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,891.39",
   "Model": "BUFX_102HEX",
   "Country": "USA"

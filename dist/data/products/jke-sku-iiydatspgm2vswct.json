@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/416KzLQdxyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/811-D3tFnAL.jpg | https://m.media-amazon.com/images/I/410CJuXQ74L.jpg | https://m.media-amazon.com/images/I/41N8VLmZAlL.jpg | https://m.media-amazon.com/images/I/41LyAsC+9bL.jpg | https://m.media-amazon.com/images/I/31qQC4e38fL.jpg | https://m.media-amazon.com/images/I/319kFnGEtvL.jpg | https://m.media-amazon.com/images/I/41ga0j1QwCL.jpg | https://m.media-amazon.com/images/I/416KzLQdxyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.67%",
   "SalePrice": "₹3,736.72",
   "Model": "A99LM2"
 }

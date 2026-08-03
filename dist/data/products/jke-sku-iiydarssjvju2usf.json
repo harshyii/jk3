@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41BEIaaIiBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+ol+eXzRL.jpg | https://m.media-amazon.com/images/I/41piiU8+7rL.jpg | https://m.media-amazon.com/images/I/41YfiQyLwQL.jpg | https://m.media-amazon.com/images/I/51lMsEv4LQL.jpg | https://m.media-amazon.com/images/I/51T+odH6uhL.jpg | https://m.media-amazon.com/images/I/5171pwT4TEL.jpg | https://m.media-amazon.com/images/I/51nEFJJLX2L.jpg | https://m.media-amazon.com/images/I/41BEIaaIiBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹16,345.51",
   "Model": "BDCCS20B"
 }

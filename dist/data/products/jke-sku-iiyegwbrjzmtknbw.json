@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51AW1+fDX1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71p-CzzrhJL.jpg | https://m.media-amazon.com/images/I/41Wi-EgzsfL.jpg | https://m.media-amazon.com/images/I/41KZD4-rQyL.jpg | https://m.media-amazon.com/images/I/51GZqIf+dcL.jpg | https://m.media-amazon.com/images/I/516kXzo3x-L.jpg | https://m.media-amazon.com/images/I/51AW1+fDX1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "650.00 Milliliters",
-  "Discount": 0,
+  "Discount": "46.21%",
   "SalePrice": "₹780.00",
   "Model": "ICS650_AZ",
   "Country": "India"

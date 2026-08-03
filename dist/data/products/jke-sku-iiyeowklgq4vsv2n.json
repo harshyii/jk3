@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31vzPpW0Y-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614+cObkoeL.jpg | https://m.media-amazon.com/images/I/41kFo6haX4L.jpg | https://m.media-amazon.com/images/I/31vzPpW0Y-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "36.67%",
   "SalePrice": "₹380.00",
   "Model": "Xp-ph2-65-100"
 }

@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51Y50-s7M+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aiwodV5kL.jpg | https://m.media-amazon.com/images/I/51UYIB2+13L.jpg | https://m.media-amazon.com/images/I/419Oo31qXmL.jpg | https://m.media-amazon.com/images/I/41XNUAEi-LL.jpg | https://m.media-amazon.com/images/I/416ADTFA7qL.jpg | https://m.media-amazon.com/images/I/41ZC6LB7clL.jpg | https://m.media-amazon.com/images/I/412oiq8gZWL.jpg | https://m.media-amazon.com/images/I/51Y50-s7M+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.27%",
   "SalePrice": "₹26,235.00",
   "Model": "LS1040"
 }

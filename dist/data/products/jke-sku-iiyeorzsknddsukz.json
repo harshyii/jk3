@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51HZGGhqeUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617u-Np1T+L.jpg | https://m.media-amazon.com/images/I/41E+Rxc5IhL.jpg | https://m.media-amazon.com/images/I/51IMbwgPFRL.jpg | https://m.media-amazon.com/images/I/51b3oFqxvzL.jpg | https://m.media-amazon.com/images/I/412laTbDUIL.jpg | https://m.media-amazon.com/images/I/51HZGGhqeUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "30 Piece",
-  "Discount": 0,
+  "Discount": "27.41%",
   "SalePrice": "₹188.00",
   "Country": "India"
 }

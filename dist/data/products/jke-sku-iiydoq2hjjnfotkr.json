@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/3166vLTWgVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51BjiJoBN5L.jpg | https://m.media-amazon.com/images/I/31HELys-v0L.jpg | https://m.media-amazon.com/images/I/3166vLTWgVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.44%",
   "SalePrice": "₹407.00",
   "Model": "red gloves+yellow helmet"
 }

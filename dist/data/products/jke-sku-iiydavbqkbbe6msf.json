@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/415WSqDZK-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618rr84xbLL.jpg | https://m.media-amazon.com/images/I/51XjKXc6SwL.jpg | https://m.media-amazon.com/images/I/71+Dwc4W1IL.jpg | https://m.media-amazon.com/images/I/415WSqDZK-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24%",
   "SalePrice": "₹950.00",
   "Country": "Belgium"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/214rzOstHSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41kp0E4pBTL.jpg | https://m.media-amazon.com/images/I/21m8a9Nb4HL.jpg | https://m.media-amazon.com/images/I/21Agm2sUEiL.jpg | https://m.media-amazon.com/images/I/21Z8UU4OBlL.jpg | https://m.media-amazon.com/images/I/214rzOstHSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.16%",
   "SalePrice": "₹716.00",
   "Model": "ISKT/H/3-4/30"
 }

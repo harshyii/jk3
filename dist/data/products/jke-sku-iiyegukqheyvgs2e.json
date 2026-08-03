@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/3161mzclbDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jWW396-mL.jpg | https://m.media-amazon.com/images/I/3161mzclbDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.12%",
   "SalePrice": "₹33,299.00",
   "Model": "Icon 1600"
 }

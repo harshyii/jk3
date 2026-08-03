@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/41lpxQW80xL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Ik7acEwYL.jpg | https://m.media-amazon.com/images/I/41u7VWRdCDL.jpg | https://m.media-amazon.com/images/I/415IMs0faEL.jpg | https://m.media-amazon.com/images/I/41EyO+TnJTL.jpg | https://m.media-amazon.com/images/I/41ra9w8SCOL.jpg | https://m.media-amazon.com/images/I/518BuyUh-7L.jpg | https://m.media-amazon.com/images/I/51IOcNBxMLL.jpg | https://m.media-amazon.com/images/I/41lpxQW80xL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.82%",
   "SalePrice": "₹24,512.00",
   "Model": "XDT19Z"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41eSX22RlkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81HxNRhwufL.jpg | https://m.media-amazon.com/images/I/41XCmFzdboL.jpg | https://m.media-amazon.com/images/I/418sI4D5ntL.jpg | https://m.media-amazon.com/images/I/319Prx7XCEL.jpg | https://m.media-amazon.com/images/I/31n9u6wAB1L.jpg | https://m.media-amazon.com/images/I/41eSX22RlkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.67%",
   "SalePrice": "₹23,500.00",
   "Model": "CDH 011"
 }

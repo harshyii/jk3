@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/413AnKcpRVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71IBuuI-K3L.jpg | https://m.media-amazon.com/images/I/41sCFWKEP0L.jpg | https://m.media-amazon.com/images/I/41adxcGn17L.jpg | https://m.media-amazon.com/images/I/413AnKcpRVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.71%",
   "SalePrice": "₹1,604.00",
   "Model": "7100137383",
   "Country": "USA"

@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51rHSOdSOgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81XsXyZSeJL.jpg | https://m.media-amazon.com/images/I/41qh3v228DL.jpg | https://m.media-amazon.com/images/I/51JbVXa5A3L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41PC8JFyD9L.jpg | https://m.media-amazon.com/images/I/41qfcEOPxiL.jpg | https://m.media-amazon.com/images/I/410MZVcSqJL.jpg | https://m.media-amazon.com/images/I/51-71r0buoL.jpg | https://m.media-amazon.com/images/I/51rHSOdSOgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Grams",
-  "Discount": 0,
+  "Discount": "50.44%",
   "SalePrice": "₹2,079.00",
   "Country": "China"
 }

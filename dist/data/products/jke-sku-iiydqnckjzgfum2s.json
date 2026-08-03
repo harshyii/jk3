@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31DIrkFvViL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31h2zAT0jzL.jpg | https://m.media-amazon.com/images/I/31h2zAT0jzL.jpg | https://m.media-amazon.com/images/I/219VvlkACqL.jpg | https://m.media-amazon.com/images/I/31DIrkFvViL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "85.34%",
   "SalePrice": "₹293.00",
   "Model": "7x320 velcro 10qty"
 }

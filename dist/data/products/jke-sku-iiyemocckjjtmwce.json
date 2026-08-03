@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/318y8aAFMFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71HIFt4O0CL.jpg | https://m.media-amazon.com/images/I/31lvVv2tRRL.jpg | https://m.media-amazon.com/images/I/51nwuQqLspL.jpg | https://m.media-amazon.com/images/I/415k7tontqL.jpg | https://m.media-amazon.com/images/I/51pVRS4ilGL.jpg | https://m.media-amazon.com/images/I/31csnOHaNTL.jpg | https://m.media-amazon.com/images/I/31yFN9QQvJL.jpg | https://m.media-amazon.com/images/I/318y8aAFMFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "38.03%",
   "SalePrice": "₹2,549.00",
   "Model": "CPAG 720W RS"
 }

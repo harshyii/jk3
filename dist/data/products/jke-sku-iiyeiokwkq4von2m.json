@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51OpPmA+QjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71cqOnOLMvL.jpg | https://m.media-amazon.com/images/I/41k4PFtZK4L.jpg | https://m.media-amazon.com/images/I/518BoUnRE-L.jpg | https://m.media-amazon.com/images/I/512MbCCb6eL.jpg | https://m.media-amazon.com/images/I/613rLs83fQL.jpg | https://m.media-amazon.com/images/I/51VoPGHY+ML.jpg | https://m.media-amazon.com/images/I/51OpPmA+QjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "32.33%",
   "SalePrice": "₹8,796.00",
   "Model": "9027"
 }

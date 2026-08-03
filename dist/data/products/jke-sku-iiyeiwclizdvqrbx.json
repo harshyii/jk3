@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51LtZlabkyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6120ey9SYrL.jpg | https://m.media-amazon.com/images/I/41aeZhkiCiL.jpg | https://m.media-amazon.com/images/I/51OJj2tgVpL.jpg | https://m.media-amazon.com/images/I/41rqbsOiP1L.jpg | https://m.media-amazon.com/images/I/5173p3ngA7L.jpg | https://m.media-amazon.com/images/I/51BZj4kmDwL.jpg | https://m.media-amazon.com/images/I/51QcrHohf9L.jpg | https://m.media-amazon.com/images/I/51LtZlabkyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "62.73%",
   "SalePrice": "₹745.00",
   "Model": "30 A"
 }

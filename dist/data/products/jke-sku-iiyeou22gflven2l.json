@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41ov8ytNxDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Gto-wTTPL.jpg | https://m.media-amazon.com/images/I/4164j-UrXtL.jpg | https://m.media-amazon.com/images/I/41ov8ytNxDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "45.77%",
   "SalePrice": "₹379.05",
   "Model": "KA0154",
   "Country": "India"

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51foisQYNCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715MxQsK-SL.jpg | https://m.media-amazon.com/images/I/41t+RJOUgPL.jpg | https://m.media-amazon.com/images/I/61T7w4PmaML.jpg | https://m.media-amazon.com/images/I/417sHGXoivL.jpg | https://m.media-amazon.com/images/I/51ocvm3MGpL.jpg | https://m.media-amazon.com/images/I/413NKWm4fmL.jpg | https://m.media-amazon.com/images/I/51nmGDCGwvL.jpg | https://m.media-amazon.com/images/I/51foisQYNCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.5%",
   "SalePrice": "₹6,795.00",
   "Model": "Elite 1500 W",
   "Country": "India"

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/21pfcZkk0PL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/413yJlTWwJL.jpg | https://m.media-amazon.com/images/I/212YvemhQoL.jpg | https://m.media-amazon.com/images/I/21YUxNmit0L.jpg | https://m.media-amazon.com/images/I/21pfcZkk0PL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.67%",
   "SalePrice": "₹259.00",
   "Model": "IML 20H"
 }

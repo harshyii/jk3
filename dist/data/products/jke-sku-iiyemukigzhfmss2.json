@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51D9u5ErujL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/917qKAwv+bL.jpg | https://m.media-amazon.com/images/I/51b5oWlCZEL.jpg | https://m.media-amazon.com/images/I/51KJgOshsEL.jpg | https://m.media-amazon.com/images/I/41DMXBnGAzL.jpg | https://m.media-amazon.com/images/I/51D9u5ErujL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "53.03%",
   "SalePrice": "₹17,849.00",
   "Model": "COSLI250591"
 }

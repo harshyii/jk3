@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51+Z30xWfML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71K6cmErxvL.jpg | https://m.media-amazon.com/images/I/41iLsPqFT7L.jpg | https://m.media-amazon.com/images/I/41O4z4Ju96L.jpg | https://m.media-amazon.com/images/I/41k8tHxP-iL.jpg | https://m.media-amazon.com/images/I/51hS8rv+CZL.jpg | https://m.media-amazon.com/images/I/51E2L8dPz6L.jpg | https://m.media-amazon.com/images/I/41eFJ8m09nL.jpg | https://m.media-amazon.com/images/I/51+Z30xWfML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.94%",
   "SalePrice": "₹12,585.28",
   "Model": "7760-PGK"
 }

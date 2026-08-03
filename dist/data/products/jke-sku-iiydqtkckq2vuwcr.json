@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31tBBr1mv5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611tKBxnTSL.jpg | https://m.media-amazon.com/images/I/31tBBr1mv5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.86%",
   "SalePrice": "₹316.78",
   "Model": "DD",
   "Country": "India"

@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31rJqAnJAIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31rJqAnJAIL.jpg | https://m.media-amazon.com/images/I/31rJqAnJAIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60.16%",
   "SalePrice": "₹5,686.26",
   "Model": "Milwaukee Tools - 48-22-2331"
 }

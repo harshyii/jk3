@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41FTKGGlznL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31vPW0VQUpL.jpg | https://m.media-amazon.com/images/I/31vPW0VQUpL.jpg | https://m.media-amazon.com/images/I/41k9BZ4tK9L.jpg | https://m.media-amazon.com/images/I/31kvygL6w9L.jpg | https://m.media-amazon.com/images/I/31Yj3OVfOsL.jpg | https://m.media-amazon.com/images/I/31ypSILZlQL.jpg | https://m.media-amazon.com/images/I/41FTKGGlznL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.95%",
   "SalePrice": "₹1,392.00",
   "Model": "‎SDY19599681",
   "Country": "‎Hong Kong"

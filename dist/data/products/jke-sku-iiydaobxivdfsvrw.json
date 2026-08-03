@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/319BKQulV1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614sI5w29uL.jpg | https://m.media-amazon.com/images/I/31dxRq2TQIL.jpg | https://m.media-amazon.com/images/I/31v4D1uMCwL.jpg | https://m.media-amazon.com/images/I/215SgwiKYzL.jpg | https://m.media-amazon.com/images/I/319BKQulV1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "10.6%",
   "SalePrice": "₹2,413.00",
   "Model": "ACC_135"
 }

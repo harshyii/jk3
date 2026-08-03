@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/519M1OZMhPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eTEb8TxhL.jpg | https://m.media-amazon.com/images/I/51JasdlOFTL.jpg | https://m.media-amazon.com/images/I/41APCqrNzkL.jpg | https://m.media-amazon.com/images/I/610n4fyQLAL.jpg | https://m.media-amazon.com/images/I/51wmMPsFIAL.jpg | https://m.media-amazon.com/images/I/51iAs4Mtv3L.jpg | https://m.media-amazon.com/images/I/519M1OZMhPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.15%",
   "SalePrice": "₹548.00",
   "Model": "1200 GSM"
 }

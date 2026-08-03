@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/4182jRv4-XL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uKMAiMYgL.jpg | https://m.media-amazon.com/images/I/41nVmwqdscL.jpg | https://m.media-amazon.com/images/I/41Wm-oIH0RL.jpg | https://m.media-amazon.com/images/I/41XILWQuspL.jpg | https://m.media-amazon.com/images/I/51W5a2wp6BL.jpg | https://m.media-amazon.com/images/I/41-qPBTULUL.jpg | https://m.media-amazon.com/images/I/51hVatNtyUL.jpg | https://m.media-amazon.com/images/I/4182jRv4-XL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.54%",
   "SalePrice": "₹18,499.00",
   "Model": "GSR 12V-15 FC"
 }

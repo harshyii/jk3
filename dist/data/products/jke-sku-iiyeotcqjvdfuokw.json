@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41jLTXCisrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KheFHv9wL.jpg | https://m.media-amazon.com/images/I/31QSjsPMaWL.jpg | https://m.media-amazon.com/images/I/41ePs6kjHTL.jpg | https://m.media-amazon.com/images/I/41veJ2eHZ4L.jpg | https://m.media-amazon.com/images/I/41nnv1GaTAL.jpg | https://m.media-amazon.com/images/I/417tOzoTJaL.jpg | https://m.media-amazon.com/images/I/41jLTXCisrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.01%",
   "SalePrice": "₹2,499.00",
   "Model": "HG0475_H"
 }

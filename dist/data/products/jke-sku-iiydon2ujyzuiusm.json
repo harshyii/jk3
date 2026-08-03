@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51ggG8cGfpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612-rFxdCWL.jpg | https://m.media-amazon.com/images/I/41WWzfTAy7L.jpg | https://m.media-amazon.com/images/I/51VQt31oPpL.jpg | https://m.media-amazon.com/images/I/515Ddaw2D1L.jpg | https://m.media-amazon.com/images/I/51deKB+6cgL.jpg | https://m.media-amazon.com/images/I/51Cbzp5EXaL.jpg | https://m.media-amazon.com/images/I/51NYoadxeJL.jpg | https://m.media-amazon.com/images/I/51ggG8cGfpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100 Milliliters",
-  "Discount": 0,
+  "Discount": "76.65%",
   "SalePrice": "₹1,632.00",
   "Model": "AIR23504SW",
   "Country": "USA"

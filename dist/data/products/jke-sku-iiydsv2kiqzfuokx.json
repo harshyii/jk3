@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51yc7U78RQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/418kZq77c4L.jpg | https://m.media-amazon.com/images/I/31qIr0W06TL.jpg | https://m.media-amazon.com/images/I/31SiOPnLc5L.jpg | https://m.media-amazon.com/images/I/51CN1wvjC8L.jpg | https://m.media-amazon.com/images/I/51yc7U78RQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.76%",
   "SalePrice": "₹4,840.00",
   "Model": "SP_INV-700-SW",
   "Country": "India"

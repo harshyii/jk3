@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/414OB5TzdLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-83qBxjyL.jpg | https://m.media-amazon.com/images/I/41LCfIu-WXL.jpg | https://m.media-amazon.com/images/I/41EpDHYAOfL.jpg | https://m.media-amazon.com/images/I/41UCsMqvXeL.jpg | https://m.media-amazon.com/images/I/41ZqP85DQ7L.jpg | https://m.media-amazon.com/images/I/41t8TjNqguL.jpg | https://m.media-amazon.com/images/I/414OB5TzdLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "40.89%",
   "SalePrice": "₹649.00",
   "Model": "MSLLDETERGENT01LITRE+CLEANSER500ML",
   "Country": "India"

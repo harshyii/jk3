@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51ApnJKrXqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ouMxBGCxL.jpg | https://m.media-amazon.com/images/I/217A+sozt0L.jpg | https://m.media-amazon.com/images/I/31x5zv81cqL.jpg | https://m.media-amazon.com/images/I/416z1k7I6NL.jpg | https://m.media-amazon.com/images/I/41xPRGdI+pL.jpg | https://m.media-amazon.com/images/I/41ODmaVzHtL.jpg | https://m.media-amazon.com/images/I/41eo0QlVgML.jpg | https://m.media-amazon.com/images/I/51ApnJKrXqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "21.42%",
   "SalePrice": "₹820.13",
   "Model": "932",
   "Country": "USA"

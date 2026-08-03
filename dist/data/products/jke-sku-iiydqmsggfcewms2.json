@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41e2H+lKiwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aLDArw5VL.jpg | https://m.media-amazon.com/images/I/413e14Dq0RL.jpg | https://m.media-amazon.com/images/I/51pywHabRwL.jpg | https://m.media-amazon.com/images/I/41W7g-s8p+L.jpg | https://m.media-amazon.com/images/I/51jSNB1UBpL.jpg | https://m.media-amazon.com/images/I/51UjW7harPL.jpg | https://m.media-amazon.com/images/I/51gIAmJLNUL.jpg | https://m.media-amazon.com/images/I/41e2H+lKiwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "355 Milliliters",
-  "Discount": 0,
+  "Discount": "25.85%",
   "SalePrice": "₹370.00",
   "Model": "TW3",
   "Country": "USA"

@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41jo+Q8hmvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71yTUQGrxUL.jpg | https://m.media-amazon.com/images/I/41ZLYpgEcgL.jpg | https://m.media-amazon.com/images/I/61XFCgM266L.jpg | https://m.media-amazon.com/images/I/41QcUEFKZGL.jpg | https://m.media-amazon.com/images/I/61fi46esUAL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/41dXQHbgJRL.jpg | https://m.media-amazon.com/images/I/41jo+Q8hmvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.01%",
   "SalePrice": "₹6,699.00",
   "Model": "DEWDCD708N"
 }

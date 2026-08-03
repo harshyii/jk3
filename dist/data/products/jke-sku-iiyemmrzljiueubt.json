@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41vO5m6YYtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61lwPgbm51L.jpg | https://m.media-amazon.com/images/I/41Qir8BN6ML.jpg | https://m.media-amazon.com/images/I/41x66HvPX8L.jpg | https://m.media-amazon.com/images/I/41uVI8f4xPL.jpg | https://m.media-amazon.com/images/I/51QBLxQ2WeL.jpg | https://m.media-amazon.com/images/I/41vO5m6YYtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "200 Grams",
-  "Discount": 0,
+  "Discount": "72.87%",
   "SalePrice": "₹284.00",
   "Country": "India"
 }

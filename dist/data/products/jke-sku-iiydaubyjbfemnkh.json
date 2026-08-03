@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41uqKCKZ0NL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71odd8Zbd-L.jpg | https://m.media-amazon.com/images/I/31hr8DNWryL.jpg | https://m.media-amazon.com/images/I/41uqKCKZ0NL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.76%",
   "SalePrice": "₹3,740.00",
   "Model": "A10FB1G"
 }

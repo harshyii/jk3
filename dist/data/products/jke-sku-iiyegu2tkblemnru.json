@@ -84,9 +84,9 @@
     "https://m.media-amazon.com/images/I/51bKKF1Z8kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81MbhXNU9EL.jpg | https://m.media-amazon.com/images/I/41WpTXh97LL.jpg | https://m.media-amazon.com/images/I/41ksHuIKB4L.jpg | https://m.media-amazon.com/images/I/4127JFBAqjL.jpg | https://m.media-amazon.com/images/I/41wjFpR8tVL.jpg | https://m.media-amazon.com/images/I/51Sw68I2isL.jpg | https://m.media-amazon.com/images/I/41Po6OFWvRL.jpg | https://m.media-amazon.com/images/I/51bKKF1Z8kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹12,015.85",
   "Model": "BFB20SW",
   "Country": "USA"

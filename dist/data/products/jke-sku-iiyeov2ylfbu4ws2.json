@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41FGDrZuv5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61G6ROoMysL.jpg | https://m.media-amazon.com/images/I/315IzDVvXiL.jpg | https://m.media-amazon.com/images/I/3101PoRgA6L.jpg | https://m.media-amazon.com/images/I/31tYNuPbtpL.jpg | https://m.media-amazon.com/images/I/31A9YgLVc9L.jpg | https://m.media-amazon.com/images/I/41mh6jcPIPL.jpg | https://m.media-amazon.com/images/I/41Q6ZK80JXL.jpg | https://m.media-amazon.com/images/I/41FGDrZuv5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.27%",
   "SalePrice": "₹2,549.00",
   "Model": "DSM21-100B"
 }

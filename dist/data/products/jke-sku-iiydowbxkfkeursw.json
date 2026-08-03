@@ -41,8 +41,8 @@
     "https://m.media-amazon.com/images/I/51RORITi2VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91BR6gSvR+L.jpg | https://m.media-amazon.com/images/I/51RORITi2VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2000 Grams",
-  "Discount": 0,
+  "Discount": "42.87%",
   "SalePrice": "₹2,798.00"
 }

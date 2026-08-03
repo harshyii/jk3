@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41SmfL7xjpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XzXhtQLmL.jpg | https://m.media-amazon.com/images/I/41thUKTrCUL.jpg | https://m.media-amazon.com/images/I/31-pKYZYAuL.jpg | https://m.media-amazon.com/images/I/41PKb7ccjgL.jpg | https://m.media-amazon.com/images/I/41NrTzEhbJL.jpg | https://m.media-amazon.com/images/I/51ZiVxOjICL.jpg | https://m.media-amazon.com/images/I/41SmfL7xjpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹5,999.00",
   "Model": "Solar Panel"
 }

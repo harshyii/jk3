@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41-O3WjfrQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41rNnHmv3nL.jpg | https://m.media-amazon.com/images/I/211YOpDYqaL.jpg | https://m.media-amazon.com/images/I/413fCScKGnL.jpg | https://m.media-amazon.com/images/I/41WsY-KA-0L.jpg | https://m.media-amazon.com/images/I/411RSkqokQL.jpg | https://m.media-amazon.com/images/I/41GVzzENRfL.jpg | https://m.media-amazon.com/images/I/41EIxuBuFmL.jpg | https://m.media-amazon.com/images/I/41-O3WjfrQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34%",
   "SalePrice": "₹6,599.00",
   "Model": "PRIME 1150 MiLi",
   "Country": "India"

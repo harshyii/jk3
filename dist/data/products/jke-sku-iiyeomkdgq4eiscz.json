@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/31-nyFQBRDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717Qpv7WDeL.jpg | https://m.media-amazon.com/images/I/41c3qH13-4L.jpg | https://m.media-amazon.com/images/I/41W0mTgCZRL.jpg | https://m.media-amazon.com/images/I/31ApseoX0bL.jpg | https://m.media-amazon.com/images/I/51yiZI+ohNL.jpg | https://m.media-amazon.com/images/I/51IHksbzySL.jpg | https://m.media-amazon.com/images/I/41JAJqdo6YL.jpg | https://m.media-amazon.com/images/I/31-nyFQBRDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "75.08%",
   "SalePrice": "₹249.00",
   "Model": "PC-KN01",
   "Country": "China"

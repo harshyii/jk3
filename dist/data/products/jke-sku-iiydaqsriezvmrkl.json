@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51UlQCM5OmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71pGWnr3UBL.jpg | https://m.media-amazon.com/images/I/31V-gZuOf9L.jpg | https://m.media-amazon.com/images/I/51UGylS3GwL.jpg | https://m.media-amazon.com/images/I/51NLHd6-cJL.jpg | https://m.media-amazon.com/images/I/51UlQCM5OmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "70.95%",
   "SalePrice": "₹4,605.15",
   "Model": "GAP_V34_16SW"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51ThdfJNKxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71IUbs5JVVL.jpg | https://m.media-amazon.com/images/I/41sf42PdgaL.jpg | https://m.media-amazon.com/images/I/515+dp0CpkL.jpg | https://m.media-amazon.com/images/I/5151FoexHNL.jpg | https://m.media-amazon.com/images/I/51CxXzQv2bL.jpg | https://m.media-amazon.com/images/I/51vQu2-ECuL.jpg | https://m.media-amazon.com/images/I/51ThdfJNKxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.48%",
   "SalePrice": "₹425.00",
   "Model": "17103"
 }

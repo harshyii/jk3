@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41RxxJExdnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71u9ZFknYVL.jpg | https://m.media-amazon.com/images/I/41oR9-VjDNL.jpg | https://m.media-amazon.com/images/I/41M0z08DwwL.jpg | https://m.media-amazon.com/images/I/519rRaKtxjL.jpg | https://m.media-amazon.com/images/I/41O-thohYML.jpg | https://m.media-amazon.com/images/I/511deMffqLL.jpg | https://m.media-amazon.com/images/I/51HfEyqhn4L.jpg | https://m.media-amazon.com/images/I/41RxxJExdnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "46.02%",
   "SalePrice": "₹9,974.00",
   "Model": "YL-E20pro-US"
 }

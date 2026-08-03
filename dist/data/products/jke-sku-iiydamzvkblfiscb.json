@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/316pQnR2wbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61OUtdCPeTL.jpg | https://m.media-amazon.com/images/I/51KCuya+glL.jpg | https://m.media-amazon.com/images/I/41p3ZvBPjeL.jpg | https://m.media-amazon.com/images/I/51yhSya8ZjL.jpg | https://m.media-amazon.com/images/I/316pQnR2wbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "2.63%",
   "SalePrice": "₹9,250.00",
   "Model": "‎2615S690JA"
 }

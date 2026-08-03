@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31nb1tCt+ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51w0QjJbhzL.jpg | https://m.media-amazon.com/images/I/31nb1tCt+ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "91.27%",
   "SalePrice": "₹349.00",
   "Model": "B01M63A96U"
 }

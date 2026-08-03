@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51XsNQ73K+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71PQTuGtLzL.jpg | https://m.media-amazon.com/images/I/71PQTuGtLzL.jpg | https://m.media-amazon.com/images/I/41hdMSo5RRL.jpg | https://m.media-amazon.com/images/I/41XojjsV1sL.jpg | https://m.media-amazon.com/images/I/41kiFJONJjL.jpg | https://m.media-amazon.com/images/I/51XsNQ73K+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Pouch",
-  "Discount": 0,
+  "Discount": "38.26%",
   "SalePrice": "₹1,099.00",
   "Country": "India"
 }

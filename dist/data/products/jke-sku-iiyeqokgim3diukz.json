@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51bYIG0wwAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vIFe00pQL.jpg | https://m.media-amazon.com/images/I/41lKx+nNXZL.jpg | https://m.media-amazon.com/images/I/41YAuz6FhEL.jpg | https://m.media-amazon.com/images/I/41cLqX8MjKL.jpg | https://m.media-amazon.com/images/I/31Fb3eXd34L.jpg | https://m.media-amazon.com/images/I/41AO+42smhL.jpg | https://m.media-amazon.com/images/I/41beVWVbV-L.jpg | https://m.media-amazon.com/images/I/51bYIG0wwAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "26.7%",
   "SalePrice": "₹2,199.00",
   "Model": "Shakti-12v-15ah",
   "Country": "India"

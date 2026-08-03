@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51q28xhurKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZaT+joH5L.jpg | https://m.media-amazon.com/images/I/31bMORfgJjL.jpg | https://m.media-amazon.com/images/I/41YXZ1Qi6QL.jpg | https://m.media-amazon.com/images/I/51q28xhurKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.2 Milliliters",
-  "Discount": 0,
+  "Discount": "71.2%",
   "SalePrice": "₹4,566.00",
   "Model": "GAP_V38_16SW"
 }

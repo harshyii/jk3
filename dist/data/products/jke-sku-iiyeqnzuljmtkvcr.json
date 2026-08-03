@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41LVQyBY2eL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81zMXungq3L.jpg | https://m.media-amazon.com/images/I/41u1QlNbY6L.jpg | https://m.media-amazon.com/images/I/41LVQyBY2eL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹243.00",
   "Model": "D093800-5pc"
 }

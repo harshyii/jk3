@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41OqF4Cje8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81yxUmHJe0L.jpg | https://m.media-amazon.com/images/I/41Hfe3NRtxL.jpg | https://m.media-amazon.com/images/I/61X7YymifVL.jpg | https://m.media-amazon.com/images/I/51e3O0UZwqL.jpg | https://m.media-amazon.com/images/I/51fBzWfXfaL.jpg | https://m.media-amazon.com/images/I/41citTwKRmL.jpg | https://m.media-amazon.com/images/I/51xGzvFPAGL.jpg | https://m.media-amazon.com/images/I/41OqF4Cje8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.25%",
   "SalePrice": "₹2,599.00",
   "Model": "CMG-12B"
 }

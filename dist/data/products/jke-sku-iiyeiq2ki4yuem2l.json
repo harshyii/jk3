@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41fUMKgWWvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61yhnD4-YWL.jpg | https://m.media-amazon.com/images/I/31SRDOrDTlL.jpg | https://m.media-amazon.com/images/I/21ECZZF5D7L.jpg | https://m.media-amazon.com/images/I/31ap9axmhdL.jpg | https://m.media-amazon.com/images/I/31c7OwygygL.jpg | https://m.media-amazon.com/images/I/41fUMKgWWvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "11.71%",
   "SalePrice": "₹309.00",
   "Model": "810, 904, 903"
 }

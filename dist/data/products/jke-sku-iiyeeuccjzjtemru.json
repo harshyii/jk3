@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51jZfCUDN2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619ih2FQgJL.jpg | https://m.media-amazon.com/images/I/41GcmeepdCL.jpg | https://m.media-amazon.com/images/I/41+Eq5rfRGL.jpg | https://m.media-amazon.com/images/I/413Pjw88FmL.jpg | https://m.media-amazon.com/images/I/41YRAt9T1NL.jpg | https://m.media-amazon.com/images/I/51jZfCUDN2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹99.00",
   "Model": "HGFH770"
 }

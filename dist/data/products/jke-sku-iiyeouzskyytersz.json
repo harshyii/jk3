@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51pNZl28VbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61z2bj56BQL.jpg | https://m.media-amazon.com/images/I/61z2bj56BQL.jpg | https://m.media-amazon.com/images/I/51vvZLAdLeL.jpg | https://m.media-amazon.com/images/I/51ClgbcMArL.jpg | https://m.media-amazon.com/images/I/41PasoMetiL.jpg | https://m.media-amazon.com/images/I/41UUgyLCMYL.jpg | https://m.media-amazon.com/images/I/511s4hbzKoL.jpg | https://m.media-amazon.com/images/I/51pNZl28VbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "94.42%",
   "SalePrice": "₹39.00",
   "Model": "SOLAR 004"
 }

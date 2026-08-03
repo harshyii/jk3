@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51Uoal2I0KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71QmMH7wEEL.jpg | https://m.media-amazon.com/images/I/41qmi-znFQL.jpg | https://m.media-amazon.com/images/I/514BD8exqkL.jpg | https://m.media-amazon.com/images/I/41bFuAlGKIL.jpg | https://m.media-amazon.com/images/I/5162radm0QL.jpg | https://m.media-amazon.com/images/I/5138+yz6ScL.jpg | https://m.media-amazon.com/images/I/41A4wrBIA8L.jpg | https://m.media-amazon.com/images/I/51Uoal2I0KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Liters",
-  "Discount": 0,
+  "Discount": "1.97%",
   "SalePrice": "₹748.00",
   "Model": "SG1K",
   "Country": "India"

@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31h4UbgknTS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61026DN3-7L.jpg | https://m.media-amazon.com/images/I/31Si9UDdI4L.jpg | https://m.media-amazon.com/images/I/31h4UbgknTS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.56%",
   "SalePrice": "₹384.13",
   "Model": "CPL/CV/6"
 }

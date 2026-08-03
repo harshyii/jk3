@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/417pLotuqDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81OOeOii6nL.jpg | https://m.media-amazon.com/images/I/31OQ7ggD6HL.jpg | https://m.media-amazon.com/images/I/41tYvRndsbL.jpg | https://m.media-amazon.com/images/I/210toYC7TyL.jpg | https://m.media-amazon.com/images/I/31A1QDBMCIL.jpg | https://m.media-amazon.com/images/I/417pLotuqDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "29.29%",
   "SalePrice": "₹9,433.00",
   "Model": "3522",
   "Country": "USA"

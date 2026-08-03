@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41nIGJMAmOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512m1DzF54L.jpg | https://m.media-amazon.com/images/I/31a-K3+t0wL.jpg | https://m.media-amazon.com/images/I/41LBJ4DZXML.jpg | https://m.media-amazon.com/images/I/41mFaD3OkRL.jpg | https://m.media-amazon.com/images/I/31NigpkBcmL.jpg | https://m.media-amazon.com/images/I/31toaPhi15L.jpg | https://m.media-amazon.com/images/I/41nIGJMAmOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "25 Grams",
-  "Discount": 0,
+  "Discount": "42.89%",
   "SalePrice": "₹285.00",
   "Model": "Solder wire rosin core"
 }

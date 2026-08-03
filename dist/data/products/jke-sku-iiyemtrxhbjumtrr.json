@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51sKvolIm-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81TluNgUx9L.jpg | https://m.media-amazon.com/images/I/51hYHDASiBL.jpg | https://m.media-amazon.com/images/I/51KPKnQ7hRL.jpg | https://m.media-amazon.com/images/I/51bs6858qoL.jpg | https://m.media-amazon.com/images/I/41VHDIGdYDL.jpg | https://m.media-amazon.com/images/I/51e5vWI-dGL.jpg | https://m.media-amazon.com/images/I/51sKvolIm-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.76%",
   "SalePrice": "₹4,499.00",
   "Model": "VR BW21-32"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41EoMPKkIkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81z6RbC8a2L.jpg | https://m.media-amazon.com/images/I/41sh1ed1sML.jpg | https://m.media-amazon.com/images/I/41WUWZjfM4L.jpg | https://m.media-amazon.com/images/I/41EoMPKkIkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.95%",
   "SalePrice": "₹15,500.00",
   "Model": "N5900B"
 }

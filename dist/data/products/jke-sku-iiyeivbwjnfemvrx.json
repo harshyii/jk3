@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31K0OfqQWaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51f6HaD6IYL.jpg | https://m.media-amazon.com/images/I/313HRkx+SIL.jpg | https://m.media-amazon.com/images/I/31iyIZPU-lL.jpg | https://m.media-amazon.com/images/I/31zbjHUmkUL.jpg | https://m.media-amazon.com/images/I/31cIu2UjgXL.jpg | https://m.media-amazon.com/images/I/31TZqz6SB7L.jpg | https://m.media-amazon.com/images/I/41pigavXpZL.jpg | https://m.media-amazon.com/images/I/31K0OfqQWaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "27.45%",
   "SalePrice": "₹1,160.00",
   "Country": "‎Hong Kong"
 }

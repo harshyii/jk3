@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/21GoaBgmj8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21d550lka5L.jpg | https://m.media-amazon.com/images/I/21d550lka5L.jpg | https://m.media-amazon.com/images/I/21GoaBgmj8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "78.73%",
   "SalePrice": "₹489.00",
   "Model": "TRSO001"
 }

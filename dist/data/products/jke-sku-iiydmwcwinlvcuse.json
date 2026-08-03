@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6191b28YO+L.jpg | https://m.media-amazon.com/images/I/31+CEdap0yL.jpg | https://m.media-amazon.com/images/I/61CHtuCJzLL.jpg | https://m.media-amazon.com/images/I/31uZ+DWKMiL.jpg | https://m.media-amazon.com/images/I/51zOs0JF4fL.jpg | https://m.media-amazon.com/images/I/51b9RzgbWRL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.66%",
   "SalePrice": "₹4,849.00",
   "Model": "DWB800-IN"
 }

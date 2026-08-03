@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31m6k72J7rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nH2XWn2+L.jpg | https://m.media-amazon.com/images/I/41d3i4otCUL.jpg | https://m.media-amazon.com/images/I/31m6k72J7rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "109.728 Meters",
-  "Discount": 0,
+  "Discount": "53.82%",
   "SalePrice": "₹990.00",
   "Model": "30707387065950"
 }

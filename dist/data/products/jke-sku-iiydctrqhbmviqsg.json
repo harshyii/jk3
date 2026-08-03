@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41MsuA+OCBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+VOS1O6UL.jpg | https://m.media-amazon.com/images/I/41MsuA+OCBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,502.75",
   "Model": "296 141",
   "Country": "USA"

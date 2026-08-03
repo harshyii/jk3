@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/61T7+gI85vL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XVxGr1SrL.jpg | https://m.media-amazon.com/images/I/51XVxGr1SrL.jpg | https://m.media-amazon.com/images/I/61oA0RWuVbL.jpg | https://m.media-amazon.com/images/I/51M5St4b-oL.jpg | https://m.media-amazon.com/images/I/410sisjF0cL.jpg | https://m.media-amazon.com/images/I/51OY8cMuu8L.jpg | https://m.media-amazon.com/images/I/513SONsiUCL.jpg | https://m.media-amazon.com/images/I/61T7+gI85vL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹298.00",
   "Model": "SPKR-KBL"
 }

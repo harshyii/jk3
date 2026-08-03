@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/414pyGAuFBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nyM69NWlL.jpg | https://m.media-amazon.com/images/I/41FYSTZAh3L.jpg | https://m.media-amazon.com/images/I/41XPiDq-R3L.jpg | https://m.media-amazon.com/images/I/510jwwNz8vL.jpg | https://m.media-amazon.com/images/I/41pGiJFfkLL.jpg | https://m.media-amazon.com/images/I/41H-XXUTngL.jpg | https://m.media-amazon.com/images/I/41U8+8152QL.jpg | https://m.media-amazon.com/images/I/414pyGAuFBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹799.00",
   "Model": "TRBK-SPECTRA-EB1",
   "Country": "India"

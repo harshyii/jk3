@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51sHzRTkd6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61QkA03+c7L.jpg | https://m.media-amazon.com/images/I/51i4Qrhg9FL.jpg | https://m.media-amazon.com/images/I/41laBfltu+L.jpg | https://m.media-amazon.com/images/I/51BZ81MePtL.jpg | https://m.media-amazon.com/images/I/51MYZTghQFL.jpg | https://m.media-amazon.com/images/I/51adAo0Hd3L.jpg | https://m.media-amazon.com/images/I/41k07a4IcNL.jpg | https://m.media-amazon.com/images/I/51sHzRTkd6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹43,329.21",
   "Model": "XSC03Z"
 }

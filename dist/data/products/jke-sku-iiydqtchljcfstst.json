@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41fEMfee8lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71gh4bckkzL.jpg | https://m.media-amazon.com/images/I/41fEMfee8lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.66%",
   "SalePrice": "₹5,136.55",
   "Model": "BV"
 }

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/416ntJeD1NL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61kQxdtTdKL.jpg | https://m.media-amazon.com/images/I/31qaUjtCJWL.jpg | https://m.media-amazon.com/images/I/416ntJeD1NL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.14%",
   "SalePrice": "₹369.00",
   "Model": "DT2166-QZ",
   "Country": "Switzerland"

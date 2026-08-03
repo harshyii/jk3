@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41JS3QRoDFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81CPLS1GwnL.jpg | https://m.media-amazon.com/images/I/41ARNBb0EKL.jpg | https://m.media-amazon.com/images/I/41H980qF-qL.jpg | https://m.media-amazon.com/images/I/418kmfysrKL.jpg | https://m.media-amazon.com/images/I/41t-ejMMYML.jpg | https://m.media-amazon.com/images/I/31R7PNrBwmL.jpg | https://m.media-amazon.com/images/I/41JS3QRoDFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.47%",
   "SalePrice": "₹14,695.00",
   "Model": "DCD703D2-B1"
 }

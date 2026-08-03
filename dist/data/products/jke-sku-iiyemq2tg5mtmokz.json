@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41yvpU4iAoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41p5jmUZTrL.jpg | https://m.media-amazon.com/images/I/41p5jmUZTrL.jpg | https://m.media-amazon.com/images/I/41OEvejXs+L.jpg | https://m.media-amazon.com/images/I/41yvpU4iAoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.47%",
   "SalePrice": "₹2,251.00",
   "Model": "16130"
 }

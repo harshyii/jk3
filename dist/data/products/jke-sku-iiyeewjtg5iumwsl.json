@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41emIs2Gr7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71nCZHGJN2L.jpg | https://m.media-amazon.com/images/I/41iMFTF+MtL.jpg | https://m.media-amazon.com/images/I/41Pkm0YJxmL.jpg | https://m.media-amazon.com/images/I/415v+mlq8SL.jpg | https://m.media-amazon.com/images/I/41emIs2Gr7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "24.00 Count",
-  "Discount": 0,
+  "Discount": "3.62%",
   "SalePrice": "₹346.00",
   "Model": "54070",
   "Country": "USA"

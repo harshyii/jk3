@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51078P6BBmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61MuwtPADdL.jpg | https://m.media-amazon.com/images/I/41n0yiqCV2L.jpg | https://m.media-amazon.com/images/I/41+gbM+bRLL.jpg | https://m.media-amazon.com/images/I/51f38Dozo8L.jpg | https://m.media-amazon.com/images/I/51hhyrRbPsL.jpg | https://m.media-amazon.com/images/I/517jTCNvRqL.jpg | https://m.media-amazon.com/images/I/51DO5e0saoL.jpg | https://m.media-amazon.com/images/I/51078P6BBmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "31.05%",
   "SalePrice": "₹45,450.00",
   "Model": "XCU14Z"
 }

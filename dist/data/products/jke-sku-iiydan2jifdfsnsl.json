@@ -31,9 +31,9 @@
     "https://m.media-amazon.com/images/I/31rMLXkpApL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31rMLXkpApL.jpg | https://m.media-amazon.com/images/I/31rMLXkpApL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.46%",
   "SalePrice": "₹27,748.00",
   "Model": "D QO 2100",
   "Country": "USA"

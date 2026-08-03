@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41UFCfHxBcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714pwkiePyL.jpg | https://m.media-amazon.com/images/I/31VbUwiMEGL.jpg | https://m.media-amazon.com/images/I/31N5Y+zovtL.jpg | https://m.media-amazon.com/images/I/31MScWabPhL.jpg | https://m.media-amazon.com/images/I/41UFCfHxBcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.96%",
   "SalePrice": "₹5,323.00",
   "Model": "31660"
 }

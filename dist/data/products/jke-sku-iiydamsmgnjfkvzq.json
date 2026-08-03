@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/413BCR0u7wL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EAadWd-0L.jpg | https://m.media-amazon.com/images/I/41Dw+4PXszL.jpg | https://m.media-amazon.com/images/I/31IDKZArFzL.jpg | https://m.media-amazon.com/images/I/51HA5FBkXRL.jpg | https://m.media-amazon.com/images/I/41xAI+-HQlL.jpg | https://m.media-amazon.com/images/I/511+SLXK2GL.jpg | https://m.media-amazon.com/images/I/512HhOSvS5L.jpg | https://m.media-amazon.com/images/I/413BCR0u7wL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.24%",
   "SalePrice": "₹44,498.00",
   "Model": "4000-6/50"
 }

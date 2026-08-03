@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/21lDX+iiCgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41EcNJpIEBL.jpg | https://m.media-amazon.com/images/I/41EcNJpIEBL.jpg | https://m.media-amazon.com/images/I/31s-E-HgAuL.jpg | https://m.media-amazon.com/images/I/41ckIpenT3L.jpg | https://m.media-amazon.com/images/I/31xEMpPzDYL.jpg | https://m.media-amazon.com/images/I/21lDX+iiCgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "61.78%",
   "SalePrice": "₹99.00",
   "Model": "DAF562"
 }

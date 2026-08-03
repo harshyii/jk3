@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41PXAd1TonL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31wmqY9NqHL.jpg | https://m.media-amazon.com/images/I/21oXHLm39oL.jpg | https://m.media-amazon.com/images/I/31DRUgNUa2L.jpg | https://m.media-amazon.com/images/I/51odIpFGC1L.jpg | https://m.media-amazon.com/images/I/51pNjLbeLIL.jpg | https://m.media-amazon.com/images/I/41PXAd1TonL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Set",
-  "Discount": 0,
+  "Discount": "40.1%",
   "SalePrice": "₹11,950.00",
   "Model": "SWST-P3R1-EHGI-V1"
 }

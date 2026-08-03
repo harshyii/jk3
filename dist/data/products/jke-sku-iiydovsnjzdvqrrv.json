@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31ZVluFV4HL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+1syCH0BL.jpg | https://m.media-amazon.com/images/I/4142l3Su5LL.jpg | https://m.media-amazon.com/images/I/51HELpmR3UL.jpg | https://m.media-amazon.com/images/I/41GAiDrUZ-L.jpg | https://m.media-amazon.com/images/I/41A4zhYOzcL.jpg | https://m.media-amazon.com/images/I/314X3bKrFZL.jpg | https://m.media-amazon.com/images/I/31ZVluFV4HL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45%",
   "SalePrice": "₹110.00",
   "Model": "SAEESHHDJRAED10M",
   "Country": "India"

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31MpG2njgaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51asQZMuM1L.jpg | https://m.media-amazon.com/images/I/31MpG2njgaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "17.59%",
   "SalePrice": "₹445.00",
   "Model": "AOCC053",
   "Country": "India"

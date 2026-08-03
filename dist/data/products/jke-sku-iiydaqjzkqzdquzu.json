@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41sJkJczfWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Jzk8a5bRL.jpg | https://m.media-amazon.com/images/I/41M-RR2TUTL.jpg | https://m.media-amazon.com/images/I/41kLUgoRU-L.jpg | https://m.media-amazon.com/images/I/416ArCVKhyL.jpg | https://m.media-amazon.com/images/I/41sJkJczfWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "266.1618 Milliliters",
-  "Discount": 0,
+  "Discount": "15.64%",
   "SalePrice": "₹4,639.00",
   "Model": "T-43",
   "Country": "USA"

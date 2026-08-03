@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51qXrKloBFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61n3lrWaAJL.jpg | https://m.media-amazon.com/images/I/41BysAdad8L.jpg | https://m.media-amazon.com/images/I/51mlB2HEsQL.jpg | https://m.media-amazon.com/images/I/515jj4tqxLL.jpg | https://m.media-amazon.com/images/I/51td1ng39iL.jpg | https://m.media-amazon.com/images/I/51MufY2-fXL.jpg | https://m.media-amazon.com/images/I/51RT48pePeL.jpg | https://m.media-amazon.com/images/I/51qXrKloBFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "70.15%",
   "SalePrice": "₹2,089.00",
   "Model": "WC-CD1007-B"
 }

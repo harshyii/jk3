@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41FtAjII0xL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7196XtFF7tL.jpg | https://m.media-amazon.com/images/I/41vPig7mArL.jpg | https://m.media-amazon.com/images/I/41obK+PeMZL.jpg | https://m.media-amazon.com/images/I/511H1wihzML.jpg | https://m.media-amazon.com/images/I/41F26G9GdnL.jpg | https://m.media-amazon.com/images/I/51YGzsbv4fL.jpg | https://m.media-amazon.com/images/I/51LpCJ2HFEL.jpg | https://m.media-amazon.com/images/I/41FtAjII0xL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.33%",
   "SalePrice": "₹19,999.00",
   "Model": "M500",
   "Country": "India"

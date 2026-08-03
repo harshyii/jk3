@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51CvQxsjNwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51t6gtRVpNL.jpg | https://m.media-amazon.com/images/I/51t6gtRVpNL.jpg | https://m.media-amazon.com/images/I/51vvZLAdLeL.jpg | https://m.media-amazon.com/images/I/219-aPRC4LL.jpg | https://m.media-amazon.com/images/I/31OK5pB1UkL.jpg | https://m.media-amazon.com/images/I/41oby9fbCWL.jpg | https://m.media-amazon.com/images/I/41d+mjNorNL.jpg | https://m.media-amazon.com/images/I/51CvQxsjNwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.2%",
   "SalePrice": "₹119.00",
   "Model": "SOLAR-1005"
 }

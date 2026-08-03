@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31yCnQoehvS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ZylNuLSUL.jpg | https://m.media-amazon.com/images/I/31F6V+IFIwL.jpg | https://m.media-amazon.com/images/I/61eU9H+XPPL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41w5a7GuL+L.jpg | https://m.media-amazon.com/images/I/51AdWByCfxL.jpg | https://m.media-amazon.com/images/I/41eVHuWnubL.jpg | https://m.media-amazon.com/images/I/51LTtLXv4jL.jpg | https://m.media-amazon.com/images/I/31yCnQoehvS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "150 Milliliters",
-  "Discount": 0,
+  "Discount": "8.08%",
   "SalePrice": "₹239.00",
   "Country": "India"
 }

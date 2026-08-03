@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41+B0uMHJXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713IG40jg9L.jpg | https://m.media-amazon.com/images/I/41Vw+qaMWlL.jpg | https://m.media-amazon.com/images/I/31Lmc6FHtUL.jpg | https://m.media-amazon.com/images/I/417Ltiot7xL.jpg | https://m.media-amazon.com/images/I/51aTv6pCwwL.jpg | https://m.media-amazon.com/images/I/51aMDLg8aiL.jpg | https://m.media-amazon.com/images/I/41QXrOvGybL.jpg | https://m.media-amazon.com/images/I/41+B0uMHJXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "7.14%",
   "SalePrice": "₹26,000.00",
   "Model": "F0133000JA"
 }

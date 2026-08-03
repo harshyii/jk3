@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51LWsw9OtsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/817tXIU9mrL.jpg | https://m.media-amazon.com/images/I/41FNTJsX6gL.jpg | https://m.media-amazon.com/images/I/51rmAHTf3-L.jpg | https://m.media-amazon.com/images/I/51SDQMApoGL.jpg | https://m.media-amazon.com/images/I/41jfhu8mypL.jpg | https://m.media-amazon.com/images/I/51pUeQKATWL.jpg | https://m.media-amazon.com/images/I/51J6gq3cyPL.jpg | https://m.media-amazon.com/images/I/51LWsw9OtsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "71.31%",
   "SalePrice": "₹4,674.00",
   "Model": "SPI_401_16SW",
   "Country": "USA"

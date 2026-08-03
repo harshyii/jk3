@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/21NcnAmRCvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61i+rztf2UL.jpg | https://m.media-amazon.com/images/I/316Hd34Ir2L.jpg | https://m.media-amazon.com/images/I/41Y-WEiiGgL.jpg | https://m.media-amazon.com/images/I/41B+zSsJ-eL.jpg | https://m.media-amazon.com/images/I/21NcnAmRCvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60.06%",
   "SalePrice": "₹399.00",
   "Model": "801"
 }

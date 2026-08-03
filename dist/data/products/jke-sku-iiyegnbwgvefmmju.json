@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51ErqdM07iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VYumrraxL.jpg | https://m.media-amazon.com/images/I/411SGrh5-dL.jpg | https://m.media-amazon.com/images/I/41wj+sZ-E5L.jpg | https://m.media-amazon.com/images/I/41OpHGty+1L.jpg | https://m.media-amazon.com/images/I/41-UWeob1JL.jpg | https://m.media-amazon.com/images/I/41b1-u5M7OL.jpg | https://m.media-amazon.com/images/I/4101m63XdZL.jpg | https://m.media-amazon.com/images/I/51ErqdM07iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "35.01%",
   "SalePrice": "₹12,999.00",
   "Model": "BT-Solar-Panel-Nano-Coat-5L"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/311KuguxCnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51xk1TBZqDL.jpg | https://m.media-amazon.com/images/I/31ihepbT6ZL.jpg | https://m.media-amazon.com/images/I/31P3SMQtxAL.jpg | https://m.media-amazon.com/images/I/31-dis5t3vL.jpg | https://m.media-amazon.com/images/I/311KuguxCnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "43.35%",
   "SalePrice": "₹3,399.00",
   "Model": "Xpt 521"
 }

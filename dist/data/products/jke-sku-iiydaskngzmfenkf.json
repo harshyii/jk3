@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/61rLd3LHqFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71FuS3LQaaL.jpg | https://m.media-amazon.com/images/I/41KUcBzzEfL.jpg | https://m.media-amazon.com/images/I/51mscoJrleL.jpg | https://m.media-amazon.com/images/I/41vuMz9SN1L.jpg | https://m.media-amazon.com/images/I/61maYY7TjSL.jpg | https://m.media-amazon.com/images/I/41kYmQqE09L.jpg | https://m.media-amazon.com/images/I/61rLd3LHqFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "46.95%",
   "SalePrice": "₹1,759.00",
   "Model": "G720R"
 }

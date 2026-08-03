@@ -36,9 +36,9 @@
     "https://m.media-amazon.com/images/I/41Gqa1yBvlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Gqa1yBvlL.jpg | https://m.media-amazon.com/images/I/41Gqa1yBvlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.25%",
   "SalePrice": "₹60,599.00",
   "Model": "EE-B2-6030 LFPro",
   "Country": "India"

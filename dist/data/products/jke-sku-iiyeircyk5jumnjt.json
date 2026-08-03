@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51QnpuCi9OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51OR1iKVJYL.jpg | https://m.media-amazon.com/images/I/214gurzT0AL.jpg | https://m.media-amazon.com/images/I/51xXMzICJoL.jpg | https://m.media-amazon.com/images/I/51j9S2hyvSL.jpg | https://m.media-amazon.com/images/I/51LyHU3NksL.jpg | https://m.media-amazon.com/images/I/51E7FDQ8lQL.jpg | https://m.media-amazon.com/images/I/51QnpuCi9OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "17.54%",
   "SalePrice": "₹470.00",
   "Model": "SPS-113"
 }

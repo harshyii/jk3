@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41U-2b9dLcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UsPzggIrL.jpg | https://m.media-amazon.com/images/I/31z4LWi2hqL.jpg | https://m.media-amazon.com/images/I/41hNKwriNRL.jpg | https://m.media-amazon.com/images/I/41HdXh6o6zL.jpg | https://m.media-amazon.com/images/I/41sVW+zYxLL.jpg | https://m.media-amazon.com/images/I/41FH7rP1FsL.jpg | https://m.media-amazon.com/images/I/41BBiXGAiGL.jpg | https://m.media-amazon.com/images/I/41U-2b9dLcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "31.11%",
   "SalePrice": "₹10,299.00",
   "Model": "Zelio M 1600"
 }

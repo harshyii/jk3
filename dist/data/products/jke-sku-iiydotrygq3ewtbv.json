@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/514yu0D6UAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/413vy6FcNgL.jpg | https://m.media-amazon.com/images/I/413vy6FcNgL.jpg | https://m.media-amazon.com/images/I/31jONVDFlbL.jpg | https://m.media-amazon.com/images/I/21pz76iZRWL.jpg | https://m.media-amazon.com/images/I/31Pie3+CiSL.jpg | https://m.media-amazon.com/images/I/41y9NLp7NpL.jpg | https://m.media-amazon.com/images/I/514yu0D6UAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "5.41%",
   "SalePrice": "₹1,459.00",
   "Model": "TC"
 }

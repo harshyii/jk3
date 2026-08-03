@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51hNooYtYgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61kYNVIld7L.jpg | https://m.media-amazon.com/images/I/41yRl+fNzAL.jpg | https://m.media-amazon.com/images/I/41cr-jN5FyL.jpg | https://m.media-amazon.com/images/I/41bhUW+YH8L.jpg | https://m.media-amazon.com/images/I/51ut5zZdZLL.jpg | https://m.media-amazon.com/images/I/414PfGpkIQL.jpg | https://m.media-amazon.com/images/I/51hNooYtYgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.37%",
   "SalePrice": "₹699.00",
   "Model": "SR56"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41GtSw5NqYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/818ombY7eiL.jpg | https://m.media-amazon.com/images/I/41hJr8L7P+L.jpg | https://m.media-amazon.com/images/I/41zHeLpWKjL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg | https://m.media-amazon.com/images/I/41GtSw5NqYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "35.44%",
   "SalePrice": "₹645.00",
   "Model": "WD100",
   "Country": "India"

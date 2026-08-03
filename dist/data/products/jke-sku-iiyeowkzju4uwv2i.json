@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31aSZm+2UrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/11x1ISU74RL.jpg | https://m.media-amazon.com/images/I/11x1ISU74RL.jpg | https://m.media-amazon.com/images/I/11dDCm81nNL.jpg | https://m.media-amazon.com/images/I/41rt9d3jzsL.jpg | https://m.media-amazon.com/images/I/315iPBvv-EL.jpg | https://m.media-amazon.com/images/I/31aSZm+2UrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35%",
   "SalePrice": "₹3,640.00",
   "Model": "S-2105"
 }

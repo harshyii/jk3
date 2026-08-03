@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51LXRldJNAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51L-tdXFXDL.jpg | https://m.media-amazon.com/images/I/31mivypC1oL.jpg | https://m.media-amazon.com/images/I/41slv3Cm18L.jpg | https://m.media-amazon.com/images/I/41AgDQl71OL.jpg | https://m.media-amazon.com/images/I/41vuccddnJL.jpg | https://m.media-amazon.com/images/I/51LXRldJNAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "27.25%",
   "SalePrice": "₹21,999.00",
   "Model": "899-631-1401-899-BA2-1524"
 }

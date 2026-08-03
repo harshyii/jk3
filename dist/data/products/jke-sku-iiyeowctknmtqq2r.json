@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51u7EXCCtDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/417-mpzAENL.jpg | https://m.media-amazon.com/images/I/311JzbCk0eL.jpg | https://m.media-amazon.com/images/I/417n0shY+8L.jpg | https://m.media-amazon.com/images/I/414NwpdoVaL.jpg | https://m.media-amazon.com/images/I/410PPEhA33L.jpg | https://m.media-amazon.com/images/I/21fOTZTbeCL.jpg | https://m.media-amazon.com/images/I/51rPMEMNVwL.jpg | https://m.media-amazon.com/images/I/51u7EXCCtDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.99%",
   "SalePrice": "₹41,950.00",
   "Model": "SW-1.5K Gamma Pro"
 }

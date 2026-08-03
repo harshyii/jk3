@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51kj4Yh2d8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Izbn-O+JL.jpg | https://m.media-amazon.com/images/I/51u947MaY8L.jpg | https://m.media-amazon.com/images/I/419o+YMwYLL.jpg | https://m.media-amazon.com/images/I/51kj4Yh2d8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,657.66",
   "Model": "T-01426",
   "Country": "USA"

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31yK-8O+GsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71iHkQakU6L.jpg | https://m.media-amazon.com/images/I/41oNNdoC9tL.jpg | https://m.media-amazon.com/images/I/31-RLjel7ML.jpg | https://m.media-amazon.com/images/I/21LiTe8EvFL.jpg | https://m.media-amazon.com/images/I/41ySiPdQYrL.jpg | https://m.media-amazon.com/images/I/31yK-8O+GsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.2%",
   "SalePrice": "₹349.00",
   "Model": "SOLAR"
 }

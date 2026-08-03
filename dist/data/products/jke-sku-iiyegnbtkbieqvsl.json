@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/61qE93Oji1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61l4kNsfxvL.jpg | https://m.media-amazon.com/images/I/41hPpEYFTXL.jpg | https://m.media-amazon.com/images/I/41FngxGN3wL.jpg | https://m.media-amazon.com/images/I/41RU8VERluL.jpg | https://m.media-amazon.com/images/I/41t48kMDTWL.jpg | https://m.media-amazon.com/images/I/61qE93Oji1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.54%",
   "SalePrice": "₹3,349.00",
   "Model": "CPAG-4-750W"
 }

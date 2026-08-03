@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/513jBT49u4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71u0H+7oExL.jpg | https://m.media-amazon.com/images/I/41kHwi4SmbL.jpg | https://m.media-amazon.com/images/I/41Y6KlobZUL.jpg | https://m.media-amazon.com/images/I/51vZ44-0upL.jpg | https://m.media-amazon.com/images/I/51X00QchKLL.jpg | https://m.media-amazon.com/images/I/41yaAzOehZL.jpg | https://m.media-amazon.com/images/I/513jBT49u4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.18%",
   "SalePrice": "₹24,925.00",
   "Model": "GSH500 SDS Max"
 }

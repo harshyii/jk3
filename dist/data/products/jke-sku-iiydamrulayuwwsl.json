@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31zY442h87L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51rdyCZJdOL.jpg | https://m.media-amazon.com/images/I/31QGg2CY11L.jpg | https://m.media-amazon.com/images/I/61-YJBxyVHL.jpg | https://m.media-amazon.com/images/I/51sHtB6p-OL.jpg | https://m.media-amazon.com/images/I/61KUAha04gL.jpg | https://m.media-amazon.com/images/I/31zY442h87L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "600 Milliliters",
-  "Discount": 0,
+  "Discount": "6.74%",
   "SalePrice": "₹913.00",
   "Model": "4997000.08"
 }

@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/51ch-F5zkxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ch-F5zkxL.jpg | https://m.media-amazon.com/images/I/51ch-F5zkxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.25%",
   "SalePrice": "₹60,599.00",
   "Model": "EE-B3-7242LFPro",
   "Country": "India"

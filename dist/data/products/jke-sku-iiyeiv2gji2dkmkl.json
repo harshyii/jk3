@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51OG6WyVu+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81mldJQv4wL.jpg | https://m.media-amazon.com/images/I/51Pzus66tUL.jpg | https://m.media-amazon.com/images/I/51q+cBjBy+L.jpg | https://m.media-amazon.com/images/I/41Xb1kgZKjL.jpg | https://m.media-amazon.com/images/I/51NgLYx2UwL.jpg | https://m.media-amazon.com/images/I/41mwT5Or+gL.jpg | https://m.media-amazon.com/images/I/41aTLqTKZJL.jpg | https://m.media-amazon.com/images/I/51OG6WyVu+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "44.0 Count",
-  "Discount": 0,
+  "Discount": "28.69%",
   "SalePrice": "₹7,053.00",
   "Model": "DO-44PC"
 }

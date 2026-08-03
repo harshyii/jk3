@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/514iOf-KsjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91BFg4rL1lL.jpg | https://m.media-amazon.com/images/I/514iOf-KsjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.1%",
   "SalePrice": "₹3,165.00",
   "Model": "Swing LX",
   "Country": "India"

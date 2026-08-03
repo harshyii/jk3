@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51bgqAP65vL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zbGAqULGL.jpg | https://m.media-amazon.com/images/I/415lJqLPYwL.jpg | https://m.media-amazon.com/images/I/91n7Nq9kclL.jpg | https://m.media-amazon.com/images/I/315ibSIwVDL.jpg | https://m.media-amazon.com/images/I/41jMD3XDG+L.jpg | https://m.media-amazon.com/images/I/51bgqAP65vL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "81.08%",
   "SalePrice": "₹472.00",
   "Model": "diy_product_B004H45Q4U"
 }

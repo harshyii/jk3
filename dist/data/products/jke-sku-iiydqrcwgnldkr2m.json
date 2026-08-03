@@ -87,9 +87,9 @@
     "https://m.media-amazon.com/images/I/41QL6j0lzlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71un4ymporL.jpg | https://m.media-amazon.com/images/I/41jhPOFCSEL.jpg | https://m.media-amazon.com/images/I/41xVylRTCuL.jpg | https://m.media-amazon.com/images/I/61UJbaS0WtL.jpg | https://m.media-amazon.com/images/I/41U7xC4pxxL.jpg | https://m.media-amazon.com/images/I/61okIrwSb1L.jpg | https://m.media-amazon.com/images/I/61L-1wSNvbL.jpg | https://m.media-amazon.com/images/I/41QL6j0lzlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "38.04%",
   "SalePrice": "₹8,499.00",
   "Model": "BDC24L-B1"
 }

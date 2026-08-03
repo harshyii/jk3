@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/410rsb55GqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Bt45c5oRL.jpg | https://m.media-amazon.com/images/I/41R0YM58GkL.jpg | https://m.media-amazon.com/images/I/51qm0Zfm0sL.jpg | https://m.media-amazon.com/images/I/412FdlrXcLL.jpg | https://m.media-amazon.com/images/I/51tC0SiXuvL.jpg | https://m.media-amazon.com/images/I/41xe9WcN5nL.jpg | https://m.media-amazon.com/images/I/51uW0CEyQTL.jpg | https://m.media-amazon.com/images/I/410rsb55GqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "12.82%",
   "SalePrice": "₹65,320.50",
   "Model": "100W Solar Panel N-Type 16BB"
 }

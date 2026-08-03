@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51sLfTPGbgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31xR1Skp1kL.jpg | https://m.media-amazon.com/images/I/31xR1Skp1kL.jpg | https://m.media-amazon.com/images/I/41TgnAIDwlL.jpg | https://m.media-amazon.com/images/I/518EV9bHtnL.jpg | https://m.media-amazon.com/images/I/51dpQLWZhyL.jpg | https://m.media-amazon.com/images/I/41OmAkE4OGL.jpg | https://m.media-amazon.com/images/I/51XDfXywr7L.jpg | https://m.media-amazon.com/images/I/51sLfTPGbgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "53.34%",
   "SalePrice": "₹13,999.00",
   "Model": "WXP-100"
 }

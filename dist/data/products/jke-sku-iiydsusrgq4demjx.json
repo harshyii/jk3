@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41E8pUhXi4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wmcFhuyLL.jpg | https://m.media-amazon.com/images/I/314s8kbRp9L.jpg | https://m.media-amazon.com/images/I/41eJBWM3MiL.jpg | https://m.media-amazon.com/images/I/418ulGWt-+L.jpg | https://m.media-amazon.com/images/I/4148foNeflL.jpg | https://m.media-amazon.com/images/I/41W4ZNSHM-L.jpg | https://m.media-amazon.com/images/I/319ZknxD-3L.jpg | https://m.media-amazon.com/images/I/41E8pUhXi4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.25%",
   "SalePrice": "₹12,607.00",
   "Model": "RT0702C"
 }

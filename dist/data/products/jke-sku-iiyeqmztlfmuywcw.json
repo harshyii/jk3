@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41fykAMyskL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611C8fwVI2L.jpg | https://m.media-amazon.com/images/I/313GDHHL19L.jpg | https://m.media-amazon.com/images/I/41LeHBv16CL.jpg | https://m.media-amazon.com/images/I/41NO5IodvaL.jpg | https://m.media-amazon.com/images/I/41yMZtL+a-L.jpg | https://m.media-amazon.com/images/I/41rwNzsvhOL.jpg | https://m.media-amazon.com/images/I/51gd1jcwOlL.jpg | https://m.media-amazon.com/images/I/41fykAMyskL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Case",
-  "Discount": 0,
+  "Discount": "20%",
   "SalePrice": "₹25,598.00",
   "Model": "BIW/1-2/20-4/L2/EU"
 }

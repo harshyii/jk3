@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51-0poXKhxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718j9p0nx8L.jpg | https://m.media-amazon.com/images/I/41wVQwX223L.jpg | https://m.media-amazon.com/images/I/51XMFctZo+L.jpg | https://m.media-amazon.com/images/I/514Wd3d-O3L.jpg | https://m.media-amazon.com/images/I/51NER1FboVL.jpg | https://m.media-amazon.com/images/I/51-0poXKhxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "10.77%",
   "SalePrice": "₹497.00",
   "Model": "MW1K",
   "Country": "India"

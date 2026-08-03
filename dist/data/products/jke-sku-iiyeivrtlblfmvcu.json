@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/51fkweSs60L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31UmK0QUdmL.jpg | https://m.media-amazon.com/images/I/31UmK0QUdmL.jpg | https://m.media-amazon.com/images/I/51fkweSs60L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "48.94%",
   "SalePrice": "₹11,999.00",
   "Model": "CM 6156",
   "Country": "Taiwan"

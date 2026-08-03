@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41WH9XDsXTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71sbtp55snL.jpg | https://m.media-amazon.com/images/I/31BGOCFfAlL.jpg | https://m.media-amazon.com/images/I/61lzasOkd1L.jpg | https://m.media-amazon.com/images/I/5142YMj7WNL.jpg | https://m.media-amazon.com/images/I/51bEK-J39mL.jpg | https://m.media-amazon.com/images/I/51XF-POh62L.jpg | https://m.media-amazon.com/images/I/51nZP9JMwLL.jpg | https://m.media-amazon.com/images/I/41WH9XDsXTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "420 Milliliters",
-  "Discount": 0,
+  "Discount": "1.2%",
   "SalePrice": "₹410.00",
   "Country": "India"
 }

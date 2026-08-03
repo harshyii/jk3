@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51f97C008uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41WUDtvsO9L.jpg | https://m.media-amazon.com/images/I/41WUDtvsO9L.jpg | https://m.media-amazon.com/images/I/41d8flywWAL.jpg | https://m.media-amazon.com/images/I/51f97C008uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹40,471.52",
   "Model": "#PBLIW01K1"
 }

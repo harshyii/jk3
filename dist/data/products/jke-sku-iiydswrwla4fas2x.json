@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41fkqSmAODL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Bs8NRD1+L.jpg | https://m.media-amazon.com/images/I/31I+M0yZdcL.jpg | https://m.media-amazon.com/images/I/31oP4pAfGeL.jpg | https://m.media-amazon.com/images/I/310XvdMj7hL.jpg | https://m.media-amazon.com/images/I/312P+lCIB4L.jpg | https://m.media-amazon.com/images/I/31dwPtlSspL.jpg | https://m.media-amazon.com/images/I/31zIZ0cKWAL.jpg | https://m.media-amazon.com/images/I/41fkqSmAODL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "26.52%",
   "SalePrice": "₹1,651.00",
   "Model": "PZINLT53030732"
 }

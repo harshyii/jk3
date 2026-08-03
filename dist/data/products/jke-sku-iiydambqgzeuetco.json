@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41KO3BYI9kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617MNPhxdZL.jpg | https://m.media-amazon.com/images/I/410NtOE95cL.jpg | https://m.media-amazon.com/images/I/518jLhMicTL.jpg | https://m.media-amazon.com/images/I/51oFiXnuEML.jpg | https://m.media-amazon.com/images/I/41pcapIPA2L.jpg | https://m.media-amazon.com/images/I/41KhPXj4J6L.jpg | https://m.media-amazon.com/images/I/41KO3BYI9kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "8.03%",
   "SalePrice": "₹229.00",
   "Model": "17004"
 }

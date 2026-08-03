@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31mzTz82aBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AIJLyqGEL.jpg | https://m.media-amazon.com/images/I/41ARdl7D7yL.jpg | https://m.media-amazon.com/images/I/516XYyYBPEL.jpg | https://m.media-amazon.com/images/I/31mzTz82aBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.13%",
   "SalePrice": "₹4,130.00",
   "Model": "DWST17803"
 }

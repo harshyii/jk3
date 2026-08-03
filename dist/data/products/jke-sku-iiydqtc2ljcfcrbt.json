@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51b7LlOYs3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/8142nP1tYjL.jpg | https://m.media-amazon.com/images/I/41H6m3z2CZL.jpg | https://m.media-amazon.com/images/I/41mwPvrDK9L.jpg | https://m.media-amazon.com/images/I/41PtoGsGkoL.jpg | https://m.media-amazon.com/images/I/41pPmgpzmdL.jpg | https://m.media-amazon.com/images/I/516SvrCcLCL.jpg | https://m.media-amazon.com/images/I/51Ks++FHFtL.jpg | https://m.media-amazon.com/images/I/51b7LlOYs3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.38%",
   "SalePrice": "₹26,057.85",
   "Model": "US40-04"
 }

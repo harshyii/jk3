@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41k150PFrLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714xZ+CKkOL.jpg | https://m.media-amazon.com/images/I/31cDNGE1tXL.jpg | https://m.media-amazon.com/images/I/41k150PFrLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.04%",
   "SalePrice": "₹319.00",
   "Model": "D092601"
 }

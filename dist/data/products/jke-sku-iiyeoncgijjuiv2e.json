@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31GyNptRA1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71YVhGMmeCL.jpg | https://m.media-amazon.com/images/I/41Aq6yejamL.jpg | https://m.media-amazon.com/images/I/31GyNptRA1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "25.01%",
   "SalePrice": "₹1,499.00",
   "Model": "18-56801"
 }

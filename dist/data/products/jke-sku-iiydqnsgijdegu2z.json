@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/21MFF5gHJrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41X+ZW8vvfL.jpg | https://m.media-amazon.com/images/I/21pToCJ7EpL.jpg | https://m.media-amazon.com/images/I/21MFF5gHJrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹24,204.38",
   "Model": "G2WC"
 }

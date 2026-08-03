@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51phVW3dQKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t+3eyux6L.jpg | https://m.media-amazon.com/images/I/41cVkUtnCFL.jpg | https://m.media-amazon.com/images/I/41sU67v105L.jpg | https://m.media-amazon.com/images/I/51tHbHVLkFL.jpg | https://m.media-amazon.com/images/I/51HzPbZoBFL.jpg | https://m.media-amazon.com/images/I/51LnjynxfWL.jpg | https://m.media-amazon.com/images/I/51Oi1Un4TAL.jpg | https://m.media-amazon.com/images/I/51phVW3dQKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "52.02%",
   "SalePrice": "₹2,399.00",
   "Model": "DM74"
 }

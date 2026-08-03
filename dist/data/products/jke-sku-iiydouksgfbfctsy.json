@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41NFFRQVhaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/514uxFZ2O3L.jpg | https://m.media-amazon.com/images/I/315ASWS524L.jpg | https://m.media-amazon.com/images/I/41Fso1Z5fQL.jpg | https://m.media-amazon.com/images/I/415V50vjkXL.jpg | https://m.media-amazon.com/images/I/41K3DY5QS-L.jpg | https://m.media-amazon.com/images/I/51En71FGiUL.jpg | https://m.media-amazon.com/images/I/51S8MGJtGRL.jpg | https://m.media-amazon.com/images/I/41NFFRQVhaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.05%",
   "SalePrice": "₹469.00",
   "Model": "PGD-FST0001"
 }

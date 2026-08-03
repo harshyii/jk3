@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41020K-pC8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41mm4Y-2OmL.jpg | https://m.media-amazon.com/images/I/3151SyaaeTL.jpg | https://m.media-amazon.com/images/I/41fdQOXiLzL.jpg | https://m.media-amazon.com/images/I/51IDKFd8hlL.jpg | https://m.media-amazon.com/images/I/31o0vZcLUSL.jpg | https://m.media-amazon.com/images/I/31IIpbXJKtL.jpg | https://m.media-amazon.com/images/I/41020K-pC8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "26.89%",
   "SalePrice": "₹299.00",
   "Model": "WRA001"
 }

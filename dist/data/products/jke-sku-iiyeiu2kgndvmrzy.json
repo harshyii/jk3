@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41xwTciFCqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51zP5bjylVL.jpg | https://m.media-amazon.com/images/I/31GTguOhsYL.jpg | https://m.media-amazon.com/images/I/41jauawaCxL.jpg | https://m.media-amazon.com/images/I/41GMOHbljjL.jpg | https://m.media-amazon.com/images/I/514i3rWukRL.jpg | https://m.media-amazon.com/images/I/51tqMackFXL.jpg | https://m.media-amazon.com/images/I/41xwTciFCqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "15.62%",
   "SalePrice": "₹1,199.00",
   "Model": "One"
 }

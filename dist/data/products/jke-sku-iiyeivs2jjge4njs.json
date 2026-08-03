@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51cLTKRqk7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/8153Zc+RDUL.jpg | https://m.media-amazon.com/images/I/51R2mZ--W5L.jpg | https://m.media-amazon.com/images/I/41fED1-1qhL.jpg | https://m.media-amazon.com/images/I/41AJ5H8cSLL.jpg | https://m.media-amazon.com/images/I/51IBQIhVg2L.jpg | https://m.media-amazon.com/images/I/410B6IkXyUL.jpg | https://m.media-amazon.com/images/I/51cLTKRqk7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "54.68%",
   "SalePrice": "₹6,299.00",
   "Model": "IBELL YOVER VER"
 }

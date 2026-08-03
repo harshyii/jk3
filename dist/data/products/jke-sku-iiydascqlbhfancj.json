@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41VXe4NHyYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61mae-JjSVL.jpg | https://m.media-amazon.com/images/I/416TsUZ0sfL.jpg | https://m.media-amazon.com/images/I/41P2TsWHKyL.jpg | https://m.media-amazon.com/images/I/41njmDNRzzL.jpg | https://m.media-amazon.com/images/I/41pmDcafxNL.jpg | https://m.media-amazon.com/images/I/41VXe4NHyYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "15.11%",
   "SalePrice": "₹2,793.00",
   "Model": "DCB127-XJ",
   "Country": "China"

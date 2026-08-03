@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41gAXuOScGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NN5QNLDEL.jpg | https://m.media-amazon.com/images/I/410GyyPuBML.jpg | https://m.media-amazon.com/images/I/51aVZ3h7eEL.jpg | https://m.media-amazon.com/images/I/51XPeAOrdrL.jpg | https://m.media-amazon.com/images/I/51RnaNyc+DL.jpg | https://m.media-amazon.com/images/I/515NKoTbCnL.jpg | https://m.media-amazon.com/images/I/41gAXuOScGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "7.15%",
   "SalePrice": "₹1,299.00",
   "Model": "‎DO-14PC"
 }

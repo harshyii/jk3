@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41xu6UQ4FwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41xu6UQ4FwL.jpg | https://m.media-amazon.com/images/I/41xu6UQ4FwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "12.00 Set",
-  "Discount": 0,
+  "Discount": "50.01%",
   "SalePrice": "₹3,999.00",
   "Country": "India"
 }

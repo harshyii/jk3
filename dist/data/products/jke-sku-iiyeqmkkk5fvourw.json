@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31dXFQhOUgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vVdKOKKtL.jpg | https://m.media-amazon.com/images/I/31cIDJwuRdL.jpg | https://m.media-amazon.com/images/I/311P8gP9i3L.jpg | https://m.media-amazon.com/images/I/31Zj-fHnonL.jpg | https://m.media-amazon.com/images/I/31dXFQhOUgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "56.67%",
   "SalePrice": "₹650.00",
   "Model": "Tct-7-60t",
   "Country": "India"

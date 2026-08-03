@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41-lR567-+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/715Oi-wXcaL.jpg | https://m.media-amazon.com/images/I/41q6+oKmh1L.jpg | https://m.media-amazon.com/images/I/41qmoOTnpYL.jpg | https://m.media-amazon.com/images/I/51mIVOkNRNL.jpg | https://m.media-amazon.com/images/I/41kShAJqoIL.jpg | https://m.media-amazon.com/images/I/51qCgnQG1bL.jpg | https://m.media-amazon.com/images/I/51G4D6ZLguL.jpg | https://m.media-amazon.com/images/I/41-lR567-+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "28.93%",
   "SalePrice": "₹2,899.00",
   "Model": "BHT000081"
 }

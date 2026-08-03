@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41CxWe9kzzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Optdmx9UL.jpg | https://m.media-amazon.com/images/I/311OaYDNpbL.jpg | https://m.media-amazon.com/images/I/51rQshqHobL.jpg | https://m.media-amazon.com/images/I/41uRasS0-dL.jpg | https://m.media-amazon.com/images/I/41a6fJ4mTFL.jpg | https://m.media-amazon.com/images/I/41jc1x7X3OL.jpg | https://m.media-amazon.com/images/I/41CxWe9kzzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.0 Milliliters",
-  "Discount": 0,
+  "Discount": "71.13%",
   "SalePrice": "₹4,055.94",
   "Model": "845"
 }

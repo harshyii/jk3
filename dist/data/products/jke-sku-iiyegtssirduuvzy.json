@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31imFLY-McL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NvnLthIFL.jpg | https://m.media-amazon.com/images/I/41vnJHrq6sL.jpg | https://m.media-amazon.com/images/I/310Tz+tZOnL.jpg | https://m.media-amazon.com/images/I/51DpheyKcrL.jpg | https://m.media-amazon.com/images/I/41WQakLWl6L.jpg | https://m.media-amazon.com/images/I/31QvIVisR3L.jpg | https://m.media-amazon.com/images/I/31WbqbtJFLL.jpg | https://m.media-amazon.com/images/I/31imFLY-McL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "31.56%",
   "SalePrice": "₹23,749.00",
   "Model": "ELM4121"
 }

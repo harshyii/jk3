@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41gaW36c++L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dHwBypmvL.jpg | https://m.media-amazon.com/images/I/31L9TZqkTeL.jpg | https://m.media-amazon.com/images/I/41gaW36c++L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "51.29%",
   "SalePrice": "₹3,799.00",
   "Model": "HKISSD34082L"
 }

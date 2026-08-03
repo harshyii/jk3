@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/5105cv8hF1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81mqJoGmLLL.jpg | https://m.media-amazon.com/images/I/51Q3nqJTwIL.jpg | https://m.media-amazon.com/images/I/41iX0tbFKIL.jpg | https://m.media-amazon.com/images/I/41jTc0W7LBL.jpg | https://m.media-amazon.com/images/I/41WB28lvWGL.jpg | https://m.media-amazon.com/images/I/41KAFqD8kcL.jpg | https://m.media-amazon.com/images/I/51o7zkHIT9L.jpg | https://m.media-amazon.com/images/I/5105cv8hF1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,017.60",
   "Model": "DXMA1311322",
   "Country": "USA"

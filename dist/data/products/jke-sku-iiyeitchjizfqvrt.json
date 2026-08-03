@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51lSRAcZGXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712uGH80GNL.jpg | https://m.media-amazon.com/images/I/41SlTwEWfCL.jpg | https://m.media-amazon.com/images/I/41YPcbUKxfL.jpg | https://m.media-amazon.com/images/I/41bbmdHSY+L.jpg | https://m.media-amazon.com/images/I/51jWGeLLQHL.jpg | https://m.media-amazon.com/images/I/61FVV8YM7QL.jpg | https://m.media-amazon.com/images/I/51Lt8wPmDNL.jpg | https://m.media-amazon.com/images/I/51lSRAcZGXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "29.45%",
   "SalePrice": "₹10,582.00",
   "Model": "0835N"
 }

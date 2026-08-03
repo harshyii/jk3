@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41c2qMuqcNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qstdDZYLL.jpg | https://m.media-amazon.com/images/I/41TPWIVMtLL.jpg | https://m.media-amazon.com/images/I/4150NQw32EL.jpg | https://m.media-amazon.com/images/I/41a7ZtfWrgL.jpg | https://m.media-amazon.com/images/I/41iSky94pOL.jpg | https://m.media-amazon.com/images/I/41qBaN-ybmL.jpg | https://m.media-amazon.com/images/I/41c2qMuqcNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.6%",
   "SalePrice": "₹39,239.00",
   "Country": "Czech Republic"
 }

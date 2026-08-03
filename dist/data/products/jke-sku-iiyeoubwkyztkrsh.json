@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31NEebPhrIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KOUaH48KL.jpg | https://m.media-amazon.com/images/I/31FXNJjKakL.jpg | https://m.media-amazon.com/images/I/31ofEf+x9gL.jpg | https://m.media-amazon.com/images/I/31NEebPhrIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "22.22%",
   "SalePrice": "₹700.00",
   "Model": "kbhm 9l"
 }

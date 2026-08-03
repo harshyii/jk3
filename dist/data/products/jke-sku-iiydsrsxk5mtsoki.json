@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41cbQhqjqnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Gf5mk6iWL.jpg | https://m.media-amazon.com/images/I/412Bkk5zYXL.jpg | https://m.media-amazon.com/images/I/61ejNsapWZL.jpg | https://m.media-amazon.com/images/I/51l0BI525gL.jpg | https://m.media-amazon.com/images/I/41yNfbHA5tL.jpg | https://m.media-amazon.com/images/I/41l7XcsyaLL.jpg | https://m.media-amazon.com/images/I/41M+BQcLp0L.jpg | https://m.media-amazon.com/images/I/41cbQhqjqnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "11.73%",
   "SalePrice": "₹18,405.00",
   "Model": "Hammer"
 }

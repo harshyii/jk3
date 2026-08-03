@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/4121qvm9LyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81F8hL9sucL.jpg | https://m.media-amazon.com/images/I/41Vrgp+f-LL.jpg | https://m.media-amazon.com/images/I/41hZZfzEVgL.jpg | https://m.media-amazon.com/images/I/4121qvm9LyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.87%",
   "SalePrice": "₹9,342.00",
   "Model": "TMV/23"
 }

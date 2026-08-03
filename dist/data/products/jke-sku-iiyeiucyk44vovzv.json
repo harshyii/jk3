@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51CQVWIpJqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FSkBKuytL.jpg | https://m.media-amazon.com/images/I/4179u1a4WVL.jpg | https://m.media-amazon.com/images/I/41m-ddeCHOL.jpg | https://m.media-amazon.com/images/I/41IGLbU6VwL.jpg | https://m.media-amazon.com/images/I/41OMLhxukDL.jpg | https://m.media-amazon.com/images/I/41IHX1AtyJL.jpg | https://m.media-amazon.com/images/I/41caKWQc28L.jpg | https://m.media-amazon.com/images/I/51CQVWIpJqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "48.6%",
   "SalePrice": "₹1,866.00",
   "Model": "LDTIN79024476"
 }

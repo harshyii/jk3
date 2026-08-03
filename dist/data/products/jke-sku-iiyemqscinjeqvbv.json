@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41R7eRG8pxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81APH8cxshL.jpg | https://m.media-amazon.com/images/I/51XPuw-KJ1L.jpg | https://m.media-amazon.com/images/I/41Qtyy6Y2uL.jpg | https://m.media-amazon.com/images/I/41XbIPznXhL.jpg | https://m.media-amazon.com/images/I/41S+LPIDUJL.jpg | https://m.media-amazon.com/images/I/41R7eRG8pxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Piece",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹490.00",
   "Model": "Fdg4-120-10",
   "Country": "India"

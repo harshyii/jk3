@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/416hz+qGHSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dRTRLOOXL.jpg | https://m.media-amazon.com/images/I/31i9xieEprL.jpg | https://m.media-amazon.com/images/I/61ofXeauCzL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41cbDSOOFNL.jpg | https://m.media-amazon.com/images/I/41I43VA70cL.jpg | https://m.media-amazon.com/images/I/31+B+sxb0yL.jpg | https://m.media-amazon.com/images/I/416hz+qGHSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.15%",
   "SalePrice": "₹498.00",
   "Model": "DEP-08"
 }

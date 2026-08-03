@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51jjCi3G5lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81HS3RYI9RL.jpg | https://m.media-amazon.com/images/I/51Rl93fe5cL.jpg | https://m.media-amazon.com/images/I/51e5H0qv97L.jpg | https://m.media-amazon.com/images/I/51CWEQY0UdL.jpg | https://m.media-amazon.com/images/I/51tcW7w6DuL.jpg | https://m.media-amazon.com/images/I/51UcV5dEdHL.jpg | https://m.media-amazon.com/images/I/51efJCD1gkL.jpg | https://m.media-amazon.com/images/I/51jjCi3G5lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "67.2%",
   "SalePrice": "₹2,624.00",
   "Model": "KP-RBPW"
 }

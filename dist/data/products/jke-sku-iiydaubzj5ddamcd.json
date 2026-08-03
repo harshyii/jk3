@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51zQs-OgEgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71vbwSPWxZL.jpg | https://m.media-amazon.com/images/I/41DCbDu0XDL.jpg | https://m.media-amazon.com/images/I/5191a8QnAgL.jpg | https://m.media-amazon.com/images/I/41xCrAr+m3L.jpg | https://m.media-amazon.com/images/I/51BkG0Hz4bL.jpg | https://m.media-amazon.com/images/I/511pLcQe3+L.jpg | https://m.media-amazon.com/images/I/51p4atM1NAL.jpg | https://m.media-amazon.com/images/I/51zQs-OgEgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "40.71%",
   "SalePrice": "₹2,526.39",
   "Model": "A1624",
   "Country": "USA"

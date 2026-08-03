@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/61Xrbt4xbFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EKXOiQcrL.jpg | https://m.media-amazon.com/images/I/41SA-JQMAmL.jpg | https://m.media-amazon.com/images/I/51T+AFQLesL.jpg | https://m.media-amazon.com/images/I/61Xrbt4xbFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.69%",
   "SalePrice": "₹7,229.00",
   "Model": "DP133505"
 }

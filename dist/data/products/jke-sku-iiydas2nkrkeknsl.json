@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41TtnEQgbRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XFVlgmAWL.jpg | https://m.media-amazon.com/images/I/51yTMrMCSeL.jpg | https://m.media-amazon.com/images/I/41ZS9yN63DL.jpg | https://m.media-amazon.com/images/I/51OJAdhCs5L.jpg | https://m.media-amazon.com/images/I/51L99IokgoL.jpg | https://m.media-amazon.com/images/I/51Hns4NIyyL.jpg | https://m.media-amazon.com/images/I/41stJ3t1e1L.jpg | https://m.media-amazon.com/images/I/41TtnEQgbRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "5%",
   "SalePrice": "₹589.00",
   "Model": "BK-3MCCE/2BN",
   "Country": "Japan"

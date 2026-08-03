@@ -91,9 +91,9 @@
     "https://m.media-amazon.com/images/I/41qAd+CL-eL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Nf9U3yuZL.jpg | https://m.media-amazon.com/images/I/41b2KZuv3rL.jpg | https://m.media-amazon.com/images/I/41BeQUtx4lL.jpg | https://m.media-amazon.com/images/I/41r8EIaQpAL.jpg | https://m.media-amazon.com/images/I/41TJDK-hdfL.jpg | https://m.media-amazon.com/images/I/51Z1St52L8L.jpg | https://m.media-amazon.com/images/I/41ZzFb6RhUL.jpg | https://m.media-amazon.com/images/I/41qAd+CL-eL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.54%",
   "SalePrice": "₹1,299.00",
   "Model": "Dylect Briza180",
   "Country": "China"

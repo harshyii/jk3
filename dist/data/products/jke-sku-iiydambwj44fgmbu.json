@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/3136Dem7jQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51iHtunO4BL.jpg | https://m.media-amazon.com/images/I/310ynzHtkqL.jpg | https://m.media-amazon.com/images/I/41rCuyOOnTL.jpg | https://m.media-amazon.com/images/I/41T9twnFTSL.jpg | https://m.media-amazon.com/images/I/41k-okH7GUL.jpg | https://m.media-amazon.com/images/I/3136Dem7jQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "62.68%",
   "SalePrice": "₹2,909.43",
   "Model": "566"
 }

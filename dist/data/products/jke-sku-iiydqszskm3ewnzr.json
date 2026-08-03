@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41LRzWigbmS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61f5RFCIfQL.jpg | https://m.media-amazon.com/images/I/311HZ1tf-JL.jpg | https://m.media-amazon.com/images/I/31SgyxnKUUS.jpg | https://m.media-amazon.com/images/I/31mYXruRYiS.jpg | https://m.media-amazon.com/images/I/41DdV1Z5yxS.jpg | https://m.media-amazon.com/images/I/31x9EfdbDbS.jpg | https://m.media-amazon.com/images/I/41LRzWigbmS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "13.38%",
   "SalePrice": "₹545.71",
   "Model": "FNL/9B"
 }

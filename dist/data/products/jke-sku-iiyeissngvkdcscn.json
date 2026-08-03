@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51hgU21ppUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71k33YEoYYL.jpg | https://m.media-amazon.com/images/I/41em3f0zGXL.jpg | https://m.media-amazon.com/images/I/31t9iM08kKL.jpg | https://m.media-amazon.com/images/I/41gwxguHKjL.jpg | https://m.media-amazon.com/images/I/51hgU21ppUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "12000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "12.92%",
   "SalePrice": "₹2,299.00",
   "Country": "India"
 }

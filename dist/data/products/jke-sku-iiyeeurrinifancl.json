@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31E6jRSYUGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41am2eU+AjL.jpg | https://m.media-amazon.com/images/I/31E6jRSYUGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Pack",
-  "Discount": 0,
+  "Discount": "78.33%",
   "SalePrice": "₹249.00",
   "Model": "KS-CBLE-LUGS",
   "Country": "India"

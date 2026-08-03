@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/21nKi8rTfSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41aVJ7EZJKL.jpg | https://m.media-amazon.com/images/I/21nKi8rTfSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "1.74%",
   "SalePrice": "₹509.00",
   "Model": "D-51677",
   "Country": "Japan"

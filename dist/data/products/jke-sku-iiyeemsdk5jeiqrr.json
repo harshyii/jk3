@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51LxBwzvnVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61t6nxbJO7L.jpg | https://m.media-amazon.com/images/I/41L6hP-UkjL.jpg | https://m.media-amazon.com/images/I/51jqkdIl2gL.jpg | https://m.media-amazon.com/images/I/419CDVnmzPL.jpg | https://m.media-amazon.com/images/I/51pGTvN8xZL.jpg | https://m.media-amazon.com/images/I/51nqxE9OkmL.jpg | https://m.media-amazon.com/images/I/51LxBwzvnVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "32%",
   "SalePrice": "₹6,799.00",
   "Model": "S5"
 }

@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/411jqouIbxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51TxdrLpbML.jpg | https://m.media-amazon.com/images/I/31bYRUDkkNL.jpg | https://m.media-amazon.com/images/I/41b1O7TajkL.jpg | https://m.media-amazon.com/images/I/41pczTa5yuL.jpg | https://m.media-amazon.com/images/I/41iCVRcNkhL.jpg | https://m.media-amazon.com/images/I/4117jqOTy2L.jpg | https://m.media-amazon.com/images/I/41fwqJIRIRL.jpg | https://m.media-amazon.com/images/I/411jqouIbxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "10.71%",
   "SalePrice": "₹200.00",
   "Model": "DLH12-200"
 }

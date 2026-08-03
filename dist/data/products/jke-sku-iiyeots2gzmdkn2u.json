@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41nIPiMrt0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/417334EEwLL.jpg | https://m.media-amazon.com/images/I/31Nuvzn03mL.jpg | https://m.media-amazon.com/images/I/41nIPiMrt0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "48.35%",
   "SalePrice": "₹359.00",
   "Model": "9V Infinite C 900mAh",
   "Country": "China"

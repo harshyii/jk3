@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51LwG3kpRpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71LWcxSfA9L.jpg | https://m.media-amazon.com/images/I/41v7brzkA8L.jpg | https://m.media-amazon.com/images/I/416p1bFf3yL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/514fHjRv1PL.jpg | https://m.media-amazon.com/images/I/51eQrK3f2pL.jpg | https://m.media-amazon.com/images/I/51XON7sQHsL.jpg | https://m.media-amazon.com/images/I/51wJjvaw-UL.jpg | https://m.media-amazon.com/images/I/51LwG3kpRpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "17.86%",
   "SalePrice": "₹653.00",
   "Model": "WWF1K"
 }

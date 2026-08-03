@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51GsNjCq65L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ySQiTuflL.jpg | https://m.media-amazon.com/images/I/41XYMBMp9tL.jpg | https://m.media-amazon.com/images/I/41hom9K-UsL.jpg | https://m.media-amazon.com/images/I/51t6FD7WxIL.jpg | https://m.media-amazon.com/images/I/51q9oNfwVVL.jpg | https://m.media-amazon.com/images/I/515+YZ2LvdL.jpg | https://m.media-amazon.com/images/I/51GsNjCq65L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "75%",
   "SalePrice": "₹1,458.00",
   "Model": "Car Clay Bar Pad",
   "Country": "USA"

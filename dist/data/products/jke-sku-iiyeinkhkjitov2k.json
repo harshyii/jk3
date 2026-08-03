@@ -78,9 +78,9 @@
     "https://m.media-amazon.com/images/I/41gJGoqVt3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61x8FOIvmfL.jpg | https://m.media-amazon.com/images/I/31Ln2gBqVxL.jpg | https://m.media-amazon.com/images/I/41MJMtzo7gL.jpg | https://m.media-amazon.com/images/I/31BM8+qCOeL.jpg | https://m.media-amazon.com/images/I/21V3+NMe3WL.jpg | https://m.media-amazon.com/images/I/41NGVKuWQUL.jpg | https://m.media-amazon.com/images/I/41Wn2n0uyJL.jpg | https://m.media-amazon.com/images/I/41gJGoqVt3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹11,650.70",
   "Model": "BFP16MXW",
   "Country": "USA"

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41CYQF6OO3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Vc9UjEl-L.jpg | https://m.media-amazon.com/images/I/41ZLHuPdwcL.jpg | https://m.media-amazon.com/images/I/41LfdGCBpGL.jpg | https://m.media-amazon.com/images/I/41dy-+0ZIWL.jpg | https://m.media-amazon.com/images/I/41Dt1sKRFRL.jpg | https://m.media-amazon.com/images/I/41pDzY8IIOL.jpg | https://m.media-amazon.com/images/I/51+kMc00gzL.jpg | https://m.media-amazon.com/images/I/41CYQF6OO3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63%",
   "SalePrice": "₹2,899.00",
   "Model": "HGCM2998"
 }

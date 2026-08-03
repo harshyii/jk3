@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/518IwmazBcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/519Z3NSyBlL.jpg | https://m.media-amazon.com/images/I/31j1VhemdlL.jpg | https://m.media-amazon.com/images/I/51MMIozs4FL.jpg | https://m.media-amazon.com/images/I/51hr1KG4-9L.jpg | https://m.media-amazon.com/images/I/518IwmazBcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "14.58%",
   "SalePrice": "₹8,729.00",
   "Model": "Solar Promax 500VA-12V",
   "Country": "India"

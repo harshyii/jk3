@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41e-I5fQ0oL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61XiHO80UXL.jpg | https://m.media-amazon.com/images/I/21sxFFGHJVL.jpg | https://m.media-amazon.com/images/I/41e-I5fQ0oL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹528.00",
   "Model": "D100800"
 }

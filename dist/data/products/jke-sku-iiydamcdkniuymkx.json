@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/21i+TVMpkBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41RteAhbwuL.jpg | https://m.media-amazon.com/images/I/21HvZq97G3L.jpg | https://m.media-amazon.com/images/I/117+5u3usEL.jpg | https://m.media-amazon.com/images/I/21i+TVMpkBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.38%",
   "SalePrice": "₹1,172.88",
   "Model": "48-27-1001",
   "Country": "USA"

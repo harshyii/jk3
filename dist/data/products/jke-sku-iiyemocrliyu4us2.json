@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51UZ5Kv0VHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CTPKQSTPL.jpg | https://m.media-amazon.com/images/I/41TLruVWGvL.jpg | https://m.media-amazon.com/images/I/41Kh7GDCkeL.jpg | https://m.media-amazon.com/images/I/413iYn4ZzoL.jpg | https://m.media-amazon.com/images/I/41LsUpvjJlL.jpg | https://m.media-amazon.com/images/I/516nGoL4gmL.jpg | https://m.media-amazon.com/images/I/41BWI83+xnL.jpg | https://m.media-amazon.com/images/I/51UZ5Kv0VHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Count",
-  "Discount": 0,
+  "Discount": "21.02%",
   "SalePrice": "₹849.00",
   "Model": "17202ANZ"
 }

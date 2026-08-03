@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41FqKKUxPpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Al0NDY+DL.jpg | https://m.media-amazon.com/images/I/31YYRo8ljTL.jpg | https://m.media-amazon.com/images/I/31awr9TDPzL.jpg | https://m.media-amazon.com/images/I/51NnB9IiYqL.jpg | https://m.media-amazon.com/images/I/41pl9iqsDVL.jpg | https://m.media-amazon.com/images/I/51Rf+4jnTgL.jpg | https://m.media-amazon.com/images/I/41FqKKUxPpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.5%",
   "SalePrice": "₹252.00",
   "Model": "BCH152"
 }

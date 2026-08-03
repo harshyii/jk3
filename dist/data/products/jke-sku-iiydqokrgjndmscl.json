@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/414RohD5zSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vYRD5u-0L.jpg | https://m.media-amazon.com/images/I/31pJGmrI1EL.jpg | https://m.media-amazon.com/images/I/414RohD5zSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.3%",
   "SalePrice": "₹4,699.20",
   "Model": "RTD/DD/1-4/UG"
 }

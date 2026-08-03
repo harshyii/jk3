@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51-r8VtP6tL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Q4I8mehcL.jpg | https://m.media-amazon.com/images/I/51xOImgdi-L.jpg | https://m.media-amazon.com/images/I/51hT+ETz54L.jpg | https://m.media-amazon.com/images/I/41YebAGWroL.jpg | https://m.media-amazon.com/images/I/517-xfuEpIL.jpg | https://m.media-amazon.com/images/I/51-r8VtP6tL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.33%",
   "SalePrice": "₹2,533.00",
   "Model": "ING-IMDR01"
 }

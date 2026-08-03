@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41fb2YN-AAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51dDa1Fr3kL.jpg | https://m.media-amazon.com/images/I/31qY38Xq-cL.jpg | https://m.media-amazon.com/images/I/31S+D0KkXIL.jpg | https://m.media-amazon.com/images/I/31e+a14mdFL.jpg | https://m.media-amazon.com/images/I/31EoV-AS4YL.jpg | https://m.media-amazon.com/images/I/41G+BHXGVhL.jpg | https://m.media-amazon.com/images/I/41fb2YN-AAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "32.43%",
   "SalePrice": "₹12,500.00",
   "Model": "SPC22G"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31Vrw1s-h9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61B+roe77JL.jpg | https://m.media-amazon.com/images/I/31jV1I8BLgL.jpg | https://m.media-amazon.com/images/I/31avcvCmF0L.jpg | https://m.media-amazon.com/images/I/31elGg5cyZL.jpg | https://m.media-amazon.com/images/I/31Vrw1s-h9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47%",
   "SalePrice": "₹5,300.00",
   "Model": "Xpt 454"
 }

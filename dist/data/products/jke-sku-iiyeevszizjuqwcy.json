@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51Df-y-P-hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jyct3PJFL.jpg | https://m.media-amazon.com/images/I/41Ax4kfNbYL.jpg | https://m.media-amazon.com/images/I/51x6B9tczPL.jpg | https://m.media-amazon.com/images/I/51rikxoDHEL.jpg | https://m.media-amazon.com/images/I/519BQo6eOwL.jpg | https://m.media-amazon.com/images/I/51Z7u-6hw+L.jpg | https://m.media-amazon.com/images/I/41ZUe0-TYbL.jpg | https://m.media-amazon.com/images/I/51Df-y-P-hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.02%",
   "SalePrice": "₹15,058.00",
   "Model": "PCL206"
 }

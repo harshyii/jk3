@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41b1dWqWchL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61s7+HFVlZL.jpg | https://m.media-amazon.com/images/I/411+mLGq7FL.jpg | https://m.media-amazon.com/images/I/41Emt7GCQ4L.jpg | https://m.media-amazon.com/images/I/412BuBeSrHL.jpg | https://m.media-amazon.com/images/I/517yllm6hHL.jpg | https://m.media-amazon.com/images/I/41ubsJ7C6JL.jpg | https://m.media-amazon.com/images/I/41b1dWqWchL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "45.74%",
   "SalePrice": "₹7,380.00",
   "Model": "IBL BA20-25 4Ah (BMC)"
 }

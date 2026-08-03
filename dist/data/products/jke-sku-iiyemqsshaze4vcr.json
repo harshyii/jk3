@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/512HTQdgK1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71TItDPtFrL.jpg | https://m.media-amazon.com/images/I/41EurpgZHXL.jpg | https://m.media-amazon.com/images/I/51Z0y0e5CLL.jpg | https://m.media-amazon.com/images/I/51yajo5ePRL.jpg | https://m.media-amazon.com/images/I/51-37d39vPL.jpg | https://m.media-amazon.com/images/I/512HTQdgK1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "71.4%",
   "SalePrice": "₹5,234.38",
   "Model": "‎Hex-Logic Finishing Pad Black (5.5 Inch)"
 }

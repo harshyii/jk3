@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41EDc82ItcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71QEVm0bO7L.jpg | https://m.media-amazon.com/images/I/410IPlbxBSL.jpg | https://m.media-amazon.com/images/I/41r6Hw6qatL.jpg | https://m.media-amazon.com/images/I/51109I4jWSL.jpg | https://m.media-amazon.com/images/I/51eeU1DQ-0L.jpg | https://m.media-amazon.com/images/I/513r-WzSk6L.jpg | https://m.media-amazon.com/images/I/41EDc82ItcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.0 Piece",
-  "Discount": 0,
+  "Discount": "57.5%",
   "SalePrice": "₹33,999.00",
   "Model": "T500"
 }

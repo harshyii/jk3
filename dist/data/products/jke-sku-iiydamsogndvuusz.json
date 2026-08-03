@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41MLeoYakAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dhTj2-1hL.jpg | https://m.media-amazon.com/images/I/31oVCPKLF3L.jpg | https://m.media-amazon.com/images/I/41UJl+Z6NXL.jpg | https://m.media-amazon.com/images/I/31GsrCqQXBL.jpg | https://m.media-amazon.com/images/I/31QNeLdC1UL.jpg | https://m.media-amazon.com/images/I/41H+7bbfgoL.jpg | https://m.media-amazon.com/images/I/41MLeoYakAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,211.90",
   "Model": "35225"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51-sOu+fdAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71N-Swur4GL.jpg | https://m.media-amazon.com/images/I/41fAjnRTkFL.jpg | https://m.media-amazon.com/images/I/41-j4SWmLyL.jpg | https://m.media-amazon.com/images/I/41aitkJsDVL.jpg | https://m.media-amazon.com/images/I/51Q9pk7RLbL.jpg | https://m.media-amazon.com/images/I/51OISkmK9JL.jpg | https://m.media-amazon.com/images/I/41KffIzuITL.jpg | https://m.media-amazon.com/images/I/51-sOu+fdAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,805.71",
   "Model": "Qiilu0ndhs15ia3-12",
   "Country": "USA"

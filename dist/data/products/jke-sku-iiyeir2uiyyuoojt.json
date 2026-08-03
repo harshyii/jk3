@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41WxRtjFBBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dHbuqLYwL.jpg | https://m.media-amazon.com/images/I/31tOOs7eNZL.jpg | https://m.media-amazon.com/images/I/41eq7Z5p42L.jpg | https://m.media-amazon.com/images/I/41U5Sn5MLxL.jpg | https://m.media-amazon.com/images/I/41l3s-7B4PL.jpg | https://m.media-amazon.com/images/I/41cu4aN80wL.jpg | https://m.media-amazon.com/images/I/41WxRtjFBBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.99%",
   "SalePrice": "₹1,199.00",
   "Model": "CSP 4"
 }

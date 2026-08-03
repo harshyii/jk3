@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41w0lOeNDlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oyLhEAr8L.jpg | https://m.media-amazon.com/images/I/41w0lOeNDlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "40.87%",
   "SalePrice": "₹9,460.00",
   "Model": "RT22008"
 }

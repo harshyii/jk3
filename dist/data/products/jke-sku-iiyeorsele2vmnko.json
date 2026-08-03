@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41Xo0ZRttQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Cf-zXRoSL.jpg | https://m.media-amazon.com/images/I/41I+pjyPnXL.jpg | https://m.media-amazon.com/images/I/51ZBGqNvUlL.jpg | https://m.media-amazon.com/images/I/51J29mqbSZL.jpg | https://m.media-amazon.com/images/I/51WxCdCkfML.jpg | https://m.media-amazon.com/images/I/51AfA6FHglL.jpg | https://m.media-amazon.com/images/I/41Xo0ZRttQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "61.11%",
   "SalePrice": "₹3,889.00",
   "Model": "WC-DHP-006-B"
 }

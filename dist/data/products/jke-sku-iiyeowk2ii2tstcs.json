@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/5113MVdLDoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FYPDI2eGL.jpg | https://m.media-amazon.com/images/I/41CyIPZwNNL.jpg | https://m.media-amazon.com/images/I/51OLlxUh1uL.jpg | https://m.media-amazon.com/images/I/51eZseQftBL.jpg | https://m.media-amazon.com/images/I/5154PLTfc1L.jpg | https://m.media-amazon.com/images/I/511YyfdV3WL.jpg | https://m.media-amazon.com/images/I/51rh9mbrDJL.jpg | https://m.media-amazon.com/images/I/5113MVdLDoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Set",
-  "Discount": 0,
+  "Discount": "80.01%",
   "SalePrice": "₹1,999.00",
   "Model": "TurboFlow"
 }

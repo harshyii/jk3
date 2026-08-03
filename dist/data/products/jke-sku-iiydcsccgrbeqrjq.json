@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/41pmWqFksZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pmWqFksZL.jpg | https://m.media-amazon.com/images/I/41pmWqFksZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.23%",
   "SalePrice": "₹12,600.00",
   "Model": "DST610"
 }

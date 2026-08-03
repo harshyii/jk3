@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/413cIz7K+4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61a65w84S2L.jpg | https://m.media-amazon.com/images/I/41UVOt2prGL.jpg | https://m.media-amazon.com/images/I/41M0A+EyjBL.jpg | https://m.media-amazon.com/images/I/51BjkUnZMtL.jpg | https://m.media-amazon.com/images/I/41yipT6TkJL.jpg | https://m.media-amazon.com/images/I/31Z0K+eZOxL.jpg | https://m.media-amazon.com/images/I/41eMYFvGSeL.jpg | https://m.media-amazon.com/images/I/413cIz7K+4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.04%",
   "SalePrice": "₹1,198.00",
   "Model": "48-battery",
   "Country": "India"

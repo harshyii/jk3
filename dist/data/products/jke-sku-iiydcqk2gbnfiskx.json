@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51Ylm7b22uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/818ZrBzq3AL.jpg | https://m.media-amazon.com/images/I/413li1igHEL.jpg | https://m.media-amazon.com/images/I/517L0NpHp4L.jpg | https://m.media-amazon.com/images/I/51MrF2uOVSL.jpg | https://m.media-amazon.com/images/I/41g7X55YllL.jpg | https://m.media-amazon.com/images/I/51enXhl1mcL.jpg | https://m.media-amazon.com/images/I/411Sb9EY4EL.jpg | https://m.media-amazon.com/images/I/51Ylm7b22uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "64.3%",
   "SalePrice": "₹24,594.00",
   "Model": "Z699C"
 }

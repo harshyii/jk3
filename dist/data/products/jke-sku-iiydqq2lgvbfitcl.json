@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51SIbMJEfsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71n5Y8TKzJS.jpg | https://m.media-amazon.com/images/I/516rgTZwIPS.jpg | https://m.media-amazon.com/images/I/411aunZWV+L.jpg | https://m.media-amazon.com/images/I/41Ecbb6SBAL.jpg | https://m.media-amazon.com/images/I/41eGxGl3K8L.jpg | https://m.media-amazon.com/images/I/41TZsThOvSL.jpg | https://m.media-amazon.com/images/I/51SIbMJEfsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,491.34",
   "Model": "jk00478",
   "Country": "USA"

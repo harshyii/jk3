@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41nB75DP08L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51fimZF3tBL.jpg | https://m.media-amazon.com/images/I/3199EgXcDEL.jpg | https://m.media-amazon.com/images/I/41+wnHs2JfL.jpg | https://m.media-amazon.com/images/I/41DbI9CQlAL.jpg | https://m.media-amazon.com/images/I/41CayusSQ1L.jpg | https://m.media-amazon.com/images/I/41OUJ20i-yL.jpg | https://m.media-amazon.com/images/I/41nB75DP08L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "9.53%",
   "SalePrice": "₹1,945.00",
   "Model": "Special"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51LsNthZXwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51X5BVLE-UL.jpg | https://m.media-amazon.com/images/I/41V5dJ1e1lL.jpg | https://m.media-amazon.com/images/I/A10i8LGcbGL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/41fw6MsuZ+L.jpg | https://m.media-amazon.com/images/I/51k5Y88MKZL.jpg | https://m.media-amazon.com/images/I/51f60xvbjaL.jpg | https://m.media-amazon.com/images/I/410Q6u2vjWL.jpg | https://m.media-amazon.com/images/I/51LsNthZXwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "350.0 Grams",
-  "Discount": 0,
+  "Discount": "3.13%",
   "SalePrice": "₹155.00",
   "Model": "3525"
 }

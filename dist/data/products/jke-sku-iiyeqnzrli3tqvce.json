@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41sHxHxIpWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6177GScuHrL.jpg | https://m.media-amazon.com/images/I/21ptJhAl6IL.jpg | https://m.media-amazon.com/images/I/41sHxHxIpWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.07%",
   "SalePrice": "₹344.00",
   "Model": "D100101"
 }

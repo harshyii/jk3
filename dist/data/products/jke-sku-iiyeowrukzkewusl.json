@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/311P8gP9i3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612liQsGNJL.jpg | https://m.media-amazon.com/images/I/311P8gP9i3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Piece",
-  "Discount": 0,
+  "Discount": "52%",
   "SalePrice": "₹480.00",
   "Model": "Xp-tct-6-40t",
   "Country": "India"

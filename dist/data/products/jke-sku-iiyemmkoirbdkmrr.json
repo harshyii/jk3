@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41eKTs9A-yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71vJMWTus6L.jpg | https://m.media-amazon.com/images/I/51N6D0WSqTL.jpg | https://m.media-amazon.com/images/I/41+HmWUi4fL.jpg | https://m.media-amazon.com/images/I/51grCc2WpEL.jpg | https://m.media-amazon.com/images/I/51Z68tk-4uL.jpg | https://m.media-amazon.com/images/I/41C4l5gtvuL.jpg | https://m.media-amazon.com/images/I/51nsEZr2ntL.jpg | https://m.media-amazon.com/images/I/41eKTs9A-yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "19 Piece",
-  "Discount": 0,
+  "Discount": "55%",
   "SalePrice": "₹1,440.00",
   "Model": "DIY19"
 }

@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41t-CtY4LdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61U56q4faaL.jpg | https://m.media-amazon.com/images/I/51BRweyALKL.jpg | https://m.media-amazon.com/images/I/41kIlK5cM3L.jpg | https://m.media-amazon.com/images/I/41gEheylypL.jpg | https://m.media-amazon.com/images/I/41t-CtY4LdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "67.05%",
   "SalePrice": "₹2,755.00",
   "Model": "ACC139"
 }

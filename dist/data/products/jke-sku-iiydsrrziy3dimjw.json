@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41EVHJTuL5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-0nKbK6CL.jpg | https://m.media-amazon.com/images/I/41aquKxJq1L.jpg | https://m.media-amazon.com/images/I/31ZJoWczefL.jpg | https://m.media-amazon.com/images/I/41OtK4cU95L.jpg | https://m.media-amazon.com/images/I/41EVHJTuL5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "11.94%",
   "SalePrice": "₹951.00",
   "Model": "E-2007_KIT-07-100SD"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41HYCCKKvfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NPe33OsXL.jpg | https://m.media-amazon.com/images/I/31H25Ih2P-L.jpg | https://m.media-amazon.com/images/I/41cAVp+MYCL.jpg | https://m.media-amazon.com/images/I/41IHNiwMaeL.jpg | https://m.media-amazon.com/images/I/41Sw5C5NUGL.jpg | https://m.media-amazon.com/images/I/41HYCCKKvfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "47.19%",
   "SalePrice": "₹2,385.00",
   "Model": "SDR53113902"
 }

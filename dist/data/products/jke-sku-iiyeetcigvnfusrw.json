@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51z6RJc5OpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510V545yCuL.jpg | https://m.media-amazon.com/images/I/41usJuvigmL.jpg | https://m.media-amazon.com/images/I/41P4ZhkQMwL.jpg | https://m.media-amazon.com/images/I/51xzAO3sWeL.jpg | https://m.media-amazon.com/images/I/51avU7dMX0L.jpg | https://m.media-amazon.com/images/I/41q3a-mKNrL.jpg | https://m.media-amazon.com/images/I/31c1A-6XSiL.jpg | https://m.media-amazon.com/images/I/51z6RJc5OpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹35,791.65",
   "Model": "PSBCS02K"
 }

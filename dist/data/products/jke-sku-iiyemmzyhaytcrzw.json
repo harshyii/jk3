@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51nWtI31xHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81LsfXZgU8L.jpg | https://m.media-amazon.com/images/I/51eOP6Qe7FL.jpg | https://m.media-amazon.com/images/I/51NctmjAMjL.jpg | https://m.media-amazon.com/images/I/51Di-v983jL.jpg | https://m.media-amazon.com/images/I/51B7tf7xufL.jpg | https://m.media-amazon.com/images/I/51CS-+H8mpL.jpg | https://m.media-amazon.com/images/I/513GNi6L6RL.jpg | https://m.media-amazon.com/images/I/51nWtI31xHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.02%",
   "SalePrice": "₹8,181.00",
   "Model": "CDLI205582"
 }

@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51AnOK8EDiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71BSP4p9egL.jpg | https://m.media-amazon.com/images/I/416wVp6zmyL.jpg | https://m.media-amazon.com/images/I/51AnOK8EDiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.83%",
   "SalePrice": "₹324.00",
   "Model": "ABH20601"
 }

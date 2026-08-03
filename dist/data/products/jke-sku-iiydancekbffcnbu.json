@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/51qDXbi2KxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sQOc+XVfL.jpg | https://m.media-amazon.com/images/I/51aGyR-C39L.jpg | https://m.media-amazon.com/images/I/419pn1bLetL.jpg | https://m.media-amazon.com/images/I/51VgGTmod5L.jpg | https://m.media-amazon.com/images/I/51kWeL2kE4L.jpg | https://m.media-amazon.com/images/I/51o+fYD9QpL.jpg | https://m.media-amazon.com/images/I/51qDXbi2KxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "54.14%",
   "SalePrice": "₹9,483.00",
   "Model": "8542148787"
 }

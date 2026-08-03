@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51SMNkOKvRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615jaxRD6-L.jpg | https://m.media-amazon.com/images/I/41GBe9VxGgL.jpg | https://m.media-amazon.com/images/I/41t3UH+lwTL.jpg | https://m.media-amazon.com/images/I/51XXBkHNuJL.jpg | https://m.media-amazon.com/images/I/51WIAiNQS4L.jpg | https://m.media-amazon.com/images/I/51SMNkOKvRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "36.0 Meters",
-  "Discount": 0,
+  "Discount": "30.2%",
   "SalePrice": "₹349.00",
   "Country": "India"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/61RQUcl1I8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Unrkuo1qL.jpg | https://m.media-amazon.com/images/I/41X9FkJ60YL.jpg | https://m.media-amazon.com/images/I/510oDZgfwaL.jpg | https://m.media-amazon.com/images/I/51rOAQYtFiL.jpg | https://m.media-amazon.com/images/I/51rfI5MU5oL.jpg | https://m.media-amazon.com/images/I/51dM8ZwnkuL.jpg | https://m.media-amazon.com/images/I/51PTEbYpQlL.jpg | https://m.media-amazon.com/images/I/61RQUcl1I8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹5,140.84",
   "Model": "COM10516SW",
   "Country": "USA"

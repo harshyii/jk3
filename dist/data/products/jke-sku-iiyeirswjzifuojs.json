@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51xJ8NYL7EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KeqsJuDsL.jpg | https://m.media-amazon.com/images/I/51KeqsJuDsL.jpg | https://m.media-amazon.com/images/I/51jE+oEUYYL.jpg | https://m.media-amazon.com/images/I/51Jt5XG87EL.jpg | https://m.media-amazon.com/images/I/414enWd15aL.jpg | https://m.media-amazon.com/images/I/51XG22rY+6L.jpg | https://m.media-amazon.com/images/I/51xJ8NYL7EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "60.71%",
   "SalePrice": "₹589.00",
   "Model": "G10SS"
 }

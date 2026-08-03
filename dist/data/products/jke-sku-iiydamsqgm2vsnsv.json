@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31d9X1YXBFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/5185eoEy7AL.jpg | https://m.media-amazon.com/images/I/31fo1eYM1tL.jpg | https://m.media-amazon.com/images/I/31d9X1YXBFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "71.64%",
   "SalePrice": "₹4,334.38",
   "Model": "1188J30EA"
 }

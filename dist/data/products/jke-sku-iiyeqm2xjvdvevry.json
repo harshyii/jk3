@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31pOIeVphOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/511-jah37DL.jpg | https://m.media-amazon.com/images/I/31pOIeVphOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "2.56%",
   "SalePrice": "₹190.00",
   "Model": "Fdw-6x110",
   "Country": "China"

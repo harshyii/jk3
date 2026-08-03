@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41TuNIuUAEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YSHwbz8HL.jpg | https://m.media-amazon.com/images/I/31Tn6cw2R4L.jpg | https://m.media-amazon.com/images/I/41OHrEJhMRL.jpg | https://m.media-amazon.com/images/I/21jVa94vvFL.jpg | https://m.media-amazon.com/images/I/51GB9rUosbL.jpg | https://m.media-amazon.com/images/I/319n4i0qLQL.jpg | https://m.media-amazon.com/images/I/41TuNIuUAEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "31.02%",
   "SalePrice": "₹1,655.50",
   "Model": "428-02"
 }

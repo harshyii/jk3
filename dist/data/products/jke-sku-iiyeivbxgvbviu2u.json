@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/51XA4acVPHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XA4acVPHL.jpg | https://m.media-amazon.com/images/I/51XA4acVPHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "3.34%",
   "SalePrice": "₹289.00",
   "Model": "BE02357"
 }

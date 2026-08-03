@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/61WelPjUlxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81FVX4eQVXL.jpg | https://m.media-amazon.com/images/I/41XUyvf62uL.jpg | https://m.media-amazon.com/images/I/41kLGvZ5v1L.jpg | https://m.media-amazon.com/images/I/512rK2jUSrL.jpg | https://m.media-amazon.com/images/I/51T-sOT0MUL.jpg | https://m.media-amazon.com/images/I/51xdxB10E3L.jpg | https://m.media-amazon.com/images/I/61WelPjUlxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "13.75%",
   "SalePrice": "₹13,799.00",
   "Model": "CW 377"
 }

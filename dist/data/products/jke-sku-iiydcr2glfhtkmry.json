@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41N8CIEIfFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wBZlmohCL.jpg | https://m.media-amazon.com/images/I/41UtKsG40WL.jpg | https://m.media-amazon.com/images/I/41JwCYId1pL.jpg | https://m.media-amazon.com/images/I/413Al8ZoEOL.jpg | https://m.media-amazon.com/images/I/41brkZZNYhL.jpg | https://m.media-amazon.com/images/I/41WDPNsgP5L.jpg | https://m.media-amazon.com/images/I/51dBOKwlVdL.jpg | https://m.media-amazon.com/images/I/41N8CIEIfFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.89%",
   "SalePrice": "₹6,200.00",
   "Model": "MAKITA-M9202B"
 }

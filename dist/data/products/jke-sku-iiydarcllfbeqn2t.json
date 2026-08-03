@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/61MuDnLm9fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Nol94VK0L.jpg | https://m.media-amazon.com/images/I/61MongqgNCL.jpg | https://m.media-amazon.com/images/I/61jHanTw0AL.jpg | https://m.media-amazon.com/images/I/61+MM1LKDzL.jpg | https://m.media-amazon.com/images/I/610dDibzvsL.jpg | https://m.media-amazon.com/images/I/61MuDnLm9fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹6,532.00",
   "Model": "225300-544",
   "Country": "Germany"

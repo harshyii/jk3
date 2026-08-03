@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41fGYN4-nqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51iH14gP3zL.jpg | https://m.media-amazon.com/images/I/313QHVBBrzL.jpg | https://m.media-amazon.com/images/I/31YQCm95LFL.jpg | https://m.media-amazon.com/images/I/41yBhPvXzdL.jpg | https://m.media-amazon.com/images/I/41fGYN4-nqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "8.08%",
   "SalePrice": "₹239.00",
   "Model": "1406"
 }

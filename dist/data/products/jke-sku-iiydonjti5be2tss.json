@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51g24pxnZXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61a5dqVRrcL.jpg | https://m.media-amazon.com/images/I/41Yp56SoTRL.jpg | https://m.media-amazon.com/images/I/41Kp5wt8IPL.jpg | https://m.media-amazon.com/images/I/41yLxnCPUGL.jpg | https://m.media-amazon.com/images/I/41H+7HDFLcL.jpg | https://m.media-amazon.com/images/I/51IWcG1U7qL.jpg | https://m.media-amazon.com/images/I/31w4XCGgYPL.jpg | https://m.media-amazon.com/images/I/51g24pxnZXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.27%",
   "SalePrice": "₹6,868.00",
   "Model": "RT-TCZ",
   "Country": "USA"

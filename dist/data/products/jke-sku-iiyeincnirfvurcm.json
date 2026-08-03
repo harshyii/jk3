@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41d4U9DFneL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/517MgOLxGWL.jpg | https://m.media-amazon.com/images/I/517MgOLxGWL.jpg | https://m.media-amazon.com/images/I/41L+DOEbMsL.jpg | https://m.media-amazon.com/images/I/51OgNLVpfOL.jpg | https://m.media-amazon.com/images/I/41d4U9DFneL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5.00 Count",
-  "Discount": 0,
+  "Discount": "51.75%",
   "SalePrice": "₹289.00",
   "Model": "5P 70X70MM SOLAR CELL"
 }

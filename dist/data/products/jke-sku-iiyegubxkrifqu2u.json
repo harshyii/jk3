@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41MShQCrMlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nWXQ3iucL.jpg | https://m.media-amazon.com/images/I/41oeNwWqSBL.jpg | https://m.media-amazon.com/images/I/41Ss8OCKclL.jpg | https://m.media-amazon.com/images/I/41z+pCadHcL.jpg | https://m.media-amazon.com/images/I/41nyddVyT1L.jpg | https://m.media-amazon.com/images/I/41BdZL0oDgL.jpg | https://m.media-amazon.com/images/I/41tKGITAEYL.jpg | https://m.media-amazon.com/images/I/41MShQCrMlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹43,811.43",
   "Model": "3692-22CT"
 }

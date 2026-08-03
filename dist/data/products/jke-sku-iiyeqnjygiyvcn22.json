@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41YHFCiLQqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uCdFfrPQL.jpg | https://m.media-amazon.com/images/I/31sL2DzwcNL.jpg | https://m.media-amazon.com/images/I/51PFAeq+QqL.jpg | https://m.media-amazon.com/images/I/41YHFCiLQqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "84.96%",
   "SalePrice": "₹60.00",
   "Model": "‎VC-091",
   "Country": "‎India"

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51XR05p7z4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ukOn6zHNL.jpg | https://m.media-amazon.com/images/I/41fT1HlSGIL.jpg | https://m.media-amazon.com/images/I/4133YyeQZRL.jpg | https://m.media-amazon.com/images/I/51XR05p7z4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "50.0 Count",
-  "Discount": 0,
+  "Discount": "43.57%",
   "SalePrice": "₹3,778.20",
   "Model": "45036"
 }

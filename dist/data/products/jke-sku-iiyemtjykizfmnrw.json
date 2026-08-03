@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61069R3sF6L.jpg | https://m.media-amazon.com/images/I/41D-5lArhbL.jpg | https://m.media-amazon.com/images/I/41MRC+MFLHL.jpg | https://m.media-amazon.com/images/I/5110gBbkU9L.jpg | https://m.media-amazon.com/images/I/51cHoztMWGL.jpg | https://m.media-amazon.com/images/I/51BlFb98cKL.jpg | https://m.media-amazon.com/images/I/61wEbzFTeIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "39.33%",
   "SalePrice": "₹18,199.00",
   "Model": "AMP - AP20048TT"
 }

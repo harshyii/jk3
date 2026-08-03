@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51RnWrSYl1L.jpg | https://m.media-amazon.com/images/I/31TGnf1e1VL.jpg | https://m.media-amazon.com/images/I/41XgZSq8yYL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.91%",
   "SalePrice": "₹175.00",
   "Model": "LP06"
 }

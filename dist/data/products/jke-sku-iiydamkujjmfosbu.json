@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51lneOt8noL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7147hk3fDjL.jpg | https://m.media-amazon.com/images/I/41d+P4yNO-L.jpg | https://m.media-amazon.com/images/I/519OT3jqj2L.jpg | https://m.media-amazon.com/images/I/51j6TQj8+rL.jpg | https://m.media-amazon.com/images/I/51Swmvz2HeL.jpg | https://m.media-amazon.com/images/I/51RoGGfvAwL.jpg | https://m.media-amazon.com/images/I/410CZIdQE7L.jpg | https://m.media-amazon.com/images/I/51lneOt8noL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.00 Milliliters",
-  "Discount": 0,
+  "Discount": "73.17%",
   "SalePrice": "₹2,370.00",
   "Model": "CWS_201_16SW"
 }

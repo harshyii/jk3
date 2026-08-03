@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/2177Fh6FzbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51SQtHUSxzL.jpg | https://m.media-amazon.com/images/I/41rkBa2TasL.jpg | https://m.media-amazon.com/images/I/51VG0zkKWsL.jpg | https://m.media-amazon.com/images/I/41nFp0hBILL.jpg | https://m.media-amazon.com/images/I/41TEcaCX1SL.jpg | https://m.media-amazon.com/images/I/41J5rup4i2L.jpg | https://m.media-amazon.com/images/I/2177Fh6FzbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "35.73%",
   "SalePrice": "₹1,255.00",
   "Model": "421",
   "Country": "USA"

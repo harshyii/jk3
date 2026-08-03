@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51MM6u6XFtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41QURAbW8SL.jpg | https://m.media-amazon.com/images/I/41QURAbW8SL.jpg | https://m.media-amazon.com/images/I/51MM6u6XFtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "34.71%",
   "SalePrice": "₹31,999.00",
   "Model": "DHR241RFE"
 }

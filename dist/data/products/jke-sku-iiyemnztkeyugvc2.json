@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51U0Q63MGqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81KwgJjsLYL.jpg | https://m.media-amazon.com/images/I/51+3YEjpNGL.jpg | https://m.media-amazon.com/images/I/51O6VxxWkfL.jpg | https://m.media-amazon.com/images/I/51eEncjYb9L.jpg | https://m.media-amazon.com/images/I/519UWOKfcPL.jpg | https://m.media-amazon.com/images/I/412N32+LPkL.jpg | https://m.media-amazon.com/images/I/51U0Q63MGqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "58.33%",
   "SalePrice": "₹2,499.99",
   "Model": "DT02017G-USA"
 }

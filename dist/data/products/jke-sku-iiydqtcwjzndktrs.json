@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Zald89DuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71L+0BAt9AS.jpg | https://m.media-amazon.com/images/I/51f66FGCzqS.jpg | https://m.media-amazon.com/images/I/31ZiOrdQ1FL.jpg | https://m.media-amazon.com/images/I/31Q8Ri9mxqL.jpg | https://m.media-amazon.com/images/I/31Lqx5bb3UL.jpg | https://m.media-amazon.com/images/I/41Crkt3hQeL.jpg | https://m.media-amazon.com/images/I/41Zald89DuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Set",
-  "Discount": 0,
+  "Discount": "50.1%",
   "SalePrice": "₹249.00",
   "Model": "Connector-1000V-30A"
 }

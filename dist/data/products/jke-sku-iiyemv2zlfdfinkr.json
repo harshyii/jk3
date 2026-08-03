@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51yqkx7oZ1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bD-ndNojL.jpg | https://m.media-amazon.com/images/I/41r6lh+DznL.jpg | https://m.media-amazon.com/images/I/51AwuTRNTnL.jpg | https://m.media-amazon.com/images/I/41KsJHbQ68L.jpg | https://m.media-amazon.com/images/I/41FhlmDiwCL.jpg | https://m.media-amazon.com/images/I/41ooZhQ1QIL.jpg | https://m.media-amazon.com/images/I/51ie5wmkvLL.jpg | https://m.media-amazon.com/images/I/51yqkx7oZ1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Pack",
-  "Discount": 0,
+  "Discount": "80.6%",
   "SalePrice": "₹349.00",
   "Model": "ZU-1001"
 }

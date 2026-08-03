@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51RHDuIADiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719PT5a8pYL.jpg | https://m.media-amazon.com/images/I/41BxALdoCVL.jpg | https://m.media-amazon.com/images/I/513WTue5B5L.jpg | https://m.media-amazon.com/images/I/51RHDuIADiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "70.77%",
   "SalePrice": "₹3,800.00",
   "Model": "COSLI240312"
 }

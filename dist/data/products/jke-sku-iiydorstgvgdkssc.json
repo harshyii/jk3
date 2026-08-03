@@ -39,8 +39,8 @@
     "https://m.media-amazon.com/images/I/41T+nG812bL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cx-hVBDVL.jpg | https://m.media-amazon.com/images/I/41T+nG812bL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "20.48%",
   "SalePrice": "₹2,287.00"
 }

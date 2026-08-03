@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51EH3wMy9-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51FY-SuJbZL.jpg | https://m.media-amazon.com/images/I/51FY-SuJbZL.jpg | https://m.media-amazon.com/images/I/61ioX3CWEgL.jpg | https://m.media-amazon.com/images/I/51BystX3SxL.jpg | https://m.media-amazon.com/images/I/51EH3wMy9-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.57%",
   "SalePrice": "₹450.00",
   "Model": "Ts2-ph2-65"
 }

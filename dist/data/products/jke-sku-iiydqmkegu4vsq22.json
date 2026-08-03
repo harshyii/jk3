@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41qrt1IUO7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ulv1jTu9L.jpg | https://m.media-amazon.com/images/I/31bCImor3DL.jpg | https://m.media-amazon.com/images/I/31st0axiG0L.jpg | https://m.media-amazon.com/images/I/31yAPWm8sfL.jpg | https://m.media-amazon.com/images/I/31RxG3iCMoL.jpg | https://m.media-amazon.com/images/I/41opL9n7zXL.jpg | https://m.media-amazon.com/images/I/41qrt1IUO7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.32%",
   "SalePrice": "₹463.00",
   "Model": "BXHP0221IN-W"
 }

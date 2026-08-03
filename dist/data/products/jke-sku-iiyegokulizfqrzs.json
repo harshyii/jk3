@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41jBuuExQeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/4182XZWYOEL.jpg | https://m.media-amazon.com/images/I/21gGe9T2VLL.jpg | https://m.media-amazon.com/images/I/41fQHeuy06L.jpg | https://m.media-amazon.com/images/I/41Mbgt1YtsL.jpg | https://m.media-amazon.com/images/I/41L6cWsxnKL.jpg | https://m.media-amazon.com/images/I/41jBuuExQeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "52%",
   "SalePrice": "₹18,599.00",
   "Model": "RENO 3KTLX",
   "Country": "India"

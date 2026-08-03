@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51dQWIeKoTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PJuu94VxL.jpg | https://m.media-amazon.com/images/I/41EydX04-XL.jpg | https://m.media-amazon.com/images/I/61Qj9mupU6L.jpg | https://m.media-amazon.com/images/I/51QRLypvrKL.jpg | https://m.media-amazon.com/images/I/41pqDm6g7eL.jpg | https://m.media-amazon.com/images/I/4185M6sKBPL.jpg | https://m.media-amazon.com/images/I/51dQWIeKoTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.59%",
   "SalePrice": "₹9,529.00",
   "Model": "COS243558"
 }

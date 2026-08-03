@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41t2+du7ZpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618gThvlDgL.jpg | https://m.media-amazon.com/images/I/31EgwLP1gML.jpg | https://m.media-amazon.com/images/I/31KZ4PKpliL.jpg | https://m.media-amazon.com/images/I/411WE3sFUnL.jpg | https://m.media-amazon.com/images/I/41t2+du7ZpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.71%",
   "SalePrice": "₹11,302.00",
   "Model": "40301"
 }

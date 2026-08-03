@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41dvlIg27AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TMI+SdHSL.jpg | https://m.media-amazon.com/images/I/31XrvLRftLL.jpg | https://m.media-amazon.com/images/I/31NrNh6EUhL.jpg | https://m.media-amazon.com/images/I/31HnE0E6FML.jpg | https://m.media-amazon.com/images/I/41dvlIg27AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.25%",
   "SalePrice": "₹1,248.97",
   "Model": "THT/01",
   "Country": "India"

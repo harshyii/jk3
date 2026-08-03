@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41Nx9KKjorL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617mtx9jtzL.jpg | https://m.media-amazon.com/images/I/41+sYLfzLDL.jpg | https://m.media-amazon.com/images/I/41cBqs-ZnWL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41RuAroXyDL.jpg | https://m.media-amazon.com/images/I/41Nx9KKjorL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹630.00",
   "Country": "USA"
 }

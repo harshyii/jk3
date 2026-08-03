@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41RdtpdZAHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VIk-7Hc8L.jpg | https://m.media-amazon.com/images/I/31YxCVYxunL.jpg | https://m.media-amazon.com/images/I/41g6Plq6HSL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41zUdJvTAbL.jpg | https://m.media-amazon.com/images/I/41GhxkeghEL.jpg | https://m.media-amazon.com/images/I/41PUmCGJwsL.jpg | https://m.media-amazon.com/images/I/51OUnJhDBAL.jpg | https://m.media-amazon.com/images/I/41RdtpdZAHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹19,873.00",
   "Model": "899-96N-1025-899-BA2-0150-899-281-0AIO"
 }

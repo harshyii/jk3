@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/51NR4ZxZPuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51KbhzIVPWL.jpg | https://m.media-amazon.com/images/I/51KbhzIVPWL.jpg | https://m.media-amazon.com/images/I/51XSEPF7LKL.jpg | https://m.media-amazon.com/images/I/51NR4ZxZPuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "24 Count",
-  "Discount": 0,
+  "Discount": "68.64%",
   "SalePrice": "₹414.00",
   "Country": "United Kingdom"
 }

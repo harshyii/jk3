@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31gH+we96XL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51jyXx+djwL.jpg | https://m.media-amazon.com/images/I/312XwHCjOwL.jpg | https://m.media-amazon.com/images/I/31ZUiIhj6CL.jpg | https://m.media-amazon.com/images/I/31gH+we96XL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.28%",
   "SalePrice": "₹320.00",
   "Model": "31564"
 }

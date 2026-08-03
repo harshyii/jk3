@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41pJVChX9fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71nNLYYJi2L.jpg | https://m.media-amazon.com/images/I/41awG6MPasL.jpg | https://m.media-amazon.com/images/I/51mCPz9rw6L.jpg | https://m.media-amazon.com/images/I/51WLzc5ihPL.jpg | https://m.media-amazon.com/images/I/51E3HvC9mVL.jpg | https://m.media-amazon.com/images/I/51x6WnVm+jL.jpg | https://m.media-amazon.com/images/I/41pJVChX9fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.14%",
   "SalePrice": "₹1,989.00",
   "Model": "20.00MM"
 }

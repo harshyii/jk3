@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/41hH000s78L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fyzBtWYUL.jpg | https://m.media-amazon.com/images/I/41kYP5fpMDL.jpg | https://m.media-amazon.com/images/I/416kMR2QlhL.jpg | https://m.media-amazon.com/images/I/41zI5mWirPL.jpg | https://m.media-amazon.com/images/I/4167VMj7nlL.jpg | https://m.media-amazon.com/images/I/41h-hhQ5USL.jpg | https://m.media-amazon.com/images/I/41-vyBZSL1L.jpg | https://m.media-amazon.com/images/I/41hH000s78L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "58.85%",
   "SalePrice": "₹1,234.00",
   "Model": "10,000 mah",
   "Country": "India"

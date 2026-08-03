@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41Lk8hsE17L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51th+N6bfwL.jpg | https://m.media-amazon.com/images/I/411iPMfa0ZL.jpg | https://m.media-amazon.com/images/I/41Lk8hsE17L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.77%",
   "SalePrice": "₹3,540.00",
   "Model": "EJS060"
 }

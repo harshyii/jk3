@@ -45,8 +45,8 @@
     "https://m.media-amazon.com/images/I/41vUX7KQqzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71GDZOnQ2AL.jpg | https://m.media-amazon.com/images/I/41DBhnKaWyL.jpg | https://m.media-amazon.com/images/I/515Z-5fgZxL.jpg | https://m.media-amazon.com/images/I/41ah1qlK8OL.jpg | https://m.media-amazon.com/images/I/41vUX7KQqzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Set",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹14,999.00"
 }

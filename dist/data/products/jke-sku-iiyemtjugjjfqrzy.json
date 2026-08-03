@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31+XAX6pC3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jIij4nr9L.jpg | https://m.media-amazon.com/images/I/31R+r2agWgL.jpg | https://m.media-amazon.com/images/I/41Gtk0YJA7L.jpg | https://m.media-amazon.com/images/I/310nNZjgb5L.jpg | https://m.media-amazon.com/images/I/31+XAX6pC3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "14.66%",
   "SalePrice": "₹29,338.30",
   "Model": "DMB1J"
 }

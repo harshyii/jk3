@@ -54,8 +54,8 @@
     "https://m.media-amazon.com/images/I/31AwipWpl6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81zPdAUbDDL.jpg | https://m.media-amazon.com/images/I/51jlv3tLPVL.jpg | https://m.media-amazon.com/images/I/41wnQis2+GL.jpg | https://m.media-amazon.com/images/I/41Q3lEh1MbL.jpg | https://m.media-amazon.com/images/I/51Cj0YLZAUL.jpg | https://m.media-amazon.com/images/I/31AwipWpl6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400 Grams",
-  "Discount": 0,
+  "Discount": "3.33%",
   "SalePrice": "₹145.00"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51rtHBYg9gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Twkfo0xUL.jpg | https://m.media-amazon.com/images/I/41L339PYOLL.jpg | https://m.media-amazon.com/images/I/41tlsHOO+hL.jpg | https://m.media-amazon.com/images/I/51ioxA7ObhL.jpg | https://m.media-amazon.com/images/I/51KFtswD0eL.jpg | https://m.media-amazon.com/images/I/51tdeXiPnQL.jpg | https://m.media-amazon.com/images/I/51rf0598PuL.jpg | https://m.media-amazon.com/images/I/51rtHBYg9gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "125.0 Milliliters",
-  "Discount": 0,
+  "Discount": "43.41%",
   "SalePrice": "₹339.00",
   "Country": "India"
 }

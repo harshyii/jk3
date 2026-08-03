@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31aORm31F3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ZTrjRmEKL.jpg | https://m.media-amazon.com/images/I/31xedUZOj-L.jpg | https://m.media-amazon.com/images/I/31aORm31F3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.78%",
   "SalePrice": "₹280.00",
   "Model": "99003-pk2"
 }

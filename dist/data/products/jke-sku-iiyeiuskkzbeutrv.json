@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31o0isa9s2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6171hEfCmAL.jpg | https://m.media-amazon.com/images/I/31WE-gKihcL.jpg | https://m.media-amazon.com/images/I/31obL-Xa7pL.jpg | https://m.media-amazon.com/images/I/31vEkDcPObL.jpg | https://m.media-amazon.com/images/I/31o0isa9s2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "4.27%",
   "SalePrice": "₹359.00",
   "Model": "BSH10 / BSH 12"
 }

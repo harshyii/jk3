@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41QigslsC+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41vq8R4O0ML.jpg | https://m.media-amazon.com/images/I/41vq8R4O0ML.jpg | https://m.media-amazon.com/images/I/41iZTZzZ6wL.jpg | https://m.media-amazon.com/images/I/41QigslsC+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "73.58%",
   "SalePrice": "₹79.00",
   "Model": "SP233"
 }

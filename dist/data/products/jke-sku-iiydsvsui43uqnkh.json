@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41FgTRplImL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Jjb-hhOLL.jpg | https://m.media-amazon.com/images/I/31KHybSMNeL.jpg | https://m.media-amazon.com/images/I/31Y3CFmlpbL.jpg | https://m.media-amazon.com/images/I/31eQ3IfQ0QL.jpg | https://m.media-amazon.com/images/I/31WSwRT08bL.jpg | https://m.media-amazon.com/images/I/51Ej60KMjoL.jpg | https://m.media-amazon.com/images/I/51XDbdgfHBL.jpg | https://m.media-amazon.com/images/I/41FgTRplImL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹22,732.00",
   "Model": "RROS18-0"
 }

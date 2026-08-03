@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51yrrysaB4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41wdoyrGRhL.jpg | https://m.media-amazon.com/images/I/31jL+8xzH6L.jpg | https://m.media-amazon.com/images/I/41GD5hwXA-L.jpg | https://m.media-amazon.com/images/I/51cEpAGTWcL.jpg | https://m.media-amazon.com/images/I/415R-27dE+L.jpg | https://m.media-amazon.com/images/I/41COmpH8YgL.jpg | https://m.media-amazon.com/images/I/510e41IYSOL.jpg | https://m.media-amazon.com/images/I/51yrrysaB4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.32%",
   "SalePrice": "₹46,223.00",
   "Model": "6906"
 }

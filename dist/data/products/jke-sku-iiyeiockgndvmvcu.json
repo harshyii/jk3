@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31SVH2ODFaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Fbu9KaOGL.jpg | https://m.media-amazon.com/images/I/313lKEQVAuL.jpg | https://m.media-amazon.com/images/I/41789zDLIzL.jpg | https://m.media-amazon.com/images/I/41tbz8zGYbL.jpg | https://m.media-amazon.com/images/I/51fHziRqakL.jpg | https://m.media-amazon.com/images/I/41ms0pVl2tL.jpg | https://m.media-amazon.com/images/I/313PBz02cRL.jpg | https://m.media-amazon.com/images/I/31SVH2ODFaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "70.07%",
   "SalePrice": "₹299.00",
   "Model": "Hand Saw"
 }

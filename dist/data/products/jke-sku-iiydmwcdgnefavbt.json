@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51gz1QxpEdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kPmCp6FCL.jpg | https://m.media-amazon.com/images/I/51kPmCp6FCL.jpg | https://m.media-amazon.com/images/I/41-nadZunGL.jpg | https://m.media-amazon.com/images/I/51gz1QxpEdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.06%",
   "SalePrice": "₹1,416.00",
   "Model": "TC102"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/21Cizv0deKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/310XMifxevL.jpg | https://m.media-amazon.com/images/I/310XMifxevL.jpg | https://m.media-amazon.com/images/I/41aOnwU22eL.jpg | https://m.media-amazon.com/images/I/31O9IaY1yjL.jpg | https://m.media-amazon.com/images/I/21Sy60ObDtL.jpg | https://m.media-amazon.com/images/I/21Cizv0deKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "7.00 Count",
-  "Discount": 0,
+  "Discount": "65.81%",
   "SalePrice": "₹239.00",
   "Model": "FGH456"
 }

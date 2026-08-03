@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41ULW5QeaBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51bQXAEGVoL.jpg | https://m.media-amazon.com/images/I/41w2djJcpkL.jpg | https://m.media-amazon.com/images/I/31pd5e6jcsL.jpg | https://m.media-amazon.com/images/I/41ULW5QeaBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "45.95%",
   "SalePrice": "₹540.00",
   "Country": "‎Germany"
 }

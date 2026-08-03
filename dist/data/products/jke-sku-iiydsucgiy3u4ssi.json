@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51i0mM-MUZS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81DBPBWTPuS.jpg | https://m.media-amazon.com/images/I/511k8Xw6s4S.jpg | https://m.media-amazon.com/images/I/51i23FDT+8S.jpg | https://m.media-amazon.com/images/I/51puzq6PrtS.jpg | https://m.media-amazon.com/images/I/51ED9bm9JeS.jpg | https://m.media-amazon.com/images/I/51rOhKDm+tS.jpg | https://m.media-amazon.com/images/I/417B57rnLqS.jpg | https://m.media-amazon.com/images/I/51i0mM-MUZS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "66.71%",
   "SalePrice": "₹499.00",
   "Model": "NO-02"
 }

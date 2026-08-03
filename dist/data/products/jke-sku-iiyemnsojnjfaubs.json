@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51vZp+utSSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41+uXpRwxTL.jpg | https://m.media-amazon.com/images/I/31W0Umc+SjL.jpg | https://m.media-amazon.com/images/I/41yeFYlPI4L.jpg | https://m.media-amazon.com/images/I/411OZNWeEQL.jpg | https://m.media-amazon.com/images/I/41QLdIWYgkL.jpg | https://m.media-amazon.com/images/I/41msEJBM-OL.jpg | https://m.media-amazon.com/images/I/41sVo6xqYfL.jpg | https://m.media-amazon.com/images/I/51vZp+utSSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.73%",
   "SalePrice": "₹5,720.00",
   "Model": "899-96N-1025"
 }

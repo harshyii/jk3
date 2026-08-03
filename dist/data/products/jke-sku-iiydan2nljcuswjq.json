@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/61-cylufMWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711VNoC3HOL.jpg | https://m.media-amazon.com/images/I/41vQktrpUpL.jpg | https://m.media-amazon.com/images/I/61pjVqHAP1L.jpg | https://m.media-amazon.com/images/I/41Y0-Tjb6qL.jpg | https://m.media-amazon.com/images/I/611qrM0MafL.jpg | https://m.media-amazon.com/images/I/41MEUhLhc3L.jpg | https://m.media-amazon.com/images/I/61-cylufMWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.6%",
   "SalePrice": "₹6,299.00",
   "Model": "CS1500-IN"
 }

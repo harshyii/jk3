@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/11dHmaplqnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31Xob4EnN4L.jpg | https://m.media-amazon.com/images/I/11dHmaplqnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.8%",
   "SalePrice": "₹1,308.41",
   "Model": "BAR",
   "Country": "India"

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41pHjIxKcCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NZd+r2AQL.jpg | https://m.media-amazon.com/images/I/41riIpphIcL.jpg | https://m.media-amazon.com/images/I/41YnwB4JrUL.jpg | https://m.media-amazon.com/images/I/41BogTDLiVL.jpg | https://m.media-amazon.com/images/I/31uN5EDkocL.jpg | https://m.media-amazon.com/images/I/419V8x5ud7L.jpg | https://m.media-amazon.com/images/I/41JdPDvrvkL.jpg | https://m.media-amazon.com/images/I/41pHjIxKcCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "24.98%",
   "SalePrice": "₹5,250.95",
   "Country": "‎Japan"
 }

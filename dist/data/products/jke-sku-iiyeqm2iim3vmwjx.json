@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41UXQI8OZNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31qwK6ClFeL.jpg | https://m.media-amazon.com/images/I/31qwK6ClFeL.jpg | https://m.media-amazon.com/images/I/21opo0YWsYL.jpg | https://m.media-amazon.com/images/I/41UXQI8OZNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.22%",
   "SalePrice": "₹35,000.00",
   "Model": "ESSM1475",
   "Country": "India"

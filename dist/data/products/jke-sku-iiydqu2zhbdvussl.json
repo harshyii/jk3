@@ -44,8 +44,8 @@
     "https://m.media-amazon.com/images/I/41k74h+semL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/313WqDdquxL.jpg | https://m.media-amazon.com/images/I/313WqDdquxL.jpg | https://m.media-amazon.com/images/I/31-eGSbpy-L.jpg | https://m.media-amazon.com/images/I/41k74h+semL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "84.14%",
   "SalePrice": "₹125.00"
 }

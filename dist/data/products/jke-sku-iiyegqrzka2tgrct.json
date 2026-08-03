@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51m31uwySPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Ium3WqAIL.jpg | https://m.media-amazon.com/images/I/41hXqgZ-HUL.jpg | https://m.media-amazon.com/images/I/514SrX6cTbL.jpg | https://m.media-amazon.com/images/I/51xeuQ9uUPL.jpg | https://m.media-amazon.com/images/I/51ZuRwAvt1L.jpg | https://m.media-amazon.com/images/I/515Os0R3y0L.jpg | https://m.media-amazon.com/images/I/51sEROpiovL.jpg | https://m.media-amazon.com/images/I/51m31uwySPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "34.98%",
   "SalePrice": "₹28,104.00",
   "Model": "XPH16Z"
 }

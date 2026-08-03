@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/21Gg9Ak7uML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51R9ScDap+L.jpg | https://m.media-amazon.com/images/I/21Gg9Ak7uML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.55%",
   "SalePrice": "₹11,999.00",
   "Model": "FHCID5SMEG48"
 }

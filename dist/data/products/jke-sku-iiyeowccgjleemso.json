@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41wWjoj5TqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SrLY-Zi6L.jpg | https://m.media-amazon.com/images/I/313Bwdz8A-L.jpg | https://m.media-amazon.com/images/I/51Pt6oNmXtL.jpg | https://m.media-amazon.com/images/I/413+xlfHrlL.jpg | https://m.media-amazon.com/images/I/41z52-iH2-L.jpg | https://m.media-amazon.com/images/I/411mfqEJmSL.jpg | https://m.media-amazon.com/images/I/41r2vGOYeUL.jpg | https://m.media-amazon.com/images/I/41wWjoj5TqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "31.12%",
   "SalePrice": "₹3,099.00",
   "Model": "PA0056",
   "Country": "China"

@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/513A0Z-TSlL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zqYGItbLL.jpg | https://m.media-amazon.com/images/I/41G57tf9xcL.jpg | https://m.media-amazon.com/images/I/41PzNhX+NBL.jpg | https://m.media-amazon.com/images/I/51TjXoDB-tL.jpg | https://m.media-amazon.com/images/I/51SK6u4TrWL.jpg | https://m.media-amazon.com/images/I/413Bz+0IqxL.jpg | https://m.media-amazon.com/images/I/513A0Z-TSlL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "33.56%",
   "SalePrice": "₹2,990.00",
   "Model": "CIDLI1232"
 }

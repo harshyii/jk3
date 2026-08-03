@@ -78,9 +78,9 @@
     "https://m.media-amazon.com/images/I/41VyDGf89FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717hgyAhgAL.jpg | https://m.media-amazon.com/images/I/41y7p4-PI-L.jpg | https://m.media-amazon.com/images/I/41hw9q52eIL.jpg | https://m.media-amazon.com/images/I/51N8UPiGIoL.jpg | https://m.media-amazon.com/images/I/417MAxuX8XL.jpg | https://m.media-amazon.com/images/I/41wmjOfG4RL.jpg | https://m.media-amazon.com/images/I/41VyDGf89FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.86%",
   "SalePrice": "₹4,699.00",
   "Model": "LD120VA"
 }

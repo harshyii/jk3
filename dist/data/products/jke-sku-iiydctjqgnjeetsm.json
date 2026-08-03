@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41tQ5nP6JCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71naIM7-+LL.jpg | https://m.media-amazon.com/images/I/41LuOcCjfUL.jpg | https://m.media-amazon.com/images/I/61N5rmjB5-L.jpg | https://m.media-amazon.com/images/I/41+LQyMwf8L.jpg | https://m.media-amazon.com/images/I/41Y5+ucSlZL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/41tQ5nP6JCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.58%",
   "SalePrice": "₹28,699.00",
   "Model": "DCD996P2-QW"
 }

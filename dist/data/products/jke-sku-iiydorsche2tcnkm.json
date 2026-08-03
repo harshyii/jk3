@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41aoHpEOkjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kNhUm49+L.jpg | https://m.media-amazon.com/images/I/41hDpJaDRKL.jpg | https://m.media-amazon.com/images/I/31j3aX0T1fL.jpg | https://m.media-amazon.com/images/I/412+1+ma3pL.jpg | https://m.media-amazon.com/images/I/41aoHpEOkjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.75%",
   "SalePrice": "₹2,374.00",
   "Model": "Milwaukee Tools - 48-32-4604"
 }

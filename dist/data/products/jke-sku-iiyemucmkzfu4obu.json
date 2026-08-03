@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51eGn4dl4IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DenzhGHoL.jpg | https://m.media-amazon.com/images/I/41ZhpvwNINL.jpg | https://m.media-amazon.com/images/I/51bmGmg0ZyL.jpg | https://m.media-amazon.com/images/I/41Y+8b4XA6L.jpg | https://m.media-amazon.com/images/I/51lB6w+O7AL.jpg | https://m.media-amazon.com/images/I/51+2N0Eb1bL.jpg | https://m.media-amazon.com/images/I/41vNzhK0iPL.jpg | https://m.media-amazon.com/images/I/51eGn4dl4IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "30.34%",
   "SalePrice": "₹4,985.00",
   "Model": "Home & Garden"
 }

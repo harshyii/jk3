@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41bRs8j58OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CxPRTRyDL.jpg | https://m.media-amazon.com/images/I/31D4KLF90tL.jpg | https://m.media-amazon.com/images/I/418bL-8usyL.jpg | https://m.media-amazon.com/images/I/41mZmN9FMZL.jpg | https://m.media-amazon.com/images/I/41ya9xRnlTL.jpg | https://m.media-amazon.com/images/I/41bRs8j58OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "62%",
   "SalePrice": "₹285.00",
   "Model": "LineTester-45213",
   "Country": "India"

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51kI7OuSa2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/814HLI-iXvL.jpg | https://m.media-amazon.com/images/I/51V8UYj7r2L.jpg | https://m.media-amazon.com/images/I/419-3JQa-OL.jpg | https://m.media-amazon.com/images/I/51N-KZ2Kt-L.jpg | https://m.media-amazon.com/images/I/51P+t0xUGCL.jpg | https://m.media-amazon.com/images/I/51jL0XRujZL.jpg | https://m.media-amazon.com/images/I/51kI7OuSa2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "8.8%",
   "SalePrice": "₹5,016.00",
   "Model": "IBELL RH26-82"
 }

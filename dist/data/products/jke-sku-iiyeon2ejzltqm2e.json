@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41AttUkqv3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RJkkx8y4L.jpg | https://m.media-amazon.com/images/I/4165sV-BMLL.jpg | https://m.media-amazon.com/images/I/41QnO8yAZPL.jpg | https://m.media-amazon.com/images/I/41YrEkXQbXL.jpg | https://m.media-amazon.com/images/I/51dHdA7hzKL.jpg | https://m.media-amazon.com/images/I/51lRVIp8C+L.jpg | https://m.media-amazon.com/images/I/51AAzbIFpxL.jpg | https://m.media-amazon.com/images/I/41AttUkqv3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.03%",
   "SalePrice": "₹999.00",
   "Model": "872AID305.RL.SP02.Solar.Panel_RTGoct421"
 }

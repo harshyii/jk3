@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41duzegJLZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71UEmx6rN-L.jpg | https://m.media-amazon.com/images/I/31ePIEJLz6L.jpg | https://m.media-amazon.com/images/I/41duzegJLZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.04%",
   "SalePrice": "₹268.00",
   "Model": "D100410"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51FRbKuLJEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61bFeGV5KtL.jpg | https://m.media-amazon.com/images/I/515U6CAO+qL.jpg | https://m.media-amazon.com/images/I/41c-p2IO7fL.jpg | https://m.media-amazon.com/images/I/519zSAvG0ZL.jpg | https://m.media-amazon.com/images/I/61VUkuMcEwL.jpg | https://m.media-amazon.com/images/I/512XiF9DljL.jpg | https://m.media-amazon.com/images/I/51c9NUN2lEL.jpg | https://m.media-amazon.com/images/I/51FRbKuLJEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "25.93%",
   "SalePrice": "₹56,834.00",
   "Model": "solar-panels"
 }

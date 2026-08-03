@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41XrDH5X0pL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713rWReGD4L.jpg | https://m.media-amazon.com/images/I/31k1KenrR-L.jpg | https://m.media-amazon.com/images/I/41XrDH5X0pL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "44.8%",
   "SalePrice": "₹690.00",
   "Model": "LCMF500",
   "Country": "India"

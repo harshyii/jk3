@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/61gylx0aLnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EYYWV-D2L.jpg | https://m.media-amazon.com/images/I/31YMmD0r9lL.jpg | https://m.media-amazon.com/images/I/41ReeB3dDjL.jpg | https://m.media-amazon.com/images/I/41wDN8lHhkL.jpg | https://m.media-amazon.com/images/I/41ocTdy-+XL.jpg | https://m.media-amazon.com/images/I/51MyQwxu8rL.jpg | https://m.media-amazon.com/images/I/61gylx0aLnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Set",
-  "Discount": 0,
+  "Discount": "12.5%",
   "SalePrice": "₹24,499.00",
   "Model": "Power sine 1100+RC25000",
   "Country": "India"

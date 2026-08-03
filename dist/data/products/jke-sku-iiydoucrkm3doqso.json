@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41k0CFFjpML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81erhHVE6OL.jpg | https://m.media-amazon.com/images/I/51DKrO48atL.jpg | https://m.media-amazon.com/images/I/518H87OqKtL.jpg | https://m.media-amazon.com/images/I/41al91uI-OL.jpg | https://m.media-amazon.com/images/I/41k0CFFjpML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "64.94%",
   "SalePrice": "₹210.00",
   "Model": "AP-R11A014",
   "Country": "China"

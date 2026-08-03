@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/51Wt8PVDdCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-bhnZxiLL.jpg | https://m.media-amazon.com/images/I/31Qx0cEN+oL.jpg | https://m.media-amazon.com/images/I/41kh1dbDr6L.jpg | https://m.media-amazon.com/images/I/416lXgFczNL.jpg | https://m.media-amazon.com/images/I/41EhvMlQ69L.jpg | https://m.media-amazon.com/images/I/51Wt8PVDdCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "30%",
   "SalePrice": "₹24,808.00",
   "Model": "899-LX1-1400-899-BA2-TT18"
 }

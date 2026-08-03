@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31QnVFWkyZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XXm6EaGTL.jpg | https://m.media-amazon.com/images/I/41KC-XufaIL.jpg | https://m.media-amazon.com/images/I/31PRsFH7GcL.jpg | https://m.media-amazon.com/images/I/31CR2TVoeoL.jpg | https://m.media-amazon.com/images/I/31QnVFWkyZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "9.22%",
   "SalePrice": "₹538.31",
   "Model": "HF/15/BS"
 }

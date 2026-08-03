@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/31IwN5F0KRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PDqxFD18L.jpg | https://m.media-amazon.com/images/I/31zMltzdwuL.jpg | https://m.media-amazon.com/images/I/71xKg5mXxkL.jpg | https://m.media-amazon.com/images/I/41p-yW8WS7L.jpg | https://m.media-amazon.com/images/I/311M1oq1IFL.jpg | https://m.media-amazon.com/images/I/31nvXp5pJYL.jpg | https://m.media-amazon.com/images/I/31-eN99mjGL.jpg | https://m.media-amazon.com/images/I/31IwN5F0KRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "53.11%",
   "SalePrice": "₹2,199.00",
   "Model": "M0600B"
 }

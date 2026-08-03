@@ -89,9 +89,9 @@
     "https://m.media-amazon.com/images/I/41MOwtH2uTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ZjY7nkyRL.jpg | https://m.media-amazon.com/images/I/41UVoSJNRXL.jpg | https://m.media-amazon.com/images/I/41XO+AE8pPL.jpg | https://m.media-amazon.com/images/I/51ZC2mdXweL.jpg | https://m.media-amazon.com/images/I/41FSq-3fhdL.jpg | https://m.media-amazon.com/images/I/51FVd03CTEL.jpg | https://m.media-amazon.com/images/I/51GLy2hYuuL.jpg | https://m.media-amazon.com/images/I/41MOwtH2uTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "74.3%",
   "SalePrice": "₹1,799.00",
   "Model": "Airbass",
   "Country": "China"

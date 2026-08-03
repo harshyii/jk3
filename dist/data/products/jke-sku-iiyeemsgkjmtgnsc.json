@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51K3yjrjpsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41uYRE4g7OL.jpg | https://m.media-amazon.com/images/I/31yWnijdEIL.jpg | https://m.media-amazon.com/images/I/51K3yjrjpsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹9,000.54",
   "Model": "PCL705B"
 }

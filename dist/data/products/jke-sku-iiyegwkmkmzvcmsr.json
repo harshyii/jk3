@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51GdWS2f8-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71S-tUewHwL.jpg | https://m.media-amazon.com/images/I/4167bp02V2L.jpg | https://m.media-amazon.com/images/I/41Ctzdcj5PL.jpg | https://m.media-amazon.com/images/I/41PLF0viZlL.jpg | https://m.media-amazon.com/images/I/51HPkCvHXLL.jpg | https://m.media-amazon.com/images/I/518q3fB7OuL.jpg | https://m.media-amazon.com/images/I/51lL82eKEYL.jpg | https://m.media-amazon.com/images/I/51GdWS2f8-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹22,499.00",
   "Model": "UCTT-26066",
   "Country": "India"

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41dsLFNr76L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81MJ0lTjjNL.jpg | https://m.media-amazon.com/images/I/41O7qiNjLEL.jpg | https://m.media-amazon.com/images/I/41bDhAa4y6L.jpg | https://m.media-amazon.com/images/I/41W2FGRYhTL.jpg | https://m.media-amazon.com/images/I/41SJ2YR-+aL.jpg | https://m.media-amazon.com/images/I/3164gUbWssL.jpg | https://m.media-amazon.com/images/I/31WrOMerz8L.jpg | https://m.media-amazon.com/images/I/41dsLFNr76L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "56.59%",
   "SalePrice": "₹260.00",
   "Model": "JG-3423"
 }

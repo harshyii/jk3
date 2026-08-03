@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51c313SVY6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61L80seRqmL.jpg | https://m.media-amazon.com/images/I/31MN5Zx7zjL.jpg | https://m.media-amazon.com/images/I/31zxurRdO2L.jpg | https://m.media-amazon.com/images/I/51Q4cfuuRpL.jpg | https://m.media-amazon.com/images/I/41EHrhyi98L.jpg | https://m.media-amazon.com/images/I/41eeryZzBmL.jpg | https://m.media-amazon.com/images/I/51c313SVY6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.00 Grams",
-  "Discount": 0,
+  "Discount": "10.02%",
   "SalePrice": "₹512.00",
   "Model": "HN045",
   "Country": "Italy"

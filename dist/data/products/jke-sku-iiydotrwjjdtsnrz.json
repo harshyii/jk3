@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31iR78uWWSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KxtUT3UGL.jpg | https://m.media-amazon.com/images/I/41wvq4MSYlL.jpg | https://m.media-amazon.com/images/I/31iR78uWWSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.1%",
   "SalePrice": "₹10,613.00",
   "Model": "LED/711",
   "Country": "India"

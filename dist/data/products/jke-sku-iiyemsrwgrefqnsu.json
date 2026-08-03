@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51PzdM8XPZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81DeoDx4-6L.jpg | https://m.media-amazon.com/images/I/512yGeY8EZL.jpg | https://m.media-amazon.com/images/I/51HId2xyOrL.jpg | https://m.media-amazon.com/images/I/51kyFOQQk4L.jpg | https://m.media-amazon.com/images/I/51B98GoT3nL.jpg | https://m.media-amazon.com/images/I/51cj91o158L.jpg | https://m.media-amazon.com/images/I/51PzdM8XPZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.43%",
   "SalePrice": "₹5,098.00",
   "Model": "VR BA21-65"
 }

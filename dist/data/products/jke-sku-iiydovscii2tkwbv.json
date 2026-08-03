@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/512+h+8ZCTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DExRdcCRL.jpg | https://m.media-amazon.com/images/I/41OW8yL7ulL.jpg | https://m.media-amazon.com/images/I/51R8LITyeQL.jpg | https://m.media-amazon.com/images/I/41jwmFbxNaL.jpg | https://m.media-amazon.com/images/I/41YKYcU6bIL.jpg | https://m.media-amazon.com/images/I/41fGnncksLL.jpg | https://m.media-amazon.com/images/I/41YyBp9qXGL.jpg | https://m.media-amazon.com/images/I/512+h+8ZCTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹48,051.30",
   "Model": "DCS356B"
 }

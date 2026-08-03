@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/21-F8CaF6dL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31U27te3fIL.jpg | https://m.media-amazon.com/images/I/113r-biTz1L.jpg | https://m.media-amazon.com/images/I/21-F8CaF6dL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "46.09%",
   "SalePrice": "₹269.00",
   "Model": "KR200g"
 }

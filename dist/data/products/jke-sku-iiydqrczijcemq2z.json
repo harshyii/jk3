@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41C0jDuEcQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617ta3egZML.jpg | https://m.media-amazon.com/images/I/51OAgWJ9PDL.jpg | https://m.media-amazon.com/images/I/51M59qEDQjL.jpg | https://m.media-amazon.com/images/I/61RJ50mpH6L.jpg | https://m.media-amazon.com/images/I/51i+npAg2AL.jpg | https://m.media-amazon.com/images/I/41C0jDuEcQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "42.87%",
   "SalePrice": "₹1,999.00",
   "Model": "AAC1408"
 }

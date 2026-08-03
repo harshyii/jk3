@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41uc7GJX4rL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71NLBJ5-XiL.jpg | https://m.media-amazon.com/images/I/51ERzkucaUL.jpg | https://m.media-amazon.com/images/I/51bFMUKHayL.jpg | https://m.media-amazon.com/images/I/41uc7GJX4rL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.27%",
   "SalePrice": "₹1,799.00",
   "Model": "Exide 12AH 12V SMF Battery"
 }

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/519n6Fnr83L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81TxzPC-q2L.jpg | https://m.media-amazon.com/images/I/41nLUbVZYVL.jpg | https://m.media-amazon.com/images/I/51wvlovqU-L.jpg | https://m.media-amazon.com/images/I/41ZaDSLsVqL.jpg | https://m.media-amazon.com/images/I/41mOgR+HDYL.jpg | https://m.media-amazon.com/images/I/41Wv5X-91EL.jpg | https://m.media-amazon.com/images/I/519n6Fnr83L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.71%",
   "SalePrice": "₹2,589.00",
   "Model": "LLWLDM001"
 }

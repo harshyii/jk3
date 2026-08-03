@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41PXbipEHGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71BBV2dptCL.jpg | https://m.media-amazon.com/images/I/41Sof3-ETVL.jpg | https://m.media-amazon.com/images/I/41Uh2AAx91L.jpg | https://m.media-amazon.com/images/I/41YDnn8I30L.jpg | https://m.media-amazon.com/images/I/41PXbipEHGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "83.43%",
   "SalePrice": "₹149.00",
   "Model": "INE_Pro_0001",
   "Country": "China"

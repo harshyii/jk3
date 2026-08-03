@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31mVUGouN-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Uz3fXQzHL.jpg | https://m.media-amazon.com/images/I/31XFAF3a8kL.jpg | https://m.media-amazon.com/images/I/31mVUGouN-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.0 Milliliters",
-  "Discount": 0,
+  "Discount": "66.72%",
   "SalePrice": "₹5,248.00",
   "Model": "G200916EU"
 }

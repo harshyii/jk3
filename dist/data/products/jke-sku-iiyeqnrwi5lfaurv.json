@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31-EwqHt5OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51t6gtRVpNL.jpg | https://m.media-amazon.com/images/I/51t6gtRVpNL.jpg | https://m.media-amazon.com/images/I/21spF0RJhIL.jpg | https://m.media-amazon.com/images/I/41OhiWWzmTL.jpg | https://m.media-amazon.com/images/I/31-EwqHt5OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Count",
-  "Discount": 0,
+  "Discount": "68.23%",
   "SalePrice": "₹95.00",
   "Model": "Sp-solar-6v-100mah-70x70"
 }

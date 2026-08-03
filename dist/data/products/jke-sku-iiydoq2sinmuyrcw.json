@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41hpOhecLFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41MYnMblkjL.jpg | https://m.media-amazon.com/images/I/21NBNa7lpoL.jpg | https://m.media-amazon.com/images/I/41hpOhecLFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.05%",
   "SalePrice": "₹419.00",
   "Model": "bearing bit 1/4*5/16*2.5",
   "Country": "India"

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51nVMVHef2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61WLAwqHk-L.jpg | https://m.media-amazon.com/images/I/41WlINRs9nL.jpg | https://m.media-amazon.com/images/I/51qeEaasvjL.jpg | https://m.media-amazon.com/images/I/610DD1nzRTL.jpg | https://m.media-amazon.com/images/I/61nrMo2LE2L.jpg | https://m.media-amazon.com/images/I/41RZd6y1IHL.jpg | https://m.media-amazon.com/images/I/51nVMVHef2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.48%",
   "SalePrice": "₹6,651.00",
   "Model": "MSR8-3LENS-SOLAR"
 }

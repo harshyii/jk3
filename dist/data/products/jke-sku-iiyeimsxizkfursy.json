@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/61CnocMdasL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614yv+-PXvL.jpg | https://m.media-amazon.com/images/I/31osfmCZwmL.jpg | https://m.media-amazon.com/images/I/41VLV1ekJxL.jpg | https://m.media-amazon.com/images/I/51n+3D8sArL.jpg | https://m.media-amazon.com/images/I/51wl2Z64q6L.jpg | https://m.media-amazon.com/images/I/51cvrGqixpL.jpg | https://m.media-amazon.com/images/I/41ynwvLg3ML.jpg | https://m.media-amazon.com/images/I/61CnocMdasL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹7,499.00",
   "Model": "YL-E30-NEW-US"
 }

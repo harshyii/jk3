@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/6126J5jO-VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71yImfJ+3JL.jpg | https://m.media-amazon.com/images/I/41DAxdlYKhL.jpg | https://m.media-amazon.com/images/I/514aOnakieL.jpg | https://m.media-amazon.com/images/I/51EAzG93uPL.jpg | https://m.media-amazon.com/images/I/51IbkkdzesL.jpg | https://m.media-amazon.com/images/I/51Ill5aWDpL.jpg | https://m.media-amazon.com/images/I/515FdbZvYrL.jpg | https://m.media-amazon.com/images/I/6126J5jO-VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "66.29%",
   "SalePrice": "₹3,775.59",
   "Model": "WAC_201_16SW"
 }

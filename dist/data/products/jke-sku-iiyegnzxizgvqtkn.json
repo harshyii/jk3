@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41OTgbHMoBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611zPRI3H4L.jpg | https://m.media-amazon.com/images/I/519wQ8QmMAL.jpg | https://m.media-amazon.com/images/I/41P4Y4B-xQL.jpg | https://m.media-amazon.com/images/I/5194y5iiGNL.jpg | https://m.media-amazon.com/images/I/412CDD46EuL.jpg | https://m.media-amazon.com/images/I/516YLoqpjQL.jpg | https://m.media-amazon.com/images/I/51ZSOynuivL.jpg | https://m.media-amazon.com/images/I/41OTgbHMoBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2234 Grams",
-  "Discount": 0,
+  "Discount": "16.72%",
   "SalePrice": "₹3,039.00",
   "Model": "1600A02BY5"
 }

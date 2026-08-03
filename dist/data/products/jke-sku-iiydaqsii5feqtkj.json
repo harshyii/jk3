@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41lt8EAEsAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61o9gSkHW8L.jpg | https://m.media-amazon.com/images/I/41k72wCx7NL.jpg | https://m.media-amazon.com/images/I/41LsJyNHizL.jpg | https://m.media-amazon.com/images/I/51CZhMkJWrL.jpg | https://m.media-amazon.com/images/I/51T1dHQwcvL.jpg | https://m.media-amazon.com/images/I/511VX7uLlyL.jpg | https://m.media-amazon.com/images/I/61X6utZWyDL.jpg | https://m.media-amazon.com/images/I/41lt8EAEsAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "51.62%",
   "SalePrice": "₹6,917.94",
   "Model": "710-08"
 }

@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/317k8GkbJ2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31aH07I96NL.jpg | https://m.media-amazon.com/images/I/31aH07I96NL.jpg | https://m.media-amazon.com/images/I/310Ybn3tmmL.jpg | https://m.media-amazon.com/images/I/317k8GkbJ2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.5%",
   "SalePrice": "₹990.00",
   "Model": "PT-273"
 }

@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51UG-UuyLVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ajv5zIjfL.jpg | https://m.media-amazon.com/images/I/51-htK7YF8L.jpg | https://m.media-amazon.com/images/I/61GLcVWyzHL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41CJr1c7hlL.jpg | https://m.media-amazon.com/images/I/51GIUg-Lv6L.jpg | https://m.media-amazon.com/images/I/41z4hbbyqgL.jpg | https://m.media-amazon.com/images/I/518J+O4LuZL.jpg | https://m.media-amazon.com/images/I/51UG-UuyLVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹2,474.00",
   "Model": "77242",
   "Country": "Czech Republic"

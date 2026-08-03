@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/41hCof7kJYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41hCof7kJYL.jpg | https://m.media-amazon.com/images/I/41hCof7kJYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1E+1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,245.12",
   "Country": "USA"
 }

@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51kJJYPLgwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/519M1II4aDL.jpg | https://m.media-amazon.com/images/I/41yRc2J46TL.jpg | https://m.media-amazon.com/images/I/51PpwPiopPL.jpg | https://m.media-amazon.com/images/I/51KTRf73lOL.jpg | https://m.media-amazon.com/images/I/51kJJYPLgwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹41,697.64",
   "Model": "XPH07Z"
 }

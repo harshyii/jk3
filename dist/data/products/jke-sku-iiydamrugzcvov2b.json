@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51T0DA0aeZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71U68mm9aSL.jpg | https://m.media-amazon.com/images/I/41nwan4I3cL.jpg | https://m.media-amazon.com/images/I/51B9lQi6+uL.jpg | https://m.media-amazon.com/images/I/51-3eRfXbTL.jpg | https://m.media-amazon.com/images/I/51Me5TCs2UL.jpg | https://m.media-amazon.com/images/I/51Nhs+95A3L.jpg | https://m.media-amazon.com/images/I/51emzlhhn5L.jpg | https://m.media-amazon.com/images/I/51T0DA0aeZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3790.0 Milliliters",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹14,654.69",
   "Model": "SPI_208SW",
   "Country": "USA"

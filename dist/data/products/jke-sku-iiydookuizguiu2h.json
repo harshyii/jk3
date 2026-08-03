@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/319nfQt-byL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TNXVNFBtL.jpg | https://m.media-amazon.com/images/I/31963LfcOCL.jpg | https://m.media-amazon.com/images/I/319nfQt-byL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "23.41%",
   "SalePrice": "₹1,604.47",
   "Model": "40107"
 }

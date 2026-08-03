@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41cqt9qt5OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51oHKrQbxzL.jpg | https://m.media-amazon.com/images/I/41cqt9qt5OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "8.53%",
   "SalePrice": "₹5,487.00",
   "Model": "DMQ85"
 }

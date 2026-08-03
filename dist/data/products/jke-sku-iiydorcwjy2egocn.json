@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51-zfdKtKEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/515CH-7knJL.jpg | https://m.media-amazon.com/images/I/316tPZLosFL.jpg | https://m.media-amazon.com/images/I/31SN+3y9bwL.jpg | https://m.media-amazon.com/images/I/51iO2mxODmL.jpg | https://m.media-amazon.com/images/I/51-zfdKtKEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.45%",
   "SalePrice": "₹4,689.00",
   "Model": "Super Power 700"
 }

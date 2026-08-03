@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41trn5mL5iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SLJTxMbKL.jpg | https://m.media-amazon.com/images/I/5141IZdnhnL.jpg | https://m.media-amazon.com/images/I/41trn5mL5iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.47%",
   "SalePrice": "₹894.29",
   "Model": "411",
   "Country": "USA"

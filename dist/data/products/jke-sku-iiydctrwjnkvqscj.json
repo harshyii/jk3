@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41OsbzK2UZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61GO8MoWMvL.jpg | https://m.media-amazon.com/images/I/41l5vLYBaOL.jpg | https://m.media-amazon.com/images/I/41kj4VrghPL.jpg | https://m.media-amazon.com/images/I/512wOsrtTaL.jpg | https://m.media-amazon.com/images/I/41OsbzK2UZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "8.19%",
   "SalePrice": "₹673.00",
   "Model": "‎Rust Protection",
   "Country": "‎India"

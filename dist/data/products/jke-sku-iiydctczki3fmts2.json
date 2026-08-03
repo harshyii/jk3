@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41rKfQd1zjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/815Gfj8hrhL.jpg | https://m.media-amazon.com/images/I/51BYZ5qkPBL.jpg | https://m.media-amazon.com/images/I/51yRIar7mpL.jpg | https://m.media-amazon.com/images/I/517s5O61J6L.jpg | https://m.media-amazon.com/images/I/51Qya3r8AOL.jpg | https://m.media-amazon.com/images/I/51f7+zqwVHL.jpg | https://m.media-amazon.com/images/I/61SCHDg94ZL.jpg | https://m.media-amazon.com/images/I/41rKfQd1zjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.47%",
   "SalePrice": "₹13,055.00",
   "Model": "HC150B"
 }

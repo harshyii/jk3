@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31HQTLDfHML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51rrBM4lQQL.jpg | https://m.media-amazon.com/images/I/41ZQwUVuDuL.jpg | https://m.media-amazon.com/images/I/31HQTLDfHML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "69.8%",
   "SalePrice": "₹2,382.00",
   "Model": "BUFX_102HEX4"
 }

@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/3168MKJ9ihL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+dQFBSmIL.jpg | https://m.media-amazon.com/images/I/41MHl92c4fL.jpg | https://m.media-amazon.com/images/I/41uY4EErQqL.jpg | https://m.media-amazon.com/images/I/511EIyrgZML.jpg | https://m.media-amazon.com/images/I/41ldrovvQcL.jpg | https://m.media-amazon.com/images/I/41B7OiCYyAL.jpg | https://m.media-amazon.com/images/I/41cT9FFOnUL.jpg | https://m.media-amazon.com/images/I/3168MKJ9ihL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "36.85%",
   "SalePrice": "₹3,646.55",
   "Model": "SH462-BLACK-L"
 }

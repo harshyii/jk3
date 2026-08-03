@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/316lXwOoPXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Xsd0ebzvL.jpg | https://m.media-amazon.com/images/I/41J95FXAmSL.jpg | https://m.media-amazon.com/images/I/41gn3NfTmrL.jpg | https://m.media-amazon.com/images/I/41y8xcXGL7L.jpg | https://m.media-amazon.com/images/I/41Bh1D2NezL.jpg | https://m.media-amazon.com/images/I/51ufrEqrZbL.jpg | https://m.media-amazon.com/images/I/41iHfoptmZL.jpg | https://m.media-amazon.com/images/I/316lXwOoPXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.68%",
   "SalePrice": "₹41,245.00",
   "Model": "XDT18SY1B"
 }

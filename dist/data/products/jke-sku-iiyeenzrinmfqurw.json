@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51vGrG5DfoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71S2Dl35GLL.jpg | https://m.media-amazon.com/images/I/41XSNc67rxL.jpg | https://m.media-amazon.com/images/I/513Rf+WGf4L.jpg | https://m.media-amazon.com/images/I/51lTZp2QFsL.jpg | https://m.media-amazon.com/images/I/61xEavlpx1L.jpg | https://m.media-amazon.com/images/I/612xqeuBm2L.jpg | https://m.media-amazon.com/images/I/51DRMvc8oPL.jpg | https://m.media-amazon.com/images/I/51vGrG5DfoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "11.31%",
   "SalePrice": "₹690.00",
   "Model": "LIQUID WAX (SINGLE)",
   "Country": "India"

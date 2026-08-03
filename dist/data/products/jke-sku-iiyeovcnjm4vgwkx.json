@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41YtWu3Q8IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51vltsxgT-L.jpg | https://m.media-amazon.com/images/I/31JnkfgXDJL.jpg | https://m.media-amazon.com/images/I/41s-BILyuVL.jpg | https://m.media-amazon.com/images/I/41xKTp9xhpL.jpg | https://m.media-amazon.com/images/I/31eUzRRmXVL.jpg | https://m.media-amazon.com/images/I/41551dklJNL.jpg | https://m.media-amazon.com/images/I/41Knj-sf0pS.jpg | https://m.media-amazon.com/images/I/41YtWu3Q8IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "80.83%",
   "SalePrice": "₹249.00",
   "Model": "Servomotor01"
 }

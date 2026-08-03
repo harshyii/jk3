@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51qEKETnTIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RWk3mDlUL.jpg | https://m.media-amazon.com/images/I/41yMEn9PXIL.jpg | https://m.media-amazon.com/images/I/51l4QwdlVyL.jpg | https://m.media-amazon.com/images/I/416jgc-pd3L.jpg | https://m.media-amazon.com/images/I/51CNLDSDvSL.jpg | https://m.media-amazon.com/images/I/41TzF71+f3L.jpg | https://m.media-amazon.com/images/I/51qEKETnTIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "27.26%",
   "SalePrice": "₹11,639.00",
   "Model": "Solar Promax 1000VA-12V",
   "Country": "India"

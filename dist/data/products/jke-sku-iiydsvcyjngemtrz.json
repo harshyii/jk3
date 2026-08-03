@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51TxbTHHQIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71FD3zAYiEL.jpg | https://m.media-amazon.com/images/I/41LdNncyvVL.jpg | https://m.media-amazon.com/images/I/41NwqWoNU9L.jpg | https://m.media-amazon.com/images/I/41WuRbHYv9L.jpg | https://m.media-amazon.com/images/I/51JZIC1phOL.jpg | https://m.media-amazon.com/images/I/51IEpsKQFrL.jpg | https://m.media-amazon.com/images/I/51TxbTHHQIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.02%",
   "SalePrice": "₹7,999.00",
   "Model": "7.5kg Hammer"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51tcT5U+jhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71VESaMP2eL.jpg | https://m.media-amazon.com/images/I/41bT+guCdDL.jpg | https://m.media-amazon.com/images/I/41KXFkwE50L.jpg | https://m.media-amazon.com/images/I/41k4Coai9DL.jpg | https://m.media-amazon.com/images/I/41YJIj8BcHL.jpg | https://m.media-amazon.com/images/I/51Z97Scl9PL.jpg | https://m.media-amazon.com/images/I/51cx5EQT55L.jpg | https://m.media-amazon.com/images/I/51tcT5U+jhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "41.67%",
   "SalePrice": "₹3,499.00",
   "Model": "LLESL18"
 }

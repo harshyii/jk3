@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51KMd3FhG7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Li52mJoCL.jpg | https://m.media-amazon.com/images/I/415Jq8rbphL.jpg | https://m.media-amazon.com/images/I/41JzlIvUxwL.jpg | https://m.media-amazon.com/images/I/41d+opOCb1L.jpg | https://m.media-amazon.com/images/I/51DgUKBKR6L.jpg | https://m.media-amazon.com/images/I/416mgVSTYHL.jpg | https://m.media-amazon.com/images/I/51KMd3FhG7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "35.88%",
   "SalePrice": "₹10,899.00",
   "Model": "F10"
 }

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51DC4fOKdQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ukA7554BL.jpg | https://m.media-amazon.com/images/I/31sUpA0O3qL.jpg | https://m.media-amazon.com/images/I/51l25YL5ImL.jpg | https://m.media-amazon.com/images/I/51t9Mz3tayL.jpg | https://m.media-amazon.com/images/I/51DC4fOKdQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "26.18%",
   "SalePrice": "₹1,469.00",
   "Model": "‎SMART EMR 2013",
   "Country": "‎India"

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51IyOpAW3zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t+Fx8mpzL.jpg | https://m.media-amazon.com/images/I/41A5q2vZ38L.jpg | https://m.media-amazon.com/images/I/51qZ8yPyTfL.jpg | https://m.media-amazon.com/images/I/41bibvZLxFL.jpg | https://m.media-amazon.com/images/I/51IyOpAW3zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.18%",
   "SalePrice": "₹8,299.00",
   "Model": "MHPAAB1X00"
 }

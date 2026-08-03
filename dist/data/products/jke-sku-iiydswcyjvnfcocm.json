@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51KBwtZqm3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712nydzeG7L.jpg | https://m.media-amazon.com/images/I/416w4o5QcaL.jpg | https://m.media-amazon.com/images/I/41ZZzuwv8hL.jpg | https://m.media-amazon.com/images/I/41FbfCtQgUL.jpg | https://m.media-amazon.com/images/I/41vLMnVJZlL.jpg | https://m.media-amazon.com/images/I/41Ps75cCSlL.jpg | https://m.media-amazon.com/images/I/51KBwtZqm3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.19%",
   "SalePrice": "₹1,799.00",
   "Model": "INGCO"
 }

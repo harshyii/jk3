@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41wW2NPPaeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Si5ZNHxkL.jpg | https://m.media-amazon.com/images/I/31O2FzocSCL.jpg | https://m.media-amazon.com/images/I/41SPfgg-IjL.jpg | https://m.media-amazon.com/images/I/41oL8g-E--L.jpg | https://m.media-amazon.com/images/I/516LI8SSo6L.jpg | https://m.media-amazon.com/images/I/41J0ecnsLVL.jpg | https://m.media-amazon.com/images/I/51u2uv1e9UL.jpg | https://m.media-amazon.com/images/I/41wW2NPPaeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "24.71%",
   "SalePrice": "₹262.00",
   "Model": "OC14"
 }

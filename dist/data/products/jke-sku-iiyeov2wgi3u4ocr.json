@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31h96H4htkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41oO12ZXxdL.jpg | https://m.media-amazon.com/images/I/41oO12ZXxdL.jpg | https://m.media-amazon.com/images/I/31h96H4htkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "38%",
   "SalePrice": "₹1,550.00",
   "Model": "CS2026 40"
 }

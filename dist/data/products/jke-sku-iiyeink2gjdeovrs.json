@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41gM8wZ31fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+DApAA5ML.jpg | https://m.media-amazon.com/images/I/41XQdE15K1L.jpg | https://m.media-amazon.com/images/I/41bh22f9KTL.jpg | https://m.media-amazon.com/images/I/41cA7OBSxzL.jpg | https://m.media-amazon.com/images/I/416TLT7VDhL.jpg | https://m.media-amazon.com/images/I/41tpz0e9LFL.jpg | https://m.media-amazon.com/images/I/41QoVWLupOL.jpg | https://m.media-amazon.com/images/I/41gM8wZ31fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "72.73%",
   "SalePrice": "₹4,999.00",
   "Model": "HGCM1832"
 }

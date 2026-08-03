@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/617BsWWJEOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41N3vP5aaDL.jpg | https://m.media-amazon.com/images/I/41N3vP5aaDL.jpg | https://m.media-amazon.com/images/I/314noA4YDiL.jpg | https://m.media-amazon.com/images/I/31AYWonDnWL.jpg | https://m.media-amazon.com/images/I/61OrCC4vQGL.jpg | https://m.media-amazon.com/images/I/617BsWWJEOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Grams",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹297.00",
   "Model": "3779",
   "Country": "India"

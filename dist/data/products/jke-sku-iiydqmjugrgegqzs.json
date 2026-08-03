@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/511Gga91kyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ix1RzP4SL.jpg | https://m.media-amazon.com/images/I/41cg2hNzdbL.jpg | https://m.media-amazon.com/images/I/51MN7brA8CL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51a2QrKqGbL.jpg | https://m.media-amazon.com/images/I/51buq2z5sGL.jpg | https://m.media-amazon.com/images/I/418lbm0spnL.jpg | https://m.media-amazon.com/images/I/51-hMGQUM7L.jpg | https://m.media-amazon.com/images/I/511Gga91kyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "6.67%",
   "SalePrice": "₹6,532.00",
   "Model": "02973000",
   "Country": "Germany"

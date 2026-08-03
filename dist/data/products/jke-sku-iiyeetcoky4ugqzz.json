@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41eVq-xhWEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/716DxY5cU2L.jpg | https://m.media-amazon.com/images/I/41fdAwmd5JL.jpg | https://m.media-amazon.com/images/I/41C7wfu-YjL.jpg | https://m.media-amazon.com/images/I/51dDTfb14jL.jpg | https://m.media-amazon.com/images/I/41-smFZDwPL.jpg | https://m.media-amazon.com/images/I/41V+n9g2dKL.jpg | https://m.media-amazon.com/images/I/41eVq-xhWEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "17.74%",
   "SalePrice": "₹320.00",
   "Model": "17101"
 }

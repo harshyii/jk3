@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/61Dv-qUUnLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71-hHjE87nL.jpg | https://m.media-amazon.com/images/I/512wjNpDE9L.jpg | https://m.media-amazon.com/images/I/51qBKODYiHL.jpg | https://m.media-amazon.com/images/I/41fULjzlPsL.jpg | https://m.media-amazon.com/images/I/51cDOfdk0yL.jpg | https://m.media-amazon.com/images/I/31Vz2klwxfL.jpg | https://m.media-amazon.com/images/I/51cmdCnpT6S.jpg | https://m.media-amazon.com/images/I/61Dv-qUUnLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "57.24%",
   "SalePrice": "₹10,613.00",
   "Model": "TOPSPM"
 }

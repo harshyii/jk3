@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51UyxL9XT1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71t-SSkp7dL.jpg | https://m.media-amazon.com/images/I/41EfIzzXAdL.jpg | https://m.media-amazon.com/images/I/51fgwd9yOdL.jpg | https://m.media-amazon.com/images/I/51qscYxZqUL.jpg | https://m.media-amazon.com/images/I/51ogjnyInNL.jpg | https://m.media-amazon.com/images/I/51MsGD28nRL.jpg | https://m.media-amazon.com/images/I/51PYijOsuVL.jpg | https://m.media-amazon.com/images/I/51UyxL9XT1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.0 Milliliters",
-  "Discount": 0,
+  "Discount": "10.01%",
   "SalePrice": "₹674.00",
   "Model": "G240416",
   "Country": "Afghanistan"

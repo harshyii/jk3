@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51WNGZ-7aGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512YZXQJK6L.jpg | https://m.media-amazon.com/images/I/314s+lHHwLL.jpg | https://m.media-amazon.com/images/I/411XFB-zn5L.jpg | https://m.media-amazon.com/images/I/414eKNbmxRL.jpg | https://m.media-amazon.com/images/I/41zA3Oc8NbL.jpg | https://m.media-amazon.com/images/I/51GuhpniVAL.jpg | https://m.media-amazon.com/images/I/51MYyg9OciL.jpg | https://m.media-amazon.com/images/I/51WNGZ-7aGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.02%",
   "SalePrice": "₹1,019.00",
   "Model": "ASG3101"
 }

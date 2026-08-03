@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51CcZr0F5aL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81QwbwjLEDL.jpg | https://m.media-amazon.com/images/I/41d3O48Iw8L.jpg | https://m.media-amazon.com/images/I/51lmFjDuUML.jpg | https://m.media-amazon.com/images/I/51I3vq23tuL.jpg | https://m.media-amazon.com/images/I/514hwFHsdNL.jpg | https://m.media-amazon.com/images/I/51jwzqqCYYL.jpg | https://m.media-amazon.com/images/I/51CcZr0F5aL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,473.62",
   "Model": "HOL457",
   "Country": "USA"

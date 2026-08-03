@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51JuW1Yoz+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/419SguYKYKL.jpg | https://m.media-amazon.com/images/I/419SguYKYKL.jpg | https://m.media-amazon.com/images/I/314aqXRAVlL.jpg | https://m.media-amazon.com/images/I/416uY4M0IHL.jpg | https://m.media-amazon.com/images/I/51JuW1Yoz+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.08%",
   "SalePrice": "₹299.00",
   "Model": "6843-20s",
   "Country": "India"

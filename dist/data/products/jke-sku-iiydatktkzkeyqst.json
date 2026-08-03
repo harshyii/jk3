@@ -74,9 +74,9 @@
     "https://m.media-amazon.com/images/I/41yikaJyL7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71B-8QvjrnL.jpg | https://m.media-amazon.com/images/I/41WQdcPDJRL.jpg | https://m.media-amazon.com/images/I/41UqHg-6PUL.jpg | https://m.media-amazon.com/images/I/51Kzgib5TXL.jpg | https://m.media-amazon.com/images/I/41VaQ+GWnYL.jpg | https://m.media-amazon.com/images/I/41yikaJyL7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "9.09%",
   "SalePrice": "₹29,990.00",
   "Model": "1220510101"
 }

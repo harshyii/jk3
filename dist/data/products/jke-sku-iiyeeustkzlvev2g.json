@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41FXU4g9DAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/413BMnxNlUL.jpg | https://m.media-amazon.com/images/I/413BMnxNlUL.jpg | https://m.media-amazon.com/images/I/51lWMn94tIL.jpg | https://m.media-amazon.com/images/I/4187-PcGW+L.jpg | https://m.media-amazon.com/images/I/41FXU4g9DAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "205000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "31.75%",
   "SalePrice": "₹45,590.00",
   "Country": "India"
 }

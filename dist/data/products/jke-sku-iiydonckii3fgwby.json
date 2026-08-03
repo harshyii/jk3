@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51fwKdqc1dL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oTYNRzrZL.jpg | https://m.media-amazon.com/images/I/512EnubfMzL.jpg | https://m.media-amazon.com/images/I/71WNllkk-qL.jpg | https://m.media-amazon.com/images/I/41GgCplkicL.jpg | https://m.media-amazon.com/images/I/512IkswpobL.jpg | https://m.media-amazon.com/images/I/51fwKdqc1dL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "60.32%",
   "SalePrice": "₹198.00",
   "Model": "APT-JW404040",
   "Country": "China"

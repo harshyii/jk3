@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/518IvB9pYoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71B9oMHURIL.jpg | https://m.media-amazon.com/images/I/513beZ-8NcL.jpg | https://m.media-amazon.com/images/I/51ananTofaL.jpg | https://m.media-amazon.com/images/I/518PR6-a9NL.jpg | https://m.media-amazon.com/images/I/518IvB9pYoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "60.42%",
   "SalePrice": "₹989.00",
   "Model": "HYIT-fengling1234"
 }

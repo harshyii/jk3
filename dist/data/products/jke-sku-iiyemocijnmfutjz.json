@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41bUb6qbmgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81U2Au6i8vL.jpg | https://m.media-amazon.com/images/I/513g3XK3EIL.jpg | https://m.media-amazon.com/images/I/51qoSZ-tcmL.jpg | https://m.media-amazon.com/images/I/51I7lg7alyL.jpg | https://m.media-amazon.com/images/I/51VAdlRoj4L.jpg | https://m.media-amazon.com/images/I/51JfvOD87dL.jpg | https://m.media-amazon.com/images/I/5142gKHz-uL.jpg | https://m.media-amazon.com/images/I/41bUb6qbmgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "18.34%",
   "SalePrice": "₹7,349.00",
   "Model": "KP/30"
 }

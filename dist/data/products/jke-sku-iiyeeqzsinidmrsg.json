@@ -36,8 +36,8 @@
     "https://m.media-amazon.com/images/I/41flbGsHBtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aReWc3lBL.jpg | https://m.media-amazon.com/images/I/41flbGsHBtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "450.0 Milliliters",
-  "Discount": 0,
+  "Discount": "14.22%",
   "SalePrice": "₹1,080.00"
 }

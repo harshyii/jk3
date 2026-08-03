@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/61OMme8t1kL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81dsWgzXLrL.jpg | https://m.media-amazon.com/images/I/51ic-PsBi-L.jpg | https://m.media-amazon.com/images/I/51agOoO7wvL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51EyKhobdbL.jpg | https://m.media-amazon.com/images/I/51M5Yr3oSYL.jpg | https://m.media-amazon.com/images/I/51lTCJpDpdL.jpg | https://m.media-amazon.com/images/I/51D0dvoWHML.jpg | https://m.media-amazon.com/images/I/61OMme8t1kL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.1%",
   "SalePrice": "₹241.00",
   "Country": "India"
 }

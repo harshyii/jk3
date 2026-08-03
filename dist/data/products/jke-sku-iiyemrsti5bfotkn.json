@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fPVgv3EKL.jpg | https://m.media-amazon.com/images/I/51900jIx4uL.jpg | https://m.media-amazon.com/images/I/51qLeyNrEyL.jpg | https://m.media-amazon.com/images/I/51V6IKniihL.jpg | https://m.media-amazon.com/images/I/51zk0huT0KL.jpg | https://m.media-amazon.com/images/I/51feQDkHZ0L.jpg | https://m.media-amazon.com/images/I/51k+CQ1-VtL.jpg | https://m.media-amazon.com/images/I/51wdeLSP7jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "17.88%",
   "SalePrice": "₹4,599.00",
   "Model": "VR CH21-10"
 }

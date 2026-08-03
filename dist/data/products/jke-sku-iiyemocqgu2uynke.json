@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51cRROUyK8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YcLROOvHL.jpg | https://m.media-amazon.com/images/I/41D7QZKDXIL.jpg | https://m.media-amazon.com/images/I/51iiYqvlBbL.jpg | https://m.media-amazon.com/images/I/51Q3+EMy53L.jpg | https://m.media-amazon.com/images/I/51AA+0CPK0L.jpg | https://m.media-amazon.com/images/I/51f5rdzkfQL.jpg | https://m.media-amazon.com/images/I/51BI6YL8DOL.jpg | https://m.media-amazon.com/images/I/51cRROUyK8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.47%",
   "SalePrice": "₹26,344.00",
   "Model": "DCD806B"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41yx2OzJNoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91jkHOL0SyL.jpg | https://m.media-amazon.com/images/I/51NoFX2dMDL.jpg | https://m.media-amazon.com/images/I/51wihC++LGL.jpg | https://m.media-amazon.com/images/I/41KYXfHj7+L.jpg | https://m.media-amazon.com/images/I/41yx2OzJNoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "11.28%",
   "SalePrice": "₹11,745.00",
   "Model": "DWST540201"
 }

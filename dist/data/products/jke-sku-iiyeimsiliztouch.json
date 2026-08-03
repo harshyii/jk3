@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/21MXPm4pqgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41R7McBJ8yL.jpg | https://m.media-amazon.com/images/I/21MXPm4pqgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.26%",
   "SalePrice": "₹709.00",
   "Model": "1600A02NF5"
 }

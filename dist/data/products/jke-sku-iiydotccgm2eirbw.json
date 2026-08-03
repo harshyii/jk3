@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41tIzFL2X5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Nx11hxDaL.jpg | https://m.media-amazon.com/images/I/41Nx11hxDaL.jpg | https://m.media-amazon.com/images/I/51sykamAFjL.jpg | https://m.media-amazon.com/images/I/31lJMB44slL.jpg | https://m.media-amazon.com/images/I/31AGDDbWIwL.jpg | https://m.media-amazon.com/images/I/41tIzFL2X5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "60.3%",
   "SalePrice": "₹79.00",
   "Model": "ELELSAOLPAPO2"
 }

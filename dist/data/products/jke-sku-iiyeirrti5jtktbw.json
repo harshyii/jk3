@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31Qlp0OXBDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61hCb-uUhML.jpg | https://m.media-amazon.com/images/I/31MDFIbRaCL.jpg | https://m.media-amazon.com/images/I/31aM7jKjI6L.jpg | https://m.media-amazon.com/images/I/31ySEtptxRL.jpg | https://m.media-amazon.com/images/I/31Qlp0OXBDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.18%",
   "SalePrice": "₹6,250.00",
   "Model": "XPT 534"
 }

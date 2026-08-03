@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51CPsWRBEGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71auZahUbNL.jpg | https://m.media-amazon.com/images/I/41SncPgEwnL.jpg | https://m.media-amazon.com/images/I/41yDXJTfV3L.jpg | https://m.media-amazon.com/images/I/51f8z1freEL.jpg | https://m.media-amazon.com/images/I/51yDU4Zbu1L.jpg | https://m.media-amazon.com/images/I/41oBIGndZxL.jpg | https://m.media-amazon.com/images/I/41ckFGnjILL.jpg | https://m.media-amazon.com/images/I/51CPsWRBEGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.14%",
   "SalePrice": "₹19,176.00",
   "Model": "Solar Panel 50 Watt"
 }

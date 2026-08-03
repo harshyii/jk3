@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/618v9CgzKaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/8103Anjh1TL.jpg | https://m.media-amazon.com/images/I/51o9ey-rjDL.jpg | https://m.media-amazon.com/images/I/51CC65iV-dL.jpg | https://m.media-amazon.com/images/I/51+O7Fv2DmL.jpg | https://m.media-amazon.com/images/I/51E09+z2aOL.jpg | https://m.media-amazon.com/images/I/51USnzcUkLL.jpg | https://m.media-amazon.com/images/I/618v9CgzKaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "60.00 Count",
-  "Discount": 0,
+  "Discount": "63.44%",
   "SalePrice": "₹255.55",
   "Model": "F1"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/5104QV-vARS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DDpvHqHCL.jpg | https://m.media-amazon.com/images/I/41IKCratdUL.jpg | https://m.media-amazon.com/images/I/41WhMrUOuLL.jpg | https://m.media-amazon.com/images/I/5104QV-vARS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "5.43%",
   "SalePrice": "₹1,428.00",
   "Model": "H20C5K",
   "Country": "India"

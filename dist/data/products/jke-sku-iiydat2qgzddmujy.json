@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51duKvKpG5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81eu+HHpZLL.jpg | https://m.media-amazon.com/images/I/41FcSGE3ZvL.jpg | https://m.media-amazon.com/images/I/41Xf6iTQTiL.jpg | https://m.media-amazon.com/images/I/41xCEGm+whL.jpg | https://m.media-amazon.com/images/I/41WNOGh4avL.jpg | https://m.media-amazon.com/images/I/41OtGCTqOJL.jpg | https://m.media-amazon.com/images/I/51b8scC1mCL.jpg | https://m.media-amazon.com/images/I/51duKvKpG5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹16,512.25",
   "Model": "D43K"
 }

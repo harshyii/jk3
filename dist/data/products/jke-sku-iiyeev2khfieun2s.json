@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Z2MFRcbjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81zoBVLlsHL.jpg | https://m.media-amazon.com/images/I/41hCzDllZvL.jpg | https://m.media-amazon.com/images/I/41jM2DB+P5L.jpg | https://m.media-amazon.com/images/I/41xtG951ZVL.jpg | https://m.media-amazon.com/images/I/41IngxdmMpL.jpg | https://m.media-amazon.com/images/I/515EiCGaA8L.jpg | https://m.media-amazon.com/images/I/41IUOz9h8mL.jpg | https://m.media-amazon.com/images/I/41Z2MFRcbjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,011.68",
   "Model": "BHA023",
   "Country": "USA"

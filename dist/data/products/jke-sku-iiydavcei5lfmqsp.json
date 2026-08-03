@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51ijSk-Dz+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61QwDdnY3uL.jpg | https://m.media-amazon.com/images/I/41CNU-f+wyL.jpg | https://m.media-amazon.com/images/I/71Geo239QAL.jpg | https://m.media-amazon.com/images/I/41BtXC2XzyL.jpg | https://m.media-amazon.com/images/I/41TilST8-2S.jpg | https://m.media-amazon.com/images/I/518SmCXXYVL.jpg | https://m.media-amazon.com/images/I/51Z6yRyR-8L.jpg | https://m.media-amazon.com/images/I/51ijSk-Dz+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24%",
   "SalePrice": "₹114.00",
   "Model": "FMN8038060R0000",
   "Country": "India"

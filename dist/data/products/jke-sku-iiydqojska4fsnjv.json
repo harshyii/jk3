@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/51fvHit1CkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51fvHit1CkL.jpg | https://m.media-amazon.com/images/I/51fvHit1CkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.13%",
   "SalePrice": "₹699.00",
   "Model": "SD BIT"
 }

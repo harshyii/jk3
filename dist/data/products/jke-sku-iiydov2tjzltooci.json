@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41Ey2y+vtbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Bb2HsaJjL.jpg | https://m.media-amazon.com/images/I/31XHVw-4foL.jpg | https://m.media-amazon.com/images/I/41e+uMh7beL.jpg | https://m.media-amazon.com/images/I/51bsZeHcKzL.jpg | https://m.media-amazon.com/images/I/413Qdqu1RmL.jpg | https://m.media-amazon.com/images/I/51+FzoWmtFL.jpg | https://m.media-amazon.com/images/I/41Ey2y+vtbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.41%",
   "SalePrice": "₹11,999.00",
   "Model": "BXRA0901IN",
   "Country": "India"

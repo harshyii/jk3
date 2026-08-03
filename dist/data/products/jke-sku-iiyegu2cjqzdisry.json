@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/31U6HKrG9uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51RmFwkQoYL.jpg | https://m.media-amazon.com/images/I/51RmFwkQoYL.jpg | https://m.media-amazon.com/images/I/41bsRgJGMcL.jpg | https://m.media-amazon.com/images/I/21qssZ5gipL.jpg | https://m.media-amazon.com/images/I/31U6HKrG9uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Count",
-  "Discount": 0,
+  "Discount": "75.19%",
   "SalePrice": "₹99.00",
   "Model": "Sl 70*70"
 }

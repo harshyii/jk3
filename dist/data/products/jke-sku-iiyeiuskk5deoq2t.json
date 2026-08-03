@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31o0isa9s2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RoYZWstSL.jpg | https://m.media-amazon.com/images/I/31h6gpF1HRL.jpg | https://m.media-amazon.com/images/I/31cENh2M8kL.jpg | https://m.media-amazon.com/images/I/31o66C--7TL.jpg | https://m.media-amazon.com/images/I/31o0isa9s2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "4.92%",
   "SalePrice": "₹309.00",
   "Model": "BSH4 / BSH 6"
 }

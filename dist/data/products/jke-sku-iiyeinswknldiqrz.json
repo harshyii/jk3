@@ -84,9 +84,9 @@
     "https://m.media-amazon.com/images/I/41nn7D6hn5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71fW279F5HL.jpg | https://m.media-amazon.com/images/I/41wUzvKTz5L.jpg | https://m.media-amazon.com/images/I/51o-WWZOnDL.jpg | https://m.media-amazon.com/images/I/5154UR-fP4L.jpg | https://m.media-amazon.com/images/I/41JPsDh4VmL.jpg | https://m.media-amazon.com/images/I/51ekuC89FzL.jpg | https://m.media-amazon.com/images/I/410tw8J5mEL.jpg | https://m.media-amazon.com/images/I/41nn7D6hn5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "14.33%",
   "SalePrice": "₹6,836.00",
   "Model": "BDMC10",
   "Country": "USA"

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/31IYZ1BXMKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6192lS4b9bL.jpg | https://m.media-amazon.com/images/I/316pmfJAY0L.jpg | https://m.media-amazon.com/images/I/312GB6hepxL.jpg | https://m.media-amazon.com/images/I/31Lic5PEo5L.jpg | https://m.media-amazon.com/images/I/31yASU0cSNL.jpg | https://m.media-amazon.com/images/I/21x9bKyghrL.jpg | https://m.media-amazon.com/images/I/31zRKIi5kiL.jpg | https://m.media-amazon.com/images/I/31IYZ1BXMKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "42.95%",
   "SalePrice": "₹611.00",
   "Model": "E-2051_15/375MM"
 }

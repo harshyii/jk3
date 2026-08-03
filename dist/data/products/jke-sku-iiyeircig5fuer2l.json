@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41h7TgWCUmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zZXmabCaL.jpg | https://m.media-amazon.com/images/I/41dYkHsh6dL.jpg | https://m.media-amazon.com/images/I/51ExcVlKwUL.jpg | https://m.media-amazon.com/images/I/51Up-NNUaaL.jpg | https://m.media-amazon.com/images/I/519ppiZnMcL.jpg | https://m.media-amazon.com/images/I/41h7TgWCUmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Kilograms",
-  "Discount": 0,
+  "Discount": "30.84%",
   "SalePrice": "₹4,495.00",
   "Model": "FK-5513"
 }

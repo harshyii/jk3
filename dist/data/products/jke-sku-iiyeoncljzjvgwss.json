@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/414-Y6MTwQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81gHKUvwwJL.jpg | https://m.media-amazon.com/images/I/419iWI03fnL.jpg | https://m.media-amazon.com/images/I/41MYpqKKIAL.jpg | https://m.media-amazon.com/images/I/41eF9ZN7ysL.jpg | https://m.media-amazon.com/images/I/51hyFh9rEpL.jpg | https://m.media-amazon.com/images/I/51SK1mO3YoL.jpg | https://m.media-amazon.com/images/I/51akvG-0VGL.jpg | https://m.media-amazon.com/images/I/414-Y6MTwQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50.08%",
   "SalePrice": "₹299.00",
   "Model": "Rust & Stain Remover Polish_R7",
   "Country": "India"

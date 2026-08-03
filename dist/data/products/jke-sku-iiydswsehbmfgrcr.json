@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51oiHEkME4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XzXhtQLmL.jpg | https://m.media-amazon.com/images/I/41thUKTrCUL.jpg | https://m.media-amazon.com/images/I/21RrpK2ZK4L.jpg | https://m.media-amazon.com/images/I/51aOXGsIXbL.jpg | https://m.media-amazon.com/images/I/41u8+938guL.jpg | https://m.media-amazon.com/images/I/41fk2THdEoL.jpg | https://m.media-amazon.com/images/I/51oiHEkME4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹5,999.00",
   "Model": "165 Watt Poly Solar Panel"
 }

@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31J6-313StL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Y8a4qijWL.jpg | https://m.media-amazon.com/images/I/31J6-313StL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "15.0 Milliliters",
-  "Discount": 0,
+  "Discount": "43.8%",
   "SalePrice": "₹449.00",
   "Country": "China"
 }

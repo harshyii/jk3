@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41ktALe50EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Crl46M+EL.jpg | https://m.media-amazon.com/images/I/4158dRYFXnL.jpg | https://m.media-amazon.com/images/I/31aSDv5JDmL.jpg | https://m.media-amazon.com/images/I/416ohz5BICL.jpg | https://m.media-amazon.com/images/I/31xjHROVB6L.jpg | https://m.media-amazon.com/images/I/41zjGtj6UHL.jpg | https://m.media-amazon.com/images/I/41ktALe50EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,593.51",
   "Model": "RM",
   "Country": "USA"

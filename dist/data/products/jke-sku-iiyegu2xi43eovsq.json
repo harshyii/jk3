@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41Ab-zI7nIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719NZkSvNzL.jpg | https://m.media-amazon.com/images/I/418uv6YCgDL.jpg | https://m.media-amazon.com/images/I/41e7B1rjI5L.jpg | https://m.media-amazon.com/images/I/412GzFpw4JL.jpg | https://m.media-amazon.com/images/I/41MgZ9WLsHL.jpg | https://m.media-amazon.com/images/I/41e5owthbOL.jpg | https://m.media-amazon.com/images/I/41Ab-zI7nIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27.28%",
   "SalePrice": "₹2,181.00",
   "Model": "DVUPS-1B",
   "Country": "India"

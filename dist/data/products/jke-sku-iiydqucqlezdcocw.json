@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51Fm3epf6YL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81-oDaUfXYL.jpg | https://m.media-amazon.com/images/I/41OgwAsYWBL.jpg | https://m.media-amazon.com/images/I/410uwybMHtL.jpg | https://m.media-amazon.com/images/I/51SmpwGbMnL.jpg | https://m.media-amazon.com/images/I/6165a1kKCxL.jpg | https://m.media-amazon.com/images/I/51ewQew-ARL.jpg | https://m.media-amazon.com/images/I/51-IdGdcjHL.jpg | https://m.media-amazon.com/images/I/51Fm3epf6YL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "453.59 Grams",
-  "Discount": 0,
+  "Discount": "69.07%",
   "SalePrice": "₹4,345.00",
   "Model": "G210516"
 }

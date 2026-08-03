@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41N8pqjmUGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51xWPgCZq4L.jpg | https://m.media-amazon.com/images/I/41CKldwYzPL.jpg | https://m.media-amazon.com/images/I/41y1eAh5EpL.jpg | https://m.media-amazon.com/images/I/41knXYvUR9L.jpg | https://m.media-amazon.com/images/I/41XAWxYR-ML.jpg | https://m.media-amazon.com/images/I/41no-dDeTIL.jpg | https://m.media-amazon.com/images/I/41N8pqjmUGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3.1 Kilograms",
-  "Discount": 0,
+  "Discount": "19.35%",
   "SalePrice": "₹3,471.00",
   "Model": "CM4SDS9Z"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/417MbqXt63L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/717Y32e5v7L.jpg | https://m.media-amazon.com/images/I/41LMIND+bcL.jpg | https://m.media-amazon.com/images/I/41NLFbtCDLL.jpg | https://m.media-amazon.com/images/I/31RYTmjrunL.jpg | https://m.media-amazon.com/images/I/417MbqXt63L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3 Count",
-  "Discount": 0,
+  "Discount": "11.35%",
   "SalePrice": "₹797.00",
   "Model": "TK002 (1621-8 DEP06 802)"
 }

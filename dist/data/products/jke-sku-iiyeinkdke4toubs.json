@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51uSve-uFWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61BvapaAR6L.jpg | https://m.media-amazon.com/images/I/41jb3kTkvzL.jpg | https://m.media-amazon.com/images/I/41Jd0AQr2gL.jpg | https://m.media-amazon.com/images/I/51XaNx5w5lL.jpg | https://m.media-amazon.com/images/I/419ubIN8sZL.jpg | https://m.media-amazon.com/images/I/41rKP1f-C-L.jpg | https://m.media-amazon.com/images/I/51iSubnn3EL.jpg | https://m.media-amazon.com/images/I/51uSve-uFWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹9,999.00",
   "Model": "KR500A"
 }

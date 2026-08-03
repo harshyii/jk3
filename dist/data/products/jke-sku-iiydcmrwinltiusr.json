@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/519yEwYDGDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61g-yfCNzTL.jpg | https://m.media-amazon.com/images/I/410U-drkgpL.jpg | https://m.media-amazon.com/images/I/51ODS+ZBqzL.jpg | https://m.media-amazon.com/images/I/51BcScm+9rL.jpg | https://m.media-amazon.com/images/I/51cQnZ8cGxL.jpg | https://m.media-amazon.com/images/I/51nLKro9-KL.jpg | https://m.media-amazon.com/images/I/51edR486dTL.jpg | https://m.media-amazon.com/images/I/519yEwYDGDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹50,037.46",
   "Model": "XSC02Z"
 }

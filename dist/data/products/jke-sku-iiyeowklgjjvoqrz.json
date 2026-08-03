@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/41ZlbiWCM6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71IDjdWa1nL.jpg | https://m.media-amazon.com/images/I/41ZlbiWCM6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.33%",
   "SalePrice": "₹850.00",
   "Model": "Xp-csc-16/18/22/24"
 }

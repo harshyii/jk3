@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Cv16sl15L.jpg | https://m.media-amazon.com/images/I/41Gv0o21OzL.jpg | https://m.media-amazon.com/images/I/413EErVYwrL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "48.96%",
   "SalePrice": "₹2,103.00",
   "Model": "FDI25",
   "Country": "India"

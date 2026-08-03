@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/31K5WKdpTZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xPsfMnZ8L.jpg | https://m.media-amazon.com/images/I/414Gj0nLgdL.jpg | https://m.media-amazon.com/images/I/31wbLHprVDL.jpg | https://m.media-amazon.com/images/I/31sLB9+R3iL.jpg | https://m.media-amazon.com/images/I/512jP33jiAL.jpg | https://m.media-amazon.com/images/I/41iW-m+7-aL.jpg | https://m.media-amazon.com/images/I/414M18TPBiL.jpg | https://m.media-amazon.com/images/I/31K5WKdpTZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "62.58%",
   "SalePrice": "₹299.00",
   "Model": "DP85"
 }

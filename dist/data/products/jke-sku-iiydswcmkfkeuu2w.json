@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41P+UirBzDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61dp6I-oFCL.jpg | https://m.media-amazon.com/images/I/4101ZiCS6SL.jpg | https://m.media-amazon.com/images/I/41MI16HYREL.jpg | https://m.media-amazon.com/images/I/512WgFaUqXL.jpg | https://m.media-amazon.com/images/I/5169rxH3TRL.jpg | https://m.media-amazon.com/images/I/511jzsa8i4L.jpg | https://m.media-amazon.com/images/I/41P+UirBzDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "57.22%",
   "SalePrice": "₹299.00",
   "Model": "ST-MC-01"
 }

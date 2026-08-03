@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/41dB-lW2oHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/514alrYM-KL.jpg | https://m.media-amazon.com/images/I/41dB-lW2oHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Grams",
-  "Discount": 0,
+  "Discount": "3.14%",
   "SalePrice": "₹988.00",
   "Model": "AAP630"
 }

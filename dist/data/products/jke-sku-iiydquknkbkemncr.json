@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/410ihqHia4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61V6xEBjTVL.jpg | https://m.media-amazon.com/images/I/41zfSTkHTQL.jpg | https://m.media-amazon.com/images/I/51tu7ktVDPL.jpg | https://m.media-amazon.com/images/I/516ZcQ6+zcL.jpg | https://m.media-amazon.com/images/I/513GyUc7RYL.jpg | https://m.media-amazon.com/images/I/51hBbErXlaL.jpg | https://m.media-amazon.com/images/I/51CpSzsG9YL.jpg | https://m.media-amazon.com/images/I/410ihqHia4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36%",
   "SalePrice": "₹6,399.00",
   "Model": "MMA 200G"
 }

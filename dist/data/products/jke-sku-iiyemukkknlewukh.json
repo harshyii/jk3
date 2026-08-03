@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31d-MaLtFKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61SNm57POZL.jpg | https://m.media-amazon.com/images/I/31TOwn3SVLL.jpg | https://m.media-amazon.com/images/I/31i-xYzJjlL.jpg | https://m.media-amazon.com/images/I/31YTT+c1h+L.jpg | https://m.media-amazon.com/images/I/31aS8gUF7kL.jpg | https://m.media-amazon.com/images/I/31d-MaLtFKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "24%",
   "SalePrice": "₹209.00",
   "Model": "1/2\"BI- HEX SOCKET-17_2"
 }

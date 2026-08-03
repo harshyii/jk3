@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41xQDUhhTPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ZBgLHj4kL.jpg | https://m.media-amazon.com/images/I/41ZBgLHj4kL.jpg | https://m.media-amazon.com/images/I/519hnO5SwrL.jpg | https://m.media-amazon.com/images/I/41xQDUhhTPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.8%",
   "SalePrice": "₹694.00",
   "Model": "TC881",
   "Country": "India"

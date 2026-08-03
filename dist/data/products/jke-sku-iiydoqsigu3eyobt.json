@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41NjWdKniCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91kCqO7KucL.jpg | https://m.media-amazon.com/images/I/41NjWdKniCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.41%",
   "SalePrice": "₹1,299.00",
   "Model": "DB SPN SD QVE RG",
   "Country": "India"

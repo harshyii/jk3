@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31K24a5v03L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31K24a5v03L.jpg | https://m.media-amazon.com/images/I/31K24a5v03L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Case",
-  "Discount": 0,
+  "Discount": "28.57%",
   "SalePrice": "₹2,500.00",
   "Model": "XPT 405"
 }

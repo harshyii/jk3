@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41ibGrLypgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/710mh95hALL.jpg | https://m.media-amazon.com/images/I/41bkvMD0eAL.jpg | https://m.media-amazon.com/images/I/51L4-2kC2aL.jpg | https://m.media-amazon.com/images/I/51UdkSzBfZL.jpg | https://m.media-amazon.com/images/I/51QdAdrQHDL.jpg | https://m.media-amazon.com/images/I/51scO8EcL9L.jpg | https://m.media-amazon.com/images/I/41yJjb29uOL.jpg | https://m.media-amazon.com/images/I/41ibGrLypgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "80.0 Milliliters",
-  "Discount": 0,
+  "Discount": "24.95%",
   "SalePrice": "₹412.00",
   "Model": "2001083"
 }

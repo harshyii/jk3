@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/416vW7uUnIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81EafwUFbaL.jpg | https://m.media-amazon.com/images/I/413SJ4LiicL.jpg | https://m.media-amazon.com/images/I/41TDP15UlfL.jpg | https://m.media-amazon.com/images/I/411hFFQ1bTL.jpg | https://m.media-amazon.com/images/I/41nAWsQwqnL.jpg | https://m.media-amazon.com/images/I/41rncrbObtL.jpg | https://m.media-amazon.com/images/I/416mVVy8-QL.jpg | https://m.media-amazon.com/images/I/416vW7uUnIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.00 Count",
-  "Discount": 0,
+  "Discount": "53.89%",
   "SalePrice": "₹599.00",
   "Model": "UG-867"
 }

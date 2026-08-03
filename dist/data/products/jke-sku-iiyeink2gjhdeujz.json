@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/416rhdJkJFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61AXeS8IjYL.jpg | https://m.media-amazon.com/images/I/41gD55PXRmL.jpg | https://m.media-amazon.com/images/I/41NaDA4dWGL.jpg | https://m.media-amazon.com/images/I/51e8bMiHewL.jpg | https://m.media-amazon.com/images/I/51R7oxYms7L.jpg | https://m.media-amazon.com/images/I/61VGBYwHfnL.jpg | https://m.media-amazon.com/images/I/51TAHHVx+XL.jpg | https://m.media-amazon.com/images/I/416rhdJkJFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "58.5%",
   "SalePrice": "₹8,299.00",
   "Model": "HGCM1860"
 }

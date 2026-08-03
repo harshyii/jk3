@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31nvS1s+ucL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51S2prg-eNL.jpg | https://m.media-amazon.com/images/I/31jZGTEwf3L.jpg | https://m.media-amazon.com/images/I/41uSikSoj8L.jpg | https://m.media-amazon.com/images/I/41boU57XkgL.jpg | https://m.media-amazon.com/images/I/41DsG3Nw3+L.jpg | https://m.media-amazon.com/images/I/31nvS1s+ucL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "52.76%",
   "SalePrice": "₹94.00",
   "Model": "E-2024"
 }

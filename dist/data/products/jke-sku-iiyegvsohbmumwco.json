@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51k67j-KT8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71RBK81tYxL.jpg | https://m.media-amazon.com/images/I/41GW9p9ipmL.jpg | https://m.media-amazon.com/images/I/31lzR3XtzoL.jpg | https://m.media-amazon.com/images/I/51TJ-3wEQ-L.jpg | https://m.media-amazon.com/images/I/4158f-nyOVL.jpg | https://m.media-amazon.com/images/I/51yiVCe4oVL.jpg | https://m.media-amazon.com/images/I/51k67j-KT8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "17.5%",
   "SalePrice": "₹6,599.00",
   "Model": "CDW400"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/3172KXJwaAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xjWiTY2yL.jpg | https://m.media-amazon.com/images/I/41fykA5uRlL.jpg | https://m.media-amazon.com/images/I/31E21TgoqbL.jpg | https://m.media-amazon.com/images/I/31W1eY+-s1L.jpg | https://m.media-amazon.com/images/I/31xZDnOnmbL.jpg | https://m.media-amazon.com/images/I/31XPgZIJwZL.jpg | https://m.media-amazon.com/images/I/3172KXJwaAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹6,044.00",
   "Model": "537260"
 }

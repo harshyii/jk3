@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31LbLb-Pi2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51wmCDf9vTL.jpg | https://m.media-amazon.com/images/I/31LGG1aYK2L.jpg | https://m.media-amazon.com/images/I/21dcfNsDqZL.jpg | https://m.media-amazon.com/images/I/31LbLb-Pi2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.93%",
   "SalePrice": "₹209.00",
   "Model": "L 8H"
 }

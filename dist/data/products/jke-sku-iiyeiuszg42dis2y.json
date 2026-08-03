@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41u2qBitvkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61raPkKPvrL.jpg | https://m.media-amazon.com/images/I/31Mk-+666wL.jpg | https://m.media-amazon.com/images/I/51mEMSrhqKL.jpg | https://m.media-amazon.com/images/I/51dej-qdpTL.jpg | https://m.media-amazon.com/images/I/31OTBIZz9dL.jpg | https://m.media-amazon.com/images/I/51JSSTvC6CL.jpg | https://m.media-amazon.com/images/I/41u2qBitvkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "43.04%",
   "SalePrice": "₹569.00",
   "Model": "WAH5008"
 }

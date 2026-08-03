@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51a8EwXkEaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Tmyg-E7bL.jpg | https://m.media-amazon.com/images/I/51Gq0uujK-L.jpg | https://m.media-amazon.com/images/I/41ybJ--qNiL.jpg | https://m.media-amazon.com/images/I/51wFacUZX-L.jpg | https://m.media-amazon.com/images/I/51RkB1wY+BL.jpg | https://m.media-amazon.com/images/I/51a8EwXkEaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "47.22%",
   "SalePrice": "₹607.00",
   "Model": "CO105",
   "Country": "India"

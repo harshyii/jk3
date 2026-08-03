@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41UUgyLCMYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ue1R7eIaL.jpg | https://m.media-amazon.com/images/I/41EaWIEz8mL.jpg | https://m.media-amazon.com/images/I/41oby9fbCWL.jpg | https://m.media-amazon.com/images/I/41NAm50fqaL.jpg | https://m.media-amazon.com/images/I/41PasoMetiL.jpg | https://m.media-amazon.com/images/I/51pNZl28VbL.jpg | https://m.media-amazon.com/images/I/419qLEEsYjL.jpg | https://m.media-amazon.com/images/I/41UUgyLCMYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.38%",
   "SalePrice": "₹235.00",
   "Model": "SOLAR 002"
 }

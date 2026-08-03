@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51Sr9Kc8fOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51cNcELxXJL.jpg | https://m.media-amazon.com/images/I/416dJoDRXuL.jpg | https://m.media-amazon.com/images/I/41biPkdF85L.jpg | https://m.media-amazon.com/images/I/41InU0Up58L.jpg | https://m.media-amazon.com/images/I/419nQpNOfLL.jpg | https://m.media-amazon.com/images/I/51UF79v+O7L.jpg | https://m.media-amazon.com/images/I/51fLp8YNw8L.jpg | https://m.media-amazon.com/images/I/51Sr9Kc8fOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Milliliters",
-  "Discount": 0,
+  "Discount": "48.88%",
   "SalePrice": "₹639.00",
   "Model": "RX11806D"
 }

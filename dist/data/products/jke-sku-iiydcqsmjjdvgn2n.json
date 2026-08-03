@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31UWbVJuH3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oriyQCXIL.jpg | https://m.media-amazon.com/images/I/51syQnSkPyL.jpg | https://m.media-amazon.com/images/I/41KICCt8NDL.jpg | https://m.media-amazon.com/images/I/41QLGXpMPML.jpg | https://m.media-amazon.com/images/I/21bYKuKBCHL.jpg | https://m.media-amazon.com/images/I/31UWbVJuH3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.14%",
   "SalePrice": "₹179.00",
   "Model": "KIT-0010"
 }

@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41p-CaipiML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71bu30Y-PzL.jpg | https://m.media-amazon.com/images/I/51Bn3meZlmL.jpg | https://m.media-amazon.com/images/I/412E-ML-93L.jpg | https://m.media-amazon.com/images/I/51MSb8ne+-L.jpg | https://m.media-amazon.com/images/I/51V4SPCg2QL.jpg | https://m.media-amazon.com/images/I/51vj7fxuZqL.jpg | https://m.media-amazon.com/images/I/41p-CaipiML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.12%",
   "SalePrice": "₹3,849.00",
   "Model": "CDLI1222"
 }

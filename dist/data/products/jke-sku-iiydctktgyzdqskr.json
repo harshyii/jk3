@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31mxKVkRtpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sOmXmbSAL.jpg | https://m.media-amazon.com/images/I/51dYXbWMUZL.jpg | https://m.media-amazon.com/images/I/31mxKVkRtpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.87%",
   "SalePrice": "₹3,089.00",
   "Model": "AT-010K"
 }

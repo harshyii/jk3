@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41wt4psKJdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CAkEZHNvL.jpg | https://m.media-amazon.com/images/I/31KpGNE466L.jpg | https://m.media-amazon.com/images/I/61af8PSLrYL.jpg | https://m.media-amazon.com/images/I/41wt4psKJdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "66.25%",
   "SalePrice": "₹2,700.00",
   "Model": "INGCO-FBCPK1214"
 }

@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/31BoYuk6IOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-xeDpyqwL.jpg | https://m.media-amazon.com/images/I/31G7Ag6tZfL.jpg | https://m.media-amazon.com/images/I/31BoYuk6IOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.2%",
   "SalePrice": "₹399.00",
   "Model": "Xtra Power Worm Gear"
 }

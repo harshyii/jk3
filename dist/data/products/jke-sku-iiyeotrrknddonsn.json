@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/41xpVYxme5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qOr8QtLHL.jpg | https://m.media-amazon.com/images/I/41xpVYxme5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Milliliters",
-  "Discount": 0,
+  "Discount": "90%",
   "SalePrice": "₹900.00",
   "Country": "India"
 }

@@ -41,8 +41,8 @@
     "https://m.media-amazon.com/images/I/41wBNRMt95L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61oxvG1-4-L.jpg | https://m.media-amazon.com/images/I/41wBNRMt95L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Grams",
-  "Discount": 0,
+  "Discount": "31.7%",
   "SalePrice": "₹1,495.00"
 }

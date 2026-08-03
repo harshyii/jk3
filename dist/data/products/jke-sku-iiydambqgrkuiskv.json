@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/212e9oWGdYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41qYmNurJRL.jpg | https://m.media-amazon.com/images/I/310zQ9WqiVL.jpg | https://m.media-amazon.com/images/I/41PbxRq0W3L.jpg | https://m.media-amazon.com/images/I/41E4uNomK3L.jpg | https://m.media-amazon.com/images/I/212e9oWGdYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "7.01%",
   "SalePrice": "₹650.00",
   "Model": "941",
   "Country": "USA"

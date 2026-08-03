@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41AnDg2D6ML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51l1OXD6kKL.jpg | https://m.media-amazon.com/images/I/41IVD7tX2OL.jpg | https://m.media-amazon.com/images/I/41tOMZ73O-S.jpg | https://m.media-amazon.com/images/I/41gnTPRqEVS.jpg | https://m.media-amazon.com/images/I/41AnDg2D6ML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "48 Count",
-  "Discount": 0,
+  "Discount": "60.71%",
   "SalePrice": "₹1,375.00",
   "Model": "FOXBC-5-inch"
 }

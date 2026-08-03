@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/31O1WL62JCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81v4BJ-kQ9L.jpg | https://m.media-amazon.com/images/I/51Xpt8CwYxL.jpg | https://m.media-amazon.com/images/I/51Xx-scuuxL.jpg | https://m.media-amazon.com/images/I/31nwwXlScvL.jpg | https://m.media-amazon.com/images/I/41pCYaDdgGL.jpg | https://m.media-amazon.com/images/I/51AQ9JSaArL.jpg | https://m.media-amazon.com/images/I/41eCEf9oNgL.jpg | https://m.media-amazon.com/images/I/31O1WL62JCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.83%",
   "SalePrice": "₹16,554.30",
   "Model": "DT70523T-QZ"
 }

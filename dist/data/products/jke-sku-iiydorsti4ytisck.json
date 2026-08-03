@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41T0QsUv4tL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61rKxwNKQTL.jpg | https://m.media-amazon.com/images/I/31XrP2JogEL.jpg | https://m.media-amazon.com/images/I/312+l7POhAL.jpg | https://m.media-amazon.com/images/I/31XTyeMDmlL.jpg | https://m.media-amazon.com/images/I/31DEUu+jO+L.jpg | https://m.media-amazon.com/images/I/212OtvwXRGL.jpg | https://m.media-amazon.com/images/I/41T0QsUv4tL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.65%",
   "SalePrice": "₹359.00",
   "Model": "94-347"
 }

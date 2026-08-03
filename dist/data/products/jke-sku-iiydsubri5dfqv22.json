@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41UF+18acyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81yol9Q7wlL.jpg | https://m.media-amazon.com/images/I/41k6f1JKMpL.jpg | https://m.media-amazon.com/images/I/41hxY5bjszL.jpg | https://m.media-amazon.com/images/I/41UF+18acyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.00 Grams",
-  "Discount": 0,
+  "Discount": "0.03%",
   "SalePrice": "₹198.95",
   "Model": "53803",
   "Country": "USA"

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51sAG7nlHgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61x8Sh6WhnL.jpg | https://m.media-amazon.com/images/I/31fXMt-LgoL.jpg | https://m.media-amazon.com/images/I/516cxGNnovL.jpg | https://m.media-amazon.com/images/I/51IvBivw8CL.jpg | https://m.media-amazon.com/images/I/61MG7QS2mcL.jpg | https://m.media-amazon.com/images/I/51hmwakPmeL.jpg | https://m.media-amazon.com/images/I/51sAG7nlHgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.01%",
   "SalePrice": "₹3,499.00",
   "Model": "WS-50 Pack of 1"
 }

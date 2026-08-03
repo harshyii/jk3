@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51GzJYySEOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41cRQ7UCSgL.jpg | https://m.media-amazon.com/images/I/41cRQ7UCSgL.jpg | https://m.media-amazon.com/images/I/416RulV3rGL.jpg | https://m.media-amazon.com/images/I/51ml8tMCd7L.jpg | https://m.media-amazon.com/images/I/41xFWXjjMNL.jpg | https://m.media-amazon.com/images/I/41WTrGBBgaL.jpg | https://m.media-amazon.com/images/I/51X1UlaOJHL.jpg | https://m.media-amazon.com/images/I/51GzJYySEOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "20.84%",
   "SalePrice": "₹6,800.00",
   "Model": "UTLS-965-SND"
 }

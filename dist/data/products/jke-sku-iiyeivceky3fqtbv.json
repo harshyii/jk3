@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41xz8l6aVGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xBg++vgNL.jpg | https://m.media-amazon.com/images/I/41oQGo1V1pL.jpg | https://m.media-amazon.com/images/I/51CePsM4A1L.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/5192vZEWCSL.jpg | https://m.media-amazon.com/images/I/51x3O9NN4cL.jpg | https://m.media-amazon.com/images/I/51SoTWBxb4L.jpg | https://m.media-amazon.com/images/I/41MF3q7SqJL.jpg | https://m.media-amazon.com/images/I/41xz8l6aVGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "80.0 Milliliters",
-  "Discount": 0,
+  "Discount": "53.89%",
   "SalePrice": "₹599.00",
   "Country": "India"
 }

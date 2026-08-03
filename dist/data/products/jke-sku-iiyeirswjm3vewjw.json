@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/414eag++S2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31w9eWw1s1L.jpg | https://m.media-amazon.com/images/I/31w9eWw1s1L.jpg | https://m.media-amazon.com/images/I/21khfGcUXDL.jpg | https://m.media-amazon.com/images/I/21jdfmTK5QL.jpg | https://m.media-amazon.com/images/I/414eag++S2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹499.00",
   "Model": "Hi-Plastika",
   "Country": "India"

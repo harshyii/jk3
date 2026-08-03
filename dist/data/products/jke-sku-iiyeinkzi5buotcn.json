@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51lzwcnmhoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51AzrqlvqoL.jpg | https://m.media-amazon.com/images/I/31VJsxjGM0L.jpg | https://m.media-amazon.com/images/I/513x1YVBMqL.jpg | https://m.media-amazon.com/images/I/51vXRFEYXYL.jpg | https://m.media-amazon.com/images/I/41uDlSfjfLL.jpg | https://m.media-amazon.com/images/I/51gG8TB4jdL.jpg | https://m.media-amazon.com/images/I/51lzwcnmhoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Can",
-  "Discount": 0,
+  "Discount": "66.31%",
   "SalePrice": "₹1,684.29",
   "Model": "MTH/8/OR"
 }

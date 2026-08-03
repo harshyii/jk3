@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31aCpTuFaTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ug0H1pTkL.jpg | https://m.media-amazon.com/images/I/31lq0m1Ki4L.jpg | https://m.media-amazon.com/images/I/31PFwUznYkL.jpg | https://m.media-amazon.com/images/I/31XtnTmsPCL.jpg | https://m.media-amazon.com/images/I/21pFiD0iSgL.jpg | https://m.media-amazon.com/images/I/31JcMMrOotL.jpg | https://m.media-amazon.com/images/I/31ac9AYKLgL.jpg | https://m.media-amazon.com/images/I/31aCpTuFaTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "25.24%",
   "SalePrice": "₹11,557.00",
   "Model": "SDY52079487",
   "Country": "Hong Kong"

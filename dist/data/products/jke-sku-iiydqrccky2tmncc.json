@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/61rjtVh4TdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81HsUHKVQ1L.jpg | https://m.media-amazon.com/images/I/41gS4rBrplL.jpg | https://m.media-amazon.com/images/I/51svZARt4ZL.jpg | https://m.media-amazon.com/images/I/41vwcH136VL.jpg | https://m.media-amazon.com/images/I/51IS3oL6G0L.jpg | https://m.media-amazon.com/images/I/51PJbluYDqL.jpg | https://m.media-amazon.com/images/I/61rjtVh4TdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "49.58%",
   "SalePrice": "₹3,240.00",
   "Model": "RT18KA-IN"
 }

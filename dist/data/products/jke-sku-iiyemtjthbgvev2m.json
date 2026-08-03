@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/41LnfljkbnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61j9YVOfAzL.jpg | https://m.media-amazon.com/images/I/41V4q9tBWUL.jpg | https://m.media-amazon.com/images/I/51mCgd6mecL.jpg | https://m.media-amazon.com/images/I/41zb7BDhRuL.jpg | https://m.media-amazon.com/images/I/51SJDvCAsuL.jpg | https://m.media-amazon.com/images/I/51B8mEexMdL.jpg | https://m.media-amazon.com/images/I/41nlFlq80sL.jpg | https://m.media-amazon.com/images/I/41LnfljkbnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "63.35%",
   "SalePrice": "₹1,099.00",
   "Model": "PA0059",
   "Country": "China"

@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/4170c59g5mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jqaJwpplL.jpg | https://m.media-amazon.com/images/I/41ZqJcIK-+L.jpg | https://m.media-amazon.com/images/I/41eacjiOPZL.jpg | https://m.media-amazon.com/images/I/41mbNIxRrLL.jpg | https://m.media-amazon.com/images/I/41hRvcQVlHL.jpg | https://m.media-amazon.com/images/I/41Y6W29gb4L.jpg | https://m.media-amazon.com/images/I/41JPhUEjMvL.jpg | https://m.media-amazon.com/images/I/4170c59g5mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "45.85%",
   "SalePrice": "₹1,299.00",
   "Model": "ABPB26CAWI",
   "Country": "India"

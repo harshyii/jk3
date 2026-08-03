@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41ALW5901RL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ALW5901RL.jpg | https://m.media-amazon.com/images/I/41ALW5901RL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "61.12%",
   "SalePrice": "₹13,998.00",
   "Model": "Sp-50w-kit-12v"
 }

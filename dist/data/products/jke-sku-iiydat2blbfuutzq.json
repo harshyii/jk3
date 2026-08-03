@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/417M8LH-7aL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/816eM7P7MSL.jpg | https://m.media-amazon.com/images/I/51mVuEkzdxL.jpg | https://m.media-amazon.com/images/I/51cRO3XOL4L.jpg | https://m.media-amazon.com/images/I/515s6EH2uIL.jpg | https://m.media-amazon.com/images/I/413YDpkZ6iL.jpg | https://m.media-amazon.com/images/I/41YLGNWq9QL.jpg | https://m.media-amazon.com/images/I/91+igyY+MCL.jpg | https://m.media-amazon.com/images/I/417M8LH-7aL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.11%",
   "SalePrice": "₹3,860.50",
   "Model": "709-02"
 }

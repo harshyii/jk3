@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41JdhbQBGaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51GVQRbZxvL.jpg | https://m.media-amazon.com/images/I/31qxam09KnL.jpg | https://m.media-amazon.com/images/I/51-6R51luLL.jpg | https://m.media-amazon.com/images/I/41yPi2do2FL.jpg | https://m.media-amazon.com/images/I/41BnUEuJnZL.jpg | https://m.media-amazon.com/images/I/41wVw6zcXvL.jpg | https://m.media-amazon.com/images/I/41R-kk4-ItL.jpg | https://m.media-amazon.com/images/I/41JdhbQBGaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "95.04%",
   "SalePrice": "₹248.00",
   "Model": "USB Type C to Micro-B USB 3.0 Cable",
   "Country": "China"

@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61K-RRecGjL.jpg | https://m.media-amazon.com/images/I/51eo6S5nyJL.jpg | https://m.media-amazon.com/images/I/41l7+Op4hOL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2 Count",
-  "Discount": 0,
+  "Discount": "42.08%",
   "SalePrice": "₹289.00",
   "Model": "MXC3:16+MXC5:19",
   "Country": "India"

@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51BKKr5Xn3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61QoQfSwoEL.jpg | https://m.media-amazon.com/images/I/318f6ZCRpbL.jpg | https://m.media-amazon.com/images/I/51CgUagxP+L.jpg | https://m.media-amazon.com/images/I/51FXjBoE6oL.jpg | https://m.media-amazon.com/images/I/515serMlXtL.jpg | https://m.media-amazon.com/images/I/51GAXnTxVdL.jpg | https://m.media-amazon.com/images/I/417LwzZ206L.jpg | https://m.media-amazon.com/images/I/51BKKr5Xn3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹11,352.54",
   "Model": "CM0322-0SD",
   "Country": "USA"

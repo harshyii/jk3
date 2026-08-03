@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31Ud555kgNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31sVet96x8L.jpg | https://m.media-amazon.com/images/I/31sVet96x8L.jpg | https://m.media-amazon.com/images/I/21H5W1sHX7L.jpg | https://m.media-amazon.com/images/I/21idA5TIQSL.jpg | https://m.media-amazon.com/images/I/31Ud555kgNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.03%",
   "SalePrice": "₹709.00",
   "Model": "Knives Blades",
   "Country": "India"

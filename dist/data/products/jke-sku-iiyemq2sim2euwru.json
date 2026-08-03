@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41CrIZBA+iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/414hdOCwUjL.jpg | https://m.media-amazon.com/images/I/414hdOCwUjL.jpg | https://m.media-amazon.com/images/I/41XDtVRTwvL.jpg | https://m.media-amazon.com/images/I/41CrIZBA+iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "61.67%",
   "SalePrice": "₹5,749.00",
   "Model": "RW 300I"
 }

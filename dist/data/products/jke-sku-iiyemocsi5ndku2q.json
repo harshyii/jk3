@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31IQSSruCOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61kEwo4Xq4L.jpg | https://m.media-amazon.com/images/I/310lonByDfL.jpg | https://m.media-amazon.com/images/I/41Sqyfvid2L.jpg | https://m.media-amazon.com/images/I/31IQSSruCOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "5 Pack",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹825.00",
   "Model": "Trans 3m",
   "Country": "India"

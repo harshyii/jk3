@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41RFFC8b7gL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61LAIRN1HrL.jpg | https://m.media-amazon.com/images/I/518RHUFJPSL.jpg | https://m.media-amazon.com/images/I/51t21nYjRTL.jpg | https://m.media-amazon.com/images/I/51G65172B-L.jpg | https://m.media-amazon.com/images/I/41IH3sJK4yL.jpg | https://m.media-amazon.com/images/I/51Cts7q83HL.jpg | https://m.media-amazon.com/images/I/41GYxJPkqOL.jpg | https://m.media-amazon.com/images/I/41RFFC8b7gL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.01%",
   "SalePrice": "₹4,499.00",
   "Model": "STIW-48"
 }

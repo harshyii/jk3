@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/31R9kREDvzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71d8QMcVgYL.jpg | https://m.media-amazon.com/images/I/41-9F3EYSvL.jpg | https://m.media-amazon.com/images/I/41MzOnjVNrL.jpg | https://m.media-amazon.com/images/I/41L04JQ4x3L.jpg | https://m.media-amazon.com/images/I/41vQJeTKw-L.jpg | https://m.media-amazon.com/images/I/41LEGsG7jeL.jpg | https://m.media-amazon.com/images/I/41kUgPBX-WL.jpg | https://m.media-amazon.com/images/I/31R9kREDvzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹16,934.40",
   "Model": "BDC120VA100"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/416X3VCmByL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Mhi6cGPOL.jpg | https://m.media-amazon.com/images/I/51bofoMq4rL.jpg | https://m.media-amazon.com/images/I/51ku0oOkipL.jpg | https://m.media-amazon.com/images/I/51En4-M0LeL.jpg | https://m.media-amazon.com/images/I/41meQHEBR1L.jpg | https://m.media-amazon.com/images/I/51bWcIfariL.jpg | https://m.media-amazon.com/images/I/517Lnj2oOJL.jpg | https://m.media-amazon.com/images/I/416X3VCmByL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "48.09%",
   "SalePrice": "₹2,476.00",
   "Model": "Homecab",
   "Country": "India"

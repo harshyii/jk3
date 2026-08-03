@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/519a3URaIiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EP7GPmw9S.jpg | https://m.media-amazon.com/images/I/41DRJhfL1iS.jpg | https://m.media-amazon.com/images/I/41GgYSxjQ8S.jpg | https://m.media-amazon.com/images/I/61TgxMIdlCS.jpg | https://m.media-amazon.com/images/I/51Ab7fm8WKS.jpg | https://m.media-amazon.com/images/I/51cI0Ow0gsS.jpg | https://m.media-amazon.com/images/I/519a3URaIiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "20.47%",
   "SalePrice": "₹19,423.00",
   "Model": "LDX220C"
 }

@@ -76,9 +76,9 @@
     "https://m.media-amazon.com/images/I/41PnJt0XIoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AWsNO2wQL.jpg | https://m.media-amazon.com/images/I/41FRPMEE77L.jpg | https://m.media-amazon.com/images/I/51f+vQhLGeL.jpg | https://m.media-amazon.com/images/I/41KZqdhqq6L.jpg | https://m.media-amazon.com/images/I/51wQHDth+TL.jpg | https://m.media-amazon.com/images/I/41T6uI0pGeL.jpg | https://m.media-amazon.com/images/I/51SN8RAi3mL.jpg | https://m.media-amazon.com/images/I/41PnJt0XIoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "74.01%",
   "SalePrice": "₹1,299.00",
   "Model": "AR-UPS",
   "Country": "China"

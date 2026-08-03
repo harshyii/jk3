@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51J2tbOkBOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uY1DRfC7L.jpg | https://m.media-amazon.com/images/I/41pPMYb9k0L.jpg | https://m.media-amazon.com/images/I/51gq3MxKWzL.jpg | https://m.media-amazon.com/images/I/51XQyw15LdL.jpg | https://m.media-amazon.com/images/I/51avnoGHTXL.jpg | https://m.media-amazon.com/images/I/51SdjWebMsL.jpg | https://m.media-amazon.com/images/I/51J2tbOkBOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "41.4%",
   "SalePrice": "₹5,567.00",
   "Model": "EER-812"
 }

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41gwWnBuEVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51fu32XqX3L.jpg | https://m.media-amazon.com/images/I/417iuQcoItL.jpg | https://m.media-amazon.com/images/I/51oXnedL3HL.jpg | https://m.media-amazon.com/images/I/51WBN1IEtYL.jpg | https://m.media-amazon.com/images/I/41Heb-uyZgL.jpg | https://m.media-amazon.com/images/I/4125FpPaSLL.jpg | https://m.media-amazon.com/images/I/51t2SgXQz1L.jpg | https://m.media-amazon.com/images/I/41gwWnBuEVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35.67%",
   "SalePrice": "₹5,789.00",
   "Model": "Bare Tool"
 }

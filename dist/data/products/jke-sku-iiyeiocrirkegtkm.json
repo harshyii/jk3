@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51tD-U--qDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xxFyh+pIL.jpg | https://m.media-amazon.com/images/I/41lcOxKO8aL.jpg | https://m.media-amazon.com/images/I/51BanQ5aUML.jpg | https://m.media-amazon.com/images/I/51x9rcrzx0L.jpg | https://m.media-amazon.com/images/I/51+gq45oVSL.jpg | https://m.media-amazon.com/images/I/51XvpagGFwL.jpg | https://m.media-amazon.com/images/I/51SDMbq7g6L.jpg | https://m.media-amazon.com/images/I/51tD-U--qDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "350 Milliliters",
-  "Discount": 0,
+  "Discount": "20.67%",
   "SalePrice": "₹522.00",
   "Country": "India"
 }

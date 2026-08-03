@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51uStkV0PvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61gMGNhhIFL.jpg | https://m.media-amazon.com/images/I/31wU7kAsPZL.jpg | https://m.media-amazon.com/images/I/51m6oN7ZMPL.jpg | https://m.media-amazon.com/images/I/51t3hw3uiiL.jpg | https://m.media-amazon.com/images/I/51dPp-UFTUL.jpg | https://m.media-amazon.com/images/I/417t3BpEhwL.jpg | https://m.media-amazon.com/images/I/51TI4+6WsHL.jpg | https://m.media-amazon.com/images/I/51uStkV0PvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Milliliters",
-  "Discount": 0,
+  "Discount": "44.63%",
   "SalePrice": "₹299.00",
   "Model": "CPS100",
   "Country": "India"

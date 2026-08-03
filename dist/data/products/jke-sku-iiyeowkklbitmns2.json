@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41meXPm4zOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51aUC3TVwUL.jpg | https://m.media-amazon.com/images/I/21lqYHrmkPL.jpg | https://m.media-amazon.com/images/I/214LfkvwReL.jpg | https://m.media-amazon.com/images/I/21P3Bd8W7fL.jpg | https://m.media-amazon.com/images/I/41meXPm4zOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "67%",
   "SalePrice": "₹330.00",
   "Model": "Xp-mbh8x65"
 }

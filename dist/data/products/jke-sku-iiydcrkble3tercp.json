@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51USLBNnhgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71F+VorM06L.jpg | https://m.media-amazon.com/images/I/416KV-U2rRL.jpg | https://m.media-amazon.com/images/I/51USLBNnhgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.32%",
   "SalePrice": "₹5,579.00",
   "Model": "PO-1OQ4-JUEQ"
 }

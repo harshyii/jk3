@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/518H87OqKtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71DvlkHeCuL.jpg | https://m.media-amazon.com/images/I/41hmdyDcgVL.jpg | https://m.media-amazon.com/images/I/518H87OqKtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "60.4%",
   "SalePrice": "₹158.00",
   "Model": "APT-JW101010",
   "Country": "China"

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51FB2C6B7YL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JdpJrKDpL.jpg | https://m.media-amazon.com/images/I/41jzEWdz9wL.jpg | https://m.media-amazon.com/images/I/51Qy28zbe4L.jpg | https://m.media-amazon.com/images/I/51scxUz90mL.jpg | https://m.media-amazon.com/images/I/51D0bbCEp1L.jpg | https://m.media-amazon.com/images/I/51FB2C6B7YL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "478.9 Grams",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,897.68",
   "Model": "283241",
   "Country": "USA"

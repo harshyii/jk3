@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/317xygVBbZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JGCMceEVL.jpg | https://m.media-amazon.com/images/I/31dIDVRVXUL.jpg | https://m.media-amazon.com/images/I/31O8YIlAq+L.jpg | https://m.media-amazon.com/images/I/41hNlw3h-WL.jpg | https://m.media-amazon.com/images/I/317xygVBbZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "31.07%",
   "SalePrice": "₹12,752.00",
   "Model": "Xp-wm-400a"
 }

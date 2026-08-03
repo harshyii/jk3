@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31i4QwK30SL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81W-85W6aiL.jpg | https://m.media-amazon.com/images/I/51nModjwSbL.jpg | https://m.media-amazon.com/images/I/41kXhG28KPL.jpg | https://m.media-amazon.com/images/I/31i4QwK30SL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "65.23%",
   "SalePrice": "₹695.00",
   "Model": "AUSA01M331"
 }

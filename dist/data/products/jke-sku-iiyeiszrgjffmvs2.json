@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51SvUBIVG5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61W5bCVGrEL.jpg | https://m.media-amazon.com/images/I/41InPA3rEPL.jpg | https://m.media-amazon.com/images/I/41oCLSkICUL.jpg | https://m.media-amazon.com/images/I/518W5W2W+LL.jpg | https://m.media-amazon.com/images/I/417SaSgKfML.jpg | https://m.media-amazon.com/images/I/41EAZiTxuHL.jpg | https://m.media-amazon.com/images/I/41Khdf5IKwL.jpg | https://m.media-amazon.com/images/I/51SvUBIVG5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "36.77%",
   "SalePrice": "₹999.00",
   "Model": "B"
 }

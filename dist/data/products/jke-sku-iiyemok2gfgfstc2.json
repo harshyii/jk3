@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/41srP84pZpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91LKOP9DeGL.jpg | https://m.media-amazon.com/images/I/51-RG+hsc0L.jpg | https://m.media-amazon.com/images/I/31ODcbvqPUL.jpg | https://m.media-amazon.com/images/I/31h0ohHOGEL.jpg | https://m.media-amazon.com/images/I/31Wv0TeUlcL.jpg | https://m.media-amazon.com/images/I/31mQTc5dyOL.jpg | https://m.media-amazon.com/images/I/41srP84pZpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "25.01%",
   "SalePrice": "₹1,499.00",
   "Model": "JKD88"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41XzHhHb3jL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Voi5l77xL.jpg | https://m.media-amazon.com/images/I/41jFcXHK0oL.jpg | https://m.media-amazon.com/images/I/41RrIwyxJML.jpg | https://m.media-amazon.com/images/I/51a5-5Os95L.jpg | https://m.media-amazon.com/images/I/51FA2wzjv5L.jpg | https://m.media-amazon.com/images/I/51BWsRiubSL.jpg | https://m.media-amazon.com/images/I/517R2i+VmkL.jpg | https://m.media-amazon.com/images/I/41XzHhHb3jL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹44,900.66",
   "Model": "DCB235-4",
   "Country": "USA"

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/114z5TyLTrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31IroaSRByL.jpg | https://m.media-amazon.com/images/I/31IroaSRByL.jpg | https://m.media-amazon.com/images/I/31DrpXj-JJL.jpg | https://m.media-amazon.com/images/I/31STm+ohN-L.jpg | https://m.media-amazon.com/images/I/31gtTIir4ZL.jpg | https://m.media-amazon.com/images/I/11KcDe6aUjL.jpg | https://m.media-amazon.com/images/I/114z5TyLTrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "35.02%",
   "SalePrice": "₹1,299.00",
   "Country": "Germany"
 }

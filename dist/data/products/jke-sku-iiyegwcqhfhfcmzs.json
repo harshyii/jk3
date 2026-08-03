@@ -33,9 +33,9 @@
     "https://m.media-amazon.com/images/I/41pfrgEbKKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pfrgEbKKL.jpg | https://m.media-amazon.com/images/I/41pfrgEbKKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "56.01%",
   "SalePrice": "₹2,199.00",
   "Model": "CCCC021"
 }

@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41fXqN-8tXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61eqitQQkvL.jpg | https://m.media-amazon.com/images/I/41o0tSmG9rL.jpg | https://m.media-amazon.com/images/I/51Ok1W94K0L.jpg | https://m.media-amazon.com/images/I/616DXND0s2L.jpg | https://m.media-amazon.com/images/I/61i7Bd5GPaL.jpg | https://m.media-amazon.com/images/I/51ir3l2z2XL.jpg | https://m.media-amazon.com/images/I/61ZQ+33OXvL.jpg | https://m.media-amazon.com/images/I/41fXqN-8tXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.51%",
   "SalePrice": "₹1,889.00",
   "Model": "angle grinder"
 }

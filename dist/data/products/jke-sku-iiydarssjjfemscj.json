@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41Xrk-Z4jHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZnjpejDsL.jpg | https://m.media-amazon.com/images/I/41I1CS76KTL.jpg | https://m.media-amazon.com/images/I/41A8Qegf1LL.jpg | https://m.media-amazon.com/images/I/51OwKSGWBcL.jpg | https://m.media-amazon.com/images/I/41Xrk-Z4jHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.42%",
   "SalePrice": "₹691.00",
   "Model": "DT20700-QZ",
   "Country": "China"

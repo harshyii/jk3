@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41rU-ROGCcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+U4gHfFtL.jpg | https://m.media-amazon.com/images/I/414PcRVh3JL.jpg | https://m.media-amazon.com/images/I/51Jye3GumRL.jpg | https://m.media-amazon.com/images/I/51do0Y2DV6L.jpg | https://m.media-amazon.com/images/I/410K4PH8HQL.jpg | https://m.media-amazon.com/images/I/51VywonafRL.jpg | https://m.media-amazon.com/images/I/41rU-ROGCcL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "26.23%",
   "SalePrice": "₹2,950.00",
   "Model": "ASPRO"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41hYJQEZXXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610+zWlAE6L.jpg | https://m.media-amazon.com/images/I/610+zWlAE6L.jpg | https://m.media-amazon.com/images/I/411+bY6tq5L.jpg | https://m.media-amazon.com/images/I/417M9EPPl-L.jpg | https://m.media-amazon.com/images/I/41A0ujP5hdL.jpg | https://m.media-amazon.com/images/I/41bICqCoE9L.jpg | https://m.media-amazon.com/images/I/31z2XiKB1aL.jpg | https://m.media-amazon.com/images/I/41hYJQEZXXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Grams",
-  "Discount": 0,
+  "Discount": "11.11%",
   "SalePrice": "₹1,200.00",
   "Model": "2K 1Kg",
   "Country": "India"

@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718d0SVtofL.jpg | https://m.media-amazon.com/images/I/41zSl+bHvWL.jpg | https://m.media-amazon.com/images/I/41EYqkEErXL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.00 Milliliters",
-  "Discount": 0,
+  "Discount": "8.22%",
   "SalePrice": "₹335.00",
   "Model": "Super 2 T Oil - 1 L",
   "Country": "India"

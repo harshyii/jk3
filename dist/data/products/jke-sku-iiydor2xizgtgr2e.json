@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/312XyOiG4ZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71tjIgxGC8L.jpg | https://m.media-amazon.com/images/I/41aofNkp+fL.jpg | https://m.media-amazon.com/images/I/312XyOiG4ZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "83.47%",
   "SalePrice": "₹99.00",
   "Model": "CTE050"
 }

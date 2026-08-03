@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/610T0KJkH-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jVWoiWt9L.jpg | https://m.media-amazon.com/images/I/41Ibmyc-g6L.jpg | https://m.media-amazon.com/images/I/51Z7tEBavBL.jpg | https://m.media-amazon.com/images/I/51AhkY2-ZAL.jpg | https://m.media-amazon.com/images/I/61AMqI9kgML.jpg | https://m.media-amazon.com/images/I/51JSNt-4tLL.jpg | https://m.media-amazon.com/images/I/610T0KJkH-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "8.47%",
   "SalePrice": "₹324.00",
   "Model": "WW500",
   "Country": "India"

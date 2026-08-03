@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41OTC3Xi6hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aPrVSE5wL.jpg | https://m.media-amazon.com/images/I/518yTZt6NkL.jpg | https://m.media-amazon.com/images/I/41nNisn3ngL.jpg | https://m.media-amazon.com/images/I/41OTC3Xi6hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53%",
   "SalePrice": "₹2,350.00",
   "Model": "‎‎sspl12v50w"
 }

@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51-UKOmVLtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ZCv4ugBPL.jpg | https://m.media-amazon.com/images/I/51Nf8YEHr7L.jpg | https://m.media-amazon.com/images/I/51gg5w35fDL.jpg | https://m.media-amazon.com/images/I/51-UKOmVLtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Grams",
-  "Discount": 0,
+  "Discount": "47.27%",
   "SalePrice": "₹1,999.00",
   "Model": "3216848",
   "Country": "India"

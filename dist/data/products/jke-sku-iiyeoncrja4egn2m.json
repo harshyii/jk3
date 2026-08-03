@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/413AsitEjaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611YYdMxgHL.jpg | https://m.media-amazon.com/images/I/41fIR8zMiOL.jpg | https://m.media-amazon.com/images/I/41Q-fsAIMVL.jpg | https://m.media-amazon.com/images/I/41ydznxqZ6L.jpg | https://m.media-amazon.com/images/I/41hu0NPQ6wL.jpg | https://m.media-amazon.com/images/I/410gDokqWSL.jpg | https://m.media-amazon.com/images/I/41-pgJ7kNBL.jpg | https://m.media-amazon.com/images/I/413AsitEjaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "50.02%",
   "SalePrice": "₹1,499.00",
   "Model": "PWR-PB10K-WRD-S1-TTNM",
   "Country": "India"

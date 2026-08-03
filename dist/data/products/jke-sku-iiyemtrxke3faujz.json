@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51ZvbqCUk5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71FJGll7y1L.jpg | https://m.media-amazon.com/images/I/412biEcXo9L.jpg | https://m.media-amazon.com/images/I/41r4kpyUd3L.jpg | https://m.media-amazon.com/images/I/51Ub+UhTQ-L.jpg | https://m.media-amazon.com/images/I/41iozimc8jL.jpg | https://m.media-amazon.com/images/I/51ZvbqCUk5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "61.59%",
   "SalePrice": "₹499.00",
   "Model": "TH-T"
 }

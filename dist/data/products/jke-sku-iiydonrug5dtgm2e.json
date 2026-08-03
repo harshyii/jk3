@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31snrvPo5LL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pjdjP1s1L.jpg | https://m.media-amazon.com/images/I/41pjdjP1s1L.jpg | https://m.media-amazon.com/images/I/31snrvPo5LL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "15.79%",
   "SalePrice": "₹23,999.00",
   "Model": "djc30/ajc30"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51y7DHLVU0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71r1perbP1L.jpg | https://m.media-amazon.com/images/I/4124BJf+TAL.jpg | https://m.media-amazon.com/images/I/51Y+8BFHXcL.jpg | https://m.media-amazon.com/images/I/41rALQ34v2L.jpg | https://m.media-amazon.com/images/I/41J25TE1fjL.jpg | https://m.media-amazon.com/images/I/51FLkIy8vtL.jpg | https://m.media-amazon.com/images/I/51y7DHLVU0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "27.43%",
   "SalePrice": "₹2,032.00",
   "Model": "SD10-85"
 }

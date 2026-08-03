@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41CgrZHBC7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Eg2cSFtNL.jpg | https://m.media-amazon.com/images/I/41mVni1NqQL.jpg | https://m.media-amazon.com/images/I/51iG08njGdL.jpg | https://m.media-amazon.com/images/I/41ovLPPtxjL.jpg | https://m.media-amazon.com/images/I/41FByoAgYzL.jpg | https://m.media-amazon.com/images/I/41k4eD+IDUL.jpg | https://m.media-amazon.com/images/I/41fd6UElWML.jpg | https://m.media-amazon.com/images/I/41CgrZHBC7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.78%",
   "SalePrice": "₹16,999.00",
   "Model": "Maximus 2800+"
 }

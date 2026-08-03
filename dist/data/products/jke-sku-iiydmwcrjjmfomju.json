@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31ZUjhqlOzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KG-Ez+h0L.jpg | https://m.media-amazon.com/images/I/31t4Eu0XVXL.jpg | https://m.media-amazon.com/images/I/31d0krcuhxL.jpg | https://m.media-amazon.com/images/I/4136Z0cDBVL.jpg | https://m.media-amazon.com/images/I/31hlMTsAW2L.jpg | https://m.media-amazon.com/images/I/31ZUjhqlOzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "38.85%",
   "SalePrice": "₹244.00",
   "Model": "1621-6"
 }

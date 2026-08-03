@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41p3kaIqmqL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51FqJGaq3CL.jpg | https://m.media-amazon.com/images/I/31atugmNDyL.jpg | https://m.media-amazon.com/images/I/71H5Fvo1AZL.jpg | https://m.media-amazon.com/images/I/41xFkOAsyzL.jpg | https://m.media-amazon.com/images/I/51Oxan4IYqL.jpg | https://m.media-amazon.com/images/I/41p3kaIqmqL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.42%",
   "SalePrice": "₹218.00",
   "Model": "IA110109286"
 }

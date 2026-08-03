@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41JxXAm5ASL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71k0Ai8hBjL.jpg | https://m.media-amazon.com/images/I/41HuDU0kFnL.jpg | https://m.media-amazon.com/images/I/41JxXAm5ASL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.28%",
   "SalePrice": "₹12,700.00",
   "Model": "M2401B"
 }

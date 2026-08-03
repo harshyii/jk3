@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41plLU+1f-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51D14XDJ4mL.jpg | https://m.media-amazon.com/images/I/51D14XDJ4mL.jpg | https://m.media-amazon.com/images/I/51KuFfHP2gL.jpg | https://m.media-amazon.com/images/I/41FEeF1hVWL.jpg | https://m.media-amazon.com/images/I/41fVXW78cML.jpg | https://m.media-amazon.com/images/I/41plLU+1f-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "135.0 Grams",
-  "Discount": 0,
+  "Discount": "58.43%",
   "SalePrice": "₹249.00",
   "Country": "Philippines"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31PvTYvXvWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71q8lfEHJfL.jpg | https://m.media-amazon.com/images/I/315eJSZX13L.jpg | https://m.media-amazon.com/images/I/41YadMXHSUL.jpg | https://m.media-amazon.com/images/I/41EElyaRhqL.jpg | https://m.media-amazon.com/images/I/41-hGZnT6ML.jpg | https://m.media-amazon.com/images/I/31PvTYvXvWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.14%",
   "SalePrice": "₹334.00",
   "Model": "DT7402-QZ"
 }

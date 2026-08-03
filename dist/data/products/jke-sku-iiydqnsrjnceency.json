@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41N2LFNMboL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618XHA0RUVL.jpg | https://m.media-amazon.com/images/I/31zxO0nOgcL.jpg | https://m.media-amazon.com/images/I/41w8P3sfKCL.jpg | https://m.media-amazon.com/images/I/41gyAebfxKL.jpg | https://m.media-amazon.com/images/I/41+YEc9yBUL.jpg | https://m.media-amazon.com/images/I/51Xse-zrm7L.jpg | https://m.media-amazon.com/images/I/41Iv6J7VPnL.jpg | https://m.media-amazon.com/images/I/41N2LFNMboL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹33,362.00",
   "Model": "R18P-0"
 }

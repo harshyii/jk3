@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51yDhA+JGjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51YSn7r5XtL.jpg | https://m.media-amazon.com/images/I/411HKuvrPxL.jpg | https://m.media-amazon.com/images/I/41mK0RXImTL.jpg | https://m.media-amazon.com/images/I/41yQjvD5imL.jpg | https://m.media-amazon.com/images/I/41NYmv2pySL.jpg | https://m.media-amazon.com/images/I/41PKrIUesIL.jpg | https://m.media-amazon.com/images/I/51yDhA+JGjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹22,689.44",
   "Model": "43237-2"
 }

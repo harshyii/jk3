@@ -83,9 +83,9 @@
     "https://m.media-amazon.com/images/I/51Q-DbGXwLL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41yY6pTdNGL.jpg | https://m.media-amazon.com/images/I/31GvHRbziVL.jpg | https://m.media-amazon.com/images/I/51XoUMBX10L.jpg | https://m.media-amazon.com/images/I/51Nwr7omCnL.jpg | https://m.media-amazon.com/images/I/51NbKNZlpBL.jpg | https://m.media-amazon.com/images/I/51ACPz+b04L.jpg | https://m.media-amazon.com/images/I/51Q-DbGXwLL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.99%",
   "SalePrice": "₹3,680.00",
   "Model": "FHCML1SDUB48"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41DyeLC8wEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zLYTep9QL.jpg | https://m.media-amazon.com/images/I/31uFHAOFW5L.jpg | https://m.media-amazon.com/images/I/51l4x8pchyL.jpg | https://m.media-amazon.com/images/I/51zjPd8+vxL.jpg | https://m.media-amazon.com/images/I/51PIg2S8fVL.jpg | https://m.media-amazon.com/images/I/51V9Zi7s0-L.jpg | https://m.media-amazon.com/images/I/514KniKc76L.jpg | https://m.media-amazon.com/images/I/41DyeLC8wEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300.0 Milliliters",
-  "Discount": 0,
+  "Discount": "17.7%",
   "SalePrice": "₹279.00",
   "Model": "SXPTSSFS300ML",
   "Country": "India"

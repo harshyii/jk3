@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51eXTANDS2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/412UkumaG6L.jpg | https://m.media-amazon.com/images/I/318vz3dArwL.jpg | https://m.media-amazon.com/images/I/41Q-671a6zL.jpg | https://m.media-amazon.com/images/I/51vUX27mkZL.jpg | https://m.media-amazon.com/images/I/51pepMWM54L.jpg | https://m.media-amazon.com/images/I/41lKJGgmObL.jpg | https://m.media-amazon.com/images/I/51eXTANDS2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "38.46%",
   "SalePrice": "₹248.00",
   "Model": "SPW12"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51dt3oKpSSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71UNXbskLCL.jpg | https://m.media-amazon.com/images/I/41SQgRJadBL.jpg | https://m.media-amazon.com/images/I/516hlQ0ZG8L.jpg | https://m.media-amazon.com/images/I/51C2yYvyuFL.jpg | https://m.media-amazon.com/images/I/417JIOHMb6L.jpg | https://m.media-amazon.com/images/I/51SF8hcPWIL.jpg | https://m.media-amazon.com/images/I/51e09w6wwSL.jpg | https://m.media-amazon.com/images/I/51dt3oKpSSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500.0 Milliliters",
-  "Discount": 0,
+  "Discount": "29.14%",
   "SalePrice": "₹389.00",
   "Model": "31395"
 }

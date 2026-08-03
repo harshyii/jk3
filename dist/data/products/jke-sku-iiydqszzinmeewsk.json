@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/416RmyT7J+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61MfV3up5SL.jpg | https://m.media-amazon.com/images/I/41OjzWGB5ML.jpg | https://m.media-amazon.com/images/I/4179JUJEpmL.jpg | https://m.media-amazon.com/images/I/31nE0aBvivL.jpg | https://m.media-amazon.com/images/I/31SZt4ylV2L.jpg | https://m.media-amazon.com/images/I/41f5R5cmMWL.jpg | https://m.media-amazon.com/images/I/415Toj0Ua3L.jpg | https://m.media-amazon.com/images/I/416RmyT7J+L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹45,514.96",
   "Model": "DCK202P1"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41tuUYEN8FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712HUnpC08L.jpg | https://m.media-amazon.com/images/I/41OQT5U0XrL.jpg | https://m.media-amazon.com/images/I/51Ulh7YI-2L.jpg | https://m.media-amazon.com/images/I/41DNoBeiCLL.jpg | https://m.media-amazon.com/images/I/41Qc3EY13pL.jpg | https://m.media-amazon.com/images/I/51HfyUnTosL.jpg | https://m.media-amazon.com/images/I/51GbGTCmHnL.jpg | https://m.media-amazon.com/images/I/41tuUYEN8FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹800.00",
   "Model": "HKPS08318-cb"
 }

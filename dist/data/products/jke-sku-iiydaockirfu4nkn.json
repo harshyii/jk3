@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31qR+iSZenL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61r9Dl6C0BL.jpg | https://m.media-amazon.com/images/I/31ugg-wnfXL.jpg | https://m.media-amazon.com/images/I/31sw9rkNTwL.jpg | https://m.media-amazon.com/images/I/31B-lN9+GNL.jpg | https://m.media-amazon.com/images/I/31q5RGj86UL.jpg | https://m.media-amazon.com/images/I/41bYZzn6F5L.jpg | https://m.media-amazon.com/images/I/41h9pOcfmTL.jpg | https://m.media-amazon.com/images/I/31qR+iSZenL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "82.39%",
   "SalePrice": "₹1,761.00",
   "Model": "P23-58"
 }

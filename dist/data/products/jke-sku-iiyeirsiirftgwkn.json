@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41H2KeFbIgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/917MmOouuzL.jpg | https://m.media-amazon.com/images/I/51lPWJTkZvL.jpg | https://m.media-amazon.com/images/I/41N8MsZFfGL.jpg | https://m.media-amazon.com/images/I/51hvMSYi++L.jpg | https://m.media-amazon.com/images/I/41H2KeFbIgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Piece",
-  "Discount": 0,
+  "Discount": "44.89%",
   "SalePrice": "₹275.00",
   "Model": "XP-PH2-NORMAL"
 }

@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21Kam0i2m1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61nE2+tS7FL.jpg | https://m.media-amazon.com/images/I/31F+edWJ+CL.jpg | https://m.media-amazon.com/images/I/41gjm9d13UL.jpg | https://m.media-amazon.com/images/I/31lE6keOIqL.jpg | https://m.media-amazon.com/images/I/21Kam0i2m1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹38,287.00",
   "Model": "RY18PCA-0"
 }

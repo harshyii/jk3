@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51uNeZd7-2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41E2Dq3VaAL.jpg | https://m.media-amazon.com/images/I/41ZOReH8r4L.jpg | https://m.media-amazon.com/images/I/41atVbI2DrL.jpg | https://m.media-amazon.com/images/I/51uNeZd7-2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "13.38%",
   "SalePrice": "₹259.00",
   "Model": "70x70 Solar Panel"
 }

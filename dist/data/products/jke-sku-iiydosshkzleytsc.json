@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/3197-IlS+KL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61oIQqztJ-L.jpg | https://m.media-amazon.com/images/I/31Yy3mDEhJL.jpg | https://m.media-amazon.com/images/I/71bHJ0tAtqL.jpg | https://m.media-amazon.com/images/I/41X0feqokcL.jpg | https://m.media-amazon.com/images/I/41QW5pVw2pL.jpg | https://m.media-amazon.com/images/I/31rGCpDuJ9L.jpg | https://m.media-amazon.com/images/I/41K8oD6nfrL.jpg | https://m.media-amazon.com/images/I/3197-IlS+KL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "31.84%",
   "SalePrice": "₹2,931.00",
   "Model": "DW802-IN"
 }

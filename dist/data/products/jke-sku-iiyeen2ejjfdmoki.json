@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51OD55vTZvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619NAY5cpXL.jpg | https://m.media-amazon.com/images/I/317lK4DdykL.jpg | https://m.media-amazon.com/images/I/51g5Pr2TKJL.jpg | https://m.media-amazon.com/images/I/51Fd-YcmTPL.jpg | https://m.media-amazon.com/images/I/41BdPh1ZegL.jpg | https://m.media-amazon.com/images/I/41XNNLy92BL.jpg | https://m.media-amazon.com/images/I/41Sa37yoJnL.jpg | https://m.media-amazon.com/images/I/51OD55vTZvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹7,147.41",
   "Model": "a22062000ux0099",
   "Country": "USA"

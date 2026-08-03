@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51LpXdNI1fL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-FYj-FxuL.jpg | https://m.media-amazon.com/images/I/51XhaTIEefL.jpg | https://m.media-amazon.com/images/I/51y7aJqjdZL.jpg | https://m.media-amazon.com/images/I/41ylj661DaL.jpg | https://m.media-amazon.com/images/I/4136imFN1uL.jpg | https://m.media-amazon.com/images/I/418gm1yatyL.jpg | https://m.media-amazon.com/images/I/414+rRsy60L.jpg | https://m.media-amazon.com/images/I/51LpXdNI1fL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.78%",
   "SalePrice": "₹54,944.00",
   "Model": "XT281S"
 }

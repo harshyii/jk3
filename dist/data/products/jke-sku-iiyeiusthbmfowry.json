@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31+CFq7stpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61pkJmUXChL.jpg | https://m.media-amazon.com/images/I/41p-Kat0pLL.jpg | https://m.media-amazon.com/images/I/31mOKv+zvaL.jpg | https://m.media-amazon.com/images/I/31qpQd8SR4L.jpg | https://m.media-amazon.com/images/I/31+CFq7stpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "12.75%",
   "SalePrice": "₹349.00",
   "Model": "BST 30 / BST 40"
 }

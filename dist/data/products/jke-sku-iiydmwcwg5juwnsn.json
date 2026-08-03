@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31OT0GkIiYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+7GdXSb2L.jpg | https://m.media-amazon.com/images/I/41QgIhbs7FL.jpg | https://m.media-amazon.com/images/I/41qvZNIy9FL.jpg | https://m.media-amazon.com/images/I/418iL5-r2PL.jpg | https://m.media-amazon.com/images/I/31W60AMvGcL.jpg | https://m.media-amazon.com/images/I/31OT0GkIiYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "19.84%",
   "SalePrice": "₹1,876.00",
   "Model": "TC990213"
 }

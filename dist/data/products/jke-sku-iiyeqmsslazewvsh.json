@@ -38,9 +38,9 @@
     "https://m.media-amazon.com/images/I/51Hks-0HZYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51EICFz+0SL.jpg | https://m.media-amazon.com/images/I/212y24auqzL.jpg | https://m.media-amazon.com/images/I/51Hks-0HZYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "4%",
   "SalePrice": "₹959.00",
   "Model": "CHA-2500",
   "Country": "China"

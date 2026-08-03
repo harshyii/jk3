@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51hmfKYWFkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51inmaYLsEL.jpg | https://m.media-amazon.com/images/I/31e1lFSKA9L.jpg | https://m.media-amazon.com/images/I/31n384SFLtL.jpg | https://m.media-amazon.com/images/I/61m4ux7OevL.jpg | https://m.media-amazon.com/images/I/61PRU47CZSL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/51hmfKYWFkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27.88%",
   "SalePrice": "₹15,079.00",
   "Model": "DCMPH566N-XJ"
 }

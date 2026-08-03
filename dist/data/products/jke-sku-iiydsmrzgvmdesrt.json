@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/41d+xGlEuHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71GhaDBA4uL.jpg | https://m.media-amazon.com/images/I/51wTeL7FYRL.jpg | https://m.media-amazon.com/images/I/41CxBjxAEtL.jpg | https://m.media-amazon.com/images/I/41rEd5nLsEL.jpg | https://m.media-amazon.com/images/I/51PpXpdzlNL.jpg | https://m.media-amazon.com/images/I/41d+xGlEuHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹16,040.00",
   "Model": "5133005002"
 }

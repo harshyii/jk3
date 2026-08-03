@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/31WrOMerz8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81SMu4bYCOL.jpg | https://m.media-amazon.com/images/I/414j2FMpTdL.jpg | https://m.media-amazon.com/images/I/419UAIKOJvL.jpg | https://m.media-amazon.com/images/I/41bDhAa4y6L.jpg | https://m.media-amazon.com/images/I/41W2FGRYhTL.jpg | https://m.media-amazon.com/images/I/41SJ2YR-+aL.jpg | https://m.media-amazon.com/images/I/3164gUbWssL.jpg | https://m.media-amazon.com/images/I/31WrOMerz8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10.00 Count",
-  "Discount": 0,
+  "Discount": "58.34%",
   "SalePrice": "₹2,499.00",
   "Model": "FG3-3423"
 }

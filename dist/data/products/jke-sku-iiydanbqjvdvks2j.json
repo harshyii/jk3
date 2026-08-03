@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/21Pv3EVCccL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71K2wjfVaQL.jpg | https://m.media-amazon.com/images/I/41LhrBV-fTL.jpg | https://m.media-amazon.com/images/I/413rwgy1PaL.jpg | https://m.media-amazon.com/images/I/51tG+Zg4pCL.jpg | https://m.media-amazon.com/images/I/51AwR6rAkSL.jpg | https://m.media-amazon.com/images/I/51awUUCbbsL.jpg | https://m.media-amazon.com/images/I/61DKnLiCJpL.jpg | https://m.media-amazon.com/images/I/21Pv3EVCccL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473.2 Milliliters",
-  "Discount": 0,
+  "Discount": "43.55%",
   "SalePrice": "₹2,333.68",
   "Model": "BUF_301_16SW"
 }

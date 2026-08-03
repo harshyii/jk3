@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51xiwW05WdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51bpt21G4ZL.jpg | https://m.media-amazon.com/images/I/31WQORkwWbL.jpg | https://m.media-amazon.com/images/I/61P2-0rg5iL.jpg | https://m.media-amazon.com/images/I/51mFgiWjJZL.jpg | https://m.media-amazon.com/images/I/519nPr7gzRL.jpg | https://m.media-amazon.com/images/I/51ZqrF74G7L.jpg | https://m.media-amazon.com/images/I/41cQO7uvaYL.jpg | https://m.media-amazon.com/images/I/51xiwW05WdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "8.89%",
   "SalePrice": "₹717.00",
   "Model": "E-2049_10"
 }

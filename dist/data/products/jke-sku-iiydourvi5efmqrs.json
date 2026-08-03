@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51Ov1JbnStL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rCzVzV0tL.jpg | https://m.media-amazon.com/images/I/41pvDQW7S2L.jpg | https://m.media-amazon.com/images/I/4102uippyWL.jpg | https://m.media-amazon.com/images/I/412pAaUqcNL.jpg | https://m.media-amazon.com/images/I/41iZffcF6TL.jpg | https://m.media-amazon.com/images/I/51Ov1JbnStL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.72%",
   "SalePrice": "₹1,559.00",
   "Model": "DT70703-QZ"
 }

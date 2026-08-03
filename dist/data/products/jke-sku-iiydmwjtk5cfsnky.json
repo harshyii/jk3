@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41yhh+RGEML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61r91FCHhaL.jpg | https://m.media-amazon.com/images/I/416jBHGVt4L.jpg | https://m.media-amazon.com/images/I/41yhh+RGEML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "61.67%",
   "SalePrice": "₹12,119.61",
   "Model": "Milwaukee - 48-22-5210"
 }

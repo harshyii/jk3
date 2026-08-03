@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41jLTXCisrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712L3Z3xcbL.jpg | https://m.media-amazon.com/images/I/51TN2Dyx+zL.jpg | https://m.media-amazon.com/images/I/41ePs6kjHTL.jpg | https://m.media-amazon.com/images/I/41gjeGbohTL.jpg | https://m.media-amazon.com/images/I/41veJ2eHZ4L.jpg | https://m.media-amazon.com/images/I/41+cYVT2BgL.jpg | https://m.media-amazon.com/images/I/417tOzoTJaL.jpg | https://m.media-amazon.com/images/I/41jLTXCisrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "66.14%",
   "SalePrice": "₹3,047.00",
   "Model": "HGCM762M1"
 }

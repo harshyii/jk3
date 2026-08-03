@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41C0UL71u6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71N1fzCjkcL.jpg | https://m.media-amazon.com/images/I/41B7s+bizIL.jpg | https://m.media-amazon.com/images/I/51dJnmakI5L.jpg | https://m.media-amazon.com/images/I/51gpvSUbGQL.jpg | https://m.media-amazon.com/images/I/51xEvz8C9tL.jpg | https://m.media-amazon.com/images/I/41S0n-nujkL.jpg | https://m.media-amazon.com/images/I/41C0UL71u6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "66.67%",
   "SalePrice": "₹3,900.00",
   "Model": "CPWLI20362"
 }

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/515VSc2vXJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61tum5-98SL.jpg | https://m.media-amazon.com/images/I/51lzjJQjYgL.jpg | https://m.media-amazon.com/images/I/41F9lC2vhyL.jpg | https://m.media-amazon.com/images/I/51w5wZCmZ5L.jpg | https://m.media-amazon.com/images/I/51IvZ4EEl8L.jpg | https://m.media-amazon.com/images/I/51RNWMzWR-L.jpg | https://m.media-amazon.com/images/I/51LIUUPy+AL.jpg | https://m.media-amazon.com/images/I/515VSc2vXJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "7.2%",
   "SalePrice": "₹760.00",
   "Model": "3M"
 }

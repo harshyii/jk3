@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/41KU7fk6-CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81nfqMbRFZL.jpg | https://m.media-amazon.com/images/I/31IoGb20rPL.jpg | https://m.media-amazon.com/images/I/31eqBMpQHtL.jpg | https://m.media-amazon.com/images/I/41XwgBA8-DL.jpg | https://m.media-amazon.com/images/I/41KU7fk6-CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.08%",
   "SalePrice": "₹4,245.00",
   "Model": "B08PZD418N"
 }

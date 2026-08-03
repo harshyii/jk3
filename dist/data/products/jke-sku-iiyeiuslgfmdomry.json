@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41rTD1zst8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51c8ESa72VL.jpg | https://m.media-amazon.com/images/I/41An6aQ+s+L.jpg | https://m.media-amazon.com/images/I/31rwmumTsvS.jpg | https://m.media-amazon.com/images/I/41rTD1zst8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "48.75%",
   "SalePrice": "₹4,115.20",
   "Model": "NMZ60020156",
   "Country": "Hong Kong"

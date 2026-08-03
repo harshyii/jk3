@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51wv4PcKgwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JP-u9w7oL.jpg | https://m.media-amazon.com/images/I/41haIl1C1UL.jpg | https://m.media-amazon.com/images/I/418V-AdkQFL.jpg | https://m.media-amazon.com/images/I/41iOyVFj7JL.jpg | https://m.media-amazon.com/images/I/311IjU-vryL.jpg | https://m.media-amazon.com/images/I/41WSnkfWaqL.jpg | https://m.media-amazon.com/images/I/51IApgzjtvL.jpg | https://m.media-amazon.com/images/I/51wv4PcKgwL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "60.99%",
   "SalePrice": "₹1,170.00",
   "Model": "NP-FW50",
   "Country": "India"

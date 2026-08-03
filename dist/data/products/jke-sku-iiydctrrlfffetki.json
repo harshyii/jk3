@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31bATAQhSJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZsqUdqWZL.jpg | https://m.media-amazon.com/images/I/31bATAQhSJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.95%",
   "SalePrice": "₹933.75",
   "Model": "SPW/14"
 }

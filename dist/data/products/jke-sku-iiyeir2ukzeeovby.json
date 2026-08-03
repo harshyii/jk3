@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41RlkGHIv2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/3150HpQFedL.jpg | https://m.media-amazon.com/images/I/3150HpQFedL.jpg | https://m.media-amazon.com/images/I/41RlkGHIv2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "6.88%",
   "SalePrice": "₹3,399.00",
   "Model": "DSA125"
 }

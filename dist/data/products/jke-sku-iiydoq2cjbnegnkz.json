@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/31qRRYbmnML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61QWyQHJ7yL.jpg | https://m.media-amazon.com/images/I/31qRRYbmnML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36.36%",
   "SalePrice": "₹3,500.00",
   "Model": "XPT-401"
 }

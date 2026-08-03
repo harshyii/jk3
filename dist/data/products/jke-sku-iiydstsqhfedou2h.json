@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51Cq2CRe+qL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61rFezS+43L.jpg | https://m.media-amazon.com/images/I/41Q21SzoVnL.jpg | https://m.media-amazon.com/images/I/51wH3n7G7nL.jpg | https://m.media-amazon.com/images/I/51Dn--nDH9L.jpg | https://m.media-amazon.com/images/I/512Tl21pAZL.jpg | https://m.media-amazon.com/images/I/41VyhSQTaKL.jpg | https://m.media-amazon.com/images/I/41jMVJNHdGL.jpg | https://m.media-amazon.com/images/I/51Cq2CRe+qL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.4%",
   "SalePrice": "₹30,287.00",
   "Model": "DCS382B"
 }

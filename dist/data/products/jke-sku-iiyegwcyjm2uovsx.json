@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41qmRxE+WzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71eNMGON7qL.jpg | https://m.media-amazon.com/images/I/41PZuR-AzgL.jpg | https://m.media-amazon.com/images/I/41MDxcoGRzL.jpg | https://m.media-amazon.com/images/I/41jiWMOQDKL.jpg | https://m.media-amazon.com/images/I/51GW+ZiSgCL.jpg | https://m.media-amazon.com/images/I/41qmRxE+WzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "77.14%",
   "SalePrice": "₹6,859.00",
   "Model": "B0CXXK5GVW"
 }

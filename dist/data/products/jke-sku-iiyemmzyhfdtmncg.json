@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/518pBQ8KWpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/813mKYBof7L.jpg | https://m.media-amazon.com/images/I/511ingXAf6L.jpg | https://m.media-amazon.com/images/I/51+jkOwm4ML.jpg | https://m.media-amazon.com/images/I/51aqdYV5OFL.jpg | https://m.media-amazon.com/images/I/51CfJUn5s4L.jpg | https://m.media-amazon.com/images/I/518uTOAPmGL.jpg | https://m.media-amazon.com/images/I/5187nYYamRL.jpg | https://m.media-amazon.com/images/I/518pBQ8KWpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.71%",
   "SalePrice": "₹7,998.00",
   "Model": "CDLI20668"
 }

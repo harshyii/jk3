@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51dNE4GrIpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41esU4xPS3L.jpg | https://m.media-amazon.com/images/I/31Vu8nDcv0L.jpg | https://m.media-amazon.com/images/I/31YOkBjVTbL.jpg | https://m.media-amazon.com/images/I/51w2Ti9vzwL.jpg | https://m.media-amazon.com/images/I/51dNE4GrIpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "24.99%",
   "SalePrice": "₹7,500.00",
   "Model": "EB 1700 VA 24V"
 }

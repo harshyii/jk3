@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51QWzmlZcvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711PJ-hVI4L.jpg | https://m.media-amazon.com/images/I/41H4aJ9QduL.jpg | https://m.media-amazon.com/images/I/413BRwefssL.jpg | https://m.media-amazon.com/images/I/51HKwt+RMCL.jpg | https://m.media-amazon.com/images/I/51dnw0IfrVL.jpg | https://m.media-amazon.com/images/I/41x623OFnFL.jpg | https://m.media-amazon.com/images/I/51QWzmlZcvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.06%",
   "SalePrice": "₹49,599.00",
   "Model": "4HPC WASHER"
 }

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51PY0S234nL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81-hwOAh7cL.jpg | https://m.media-amazon.com/images/I/51oU4lsybLL.jpg | https://m.media-amazon.com/images/I/511gEy2fbeL.jpg | https://m.media-amazon.com/images/I/510A9tAUbsL.jpg | https://m.media-amazon.com/images/I/41oyPgx7rbL.jpg | https://m.media-amazon.com/images/I/41G3B4pZzDL.jpg | https://m.media-amazon.com/images/I/51PY0S234nL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.49%",
   "SalePrice": "₹3,592.00",
   "Model": "IBL TD13-100"
 }

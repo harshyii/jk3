@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51QvWsC2TkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41z4yVAk6ML.jpg | https://m.media-amazon.com/images/I/31sIE1jbETL.jpg | https://m.media-amazon.com/images/I/31kjaTzXISL.jpg | https://m.media-amazon.com/images/I/51QvWsC2TkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.3%",
   "SalePrice": "₹4,129.00",
   "Model": "EM4130+",
   "Country": "India"

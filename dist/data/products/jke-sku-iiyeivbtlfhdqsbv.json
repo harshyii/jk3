@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51Qvc3fDQkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/812z0IiZApL.jpg | https://m.media-amazon.com/images/I/51pH42tpl4L.jpg | https://m.media-amazon.com/images/I/51UctBuIJIL.jpg | https://m.media-amazon.com/images/I/410Xm19Gs0L.jpg | https://m.media-amazon.com/images/I/51LcV2scIWL.jpg | https://m.media-amazon.com/images/I/51mbvU9822L.jpg | https://m.media-amazon.com/images/I/51Qvc3fDQkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.67%",
   "SalePrice": "₹3,946.00",
   "Model": "RS3216"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41EaoGBWDkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51tWDX9-EqL.jpg | https://m.media-amazon.com/images/I/315BMkxsoiL.jpg | https://m.media-amazon.com/images/I/51gsl2e3EgL.jpg | https://m.media-amazon.com/images/I/41z9T5OztTL.jpg | https://m.media-amazon.com/images/I/41+NGnQaw4L.jpg | https://m.media-amazon.com/images/I/41ppXbjYKVL.jpg | https://m.media-amazon.com/images/I/41EaoGBWDkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.72%",
   "SalePrice": "₹204.00",
   "Model": "WPP-01"
 }

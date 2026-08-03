@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41qyNHDD0UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718ULolGjSL.jpg | https://m.media-amazon.com/images/I/4141-PTLKgL.jpg | https://m.media-amazon.com/images/I/41qyNHDD0UL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.69%",
   "SalePrice": "₹12,173.00",
   "Model": "M8701B"
 }

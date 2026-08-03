@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51xyd-70nKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61khIb4ImyL.jpg | https://m.media-amazon.com/images/I/31EgUvWyEAL.jpg | https://m.media-amazon.com/images/I/31v985U1UaL.jpg | https://m.media-amazon.com/images/I/41gLNDT-6TL.jpg | https://m.media-amazon.com/images/I/41xwquVMDFL.jpg | https://m.media-amazon.com/images/I/51j1srVqtZL.jpg | https://m.media-amazon.com/images/I/41GZG1bVdrL.jpg | https://m.media-amazon.com/images/I/51xyd-70nKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "3.48%",
   "SalePrice": "₹28,599.00",
   "Model": "ICW1100+AB3hr"
 }

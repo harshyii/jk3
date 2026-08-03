@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/415pQHlXNuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71p09A5jfML.jpg | https://m.media-amazon.com/images/I/51AOdMYdPAL.jpg | https://m.media-amazon.com/images/I/612JpcDz9tL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41+saQLZ99L.jpg | https://m.media-amazon.com/images/I/41s8Ms2MvsL.jpg | https://m.media-amazon.com/images/I/41IZtSvgimL.jpg | https://m.media-amazon.com/images/I/415pQHlXNuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "85.09%",
   "SalePrice": "₹149.00",
   "Model": "HB-WIRE_PRTCR-P3",
   "Country": "China"

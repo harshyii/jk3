@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/21beM+hTVKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51NfImhPv8L.jpg | https://m.media-amazon.com/images/I/216Vo1eeVOL.jpg | https://m.media-amazon.com/images/I/413B2S+7X8L.jpg | https://m.media-amazon.com/images/I/41RVbXwF1FL.jpg | https://m.media-amazon.com/images/I/31Nd5x3D96L.jpg | https://m.media-amazon.com/images/I/31MY9+mcInL.jpg | https://m.media-amazon.com/images/I/3141gfxlV+L.jpg | https://m.media-amazon.com/images/I/21beM+hTVKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6 Piece",
-  "Discount": 0,
+  "Discount": "25.01%",
   "SalePrice": "₹1,499.00",
   "Model": "T spanner 8-9-10-12-13-14mm combo set"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51I3iEPKAfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41-X61xxBUL.jpg | https://m.media-amazon.com/images/I/31rdpx4G2dL.jpg | https://m.media-amazon.com/images/I/318xxqCvDNL.jpg | https://m.media-amazon.com/images/I/51I3iEPKAfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.81%",
   "SalePrice": "₹7,399.00",
   "Model": "UPS SOLAR 1135VA/12V",
   "Country": "India"

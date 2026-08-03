@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/419JNtYiDHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51tqQrl1JJL.jpg | https://m.media-amazon.com/images/I/51tqQrl1JJL.jpg | https://m.media-amazon.com/images/I/51OudMJ65oL.jpg | https://m.media-amazon.com/images/I/51Oez9mbmQL.jpg | https://m.media-amazon.com/images/I/419JNtYiDHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "47.06%",
   "SalePrice": "₹2,117.00",
   "Model": "XPT 431"
 }

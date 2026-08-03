@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/415WV4hpLgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JFEI9QE5L.jpg | https://m.media-amazon.com/images/I/41sYCj1hIoL.jpg | https://m.media-amazon.com/images/I/51XaiPhUm2L.jpg | https://m.media-amazon.com/images/I/51jNxPiA7GL.jpg | https://m.media-amazon.com/images/I/415tqULqqIL.jpg | https://m.media-amazon.com/images/I/41rVT+y6iTL.jpg | https://m.media-amazon.com/images/I/51aHr-ZpJeL.jpg | https://m.media-amazon.com/images/I/415WV4hpLgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "57.74%",
   "SalePrice": "₹549.00",
   "Model": "CDST7DBGSD"
 }

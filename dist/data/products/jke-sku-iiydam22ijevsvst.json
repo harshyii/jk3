@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/515+4wVbJ-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61P-bHUT5eL.jpg | https://m.media-amazon.com/images/I/416qOAO11RL.jpg | https://m.media-amazon.com/images/I/41nbVva9DBL.jpg | https://m.media-amazon.com/images/I/51k6qsTuBQL.jpg | https://m.media-amazon.com/images/I/51mjoatfvCL.jpg | https://m.media-amazon.com/images/I/51p4lI0gH3L.jpg | https://m.media-amazon.com/images/I/61rAX9CcdEL.jpg | https://m.media-amazon.com/images/I/515+4wVbJ-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3790.0 Milliliters",
-  "Discount": 0,
+  "Discount": "26.7%",
   "SalePrice": "₹6,590.00",
   "Model": "CLD_101SW"
 }

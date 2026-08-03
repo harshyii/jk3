@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/316yYB-YNvL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Fae2tOG8L.jpg | https://m.media-amazon.com/images/I/41n3qnar2pL.jpg | https://m.media-amazon.com/images/I/41w0qk-LlmL.jpg | https://m.media-amazon.com/images/I/51NEv5aPDzL.jpg | https://m.media-amazon.com/images/I/51MZYWp+IKL.jpg | https://m.media-amazon.com/images/I/51RGOS-O-6L.jpg | https://m.media-amazon.com/images/I/316yYB-YNvL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹16,476.25",
   "Model": "DWE6421"
 }

@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41y5wGv7aJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zSHPN3ZaL.jpg | https://m.media-amazon.com/images/I/413Gq+igpbL.jpg | https://m.media-amazon.com/images/I/41lZLjjqUNL.jpg | https://m.media-amazon.com/images/I/51BxyigWUfL.jpg | https://m.media-amazon.com/images/I/41y5wGv7aJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Set",
-  "Discount": 0,
+  "Discount": "25.8%",
   "SalePrice": "₹14,581.00",
   "Model": "6320337"
 }

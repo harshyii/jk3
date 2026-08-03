@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51ubqop6r7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51ubqop6r7L.jpg | https://m.media-amazon.com/images/I/51ubqop6r7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.29%",
   "SalePrice": "₹3,759.00",
   "Model": "TC1127"
 }

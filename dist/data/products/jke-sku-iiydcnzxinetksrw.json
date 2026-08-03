@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/511Pzf0fSIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71gXRCaMSnL.jpg | https://m.media-amazon.com/images/I/41fWqhT++YL.jpg | https://m.media-amazon.com/images/I/51mxYvhwC-L.jpg | https://m.media-amazon.com/images/I/51tzQJ2xLUL.jpg | https://m.media-amazon.com/images/I/41AyDKQslwL.jpg | https://m.media-amazon.com/images/I/41en6Ac1QTL.jpg | https://m.media-amazon.com/images/I/51nH0rIK5LL.jpg | https://m.media-amazon.com/images/I/511Pzf0fSIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹35,441.01",
   "Model": "R18IW3-0"
 }

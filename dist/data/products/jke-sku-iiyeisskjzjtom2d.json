@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41tcQI0dTUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61k45KmnOuL.jpg | https://m.media-amazon.com/images/I/31sDZy3qChL.jpg | https://m.media-amazon.com/images/I/516cxGNnovL.jpg | https://m.media-amazon.com/images/I/51hmwakPmeL.jpg | https://m.media-amazon.com/images/I/61MG7QS2mcL.jpg | https://m.media-amazon.com/images/I/41LVrg9htXL.jpg | https://m.media-amazon.com/images/I/41tcQI0dTUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "66.69%",
   "SalePrice": "₹999.00",
   "Model": "WS-20"
 }

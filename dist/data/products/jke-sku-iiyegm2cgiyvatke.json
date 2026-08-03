@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41DmMrUOrkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81byxNsGksL.jpg | https://m.media-amazon.com/images/I/417-e1wdaVL.jpg | https://m.media-amazon.com/images/I/51uX1EYRK2L.jpg | https://m.media-amazon.com/images/I/514-lyAq0TL.jpg | https://m.media-amazon.com/images/I/41a8biRMlZL.jpg | https://m.media-amazon.com/images/I/41jUOnN6f+L.jpg | https://m.media-amazon.com/images/I/41DmMrUOrkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.6%",
   "SalePrice": "₹7,504.00",
   "Model": "1500W Grip Handle Rotary Hammer"
 }

@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/51fmUhR-tWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qxMcxMBpL.jpg | https://m.media-amazon.com/images/I/51qxMcxMBpL.jpg | https://m.media-amazon.com/images/I/51KQGmQlx0L.jpg | https://m.media-amazon.com/images/I/51JdNg3oMiL.jpg | https://m.media-amazon.com/images/I/51jU7+RE37L.jpg | https://m.media-amazon.com/images/I/51fmUhR-tWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "400.0 Milliliters",
-  "Discount": 0,
+  "Discount": "62.46%",
   "SalePrice": "₹375.00",
   "Country": "India"
 }

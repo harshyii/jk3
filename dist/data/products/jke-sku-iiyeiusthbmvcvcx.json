@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31+CFq7stpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617csZb0ZyL.jpg | https://m.media-amazon.com/images/I/41fsUp7ocqL.jpg | https://m.media-amazon.com/images/I/31EemXoROBL.jpg | https://m.media-amazon.com/images/I/31WVFW4s8YL.jpg | https://m.media-amazon.com/images/I/31+CFq7stpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.25%",
   "SalePrice": "₹359.00",
   "Model": "BST 45 / BST 50"
 }

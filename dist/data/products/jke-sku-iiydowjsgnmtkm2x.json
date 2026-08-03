@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41Yl4P9+yuS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61cDkOX8vKL.jpg | https://m.media-amazon.com/images/I/31wmeJUoEpL.jpg | https://m.media-amazon.com/images/I/51uVuAZQNJL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/5131cKwpGDL.jpg | https://m.media-amazon.com/images/I/51071-q+EUL.jpg | https://m.media-amazon.com/images/I/517ULtUv5nL.jpg | https://m.media-amazon.com/images/I/513rqF8rd-L.jpg | https://m.media-amazon.com/images/I/41Yl4P9+yuS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "440 Milliliters",
-  "Discount": 0,
+  "Discount": "28.15%",
   "SalePrice": "₹485.00",
   "Country": "India"
 }

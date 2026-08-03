@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/31QbKPQQagL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614Eec4sA3L.jpg | https://m.media-amazon.com/images/I/410HudoFUcL.jpg | https://m.media-amazon.com/images/I/41BVIWabGIL.jpg | https://m.media-amazon.com/images/I/31orpNZX8+L.jpg | https://m.media-amazon.com/images/I/41POgxeD1KL.jpg | https://m.media-amazon.com/images/I/31QbKPQQagL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "35.58%",
   "SalePrice": "₹2,899.00",
   "Model": "SHARK 55WATT"
 }

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/317d+yAsXTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51nNPj6-KTL.jpg | https://m.media-amazon.com/images/I/31eKHy4tG6L.jpg | https://m.media-amazon.com/images/I/41MnuM1HsRL.jpg | https://m.media-amazon.com/images/I/31o6JlfzfML.jpg | https://m.media-amazon.com/images/I/311eSs4TUgL.jpg | https://m.media-amazon.com/images/I/31EBUoSKUJL.jpg | https://m.media-amazon.com/images/I/317d+yAsXTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.61%",
   "SalePrice": "₹521.19",
   "Model": "41931"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41pGVsj30QL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51eOI+adYCL.jpg | https://m.media-amazon.com/images/I/31Jfms5hGgL.jpg | https://m.media-amazon.com/images/I/41FxTF+axsL.jpg | https://m.media-amazon.com/images/I/415h8gstbvL.jpg | https://m.media-amazon.com/images/I/41Dz6AYsB3L.jpg | https://m.media-amazon.com/images/I/41QLpsshxfL.jpg | https://m.media-amazon.com/images/I/41zSSvBMcZL.jpg | https://m.media-amazon.com/images/I/41pGVsj30QL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹35,210.48",
   "Model": "3485-20"
 }

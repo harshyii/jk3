@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51yeCP8RqRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61XTsr+5eRL.jpg | https://m.media-amazon.com/images/I/31qRguHGEIL.jpg | https://m.media-amazon.com/images/I/51SY8BkAIoL.jpg | https://m.media-amazon.com/images/I/41MEjqpKxoL.jpg | https://m.media-amazon.com/images/I/31WtDA8Fz0L.jpg | https://m.media-amazon.com/images/I/41K8oD6nfrL.jpg | https://m.media-amazon.com/images/I/51y-moslZHL.jpg | https://m.media-amazon.com/images/I/51yeCP8RqRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "38.85%",
   "SalePrice": "₹2,599.00",
   "Model": "DWE750T-IN"
 }

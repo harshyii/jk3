@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31IDefNGZjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/617wXBf9YKL.jpg | https://m.media-amazon.com/images/I/31rGg8ObxwL.jpg | https://m.media-amazon.com/images/I/416-VLYG59L.jpg | https://m.media-amazon.com/images/I/31jYca6pAIL.jpg | https://m.media-amazon.com/images/I/31fUvAJPkwL.jpg | https://m.media-amazon.com/images/I/31PG-tBNP0L.jpg | https://m.media-amazon.com/images/I/31VDCVHGJpL.jpg | https://m.media-amazon.com/images/I/31IDefNGZjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹14,140.54",
   "Model": "P460"
 }

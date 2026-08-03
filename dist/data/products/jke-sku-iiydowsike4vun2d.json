@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/31RvXfV3KkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61RFly+NjuL.jpg | https://m.media-amazon.com/images/I/41THZpyUVNL.jpg | https://m.media-amazon.com/images/I/31RvXfV3KkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.26%",
   "SalePrice": "₹4,165.00",
   "Model": "M9509B"
 }

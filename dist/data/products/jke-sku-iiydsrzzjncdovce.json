@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41KpiA4XOTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jtll2cxEL.jpg | https://m.media-amazon.com/images/I/41mQcYVrm1L.jpg | https://m.media-amazon.com/images/I/41fS7kZ6swL.jpg | https://m.media-amazon.com/images/I/41i46OySvOL.jpg | https://m.media-amazon.com/images/I/41e1q3provL.jpg | https://m.media-amazon.com/images/I/41KT33+R56L.jpg | https://m.media-amazon.com/images/I/41sFp0a8XiL.jpg | https://m.media-amazon.com/images/I/41KpiA4XOTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "36.01%",
   "SalePrice": "₹11,359.96",
   "Model": "P108"
 }

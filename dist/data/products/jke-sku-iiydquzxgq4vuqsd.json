@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31Ta9mOB-yS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qHEgjIGBL.jpg | https://m.media-amazon.com/images/I/31NSXu3JP8L.jpg | https://m.media-amazon.com/images/I/31Ta9mOB-yS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "6.25%",
   "SalePrice": "₹822.16",
   "Model": "DFH"
 }

@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/414alqARNjS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61KP1q62ynL.jpg | https://m.media-amazon.com/images/I/51QOPYUOIwL.jpg | https://m.media-amazon.com/images/I/41UlmbSlmWL.jpg | https://m.media-amazon.com/images/I/414alqARNjS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹1,799.00",
   "Model": "PZIN60020155"
 }

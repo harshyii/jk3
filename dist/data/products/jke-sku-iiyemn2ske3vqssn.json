@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41cjvmflDjL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510k+dcD6jL.jpg | https://m.media-amazon.com/images/I/41V-MvFavIL.jpg | https://m.media-amazon.com/images/I/41wgLzA7frL.jpg | https://m.media-amazon.com/images/I/41LniyX6SDL.jpg | https://m.media-amazon.com/images/I/31iy712pi-L.jpg | https://m.media-amazon.com/images/I/41HiD3YwEDL.jpg | https://m.media-amazon.com/images/I/41oMlvclFpL.jpg | https://m.media-amazon.com/images/I/41cjvmflDjL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "25.01%",
   "SalePrice": "₹3,769.00",
   "Model": "LED/501",
   "Country": "India"

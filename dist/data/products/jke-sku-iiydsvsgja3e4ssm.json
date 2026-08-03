@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/21-h2IMQUxL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21-h2IMQUxL.jpg | https://m.media-amazon.com/images/I/21-h2IMQUxL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "6.5%",
   "SalePrice": "₹5,610.00",
   "Model": "Dong DZC03-26 hammer"
 }

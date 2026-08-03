@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41qWK9GwzuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41DRMIgSQzL.jpg | https://m.media-amazon.com/images/I/41DRMIgSQzL.jpg | https://m.media-amazon.com/images/I/41qWK9GwzuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "500 Milliliters",
-  "Discount": 0,
+  "Discount": "29.05%",
   "SalePrice": "₹425.00",
   "Model": "51790"
 }

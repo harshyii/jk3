@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51W0FLU4FsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610FyynHPBL.jpg | https://m.media-amazon.com/images/I/31u85mYHPtL.jpg | https://m.media-amazon.com/images/I/411Adq0ce4L.jpg | https://m.media-amazon.com/images/I/51tXfG9cwFL.jpg | https://m.media-amazon.com/images/I/51LfZUWxBVL.jpg | https://m.media-amazon.com/images/I/51W0FLU4FsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.9%",
   "SalePrice": "₹31,799.00",
   "Model": "Herclues 1500+AB36060"
 }

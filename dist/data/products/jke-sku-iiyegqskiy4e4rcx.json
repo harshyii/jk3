@@ -78,9 +78,9 @@
     "https://m.media-amazon.com/images/I/41KmnODXhQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YTJGt++rL.jpg | https://m.media-amazon.com/images/I/31VuVZRWpAL.jpg | https://m.media-amazon.com/images/I/41I4mrQ3ycL.jpg | https://m.media-amazon.com/images/I/51DDQIzFFqL.jpg | https://m.media-amazon.com/images/I/41AE-veh9PL.jpg | https://m.media-amazon.com/images/I/410YUq4k1FL.jpg | https://m.media-amazon.com/images/I/51IPe7UFdCL.jpg | https://m.media-amazon.com/images/I/41KmnODXhQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.02%",
   "SalePrice": "₹1,499.00",
   "Model": "UE10101PQ_GY",
   "Country": "India"

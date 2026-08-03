@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/516VVZ8LGzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41aPXpBDHEL.jpg | https://m.media-amazon.com/images/I/41aPXpBDHEL.jpg | https://m.media-amazon.com/images/I/616jgO0l9oL.jpg | https://m.media-amazon.com/images/I/51FbbRbIlLL.jpg | https://m.media-amazon.com/images/I/51K8SfzQXSL.jpg | https://m.media-amazon.com/images/I/5104tD2FOQL.jpg | https://m.media-amazon.com/images/I/51kMq9otfdL.jpg | https://m.media-amazon.com/images/I/516VVZ8LGzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "78.05%",
   "SalePrice": "₹329.00",
   "Model": "Green wire Stripper"
 }

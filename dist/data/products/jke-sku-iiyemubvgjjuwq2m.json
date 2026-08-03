@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/21x9IpvzTHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51sPvZcO0ZL.jpg | https://m.media-amazon.com/images/I/21TAQ5M2JiL.jpg | https://m.media-amazon.com/images/I/21GaABaoXEL.jpg | https://m.media-amazon.com/images/I/21x9IpvzTHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.5%",
   "SalePrice": "₹159.00",
   "Model": "A733"
 }

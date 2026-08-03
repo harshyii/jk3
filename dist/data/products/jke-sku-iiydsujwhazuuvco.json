@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/31zxIGTpdgL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71dv0gJIn4L.jpg | https://m.media-amazon.com/images/I/3160DbfZOxL.jpg | https://m.media-amazon.com/images/I/41AYaui-fLL.jpg | https://m.media-amazon.com/images/I/31K3u8f8nxL.jpg | https://m.media-amazon.com/images/I/31BSmDQ1JmL.jpg | https://m.media-amazon.com/images/I/31xxhngMXOL.jpg | https://m.media-amazon.com/images/I/31-xGXfFhNL.jpg | https://m.media-amazon.com/images/I/31zxIGTpdgL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.00 Piece",
-  "Discount": 0,
+  "Discount": "27.37%",
   "SalePrice": "₹711.00",
   "Model": "SSA-3541-BIG-S"
 }

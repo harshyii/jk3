@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51y6bqsXIZS.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51VEPdqjtOS.jpg | https://m.media-amazon.com/images/I/51VEPdqjtOS.jpg | https://m.media-amazon.com/images/I/61uQMwhMWBS.jpg | https://m.media-amazon.com/images/I/51917OiF98S.jpg | https://m.media-amazon.com/images/I/511ULCUqV1S.jpg | https://m.media-amazon.com/images/I/51y6bqsXIZS.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "16.25%",
   "SalePrice": "₹3,174.00",
   "Model": "M-10302013",
   "Country": "India"

@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51lFvilUPzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51XAtzz7K2L.jpg | https://m.media-amazon.com/images/I/311SWT24p0L.jpg | https://m.media-amazon.com/images/I/41ABP1r57EL.jpg | https://m.media-amazon.com/images/I/51kK+EnR3BL.jpg | https://m.media-amazon.com/images/I/41BnIxPAlrL.jpg | https://m.media-amazon.com/images/I/51lFvilUPzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.54%",
   "SalePrice": "₹4,422.00",
   "Model": "CSD-010"
 }

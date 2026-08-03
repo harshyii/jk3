@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51EEW+xgKfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61eyOvCPvAL.jpg | https://m.media-amazon.com/images/I/31K8u15aqXL.jpg | https://m.media-amazon.com/images/I/51fzx-nZRtL.jpg | https://m.media-amazon.com/images/I/5191wXogMfL.jpg | https://m.media-amazon.com/images/I/51PawDO335L.jpg | https://m.media-amazon.com/images/I/51EgZcE289L.jpg | https://m.media-amazon.com/images/I/51ADitrAwcL.jpg | https://m.media-amazon.com/images/I/51EEW+xgKfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "7.54%",
   "SalePrice": "₹515.00",
   "Model": "SPW1PK"
 }

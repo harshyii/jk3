@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51sEROpiovL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71mFcQw22TL.jpg | https://m.media-amazon.com/images/I/41j-6MgCglL.jpg | https://m.media-amazon.com/images/I/514SrX6cTbL.jpg | https://m.media-amazon.com/images/I/41hXqgZ-HUL.jpg | https://m.media-amazon.com/images/I/416YkgJAeHL.jpg | https://m.media-amazon.com/images/I/41JoMTHAIPL.jpg | https://m.media-amazon.com/images/I/41eGRrM-TeL.jpg | https://m.media-amazon.com/images/I/51sEROpiovL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹61,556.41",
   "Model": "XT296ST"
 }

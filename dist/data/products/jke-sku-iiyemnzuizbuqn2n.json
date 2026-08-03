@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51aWWm4zQoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71BeubTmIqL.jpg | https://m.media-amazon.com/images/I/419VPW8SB3L.jpg | https://m.media-amazon.com/images/I/41y3tvAk+FL.jpg | https://m.media-amazon.com/images/I/41Vbx50Su7L.jpg | https://m.media-amazon.com/images/I/61Yi63tMyBL.jpg | https://m.media-amazon.com/images/I/51jecRTZVdL.jpg | https://m.media-amazon.com/images/I/41x22tnP4HL.jpg | https://m.media-amazon.com/images/I/51aWWm4zQoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "120.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.08%",
   "SalePrice": "₹299.00",
   "Country": "China"
 }

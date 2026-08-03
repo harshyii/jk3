@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/413rytQ7pAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51TJxAQqXyL.jpg | https://m.media-amazon.com/images/I/41GHh1D0FFL.jpg | https://m.media-amazon.com/images/I/41nTIatUgiL.jpg | https://m.media-amazon.com/images/I/413rytQ7pAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "72.63%",
   "SalePrice": "₹2,872.00",
   "Model": "BUFX_106HEX6"
 }

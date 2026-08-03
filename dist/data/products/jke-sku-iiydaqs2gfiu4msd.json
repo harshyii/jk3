@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/615gFpgEYKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6122AUi7pxL.jpg | https://m.media-amazon.com/images/I/31R9n9chEWL.jpg | https://m.media-amazon.com/images/I/51fQgvwJWWL.jpg | https://m.media-amazon.com/images/I/41BgHXE1kML.jpg | https://m.media-amazon.com/images/I/411uyyyKeRL.jpg | https://m.media-amazon.com/images/I/41RHXHCdbRL.jpg | https://m.media-amazon.com/images/I/51KnW2HhdSL.jpg | https://m.media-amazon.com/images/I/615gFpgEYKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "175.0 Grams",
-  "Discount": 0,
+  "Discount": "68.72%",
   "SalePrice": "₹2,763.00",
   "Model": "42111-0X6"
 }

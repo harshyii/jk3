@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/51F0OUxLX-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61mQ4WYVnLL.jpg | https://m.media-amazon.com/images/I/41Cp6KhKjkL.jpg | https://m.media-amazon.com/images/I/41nifrnXPxL.jpg | https://m.media-amazon.com/images/I/41uk3CQexRL.jpg | https://m.media-amazon.com/images/I/41iScfiICPL.jpg | https://m.media-amazon.com/images/I/41bk9uA4nQL.jpg | https://m.media-amazon.com/images/I/41OXfc7GNbL.jpg | https://m.media-amazon.com/images/I/51F0OUxLX-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.4%",
   "SalePrice": "₹5,647.00",
   "Model": "M3013005734",
   "Country": "USA"

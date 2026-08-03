@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51Sj+QbRZ7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wrwEsgW7L.jpg | https://m.media-amazon.com/images/I/31jOAHnX-UL.jpg | https://m.media-amazon.com/images/I/51T-82U5nsL.jpg | https://m.media-amazon.com/images/I/41lE0xhSFaL.jpg | https://m.media-amazon.com/images/I/51TkbGfhnGL.jpg | https://m.media-amazon.com/images/I/41Q6zWNsFAL.jpg | https://m.media-amazon.com/images/I/51ZXZmENWKL.jpg | https://m.media-amazon.com/images/I/51Sj+QbRZ7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.84%",
   "SalePrice": "₹2,949.00",
   "Model": "HGCM2280"
 }

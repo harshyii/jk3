@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41gm5exLefL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/817X1I0jR6L.jpg | https://m.media-amazon.com/images/I/516wkKaE4UL.jpg | https://m.media-amazon.com/images/I/51G-pZMl2IL.jpg | https://m.media-amazon.com/images/I/51BIhHYZ9eL.jpg | https://m.media-amazon.com/images/I/41Zqy4BY0SL.jpg | https://m.media-amazon.com/images/I/41qcKW8PThL.jpg | https://m.media-amazon.com/images/I/41gm5exLefL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "58.8%",
   "SalePrice": "₹4,499.00",
   "Model": "TIS-699"
 }

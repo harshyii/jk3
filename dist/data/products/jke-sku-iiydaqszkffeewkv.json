@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41qDvjod92L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qpTidc1VL.jpg | https://m.media-amazon.com/images/I/4162a-JF3FL.jpg | https://m.media-amazon.com/images/I/31LHh4V+9FL.jpg | https://m.media-amazon.com/images/I/41YqLoo1xQL.jpg | https://m.media-amazon.com/images/I/417swMTVQCL.jpg | https://m.media-amazon.com/images/I/41qDvjod92L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.82%",
   "SalePrice": "₹8,895.00",
   "Model": "HW102"
 }

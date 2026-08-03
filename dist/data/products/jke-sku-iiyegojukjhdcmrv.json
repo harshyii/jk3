@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/31rNxK5fibL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71oACjGDTSL.jpg | https://m.media-amazon.com/images/I/31mX5FGXZkL.jpg | https://m.media-amazon.com/images/I/41InFpnP95L.jpg | https://m.media-amazon.com/images/I/31rNxK5fibL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Grams",
-  "Discount": 0,
+  "Discount": "20.2%",
   "SalePrice": "₹399.00",
   "Model": "Polishes & Waxes 34",
   "Country": "India"

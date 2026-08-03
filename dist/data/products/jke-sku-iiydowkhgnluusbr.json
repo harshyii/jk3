@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/41QclBe3NEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Gm39sPOKL.jpg | https://m.media-amazon.com/images/I/41YZ-FO0OrL.jpg | https://m.media-amazon.com/images/I/41w4mZ6KNdL.jpg | https://m.media-amazon.com/images/I/41QclBe3NEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "260.00 Grams",
-  "Discount": 0,
+  "Discount": "4.14%",
   "SalePrice": "₹949.00",
   "Model": "F1-613762",
   "Country": "USA"

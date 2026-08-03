@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41bsB7LYcSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aQ1ojIKkL.jpg | https://m.media-amazon.com/images/I/414aPVM2k3L.jpg | https://m.media-amazon.com/images/I/41WLop0-Y3L.jpg | https://m.media-amazon.com/images/I/41TMAzEPUrL.jpg | https://m.media-amazon.com/images/I/51YX5NK47kL.jpg | https://m.media-amazon.com/images/I/51YsfV2rxjL.jpg | https://m.media-amazon.com/images/I/41KWhjsOhoL.jpg | https://m.media-amazon.com/images/I/41bsB7LYcSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹55,584.09",
   "Model": "DCF964B"
 }

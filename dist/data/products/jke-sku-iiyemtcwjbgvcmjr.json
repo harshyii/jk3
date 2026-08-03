@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/41zhnDGCVBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31ys7yL0-YL.jpg | https://m.media-amazon.com/images/I/31ys7yL0-YL.jpg | https://m.media-amazon.com/images/I/41zhnDGCVBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "43.35%",
   "SalePrice": "₹7,019.00",
   "Model": "22180"
 }

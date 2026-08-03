@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41XnZN0U08L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718SIS5YNWL.jpg | https://m.media-amazon.com/images/I/510A1qehHEL.jpg | https://m.media-amazon.com/images/I/41JWUoWhKQL.jpg | https://m.media-amazon.com/images/I/41w6ecntGWL.jpg | https://m.media-amazon.com/images/I/51AI+uL5EwL.jpg | https://m.media-amazon.com/images/I/41ztF2YW+aL.jpg | https://m.media-amazon.com/images/I/51V5UEt5dIL.jpg | https://m.media-amazon.com/images/I/41XnZN0U08L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,133.31",
   "Model": "JCS224",
   "Country": "USA"

@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31WONRh+wRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51mMPX+CB7L.jpg | https://m.media-amazon.com/images/I/31WONRh+wRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.32%",
   "SalePrice": "₹7,290.00",
   "Model": "GD0603"
 }

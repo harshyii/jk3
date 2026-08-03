@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41H7Dpj-M5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71rBS0OtBQL.jpg | https://m.media-amazon.com/images/I/51L2pE4203L.jpg | https://m.media-amazon.com/images/I/51HWMtY-yoL.jpg | https://m.media-amazon.com/images/I/41H7Dpj-M5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.03%",
   "SalePrice": "₹5,479.00",
   "Model": "WSFFDNRA12X57",
   "Country": "India"

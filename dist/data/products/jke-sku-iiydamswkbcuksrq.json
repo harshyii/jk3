@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/51kDHqafmtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kWn+WKhOL.jpg | https://m.media-amazon.com/images/I/414bt6SNqrL.jpg | https://m.media-amazon.com/images/I/51+y1STwp7L.jpg | https://m.media-amazon.com/images/I/51BvhqZN3YL.jpg | https://m.media-amazon.com/images/I/41j8V3iONuL.jpg | https://m.media-amazon.com/images/I/51wasrWM5tL.jpg | https://m.media-amazon.com/images/I/51kDHqafmtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.89%",
   "SalePrice": "₹31,709.00",
   "Model": "FS4200"
 }

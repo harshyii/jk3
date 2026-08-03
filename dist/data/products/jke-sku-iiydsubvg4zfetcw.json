@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41FgQTUe34L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/718Y6ewpBUL.jpg | https://m.media-amazon.com/images/I/41DBYrO9bhL.jpg | https://m.media-amazon.com/images/I/41pvl-YukNL.jpg | https://m.media-amazon.com/images/I/41TT5d+kkjL.jpg | https://m.media-amazon.com/images/I/41FgQTUe34L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.89%",
   "SalePrice": "₹2,376.00",
   "Model": "GHGSICAB080"
 }

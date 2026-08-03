@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/31OoDGK0ytL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51s4wU9GlCL.jpg | https://m.media-amazon.com/images/I/31hHm+xZBBL.jpg | https://m.media-amazon.com/images/I/51gdZj2i-wL.jpg | https://m.media-amazon.com/images/I/41lya4R1jeL.jpg | https://m.media-amazon.com/images/I/41yJ7RGifVL.jpg | https://m.media-amazon.com/images/I/41SidbdDFkL.jpg | https://m.media-amazon.com/images/I/31lVS3oaGDL.jpg | https://m.media-amazon.com/images/I/31OoDGK0ytL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.99%",
   "SalePrice": "₹19,733.00",
   "Model": "GHWRUAW015"
 }

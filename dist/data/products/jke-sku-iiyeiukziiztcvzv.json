@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/51vbHxeMIJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71KyaP+B8sL.jpg | https://m.media-amazon.com/images/I/41ZgD+0V70L.jpg | https://m.media-amazon.com/images/I/91KfO7nS5ML.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.png | https://m.media-amazon.com/images/I/51CXlfeZXbL.jpg | https://m.media-amazon.com/images/I/51kl9MgIZdL.jpg | https://m.media-amazon.com/images/I/51tM77XwO5L.jpg | https://m.media-amazon.com/images/I/512t8um6wGL.jpg | https://m.media-amazon.com/images/I/51vbHxeMIJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "10%",
   "SalePrice": "₹4,499.00",
   "Model": "D-350 Pro",
   "Country": "China"

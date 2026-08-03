@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41rKLCa-JNL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Q3jwb-huL.jpg | https://m.media-amazon.com/images/I/31FzBenerHL.jpg | https://m.media-amazon.com/images/I/31ZOyXq1+xL.jpg | https://m.media-amazon.com/images/I/31Hry8Ry+5L.jpg | https://m.media-amazon.com/images/I/41wXBvdRPfL.jpg | https://m.media-amazon.com/images/I/31EDxcDWFCL.jpg | https://m.media-amazon.com/images/I/41mth04NUCL.jpg | https://m.media-amazon.com/images/I/41rKLCa-JNL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "13.39%",
   "SalePrice": "₹3,833.00",
   "Model": "DWHT10998"
 }

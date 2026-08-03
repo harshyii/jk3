@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/21pTmAll5sL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41DgVjZua3L.jpg | https://m.media-amazon.com/images/I/21NZjFHN28L.jpg | https://m.media-amazon.com/images/I/31rp3a99zxL.jpg | https://m.media-amazon.com/images/I/31TzuTvgqRL.jpg | https://m.media-amazon.com/images/I/31cmU5sWXGL.jpg | https://m.media-amazon.com/images/I/31Kymk9y1NL.jpg | https://m.media-amazon.com/images/I/21pTmAll5sL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.72%",
   "SalePrice": "₹2,429.00",
   "Country": "‎ Mexico"
 }

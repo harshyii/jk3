@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/51o8zhvgO2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wkMxbkaSL.jpg | https://m.media-amazon.com/images/I/41qSvi6-rRL.jpg | https://m.media-amazon.com/images/I/51etq5gJIYL.jpg | https://m.media-amazon.com/images/I/51f9SywPuJL.jpg | https://m.media-amazon.com/images/I/51KmDr+5DPL.jpg | https://m.media-amazon.com/images/I/51Oq7b9xJlL.jpg | https://m.media-amazon.com/images/I/51PuwawXYbL.jpg | https://m.media-amazon.com/images/I/51o8zhvgO2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.38%",
   "SalePrice": "₹32,354.00",
   "Model": "XFD16Z"
 }

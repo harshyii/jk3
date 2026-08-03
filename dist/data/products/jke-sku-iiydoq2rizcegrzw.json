@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/31huPuQsaYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41o9KirSm8L.jpg | https://m.media-amazon.com/images/I/21L5xYcHlGL.jpg | https://m.media-amazon.com/images/I/21lt2iNTIXL.jpg | https://m.media-amazon.com/images/I/21bxHynQ6HL.jpg | https://m.media-amazon.com/images/I/21drpmOOEtL.jpg | https://m.media-amazon.com/images/I/31huPuQsaYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "18.87%",
   "SalePrice": "₹1,083.03",
   "Model": "CSP/RRT/12/UG"
 }

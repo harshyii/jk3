@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41ElxTwAogL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713imMhT4VL.jpg | https://m.media-amazon.com/images/I/311Ydfeep0L.jpg | https://m.media-amazon.com/images/I/41ElxTwAogL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40.01%",
   "SalePrice": "₹2,825.00",
   "Model": "D071736"
 }

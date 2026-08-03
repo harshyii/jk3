@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41bcreQ9CTL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61FBr11Z-OL.jpg | https://m.media-amazon.com/images/I/31xS6zcePSL.jpg | https://m.media-amazon.com/images/I/41JpDhHbLEL.jpg | https://m.media-amazon.com/images/I/41oyFkHD-JL.jpg | https://m.media-amazon.com/images/I/51CJ+cyGyJL.jpg | https://m.media-amazon.com/images/I/41goV2uaYFL.jpg | https://m.media-amazon.com/images/I/41bcreQ9CTL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "31.38%",
   "SalePrice": "₹549.00",
   "Model": "BT-61C1",
   "Country": "India"

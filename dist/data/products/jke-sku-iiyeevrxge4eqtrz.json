@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/61mRrRbsygL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71SNW8p2DtL.jpg | https://m.media-amazon.com/images/I/51XgNUxSSvL.jpg | https://m.media-amazon.com/images/I/51NiDGSYpAL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51egrpbZQlL.jpg | https://m.media-amazon.com/images/I/614K6WyOQ7L.jpg | https://m.media-amazon.com/images/I/511H3Uq2qwL.jpg | https://m.media-amazon.com/images/I/51wvRpqRGPL.jpg | https://m.media-amazon.com/images/I/61mRrRbsygL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "8.00 Count",
-  "Discount": 0,
+  "Discount": "4.55%",
   "SalePrice": "₹420.00",
   "Country": "India"
 }

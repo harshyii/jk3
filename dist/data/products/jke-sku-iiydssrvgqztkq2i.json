@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41NsFC-3TIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wiF4boavL.jpg | https://m.media-amazon.com/images/I/41E7Y52xYoL.jpg | https://m.media-amazon.com/images/I/41vF-vM0yQL.jpg | https://m.media-amazon.com/images/I/41v45199InL.jpg | https://m.media-amazon.com/images/I/41vqw8cLh3L.jpg | https://m.media-amazon.com/images/I/31cjDVdF3YL.jpg | https://m.media-amazon.com/images/I/41vS6qF8DpL.jpg | https://m.media-amazon.com/images/I/41NsFC-3TIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.39%",
   "SalePrice": "₹2,589.00",
   "Model": "SC200-B1",
   "Country": "China"

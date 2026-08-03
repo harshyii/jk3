@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51qljx6q30L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MqlrHKmCL.jpg | https://m.media-amazon.com/images/I/31rsBwYjHyL.jpg | https://m.media-amazon.com/images/I/31QhXCJO9GL.jpg | https://m.media-amazon.com/images/I/31NIrLifhLL.jpg | https://m.media-amazon.com/images/I/31Rl7erHcpL.jpg | https://m.media-amazon.com/images/I/418P6NkyVvL.jpg | https://m.media-amazon.com/images/I/31ndg4cEiLL.jpg | https://m.media-amazon.com/images/I/51qljx6q30L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "44.4%",
   "SalePrice": "₹283.00",
   "Model": "SP2237"
 }

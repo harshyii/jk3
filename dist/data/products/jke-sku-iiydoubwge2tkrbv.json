@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/31yZvFfwgeL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kvKj-trUL.jpg | https://m.media-amazon.com/images/I/31yZvFfwgeL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "8.03%",
   "SalePrice": "₹1,099.00",
   "Model": "SCC 1210e",
   "Country": "India"

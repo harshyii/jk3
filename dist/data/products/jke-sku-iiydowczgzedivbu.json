@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41pe+gU1VmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aj4Y+H8oL.jpg | https://m.media-amazon.com/images/I/41yzqKvd-WL.jpg | https://m.media-amazon.com/images/I/51potcrm6IL.jpg | https://m.media-amazon.com/images/I/51NrO7DCPvL.jpg | https://m.media-amazon.com/images/I/417K81cOEvL.jpg | https://m.media-amazon.com/images/I/51aqa-zCxZL.jpg | https://m.media-amazon.com/images/I/41pe+gU1VmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "76.5%",
   "SalePrice": "₹169.00",
   "Model": "G35"
 }

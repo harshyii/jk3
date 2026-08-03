@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/3132yL5TVoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71nn3HYfA3L.jpg | https://m.media-amazon.com/images/I/41566h+B-7L.jpg | https://m.media-amazon.com/images/I/41XFOLatX1L.jpg | https://m.media-amazon.com/images/I/31tmjev7-KL.jpg | https://m.media-amazon.com/images/I/31QKVsxjiXL.jpg | https://m.media-amazon.com/images/I/31UkSNg6MCL.jpg | https://m.media-amazon.com/images/I/31M1w60mXRL.jpg | https://m.media-amazon.com/images/I/3132yL5TVoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹32,369.40",
   "Model": "PSBRS01K"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51u1pH9s9hL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41zUg+TJlWL.jpg | https://m.media-amazon.com/images/I/21HSGv59WvL.jpg | https://m.media-amazon.com/images/I/41JLO55LDZL.jpg | https://m.media-amazon.com/images/I/41NPCh5-7mL.jpg | https://m.media-amazon.com/images/I/514QWg-dHjL.jpg | https://m.media-amazon.com/images/I/51kTeQiDCUL.jpg | https://m.media-amazon.com/images/I/51u1pH9s9hL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.23%",
   "SalePrice": "₹9,200.00",
   "Model": "1750 SW 12V"
 }

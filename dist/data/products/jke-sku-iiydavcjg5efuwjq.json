@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51D0qZ2jCML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61xVi1rC5VL.jpg | https://m.media-amazon.com/images/I/517+1rMj7SL.jpg | https://m.media-amazon.com/images/I/51D0qZ2jCML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "7.69%",
   "SalePrice": "₹25,939.80",
   "Model": "DWMT73808"
 }

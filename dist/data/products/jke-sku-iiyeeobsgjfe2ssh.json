@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/31LBytMc-EL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71q3hqmWYfL.jpg | https://m.media-amazon.com/images/I/31ODsnlAPkL.jpg | https://m.media-amazon.com/images/I/31LBytMc-EL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100 Milliliters",
-  "Discount": 0,
+  "Discount": "8.08%",
   "SalePrice": "₹239.00",
   "Model": "TW23"
 }

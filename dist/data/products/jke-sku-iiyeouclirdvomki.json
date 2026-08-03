@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31fNqOr+LOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51t4SUvC2rL.jpg | https://m.media-amazon.com/images/I/31tqUd5OabL.jpg | https://m.media-amazon.com/images/I/31d05Vv0erL.jpg | https://m.media-amazon.com/images/I/31sFIONT8vL.jpg | https://m.media-amazon.com/images/I/31fNqOr+LOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "21.71%",
   "SalePrice": "₹5,950.00",
   "Model": "XPT 534"
 }

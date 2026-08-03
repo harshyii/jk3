@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41uudLh0n8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71wt0G2tVQL.jpg | https://m.media-amazon.com/images/I/41L+gTWRc4L.jpg | https://m.media-amazon.com/images/I/41lqkwOV1VL.jpg | https://m.media-amazon.com/images/I/417M9EPPl-L.jpg | https://m.media-amazon.com/images/I/31z2XiKB1aL.jpg | https://m.media-amazon.com/images/I/41hYJQEZXXL.jpg | https://m.media-amazon.com/images/I/41wI2YthnZL.jpg | https://m.media-amazon.com/images/I/41uudLh0n8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1200 Milliliters",
-  "Discount": 0,
+  "Discount": "38.59%",
   "SalePrice": "₹1,179.00",
   "Country": "India"
 }

@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/414Wx2Vcp4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41ajvoE7cuL.jpg | https://m.media-amazon.com/images/I/31ScEgiDiRL.jpg | https://m.media-amazon.com/images/I/41JM5pkjaoL.jpg | https://m.media-amazon.com/images/I/41V-2NxDb0L.jpg | https://m.media-amazon.com/images/I/514ZIdUlF5L.jpg | https://m.media-amazon.com/images/I/414Wx2Vcp4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "21.08%",
   "SalePrice": "₹2,999.00",
   "Model": "TD-10"
 }

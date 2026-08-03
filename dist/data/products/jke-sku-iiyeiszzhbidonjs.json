@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/518PX2+2G9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51eyMg0AKtL.jpg | https://m.media-amazon.com/images/I/31BAffY5c5L.jpg | https://m.media-amazon.com/images/I/313kzsoyb5L.jpg | https://m.media-amazon.com/images/I/31nSeKF7T-L.jpg | https://m.media-amazon.com/images/I/31LwIuDKYGL.jpg | https://m.media-amazon.com/images/I/41hvCM43c1L.jpg | https://m.media-amazon.com/images/I/41PRJjlSVTL.jpg | https://m.media-amazon.com/images/I/518PX2+2G9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "29.64%",
   "SalePrice": "₹3,306.00",
   "Model": "ATORSEMERI73028908"
 }

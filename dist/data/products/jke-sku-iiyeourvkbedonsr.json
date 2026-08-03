@@ -64,8 +64,8 @@
     "https://m.media-amazon.com/images/I/51BtQyzanZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51LrbDMRsQL.jpg | https://m.media-amazon.com/images/I/31ekklaJT8L.jpg | https://m.media-amazon.com/images/I/41dCCmNZilL.jpg | https://m.media-amazon.com/images/I/41s95eHyV1L.jpg | https://m.media-amazon.com/images/I/51K0lEMH9KL.jpg | https://m.media-amazon.com/images/I/51YX-ajGsjL.jpg | https://m.media-amazon.com/images/I/51Xdu3OPcOL.jpg | https://m.media-amazon.com/images/I/51BtQyzanZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "250.0 Milliliters",
-  "Discount": 0,
+  "Discount": "66.74%",
   "SalePrice": "₹299.00"
 }

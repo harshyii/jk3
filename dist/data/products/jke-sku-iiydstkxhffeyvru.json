@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41h86nlWnnL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61d6OUJk5RL.jpg | https://m.media-amazon.com/images/I/4105qW0o-3L.jpg | https://m.media-amazon.com/images/I/41nyitPIZ3L.jpg | https://m.media-amazon.com/images/I/31uno-X+eQL.jpg | https://m.media-amazon.com/images/I/41snzozlIFL.jpg | https://m.media-amazon.com/images/I/41h86nlWnnL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "39.47%",
   "SalePrice": "₹299.00",
   "Model": "D-73807",
   "Country": "China"

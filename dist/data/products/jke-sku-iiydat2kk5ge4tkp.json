@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51Lk2QYQ98L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71P2GSRQ22L.jpg | https://m.media-amazon.com/images/I/41i+asqdLDL.jpg | https://m.media-amazon.com/images/I/41jeCuRY4OL.jpg | https://m.media-amazon.com/images/I/41FQ-MP5GsL.jpg | https://m.media-amazon.com/images/I/41LajLFmrOL.jpg | https://m.media-amazon.com/images/I/41vcwQwK0CL.jpg | https://m.media-amazon.com/images/I/41bf8D2HD6L.jpg | https://m.media-amazon.com/images/I/51Lk2QYQ98L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "28.13%",
   "SalePrice": "₹12,772.00",
   "Model": "BDEMS600"
 }

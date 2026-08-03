@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/315IYW1-UhL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61f69XxUzDL.jpg | https://m.media-amazon.com/images/I/31zQbQsAAmL.jpg | https://m.media-amazon.com/images/I/31G9LxQri2L.jpg | https://m.media-amazon.com/images/I/31tXEZxD1DL.jpg | https://m.media-amazon.com/images/I/315IYW1-UhL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "14.8%",
   "SalePrice": "₹582.75",
   "Model": "35800"
 }

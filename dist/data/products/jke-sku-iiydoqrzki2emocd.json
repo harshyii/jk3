@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41mF8DdPjAL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/612-D4ptikL.jpg | https://m.media-amazon.com/images/I/41LD2TdQfwL.jpg | https://m.media-amazon.com/images/I/31qjBvoUvbL.jpg | https://m.media-amazon.com/images/I/41RMfwF22EL.jpg | https://m.media-amazon.com/images/I/31hyX1keOLL.jpg | https://m.media-amazon.com/images/I/41dvLuVJInL.jpg | https://m.media-amazon.com/images/I/41FnsI-L6DL.jpg | https://m.media-amazon.com/images/I/41mF8DdPjAL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.88%",
   "SalePrice": "₹32,766.00",
   "Model": "BCG720N-XJ"
 }

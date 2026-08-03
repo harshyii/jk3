@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21Ahz2sLN6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81pQ03NPO-L.jpg | https://m.media-amazon.com/images/I/41HptEaWDsL.jpg | https://m.media-amazon.com/images/I/41vp2egnHSL.jpg | https://m.media-amazon.com/images/I/21Ahz2sLN6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.00 Count",
-  "Discount": 0,
+  "Discount": "17.28%",
   "SalePrice": "₹2,770.33",
   "Model": "04.845965",
   "Country": "USA"

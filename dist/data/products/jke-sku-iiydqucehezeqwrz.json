@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/31ZVpxr7ozL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61DEHk1q4EL.jpg | https://m.media-amazon.com/images/I/312wfWvhyPL.jpg | https://m.media-amazon.com/images/I/416hTxOnWFL.jpg | https://m.media-amazon.com/images/I/41OEVlZio3L.jpg | https://m.media-amazon.com/images/I/41WshS5ltBL.jpg | https://m.media-amazon.com/images/I/41q+XpfV1NL.jpg | https://m.media-amazon.com/images/I/41Lyb-qCsdL.jpg | https://m.media-amazon.com/images/I/31ZVpxr7ozL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "22.23%",
   "SalePrice": "₹14,699.02",
   "Model": "AP0013"
 }

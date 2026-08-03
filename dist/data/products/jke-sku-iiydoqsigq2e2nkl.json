@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41UahBiUVXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/719NfqNAXvL.jpg | https://m.media-amazon.com/images/I/41UahBiUVXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "4.35%",
   "SalePrice": "₹220.00",
   "Model": "Mini Isolator DP"
 }

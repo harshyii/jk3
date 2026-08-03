@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/317xygVBbZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ZR3pTC3JL.jpg | https://m.media-amazon.com/images/I/31sVHbFmv6L.jpg | https://m.media-amazon.com/images/I/31r44rb-gHL.jpg | https://m.media-amazon.com/images/I/41tEJ19klvL.jpg | https://m.media-amazon.com/images/I/317xygVBbZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "35.71%",
   "SalePrice": "₹9,000.00",
   "Model": "Xp-wm-200a"
 }

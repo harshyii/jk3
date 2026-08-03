@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41AIsICPL1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51J45qGq7iL.jpg | https://m.media-amazon.com/images/I/41M1MDUe3CL.jpg | https://m.media-amazon.com/images/I/41WMWTpOKIL.jpg | https://m.media-amazon.com/images/I/41wqM+K3WqL.jpg | https://m.media-amazon.com/images/I/51sr8KO4JnL.jpg | https://m.media-amazon.com/images/I/51eWzOXwX+L.jpg | https://m.media-amazon.com/images/I/41AIsICPL1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "33.34%",
   "SalePrice": "₹2,999.00",
   "Model": "REGAL (AC+DC)"
 }

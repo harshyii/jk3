@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/419MjwVCo3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41f0klhNfJL.jpg | https://m.media-amazon.com/images/I/31Y13V6idJL.jpg | https://m.media-amazon.com/images/I/315Nd3wAdyL.jpg | https://m.media-amazon.com/images/I/414ioVkGphL.jpg | https://m.media-amazon.com/images/I/419MjwVCo3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "39.91%",
   "SalePrice": "₹1,223.00",
   "Model": "403-02",
   "Country": "USA"

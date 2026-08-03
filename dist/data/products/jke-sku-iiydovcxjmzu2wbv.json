@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/41M6NOmpBkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61i2LMqmYlL.jpg | https://m.media-amazon.com/images/I/4184HziuoDL.jpg | https://m.media-amazon.com/images/I/41XmvgHg5yL.jpg | https://m.media-amazon.com/images/I/4180UpO-5BL.jpg | https://m.media-amazon.com/images/I/51d-Oyk7bnL.jpg | https://m.media-amazon.com/images/I/41M6NOmpBkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "64.41%",
   "SalePrice": "₹13,028.00",
   "Model": "DCD701B"
 }

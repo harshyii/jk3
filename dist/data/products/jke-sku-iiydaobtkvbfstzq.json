@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51BGGNi2pKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61lpDXoz+rL.jpg | https://m.media-amazon.com/images/I/41Luh6lhw3L.jpg | https://m.media-amazon.com/images/I/61KxBlzvbNL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51M-jl0DufL.jpg | https://m.media-amazon.com/images/I/51-el1-m2zL.jpg | https://m.media-amazon.com/images/I/51YRNoyYI9L.jpg | https://m.media-amazon.com/images/I/51BGGNi2pKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "750.0 Milliliters",
-  "Discount": 0,
+  "Discount": "30.31%",
   "SalePrice": "₹899.00",
   "Model": "287400-755"
 }

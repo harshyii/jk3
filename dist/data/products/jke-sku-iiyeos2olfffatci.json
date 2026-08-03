@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51RrlNuNpCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81D+nF2189L.jpg | https://m.media-amazon.com/images/I/41fJqHWUSHL.jpg | https://m.media-amazon.com/images/I/51DZtE6CK+L.jpg | https://m.media-amazon.com/images/I/41pnBAv0jwL.jpg | https://m.media-amazon.com/images/I/41iG6iRp6xL.jpg | https://m.media-amazon.com/images/I/514Hp3jgmdL.jpg | https://m.media-amazon.com/images/I/51SKcs+Lv-L.jpg | https://m.media-amazon.com/images/I/51RrlNuNpCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63%",
   "SalePrice": "₹4,199.00",
   "Model": "HGCM3043"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/31cu+gKMzGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ozPDqqV+L.jpg | https://m.media-amazon.com/images/I/21XMiTOOfRL.jpg | https://m.media-amazon.com/images/I/71Yi6mE8euL.jpg | https://m.media-amazon.com/images/I/61LNqIybm-L.jpg | https://m.media-amazon.com/images/I/414iWAGvi0L.jpg | https://m.media-amazon.com/images/I/51rBdjcFs5L.jpg | https://m.media-amazon.com/images/I/31US0SuqOML.jpg | https://m.media-amazon.com/images/I/31cu+gKMzGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "30.26%",
   "SalePrice": "₹13,599.00",
   "Model": "DCF512N-XJ"
 }

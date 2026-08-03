@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41PiNq73EZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71g79+32pjL.jpg | https://m.media-amazon.com/images/I/414DjdCcg-L.jpg | https://m.media-amazon.com/images/I/41xCuJr52hL.jpg | https://m.media-amazon.com/images/I/41q+gLW+JLL.jpg | https://m.media-amazon.com/images/I/41-v-llDIbL.jpg | https://m.media-amazon.com/images/I/41yHYfZtGWL.jpg | https://m.media-amazon.com/images/I/514A89KZihL.jpg | https://m.media-amazon.com/images/I/41PiNq73EZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.03%",
   "SalePrice": "₹679.00",
   "Model": "E03"
 }

@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/31tZ0THmRtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91V9l-2F2OL.jpg | https://m.media-amazon.com/images/I/51WOzXvQFZL.jpg | https://m.media-amazon.com/images/I/31kcUzuUOmL.jpg | https://m.media-amazon.com/images/I/31ym0CAm8DL.jpg | https://m.media-amazon.com/images/I/31tZ0THmRtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "19.52%",
   "SalePrice": "₹3,274.00",
   "Model": "KIT/SKT/H/1-4/19/UG"
 }

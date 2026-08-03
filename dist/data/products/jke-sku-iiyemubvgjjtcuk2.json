@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21-smena14L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51LiDl0dXEL.jpg | https://m.media-amazon.com/images/I/21OVHt4+umL.jpg | https://m.media-amazon.com/images/I/21ugWqgZBRL.jpg | https://m.media-amazon.com/images/I/219EMh5umLL.jpg | https://m.media-amazon.com/images/I/213C3Y7p2bL.jpg | https://m.media-amazon.com/images/I/21-smena14L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.47%",
   "SalePrice": "₹709.00",
   "Model": "A715"
 }

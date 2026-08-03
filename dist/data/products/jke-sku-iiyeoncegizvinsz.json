@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51zQD4F+4NL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ShxxGlOWL.jpg | https://m.media-amazon.com/images/I/518WXbjMRnL.jpg | https://m.media-amazon.com/images/I/51bgxJIw++L.jpg | https://m.media-amazon.com/images/I/510ga7zy+EL.jpg | https://m.media-amazon.com/images/I/510hzm07qkL.jpg | https://m.media-amazon.com/images/I/51mGybEUHyL.jpg | https://m.media-amazon.com/images/I/51zQD4F+4NL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Pack",
-  "Discount": 0,
+  "Discount": "54.55%",
   "SalePrice": "₹4,999.00",
   "Model": "KP-5"
 }

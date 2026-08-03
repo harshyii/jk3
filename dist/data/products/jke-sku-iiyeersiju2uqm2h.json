@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41uSVE0Y7tL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61-0N8fcuPL.jpg | https://m.media-amazon.com/images/I/41ybSQlSmZL.jpg | https://m.media-amazon.com/images/I/41YgjLuKDEL.jpg | https://m.media-amazon.com/images/I/41NHAAkZnzL.jpg | https://m.media-amazon.com/images/I/41kYOCoLQJL.jpg | https://m.media-amazon.com/images/I/41GHFr1NRPL.jpg | https://m.media-amazon.com/images/I/41uSVE0Y7tL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "26.75%",
   "SalePrice": "₹29,299.00",
   "Model": "Hercules1500+RC25000+T",
   "Country": "India"

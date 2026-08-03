@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41-S1ZtX96L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713sOm2+PEL.jpg | https://m.media-amazon.com/images/I/41U3gmX8FaL.jpg | https://m.media-amazon.com/images/I/41-S1ZtX96L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "53.7%",
   "SalePrice": "₹25,368.00",
   "Model": "R18PD3-215GZ"
 }

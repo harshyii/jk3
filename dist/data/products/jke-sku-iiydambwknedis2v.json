@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/41qyH5QrYSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71U7Nv4Y-UL.jpg | https://m.media-amazon.com/images/I/41X29virj1L.jpg | https://m.media-amazon.com/images/I/414+hqbNDpL.jpg | https://m.media-amazon.com/images/I/415af1mCFOL.jpg | https://m.media-amazon.com/images/I/41Fm+0m9daL.jpg | https://m.media-amazon.com/images/I/51hxSocRPFL.jpg | https://m.media-amazon.com/images/I/41qyH5QrYSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "3790.0 Milliliters",
-  "Discount": 0,
+  "Discount": "25.82%",
   "SalePrice": "₹2,819.00",
   "Model": "D12001",
   "Country": "USA"

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41TR9kwL6cL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61+ErGhMdPL.jpg | https://m.media-amazon.com/images/I/41TR9kwL6cL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.8%",
   "SalePrice": "₹4,459.00",
   "Model": "AG130018"
 }

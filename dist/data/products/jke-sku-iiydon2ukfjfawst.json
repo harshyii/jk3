@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41n7rhTd55L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yMh9Hg1XL.jpg | https://m.media-amazon.com/images/I/41L3GSZRcuL.jpg | https://m.media-amazon.com/images/I/51ReoBtAxWL.jpg | https://m.media-amazon.com/images/I/41FzCVPjQwL.jpg | https://m.media-amazon.com/images/I/41wf9HvfsxL.jpg | https://m.media-amazon.com/images/I/51pFi1MduxL.jpg | https://m.media-amazon.com/images/I/41mYoXd2l0L.jpg | https://m.media-amazon.com/images/I/41n7rhTd55L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "36%",
   "SalePrice": "₹64.00",
   "Model": "Invictus_EAN_IJABIGAADBAEI_GM",
   "Country": "India"

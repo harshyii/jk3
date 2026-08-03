@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41SKZogM7nL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41SKZogM7nL.jpg | https://m.media-amazon.com/images/I/41SKZogM7nL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Case",
-  "Discount": 0,
+  "Discount": "41.45%",
   "SalePrice": "₹702.00",
   "Model": "SI0248"
 }

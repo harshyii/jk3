@@ -41,9 +41,9 @@
     "https://m.media-amazon.com/images/I/51n0ljbF7VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81nE+I1NkIL.jpg | https://m.media-amazon.com/images/I/51nD7teuGfL.jpg | https://m.media-amazon.com/images/I/51n0ljbF7VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "69.33%",
   "SalePrice": "₹23,000.00",
   "Model": "HKTHP31261"
 }

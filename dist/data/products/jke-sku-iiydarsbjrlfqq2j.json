@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51FyUQbwFCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51PHwZT5JOL.jpg | https://m.media-amazon.com/images/I/41BDvMydlVL.jpg | https://m.media-amazon.com/images/I/51HfPs6M5VL.jpg | https://m.media-amazon.com/images/I/514ue8j1FDL.jpg | https://m.media-amazon.com/images/I/61EmHGMXV8L.jpg | https://m.media-amazon.com/images/I/51+6fstqJgL.jpg | https://m.media-amazon.com/images/I/51364Y4JO3L.jpg | https://m.media-amazon.com/images/I/51FyUQbwFCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "64.11%",
   "SalePrice": "₹3,945.58",
   "Model": "SPI_404_16SW"
 }

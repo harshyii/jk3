@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51gzem4sr9L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61IXBEXfNcL.jpg | https://m.media-amazon.com/images/I/41BZR1NYIJL.jpg | https://m.media-amazon.com/images/I/51p86XRI2qL.jpg | https://m.media-amazon.com/images/I/51QMHqSCBhL.jpg | https://m.media-amazon.com/images/I/51gzem4sr9L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.84%",
   "SalePrice": "₹3,600.00",
   "Model": "XPT 444"
 }

@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/310-4Uhk5tL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51BkGT6J1eL.jpg | https://m.media-amazon.com/images/I/31b8GnrfR2L.jpg | https://m.media-amazon.com/images/I/310-4Uhk5tL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.17%",
   "SalePrice": "₹599.00",
   "Model": "DER 36 x 41"
 }

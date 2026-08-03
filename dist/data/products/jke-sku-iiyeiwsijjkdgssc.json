@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41H3hNRBemL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zqv+i9eTL.jpg | https://m.media-amazon.com/images/I/41XYcjgjy6L.jpg | https://m.media-amazon.com/images/I/61v71KcqvNL.SX38_SY50_CR,0,0,38,50_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41OQrS04T0L.jpg | https://m.media-amazon.com/images/I/41Y7k8h6BOL.jpg | https://m.media-amazon.com/images/I/51uBzM74YjL.jpg | https://m.media-amazon.com/images/I/41QXbkhlmrL.jpg | https://m.media-amazon.com/images/I/41H3hNRBemL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "32.15%",
   "SalePrice": "₹1,899.00",
   "Country": "India"
 }

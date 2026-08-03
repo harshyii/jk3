@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/51tNvDBzd3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81ZC6BKbnTL.jpg | https://m.media-amazon.com/images/I/41fuZWkPstL.jpg | https://m.media-amazon.com/images/I/31Ws+aZL9kL.jpg | https://m.media-amazon.com/images/I/414-ClmRFkL.jpg | https://m.media-amazon.com/images/I/51hu5U-hucL.jpg | https://m.media-amazon.com/images/I/41gxQ5eXGPL.jpg | https://m.media-amazon.com/images/I/51tNvDBzd3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "10.05%",
   "SalePrice": "₹179.00",
   "Model": "17091CLR"
 }

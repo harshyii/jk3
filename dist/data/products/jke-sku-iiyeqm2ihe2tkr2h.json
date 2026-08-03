@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/319at4iw+5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vztNn+WnL.jpg | https://m.media-amazon.com/images/I/31vTo+roHpL.jpg | https://m.media-amazon.com/images/I/31tHvvljXZL.jpg | https://m.media-amazon.com/images/I/31xV5Ipf0tL.jpg | https://m.media-amazon.com/images/I/319at4iw+5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "55.03%",
   "SalePrice": "₹9,889.00",
   "Model": "MS500MS",
   "Country": "India"

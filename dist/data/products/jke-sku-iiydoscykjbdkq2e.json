@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/515GKC5ceOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61EHI+FrByL.jpg | https://m.media-amazon.com/images/I/31TDj8XY72L.jpg | https://m.media-amazon.com/images/I/51JRmKOKwPL.jpg | https://m.media-amazon.com/images/I/514WW8LJK6L.jpg | https://m.media-amazon.com/images/I/51b00UsvMDL.jpg | https://m.media-amazon.com/images/I/51zB+JBuL3L.jpg | https://m.media-amazon.com/images/I/51LfhHzADzL.jpg | https://m.media-amazon.com/images/I/515GKC5ceOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "453.4 Grams",
-  "Discount": 0,
+  "Discount": "34.64%",
   "SalePrice": "₹3,665.09",
   "Model": "SW",
   "Country": "USA"

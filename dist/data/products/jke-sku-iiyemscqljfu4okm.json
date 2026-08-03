@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41Lq0ofQ9VL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618IJ7jHSxL.jpg | https://m.media-amazon.com/images/I/41XAMVjmPzL.jpg | https://m.media-amazon.com/images/I/611vIYAEN9L.jpg | https://m.media-amazon.com/images/I/51gmI4L3DIL.jpg | https://m.media-amazon.com/images/I/41Lq0ofQ9VL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "46.69%",
   "SalePrice": "₹3,198.00",
   "Model": "20V Cordless_04"
 }

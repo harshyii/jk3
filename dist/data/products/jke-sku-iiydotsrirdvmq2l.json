@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81PLR9N61OL.jpg | https://m.media-amazon.com/images/I/41KEDYQNzjL.jpg | https://m.media-amazon.com/images/I/41X+s5thMzL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "12.55%",
   "SalePrice": "₹439.00",
   "Model": "FCP08 & WBJ10"
 }

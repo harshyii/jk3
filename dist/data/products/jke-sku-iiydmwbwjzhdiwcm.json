@@ -39,9 +39,9 @@
     "https://m.media-amazon.com/images/I/319eUQ9y8mL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41Kv4JtjxzL.jpg | https://m.media-amazon.com/images/I/319eUQ9y8mL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "68.48%",
   "SalePrice": "₹2,188.00",
   "Model": "ACC151"
 }

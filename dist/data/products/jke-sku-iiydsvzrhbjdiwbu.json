@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31RM1IqFPCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31RM1IqFPCL.jpg | https://m.media-amazon.com/images/I/31RM1IqFPCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "16.67%",
   "SalePrice": "₹10,000.00",
   "Model": "Dong. 6kg Hammer DZG6"
 }

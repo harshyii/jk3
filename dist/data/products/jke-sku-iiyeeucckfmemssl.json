@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41M17VhXnQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61zNbo18WeL.jpg | https://m.media-amazon.com/images/I/41Z94R4RoOL.jpg | https://m.media-amazon.com/images/I/51vtJ70NS6L.jpg | https://m.media-amazon.com/images/I/41M17VhXnQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "50.25%",
   "SalePrice": "₹99.00",
   "Model": "HGFH772"
 }

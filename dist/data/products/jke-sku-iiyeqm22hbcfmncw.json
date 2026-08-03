@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/31z9V9-pAOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31Tf8ceZVkL.jpg | https://m.media-amazon.com/images/I/31Tf8ceZVkL.jpg | https://m.media-amazon.com/images/I/31DcnZSiI+L.jpg | https://m.media-amazon.com/images/I/31z9V9-pAOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "71.57%",
   "SalePrice": "₹85.00",
   "Model": "SMDLED"
 }

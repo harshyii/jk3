@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/61pZvWdBmsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51sb0fqfVeL.jpg | https://m.media-amazon.com/images/I/31ufIo-krkL.jpg | https://m.media-amazon.com/images/I/41zx3eNg4sL.jpg | https://m.media-amazon.com/images/I/51-mi-uSAiL.jpg | https://m.media-amazon.com/images/I/51mz1pxkwzL.jpg | https://m.media-amazon.com/images/I/51vKDMszvTL.jpg | https://m.media-amazon.com/images/I/51gRvPfKIcL.jpg | https://m.media-amazon.com/images/I/61pZvWdBmsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.39%",
   "SalePrice": "₹18,528.32",
   "Model": "BDCR20C"
 }

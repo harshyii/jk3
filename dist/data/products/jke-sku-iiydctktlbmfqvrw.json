@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41Spp-3hETL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/510vfGy6G4L.jpg | https://m.media-amazon.com/images/I/31QBFGO0JNL.jpg | https://m.media-amazon.com/images/I/41Spp-3hETL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "3.6%",
   "SalePrice": "₹241.00",
   "Model": "18- 21 x 23"
 }

@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51fPqdSyO0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51QInEZe0dL.jpg | https://m.media-amazon.com/images/I/411-I10OhwL.jpg | https://m.media-amazon.com/images/I/51KajoD9t5L.jpg | https://m.media-amazon.com/images/I/51liALmbzVL.jpg | https://m.media-amazon.com/images/I/51QxZiMlkYL.jpg | https://m.media-amazon.com/images/I/51fPqdSyO0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "64.65%",
   "SalePrice": "₹4,949.00",
   "Model": "60AID4.Handheld.Pressure.Power.Gun_NRJ"
 }

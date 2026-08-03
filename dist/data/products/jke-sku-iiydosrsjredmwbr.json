@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/51IzOpJ1bCL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51sZzhkUKcL.jpg | https://m.media-amazon.com/images/I/31CDeSrlxEL.jpg | https://m.media-amazon.com/images/I/51-vymsGh3L.jpg | https://m.media-amazon.com/images/I/41O55WIiGlL.jpg | https://m.media-amazon.com/images/I/31WauEduKQL.jpg | https://m.media-amazon.com/images/I/51i2MFdxWiL.jpg | https://m.media-amazon.com/images/I/51IzOpJ1bCL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹8,376.16",
   "Model": "48-22-8436"
 }

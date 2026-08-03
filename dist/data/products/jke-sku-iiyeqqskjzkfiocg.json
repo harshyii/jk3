@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41tnzc8EVJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/515sY1NAd3L.jpg | https://m.media-amazon.com/images/I/310Dx34-XjL.jpg | https://m.media-amazon.com/images/I/41fipyKzO5L.jpg | https://m.media-amazon.com/images/I/41tnzc8EVJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹152.00",
   "Model": "15122_cut_off_wheel_screw_3pc_no37",
   "Country": "China"

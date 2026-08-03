@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41+fvyl26GL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41TrJcPnl9L.jpg | https://m.media-amazon.com/images/I/41TrJcPnl9L.jpg | https://m.media-amazon.com/images/I/41-kb+lUV5L.jpg | https://m.media-amazon.com/images/I/41dhMeC6ThL.jpg | https://m.media-amazon.com/images/I/41OOOgkMh3L.jpg | https://m.media-amazon.com/images/I/51KCTDUM8pL.jpg | https://m.media-amazon.com/images/I/41+fvyl26GL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "51.75%",
   "SalePrice": "₹289.00",
   "Model": "TOOL1"
 }

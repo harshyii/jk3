@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/41zuzfITjmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81vobJYNN7L.jpg | https://m.media-amazon.com/images/I/41rCkpFno6L.jpg | https://m.media-amazon.com/images/I/61BKrTyu-OL.jpg | https://m.media-amazon.com/images/I/41awO7rWg7L.jpg | https://m.media-amazon.com/images/I/41OGe2tMLdL.jpg | https://m.media-amazon.com/images/I/61tPCpDI2UL.jpg | https://m.media-amazon.com/images/I/41-NKjuuKsL.jpg | https://m.media-amazon.com/images/I/41zuzfITjmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "51.67%",
   "SalePrice": "₹8,458.00",
   "Model": "DS18DAWCZ"
 }

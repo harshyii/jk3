@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51pv8SdFVML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71I0Vhl2aLL.jpg | https://m.media-amazon.com/images/I/41LOdWcegjL.jpg | https://m.media-amazon.com/images/I/51-eNF+4gIL.jpg | https://m.media-amazon.com/images/I/510e-J3grlL.jpg | https://m.media-amazon.com/images/I/51iCJhcC3EL.jpg | https://m.media-amazon.com/images/I/51PShPhrJ8L.jpg | https://m.media-amazon.com/images/I/51pv8SdFVML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹45,177.00",
   "Model": "1594"
 }

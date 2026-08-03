@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41rwredfX5L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YbxQGHFVL.jpg | https://m.media-amazon.com/images/I/41rwredfX5L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "35%",
   "SalePrice": "₹325.00",
   "Model": "Ph2-65/100"
 }

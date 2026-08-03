@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51WcJQ1YoML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/512uiJuUi0L.jpg | https://m.media-amazon.com/images/I/41DEihelZSL.jpg | https://m.media-amazon.com/images/I/41Iq660YnLL.jpg | https://m.media-amazon.com/images/I/51OntTvwzWL.jpg | https://m.media-amazon.com/images/I/41mncPodNcL.jpg | https://m.media-amazon.com/images/I/41RORraBtSL.jpg | https://m.media-amazon.com/images/I/51WcJQ1YoML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "0.75%",
   "SalePrice": "₹1,709.00",
   "Model": "E-3014"
 }

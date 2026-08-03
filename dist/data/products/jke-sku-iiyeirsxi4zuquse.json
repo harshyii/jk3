@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/5150mvMDoML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ki3N9+N5L.jpg | https://m.media-amazon.com/images/I/41ULK4A3HSL.jpg | https://m.media-amazon.com/images/I/41KcQFLlXpL.jpg | https://m.media-amazon.com/images/I/31RQFdMzXzL.jpg | https://m.media-amazon.com/images/I/41Lvrq78jgL.jpg | https://m.media-amazon.com/images/I/41z2KYQ6-1L.jpg | https://m.media-amazon.com/images/I/5150mvMDoML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "62.29%",
   "SalePrice": "₹339.00",
   "Model": "CH447"
 }

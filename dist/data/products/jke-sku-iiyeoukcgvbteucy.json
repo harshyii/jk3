@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/21TPZtFwi6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/1152XmXy7WL.jpg | https://m.media-amazon.com/images/I/1152XmXy7WL.jpg | https://m.media-amazon.com/images/I/31SzJqz7X6L.jpg | https://m.media-amazon.com/images/I/21V0ClkSFyL.jpg | https://m.media-amazon.com/images/I/21TPZtFwi6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.5%",
   "SalePrice": "₹1,390.00",
   "Model": "IC-084"
 }

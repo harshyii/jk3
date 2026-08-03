@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/41CaxPlnmkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61COzLLYJ-L.jpg | https://m.media-amazon.com/images/I/31EsAukAqWL.jpg | https://m.media-amazon.com/images/I/31q-ZuGfTXL.jpg | https://m.media-amazon.com/images/I/31MYnRA8X-L.jpg | https://m.media-amazon.com/images/I/31WAVBhmVJL.jpg | https://m.media-amazon.com/images/I/41CaxPlnmkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "73.33%",
   "SalePrice": "₹1,600.00",
   "Model": "Mx10"
 }

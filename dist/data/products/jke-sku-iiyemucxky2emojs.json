@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/31Df1LmduKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51lwBfQPcKL.jpg | https://m.media-amazon.com/images/I/31u7HgdexrL.jpg | https://m.media-amazon.com/images/I/31zHDdE5leL.jpg | https://m.media-amazon.com/images/I/31Fkgobs2OL.jpg | https://m.media-amazon.com/images/I/31Df1LmduKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17%",
   "SalePrice": "₹249.00",
   "Model": "1/2'' HEX SOCKET-30"
 }

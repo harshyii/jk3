@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JhwGG+iGL.jpg | https://m.media-amazon.com/images/I/31Oc7VRl2qL.jpg | https://m.media-amazon.com/images/I/41HeI+KR3iL.jpg | https://m.media-amazon.com/images/I/41DMU1wtF7L.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "150.0 Milliliters",
-  "Discount": 0,
+  "Discount": "0%",
   "SalePrice": "₹255.00",
   "Model": "Gun Oil 150ml",
   "Country": "India"

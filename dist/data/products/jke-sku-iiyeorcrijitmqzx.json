@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/51LDyDmqBBL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71r4bWFoT5L.jpg | https://m.media-amazon.com/images/I/31oWiqkxUbL.jpg | https://m.media-amazon.com/images/I/31Y24jxq7mL.jpg | https://m.media-amazon.com/images/I/51pewYh63ML.jpg | https://m.media-amazon.com/images/I/51aWJ8UciHL.jpg | https://m.media-amazon.com/images/I/61HXKAUeEyL.jpg | https://m.media-amazon.com/images/I/51dPkTzYmSL.jpg | https://m.media-amazon.com/images/I/51LDyDmqBBL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "60.01%",
   "SalePrice": "₹4,399.00",
   "Model": "LXHPW - 100"
 }

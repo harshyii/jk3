@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/21G8ZaHNGWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51TknlpkrFL.jpg | https://m.media-amazon.com/images/I/310NKPEEhWL.jpg | https://m.media-amazon.com/images/I/21bwDp3G3HL.jpg | https://m.media-amazon.com/images/I/21kYDXRIOEL.jpg | https://m.media-amazon.com/images/I/31HwhGvhnGL.jpg | https://m.media-amazon.com/images/I/3103FLBKk8L.jpg | https://m.media-amazon.com/images/I/21G8ZaHNGWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.7%",
   "SalePrice": "₹1,850.00",
   "Model": "EM4170+",
   "Country": "India"

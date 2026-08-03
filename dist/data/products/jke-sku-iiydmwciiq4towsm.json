@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41hrA+I4RVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71VcZOVSkLL.jpg | https://m.media-amazon.com/images/I/41hrA+I4RVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "50.79%",
   "SalePrice": "₹344.00",
   "Model": "IKON",
   "Country": "India"

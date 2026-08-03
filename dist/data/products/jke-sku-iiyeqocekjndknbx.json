@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/410O32lplVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Dl2eBj-jL.jpg | https://m.media-amazon.com/images/I/410O32lplVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "50%",
   "SalePrice": "₹5,719.00",
   "Model": "INV26-R100_B08PY2DXR6"
 }

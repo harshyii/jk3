@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/4125FZnMfyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51iYWNKM4wL.jpg | https://m.media-amazon.com/images/I/21DOUkaHLML.jpg | https://m.media-amazon.com/images/I/21aMYQ5cx0L.jpg | https://m.media-amazon.com/images/I/31T2GEtaAWL.jpg | https://m.media-amazon.com/images/I/31TuPrMf6DL.jpg | https://m.media-amazon.com/images/I/51RcIAjq4HL.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27.78%",
   "SalePrice": "₹18,529.00",
   "Model": "DCMPS567N-XJ"
 }

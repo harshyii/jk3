@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31po7PD8UoL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/4178J9rYLVL.jpg | https://m.media-amazon.com/images/I/21cUpAthvnL.jpg | https://m.media-amazon.com/images/I/31po7PD8UoL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "32.87%",
   "SalePrice": "₹145.00",
   "Model": "AHLGWXW253",
   "Country": "India"

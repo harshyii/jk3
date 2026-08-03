@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41dGJMOY3vL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61sE07q192L.jpg | https://m.media-amazon.com/images/I/21lwAO6AVqL.jpg | https://m.media-amazon.com/images/I/31OCYqOX-FL.jpg | https://m.media-amazon.com/images/I/31bnBJ3I93L.jpg | https://m.media-amazon.com/images/I/41dGJMOY3vL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "7.09%",
   "SalePrice": "₹436.70",
   "Model": "KNV/5"
 }

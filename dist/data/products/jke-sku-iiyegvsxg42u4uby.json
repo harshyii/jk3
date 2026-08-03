@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/41H9I-B3a6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61D0R+5OSAL.jpg | https://m.media-amazon.com/images/I/41ph3J8KSmL.jpg | https://m.media-amazon.com/images/I/4134MHsOsJL.jpg | https://m.media-amazon.com/images/I/41ZpNWPZvOL.jpg | https://m.media-amazon.com/images/I/41+xkIniLhL.jpg | https://m.media-amazon.com/images/I/419oykBxEBL.jpg | https://m.media-amazon.com/images/I/41ETKnoSDLL.jpg | https://m.media-amazon.com/images/I/41H9I-B3a6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹40,842.08",
   "Model": "3601-22CT"
 }

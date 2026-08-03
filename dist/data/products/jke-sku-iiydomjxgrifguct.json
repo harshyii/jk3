@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/518DHf5K9IL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/7193+cB-gqL.jpg | https://m.media-amazon.com/images/I/41bVPX78SbL.jpg | https://m.media-amazon.com/images/I/41S4LOfofcL.jpg | https://m.media-amazon.com/images/I/51-X1GEgghL.jpg | https://m.media-amazon.com/images/I/51golP8gfBL.jpg | https://m.media-amazon.com/images/I/51-hdoWFGmL.jpg | https://m.media-amazon.com/images/I/51asMH4nBxL.jpg | https://m.media-amazon.com/images/I/518DHf5K9IL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "3.74%",
   "SalePrice": "₹720.00",
   "Model": "CPRR1K",
   "Country": "India"

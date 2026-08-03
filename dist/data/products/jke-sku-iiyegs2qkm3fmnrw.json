@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51auP+yruuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61wpJwlOXvL.jpg | https://m.media-amazon.com/images/I/313kUOa8U4L.jpg | https://m.media-amazon.com/images/I/415KZry4T+L.jpg | https://m.media-amazon.com/images/I/51c72VxsQqL.jpg | https://m.media-amazon.com/images/I/41WsHVzR1GL.jpg | https://m.media-amazon.com/images/I/41GxuSLuuYL.jpg | https://m.media-amazon.com/images/I/412ACqy8hQL.jpg | https://m.media-amazon.com/images/I/51auP+yruuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "16.63%",
   "SalePrice": "₹41,178.80",
   "Model": "F0137350PA"
 }

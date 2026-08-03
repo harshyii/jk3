@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/51KZfFfsQiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61aJP+ST96L.jpg | https://m.media-amazon.com/images/I/31SD8KNNSlL.jpg | https://m.media-amazon.com/images/I/41Y4ZikcE4L.jpg | https://m.media-amazon.com/images/I/5189TlT1jfL.jpg | https://m.media-amazon.com/images/I/51-Ghg0VFnL.jpg | https://m.media-amazon.com/images/I/51tNBtpKW3L.jpg | https://m.media-amazon.com/images/I/51amW2VfWeL.jpg | https://m.media-amazon.com/images/I/51KZfFfsQiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "42.85%",
   "SalePrice": "₹2,857.00",
   "Model": "SPI_995_16SW",
   "Country": "USA"

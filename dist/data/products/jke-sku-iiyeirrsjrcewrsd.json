@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51QqE3bf+AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61cyBYobG+L.jpg | https://m.media-amazon.com/images/I/41EHVJ0u39L.jpg | https://m.media-amazon.com/images/I/51uI63R-w8L.jpg | https://m.media-amazon.com/images/I/51esRUDz+SL.jpg | https://m.media-amazon.com/images/I/51BMwxdQWvL.jpg | https://m.media-amazon.com/images/I/51iEz+NpvtL.jpg | https://m.media-amazon.com/images/I/51tDQq1XudL.jpg | https://m.media-amazon.com/images/I/51QqE3bf+AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.02%",
   "SalePrice": "₹1,775.00",
   "Model": "UT003"
 }

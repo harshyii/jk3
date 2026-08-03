@@ -37,8 +37,8 @@
     "https://m.media-amazon.com/images/I/311Tn+q1HML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/311Tn+q1HML.jpg | https://m.media-amazon.com/images/I/311Tn+q1HML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "800.0 Grams",
-  "Discount": 0,
+  "Discount": "19.99%",
   "SalePrice": "₹4,800.00"
 }

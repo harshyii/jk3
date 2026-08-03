@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51kMj+4qW1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71LRQtqEZAL.jpg | https://m.media-amazon.com/images/I/41V+TLFvAQL.jpg | https://m.media-amazon.com/images/I/51qx3SghJZL.jpg | https://m.media-amazon.com/images/I/41dAZND8eCL.jpg | https://m.media-amazon.com/images/I/51CTyT2LO3L.jpg | https://m.media-amazon.com/images/I/414An1fShYL.jpg | https://m.media-amazon.com/images/I/51bN40DOsiL.jpg | https://m.media-amazon.com/images/I/51kMj+4qW1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "71.53%",
   "SalePrice": "₹199.00",
   "Model": "AEC6105",
   "Country": "China"

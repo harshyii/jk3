@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41sXwUnJ4WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Da16cFT4L.jpg | https://m.media-amazon.com/images/I/319sFBcDgWL.jpg | https://m.media-amazon.com/images/I/41Oig-tiaTL.jpg | https://m.media-amazon.com/images/I/41sjqUox57L.jpg | https://m.media-amazon.com/images/I/51vRfaccomL.jpg | https://m.media-amazon.com/images/I/41jf4K4jQ3L.jpg | https://m.media-amazon.com/images/I/41G7K2zlqCL.jpg | https://m.media-amazon.com/images/I/41sXwUnJ4WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "26.79%",
   "SalePrice": "₹205.00",
   "Model": "V1-O9K3-JMX7"
 }

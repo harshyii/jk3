@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/41o6jms79AL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51t+bq2yHzL.jpg | https://m.media-amazon.com/images/I/31I6xozV74L.jpg | https://m.media-amazon.com/images/I/31LmHX4iqsL.jpg | https://m.media-amazon.com/images/I/41e0skVUYLL.jpg | https://m.media-amazon.com/images/I/41rtSqH4fAL.jpg | https://m.media-amazon.com/images/I/41l3brRebPL.jpg | https://m.media-amazon.com/images/I/41Trj750e0L.jpg | https://m.media-amazon.com/images/I/41o6jms79AL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "34.09%",
   "SalePrice": "₹16,419.00",
   "Model": "ELM3720"
 }

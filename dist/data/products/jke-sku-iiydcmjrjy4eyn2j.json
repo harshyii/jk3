@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41E8v2RcKzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vJaKuqa6L.jpg | https://m.media-amazon.com/images/I/41PTdwOUkGL.jpg | https://m.media-amazon.com/images/I/41fJ120bQQL.jpg | https://m.media-amazon.com/images/I/51WGgS6CQyL.jpg | https://m.media-amazon.com/images/I/51QpRSL0YzL.jpg | https://m.media-amazon.com/images/I/51tEsWm4wnL.jpg | https://m.media-amazon.com/images/I/41E8v2RcKzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "70.27%",
   "SalePrice": "₹7,286.84",
   "Model": "BDCDD12C"
 }

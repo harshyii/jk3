@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/41tSUpX+poL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YUqPTZGaL.jpg | https://m.media-amazon.com/images/I/31IshRkngUL.jpg | https://m.media-amazon.com/images/I/41y29SZ+dGL.jpg | https://m.media-amazon.com/images/I/41VEvd7TMUL.jpg | https://m.media-amazon.com/images/I/41Q5FqRPBAL.jpg | https://m.media-amazon.com/images/I/41MZ5EZz14L.jpg | https://m.media-amazon.com/images/I/51h-Pt8z+IL.jpg | https://m.media-amazon.com/images/I/41tSUpX+poL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.44%",
   "SalePrice": "₹11,995.00",
   "Model": "3100-1/15"
 }

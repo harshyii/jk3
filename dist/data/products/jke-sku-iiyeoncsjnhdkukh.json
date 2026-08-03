@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51iZmoWE66L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61B11tY82YL.jpg | https://m.media-amazon.com/images/I/31bkBk1zUCL.jpg | https://m.media-amazon.com/images/I/51-vOOFXN5L.jpg | https://m.media-amazon.com/images/I/41iK+x22ZRL.jpg | https://m.media-amazon.com/images/I/4127tIhx9IL.jpg | https://m.media-amazon.com/images/I/41tvtssENcL.jpg | https://m.media-amazon.com/images/I/51iZmoWE66L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "58.38%",
   "SalePrice": "₹499.00",
   "Model": "AG-CT01"
 }

@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/412jqj+WKbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51s31hW3tKL.jpg | https://m.media-amazon.com/images/I/3183dnEGwVL.jpg | https://m.media-amazon.com/images/I/41XSEIkYZPL.jpg | https://m.media-amazon.com/images/I/512ARHW-5TL.jpg | https://m.media-amazon.com/images/I/51eaXg2TTAL.jpg | https://m.media-amazon.com/images/I/41PiyKTXxzL.jpg | https://m.media-amazon.com/images/I/51QXwzDJcrL.jpg | https://m.media-amazon.com/images/I/412jqj+WKbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "30.73%",
   "SalePrice": "₹37,400.00",
   "Model": "MLB2560060",
   "Country": "India"

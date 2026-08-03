@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/31Uc5OSjqsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51a9xQJTgIL.jpg | https://m.media-amazon.com/images/I/31n6HuFTa5L.jpg | https://m.media-amazon.com/images/I/31mbDuL4ZyL.jpg | https://m.media-amazon.com/images/I/41GF89udyZL.jpg | https://m.media-amazon.com/images/I/31Tr2qYVQRL.jpg | https://m.media-amazon.com/images/I/31ZgCzoWzGL.jpg | https://m.media-amazon.com/images/I/31Uc5OSjqsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Milliliters",
-  "Discount": 0,
+  "Discount": "7.5%",
   "SalePrice": "₹1,849.00",
   "Country": "India"
 }

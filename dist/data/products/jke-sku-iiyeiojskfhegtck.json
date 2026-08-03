@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/51yD6v-6nYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81v5mUzk8EL.jpg | https://m.media-amazon.com/images/I/51b1EcCZfzL.jpg | https://m.media-amazon.com/images/I/51h1WDjIL4L.jpg | https://m.media-amazon.com/images/I/51nWAq75asL.jpg | https://m.media-amazon.com/images/I/51yD6v-6nYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "40%",
   "SalePrice": "₹11,999.00",
   "Model": "ACDB"
 }

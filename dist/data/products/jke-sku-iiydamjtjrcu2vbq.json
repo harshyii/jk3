@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/31TklHnX3WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YbY606jGL.jpg | https://m.media-amazon.com/images/I/31t6vrGckpL.jpg | https://m.media-amazon.com/images/I/41F7ZBntb1L.jpg | https://m.media-amazon.com/images/I/31Pv-Ap2OsL.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg | https://m.media-amazon.com/images/I/31n8k5wysgL.jpg | https://m.media-amazon.com/images/I/31TklHnX3WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.3%",
   "SalePrice": "₹675.00",
   "Model": "DT6952-QZ",
   "Country": "China"

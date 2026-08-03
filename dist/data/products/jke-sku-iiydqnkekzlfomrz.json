@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/513lMR3sOYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71XXnCdtlHL.jpg | https://m.media-amazon.com/images/I/51sy61eDRKL.jpg | https://m.media-amazon.com/images/I/51h8o3gc4WL.jpg | https://m.media-amazon.com/images/I/41HrZZ7TcuL.jpg | https://m.media-amazon.com/images/I/51zWfnYjGDL.jpg | https://m.media-amazon.com/images/I/513lMR3sOYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "43.13%",
   "SalePrice": "₹5,453.02",
   "Model": "E-01650"
 }

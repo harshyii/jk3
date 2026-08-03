@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31A7EIjB0WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31A7EIjB0WL.jpg | https://m.media-amazon.com/images/I/31A7EIjB0WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "10.32%",
   "SalePrice": "₹22,590.00",
   "Model": "MAX-1KVA"
 }

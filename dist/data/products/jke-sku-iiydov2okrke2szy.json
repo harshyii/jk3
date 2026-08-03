@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31H-dVDtSSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41QQ8ojPzFL.jpg | https://m.media-amazon.com/images/I/41QQ8ojPzFL.jpg | https://m.media-amazon.com/images/I/31H-dVDtSSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "52.69%",
   "SalePrice": "₹3,449.00",
   "Model": "M9512B"
 }

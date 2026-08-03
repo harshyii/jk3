@@ -46,8 +46,8 @@
     "https://m.media-amazon.com/images/I/51TBGZWaAJL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/515OiZ5v9GL.jpg | https://m.media-amazon.com/images/I/515OiZ5v9GL.jpg | https://m.media-amazon.com/images/I/41Gluu0skBL.jpg | https://m.media-amazon.com/images/I/212W9+6Mc5L.jpg | https://m.media-amazon.com/images/I/51TBGZWaAJL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Meters",
-  "Discount": 0,
+  "Discount": "50.33%",
   "SalePrice": "₹298.00"
 }

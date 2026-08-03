@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41JgzPyYnbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71yW0clUu9L.jpg | https://m.media-amazon.com/images/I/41SvJGws6KL.jpg | https://m.media-amazon.com/images/I/61DsxAbbdLL.jpg | https://m.media-amazon.com/images/I/41n-ezEiaML.jpg | https://m.media-amazon.com/images/I/51AxTFVUu9L.jpg | https://m.media-amazon.com/images/I/41Qag9DgbtL.jpg | https://m.media-amazon.com/images/I/41G8gWl+mHL.jpg | https://m.media-amazon.com/images/I/41JgzPyYnbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "38.62%",
   "SalePrice": "₹16,199.00",
   "Model": "SM16-IN"
 }

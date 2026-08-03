@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/51PJR7hL9JL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/711beJE7iCL.jpg | https://m.media-amazon.com/images/I/4179BKQrQnL.jpg | https://m.media-amazon.com/images/I/41EFdoxszgL.jpg | https://m.media-amazon.com/images/I/41nUCruafqL.jpg | https://m.media-amazon.com/images/I/41EkbsLFVgL.jpg | https://m.media-amazon.com/images/I/51+kMc00gzL.jpg | https://m.media-amazon.com/images/I/41CYQF6OO3L.jpg | https://m.media-amazon.com/images/I/51PJR7hL9JL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.86%",
   "SalePrice": "₹3,220.00",
   "Model": "HGCM2997"
 }

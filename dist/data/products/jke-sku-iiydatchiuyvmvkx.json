@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/312DahDxbFL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uM+SGCq8L.jpg | https://m.media-amazon.com/images/I/21kjmGVNm-L.jpg | https://m.media-amazon.com/images/I/21LQ3UAEJyL.jpg | https://m.media-amazon.com/images/I/41FU8v-BGZL.jpg | https://m.media-amazon.com/images/I/315NhUKQRIL.jpg | https://m.media-amazon.com/images/I/312DahDxbFL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "5.82%",
   "SalePrice": "₹259.00",
   "Model": "105"
 }

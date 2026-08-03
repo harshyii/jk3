@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41bQAbbz8lL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MvN4QWl2L.jpg | https://m.media-amazon.com/images/I/31bRwCjDGwL.jpg | https://m.media-amazon.com/images/I/51iNrV9aKvL.jpg | https://m.media-amazon.com/images/I/41sblDwQ76L.jpg | https://m.media-amazon.com/images/I/51ELiarWOjL.jpg | https://m.media-amazon.com/images/I/41bQAbbz8lL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "11.84%",
   "SalePrice": "₹819.00",
   "Model": "1600A02ZA2"
 }

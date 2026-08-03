@@ -50,9 +50,9 @@
     "https://m.media-amazon.com/images/I/41vlyKxshYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71o6Wcwd3nL.jpg | https://m.media-amazon.com/images/I/41SIh16OZZL.jpg | https://m.media-amazon.com/images/I/41eguMSVFiL.jpg | https://m.media-amazon.com/images/I/61zwEPjo8HL.jpg | https://m.media-amazon.com/images/I/41vlyKxshYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "13.67%",
   "SalePrice": "₹777.00",
   "Model": "Wood Saw Blade",
   "Country": "India"

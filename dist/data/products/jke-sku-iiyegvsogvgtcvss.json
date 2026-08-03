@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31iqnTSrhmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6124T+1pKvL.jpg | https://m.media-amazon.com/images/I/419YNoi0rVL.jpg | https://m.media-amazon.com/images/I/41OeZLOBe0L.jpg | https://m.media-amazon.com/images/I/41HECidmBQL.jpg | https://m.media-amazon.com/images/I/31iqnTSrhmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "76.84%",
   "SalePrice": "₹579.00",
   "Model": "SP-1/4-12-Socket"
 }

@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51T+VmwXa4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71erd8sq9jL.jpg | https://m.media-amazon.com/images/I/41pRrXsemQL.jpg | https://m.media-amazon.com/images/I/61hKTPGQmWL.jpg | https://m.media-amazon.com/images/I/612Rn5kgHJL.jpg | https://m.media-amazon.com/images/I/71kIa3gwpRL.jpg | https://m.media-amazon.com/images/I/51T+VmwXa4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "45.21%",
   "SalePrice": "₹2,295.00",
   "Model": "AG900282"
 }

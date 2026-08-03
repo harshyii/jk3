@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51Vjalu7mGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71zj4uaYWLL.jpg | https://m.media-amazon.com/images/I/513PPSkFpfL.jpg | https://m.media-amazon.com/images/I/51zE1ot6A0L.jpg | https://m.media-amazon.com/images/I/51BFD8cotZL.jpg | https://m.media-amazon.com/images/I/51rx8HQB0vL.jpg | https://m.media-amazon.com/images/I/51LXKbq165L.jpg | https://m.media-amazon.com/images/I/51Vjalu7mGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "36.68%",
   "SalePrice": "₹1,899.00",
   "Model": "BLUE"
 }

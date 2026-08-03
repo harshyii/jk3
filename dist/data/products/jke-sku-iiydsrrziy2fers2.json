@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41Lk8908SkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41rCqT-4O4L.jpg | https://m.media-amazon.com/images/I/31TX1TtyL-L.jpg | https://m.media-amazon.com/images/I/518quUYsnZL.jpg | https://m.media-amazon.com/images/I/416zdzHKoJL.jpg | https://m.media-amazon.com/images/I/31QTtwfPnPL.jpg | https://m.media-amazon.com/images/I/410DZZo-CML.jpg | https://m.media-amazon.com/images/I/41jsBXBhJ1L.jpg | https://m.media-amazon.com/images/I/41Lk8908SkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "59.19%",
   "SalePrice": "₹302.00",
   "Model": "E-2061"
 }

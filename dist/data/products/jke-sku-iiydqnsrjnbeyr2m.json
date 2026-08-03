@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/21yg+Fgu0TL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71EwyS2PiOL.jpg | https://m.media-amazon.com/images/I/310YmSnVD1L.jpg | https://m.media-amazon.com/images/I/31TTI48nUmL.jpg | https://m.media-amazon.com/images/I/31P2pYRrZ3L.jpg | https://m.media-amazon.com/images/I/21yg+Fgu0TL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "61.33%",
   "SalePrice": "₹16,453.53",
   "Model": "R18RW3-0"
 }

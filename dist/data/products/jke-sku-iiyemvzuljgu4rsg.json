@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51XWrWzajQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6105l6J8ePL.jpg | https://m.media-amazon.com/images/I/31gz3Eq-cvL.jpg | https://m.media-amazon.com/images/I/51BtlTxquXL.jpg | https://m.media-amazon.com/images/I/51TQuDzrK9L.jpg | https://m.media-amazon.com/images/I/410vWSreQlL.jpg | https://m.media-amazon.com/images/I/51dy5BRICIL.jpg | https://m.media-amazon.com/images/I/51H+1T2ImOL.jpg | https://m.media-amazon.com/images/I/51XWrWzajQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "23.45%",
   "SalePrice": "₹22,200.00",
   "Model": "HYKHYTT120",
   "Country": "India"

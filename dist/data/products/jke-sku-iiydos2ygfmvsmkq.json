@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41ckIpenT3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41pZlxIQ9qL.jpg | https://m.media-amazon.com/images/I/41pZlxIQ9qL.jpg | https://m.media-amazon.com/images/I/31xEMpPzDYL.jpg | https://m.media-amazon.com/images/I/41HZsp5ZJdL.jpg | https://m.media-amazon.com/images/I/41ckIpenT3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "42.92%",
   "SalePrice": "₹399.00",
   "Model": "DFG547"
 }

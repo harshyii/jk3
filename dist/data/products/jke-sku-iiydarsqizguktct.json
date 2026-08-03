@@ -40,9 +40,9 @@
     "https://m.media-amazon.com/images/I/41Rz1FloBOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71M8eCwrOtL.jpg | https://m.media-amazon.com/images/I/41Rz1FloBOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹1,609.92",
   "Model": "Z1414FMUC"
 }

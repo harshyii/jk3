@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/A1ubhvS6hIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61BC4s8BkFL.jpg | https://m.media-amazon.com/images/I/41EYmgPm9YL.jpg | https://m.media-amazon.com/images/I/A1ubhvS6hIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹3,488.41",
   "Model": "AR1860G",
   "Country": "USA"

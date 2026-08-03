@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41ARRZ18JKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61YzQSQTa3L.jpg | https://m.media-amazon.com/images/I/41IVdwVBPBL.jpg | https://m.media-amazon.com/images/I/51w3othYg-L.jpg | https://m.media-amazon.com/images/I/51kD3JjyxSL.jpg | https://m.media-amazon.com/images/I/51GDk3K8PpL.jpg | https://m.media-amazon.com/images/I/51ADJMHXoAL.jpg | https://m.media-amazon.com/images/I/41ARRZ18JKL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.67%",
   "SalePrice": "₹20,799.00",
   "Model": "Power sine 800+SC18060",
   "Country": "India"

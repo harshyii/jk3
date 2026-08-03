@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/319V+li7lfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61JxKqU7RsL.jpg | https://m.media-amazon.com/images/I/41NcLYRnPEL.jpg | https://m.media-amazon.com/images/I/41nki+0eR7L.jpg | https://m.media-amazon.com/images/I/319V+li7lfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.21%",
   "SalePrice": "₹14,000.00",
   "Model": "LS20W"
 }

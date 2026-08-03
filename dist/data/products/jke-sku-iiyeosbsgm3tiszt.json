@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/41s6aNPi4OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/615-lxDC0kL.jpg | https://m.media-amazon.com/images/I/41eQpQ3UgkL.jpg | https://m.media-amazon.com/images/I/51jyrqZ-7ML.jpg | https://m.media-amazon.com/images/I/51RGTFA8ztL.jpg | https://m.media-amazon.com/images/I/51t9qnfCOcL.jpg | https://m.media-amazon.com/images/I/51yfuMpf8qL.jpg | https://m.media-amazon.com/images/I/41s6aNPi4OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1800.0 Milliliters",
-  "Discount": 0,
+  "Discount": "20%",
   "SalePrice": "₹216.00",
   "Model": "3350146",
   "Country": "India"

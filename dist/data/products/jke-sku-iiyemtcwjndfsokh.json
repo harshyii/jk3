@@ -42,9 +42,9 @@
     "https://m.media-amazon.com/images/I/41yXwfpT7nL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31NpU+TMGbL.jpg | https://m.media-amazon.com/images/I/31NpU+TMGbL.jpg | https://m.media-amazon.com/images/I/41yXwfpT7nL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.47%",
   "SalePrice": "₹4,249.00",
   "Model": "AG 125"
 }

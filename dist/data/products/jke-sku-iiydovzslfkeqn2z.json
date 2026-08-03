@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/414FiFJl3iL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71E2Ug25XnL.jpg | https://m.media-amazon.com/images/I/51S4rNyz8SL.jpg | https://m.media-amazon.com/images/I/51IUy1AvZXL.jpg | https://m.media-amazon.com/images/I/31gtIXB1C5L.jpg | https://m.media-amazon.com/images/I/41HcDCZKhSL.jpg | https://m.media-amazon.com/images/I/31exdoSspTL.jpg | https://m.media-amazon.com/images/I/414FiFJl3iL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "8 Count",
-  "Discount": 0,
+  "Discount": "34.56%",
   "SalePrice": "₹890.00",
   "Model": "PBUM01097-9W-PK8"
 }

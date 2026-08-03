@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41AogO+lqmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61vR8heBBJL.jpg | https://m.media-amazon.com/images/I/3160aqcBYQL.jpg | https://m.media-amazon.com/images/I/41TeFsLeGeL.jpg | https://m.media-amazon.com/images/I/41az0saHRUL.jpg | https://m.media-amazon.com/images/I/41KJpSiv5iL.jpg | https://m.media-amazon.com/images/I/41VjoJl+s5L.jpg | https://m.media-amazon.com/images/I/41ZIbBlkZiL.jpg | https://m.media-amazon.com/images/I/41AogO+lqmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,234.25",
   "Model": "df080"
 }

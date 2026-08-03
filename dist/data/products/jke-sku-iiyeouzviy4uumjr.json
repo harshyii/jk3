@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41vteOJkT0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61WZNMp147L.jpg | https://m.media-amazon.com/images/I/31XraaQ2j3L.jpg | https://m.media-amazon.com/images/I/31+n5dePbjL.jpg | https://m.media-amazon.com/images/I/41YXS-n-82L.jpg | https://m.media-amazon.com/images/I/41yjo1h9GoL.jpg | https://m.media-amazon.com/images/I/41EkIRhKTnL.jpg | https://m.media-amazon.com/images/I/41vteOJkT0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.42%",
   "SalePrice": "₹939.00",
   "Model": "CTR 06"
 }

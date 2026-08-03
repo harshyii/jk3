@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/51shAdcalZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71cxw28aCAL.jpg | https://m.media-amazon.com/images/I/412RdUwyJFL.jpg | https://m.media-amazon.com/images/I/41ejvtQWEoL.jpg | https://m.media-amazon.com/images/I/51WGj17+zUL.jpg | https://m.media-amazon.com/images/I/41bMstfV7gL.jpg | https://m.media-amazon.com/images/I/51oo1Gz1nUL.jpg | https://m.media-amazon.com/images/I/51shAdcalZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "47.17%",
   "SalePrice": "₹3,698.00",
   "Model": "06011A03F2"
 }

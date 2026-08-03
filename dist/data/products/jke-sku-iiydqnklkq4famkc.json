@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/4194Bbeq7FL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71iMBP9mrJL.jpg | https://m.media-amazon.com/images/I/41S9GUVzEIL.jpg | https://m.media-amazon.com/images/I/51KSUHpLd2L.jpg | https://m.media-amazon.com/images/I/41LlNArgWtL.jpg | https://m.media-amazon.com/images/I/51SmJSGk5hL.jpg | https://m.media-amazon.com/images/I/41vB1ufiViL.jpg | https://m.media-amazon.com/images/I/416tTPQ72oL.jpg | https://m.media-amazon.com/images/I/4194Bbeq7FL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹2,290.07",
   "Model": "53435",
   "Country": "USA"

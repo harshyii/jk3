@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41xXpP30KIL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ghDHXCfjL.jpg | https://m.media-amazon.com/images/I/31DvFWNh0VL.jpg | https://m.media-amazon.com/images/I/31z9Zv0zj-L.jpg | https://m.media-amazon.com/images/I/31oNS+TIheL.jpg | https://m.media-amazon.com/images/I/41xXpP30KIL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Pack",
-  "Discount": 0,
+  "Discount": "16.77%",
   "SalePrice": "₹4,498.00",
   "Model": "11027315"
 }

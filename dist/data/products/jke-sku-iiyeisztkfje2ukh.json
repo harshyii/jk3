@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/51FAvNfeI2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51FAvNfeI2L.jpg | https://m.media-amazon.com/images/I/51FAvNfeI2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "48.61%",
   "SalePrice": "₹9,250.00",
   "Model": "XPC-CS-01"
 }

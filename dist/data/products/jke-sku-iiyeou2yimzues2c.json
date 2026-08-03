@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/517Ygc0ZbYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81I95fx14wL.jpg | https://m.media-amazon.com/images/I/51x5YcsYlpL.jpg | https://m.media-amazon.com/images/I/51Z8Df29WuL.jpg | https://m.media-amazon.com/images/I/51yw02E4+XL.jpg | https://m.media-amazon.com/images/I/51c3phwQv1L.jpg | https://m.media-amazon.com/images/I/51ZhfWjUEgL.jpg | https://m.media-amazon.com/images/I/51nsgcstGSL.jpg | https://m.media-amazon.com/images/I/517Ygc0ZbYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "59%",
   "SalePrice": "₹19,408.00",
   "Model": "‎Ceramic Wash And Maintain Kit"
 }

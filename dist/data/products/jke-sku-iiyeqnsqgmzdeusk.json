@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41XDOgdlA8L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61cVnT9KZNL.jpg | https://m.media-amazon.com/images/I/31TiZUmiJ8L.jpg | https://m.media-amazon.com/images/I/31Xrog48pXL.jpg | https://m.media-amazon.com/images/I/3198WwyZgRL.jpg | https://m.media-amazon.com/images/I/214bkMAl9uL.jpg | https://m.media-amazon.com/images/I/31OX6OVRgyL.jpg | https://m.media-amazon.com/images/I/41XDOgdlA8L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "37.72%",
   "SalePrice": "₹28,962.00",
   "Country": "Hong Kong"
 }

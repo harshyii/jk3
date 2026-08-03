@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51sw1lkqzYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61uGap8FOoL.jpg | https://m.media-amazon.com/images/I/41TLP2SSjCL.jpg | https://m.media-amazon.com/images/I/51wGEhBoNmL.jpg | https://m.media-amazon.com/images/I/51I-8OFjH9L.jpg | https://m.media-amazon.com/images/I/51rtmzhIuXL.jpg | https://m.media-amazon.com/images/I/51sw1lkqzYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "17.55%",
   "SalePrice": "₹15,500.00",
   "Model": "M1603624TT"
 }

@@ -75,9 +75,9 @@
     "https://m.media-amazon.com/images/I/51TLkSnhkzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81yHU3ziv2L.jpg | https://m.media-amazon.com/images/I/61mGF78ZlyL.jpg | https://m.media-amazon.com/images/I/414Zdq2nd2L.jpg | https://m.media-amazon.com/images/I/511cGi88qSL.jpg | https://m.media-amazon.com/images/I/51dg6Cf77sL.jpg | https://m.media-amazon.com/images/I/41FdV1sepNL.jpg | https://m.media-amazon.com/images/I/51TLkSnhkzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "60.0 Count",
-  "Discount": 0,
+  "Discount": "91.59%",
   "SalePrice": "₹84.00",
   "Model": "ESD_01"
 }

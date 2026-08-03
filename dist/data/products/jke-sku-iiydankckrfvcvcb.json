@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31aOliy9XmL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61CIjAaCIwL.jpg | https://m.media-amazon.com/images/I/416gVtQaaJL.jpg | https://m.media-amazon.com/images/I/51bxc1leRNL.jpg | https://m.media-amazon.com/images/I/31NfAXbqDgL.jpg | https://m.media-amazon.com/images/I/41jI1Kx60bL.jpg | https://m.media-amazon.com/images/I/31AWfDi++yL.jpg | https://m.media-amazon.com/images/I/31aOliy9XmL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "17.23%",
   "SalePrice": "₹3,310.00",
   "Model": "BTR-NP95-JWP-004",
   "Country": "USA"

@@ -59,9 +59,9 @@
     "https://m.media-amazon.com/images/I/41pu1OTS7yL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41bwq85bmmL.jpg | https://m.media-amazon.com/images/I/41bwq85bmmL.jpg | https://m.media-amazon.com/images/I/31qx9qulDZL.jpg | https://m.media-amazon.com/images/I/31jy5-j9FZL.jpg | https://m.media-amazon.com/images/I/31E5TaSckrL.jpg | https://m.media-amazon.com/images/I/311s7KHdKcL.jpg | https://m.media-amazon.com/images/I/41rRa8q2htL.jpg | https://m.media-amazon.com/images/I/41pu1OTS7yL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.32%",
   "SalePrice": "₹1,087.00",
   "Model": "E-2016_E-2016-12"
 }

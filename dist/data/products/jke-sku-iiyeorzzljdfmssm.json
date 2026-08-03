@@ -57,9 +57,9 @@
     "https://m.media-amazon.com/images/I/51Ybvh69ctL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71h-FyNm-kL.jpg | https://m.media-amazon.com/images/I/31rZHCf7+NL.jpg | https://m.media-amazon.com/images/I/51YzA7pmmpL.jpg | https://m.media-amazon.com/images/I/51r13dDEwvL.jpg | https://m.media-amazon.com/images/I/51-Gkir-+eL.jpg | https://m.media-amazon.com/images/I/51-fiM3LeyL.jpg | https://m.media-amazon.com/images/I/41bLLsCto4L.jpg | https://m.media-amazon.com/images/I/51Ybvh69ctL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "300.0 Milliliters",
-  "Discount": 0,
+  "Discount": "50.05%",
   "SalePrice": "₹499.00",
   "Model": "ALLINONE",
   "Country": "India"

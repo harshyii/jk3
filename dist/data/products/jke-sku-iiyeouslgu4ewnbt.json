@@ -50,8 +50,8 @@
     "https://m.media-amazon.com/images/I/21aNncvD-zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51-naTSvBeL.jpg | https://m.media-amazon.com/images/I/31gr-tqBOXL.jpg | https://m.media-amazon.com/images/I/41d1Csj-OwL.jpg | https://m.media-amazon.com/images/I/31YgtF4H1LL.jpg | https://m.media-amazon.com/images/I/21aNncvD-zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6.0 Count",
-  "Discount": 0,
+  "Discount": "18.18%",
   "SalePrice": "₹270.00"
 }

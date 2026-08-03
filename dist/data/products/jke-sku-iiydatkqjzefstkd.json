@@ -46,9 +46,9 @@
     "https://m.media-amazon.com/images/I/51N1pp31eQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/814xV2hs6XL.jpg | https://m.media-amazon.com/images/I/51gXOOQ5gWL.jpg | https://m.media-amazon.com/images/I/51N1pp31eQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹28,977.30",
   "Model": "DT10399-QZ"
 }

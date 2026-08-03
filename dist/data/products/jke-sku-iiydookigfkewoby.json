@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/5160RH4KF0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71T4vIAItsL.jpg | https://m.media-amazon.com/images/I/419x9JhWabL.jpg | https://m.media-amazon.com/images/I/41J2JC9XfqL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/51Rx8Eal-sL.jpg | https://m.media-amazon.com/images/I/51bkboJi30L.jpg | https://m.media-amazon.com/images/I/5160RH4KF0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "40.11%",
   "SalePrice": "₹14,939.00",
   "Model": "BEMW481BH-GB"
 }

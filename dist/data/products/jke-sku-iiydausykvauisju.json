@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31S3i6XQV0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71yaivso1UL.jpg | https://m.media-amazon.com/images/I/41piO9zOa+L.jpg | https://m.media-amazon.com/images/I/41kv1gqOFWL.jpg | https://m.media-amazon.com/images/I/31S3i6XQV0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "16.72%",
   "SalePrice": "₹249.00",
   "Model": "MS05",
   "Country": "India"

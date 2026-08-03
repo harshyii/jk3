@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/41hDhs18NEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610YGmGZw5L.jpg | https://m.media-amazon.com/images/I/51p0gRtc6GL.jpg | https://m.media-amazon.com/images/I/412dtbeHukL.jpg | https://m.media-amazon.com/images/I/51LgM4Tq6LL.jpg | https://m.media-amazon.com/images/I/51g1LA9M2ZL.jpg | https://m.media-amazon.com/images/I/61HalgjQTAL.jpg | https://m.media-amazon.com/images/I/41hDhs18NEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "6 Meters",
-  "Discount": 0,
+  "Discount": "73.29%",
   "SalePrice": "₹347.00",
   "Country": "India"
 }

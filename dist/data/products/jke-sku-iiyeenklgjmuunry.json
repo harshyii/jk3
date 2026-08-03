@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41et7ewiKOL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/412SexvFy1L.jpg | https://m.media-amazon.com/images/I/317mn5s8hiL.jpg | https://m.media-amazon.com/images/I/31D5KaYfJbL.jpg | https://m.media-amazon.com/images/I/31it5jy0KDL.jpg | https://m.media-amazon.com/images/I/311f7TjNfKL.jpg | https://m.media-amazon.com/images/I/41Sx48sbMNL.jpg | https://m.media-amazon.com/images/I/41hd4h++jSL.jpg | https://m.media-amazon.com/images/I/41et7ewiKOL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "22.86%",
   "SalePrice": "₹16,869.00",
   "Model": "REVCMS12C"
 }

@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/517LDx9w7WL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71586yDpaNL.jpg | https://m.media-amazon.com/images/I/51+NhnKcseL.jpg | https://m.media-amazon.com/images/I/61QzoAnCUPL.jpg | https://m.media-amazon.com/images/I/61407zUUzhL.jpg | https://m.media-amazon.com/images/I/517LDx9w7WL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "40.0 Grams",
-  "Discount": 0,
+  "Discount": "80.1%",
   "SalePrice": "₹199.00",
   "Model": "Wax1",
   "Country": "India"

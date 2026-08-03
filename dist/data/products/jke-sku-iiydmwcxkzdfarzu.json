@@ -77,9 +77,9 @@
     "https://m.media-amazon.com/images/I/51VGLKCLIiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ywVuY3XvL.jpg | https://m.media-amazon.com/images/I/41GW1C9a88L.jpg | https://m.media-amazon.com/images/I/51LoV-EZ1wL.jpg | https://m.media-amazon.com/images/I/4193MmXU1sL.jpg | https://m.media-amazon.com/images/I/51ngyUIeivL.jpg | https://m.media-amazon.com/images/I/413r0uo75+L.jpg | https://m.media-amazon.com/images/I/51MXqN2dP+L.jpg | https://m.media-amazon.com/images/I/51VGLKCLIiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "23.08%",
   "SalePrice": "₹13,764.00",
   "Model": "GSB 180-LI"
 }

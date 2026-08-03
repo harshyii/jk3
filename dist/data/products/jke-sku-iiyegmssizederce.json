@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/41AR-rwoxiL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713uP4CRC7L.jpg | https://m.media-amazon.com/images/I/41EOKLc-OaL.jpg | https://m.media-amazon.com/images/I/31swrck6GiL.jpg | https://m.media-amazon.com/images/I/41eOKd8IWzL.jpg | https://m.media-amazon.com/images/I/41AR-rwoxiL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "15.43%",
   "SalePrice": "₹2,072.00",
   "Model": "381705",
   "Country": "USA"

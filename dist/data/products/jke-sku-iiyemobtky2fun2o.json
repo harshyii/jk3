@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41HWOBurn7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/419gJFfyHOL.jpg | https://m.media-amazon.com/images/I/31hEuSQrUNL.jpg | https://m.media-amazon.com/images/I/41ZWgsDQ2SL.jpg | https://m.media-amazon.com/images/I/41aJz6lnPGL.jpg | https://m.media-amazon.com/images/I/41luOO-h8QL.jpg | https://m.media-amazon.com/images/I/41HWOBurn7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "34.06%",
   "SalePrice": "₹16,776.00",
   "Model": "899-95N-0875-899-BA2-0150"
 }

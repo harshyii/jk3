@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/41tHGysch3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71uq1fs8uEL.jpg | https://m.media-amazon.com/images/I/31jHCQ9gVIL.jpg | https://m.media-amazon.com/images/I/31lCOHLv3oL.jpg | https://m.media-amazon.com/images/I/41MwV0hrhiL.jpg | https://m.media-amazon.com/images/I/31vranYW4oL.jpg | https://m.media-amazon.com/images/I/41SmGucUJYL.jpg | https://m.media-amazon.com/images/I/41Mt8dODCwL.jpg | https://m.media-amazon.com/images/I/41tHGysch3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "64.52%",
   "SalePrice": "₹10,279.23",
   "Model": "36221"
 }

@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/51sgFZyldsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qpL+8q+6L.jpg | https://m.media-amazon.com/images/I/41BwfXsBDcL.jpg | https://m.media-amazon.com/images/I/414TCzDWmsL.jpg | https://m.media-amazon.com/images/I/412TJAKDaJL.jpg | https://m.media-amazon.com/images/I/412WhkgQDaL.jpg | https://m.media-amazon.com/images/I/51sgFZyldsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "22.46%",
   "SalePrice": "₹3,500.00",
   "Model": "CPAG-4-850W RS"
 }

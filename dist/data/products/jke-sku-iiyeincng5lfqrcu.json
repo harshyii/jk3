@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51y06YHU6zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61CQXK1PwVL.jpg | https://m.media-amazon.com/images/I/315DDpbG7iL.jpg | https://m.media-amazon.com/images/I/41wfu98M93L.jpg | https://m.media-amazon.com/images/I/41KnIpc61YL.jpg | https://m.media-amazon.com/images/I/51-r2Yqkq2L.jpg | https://m.media-amazon.com/images/I/51y06YHU6zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "125.0 Milliliters",
-  "Discount": 0,
+  "Discount": "22.92%",
   "SalePrice": "₹269.00",
   "Model": "SXPHELMETCLEANER",
   "Country": "India"

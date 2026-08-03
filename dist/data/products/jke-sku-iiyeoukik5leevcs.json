@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/41Fb-BBzEYL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51qIm9lqqcL.jpg | https://m.media-amazon.com/images/I/21UsNWYFSPL.jpg | https://m.media-amazon.com/images/I/41I3tRYzOYL.jpg | https://m.media-amazon.com/images/I/41fBL1jhM0L.jpg | https://m.media-amazon.com/images/I/41ecJ7O0aEL.jpg | https://m.media-amazon.com/images/I/410nHnrMf6L.jpg | https://m.media-amazon.com/images/I/41Fb-BBzEYL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25.75%",
   "SalePrice": "₹4,299.00",
   "Model": "Enticer ES"
 }

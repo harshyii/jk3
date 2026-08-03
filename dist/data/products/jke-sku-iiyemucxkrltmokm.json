@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/31xGQkbNGWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61ppNE3yfUL.jpg | https://m.media-amazon.com/images/I/31r8ibxlDJL.jpg | https://m.media-amazon.com/images/I/21iqeKeeXFL.jpg | https://m.media-amazon.com/images/I/31t60OQUajL.jpg | https://m.media-amazon.com/images/I/31jb9m3YGoL.jpg | https://m.media-amazon.com/images/I/31xGQkbNGWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "4.4%",
   "SalePrice": "₹239.00",
   "Model": "1/2\" HEX SOCKET-17,19"
 }

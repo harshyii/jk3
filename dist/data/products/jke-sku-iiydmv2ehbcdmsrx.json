@@ -27,9 +27,9 @@
     "https://m.media-amazon.com/images/I/21jznl74VtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/21jznl74VtL.jpg | https://m.media-amazon.com/images/I/21jznl74VtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "29.25%",
   "SalePrice": "₹4,478.00",
   "Country": "‎USA"
 }

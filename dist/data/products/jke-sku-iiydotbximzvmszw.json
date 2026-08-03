@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41vGuIHrEdL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41vGuIHrEdL.jpg | https://m.media-amazon.com/images/I/41vGuIHrEdL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "27.8%",
   "SalePrice": "₹3,209.00",
   "Model": "ToolsCentre"
 }

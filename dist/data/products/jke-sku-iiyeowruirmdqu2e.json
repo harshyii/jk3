@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41NDQfNS+4L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71xqnEdMPFL.jpg | https://m.media-amazon.com/images/I/41yJNG7ss5L.jpg | https://m.media-amazon.com/images/I/41lAWj0NjzL.jpg | https://m.media-amazon.com/images/I/4139Xe5GbSL.jpg | https://m.media-amazon.com/images/I/41NDQfNS+4L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "56.5%",
   "SalePrice": "₹870.00",
   "Model": "Xp-dsb-110-turbo",
   "Country": "India"

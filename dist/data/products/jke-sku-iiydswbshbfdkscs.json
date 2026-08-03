@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/316lXwOoPXL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611WoFGPXoL.jpg | https://m.media-amazon.com/images/I/41bdQggHq+L.jpg | https://m.media-amazon.com/images/I/515dEAyGilL.jpg | https://m.media-amazon.com/images/I/41dJS02ZWHL.jpg | https://m.media-amazon.com/images/I/41y8xcXGL7L.jpg | https://m.media-amazon.com/images/I/51iMo7kZ0QL.jpg | https://m.media-amazon.com/images/I/41Bh1D2NezL.jpg | https://m.media-amazon.com/images/I/316lXwOoPXL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "30.07%",
   "SalePrice": "₹53,748.00",
   "Model": "CX203SYB"
 }

@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/419dXlTN+OL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61sPE6YrNXL.jpg | https://m.media-amazon.com/images/I/41RDTiEIlvL.jpg | https://m.media-amazon.com/images/I/41gSVLGG2FL.jpg | https://m.media-amazon.com/images/I/51U4SkJeG6L.jpg | https://m.media-amazon.com/images/I/517oRbc91UL.jpg | https://m.media-amazon.com/images/I/41jjZdLuRHL.jpg | https://m.media-amazon.com/images/I/51shVd9dODL.jpg | https://m.media-amazon.com/images/I/419dXlTN+OL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "62.12%",
   "SalePrice": "₹189.00",
   "Model": "CPU_LANDLINE_SPRING_WIRE_1.2M_BLK_PARENT",
   "Country": "India"

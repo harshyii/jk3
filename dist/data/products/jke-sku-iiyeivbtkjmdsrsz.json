@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41x-aZIuJSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UdW-azyFL.jpg | https://m.media-amazon.com/images/I/41y+cufLvCL.jpg | https://m.media-amazon.com/images/I/41um8F0UpFL.jpg | https://m.media-amazon.com/images/I/51gasLpu24L.jpg | https://m.media-amazon.com/images/I/41BRTd8g8tL.jpg | https://m.media-amazon.com/images/I/41BaB8ObxCL.jpg | https://m.media-amazon.com/images/I/51k0+ULD6WL.jpg | https://m.media-amazon.com/images/I/41x-aZIuJSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "36.61%",
   "SalePrice": "₹19,018.00",
   "Model": "BAS3502"
 }

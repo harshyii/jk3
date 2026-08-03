@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/31Hdx4EqBfL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6137OsKX0YL.jpg | https://m.media-amazon.com/images/I/31zffo2Z1yL.jpg | https://m.media-amazon.com/images/I/31IuK9Nzm6S.jpg | https://m.media-amazon.com/images/I/31Hdx4EqBfL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹341.25",
   "Model": "31565"
 }

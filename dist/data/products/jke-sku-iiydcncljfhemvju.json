@@ -69,9 +69,9 @@
     "https://m.media-amazon.com/images/I/311nlecYofL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61PM80XW9UL.jpg | https://m.media-amazon.com/images/I/31dqHZ9whcL.jpg | https://m.media-amazon.com/images/I/3172oARmfpL.jpg | https://m.media-amazon.com/images/I/31NECx3CJEL.jpg | https://m.media-amazon.com/images/I/4125FZnMfyL.jpg | https://m.media-amazon.com/images/I/41f4RPUAngL.jpg | https://m.media-amazon.com/images/I/41D2rqCamIL.jpg | https://m.media-amazon.com/images/I/311nlecYofL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "57.01%",
   "SalePrice": "₹898.00",
   "Model": "DFC1310150"
 }

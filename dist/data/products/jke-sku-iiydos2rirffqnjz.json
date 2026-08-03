@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51VDGl-DEGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61jCNkinFSL.jpg | https://m.media-amazon.com/images/I/31tEFG4l+4L.jpg | https://m.media-amazon.com/images/I/31poGxoRpqL.jpg | https://m.media-amazon.com/images/I/41wvMw+wf1L.jpg | https://m.media-amazon.com/images/I/31wu3sCaeoL.jpg | https://m.media-amazon.com/images/I/51F9IOULf1L.jpg | https://m.media-amazon.com/images/I/51wUD2O8CIL.jpg | https://m.media-amazon.com/images/I/51VDGl-DEGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "4.63%",
   "SalePrice": "₹2,860.00",
   "Model": "DW810-IN"
 }

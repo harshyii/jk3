@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51DMK6A94-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71+cEj97BJL.jpg | https://m.media-amazon.com/images/I/41jvB0FsM3L.jpg | https://m.media-amazon.com/images/I/51MSiUeWaYL.jpg | https://m.media-amazon.com/images/I/512KXVAbKaL.jpg | https://m.media-amazon.com/images/I/51ouNl9-j1L.jpg | https://m.media-amazon.com/images/I/51ge8XbDgKL.jpg | https://m.media-amazon.com/images/I/51DMK6A94-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "55.46%",
   "SalePrice": "₹4,899.00",
   "Model": "TX-15"
 }

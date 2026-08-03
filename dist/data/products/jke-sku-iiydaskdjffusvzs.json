@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41EeFiN48uL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61TdBdUPpqL.jpg | https://m.media-amazon.com/images/I/31S8XxtLFHL.jpg | https://m.media-amazon.com/images/I/31oT8njroaL.jpg | https://m.media-amazon.com/images/I/312xAr6UmbL.jpg | https://m.media-amazon.com/images/I/31rcllB4OoL.jpg | https://m.media-amazon.com/images/I/41ensGX1vfL.jpg | https://m.media-amazon.com/images/I/41EeFiN48uL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "31.36%",
   "SalePrice": "₹534.00",
   "Model": "70-964E"
 }

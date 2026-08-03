@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41qiA5jNclL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61UCiz1n6OL.jpg | https://m.media-amazon.com/images/I/31MbuOr8xZL.jpg | https://m.media-amazon.com/images/I/21zzp2dT9-L.jpg | https://m.media-amazon.com/images/I/41bb7ZpFFQL.jpg | https://m.media-amazon.com/images/I/41qiA5jNclL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.04%",
   "SalePrice": "₹1,449.00",
   "Model": "VNJ-MAG-SAFE 3-CABLE-1",
   "Country": "China"

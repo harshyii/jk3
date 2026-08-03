@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/41bj7wPDCsL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51EcqDE8XnL.jpg | https://m.media-amazon.com/images/I/41bj7wPDCsL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "38.1%",
   "SalePrice": "₹1,380.00",
   "Model": "48-32-4602"
 }

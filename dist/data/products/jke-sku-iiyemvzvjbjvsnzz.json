@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/51gqMpZYswL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51dUCS640WL.jpg | https://m.media-amazon.com/images/I/31BZ8H1Zx-L.jpg | https://m.media-amazon.com/images/I/51HeqFVR-UL.jpg | https://m.media-amazon.com/images/I/51S22+WXPFL.jpg | https://m.media-amazon.com/images/I/51l3vI3gcwL.jpg | https://m.media-amazon.com/images/I/51ZVlla9MmL.jpg | https://m.media-amazon.com/images/I/51D6YBWvfML.jpg | https://m.media-amazon.com/images/I/51gqMpZYswL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Piece",
-  "Discount": 0,
+  "Discount": "84.46%",
   "SalePrice": "₹699.00",
   "Model": "GAD-32HX",
   "Country": "Taiwan"

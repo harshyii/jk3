@@ -52,9 +52,9 @@
     "https://m.media-amazon.com/images/I/41KdX9AUDaL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71vFbeFKCmL.jpg | https://m.media-amazon.com/images/I/41WoqWjCYSL.jpg | https://m.media-amazon.com/images/I/31w9ONTXrCL.jpg | https://m.media-amazon.com/images/I/41jeDoTezRL.jpg | https://m.media-amazon.com/images/I/41KdX9AUDaL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "91.86%",
   "SalePrice": "₹179.00",
   "Model": "Xp-105-6seg",
   "Country": "India"

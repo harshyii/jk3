@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41IvjIr2j3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61R9b3p9TKL.jpg | https://m.media-amazon.com/images/I/31+4XU9j1-L.jpg | https://m.media-amazon.com/images/I/41ZM+71nZZL.jpg | https://m.media-amazon.com/images/I/41SFH9paiNL.jpg | https://m.media-amazon.com/images/I/41rB0fLiqzL.jpg | https://m.media-amazon.com/images/I/41Xcycqe8DL.jpg | https://m.media-amazon.com/images/I/41IvjIr2j3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "54.64%",
   "SalePrice": "₹11,339.10",
   "Model": "RP30"
 }

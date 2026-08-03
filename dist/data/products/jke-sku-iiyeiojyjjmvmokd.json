@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/517ZTFFK42L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81vcMhIqMSL.jpg | https://m.media-amazon.com/images/I/51LQc2FiOLL.jpg | https://m.media-amazon.com/images/I/51li0G0Hu9L.jpg | https://m.media-amazon.com/images/I/51Bx0T6645L.jpg | https://m.media-amazon.com/images/I/51rJNkLfTSL.jpg | https://m.media-amazon.com/images/I/517ZTFFK42L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,885.31",
   "Model": "TVDSPRAY12003",
   "Country": "USA"

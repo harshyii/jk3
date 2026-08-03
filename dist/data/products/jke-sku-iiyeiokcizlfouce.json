@@ -63,9 +63,9 @@
     "https://m.media-amazon.com/images/I/21ECx7zx81L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51yrDV-mtsL.jpg | https://m.media-amazon.com/images/I/31liIfJXA0L.jpg | https://m.media-amazon.com/images/I/51nsgUwXtVL.jpg | https://m.media-amazon.com/images/I/41mH33arNXL.jpg | https://m.media-amazon.com/images/I/51DDEcPPjJL.jpg | https://m.media-amazon.com/images/I/5123YedDNlL.jpg | https://m.media-amazon.com/images/I/217kI1X-gvL.jpg | https://m.media-amazon.com/images/I/21ECx7zx81L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "28.71%",
   "SalePrice": "₹2,349.00",
   "Model": "BXIR1604IN"
 }

@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/51yMZcoFAVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81CtwQLUjDL.jpg | https://m.media-amazon.com/images/I/416R5wVMPoL.jpg | https://m.media-amazon.com/images/I/419c9Llw6jL.jpg | https://m.media-amazon.com/images/I/51pj6gHFG9L.jpg | https://m.media-amazon.com/images/I/41Y7eLYINML.jpg | https://m.media-amazon.com/images/I/51btqMeaSBL.jpg | https://m.media-amazon.com/images/I/51PXvinO8mL.jpg | https://m.media-amazon.com/images/I/51yMZcoFAVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "453.59 Grams",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹4,676.27",
   "Model": "A3714",
   "Country": "USA"

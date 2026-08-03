@@ -48,9 +48,9 @@
     "https://m.media-amazon.com/images/I/51iaoQPqYpL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61Yi4o71wzL.jpg | https://m.media-amazon.com/images/I/51KoLCS9K5L.jpg | https://m.media-amazon.com/images/I/51iaoQPqYpL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "79.6%",
   "SalePrice": "₹2,040.00",
   "Model": "072151459990"
 }

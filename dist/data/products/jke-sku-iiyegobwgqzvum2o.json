@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/31SzgZ+fWVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51uev6RXEQL.jpg | https://m.media-amazon.com/images/I/416IbRpm7WL.jpg | https://m.media-amazon.com/images/I/41cf2M51yML.jpg | https://m.media-amazon.com/images/I/41HTzD1sOJL.jpg | https://m.media-amazon.com/images/I/41e793thytL.jpg | https://m.media-amazon.com/images/I/41mWSevx8kL.jpg | https://m.media-amazon.com/images/I/3105VTiCh6L.jpg | https://m.media-amazon.com/images/I/31SzgZ+fWVL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "800.0 Milliliters",
-  "Discount": 0,
+  "Discount": "65.59%",
   "SalePrice": "₹309.00",
   "Country": "India"
 }

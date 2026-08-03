@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/41mmxnhgErL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ij2yZv4VL.jpg | https://m.media-amazon.com/images/I/412ZUd7m7qL.jpg | https://m.media-amazon.com/images/I/510Hkk9oHyL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51AlqjRh8zL.jpg | https://m.media-amazon.com/images/I/51u9-UR82oL.jpg | https://m.media-amazon.com/images/I/51aNKKbtiLL.jpg | https://m.media-amazon.com/images/I/51qER33BgHL.jpg | https://m.media-amazon.com/images/I/41mmxnhgErL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "2000.0 Milliliters",
-  "Discount": 0,
+  "Discount": "8.37%",
   "SalePrice": "₹668.00",
   "Country": "Germany"
 }

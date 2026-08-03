@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51kNkOouwrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71X-R2ZgFLL.jpg | https://m.media-amazon.com/images/I/31JptXeXXiL.jpg | https://m.media-amazon.com/images/I/51yRTPKh0TL.jpg | https://m.media-amazon.com/images/I/51r86jyhFML.jpg | https://m.media-amazon.com/images/I/41XwG33Ib3L.jpg | https://m.media-amazon.com/images/I/41uudLh0n8L.jpg | https://m.media-amazon.com/images/I/31FVc2NNxzL.jpg | https://m.media-amazon.com/images/I/51kNkOouwrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "2%",
   "SalePrice": "₹245.00",
   "Model": "ALS320",
   "Country": "India"

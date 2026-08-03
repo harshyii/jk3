@@ -71,9 +71,9 @@
     "https://m.media-amazon.com/images/I/410VKtko7CL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51+aOYDwy7L.jpg | https://m.media-amazon.com/images/I/41LBEVp9koL.jpg | https://m.media-amazon.com/images/I/41YgjLuKDEL.jpg | https://m.media-amazon.com/images/I/51GEsRcCWLL.jpg | https://m.media-amazon.com/images/I/41t6fCBUkzL.jpg | https://m.media-amazon.com/images/I/4148FQj9RSL.jpg | https://m.media-amazon.com/images/I/410VKtko7CL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.00 Count",
-  "Discount": 0,
+  "Discount": "23.75%",
   "SalePrice": "₹22,799.00",
   "Model": "Zelio 1100 + Rc18000_Trolley"
 }

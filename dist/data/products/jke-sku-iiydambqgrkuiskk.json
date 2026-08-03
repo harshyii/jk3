@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/51j9KiThc6L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/611S7bmMBhL.jpg | https://m.media-amazon.com/images/I/213YYS1wqbL.jpg | https://m.media-amazon.com/images/I/21if1qE+kML.jpg | https://m.media-amazon.com/images/I/41Xyfat3u5L.jpg | https://m.media-amazon.com/images/I/51j9KiThc6L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "63.28%",
   "SalePrice": "₹1,285.36",
   "Model": "615"
 }

@@ -45,9 +45,9 @@
     "https://m.media-amazon.com/images/I/41tPcO4GNRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31vYItU5p2L.jpg | https://m.media-amazon.com/images/I/31vYItU5p2L.jpg | https://m.media-amazon.com/images/I/31kKMjC-QuL.jpg | https://m.media-amazon.com/images/I/41tPcO4GNRL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Piece",
-  "Discount": 0,
+  "Discount": "33.41%",
   "SalePrice": "₹9,989.00",
   "Model": "Rhp100"
 }

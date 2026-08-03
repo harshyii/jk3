@@ -56,9 +56,9 @@
     "https://m.media-amazon.com/images/I/21IV4EEjwzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51EK4I3+C8L.jpg | https://m.media-amazon.com/images/I/21rOoj89lZL.jpg | https://m.media-amazon.com/images/I/21wTZlPNE1L.jpg | https://m.media-amazon.com/images/I/212WNb6XuwL.jpg | https://m.media-amazon.com/images/I/21IV4EEjwzL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "20.44%",
   "SalePrice": "₹179.00",
   "Model": "1713"
 }

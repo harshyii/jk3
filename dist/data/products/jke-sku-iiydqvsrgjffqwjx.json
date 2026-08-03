@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/31HMb8mRtGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/619j4qQV0KL.jpg | https://m.media-amazon.com/images/I/41+7b0mVKDL.jpg | https://m.media-amazon.com/images/I/41avYZp0FjL.jpg | https://m.media-amazon.com/images/I/41JpvvrDI5L.jpg | https://m.media-amazon.com/images/I/41iOrFgBzvL.jpg | https://m.media-amazon.com/images/I/31HMb8mRtGL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹27,010.15",
   "Model": "2960-20"
 }

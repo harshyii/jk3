@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31Nq0DNcGtL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51CpuSyWQdL.jpg | https://m.media-amazon.com/images/I/31Nq0DNcGtL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "38.54%",
   "SalePrice": "₹3,070.00",
   "Model": "GHFJMBVB050"
 }

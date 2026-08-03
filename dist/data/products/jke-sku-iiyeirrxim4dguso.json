@@ -53,9 +53,9 @@
     "https://m.media-amazon.com/images/I/31cmnO9807L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41yBdlB4gQL.jpg | https://m.media-amazon.com/images/I/213bHhgqZZL.jpg | https://m.media-amazon.com/images/I/31DfXAxrIzL.jpg | https://m.media-amazon.com/images/I/31cmnO9807L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "29.15%",
   "SalePrice": "₹209.00",
   "Model": "L 17H"
 }

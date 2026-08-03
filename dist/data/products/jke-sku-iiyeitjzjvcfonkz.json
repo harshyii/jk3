@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51O90jn6jbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/610+ryERKIL.jpg | https://m.media-amazon.com/images/I/41Vjcei6zWL.jpg | https://m.media-amazon.com/images/I/31AdBqS+FzL.jpg | https://m.media-amazon.com/images/I/31KRKRdHJgL.jpg | https://m.media-amazon.com/images/I/51nwobkPAJL.jpg | https://m.media-amazon.com/images/I/51jSV3KfKZL.jpg | https://m.media-amazon.com/images/I/41pHXwHkntL.jpg | https://m.media-amazon.com/images/I/51O90jn6jbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "750.0 Milliliters",
-  "Discount": 0,
+  "Discount": "34.29%",
   "SalePrice": "₹1,899.00",
   "Model": "2383410",
   "Country": "Germany"

@@ -52,8 +52,8 @@
     "https://m.media-amazon.com/images/I/31SBQjC5Z2L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81Hg5qYukoL.jpg | https://m.media-amazon.com/images/I/51i5vzPK5uL.jpg | https://m.media-amazon.com/images/I/51Lu5rJU2PL.jpg | https://m.media-amazon.com/images/I/31nRaQ+TvIL.jpg | https://m.media-amazon.com/images/I/31SBQjC5Z2L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1000 Grams",
-  "Discount": 0,
+  "Discount": "73.32%",
   "SalePrice": "₹5,619.76"
 }

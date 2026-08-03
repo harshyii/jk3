@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51NSI1DiflL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71AjIV5XyCL.jpg | https://m.media-amazon.com/images/I/417olb6TH7L.jpg | https://m.media-amazon.com/images/I/4139W0Hb3cL.jpg | https://m.media-amazon.com/images/I/415gCF-FuYL.jpg | https://m.media-amazon.com/images/I/41J8FjeRCwL.jpg | https://m.media-amazon.com/images/I/51OAHda7DEL.jpg | https://m.media-amazon.com/images/I/51NSI1DiflL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "27.07%",
   "SalePrice": "₹15,019.00",
   "Model": "DCMCS565N-XJ"
 }

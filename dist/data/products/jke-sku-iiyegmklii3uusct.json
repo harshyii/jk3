@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/419IdvIqW-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/614kBt052rL.jpg | https://m.media-amazon.com/images/I/41KuIE+XPLL.jpg | https://m.media-amazon.com/images/I/51RQKjqBHjL.jpg | https://m.media-amazon.com/images/I/419IdvIqW-L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "26.75%",
   "SalePrice": "₹29,299.00",
   "Model": "Hercules Sine Pro 1500+ILTT25060",
   "Country": "India"

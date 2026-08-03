@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51FEjXQ3TuL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61W6UoGj6eL.jpg | https://m.media-amazon.com/images/I/41WZ9kOciLL.jpg | https://m.media-amazon.com/images/I/51FEjXQ3TuL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "68.01%",
   "SalePrice": "₹1,599.00",
   "Model": "cleaners spray for car"
 }

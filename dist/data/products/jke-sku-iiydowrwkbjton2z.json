@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/51oZVgILwSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41wYlmWwZsL.jpg | https://m.media-amazon.com/images/I/41wYlmWwZsL.jpg | https://m.media-amazon.com/images/I/41kGOPuLF8L.jpg | https://m.media-amazon.com/images/I/514nhLC99aL.jpg | https://m.media-amazon.com/images/I/41uGZLaCO7L.jpg | https://m.media-amazon.com/images/I/51xj9FynXGL.jpg | https://m.media-amazon.com/images/I/41-YpQjwF7L.jpg | https://m.media-amazon.com/images/I/51oZVgILwSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "68.84%",
   "SalePrice": "₹249.00",
   "Model": "MA-ASGT-2-34"
 }

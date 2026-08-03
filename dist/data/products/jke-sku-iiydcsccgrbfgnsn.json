@@ -43,9 +43,9 @@
     "https://m.media-amazon.com/images/I/51MMLxaH4qL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51MMLxaH4qL.jpg | https://m.media-amazon.com/images/I/51MMLxaH4qL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "16.75%",
   "SalePrice": "₹4,994.00",
   "Model": "DSB234"
 }

@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/21alJtgjuEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61qL6JnQpbL.jpg | https://m.media-amazon.com/images/I/41gnP072hrL.jpg | https://m.media-amazon.com/images/I/4124KNc4sxL.jpg | https://m.media-amazon.com/images/I/51yD3sYv+wL.jpg | https://m.media-amazon.com/images/I/413MLZq9fPL.jpg | https://m.media-amazon.com/images/I/41KtztNvygL.jpg | https://m.media-amazon.com/images/I/51uNLHT6+HL.jpg | https://m.media-amazon.com/images/I/21alJtgjuEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Piece",
-  "Discount": 0,
+  "Discount": "77.08%",
   "SalePrice": "₹229.00",
   "Model": "10pcdc35mm"
 }

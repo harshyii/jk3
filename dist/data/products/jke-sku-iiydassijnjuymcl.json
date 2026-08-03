@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/41flIIf++NL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71usPnA018L.jpg | https://m.media-amazon.com/images/I/51+h-RT7LKL.jpg | https://m.media-amazon.com/images/I/51nDpxAMuTL.jpg | https://m.media-amazon.com/images/I/41InzJuVA5L.jpg | https://m.media-amazon.com/images/I/41yh6nmoI7L.jpg | https://m.media-amazon.com/images/I/41phdWVe7QL.jpg | https://m.media-amazon.com/images/I/51ssgMkoK5L.jpg | https://m.media-amazon.com/images/I/41flIIf++NL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "73.65%",
   "SalePrice": "₹4,852.00",
   "Model": "BK-4HCCA8BA"
 }

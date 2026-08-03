@@ -60,9 +60,9 @@
     "https://m.media-amazon.com/images/I/51ZdSF18a1L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51OvpJbGLXL.jpg | https://m.media-amazon.com/images/I/51OvpJbGLXL.jpg | https://m.media-amazon.com/images/I/51gPNKJO3GL.jpg | https://m.media-amazon.com/images/I/51BCo8cfUHL.jpg | https://m.media-amazon.com/images/I/61JkbsXbUwL.jpg | https://m.media-amazon.com/images/I/51lAKlw1oSL.jpg | https://m.media-amazon.com/images/I/51CxPmRbxDL.jpg | https://m.media-amazon.com/images/I/51ZdSF18a1L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "11 Count",
-  "Discount": 0,
+  "Discount": "30.03%",
   "SalePrice": "₹699.00",
   "Model": "11 in 1 impact socket set"
 }

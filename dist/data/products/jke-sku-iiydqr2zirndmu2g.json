@@ -73,9 +73,9 @@
     "https://m.media-amazon.com/images/I/41ucHIMdZ3L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/713B6JvGa9L.jpg | https://m.media-amazon.com/images/I/51LZFfCxq7L.jpg | https://m.media-amazon.com/images/I/51WXrqMKADL.jpg | https://m.media-amazon.com/images/I/41EFofh8aoL.jpg | https://m.media-amazon.com/images/I/610SHanGRSL.jpg | https://m.media-amazon.com/images/I/41ZN7MM2t2L.jpg | https://m.media-amazon.com/images/I/61z5M-DTamL.jpg | https://m.media-amazon.com/images/I/41ucHIMdZ3L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "67.11%",
   "SalePrice": "₹197.00",
   "Model": "UC-3M-03A"
 }

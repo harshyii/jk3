@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/11KF1Q3ZtUL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51RN7gfjlZL.jpg | https://m.media-amazon.com/images/I/21fyqcZfBFL.jpg | https://m.media-amazon.com/images/I/211K-cBVnwS.jpg | https://m.media-amazon.com/images/I/212xuZNV17S.jpg | https://m.media-amazon.com/images/I/31C4z8A6mIL.jpg | https://m.media-amazon.com/images/I/217IcucXcVS.jpg | https://m.media-amazon.com/images/I/21lTVgI49pL.jpg | https://m.media-amazon.com/images/I/11KF1Q3ZtUL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "60.29%",
   "SalePrice": "₹274.00",
   "Model": "E-2010_27*33"
 }

@@ -68,9 +68,9 @@
     "https://m.media-amazon.com/images/I/41KrVGcVrrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71OjaqxtwdL.jpg | https://m.media-amazon.com/images/I/31F02UNTWEL.jpg | https://m.media-amazon.com/images/I/41LSq7FZbKL.jpg | https://m.media-amazon.com/images/I/31Mrc8AJMFL.jpg | https://m.media-amazon.com/images/I/31huYcBNTTL.jpg | https://m.media-amazon.com/images/I/410i54ZIpJL.jpg | https://m.media-amazon.com/images/I/41KrVGcVrrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "24.67%",
   "SalePrice": "₹5,800.00",
   "Model": "DS12DFSBZ"
 }

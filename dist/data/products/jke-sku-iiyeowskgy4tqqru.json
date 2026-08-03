@@ -47,9 +47,9 @@
     "https://m.media-amazon.com/images/I/31d6vOCgCWL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/3160af+jODL.jpg | https://m.media-amazon.com/images/I/3160af+jODL.jpg | https://m.media-amazon.com/images/I/41qX9e5Y9JL.jpg | https://m.media-amazon.com/images/I/31d6vOCgCWL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.37%",
   "SalePrice": "₹1,999.00",
   "Model": "PARA12TPR"
 }

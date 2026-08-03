@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/21negAGtiyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61a+X4KQ4VL.jpg | https://m.media-amazon.com/images/I/41paA56oQML.jpg | https://m.media-amazon.com/images/I/31KURixV0RL.jpg | https://m.media-amazon.com/images/I/21negAGtiyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "100.0 Milliliters",
-  "Discount": 0,
+  "Discount": "37.94%",
   "SalePrice": "₹3,250.59",
   "Model": "18760",
   "Country": "USA"

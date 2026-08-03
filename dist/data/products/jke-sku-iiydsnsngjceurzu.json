@@ -51,9 +51,9 @@
     "https://m.media-amazon.com/images/I/41RBZbk4CbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81f1qYsDTtL.jpg | https://m.media-amazon.com/images/I/41cbnRjDOZL.jpg | https://m.media-amazon.com/images/I/41RBZbk4CbL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "28.94%",
   "SalePrice": "₹2,279.00",
   "Model": "DWST83392-1"
 }

@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51yPvICP5zL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71aewGikpAL.jpg | https://m.media-amazon.com/images/I/41v3GbvfMDL.jpg | https://m.media-amazon.com/images/I/41kK8+AkSKL.jpg | https://m.media-amazon.com/images/I/51k3GR+rcEL.jpg | https://m.media-amazon.com/images/I/51k2+YfYz3L.jpg | https://m.media-amazon.com/images/I/51NUcesGY6L.jpg | https://m.media-amazon.com/images/I/41t0szT6zCL.jpg | https://m.media-amazon.com/images/I/51yPvICP5zL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "473 Milliliters",
-  "Discount": 0,
+  "Discount": "21.97%",
   "SalePrice": "₹476.00",
   "Model": "T-123R",
   "Country": "USA"

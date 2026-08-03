@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41GYcS6WDQL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/714qi62UdRL.jpg | https://m.media-amazon.com/images/I/41yv2m3-qyL.jpg | https://m.media-amazon.com/images/I/31uLtATLRIL.jpg | https://m.media-amazon.com/images/I/41GYcS6WDQL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "25%",
   "SalePrice": "₹14,291.00",
   "Model": "DPP/20"
 }

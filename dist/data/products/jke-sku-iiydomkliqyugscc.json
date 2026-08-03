@@ -58,9 +58,9 @@
     "https://m.media-amazon.com/images/I/51I2IfseS7L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61d7RPJNVgL.jpg | https://m.media-amazon.com/images/I/41x8HUWXqnL.jpg | https://m.media-amazon.com/images/I/417hOS1xrlL.jpg | https://m.media-amazon.com/images/I/51KXf17mQBL.jpg | https://m.media-amazon.com/images/I/51drVZlLdLL.jpg | https://m.media-amazon.com/images/I/51I2IfseS7L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹21,261.98",
   "Model": "XAG04Z"
 }

@@ -70,9 +70,9 @@
     "https://m.media-amazon.com/images/I/31Dp5flCweL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71l5vKhgksL.jpg | https://m.media-amazon.com/images/I/41MgP7-owjL.jpg | https://m.media-amazon.com/images/I/41bXXYuoUNL.jpg | https://m.media-amazon.com/images/I/417S3JgnyrL.jpg | https://m.media-amazon.com/images/I/31uuITCtv8L.jpg | https://m.media-amazon.com/images/I/31IH+tqW+rL.jpg | https://m.media-amazon.com/images/I/41qhU7ttuuL.jpg | https://m.media-amazon.com/images/I/31Dp5flCweL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "32.45%",
   "SalePrice": "₹6,700.00",
   "Model": "PCL500B"
 }

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51pgYxGvDEL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/6109UsawC1L.jpg | https://m.media-amazon.com/images/I/31Lnrx4o0BL.jpg | https://m.media-amazon.com/images/I/414owJsgRpL.jpg | https://m.media-amazon.com/images/I/51mAmUUOj0L.jpg | https://m.media-amazon.com/images/I/51uzCuYGiML.jpg | https://m.media-amazon.com/images/I/41XfrhTtjcL.jpg | https://m.media-amazon.com/images/I/51pgYxGvDEL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "33.67%",
   "SalePrice": "₹20,925.00",
   "Model": "GHWRGAS015"
 }

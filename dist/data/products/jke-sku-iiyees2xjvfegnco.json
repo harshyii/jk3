@@ -64,9 +64,9 @@
     "https://m.media-amazon.com/images/I/51zIfpT4dZL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51kzRvYA2mL.jpg | https://m.media-amazon.com/images/I/31qQVGKG7WL.jpg | https://m.media-amazon.com/images/I/41RfW7uRH5L.jpg | https://m.media-amazon.com/images/I/41hKVVL68wL.jpg | https://m.media-amazon.com/images/I/51zIfpT4dZL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "10 Count",
-  "Discount": 0,
+  "Discount": "29.65%",
   "SalePrice": "₹140.00",
   "Model": "GFYTF486578",
   "Country": "India"

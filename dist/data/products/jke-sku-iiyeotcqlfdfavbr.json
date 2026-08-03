@@ -49,9 +49,9 @@
     "https://m.media-amazon.com/images/I/41ah9x7wzyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71jvqkExqUL.jpg | https://m.media-amazon.com/images/I/41YCTc2h9YL.jpg | https://m.media-amazon.com/images/I/41ah9x7wzyL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "42.04%",
   "SalePrice": "₹10,780.00",
   "Model": "RH18008"
 }

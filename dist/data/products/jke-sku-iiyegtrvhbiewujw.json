@@ -66,9 +66,9 @@
     "https://m.media-amazon.com/images/I/41NkCMvUuDL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31gis9wlHTL.jpg | https://m.media-amazon.com/images/I/21evi-TwZXL.jpg | https://m.media-amazon.com/images/I/51y4I2Eq1OL.jpg | https://m.media-amazon.com/images/I/31sItoGVMVL.jpg | https://m.media-amazon.com/images/I/41IZfxxdbKL.jpg | https://m.media-amazon.com/images/I/410+tVfS5jL.jpg | https://m.media-amazon.com/images/I/419nqHQ4cpL.jpg | https://m.media-amazon.com/images/I/41NkCMvUuDL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "37.5%",
   "SalePrice": "₹6,486.89",
   "Model": "48-22-2904"
 }

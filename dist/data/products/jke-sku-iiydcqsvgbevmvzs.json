@@ -55,9 +55,9 @@
     "https://m.media-amazon.com/images/I/41iJfiZtoPL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/91R6SOatGqL.jpg | https://m.media-amazon.com/images/I/51Rf4GsTRfL.jpg | https://m.media-amazon.com/images/I/51Gpj8HTX0L.jpg | https://m.media-amazon.com/images/I/31SyN9wHQdL.jpg | https://m.media-amazon.com/images/I/41iJfiZtoPL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "13.16%",
   "SalePrice": "₹16,503.30",
   "Model": "DT70556T-QZ"
 }

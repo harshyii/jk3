@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/2177NPrnRkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61298k6uAIL.jpg | https://m.media-amazon.com/images/I/31x0eHP7vXL.jpg | https://m.media-amazon.com/images/I/31+fE5eKFqL.jpg | https://m.media-amazon.com/images/I/31rOmYxyBNL.jpg | https://m.media-amazon.com/images/I/2177NPrnRkL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "12 Piece",
-  "Discount": 0,
+  "Discount": "76.67%",
   "SalePrice": "₹350.00",
   "Model": "Xp-hss12",
   "Country": "India"

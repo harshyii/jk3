@@ -62,9 +62,9 @@
     "https://m.media-amazon.com/images/I/51Ca-hzVZHL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71r3fcBLPbL.jpg | https://m.media-amazon.com/images/I/51sSLDP-dLL.jpg | https://m.media-amazon.com/images/I/51XAZB3MIzL.jpg | https://m.media-amazon.com/images/I/51XMypqQ1zL.jpg | https://m.media-amazon.com/images/I/51fyY3cqIBL.jpg | https://m.media-amazon.com/images/I/51+b0WluNeL.jpg | https://m.media-amazon.com/images/I/51De4TVSUmL.jpg | https://m.media-amazon.com/images/I/51Ca-hzVZHL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "65.2%",
   "SalePrice": "₹10,859.00",
   "Model": "XBL-30"
 }

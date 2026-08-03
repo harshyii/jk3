@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/514ctXKy0bL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ep9dWiNnL.jpg | https://m.media-amazon.com/images/I/41SXA51C-+L.jpg | https://m.media-amazon.com/images/I/51q8xh6omTL.jpg | https://m.media-amazon.com/images/I/41aHtgoQ6oL.jpg | https://m.media-amazon.com/images/I/51Fu23Y5URL.jpg | https://m.media-amazon.com/images/I/513rJAM1ALL.jpg | https://m.media-amazon.com/images/I/41PNbNSFVrL.jpg | https://m.media-amazon.com/images/I/514ctXKy0bL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "17.29%",
   "SalePrice": "₹5,789.00",
   "Model": "KRIW2A"
 }

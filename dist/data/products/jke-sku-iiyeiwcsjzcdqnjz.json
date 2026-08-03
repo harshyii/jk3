@@ -54,9 +54,9 @@
     "https://m.media-amazon.com/images/I/51Bvv81IydL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618ZEOq8F-L.jpg | https://m.media-amazon.com/images/I/31TLlLbJLdL.jpg | https://m.media-amazon.com/images/I/41ThfxrTS0L.jpg | https://m.media-amazon.com/images/I/410HSMFGprL.jpg | https://m.media-amazon.com/images/I/51PRohWSuJL.jpg | https://m.media-amazon.com/images/I/51Bvv81IydL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1 Count",
-  "Discount": 0,
+  "Discount": "0.9%",
   "SalePrice": "₹25,399.00",
   "Model": "Zolt1100+AMP Box AB18060"
 }

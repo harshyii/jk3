@@ -61,9 +61,9 @@
     "https://m.media-amazon.com/images/I/41LGxqdoaML.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81xP3NK1SmL.jpg | https://m.media-amazon.com/images/I/41OD04up5CL.jpg | https://m.media-amazon.com/images/I/3192pARGI7L.jpg | https://m.media-amazon.com/images/I/51C7yFzNrKL.jpg | https://m.media-amazon.com/images/I/51PNiyX51nS.jpg | https://m.media-amazon.com/images/I/41GHQgEVlBL.jpg | https://m.media-amazon.com/images/I/41LGxqdoaML.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "37.85%",
   "SalePrice": "₹6,825.26",
   "Model": "BM3B",
   "Country": "USA"

@@ -67,9 +67,9 @@
     "https://m.media-amazon.com/images/I/51cwWqwYNrL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71lrgCvNgFL.jpg | https://m.media-amazon.com/images/I/413TCumWi7L.jpg | https://m.media-amazon.com/images/I/51dAYG6G7PL.jpg | https://m.media-amazon.com/images/I/51V8QurEMxL.jpg | https://m.media-amazon.com/images/I/51exEXmVXbL.jpg | https://m.media-amazon.com/images/I/514T9CIVolL.jpg | https://m.media-amazon.com/images/I/51UbF4HuUDL.jpg | https://m.media-amazon.com/images/I/51cwWqwYNrL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "25.00 Piece",
-  "Discount": 0,
+  "Discount": "42.5%",
   "SalePrice": "₹690.00",
   "Model": "GWG100",
   "Country": "India"

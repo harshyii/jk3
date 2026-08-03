@@ -65,9 +65,9 @@
     "https://m.media-amazon.com/images/I/5103eh5MDSL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51l3OsiDJCL.jpg | https://m.media-amazon.com/images/I/31j2-IjDzQL.jpg | https://m.media-amazon.com/images/I/311g2JRw9bL.jpg | https://m.media-amazon.com/images/I/41dSBTGf8iL.jpg | https://m.media-amazon.com/images/I/41ruMWQVkQL.jpg | https://m.media-amazon.com/images/I/41NqsMCbeZL.jpg | https://m.media-amazon.com/images/I/51mdZeqngYL.jpg | https://m.media-amazon.com/images/I/5103eh5MDSL.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "1.0 Count",
-  "Discount": 0,
+  "Discount": "61.13%",
   "SalePrice": "₹4,080.97",
   "Model": "7350-5"
 }

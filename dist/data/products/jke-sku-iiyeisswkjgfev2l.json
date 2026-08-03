@@ -72,9 +72,9 @@
     "https://m.media-amazon.com/images/I/51Hxu50yD0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71HEm57POXL.jpg | https://m.media-amazon.com/images/I/51iAWbY5LAL.jpg | https://m.media-amazon.com/images/I/516QDqSsxjL.jpg | https://m.media-amazon.com/images/I/51u0mbbdPCL.jpg | https://m.media-amazon.com/images/I/41OrawPvftL.jpg | https://m.media-amazon.com/images/I/51+9uwk-krL.jpg | https://m.media-amazon.com/images/I/51gHf1wem7L.jpg | https://m.media-amazon.com/images/I/51Hxu50yD0L.jpg",
-  "StockQuantity": 0,
+  "StockQuantity": 2,
   "Unit": "PC",
-  "Discount": 0,
+  "Discount": "48.51%",
   "SalePrice": "₹9,577.00",
   "Model": "IBL BH22-47"
 }

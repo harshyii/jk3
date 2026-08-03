@@ -52,7 +52,7 @@ function renderFeaturedProducts(products) {
     }
 
     // Select top 8 random products with nice visual presentation criteria
-    let featured = shuffled.slice(0, 8);
+    let featured = shuffled.slice(0, 12);
 
     if (featured.length === 0) {
         container.innerHTML = '<p class="text-center text-muted">No products available at the moment.</p>';

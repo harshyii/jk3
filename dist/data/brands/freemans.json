@@ -6,5 +6,776 @@
   "description": "Browse Freemans measuring tapes, spirit levels, hand tools, and layout measuring accessories.",
   "seoTitle": "Freemans Measuring Tools | Haryana.Tools",
   "metaDescription": "Explore Freemans measuring tapes, spirit levels, and precision hand tools.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYDORCTGFDVSR2K",
+      "slug": "freeman-p13inlc-13-laminate-flooring-cutter",
+      "name": "Freeman P13INLC 13\" Laminate Flooring Cutter",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 64290,
+      "image": "https://m.media-amazon.com/images/I/61NCLTuzL+L.jpg | https://m.media-amazon.com/images/I/41VjlGzA5+L.jpg | https://m.media-amazon.com/images/I/41KU0brwmDL.jpg | https://m.media-amazon.com/images/I/512D8lNxpvL.jpg | https://m.media-amazon.com/images/I/51bI-iOvw+L.jpg | https://m.media-amazon.com/images/I/31fykvfMxwL.jpg",
+      "productUrl": "https://www.amazon.in/Freeman-P13INLC-Laminate-Flooring-Cutter/dp/B07DS1GYGJ/ref=sr_1_80"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQUKLJVNDCQSR",
+      "slug": "freeman-p14g50fecr-14-gauge-50-retractable-extension-cord",
+      "name": "Freeman P14G50FECR 14 Gauge 50' Retractable Extension Cord...",
+      "brand": "Freemans",
+      "category": "Safety & Security",
+      "price": 38555.41,
+      "image": "https://m.media-amazon.com/images/I/61wOT1ZKg7L.jpg | https://m.media-amazon.com/images/I/41dGZhLQhiL.jpg | https://m.media-amazon.com/images/I/41qA7SYMLEL.jpg | https://m.media-amazon.com/images/I/41dOJwcJa5L.jpg",
+      "productUrl": "https://www.amazon.in/Freeman-P14G50FECR-Gauge-Retractable-Extension/dp/B08QKMZ1BQ/ref=sr_1_81"
+    },
+    {
+      "sku": "JKE-SKU-IIYDONRVGJJUQMJT",
+      "slug": "freemans-measuring-tape-ikon-75-mtr-x-25-mm",
+      "name": "FREEMANS - MEASURING TAPE IKON 7.5 MTR X 25 MM\"",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 306,
+      "image": "https://m.media-amazon.com/images/I/81KOIfmskwL.jpg | https://m.media-amazon.com/images/I/419Vje+AoDL.jpg | https://m.media-amazon.com/images/I/41jNskmqvML.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-MEASURING-TAPE-IKON-7-5/dp/B07652SH13/ref=sr_1_62_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGVRXI5EFER2Z",
+      "slug": "freemans-12-square-drive-18-pieces-hex-sockets-set-with",
+      "name": "FREEMANS 1/2\" Square Drive 18 Pieces HEX Sockets set With...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 2976,
+      "image": "https://m.media-amazon.com/images/I/71vRZ0DXH6L.jpg | https://m.media-amazon.com/images/I/41fPScVI-VL.jpg | https://m.media-amazon.com/images/I/41q0An6HdNL.jpg | https://m.media-amazon.com/images/I/41EI7nzzldL.jpg | https://m.media-amazon.com/images/I/41R0aa08S7L.jpg | https://m.media-amazon.com/images/I/312M-GsjE4L.jpg | https://m.media-amazon.com/images/I/41BdCuK63HL.jpg | https://m.media-amazon.com/images/I/41MmTeMsxkL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-HEX-Industrial-Professional-Automobiles/dp/B0CV7GHRGY/ref=sr_1_69"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVFEIQKV",
+      "slug": "freemans-10km-abs-measuring-wheelroadometer-light-and",
+      "name": "FREEMANS 10km ABS Measuring Wheel/Roadometer | Light and...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 3945,
+      "image": "https://m.media-amazon.com/images/I/51a3oudFHcL.jpg | https://m.media-amazon.com/images/I/315Ahz-e1CL.jpg | https://m.media-amazon.com/images/I/51gw5LCifGL.jpg | https://m.media-amazon.com/images/I/41+wOHohBEL.jpg | https://m.media-amazon.com/images/I/417pbL0n9PL.jpg | https://m.media-amazon.com/images/I/51qcaIwZtUL.jpg | https://m.media-amazon.com/images/I/51ljsaO7t4L.jpg | https://m.media-amazon.com/images/I/51kJgQLtzdL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-MW01-Plastic-Measuring-Wheel/dp/B010M5JDAU/ref=sr_1_20_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEDIRCT",
+      "slug": "freemans-15m13mm-stainless-steel-open-reel-dip-measuring",
+      "name": "FREEMANS 15m:13mm Stainless Steel Open Reel Dip Measuring...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 3903,
+      "image": "https://m.media-amazon.com/images/I/6142k+sZj1L.jpg | https://m.media-amazon.com/images/I/518qNyzonrL.jpg | https://m.media-amazon.com/images/I/41dyLj00lQL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-15m-Stainless-Bi-Material-Measurement/dp/B010M5H4DS/ref=sr_1_39"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOTRWGRBUUMSY",
+      "slug": "freemans-30m13-mm-fibra-fibreglass-measuring-tape-",
+      "name": "FREEMANS 30m:13 mm Fibra Fibreglass Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/71iyKA4vqSL.jpg | https://m.media-amazon.com/images/I/31mVHlKFZRL.jpg | https://m.media-amazon.com/images/I/41UUGfd5oML.jpg | https://m.media-amazon.com/images/I/31pQk2Oa5vL.jpg | https://m.media-amazon.com/images/I/314YlE1TjIL.jpg | https://m.media-amazon.com/images/I/41GnIJCDCFL.jpg | https://m.media-amazon.com/images/I/41QUqkjCJtL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Fibra-Fibreglass-Measuring-tape/dp/B07N64CJ2X/ref=sr_1_3"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSN2LHE4DQNCX",
+      "slug": "freemans-5-in-1-pieces-screw-driver-kit-with-neon-bulb",
+      "name": "FREEMANS 5-in-1 Pieces Screw Driver Kit With Neon Bulb,...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 230,
+      "image": "https://m.media-amazon.com/images/I/51PnDyLWi8L.jpg | https://m.media-amazon.com/images/I/31kkvcC+U3L.jpg | https://m.media-amazon.com/images/I/41YWumfXxJL.jpg | https://m.media-amazon.com/images/I/51E0y6gHAGL.jpg | https://m.media-amazon.com/images/I/41PHXMr-YhL.jpg | https://m.media-amazon.com/images/I/41oNNG2xbBL.jpg | https://m.media-amazon.com/images/I/41aeKAyEgKL.jpg | https://m.media-amazon.com/images/I/41vkSZYADzL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Phillips-Multi-Purpose-Screwdriver-Set/dp/B097K9884W/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOQRYLI2VONCT",
+      "slug": "freemans-6-pieces-diy-tool-kit-includes-an-8-inch",
+      "name": "FREEMANS 6 Pieces DIY Tool Kit, Includes an 8-inch...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 1280,
+      "image": "https://m.media-amazon.com/images/I/81ja2NbYtiL.jpg | https://m.media-amazon.com/images/I/41cdCxP60AL.jpg | https://m.media-amazon.com/images/I/41zfixEQvSL.jpg | https://m.media-amazon.com/images/I/41AirEUIEeL.jpg | https://m.media-amazon.com/images/I/41rSkP2CzzL.jpg | https://m.media-amazon.com/images/I/41EgXgeAAbL.jpg | https://m.media-amazon.com/images/I/41Fz8O+CUAS.jpg | https://m.media-amazon.com/images/I/41ZRThJZMoL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-DIY-Youself-Tool-Kit/dp/B07B8Z5W4S/ref=sr_1_75"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGQSLJU4DQNKW",
+      "slug": "freemans-autoflex-5m19mm-steel-inchi-pocket-measuring-tape",
+      "name": "FREEMANS AUTOFLEX 5m:19mm Steel Inchi Pocket Measuring Tape...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 183,
+      "image": "https://m.media-amazon.com/images/I/61Xiym7Ll3L.jpg | https://m.media-amazon.com/images/I/41+7jtVLevL.jpg | https://m.media-amazon.com/images/I/71FNrIN00JL.jpg | https://m.media-amazon.com/images/I/51BOgfBgP2L.jpg | https://m.media-amazon.com/images/I/51y3QW-HUJL.jpg | https://m.media-amazon.com/images/I/51pP7YpKmlL.jpg | https://m.media-amazon.com/images/I/41aRs8MIssL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-AUTOFLEX-5m-Measuring-Unbreakable/dp/B0CBKM885V/ref=sr_1_4"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIS2KJZMUUOJR",
+      "slug": "freemans-box-section-aluminum-spirit-level-with-magnet-30cm",
+      "name": "FREEMANS Box Section Aluminum Spirit Level with Magnet 30cm",
+      "brand": "Freemans",
+      "category": "Measuring Instruments",
+      "price": 685,
+      "image": "https://m.media-amazon.com/images/I/5180uchlYsL.jpg | https://m.media-amazon.com/images/I/31MQiXQonfL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Magnet/dp/B0DKJNYJ91/ref=sr_1_68"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIS2KKFIFEQZU",
+      "slug": "freemans-box-section-aluminum-spirit-level-with-magnet-30cm",
+      "name": "FREEMANS Box Section Aluminum Spirit Level with Magnet 30cm",
+      "brand": "Freemans",
+      "category": "Measuring Instruments",
+      "price": 790,
+      "image": "https://m.media-amazon.com/images/I/41PQbuNU+vL.jpg | https://m.media-amazon.com/images/I/21ifP1FfQyL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Magnet/dp/B0DKJQPRC4/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIS2KJVNFQNSO",
+      "slug": "freemans-box-section-aluminum-spirit-level-with-magnet-30cm",
+      "name": "FREEMANS Box Section Aluminum Spirit Level with Magnet 30cm",
+      "brand": "Freemans",
+      "category": "Measuring Instruments",
+      "price": 724,
+      "image": "https://m.media-amazon.com/images/I/41O2e3QB6-L.jpg | https://m.media-amazon.com/images/I/31blsuESuCL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Magnet/dp/B0DKJMZX6N/ref=sr_1_73"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIS2KKZKEEUKK",
+      "slug": "freemans-box-section-aluminum-spirit-level-with-magnet-30cm",
+      "name": "FREEMANS Box Section Aluminum Spirit Level with Magnet 30cm",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 1145,
+      "image": "https://m.media-amazon.com/images/I/51AsAQ3lnyL.jpg | https://m.media-amazon.com/images/I/31nFPJx-ZYL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Magnet/dp/B0DKJVTBQJ/ref=sr_1_72"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGSSKKFIDSSCK",
+      "slug": "freemans-bs360-box-section-aluminum-spirit-level-without",
+      "name": "FREEMANS BS360 Box Section Aluminum Spirit Level Without...",
+      "brand": "Freemans",
+      "category": "Measuring Instruments",
+      "price": 541,
+      "image": "https://m.media-amazon.com/images/I/51QP7syjWJL.jpg | https://m.media-amazon.com/images/I/31VjRb9iPjL.jpg | https://m.media-amazon.com/images/I/4190-yWybVL.jpg | https://m.media-amazon.com/images/I/41CXw6JNTrL.jpg | https://m.media-amazon.com/images/I/41eBJ9eZtCL.jpg | https://m.media-amazon.com/images/I/41lki1cnzlL.jpg | https://m.media-amazon.com/images/I/41M6AOY872L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Without/dp/B0CJJQP9HJ/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOUKMKFLUQWCS",
+      "slug": "freemans-centigraff-3-m-13-mm-measuring-tape-yellow-and",
+      "name": "FREEMANS Centigraff 3 m 13 mm Measuring Tape (Yellow and...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 750,
+      "image": "https://m.media-amazon.com/images/I/61wanmCdvYL.jpg | https://m.media-amazon.com/images/I/4104pVvfFDL.jpg | https://m.media-amazon.com/images/I/51PXVbzEIJL.jpg | https://m.media-amazon.com/images/I/51Wjsu2JROL.jpg | https://m.media-amazon.com/images/I/51ojpctvn0L.jpg | https://m.media-amazon.com/images/I/51TE0Dkj2NL.jpg | https://m.media-amazon.com/images/I/51nzHGvMxSL.jpg | https://m.media-amazon.com/images/I/513tDHY2ijL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Centigraff-13mm-Measuring-Tape/dp/B07QLQWHXR/ref=sr_1_47"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGQSSK43TKSCY",
+      "slug": "freemans-cl3100-centigraff-box-section-aluminium-level-and",
+      "name": "FREEMANS CL3100 Centigraff Box Section Aluminium Level and...",
+      "brand": "Freemans",
+      "category": "Measuring Instruments",
+      "price": 698,
+      "image": "https://m.media-amazon.com/images/I/51PXso0dOFL.jpg | https://m.media-amazon.com/images/I/21XX3UgWZXL.jpg | https://m.media-amazon.com/images/I/41AQhwRf3WL.jpg | https://m.media-amazon.com/images/I/41aRs8MIssL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Centigraff-Section-Aluminium-Printed/dp/B0CBRW75HX/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGQSSKNBFSR2Y",
+      "slug": "freemans-cl360-centigraff-box-section-aluminium-level-and",
+      "name": "FREEMANS CL360 Centigraff Box Section Aluminium Level and...",
+      "brand": "Freemans",
+      "category": "Measuring Instruments",
+      "price": 491,
+      "image": "https://m.media-amazon.com/images/I/31hjTjmuujL.jpg | https://m.media-amazon.com/images/I/31hjTjmuujL.jpg | https://m.media-amazon.com/images/I/41SGC3egfRL.jpg | https://m.media-amazon.com/images/I/41aRs8MIssL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Centigraff-Section-Aluminium-Printed/dp/B0CBRSBYGX/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-SKU-IIYEQOJYIJBDIWBW",
+      "slug": "freemans-cp06-combination-plier-with-cellulose-acetate",
+      "name": "FREEMANS CP06 Combination Plier with Cellulose Acetate...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 218,
+      "image": "https://m.media-amazon.com/images/I/51YBW3Ip2HL.jpg | https://m.media-amazon.com/images/I/31ocYMTMC1L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-CP06-Combination-Cellulose-Acetate/dp/B0H98BB4X6/ref=sr_1_48"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINSOIRGEUTS2",
+      "slug": "freemans-cpr08-combination-plier-with-cellulose-acetate",
+      "name": "FREEMANS CPR08 Combination Plier with Cellulose Acetate...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 259,
+      "image": "https://m.media-amazon.com/images/I/41aeNRRcfBL.jpg | https://m.media-amazon.com/images/I/31EphtfZUqL.jpg | https://m.media-amazon.com/images/I/41HhKNfGuYL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-CPR08-Combination-Cellulose-Acetate/dp/B0D6NDLJNZ/ref=sr_1_61_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOSBSKZDTQMRW",
+      "slug": "freemans-deb-2m-measuring-tapes-set-of-10-pieces",
+      "name": "FREEMANS DEB 2m Measuring Tapes - Set of 10 Pieces",
+      "brand": "Freemans",
+      "category": "Tools & Machinery",
+      "price": 480,
+      "image": "https://m.media-amazon.com/images/I/61vrtKVT0mL.jpg | https://m.media-amazon.com/images/I/41D7o-tMmVL.jpg | https://m.media-amazon.com/images/I/41RJQR+H66L.jpg | https://m.media-amazon.com/images/I/41Qyp6LtiDL.jpg | https://m.media-amazon.com/images/I/51HUsEnU5ML.jpg | https://m.media-amazon.com/images/I/51mCdjh-wFL.jpg | https://m.media-amazon.com/images/I/410srFzF2QL.jpg | https://m.media-amazon.com/images/I/41swphvI7bL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-DEB-2m-Measuring-Tapes/dp/B07H2VG826/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOMZUIZNE2TSZ",
+      "slug": "freemans-dlh12-455-12-drive-l-type-handle-455mm-18-",
+      "name": "FREEMANS DLH12-455 1/2\" Drive L-Type Handle - 455mm (18-...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 574,
+      "image": "https://m.media-amazon.com/images/I/511Sg9Ha-nL.jpg | https://m.media-amazon.com/images/I/21-jUOtxg2L.jpg | https://m.media-amazon.com/images/I/31HIEsmdXpL.jpg | https://m.media-amazon.com/images/I/41nU39qaJCL.jpg | https://m.media-amazon.com/images/I/51owrNDDB-L.jpg | https://m.media-amazon.com/images/I/41TqXZmzP7L.jpg | https://m.media-amazon.com/images/I/41o+YHIiYEL.jpg | https://m.media-amazon.com/images/I/411jqouIbxL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-DLH12-455-Drive-L-Type-Handle/dp/B0G34FZMNY/ref=sr_1_51_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINSSJVLUUWBR",
+      "slug": "freemans-fbc-8200mm-chrome-vanadium-steel-mini-bolt-and",
+      "name": "FREEMANS FBC 8\"/200mm Chrome Vanadium Steel Mini Bolt and...",
+      "brand": "Freemans",
+      "category": "Fasteners",
+      "price": 608,
+      "image": "https://m.media-amazon.com/images/I/41L+xP6KgVL.jpg | https://m.media-amazon.com/images/I/31XJcyQeDPL.jpg | https://m.media-amazon.com/images/I/41HLipSl2UL.jpg | https://m.media-amazon.com/images/I/41lctxARQXL.jpg | https://m.media-amazon.com/images/I/41GofFhpZgL.jpg | https://m.media-amazon.com/images/I/41ceHIKF5XL.jpg | https://m.media-amazon.com/images/I/41XTWZvstnL.jpg | https://m.media-amazon.com/images/I/41nt8CKsQRL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Vanadium-Adjustment-Hardened-Tampered/dp/B0D6RMWJX1/ref=sr_1_49"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOTKHJA2EOTCG",
+      "slug": "freemans-fcp06-combination-plier-6-inch150mm-with-pvc",
+      "name": "FREEMANS FCP+06 Combination Plier 6 inch/150mm with PVC...",
+      "brand": "Freemans",
+      "category": "Building & Construction",
+      "price": 288,
+      "image": "https://m.media-amazon.com/images/I/61lEIgSsoNL.jpg | https://m.media-amazon.com/images/I/417LjkFIWOL.jpg | https://m.media-amazon.com/images/I/31+3pjo35oL.jpg | https://m.media-amazon.com/images/I/41tcoJu+UsL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Professional-Combination-Plier-150mm/dp/B07MGH4GLF/ref=sr_1_41_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOTKHHBLEEWCH",
+      "slug": "freemans-fcp08-8-prefessional-plier-and-yt125-screw",
+      "name": "FREEMANS FCP+08 8\" Prefessional Plier and YT+125 Screw...",
+      "brand": "Freemans",
+      "category": "Tools & Machinery",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/71RgFBBcxlL.jpg | https://m.media-amazon.com/images/I/41-IsITeYnL.jpg | https://m.media-amazon.com/images/I/41TZ6OVyagL.jpg | https://m.media-amazon.com/images/I/41mAMt5ogmL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Prefessional-Plier-Driver-Tester/dp/B07MG8VBXG/ref=sr_1_63"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVFDIQST",
+      "slug": "freemans-fcp08-combination-plier-8-inch200mm-with-pvc",
+      "name": "FREEMANS FCP+08 Combination Plier 8 inch/200mm with PVC...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 314,
+      "image": "https://m.media-amazon.com/images/I/51pcExxpTmL.jpg | https://m.media-amazon.com/images/I/41S339F4sVL.jpg | https://m.media-amazon.com/images/I/31ylDnN6OmL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FCP-Combination-Plier-8/dp/B010M5J4BS/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCRJTKYZFANKP",
+      "slug": "freemans-fcp08-combination-plier-with-cellulose-acetate",
+      "name": "FREEMANS FCP08 Combination Plier with Cellulose Acetate...",
+      "brand": "Freemans",
+      "category": "Building & Construction",
+      "price": 399,
+      "image": "https://m.media-amazon.com/images/I/51aRxVBrtRL.jpg | https://m.media-amazon.com/images/I/31kIi7EZF1L.jpg | https://m.media-amazon.com/images/I/41Qg1EFsD1L.jpg | https://m.media-amazon.com/images/I/31uYOaoluvL.jpg | https://m.media-amazon.com/images/I/413S2f9eqKL.jpg | https://m.media-amazon.com/images/I/41CpGe4L3RL.jpg | https://m.media-amazon.com/images/I/41xqoyBHBGL.jpg | https://m.media-amazon.com/images/I/41KXldthB-L.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FCP08-Combination-Cellulose-Acetate/dp/B01E3V2P5O/ref=sr_1_27"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGWKHKBJFAWCX",
+      "slug": "freemans-fm50-grey-magic-fibreglass-measuring-tape-50m",
+      "name": "FREEMANS FM50 Grey Magic Fibreglass Measuring Tape - 50m...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 770,
+      "image": "https://m.media-amazon.com/images/I/71jItSTXkyL.jpg | https://m.media-amazon.com/images/I/411saB4BGJL.jpg | https://m.media-amazon.com/images/I/41Xkz41xvNL.jpg | https://m.media-amazon.com/images/I/31QEROZexUL.jpg | https://m.media-amazon.com/images/I/31A9W9HHODL.jpg | https://m.media-amazon.com/images/I/31mSpzopONL.jpg | https://m.media-amazon.com/images/I/41Jbq8z22EL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-FM50-Magic-Fibreglass-Measuring/dp/B0CYGPRPXW/ref=sr_1_1"
+    },
+    {
+      "sku": "JKE-SKU-IIYEEWJSHBCDGURY",
+      "slug": "freemans-fms80-magnetic-stand-80kgf-use-for-digitaldial",
+      "name": "FREEMANS FMS80 Magnetic Stand (80kgf) Use For Digital/Dial...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 2736,
+      "image": "https://m.media-amazon.com/images/I/41h-TNF0nsL.jpg | https://m.media-amazon.com/images/I/31KoFNqOm+L.jpg | https://m.media-amazon.com/images/I/41ufXMvlsRL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-FMS80-Magnetic-Digital-Indicator/dp/B0BY28D3R8/ref=sr_1_77"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTJTGBMFKUJW",
+      "slug": "freemans-fn50-fibre-glass-leatherette-13mmx50m-measure-rule",
+      "name": "Freemans FN50-Fibre Glass Leatherette 13mmX50m Measure Rule",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 1007,
+      "image": "https://m.media-amazon.com/images/I/81NO0Eis27L.jpg | https://m.media-amazon.com/images/I/41BMf0f5nRL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FN50-Fibre-Leatherette-13mmX50m-Measure/dp/B01M30XUQ6/ref=sr_1_57"
+    },
+    {
+      "sku": "JKE-SKU-IIYDAVCLII3EIVJW",
+      "slug": "freemans-fre2050-fiberglass-measuring-tape-100m-x-13mm-",
+      "name": "Freemans FRE2050 Fiberglass Measuring Tape 100m x 13mm -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 1758,
+      "image": "https://m.media-amazon.com/images/I/516pFhYxR7L.jpg | https://m.media-amazon.com/images/I/41-7l+aAl9L.jpg | https://m.media-amazon.com/images/I/419fpJWVGDL.jpg | https://m.media-amazon.com/images/I/31K55lmXxbL.jpg | https://m.media-amazon.com/images/I/41IFtxaYB8L.jpg | https://m.media-amazon.com/images/I/41AjkkKGBoL.jpg | https://m.media-amazon.com/images/I/515FZIKJBDL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FRE2050-Fiberglass-Measuring-Tape/dp/B00TKB6DU6/ref=sr_1_38"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEEWURY",
+      "slug": "freemans-ft15-fiberglass-top-line-measuring-tape-15m50ft",
+      "name": "FREEMANS FT15 Fiberglass Top Line Measuring Tape - 15m/50ft...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 315,
+      "image": "https://m.media-amazon.com/images/I/61ge3Bmc1zL.jpg | https://m.media-amazon.com/images/I/51xVkHv50-L.jpg | https://m.media-amazon.com/images/I/41EWyKKP3YL.jpg | https://m.media-amazon.com/images/I/315k9zuLxUL.jpg | https://m.media-amazon.com/images/I/31vmcqbl7eL.jpg | https://m.media-amazon.com/images/I/41vfTLS2OmL.jpg | https://m.media-amazon.com/images/I/41Vd99wwKVL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FT15-Fiberglass-Line-Measuring/dp/B010M5HKR8/ref=sr_1_25"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOUKEKNJDEVCI",
+      "slug": "freemans-goldstar-plus-50m13mm-fibreglass-measuring-tape-",
+      "name": "FREEMANS Goldstar Plus 50m:13mm Fibreglass Measuring Tape-...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 742,
+      "image": "https://m.media-amazon.com/images/I/81JPiGOHtbL.jpg | https://m.media-amazon.com/images/I/41v7yXt8V4L.jpg | https://m.media-amazon.com/images/I/41BPI3oNRtL.jpg | https://m.media-amazon.com/images/I/41jFF04DZfL.jpg | https://m.media-amazon.com/images/I/31UofpPWqkL.jpg | https://m.media-amazon.com/images/I/41jFYkgnEcL.jpg | https://m.media-amazon.com/images/I/41pg3N5jm6L.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Goldstar-Plus-50m-Fibreglass/dp/B07QDSR2TH/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGWJVJQ4E2OKN",
+      "slug": "freemans-gorilla-5m19mm-steel-inchi-pocket-measuring-tape",
+      "name": "FREEMANS GORILLA 5m:19mm Steel Inchi Pocket Measuring Tape...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 2140,
+      "image": "https://m.media-amazon.com/images/I/71hRTOJkjDL.jpg | https://m.media-amazon.com/images/I/41AcdlQcB-L.jpg | https://m.media-amazon.com/images/I/91LSUmEmj3L.jpg | https://m.media-amazon.com/images/I/51BZhaAMSoL.jpg | https://m.media-amazon.com/images/I/41z4t7oIkQL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-GORILLA-5m-Measuring-Unbreakable/dp/B0CY5L8M9M/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTJUJQ3TOWRS",
+      "slug": "freemans-gripp-5m19mm-and-75m25mm-measuring-tapes",
+      "name": "FREEMANS Gripp 5m:19mm and 7.5m:25mm Measuring Tapes",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/71hO8pm+suS.jpg | https://m.media-amazon.com/images/I/41NBdSTa1tS.jpg | https://m.media-amazon.com/images/I/41t+3eP50ES.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Gripp-19mm-25mm-Measuring/dp/B01M4L77Z2/ref=sr_1_70"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEDAQSF",
+      "slug": "freemans-gripp-5m19mm-steel-inchi-measuring-tape-5m",
+      "name": "FREEMANS GRIPP 5m:19mm Steel Inchi Measuring Tape - 5m...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 173,
+      "image": "https://m.media-amazon.com/images/I/61uI17q7mxL.jpg | https://m.media-amazon.com/images/I/41fSdxukLhL.jpg | https://m.media-amazon.com/images/I/41Sv4UdaSyL.jpg | https://m.media-amazon.com/images/I/51vVPpMz+3L.jpg | https://m.media-amazon.com/images/I/411uG7IEGfL.jpg | https://m.media-amazon.com/images/I/41oMxP9QkUL.jpg | https://m.media-amazon.com/images/I/41tVdFGL2ZL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-GRIPP-5m-Unbreakable-PauseButton/dp/B010M5H0BE/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIS2KKE2UIWRX",
+      "slug": "freemans-ikon-10m25mm-steel-inchi-measuring-tape-yellow-",
+      "name": "FREEMANS IKON 10m:25mm Steel Inchi Measuring Tape (Yellow &...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 718,
+      "image": "https://m.media-amazon.com/images/I/411AngrrG8L.jpg | https://m.media-amazon.com/images/I/31R+dX14OzL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-IKON-10m-Measuring-Auto-lock/dp/B0DKJQ5DZ7/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTJVIRDEMWSF",
+      "slug": "freemans-ikon-5m19mm-and-75m25mm-measuring-tape-2-pack",
+      "name": "FREEMANS IKON 5m:19mm and 7.5m:25mm Measuring Tape (2 PACK)",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 491,
+      "image": "https://m.media-amazon.com/images/I/61jAUsmapEL.jpg | https://m.media-amazon.com/images/I/41NPINxf5XL.jpg | https://m.media-amazon.com/images/I/51fc7ZngHLL.jpg | https://m.media-amazon.com/images/I/411IjYY6McL.jpg | https://m.media-amazon.com/images/I/41MxjfUjFzL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-ABS-Steel-Ikon-Measuring/dp/B01M5DFFZE/ref=sr_1_52_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCQKJKFNDGWCP",
+      "slug": "freemans-ikon-5m19mm-measuring-tape-8-pvc-sleeve",
+      "name": "FREEMANS Ikon 5m:19mm Measuring Tape + 8\" PVC Sleeve...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 476,
+      "image": "https://m.media-amazon.com/images/I/61lV3z-DHuL.jpg | https://m.media-amazon.com/images/I/51wl6PAy5LL.jpg | https://m.media-amazon.com/images/I/41C3fVFCKAL.jpg | https://m.media-amazon.com/images/I/41X+s5thMzL.jpg | https://m.media-amazon.com/images/I/41fSnfyky0L.jpg | https://m.media-amazon.com/images/I/41qJhcyge1L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Ikon-5m-Measuring-Combination/dp/B01AIQZ3XO/ref=sr_1_71"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDVCNZY",
+      "slug": "freemans-ikon-5m19mm-steel-inchi-measuring-tape-5m",
+      "name": "FREEMANS IKON 5m:19mm Steel Inchi Measuring Tape - 5m...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 185,
+      "image": "https://m.media-amazon.com/images/I/61E16t+xvYL.jpg | https://m.media-amazon.com/images/I/41esVu4bN3L.jpg | https://m.media-amazon.com/images/I/81k4bxM1PPL.jpg | https://m.media-amazon.com/images/I/41QxN+0gaPL.jpg | https://m.media-amazon.com/images/I/41V6ooZaoPL.jpg | https://m.media-amazon.com/images/I/51vVPpMz+3L.jpg | https://m.media-amazon.com/images/I/51P2OFObdoL.jpg | https://m.media-amazon.com/images/I/51VxTnL9qGL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-IKON-5m-Unbreakable-Bi-material/dp/B010M5GQ78/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQRRULBGFEUSD",
+      "slug": "freemans-ikon-plastic-3-m-and-16-mm-and-5-m-and-19-mm",
+      "name": "FREEMANS Ikon Plastic 3 m and 16 mm and 5 m and 19 mm...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/51LjBmY9x+S.jpg | https://m.media-amazon.com/images/I/411A3uN4CFS.jpg | https://m.media-amazon.com/images/I/41t3VcCF8pS.jpg | https://m.media-amazon.com/images/I/41fTFYhKspS.jpg | https://m.media-amazon.com/images/I/41CVi4fzYaS.jpg | https://m.media-amazon.com/images/I/41loRL4uXqS.jpg | https://m.media-amazon.com/images/I/41EXYCW-YsS.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Plastic-16-19-Measuring/dp/B08F4XLRRC/ref=sr_1_60"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEEIMCD",
+      "slug": "freemans-leatherette-30m13mm-fibreglass-measuring-tape-",
+      "name": "FREEMANS Leatherette 30m:13mm Fibreglass Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 553,
+      "image": "https://m.media-amazon.com/images/I/61foAMNQ6WL.jpg | https://m.media-amazon.com/images/I/51oGKag8HHL.jpg | https://m.media-amazon.com/images/I/41x45iHJmQL.jpg | https://m.media-amazon.com/images/I/31D7y0DLwrL.jpg | https://m.media-amazon.com/images/I/316j8j2UjqL.jpg | https://m.media-amazon.com/images/I/31AauuiIb5L.jpg | https://m.media-amazon.com/images/I/41mIpoRHp5L.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FN30-Fiberglass-Leatherette-Measuring/dp/B010M5HD0C/ref=sr_1_21"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOTSSLBIEYV2R",
+      "slug": "freemans-levo-5m16mm-and-basik-75m25mm-measuring-tapes",
+      "name": "FREEMANS Levo 5m:16mm and Basik 7.5m:25mm Measuring Tapes",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/71b2ktNK54L.jpg | https://m.media-amazon.com/images/I/41jFv9+Es0L.jpg | https://m.media-amazon.com/images/I/41Vt4i5q1aL.jpg | https://m.media-amazon.com/images/I/41Frn0lOFhL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Levo-5m-16mm-Basik/dp/B07NRXPLWQ/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-SKU-IIYDAVCKKZCFEUKL",
+      "slug": "freemans-levo-measuring-tape-5m-x-16mm-steel-blade-with",
+      "name": "FREEMANS Levo Measuring Tape 5m x 16mm – Steel Blade with...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 522.34,
+      "image": "https://m.media-amazon.com/images/I/61tSyKISlPL.jpg | https://m.media-amazon.com/images/I/316iRRj72dL.jpg | https://m.media-amazon.com/images/I/713Fk5N-OKL.jpg | https://m.media-amazon.com/images/I/51SvVvlZSAL.jpg | https://m.media-amazon.com/images/I/41NeEGgQrEL.jpg | https://m.media-amazon.com/images/I/514e6hyuI-L.jpg | https://m.media-amazon.com/images/I/510i2siLGXL.jpg | https://m.media-amazon.com/images/I/51q9635jedL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-Steel-Measuring-Meter-Level/dp/B00TJVDRQK/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOUKDIZMEQTCR",
+      "slug": "freemans-mini-digital-level-protractor-fmdl360-0-360",
+      "name": "FREEMANS MINI Digital Level & Protractor FMDL360-0-360°",
+      "brand": "Freemans",
+      "category": "Electrical & Solar",
+      "price": 4940,
+      "image": "https://m.media-amazon.com/images/I/31kVfbMPjTL.jpg | https://m.media-amazon.com/images/I/31kVfbMPjTL.jpg | https://m.media-amazon.com/images/I/41-dFtSoQAL.jpg | https://m.media-amazon.com/images/I/41hubg25JNL.jpg | https://m.media-amazon.com/images/I/41X85m+0cNL.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Digital-Level-Protractor-FMDL360-0-360%C2%B0/dp/B07QCFXHLQ/ref=sr_1_28"
+    },
+    {
+      "sku": "JKE-SKU-IIYDAUSYKVAUISJU",
+      "slug": "freemans-ms05-max-steel-pause-plus-lock-measuring-tape-5m-x",
+      "name": "Freemans MS05 Max Steel Pause Plus Lock Measuring Tape 5m x...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 299,
+      "image": "https://m.media-amazon.com/images/I/71yaivso1UL.jpg | https://m.media-amazon.com/images/I/41piO9zOa+L.jpg | https://m.media-amazon.com/images/I/41kv1gqOFWL.jpg | https://m.media-amazon.com/images/I/31S3i6XQV0L.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-MS05-Steel-Pause-Measuring/dp/B00RXUADI4/ref=sr_1_53"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGQSLJVMEES2O",
+      "slug": "freemans-neo-5m19mm-steel-inchi-pocket-measuring-tape-with",
+      "name": "FREEMANS NEO 5m:19mm Steel Inchi Pocket Measuring Tape with...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 181,
+      "image": "https://m.media-amazon.com/images/I/61xkjXp6XyL.jpg | https://m.media-amazon.com/images/I/41wQlgwnzcL.jpg | https://m.media-amazon.com/images/I/51g+BoQ6OZL.jpg | https://m.media-amazon.com/images/I/41-h2pWoKtL.jpg | https://m.media-amazon.com/images/I/51tEZlFOmnL.jpg | https://m.media-amazon.com/images/I/516k6TjP9ZL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-NEO-5m-Unbreakable-Click-Action/dp/B0CBKMXBKN/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWSZKFGTOVSU",
+      "slug": "freemans-nexa-3m16mm-steel-inchi-measuring-tape-3m-with",
+      "name": "FREEMANS NEXA 3m:16mm Steel Inchi Measuring Tape - 3m With...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 99,
+      "image": "https://m.media-amazon.com/images/I/61iwbAreDQL.jpg | https://m.media-amazon.com/images/I/41sFsI8WEoL.jpg | https://m.media-amazon.com/images/I/41rUrYxAiyL.jpg | https://m.media-amazon.com/images/I/41AwGJ5qPwL.jpg | https://m.media-amazon.com/images/I/41hHy3sLA6L.jpg | https://m.media-amazon.com/images/I/41cFMvnO5WL.jpg | https://m.media-amazon.com/images/I/41nofrVrZxL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-NEXA-3m-Measuring-Double-sided/dp/B09ZYQM7VT/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOUSMKFLEQRRY",
+      "slug": "freemans-nexa-5m-19mm-nexa-75m-25mm-measuring-tapes",
+      "name": "FREEMANS NEXA 5m 19mm + NEXA 7.5m 25mm Measuring Tapes",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/71ZquEM2rjL.jpg | https://m.media-amazon.com/images/I/41l8alXkYcL.jpg | https://m.media-amazon.com/images/I/41OwqdGQQRL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-NEXA-19mm-Measuring-Tapes/dp/B07RLQVHF8/ref=sr_1_59_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEUIRKN",
+      "slug": "freemans-open-reel-100m13mm-fibreglass-measuring-tape-",
+      "name": "FREEMANS Open Reel 100m:13mm Fibreglass Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 1706,
+      "image": "https://m.media-amazon.com/images/I/61fpBPV8u7L.jpg | https://m.media-amazon.com/images/I/51Dbd8oR-GL.jpg | https://m.media-amazon.com/images/I/41HSp2oZ62L.jpg | https://m.media-amazon.com/images/I/41PXXePwlNL.jpg | https://m.media-amazon.com/images/I/41F8nmaSfEL.jpg | https://m.media-amazon.com/images/I/414su2MSXnL.jpg | https://m.media-amazon.com/images/I/51yhv-WSOcL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-FO100-Fiberglass-Open-Measuring/dp/B010M5IDEM/ref=sr_1_31"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTSWKMZFIVZS",
+      "slug": "freemans-ow30-steel-open-reel-30m13mm-measuring",
+      "name": "FREEMANS OW30 Steel Open Reel 30m:13mm Measuring...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 897,
+      "image": "https://m.media-amazon.com/images/I/517i2Wbki3L.jpg | https://m.media-amazon.com/images/I/31gm9ATNq0L.jpg | https://m.media-amazon.com/images/I/418VTvdRBrL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-OW30-Steel-Open-Reel/dp/B09NVS2TW2/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCQKJKJBVOSRW",
+      "slug": "freemans-plastic-and-aluminium-ikon-5-m19-mm-measuring",
+      "name": "FREEMANS Plastic and Aluminium Ikon 5 m:19 mm Measuring...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 550,
+      "image": "https://m.media-amazon.com/images/I/615+Kc4W0SL.jpg | https://m.media-amazon.com/images/I/41wpVT0D5FL.jpg | https://m.media-amazon.com/images/I/413-fn1QPBL.jpg | https://m.media-amazon.com/images/I/41qJhcyge1L.jpg | https://m.media-amazon.com/images/I/41gqXqy+n2L.jpg | https://m.media-amazon.com/images/I/41hShPTXvnL.jpg | https://m.media-amazon.com/images/I/41fSnfyky0L.jpg | https://m.media-amazon.com/images/I/41-H7W3Dk6L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Ikon-5m-Measuring-Magnetic/dp/B01AIRCWJ6/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCQKJKJBVUTSZ",
+      "slug": "freemans-plastic-and-aluminium-ikon-5-m19-mm-measuring",
+      "name": "Freemans Plastic And Aluminium Ikon 5 M:19 Mm Measuring...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/51tJ8q+kJOL.jpg | https://m.media-amazon.com/images/I/41iRUXhGYbL.jpg | https://m.media-amazon.com/images/I/413-fn1QPBL.jpg | https://m.media-amazon.com/images/I/41qJhcyge1L.jpg | https://m.media-amazon.com/images/I/41hShPTXvnL.jpg | https://m.media-amazon.com/images/I/41fSnfyky0L.jpg | https://m.media-amazon.com/images/I/41uCmkLf4-L.jpg | https://m.media-amazon.com/images/I/416zp7FyB1L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Ikon-5m-Measuring-Spirit/dp/B01AIRCZNY/ref=sr_1_64"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCQKJKJBVSQJY",
+      "slug": "freemans-plastic-and-aluminium-levo-5-m16-mm-measuring",
+      "name": "FREEMANS Plastic and Aluminium Levo 5 m:16 mm Measuring...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/51UgMO4nrDL.jpg | https://m.media-amazon.com/images/I/41wKDthyXvL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Levo-5m-Measuring-Spirit/dp/B01AIRCYA8/ref=sr_1_50"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGNCIIZKFCU2G",
+      "slug": "freemans-proeco-l40-40m-laser-distance-meter-with-area",
+      "name": "FREEMANS PROECO-L40 40m Laser Distance Meter with Area,...",
+      "brand": "Freemans",
+      "category": "Electrical & Solar",
+      "price": 5091,
+      "image": "https://m.media-amazon.com/images/I/519ZQE9GNLL.jpg | https://m.media-amazon.com/images/I/519ZQE9GNLL.jpg | https://m.media-amazon.com/images/I/71FR0S3nesL.jpg | https://m.media-amazon.com/images/I/51eZfxagujL.jpg | https://m.media-amazon.com/images/I/51pJU2n7RfL.jpg | https://m.media-amazon.com/images/I/51P4LnpCpYL.jpg | https://m.media-amazon.com/images/I/51aD4VT5q9L.jpg | https://m.media-amazon.com/images/I/51LVAK9NqDL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-PROECO-L40-Pythagorean-Measurement-Self-Calibration/dp/B0C4HFTQSF/ref=sr_1_5"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTC2GE2DCNKM",
+      "slug": "freemans-professional-15cm-6-10km-digital-measuring-wheel",
+      "name": "FREEMANS Professional 15cm (6) 10km Digital Measuring Wheel",
+      "brand": "Freemans",
+      "category": "Electrical & Solar",
+      "price": 4741,
+      "image": "https://m.media-amazon.com/images/I/51wQDklW1ML.jpg | https://m.media-amazon.com/images/I/31k0ClVm8gL.jpg | https://m.media-amazon.com/images/I/51E0Z4LimBL.jpg | https://m.media-amazon.com/images/I/51IQ9pAlzoL.jpg | https://m.media-amazon.com/images/I/51YfrbVd5HL.jpg | https://m.media-amazon.com/images/I/4191Rr-1dpL.jpg | https://m.media-amazon.com/images/I/51XTWyBuQFL.jpg | https://m.media-amazon.com/images/I/518axybcn2L.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-MW04-Digital-Measuring-Wheel/dp/B01LZ1415L/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDUOSKN",
+      "slug": "freemans-pro-l60-professional-laser-distance-meter-60m-with",
+      "name": "FREEMANS PRO-L60 Professional Laser Distance Meter 60m With...",
+      "brand": "Freemans",
+      "category": "Electrical & Solar",
+      "price": 8376,
+      "image": "https://m.media-amazon.com/images/I/617wg+hI5aL.jpg | https://m.media-amazon.com/images/I/51DzBjrQ8ZL.jpg | https://m.media-amazon.com/images/I/A11moyngUFL.jpg | https://m.media-amazon.com/images/I/51TeyAqdwYL.jpg | https://m.media-amazon.com/images/I/51k3-upwnLL.jpg | https://m.media-amazon.com/images/I/51QgQ4dCUAL.jpg | https://m.media-amazon.com/images/I/51i5PG+6HCL.jpg | https://m.media-amazon.com/images/I/51Fp4tcsI8L.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-PRO-L60-Laser-Distance-Measuring/dp/B010M5GGIM/ref=sr_1_6"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGQSLJZMFUMJU",
+      "slug": "freemans-pro-tek-5m19mm-steel-inchi-pocket-measuring-tape",
+      "name": "FREEMANS PRO-TEK 5m:19mm Steel Inchi Pocket Measuring Tape...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 185,
+      "image": "https://m.media-amazon.com/images/I/61K7c6YY80L.jpg | https://m.media-amazon.com/images/I/41x7Mh5AKgL.jpg | https://m.media-amazon.com/images/I/41jK6HwSnzL.jpg | https://m.media-amazon.com/images/I/51vVPpMz+3L.jpg | https://m.media-amazon.com/images/I/41F+7nx9JnL.jpg | https://m.media-amazon.com/images/I/41MRLGzAvkL.jpg | https://m.media-amazon.com/images/I/41f6UPxA2lL.jpg | https://m.media-amazon.com/images/I/41MAeV+rUZL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-PRO-TEK-5m-Measuring-Click-Action/dp/B0CBKNXZ14/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVFDIVCL",
+      "slug": "freemans-sn15-steel-leatherette-15-m9",
+      "name": "Freemans Sn15 Steel Leatherette 15 M:9",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/71VlPzzpQaL.jpg | https://m.media-amazon.com/images/I/51llOnx0krL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-SN15-Steel-Leatherette-Measuring/dp/B010M5J4TK/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDVMUZS",
+      "slug": "freemans-so100-steel-open-reel-100m13mm-measuring-tape",
+      "name": "FREEMANS SO100 Steel Open Reel 100m:13mm Measuring Tape...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 3229,
+      "image": "https://m.media-amazon.com/images/I/61PmHmtS8JL.jpg | https://m.media-amazon.com/images/I/51XEzt-VZpL.jpg | https://m.media-amazon.com/images/I/4135tY+kOSL.jpg | https://m.media-amazon.com/images/I/413HrjX97fL.jpg | https://m.media-amazon.com/images/I/41gkyUa7rDL.jpg | https://m.media-amazon.com/images/I/41My1e8VZTL.jpg | https://m.media-amazon.com/images/I/41JdJdcqosL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-100m-Unbreakable-Retraction-Protruding/dp/B010M5GVS2/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINSOIRGEUVBU",
+      "slug": "freemans-sp06-side-cutting-plier-with-cellulose-acetate",
+      "name": "FREEMANS SP06 Side Cutting Plier With Cellulose Acetate...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 227,
+      "image": "https://m.media-amazon.com/images/I/41eGsrUYy6L.jpg | https://m.media-amazon.com/images/I/31HhcZq3DgL.jpg | https://m.media-amazon.com/images/I/41fG5fgRJnL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-SP06-Cutting-Cellulose-Acetate/dp/B0D6NDLJT4/ref=sr_1_66_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOUKLLJFTIU2C",
+      "slug": "freemans-sw50-steel-leatherette-50m13mm-measuring-tape-",
+      "name": "FREEMANS SW50 Steel Leatherette 50m:13mm Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 1485,
+      "image": "https://m.media-amazon.com/images/I/71b39g0RdAL.jpg | https://m.media-amazon.com/images/I/41c5FXgEHjL.jpg | https://m.media-amazon.com/images/I/41WchL3N1jL.jpg | https://m.media-amazon.com/images/I/31cf-Q49FfL.jpg | https://m.media-amazon.com/images/I/317wzlBnx6L.jpg | https://m.media-amazon.com/images/I/31EgzUxVaNL.jpg | https://m.media-amazon.com/images/I/319Bcuoz8qL.jpg | https://m.media-amazon.com/images/I/41jVn0bCbkL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Steel-Leatherette-50m-Measuring/dp/B07QKZK4SB/ref=sr_1_42"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGNCQGZEFCTBZ",
+      "slug": "freemans-test-measure-green-beam-self-levelling-25m-cross",
+      "name": "FREEMANS Test & Measure Green Beam Self Levelling 25m Cross...",
+      "brand": "Freemans",
+      "category": "Electrical & Solar",
+      "price": 6466,
+      "image": "https://m.media-amazon.com/images/I/51SBNEqVM5L.jpg | https://m.media-amazon.com/images/I/31mIVUH+jvL.jpg | https://m.media-amazon.com/images/I/41QnSlQ0IyL.jpg | https://m.media-amazon.com/images/I/51LefnJMRVL.jpg | https://m.media-amazon.com/images/I/51RMEc-Aj9L.jpg | https://m.media-amazon.com/images/I/410LMjGZ1XL.jpg | https://m.media-amazon.com/images/I/516AulHlZHL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Levelling-Batteries-Professional-Warranty/dp/B0C4P6HQL9/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDUOWCN",
+      "slug": "freemans-tn15-top-line-15m95mm-steel-measuring-tape-",
+      "name": "FREEMANS TN15 Top Line 15m:9.5mm Steel Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/61R6W2AbcwL.jpg | https://m.media-amazon.com/images/I/51uFr1kUedL.jpg | https://m.media-amazon.com/images/I/41ovQHDpHHL.jpg | https://m.media-amazon.com/images/I/31cytdsfCJL.jpg | https://m.media-amazon.com/images/I/31RoCfDwsRL.jpg | https://m.media-amazon.com/images/I/41ZHNEC-OCL.jpg | https://m.media-amazon.com/images/I/410sz0DgWSL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-TN15-Steel-Top-Line/dp/B010M5GGXM/ref=sr_1_55"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDUUURQ",
+      "slug": "freemans-tn30-top-line-30m95mm-steel-measuring-tape-",
+      "name": "FREEMANS TN30 Top Line 30m:9.5mm Steel Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 732,
+      "image": "https://m.media-amazon.com/images/I/61Djd5D5hDL.jpg | https://m.media-amazon.com/images/I/51dSxmHnz-L.jpg | https://m.media-amazon.com/images/I/41a8rn7dPJL.jpg | https://m.media-amazon.com/images/I/31ubknopsCL.jpg | https://m.media-amazon.com/images/I/41YzrtMED8L.jpg | https://m.media-amazon.com/images/I/31tC+zjsWEL.jpg | https://m.media-amazon.com/images/I/31rorGuimzL.jpg | https://m.media-amazon.com/images/I/41b5oaiBDLL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-TN30-Steel-Top-Line/dp/B010M5GJR0/ref=sr_1_19"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEUWNST",
+      "slug": "freemans-top-line-30m16mm-metal-wired-measuring-tape-",
+      "name": "FREEMANS Top Line 30m:16mm Metal Wired Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 486,
+      "image": "https://m.media-amazon.com/images/I/61wQu755sML.jpg | https://m.media-amazon.com/images/I/41XiLF9ry+L.jpg | https://m.media-amazon.com/images/I/41BykoOPmqL.jpg | https://m.media-amazon.com/images/I/41h0rp-XBVL.jpg | https://m.media-amazon.com/images/I/41QWPi3VVWL.jpg | https://m.media-amazon.com/images/I/417ZbhUINbL.jpg | https://m.media-amazon.com/images/I/5126KwtUZAL.jpg | https://m.media-amazon.com/images/I/51HEpaorb1L.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Top-Line-30m-Reinforced/dp/B010M5IK6S/ref=sr_1_29"
+    },
+    {
+      "sku": "JKE-SKU-IIYDAUZRKNLVSMKH",
+      "slug": "freemans-topline-professional-steel-measuring-tape-15",
+      "name": "Freemans Topline - Professional Steel - Measuring Tape 15...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 414,
+      "image": "https://m.media-amazon.com/images/I/61IlOR--o6L.jpg | https://m.media-amazon.com/images/I/51ys+ADOqqL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-Topline-Professional-Steel-Measuring/dp/B00S1SWY1G/ref=sr_1_23"
+    },
+    {
+      "sku": "JKE-SKU-IIYDAUZRKQYTGTCD",
+      "slug": "freemans-topline-professional-steel-measuring-tape-30",
+      "name": "Freemans Topline - Professional Steel - Measuring Tape 30...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/61QqHZeNQ0L.jpg | https://m.media-amazon.com/images/I/51qlOgq4M-L.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-Topline-Professional-Steel-Measuring/dp/B00S1T13LC/ref=sr_1_46_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOUKEKNIEIUCI",
+      "slug": "freemans-truflex-2m95mm-measuring-tapes-set-of-10-pieces",
+      "name": "FREEMANS Truflex 2m:9.5mm Measuring Tapes (Set of 10 Pieces)",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 610,
+      "image": "https://m.media-amazon.com/images/I/81VZduk8ujL.jpg | https://m.media-amazon.com/images/I/41FyQEZXrdL.jpg | https://m.media-amazon.com/images/I/41Jha+C9IOL.jpg | https://m.media-amazon.com/images/I/41XhLuZvXlL.jpg | https://m.media-amazon.com/images/I/313nkLhjfeL.jpg | https://m.media-amazon.com/images/I/31rt6ii1MrL.jpg | https://m.media-amazon.com/images/I/415DZ3DywuL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Truflex-2m-Measuring-Pieces/dp/B07QDSPDPH/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVEVSN2J",
+      "slug": "freemans-truflex-2m95mm-measuring-tapes-set-of-10-pieces",
+      "name": "FREEMANS Truflex 2m:9.5mm Measuring Tapes (Set of 10 Pieces)",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 610,
+      "image": "https://m.media-amazon.com/images/I/81VZduk8ujL.jpg | https://m.media-amazon.com/images/I/41FyQEZXrdL.jpg | https://m.media-amazon.com/images/I/41Jha+C9IOL.jpg | https://m.media-amazon.com/images/I/41XhLuZvXlL.jpg | https://m.media-amazon.com/images/I/313nkLhjfeL.jpg | https://m.media-amazon.com/images/I/31rt6ii1MrL.jpg | https://m.media-amazon.com/images/I/415DZ3DywuL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Truflex-9-5-Measuring-Tape/dp/B010M5IY7I/ref=sr_1_7"
+    },
+    {
+      "sku": "JKE-SKU-IIYEEMJSLEZUOMKI",
+      "slug": "freemans-tuff-75m25mm-steel-inchi-measuring-tape-75m",
+      "name": "FREEMANS TUFF 7.5m:25mm Steel Inchi Measuring Tape -7.5m...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 316,
+      "image": "https://m.media-amazon.com/images/I/51kAojXcf1L.jpg | https://m.media-amazon.com/images/I/41FrVQpq89L.jpg | https://m.media-amazon.com/images/I/41HQlDM0NVL.jpg | https://m.media-amazon.com/images/I/51meYRw+QUL.jpg | https://m.media-amazon.com/images/I/51vVPpMz+3L.jpg | https://m.media-amazon.com/images/I/41-DxOpLLTL.jpg | https://m.media-amazon.com/images/I/51zcB3QXhEL.jpg | https://m.media-amazon.com/images/I/51hKGkyJHCL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-TUFF-7-5m-Measuring-Double-sided/dp/B0B12Y3G1H/ref=sr_1_14"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDU2QZS",
+      "slug": "freemans-tw15-top-line-15m13mm-steel-measuring-tape-",
+      "name": "FREEMANS TW15 Top Line 15m:13mm Steel Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 483,
+      "image": "https://m.media-amazon.com/images/I/71K+KjIxQkL.jpg | https://m.media-amazon.com/images/I/41ZHNEC-OCL.jpg | https://m.media-amazon.com/images/I/41ovQHDpHHL.jpg | https://m.media-amazon.com/images/I/31cytdsfCJL.jpg | https://m.media-amazon.com/images/I/410sz0DgWSL.jpg | https://m.media-amazon.com/images/I/31RoCfDwsRL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-TW15-Steel-Top-Line/dp/B010M5GMC2/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDVAMCH",
+      "slug": "freemans-tw30-steel-top-line-30m13mm-measuring-tape-",
+      "name": "FREEMANS TW30 Steel Top Line 30m:13mm Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 837,
+      "image": "https://m.media-amazon.com/images/I/61Djd5D5hDL.jpg | https://m.media-amazon.com/images/I/51dSxmHnz-L.jpg | https://m.media-amazon.com/images/I/31ubknopsCL.jpg | https://m.media-amazon.com/images/I/31tC+zjsWEL.jpg | https://m.media-amazon.com/images/I/41YzrtMED8L.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/Freemans-TW30-Steel-Top-Line/dp/B010M5GP0G/ref=sr_1_34"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCMCNGVDVGUSH",
+      "slug": "freemans-tw50-top-line-50m13mm-steel-measuring-tape-",
+      "name": "FREEMANS TW50 Top Line 50m:13mm Steel Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Office & Industrial",
+      "price": 1371,
+      "image": "https://m.media-amazon.com/images/I/61gDtm2kf7L.jpg | https://m.media-amazon.com/images/I/5121hZAms5L.jpg | https://m.media-amazon.com/images/I/41wFiJ7Ul8L.jpg | https://m.media-amazon.com/images/I/31hZc1UqfWL.jpg | https://m.media-amazon.com/images/I/41jvXByifjL.jpg | https://m.media-amazon.com/images/I/31U5OeBM0qL.jpg | https://m.media-amazon.com/images/I/41j0MgppWeL.jpg | https://m.media-amazon.com/images/I/51tUpG+iOpL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Steel-Top-Line-Measuring/dp/B010M5GSRG/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOTRWIQ3U4QSQ",
+      "slug": "freemans-viva-open-reel-50m13mm-fibreglass-measuring-tape",
+      "name": "FREEMANS Viva Open Reel 50m:13mm Fibreglass Measuring tape...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 728,
+      "image": "https://m.media-amazon.com/images/I/61iBnX01BdL.jpg | https://m.media-amazon.com/images/I/31eWXgdB4QL.jpg | https://m.media-amazon.com/images/I/31jFxB1qEsL.jpg | https://m.media-amazon.com/images/I/41cMVj2msoL.jpg | https://m.media-amazon.com/images/I/41KEWCQU0jL.jpg | https://m.media-amazon.com/images/I/319A5cMmvXL.jpg | https://m.media-amazon.com/images/I/31cqs2uurIL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-Viva-Open-Reel-Fibreglass/dp/B07N6D7NBP/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOOC2LBGTCQZS",
+      "slug": "freemans-zeon-5m25mm-steel-inchi-pocket-measuring-tape-",
+      "name": "FREEMANS ZEON 5m:25mm Steel Inchi Pocket Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 252,
+      "image": "https://m.media-amazon.com/images/I/61fxQk6G08L.jpg | https://m.media-amazon.com/images/I/41qc9KFqjJL.jpg | https://m.media-amazon.com/images/I/5166cg25KzL.jpg | https://m.media-amazon.com/images/I/41a9HbtvbDL.jpg | https://m.media-amazon.com/images/I/415mL0+cIvL.jpg | https://m.media-amazon.com/images/I/51iAt9pWJYL.jpg | https://m.media-amazon.com/images/I/41A1MyD40CL.jpg | https://m.media-amazon.com/images/I/51flUKFxMRL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-ZEON-5m-Measuring-Click-Action/dp/B0G8ZXM1C2/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOOJRGJJEEOJX",
+      "slug": "freemans-zeon-8m32mm-steel-inchi-pocket-measuring-tape-",
+      "name": "FREEMANS ZEON 8m:32mm Steel Inchi Pocket Measuring Tape -...",
+      "brand": "Freemans",
+      "category": "Other",
+      "price": 395,
+      "image": "https://m.media-amazon.com/images/I/61NC0CWTd+L.jpg | https://m.media-amazon.com/images/I/31NQcH6pPbL.jpg | https://m.media-amazon.com/images/I/51wjWOn99LL.jpg | https://m.media-amazon.com/images/I/41RVDchtgpL.jpg | https://m.media-amazon.com/images/I/41PAasIz7BL.jpg | https://m.media-amazon.com/images/I/51AHkSLaQIL.jpg | https://m.media-amazon.com/images/I/4156yAn6vdL.jpg | https://m.media-amazon.com/images/I/51-1X7MSMsL.jpg",
+      "productUrl": "https://www.amazon.in/FREEMANS-ZEON-8m-Measuring-Click-Action/dp/B0G912RB97/ref=sr_1_13"
+    }
+  ]
 }

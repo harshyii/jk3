@@ -1,10 +1,11 @@
 {
   "asin": "JKE-SKU-IIYEGUSCINHFMNCD",
-  "title": "Eastman 3 in 1 Multi-Functional Plier - Clamping, Cutting and Stripping Electrician Tool for Wires, Stainless Steel Construction, Ergonomic Design (FEMFP-200)",
+  "title": "Eastman 3 in 1 Multi-Functional Plier - Clamping, Cutting...",
   "brand": "Eastman",
-  "current_price": "₹498.00",
-  "mrp": "₹629",
-  "product_url": "https://www.amazon.in/Eastman-Multi-Functional-Plier-Stripping-Construction/dp/B0CRBCNV4C/ref=sr_1_35",
+  "current_price": 0,
+  "mrp": 1805.23,
+  "product_url": "https://www.amazon.in/Eastman-Multi-Functional-Plier-Stripping-Construction/dp/B0CRBCNV4C/ref=sr_1_153",
+  "description": "3 in 1 Functionality: Clamping, Wire Cutting, Wire Stripping Premium Stainless Steel Construction for Sharp Cutting Long Service Life Ensures Lasting Durability A must-have for professionals and DIY enthusiasts Versatile Tool: Ideal for Wire Winding, Wires Splitting, Steel Wire Breaking",
   "image_urls": [
     "https://m.media-amazon.com/images/I/51RVQy5DnnL.jpg | https://m.media-amazon.com/images/I/31QnkfLm7NL.jpg | https://m.media-amazon.com/images/I/51cca-mB4nL.jpg | https://m.media-amazon.com/images/I/41ls7lnXPYL.jpg | https://m.media-amazon.com/images/I/41qZHeDzA8L.jpg | https://m.media-amazon.com/images/I/317J5mN7UoL.jpg | https://m.media-amazon.com/images/I/41Lui-fqGKL.jpg",
     "https://m.media-amazon.com/images/I/51RVQy5DnnL.jpg",
@@ -24,15 +25,15 @@
   "image_url_7": "https://m.media-amazon.com/images/I/317J5mN7UoL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41Lui-fqGKL.jpg",
   "specifications": {
-    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman Cast & Forge Ltd",
     "ASIN": "‎B0CRBCNV4C",
-    "Product Dimensions": "‎28 x 10 x 3 cm; 250 g",
-    "Item model number": "‎FEMFP-200"
+    "Country of Origin": "‎India",
+    "Item model number": "‎FEMFP-200",
+    "Product Dimensions": "‎28 x 10 x 3 cm; 250 g"
   },
   "SKU": "JKE-SKU-IIYEGUSCINHFMNCD",
-  "Name": "Eastman 3 in 1 Multi-Functional Plier - Clamping, Cutting and Stripping Electrician Tool for Wires, Stainless Steel Construction, Ergonomic Design (FEMFP-200)",
-  "Slug": "eastman-3-in-1-multi-functional-plier-clamping-cutting-and-stripping-electrician-tool-for-wires-stainless-steel-construction-ergonomic-design-femfp-200",
+  "Name": "Eastman 3 in 1 Multi-Functional Plier - Clamping, Cutting...",
+  "Slug": "eastman-3-in-1-multi-functional-plier-clamping-cutting",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -46,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41Lui-fqGKL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51RVQy5DnnL.jpg | https://m.media-amazon.com/images/I/31QnkfLm7NL.jpg | https://m.media-amazon.com/images/I/51cca-mB4nL.jpg | https://m.media-amazon.com/images/I/41ls7lnXPYL.jpg | https://m.media-amazon.com/images/I/41qZHeDzA8L.jpg | https://m.media-amazon.com/images/I/317J5mN7UoL.jpg | https://m.media-amazon.com/images/I/41Lui-fqGKL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "20.83%",
-  "SalePrice": "₹498.00",
+  "Discount": "65.16%",
+  "SalePrice": 0,
   "Country": "‎India"
 }

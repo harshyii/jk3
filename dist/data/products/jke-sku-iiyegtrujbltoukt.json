@@ -1,11 +1,12 @@
 {
   "asin": "JKE-SKU-IIYEGTRUJBLTOUKT",
-  "title": "Eastman/JRS Drive Pointed CHISELS 30X400 MM - Pack of 2 Pcs for all 16 Kg & 20 Kg Breakers",
+  "title": "Eastman/JRS Drive Pointed CHISELS 30X400 MM - Pack of 2 Pcs...",
   "brand": "Generic",
-  "current_price": "₹2,150.00",
-  "mrp": "₹3,000",
-  "product_url": "https://www.amazon.in/Eastman-Drive-Pointed-CHISELS-30X400/dp/B0CN4HW7QS/ref=sr_1_146",
+  "current_price": 0,
+  "mrp": 3000,
+  "product_url": "https://www.amazon.in/Eastman-Drive-Pointed-CHISELS-30X400/dp/B0CN4HW7QS/ref=sr_1_269",
   "rating": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
+  "description": "Eastman /JRS Drive Pointed CHISELS 30X400 MM - Pack of 2 Pcs for all 16 Kg & 20 Kg Breakers",
   "image_urls": [
     "https://m.media-amazon.com/images/I/517haq83s-L.jpg | https://m.media-amazon.com/images/I/310KN5lmFDL.jpg | https://m.media-amazon.com/images/I/41x2eIHnjiL.jpg | https://m.media-amazon.com/images/I/41so2XtihRL.jpg",
     "https://m.media-amazon.com/images/I/517haq83s-L.jpg",
@@ -19,20 +20,21 @@
   "image_url_4": "https://m.media-amazon.com/images/I/41x2eIHnjiL.jpg",
   "image_url_5": "https://m.media-amazon.com/images/I/41so2XtihRL.jpg",
   "specifications": {
+    "Blade Material": "Alloy Steel",
+    "Handle Material": "Wood",
     "Brand Name": "Generic",
+    "Included Components": "2 Chisels",
+    "Unit Count": "1.00 Set",
+    "Country of Publication": "India",
     "Manufacturer": "Eastman Cast and forging Ludhiana",
+    "Best Sellers Rank": "#314,003 in Home Improvement (See Top 100 in Home Improvement)#80 inChisel Sets",
     "ASIN": "B0CN4HW7QS",
     "Customer Reviews": "4.04.0 out of 5 stars(1)4.0 out of 5 stars",
-    "Unit Count": "1.00 Set",
-    "Included Components": "2 Chisels",
-    "Blade Material": "Alloy Steel",
-    "Country of Publication": "India",
-    "Handle Material": "Wood",
     "Blade Edge": "Pointed"
   },
   "SKU": "JKE-SKU-IIYEGTRUJBLTOUKT",
-  "Name": "Eastman/JRS Drive Pointed CHISELS 30X400 MM - Pack of 2 Pcs for all 16 Kg & 20 Kg Breakers",
-  "Slug": "eastmanjrs-drive-pointed-chisels-30x400-mm-pack-of-2-pcs-for-all-16-kg-20-kg-breakers",
+  "Name": "Eastman/JRS Drive Pointed CHISELS 30X400 MM - Pack of 2 Pcs...",
+  "Slug": "eastmanjrs-drive-pointed-chisels-30x400-mm-pack-of-2-pcs",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -43,8 +45,8 @@
     "https://m.media-amazon.com/images/I/41so2XtihRL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/517haq83s-L.jpg | https://m.media-amazon.com/images/I/310KN5lmFDL.jpg | https://m.media-amazon.com/images/I/41x2eIHnjiL.jpg | https://m.media-amazon.com/images/I/41so2XtihRL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "1.00 Set",
   "Discount": "28.33%",
-  "SalePrice": "₹2,150.00"
+  "SalePrice": 0
 }

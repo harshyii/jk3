@@ -2,7 +2,7 @@
   {
     "name": "Eastman",
     "slug": "eastman",
-    "count": 0,
+    "count": 206,
     "image": "https://www.eastmanshop.com/cdn/shop/files/EASTMAN_LOGO_2_d03dc81a-227c-4cb6-a832-13cea09fe67b_1968x500.webp?v=1781506228",
     "featured": true
   },
@@ -16,7 +16,7 @@
   {
     "name": "INGCO",
     "slug": "ingco",
-    "count": 0,
+    "count": 110,
     "image": "https://www.ingco.com/dist/static/logo.60e47430.png",
     "featured": true
   },
@@ -44,14 +44,14 @@
   {
     "name": "Taparia",
     "slug": "taparia",
-    "count": 0,
+    "count": 304,
     "image": "https://www.tapariatools.com/images/logo_demo.png",
     "featured": true
   },
   {
     "name": "STANLEY",
     "slug": "stanley",
-    "count": 0,
+    "count": 71,
     "image": "https://www.stanleytools.com/sites/g/files/xnuzat941/files/stanley%402x.png",
     "featured": true
   },
@@ -114,7 +114,7 @@
   {
     "name": "BOSCH",
     "slug": "bosch",
-    "count": 0,
+    "count": 174,
     "image": "https://images.seeklogo.com/logo-png/2/2/bosch-logo-png_seeklogo-21523.png",
     "featured": true
   },
@@ -373,7 +373,7 @@
   {
     "name": "Freemans",
     "slug": "freemans",
-    "count": 0,
+    "count": 77,
     "image": "https://www.freemansgroup.com/wp-content/uploads/2026/04/FREEMANS-LOGO-28th-april-1.jpg",
     "featured": false
   },
@@ -578,6 +578,90 @@
     "slug": "solis-solar",
     "count": 0,
     "image": "https://cmsdata.solisinverters.com/uploads/image/5bdc25d94070b.png",
+    "featured": false
+  },
+  {
+    "name": "Saxton Blades",
+    "slug": "saxton-blades",
+    "count": 8,
+    "image": "https://m.media-amazon.com/images/I/71Ql8+LGOUL.jpg | https://m.media-amazon.com/images/I/51xpMcEYy+L.jpg | https://m.media-amazon.com/images/I/21XoPhIBkaL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Generic",
+    "slug": "generic",
+    "count": 24,
+    "image": "https://m.media-amazon.com/images/I/615KiBdXb4L.jpg | https://m.media-amazon.com/images/I/41y5m7MK63L.jpg | https://m.media-amazon.com/images/I/41QjUNZ+NqL.jpg | https://m.media-amazon.com/images/I/41Ml6uKt-GL.jpg | https://m.media-amazon.com/images/I/41UWZ+6ZBDL.jpg | https://m.media-amazon.com/images/I/41+xzSiQHZL.jpg | https://m.media-amazon.com/images/I/414rDCuxKLL.jpg | https://m.media-amazon.com/images/I/41JM1voMVmL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Black+Decker",
+    "slug": "blackdecker",
+    "count": 71,
+    "image": "https://m.media-amazon.com/images/I/61hTurjP3kL.jpg | https://m.media-amazon.com/images/I/31G-MRfH4NL.jpg | https://m.media-amazon.com/images/I/41QUHTY+nJS.jpg | https://m.media-amazon.com/images/I/51rx8-e+0jS.jpg | https://m.media-amazon.com/images/I/51ue0cxNzoS.jpg | https://m.media-amazon.com/images/I/41xJjESlw3S.jpg | https://m.media-amazon.com/images/I/415Izx+5cgS.jpg",
+    "featured": false
+  },
+  {
+    "name": "Bosch Professional",
+    "slug": "bosch-professional",
+    "count": 6,
+    "image": "https://m.media-amazon.com/images/I/510fQMBzVoL.jpg | https://m.media-amazon.com/images/I/41KQqR6CzHL.jpg | https://m.media-amazon.com/images/I/412hMr1YN7L.jpg | https://m.media-amazon.com/images/I/41nf-PE8jUL.jpg | https://m.media-amazon.com/images/I/51tTFZZsIBL.jpg | https://m.media-amazon.com/images/I/41cUosA6klL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Other",
+    "slug": "other",
+    "count": 3,
+    "image": "https://m.media-amazon.com/images/I/71Gs8ZpPzxL.jpg | https://m.media-amazon.com/images/I/41EqWvLqgaL.jpg | https://m.media-amazon.com/images/I/510GBM8OszL.jpg | https://m.media-amazon.com/images/I/416Ixg8mHQL.jpg | https://m.media-amazon.com/images/I/512AnN1gynL.jpg | https://m.media-amazon.com/images/I/41W0ybon+KL.jpg | https://m.media-amazon.com/images/I/516h0NG0DEL.jpg | https://m.media-amazon.com/images/I/41YFO6Gqx-L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Buildskill",
+    "slug": "buildskill",
+    "count": 4,
+    "image": "https://m.media-amazon.com/images/I/81lfBOISK-L.jpg | https://m.media-amazon.com/images/I/41WwV1IrEYL.jpg | https://m.media-amazon.com/images/I/41aIfAEkGiL.jpg | https://m.media-amazon.com/images/I/51LqjH09vfL.jpg | https://m.media-amazon.com/images/I/41YAEjBYaGL.jpg | https://m.media-amazon.com/images/I/41knfF-Qd-L.jpg | https://m.media-amazon.com/images/I/412Lfk04jyL.jpg | https://m.media-amazon.com/images/I/413-iWYPslL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Calandis",
+    "slug": "calandis",
+    "count": 4,
+    "image": "https://m.media-amazon.com/images/I/51lGNG6j0pL.jpg | https://m.media-amazon.com/images/I/31d7Qv4QkvL.jpg | https://m.media-amazon.com/images/I/41u0AlP28oL.jpg | https://m.media-amazon.com/images/I/41RFthc-oZL.jpg | https://m.media-amazon.com/images/I/31FnwoUzMsL.jpg | https://m.media-amazon.com/images/I/31w5zYj+5tL.jpg | https://m.media-amazon.com/images/I/41uAudajWsL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Eastman Energy",
+    "slug": "eastman-energy",
+    "count": 65,
+    "image": "https://m.media-amazon.com/images/I/41uLs9EcHZL.jpg | https://m.media-amazon.com/images/I/31VNgi+7fUL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Ibell",
+    "slug": "ibell",
+    "count": 28,
+    "image": "https://m.media-amazon.com/images/I/71BwsWfLsgL.jpg | https://m.media-amazon.com/images/I/41bTMBzKJVL.jpg | https://m.media-amazon.com/images/I/515VGHxy8+L.jpg | https://m.media-amazon.com/images/I/51x9daCdpTL.jpg | https://m.media-amazon.com/images/I/41399CZJSrL.jpg | https://m.media-amazon.com/images/I/415R+yY3QTL.jpg | https://m.media-amazon.com/images/I/51m66+J24TL.jpg | https://m.media-amazon.com/images/I/4168p00MWVL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Inditrust",
+    "slug": "inditrust",
+    "count": 25,
+    "image": "https://m.media-amazon.com/images/I/41IE0n7l9wL.jpg | https://m.media-amazon.com/images/I/31xWDdLPPyL.jpg | https://m.media-amazon.com/images/I/31wxFO1gezL.jpg | https://m.media-amazon.com/images/I/31ZCPA8wE+L.jpg | https://m.media-amazon.com/images/I/31GlrRQTe6L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Inicio",
+    "slug": "inicio",
+    "count": 8,
+    "image": "https://m.media-amazon.com/images/I/51nXiSObFiL.jpg | https://m.media-amazon.com/images/I/41o625fmT6L.jpg | https://m.media-amazon.com/images/I/51S-cnGhhpL.jpg | https://m.media-amazon.com/images/I/41n6YBsaJoL.jpg | https://m.media-amazon.com/images/I/41gph5VCDoL.jpg | https://m.media-amazon.com/images/I/41EJCXMngWL.jpg | https://m.media-amazon.com/images/I/61hKaCMTqqL.jpg | https://m.media-amazon.com/images/I/51ojWI6cZ9L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Irwin",
+    "slug": "irwin",
+    "count": 3,
+    "image": "https://m.media-amazon.com/images/I/4115JiWACVL.jpg | https://m.media-amazon.com/images/I/31YBSrYwsAL.jpg | https://m.media-amazon.com/images/I/4181DVTiY+L.jpg | https://m.media-amazon.com/images/I/31A-v9XctoL.jpg | https://m.media-amazon.com/images/I/31RxpNi9JFL.jpg | https://m.media-amazon.com/images/I/21eMeXTP1HL.jpg",
     "featured": false
   }
 ]

@@ -1,10 +1,10 @@
 {
   "asin": "JKE-SKU-IIYDOSCSG43TGRRS",
-  "title": "Taparia SKE9 Steel (9mm) Blade Snap Off Cutter (Blue and Silver)",
+  "title": "Taparia SKE9 Steel (9mm) Blade Snap Off Cutter (Blue and...",
   "brand": "Taparia",
-  "current_price": "₹28.00",
-  "mrp": 0,
-  "product_url": "https://www.amazon.in/Taparia-SKE9-Steel-Cutter-Silver/dp/B07HR773F2/ref=sr_1_33",
+  "current_price": 0,
+  "mrp": 169.33,
+  "product_url": "https://www.amazon.in/Taparia-SKE9-Steel-Cutter-Silver/dp/B07HR773F2/ref=sr_1_15",
   "description": "Taparia snap off cutter, ske9 is made from high-quality abs plastic which gives it superb strength, at the same time keeps the cutter soft enough for everyday use. The blade is of high-grade steel which facilitates sharp and long cutting. The cutter body has ergonomic design and comes with a twist locking system for enhanced safety.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/41S4b4VNj+L.jpg | https://m.media-amazon.com/images/I/21BhEZzZqjL.jpg | https://m.media-amazon.com/images/I/21RuhgRdj-L.jpg",
@@ -17,15 +17,15 @@
   "image_url_3": "https://m.media-amazon.com/images/I/21BhEZzZqjL.jpg",
   "image_url_4": "https://m.media-amazon.com/images/I/21RuhgRdj-L.jpg",
   "specifications": {
-    "Country of Origin": "‎India",
     "Manufacturer": "‎TAPARIA TOOLS LTD.",
     "ASIN": "‎B07HR773F2",
-    "Product Dimensions": "‎144 x 22 x 10.5 cm; 15 g",
-    "Item model number": "‎SKE9"
+    "Country of Origin": "‎India",
+    "Item model number": "‎SKE9",
+    "Product Dimensions": "‎144 x 22 x 10.5 cm; 15 g"
   },
   "SKU": "JKE-SKU-IIYDOSCSG43TGRRS",
-  "Name": "Taparia SKE9 Steel (9mm) Blade Snap Off Cutter (Blue and Silver)",
-  "Slug": "taparia-ske9-steel-9mm-blade-snap-off-cutter-blue-and-silver",
+  "Name": "Taparia SKE9 Steel (9mm) Blade Snap Off Cutter (Blue and...",
+  "Slug": "taparia-ske9-steel-9mm-blade-snap-off-cutter-blue-and",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -35,9 +35,9 @@
     "https://m.media-amazon.com/images/I/21RuhgRdj-L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41S4b4VNj+L.jpg | https://m.media-amazon.com/images/I/21BhEZzZqjL.jpg | https://m.media-amazon.com/images/I/21RuhgRdj-L.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹28.00",
+  "Discount": "65.16%",
+  "SalePrice": 0,
   "Country": "‎India"
 }

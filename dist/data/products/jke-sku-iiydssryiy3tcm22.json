@@ -2,9 +2,9 @@
   "asin": "JKE-SKU-IIYDSSRYIY3TCM22",
   "title": "INGCO 3 in 1 Staple Gun, HSG1405",
   "brand": "Ingco",
-  "current_price": "₹597.00",
-  "mrp": "₹999",
-  "product_url": "https://www.amazon.in/Ingco-HSG1405-INGCO-Staple-Gun/dp/B09J8F713Z/ref=sr_1_72",
+  "current_price": 0,
+  "mrp": 2099,
+  "product_url": "https://www.amazon.in/Ingco-HSG1405-INGCO-Staple-Gun/dp/B09J8F713Z/ref=sr_1_34",
   "rating": "4.14.1 out of 5 stars(817)4.1 out of 5 stars",
   "description": "The INGCO 3 in 1 Staple Gun is a versatile tool designed for various fastening tasks, making it a must-have for DIY enthusiasts and professionals alike. This durable staple gun combines three functions in one compact device, allowing users to effortlessly tackle a range of projects with ease. Here's a brief description highlighting its key features:",
   "image_urls": [
@@ -27,17 +27,18 @@
   "image_url_7": "https://m.media-amazon.com/images/I/417Fre73FfL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/61gNqAajocL.jpg",
   "specifications": {
+    "Item Weight": "0.21 Kilograms",
+    "Colour": "Yellow",
     "Brand Name": "Ingco",
-    "Warranty Description": "6 mmonth warrenty",
+    "Unit Count": "1.00 Count",
     "Manufacturer": "INGCO POWER TOOLS PVT. LTD.",
+    "Manufacturer Part Number": "HSG1405",
+    "Best Sellers Rank": "#5,035 in Office Products (See Top 100 in Office Products)#3 inStaple Guns",
     "ASIN": "B09J8F713Z",
     "Customer Reviews": "4.14.1 out of 5 stars(817)4.1 out of 5 stars",
-    "Colour": "Yellow",
-    "Unit Count": "1.00 Count",
-    "Manufacturer Part Number": "HSG1405",
-    "Model number": "HSG1405",
-    "Item Weight": "0.21 Kilograms",
+    "Warranty Description": "6 mmonth warrenty",
     "Operation Mode": "Manual",
+    "Model number": "HSG1405",
     "Product Style": "Classic",
     "Number Of Fasteners": 600
   },
@@ -58,8 +59,8 @@
     "https://m.media-amazon.com/images/I/51-dOSXdaGL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71ffR9Cpn3L.jpg | https://m.media-amazon.com/images/I/41inFMUjX7L.jpg | https://m.media-amazon.com/images/I/51DvlceCsaL.jpg | https://m.media-amazon.com/images/I/41vNNANYGPL.jpg | https://m.media-amazon.com/images/I/41FX27bHtPL.jpg | https://m.media-amazon.com/images/I/417Fre73FfL.jpg | https://m.media-amazon.com/images/I/61gNqAajocL.jpg | https://m.media-amazon.com/images/I/51-dOSXdaGL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "1.00 Count",
-  "Discount": "40.24%",
-  "SalePrice": "₹597.00"
+  "Discount": "71.51%",
+  "SalePrice": 0
 }

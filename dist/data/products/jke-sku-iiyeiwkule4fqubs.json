@@ -2,9 +2,9 @@
   "asin": "JKE-SKU-IIYEIWKULE4FQUBS",
   "title": "INGCO Accessories for mini grinder",
   "brand": "Ingco",
-  "current_price": "₹206.00",
-  "mrp": "₹998",
-  "product_url": "https://www.amazon.in/INGCO-Accessories-for-mini-grinder/dp/B0DYTY8XP2/ref=sr_1_256",
+  "current_price": 0,
+  "mrp": 998,
+  "product_url": "https://www.amazon.in/INGCO-Accessories-for-mini-grinder/dp/B0DYTY8XP2/ref=sr_1_59",
   "description": "High grinding efficiency and durable",
   "image_urls": [
     "https://m.media-amazon.com/images/I/71Z4m-bgbML.jpg | https://m.media-amazon.com/images/I/31dVEMh-HcL.jpg",
@@ -15,17 +15,19 @@
   "image_url_2": "https://m.media-amazon.com/images/I/71Z4m-bgbML.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/31dVEMh-HcL.jpg",
   "specifications": {
-    "Brand Name": "Ingco",
-    "Model Number": "AKB1012",
-    "Manufacturer": "INGCO",
-    "Importer Contact Information": "INGCO",
-    "Item Type Name": "Accessories for mini grinder",
-    "ASIN": "B0DYTY8XP2",
-    "Colour": "Pink",
     "Power Source": "Corded Electric",
-    "Included Components": "Accessories for mini grinder",
     "Item Dimensions L x W x H": "10.7L x 4.8W x 16.6H Centimeters",
-    "Item Weight": "0.19 Kilograms"
+    "Item Weight": "0.19 Kilograms",
+    "Colour": "Pink",
+    "Brand Name": "Ingco",
+    "Included Components": "Accessories for mini grinder",
+    "Model Number": "AKB1012",
+    "Item Type Name": "Accessories for mini grinder",
+    "Manufacturer": "INGCO",
+    "Packer Contact Information": "INGCO",
+    "Best Sellers Rank": "#15,861 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#124 inPower Angle Grinders",
+    "ASIN": "B0DYTY8XP2",
+    "Importer Contact Information": "INGCO"
   },
   "SKU": "JKE-SKU-IIYEIWKULE4FQUBS",
   "Name": "INGCO Accessories for mini grinder",
@@ -38,9 +40,9 @@
     "https://m.media-amazon.com/images/I/31dVEMh-HcL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71Z4m-bgbML.jpg | https://m.media-amazon.com/images/I/31dVEMh-HcL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
   "Discount": "79.36%",
-  "SalePrice": "₹206.00",
+  "SalePrice": 0,
   "Model": "AKB1012"
 }

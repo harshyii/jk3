@@ -61,5 +61,131 @@
     "count": 0,
     "image": "https://images.unsplash.com/photo-1775363949839-af16004b7815?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     "featured": true
+  },
+  {
+    "name": "Lighting & Bulbs",
+    "slug": "lighting-bulbs",
+    "count": 48,
+    "image": "https://m.media-amazon.com/images/I/81VTh7ELc1L.jpg | https://m.media-amazon.com/images/I/51GUkio-0BL.jpg | https://m.media-amazon.com/images/I/411FqF4O-yL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Other",
+    "slug": "other",
+    "count": 570,
+    "image": "https://m.media-amazon.com/images/I/71Ql8+LGOUL.jpg | https://m.media-amazon.com/images/I/51xpMcEYy+L.jpg | https://m.media-amazon.com/images/I/21XoPhIBkaL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Electrical & Solar",
+    "slug": "electrical-solar",
+    "count": 75,
+    "image": "https://m.media-amazon.com/images/I/611yAUR967L.jpg | https://m.media-amazon.com/images/I/41InWkfvzNL.jpg | https://m.media-amazon.com/images/I/41CupmvihBL.jpg | https://m.media-amazon.com/images/I/51gm47QdOKL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Tools & Machinery",
+    "slug": "tools-machinery",
+    "count": 210,
+    "image": "https://m.media-amazon.com/images/I/61hXLhdSmlL.jpg | https://m.media-amazon.com/images/I/41-3TmWhsbL.jpg | https://m.media-amazon.com/images/I/61FAQ9RkiQL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Fasteners",
+    "slug": "fasteners",
+    "count": 103,
+    "image": "https://m.media-amazon.com/images/I/61GxKAP4UfL.jpg | https://m.media-amazon.com/images/I/31LgSKW6RlL.jpg | https://m.media-amazon.com/images/I/2160VveoT6L.jpg | https://m.media-amazon.com/images/I/21Zw2z0TsKL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Abrasives & Finishing",
+    "slug": "abrasives-finishing",
+    "count": 11,
+    "image": "https://m.media-amazon.com/images/I/61hTurjP3kL.jpg | https://m.media-amazon.com/images/I/31G-MRfH4NL.jpg | https://m.media-amazon.com/images/I/41QUHTY+nJS.jpg | https://m.media-amazon.com/images/I/51rx8-e+0jS.jpg | https://m.media-amazon.com/images/I/51ue0cxNzoS.jpg | https://m.media-amazon.com/images/I/41xJjESlw3S.jpg | https://m.media-amazon.com/images/I/415Izx+5cgS.jpg",
+    "featured": false
+  },
+  {
+    "name": "Adhesives & Chemicals",
+    "slug": "adhesives-chemicals",
+    "count": 10,
+    "image": "https://m.media-amazon.com/images/I/71HPRadmu2L.jpg | https://m.media-amazon.com/images/I/41p6Z98O1SL.jpg | https://m.media-amazon.com/images/I/61CFLYcyccL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/61z-IVz1zdL.jpg | https://m.media-amazon.com/images/I/51Fk1nq5+GL.jpg | https://m.media-amazon.com/images/I/61Wi9djDiNL.jpg | https://m.media-amazon.com/images/I/51pKsVVw3zL.jpg | https://m.media-amazon.com/images/I/61VRvWWv7bL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Measuring Instruments",
+    "slug": "measuring-instruments",
+    "count": 9,
+    "image": "https://m.media-amazon.com/images/I/712WntYAiAL.jpg | https://m.media-amazon.com/images/I/41Wb9Ho2l0L.jpg | https://m.media-amazon.com/images/I/51p--xC80KL.jpg | https://m.media-amazon.com/images/I/31r8UMWsxSL.jpg | https://m.media-amazon.com/images/I/41byBSgvsuL.jpg | https://m.media-amazon.com/images/I/41vwpq02ucL.jpg | https://m.media-amazon.com/images/I/61i2eZwQ57L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Home & Kitchen",
+    "slug": "home-kitchen",
+    "count": 54,
+    "image": "https://m.media-amazon.com/images/I/51IH7EPo7ML.jpg | https://m.media-amazon.com/images/I/31sGpLJrLoL.jpg | https://m.media-amazon.com/images/I/41qE+BRKF7L.jpg | https://m.media-amazon.com/images/I/411Hh-R5TYL.jpg | https://m.media-amazon.com/images/I/41ripC+NpML.jpg | https://m.media-amazon.com/images/I/41GhAbFcAPL.jpg | https://m.media-amazon.com/images/I/41i3YsQKbOL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Electronics",
+    "slug": "electronics",
+    "count": 31,
+    "image": "https://m.media-amazon.com/images/I/51d2zhtCNLL.jpg | https://m.media-amazon.com/images/I/31fMquGxinL.jpg | https://m.media-amazon.com/images/I/31DqCpAhCAL.jpg | https://m.media-amazon.com/images/I/31-bkZi5GFL.jpg | https://m.media-amazon.com/images/I/41alJN892cL.jpg | https://m.media-amazon.com/images/I/417NhiZDUrL.jpg | https://m.media-amazon.com/images/I/31UZHfXyooL.jpg | https://m.media-amazon.com/images/I/21gi8XjfhcL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Plumbing & Sanitation",
+    "slug": "plumbing-sanitation",
+    "count": 6,
+    "image": "https://m.media-amazon.com/images/I/615LH4lYqHL.jpg | https://m.media-amazon.com/images/I/31agTJSIsJL.jpg | https://m.media-amazon.com/images/I/11BGq0zdhyL.jpg | https://m.media-amazon.com/images/I/21SiYcTBb+L.jpg | https://m.media-amazon.com/images/I/21Nnt+vcv5L.jpg | https://m.media-amazon.com/images/I/1190gtIz+bL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Automotive & Accessories",
+    "slug": "automotive-accessories",
+    "count": 4,
+    "image": "https://m.media-amazon.com/images/I/618HDfQcLJL.jpg | https://m.media-amazon.com/images/I/31sV9bxBQlL.jpg | https://m.media-amazon.com/images/I/31K+HhdLrzL.jpg | https://m.media-amazon.com/images/I/21EL1YyAqYL.jpg | https://m.media-amazon.com/images/I/31zWLeovSXL.jpg | https://m.media-amazon.com/images/I/21p0xIZwUML.jpg",
+    "featured": false
+  },
+  {
+    "name": "Health & Personal Care",
+    "slug": "health-personal-care",
+    "count": 5,
+    "image": "https://m.media-amazon.com/images/I/71nxXtH1szL.jpg | https://m.media-amazon.com/images/I/41CK-WyucIL.jpg | https://m.media-amazon.com/images/I/61czlEKbwxL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/51aoMQbY1CL.jpg | https://m.media-amazon.com/images/I/51P48DfGvQL.jpg | https://m.media-amazon.com/images/I/51Hez6gzw0L.jpg | https://m.media-amazon.com/images/I/5140174A-1L.jpg | https://m.media-amazon.com/images/I/51wNSOEyNVL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Building & Construction",
+    "slug": "building-construction",
+    "count": 15,
+    "image": "https://m.media-amazon.com/images/I/71kon4gOjGL.jpg | https://m.media-amazon.com/images/I/414j7MQJTwL.jpg | https://m.media-amazon.com/images/I/41-0aD33M-L.jpg | https://m.media-amazon.com/images/I/51fL9OQLiBL.jpg | https://m.media-amazon.com/images/I/51GQMc5UJqL.jpg | https://m.media-amazon.com/images/I/41WveEE3amL.jpg | https://m.media-amazon.com/images/I/513Rv5LCW0L.jpg",
+    "featured": false
+  },
+  {
+    "name": "Office & Industrial",
+    "slug": "office-industrial",
+    "count": 21,
+    "image": "https://m.media-amazon.com/images/I/61P9J2djefL.jpg | https://m.media-amazon.com/images/I/4145eLaYdxL.jpg | https://m.media-amazon.com/images/I/41crq3T0pAL.jpg | https://m.media-amazon.com/images/I/41u6SZq6gCL.jpg | https://m.media-amazon.com/images/I/41q5nayiVPL.jpg | https://m.media-amazon.com/images/I/51YtfUmYdDL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Safety & Security",
+    "slug": "safety-security",
+    "count": 9,
+    "image": "https://m.media-amazon.com/images/I/71tGE6kIRdL.jpg | https://m.media-amazon.com/images/I/41JIB6RqIOL.jpg | https://m.media-amazon.com/images/I/31yuAXh-IsL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Pneumatics & Hydraulics",
+    "slug": "pneumatics-hydraulics",
+    "count": 6,
+    "image": "https://m.media-amazon.com/images/I/716d4nTNiSL.jpg | https://m.media-amazon.com/images/I/51Cde0WQ0GL.jpg",
+    "featured": false
+  },
+  {
+    "name": "Agricultural Equipment",
+    "slug": "agricultural-equipment",
+    "count": 4,
+    "image": "https://m.media-amazon.com/images/I/71lR62-sF0L.jpg | https://m.media-amazon.com/images/I/41-cfRvXSPL.jpg | https://m.media-amazon.com/images/I/51bOGE3Ad1L.jpg | https://m.media-amazon.com/images/I/51hwGO9CFcL.jpg | https://m.media-amazon.com/images/I/41McPGM5xrL.jpg | https://m.media-amazon.com/images/I/51URn4pVlDL.jpg | https://m.media-amazon.com/images/I/51goQmSoM3L.jpg",
+    "featured": false
   }
 ]

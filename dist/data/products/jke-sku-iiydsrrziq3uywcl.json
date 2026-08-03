@@ -1,10 +1,11 @@
 {
   "asin": "JKE-SKU-IIYDSRRZIQ3UYWCL",
-  "title": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge Octogonal Chisel Drop Forges (Red And Silver) - E-2038",
+  "title": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge...",
   "brand": "Eastman",
-  "current_price": "₹179.00",
-  "mrp": "₹261",
-  "product_url": "https://www.amazon.in/Eastman-Chisels-16X22X200-Cutting-Octogonal/dp/B09F9D7LXK/ref=sr_1_11",
+  "current_price": 0,
+  "mrp": 261,
+  "product_url": "https://www.amazon.in/Eastman-Chisels-16X22X200-Cutting-Octogonal/dp/B09F9D7LXK/ref=sr_1_50",
+  "description": "Premium Drop Forged Carbon Steel: The Tools Bae 6-Inch Chisel is made from high-quality drop forged carbon steel, ensuring exceptional strength and durability for demanding tasks. Extra Durability: Engineered for extra durability, this chisel can withstand heavy use and harsh conditions, making it a reliable tool for both home and professional use. Concrete Cutting Edge: Features a cutting edge specifically designed for effective concrete cutting, allowing for precise and efficient work on concrete surfaces. Ideal for Wood Carving: In addition to concrete cutting, this chisel is perfect for wood carving, cutting, and shaping, making it a versatile addition to your toolkit. Multi-Purpose Use: Suitable for a wide range of applications, including home repairs, professional construction, woodworking, and sculpting, offering great flexibility for various projects.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/31efymeG1SL.jpg | https://m.media-amazon.com/images/I/31efymeG1SL.jpg | https://m.media-amazon.com/images/I/21eYLY+subL.jpg | https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg | https://m.media-amazon.com/images/I/31amGclThzL.jpg | https://m.media-amazon.com/images/I/318DPlK+tVL.jpg",
     "https://m.media-amazon.com/images/I/31efymeG1SL.jpg",
@@ -20,15 +21,15 @@
   "image_url_5": "https://m.media-amazon.com/images/I/31amGclThzL.jpg",
   "image_url_6": "https://m.media-amazon.com/images/I/318DPlK+tVL.jpg",
   "specifications": {
-    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman",
     "ASIN": "‎B09F9D7LXK",
-    "Product Dimensions": "‎21 x 6 x 4 cm; 300 g",
-    "Item model number": "‎ECH-2038_16x22x200"
+    "Country of Origin": "‎India",
+    "Item model number": "‎ECH-2038_16x22x200",
+    "Product Dimensions": "‎21 x 6 x 4 cm; 300 g"
   },
   "SKU": "JKE-SKU-IIYDSRRZIQ3UYWCL",
-  "Name": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge Octogonal Chisel Drop Forges (Red And Silver) - E-2038",
-  "Slug": "eastman-chisels-set-of-1pcs-16x22x200-mm-cutting-edge-octogonal-chisel-drop-forges-red-and-silver-e-2038",
+  "Name": "Eastman Chisels Set Of 1Pcs, 16X22X200 Mm, Cutting Edge...",
+  "Slug": "eastman-chisels-set-of-1pcs-16x22x200-mm-cutting-edge",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -40,9 +41,9 @@
     "https://m.media-amazon.com/images/I/318DPlK+tVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/31efymeG1SL.jpg | https://m.media-amazon.com/images/I/31efymeG1SL.jpg | https://m.media-amazon.com/images/I/21eYLY+subL.jpg | https://m.media-amazon.com/images/I/218Cz6VkoSL.jpg | https://m.media-amazon.com/images/I/31amGclThzL.jpg | https://m.media-amazon.com/images/I/318DPlK+tVL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "31.42%",
-  "SalePrice": "₹179.00",
+  "Discount": "40.23%",
+  "SalePrice": 0,
   "Country": "‎India"
 }

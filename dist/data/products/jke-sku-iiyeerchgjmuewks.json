@@ -1,0 +1,38 @@
+{
+  "asin": "JKE-SKU-IIYEERCHGJMUEWKS",
+  "title": "INGCO Test pencil",
+  "brand": "Ingco",
+  "current_price": 0,
+  "mrp": 450,
+  "product_url": "https://www.amazon.in/Ingco-INGCO-Test-pencil/dp/B0BDG2YBYR/ref=sr_1_55",
+  "description": "INGCO Test pencil",
+  "image_urls": [
+    "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg | https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
+    "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg",
+    "https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg"
+  ],
+  "image_url_1": "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg | https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
+  "image_url_2": "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg",
+  "image_url_3": "https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
+  "specifications": {
+    "Manufacturer": "‎INGCO",
+    "ASIN": "‎B0BDG2YBYR",
+    "Item model number": "‎HSDT1408",
+    "Product Dimensions": "‎28 x 18 x 8 cm; 200 g"
+  },
+  "SKU": "JKE-SKU-IIYEERCHGJMUEWKS",
+  "Name": "INGCO Test pencil",
+  "Slug": "ingco-test-pencil",
+  "Category": "Other",
+  "Subcategory1": "Other",
+  "Images": [
+    "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg | https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
+    "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg",
+    "https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg"
+  ],
+  "Image": "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg | https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
+  "StockQuantity": 0,
+  "Unit": "PC",
+  "Discount": "55.78%",
+  "SalePrice": 0
+}

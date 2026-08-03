@@ -1,10 +1,11 @@
 {
   "asin": "JKE-SKU-IIYDSRRZIZGUUQRZ",
-  "title": "EASTMAN 42 mm Cutter for PVC, Plastic, PPR and Rubber Tube made with Grade of Steel Blade and Long Life Cutting, Blisted Packed/Aluminium Body Tools (E-3013)",
+  "title": "EASTMAN 42 mm Cutter for PVC, Plastic, PPR and Rubber Tube...",
   "brand": "Eastman",
-  "current_price": "₹454.00",
-  "mrp": "₹594",
-  "product_url": "https://www.amazon.in/Eastman-Effective-Cutting-Blister-Aluminium/dp/B09F9FMJB9/ref=sr_1_92",
+  "current_price": 0,
+  "mrp": 594,
+  "product_url": "https://www.amazon.in/Eastman-Effective-Cutting-Blister-Aluminium/dp/B09F9FMJB9/ref=sr_1_117",
+  "description": "High-Quality Blade: Special selected grade of steel blade for effective and long-lasting cutting. Pipe Compatibility: Designed to cut PVC pipes up to 42 mm in diameter. Durable Construction: Made with a robust aluminum body for enhanced durability. Sleek Finish: Features a sleek and professional finish for easy handling. Blister Packed: Conveniently blister packed for protection and easy storage. Ergonomic Design: Ergonomically designed for comfortable and efficient use. Precision Cutting: Ensures clean and precise cuts every time. Lightweight: Lightweight design makes it easy to carry and use in various settings. Corrosion-Resistant: Resistant to corrosion, ensuring a longer lifespan. Safety Lock: Equipped with a safety lock mechanism to prevent accidental cuts.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/618covYVvfL.jpg | https://m.media-amazon.com/images/I/41LVBpABqkL.jpg | https://m.media-amazon.com/images/I/51UKY0wRC3L.jpg | https://m.media-amazon.com/images/I/51XJguCFsfL.jpg | https://m.media-amazon.com/images/I/41fKrZUiN7L.jpg | https://m.media-amazon.com/images/I/518U+Ve7I4L.jpg | https://m.media-amazon.com/images/I/41s3bbp0EoL.jpg | https://m.media-amazon.com/images/I/31Fq55KHQ0L.jpg",
     "https://m.media-amazon.com/images/I/618covYVvfL.jpg",
@@ -25,15 +26,15 @@
   "image_url_7": "https://m.media-amazon.com/images/I/518U+Ve7I4L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41s3bbp0EoL.jpg",
   "specifications": {
-    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman",
     "ASIN": "‎B09F9FMJB9",
-    "Product Dimensions": "‎26 x 12 x 5.5 cm; 300 g",
-    "Item model number": "‎E-3013_PipeCutter42mm"
+    "Country of Origin": "‎India",
+    "Item model number": "‎E-3013_PipeCutter42mm",
+    "Product Dimensions": "‎26 x 12 x 5.5 cm; 300 g"
   },
   "SKU": "JKE-SKU-IIYDSRRZIZGUUQRZ",
-  "Name": "EASTMAN 42 mm Cutter for PVC, Plastic, PPR and Rubber Tube made with Grade of Steel Blade and Long Life Cutting, Blisted Packed/Aluminium Body Tools (E-3013)",
-  "Slug": "eastman-42-mm-cutter-for-pvc-plastic-ppr-and-rubber-tube-made-with-grade-of-steel-blade-and-long-life-cutting-blisted-packedaluminium-body-tools-e-3013",
+  "Name": "EASTMAN 42 mm Cutter for PVC, Plastic, PPR and Rubber Tube...",
+  "Slug": "eastman-42-mm-cutter-for-pvc-plastic-ppr-and-rubber-tube",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -48,9 +49,9 @@
     "https://m.media-amazon.com/images/I/31Fq55KHQ0L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/618covYVvfL.jpg | https://m.media-amazon.com/images/I/41LVBpABqkL.jpg | https://m.media-amazon.com/images/I/51UKY0wRC3L.jpg | https://m.media-amazon.com/images/I/51XJguCFsfL.jpg | https://m.media-amazon.com/images/I/41fKrZUiN7L.jpg | https://m.media-amazon.com/images/I/518U+Ve7I4L.jpg | https://m.media-amazon.com/images/I/41s3bbp0EoL.jpg | https://m.media-amazon.com/images/I/31Fq55KHQ0L.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "23.57%",
-  "SalePrice": "₹454.00",
+  "Discount": "11.62%",
+  "SalePrice": 0,
   "Country": "‎India"
 }

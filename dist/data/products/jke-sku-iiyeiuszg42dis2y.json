@@ -1,10 +1,10 @@
 {
   "asin": "JKE-SKU-IIYEIUSZG42DIS2Y",
-  "title": "INGCO Electrode Holder, Rated Current:500A, Unique Design New Design, Internal Pliers Body",
+  "title": "INGCO Electrode Holder, Rated Current:500A, Unique Design...",
   "brand": "Ingco",
-  "current_price": "₹569.00",
-  "mrp": "₹999",
-  "product_url": "https://www.amazon.in/INGCO-Electrode-Holder-Rated-Current/dp/B0DRY744KX/ref=sr_1_245",
+  "current_price": 0,
+  "mrp": 999,
+  "product_url": "https://www.amazon.in/INGCO-Electrode-Holder-Rated-Current/dp/B0DRY744KX/ref=sr_1_87",
   "rating": "4.04.0 out of 5 stars(3)4.0 out of 5 stars",
   "description": "The handle and pliers cover are made of bakelite + fiberglass, which is comfortable and non-slip, and has good insulation and heat insulation performance. The diamond-shaped design of the pliers makes the clamping more stable. The internal pliers body is forged in one piece, with good conductivity, low resistance and less heat generation. High-quality high-strength spring with insulating spring protective cover, strong clamping force, and the clamped welding rod is not easy to fall off.",
   "image_urls": [
@@ -26,21 +26,23 @@
   "image_url_7": "https://m.media-amazon.com/images/I/51JSSTvC6CL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41u2qBitvkL.jpg",
   "specifications": {
+    "Item Weight": "0.55 Kilograms",
     "Brand Name": "Ingco",
+    "Included Components": "Electrode holder",
     "Model Number": "WAH5008",
-    "Manufacturer": "INGCO",
-    "Importer Contact Information": "INGCO",
     "Item Type Name": "Electrode holder",
+    "Manufacturer": "INGCO",
+    "Packer Contact Information": "INGCO",
+    "Best Sellers Rank": "#12,669 in Industrial & Scientific (See Top 100 in Industrial & Scientific)#9 inArc Welding Electrode Holders",
     "ASIN": "B0DRY744KX",
     "Customer Reviews": "4.04.0 out of 5 stars(3)4.0 out of 5 stars",
-    "Included Components": "Electrode holder",
-    "Item Weight": "0.55 Kilograms",
-    "Part Number": "WAH5008",
-    "Item Dimensions L x W": "27.8L x 8.2W Centimeters"
+    "Importer Contact Information": "INGCO",
+    "Item Dimensions L x W": "27.8L x 8.2W Centimeters",
+    "Part Number": "WAH5008"
   },
   "SKU": "JKE-SKU-IIYEIUSZG42DIS2Y",
-  "Name": "INGCO Electrode Holder, Rated Current:500A, Unique Design New Design, Internal Pliers Body",
-  "Slug": "ingco-electrode-holder-rated-current500a-unique-design-new-design-internal-pliers-body",
+  "Name": "INGCO Electrode Holder, Rated Current:500A, Unique Design...",
+  "Slug": "ingco-electrode-holder-rated-current500a-unique-design",
   "Category": "Building & Construction",
   "Subcategory1": "Insulation",
   "Images": [
@@ -54,9 +56,9 @@
     "https://m.media-amazon.com/images/I/41u2qBitvkL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61raPkKPvrL.jpg | https://m.media-amazon.com/images/I/31Mk-+666wL.jpg | https://m.media-amazon.com/images/I/51mEMSrhqKL.jpg | https://m.media-amazon.com/images/I/51dej-qdpTL.jpg | https://m.media-amazon.com/images/I/31OTBIZz9dL.jpg | https://m.media-amazon.com/images/I/51JSSTvC6CL.jpg | https://m.media-amazon.com/images/I/41u2qBitvkL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
   "Discount": "43.04%",
-  "SalePrice": "₹569.00",
+  "SalePrice": 0,
   "Model": "WAH5008"
 }

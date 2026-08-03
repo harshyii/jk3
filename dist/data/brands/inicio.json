@@ -1,0 +1,86 @@
+{
+  "name": "Inicio",
+  "slug": "inicio",
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYDQM2KGQ3EYM2Q",
+      "slug": "inicio-106-in-1-precision-screwdriver-set-alloy-crv-bits",
+      "name": "INICIO 106 in 1 Precision Screwdriver Set, Alloy CRV Bits...",
+      "brand": "Inicio",
+      "category": "Electronics",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/51nXiSObFiL.jpg | https://m.media-amazon.com/images/I/41o625fmT6L.jpg | https://m.media-amazon.com/images/I/51S-cnGhhpL.jpg | https://m.media-amazon.com/images/I/41n6YBsaJoL.jpg | https://m.media-amazon.com/images/I/41gph5VCDoL.jpg | https://m.media-amazon.com/images/I/41EJCXMngWL.jpg | https://m.media-amazon.com/images/I/61hKaCMTqqL.jpg | https://m.media-amazon.com/images/I/51ojWI6cZ9L.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Precision-Screwdriver-Magnetic-Electronics/dp/B083J46L3P/ref=sr_1_271"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMR2XHFBEQQZR",
+      "slug": "inicio-145-in-1-multi-purpose-precision-screwdriver-set",
+      "name": "INICIO 145 in 1 Multi Purpose Precision Screwdriver Set...",
+      "brand": "Inicio",
+      "category": "Electronics",
+      "price": 3699,
+      "image": "https://m.media-amazon.com/images/I/71ugMi2uGcL.jpg | https://m.media-amazon.com/images/I/51xjYmxWxIL.jpg | https://m.media-amazon.com/images/I/51ByhKz1b8L.jpg | https://m.media-amazon.com/images/I/41tfbnqdKNL.jpg | https://m.media-amazon.com/images/I/41VdXK7euPL.jpg | https://m.media-amazon.com/images/I/31dp8Tas+pL.jpg | https://m.media-amazon.com/images/I/41sMsuanX9L.jpg | https://m.media-amazon.com/images/I/41K+2Y7hbsL.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Screwdriver-Maintenance-Electronics-Smartphones/dp/B0FGW9BHC1/ref=sr_1_188"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOWCEK5DEYOKG",
+      "slug": "inicio-145-in-1-precision-screwdriver-set-116-cr-v-bits",
+      "name": "INICIO 145 in 1 Precision Screwdriver Set [116 CR-V Bits,...",
+      "brand": "Inicio",
+      "category": "Electronics",
+      "price": 3999,
+      "image": "https://m.media-amazon.com/images/I/71ugMi2uGcL.jpg | https://m.media-amazon.com/images/I/51xjYmxWxIL.jpg | https://m.media-amazon.com/images/I/41sMsuanX9L.jpg | https://m.media-amazon.com/images/I/41K+2Y7hbsL.jpg | https://m.media-amazon.com/images/I/41tfbnqdKNL.jpg | https://m.media-amazon.com/images/I/41VdXK7euPL.jpg | https://m.media-amazon.com/images/I/51ByhKz1b8L.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Screwdriver-Maintenance-Smartphone-Electronics/dp/B07XDWFL9F/ref=sr_1_184"
+    },
+    {
+      "sku": "JKE-SKU-IIYEISCYKNGUMOKH",
+      "slug": "inicio-180-in-1-precision-screwdriver-set-case-144-cr-v",
+      "name": "INICIO 180 in 1 Precision Screwdriver Set Case [144 CR-V...",
+      "brand": "Inicio",
+      "category": "Electronics",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/71OuYlYl2SL.jpg | https://m.media-amazon.com/images/I/41sBi8vBb+L.jpg | https://m.media-amazon.com/images/I/41g+kFKbpxL.jpg | https://m.media-amazon.com/images/I/41VjzPwskYL.jpg | https://m.media-amazon.com/images/I/51IbYc+RcJL.jpg | https://m.media-amazon.com/images/I/51GAhcKuRdL.jpg | https://m.media-amazon.com/images/I/51yW+H4yvoL.jpg | https://m.media-amazon.com/images/I/51qEOD60HSL.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Screwdriver-Maintenance-Electronics-Smartphones/dp/B0DHXSMF9G/ref=sr_1_264"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMV2DGIZTQTJZ",
+      "slug": "inicio-180-in-1-precision-screwdriver-set-with-144-cr-v",
+      "name": "INICIO 180 in 1 Precision Screwdriver Set With 144 CR-V...",
+      "brand": "Inicio",
+      "category": "Electronics",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/71+wYAh+teL.jpg | https://m.media-amazon.com/images/I/51Irtlm46xL.jpg | https://m.media-amazon.com/images/I/41g+kFKbpxL.jpg | https://m.media-amazon.com/images/I/51GAhcKuRdL.jpg | https://m.media-amazon.com/images/I/51oRQcr24wL.jpg | https://m.media-amazon.com/images/I/51DBnzgoqML.jpg | https://m.media-amazon.com/images/I/51yW+H4yvoL.jpg | https://m.media-amazon.com/images/I/51qEOD60HSL.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Screwdriver-Professional-Maintenance-Electronics/dp/B0FWC238M9/ref=sr_1_193"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMWSXJYYVAUJX",
+      "slug": "inicio-257-in-1-modular-manual-tool-box-234-cr-v-bits-",
+      "name": "INICIO 257 in 1 Modular Manual Tool Box [ 234 CR-V Bits &...",
+      "brand": "Inicio",
+      "category": "Plumbing & Sanitation",
+      "price": 6999,
+      "image": "https://m.media-amazon.com/images/I/71oyMO4n+lL.jpg | https://m.media-amazon.com/images/I/5112l36Ub+L.jpg | https://m.media-amazon.com/images/I/51c-2+kSYqL.jpg | https://m.media-amazon.com/images/I/413-iI987UL.jpg | https://m.media-amazon.com/images/I/41cCyiJoETL.jpg | https://m.media-amazon.com/images/I/41x-kJnRcVL.jpg | https://m.media-amazon.com/images/I/51mGWArxGRL.jpg | https://m.media-amazon.com/images/I/41+h5aD29vL.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Screwdriver-Maintenance-Electronics-Smartphones/dp/B0FZWN1PQ7/ref=sr_1_189"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOWCCJNMTGR2N",
+      "slug": "inicio-50-in-1-multi-function-precision-screwdriver-tool",
+      "name": "INICIO 50 in 1 Multi Function Precision Screwdriver Tool...",
+      "brand": "Inicio",
+      "category": "Electronics",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71SoXWDvy7L.jpg | https://m.media-amazon.com/images/I/41uUzXVnXSL.jpg | https://m.media-amazon.com/images/I/41yAmOZY+IL.jpg | https://m.media-amazon.com/images/I/51z2odCQYpL.jpg | https://m.media-amazon.com/images/I/41Xkdt0mLYL.jpg | https://m.media-amazon.com/images/I/41cPVc8DcSL.jpg | https://m.media-amazon.com/images/I/41z9SubysNL.jpg | https://m.media-amazon.com/images/I/41p+efQOvsL.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-Screwdriver-Multi-Functional-Maintenance-Combination/dp/B07XBKY3GM/ref=sr_1_287"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOV2HIZFTINBZ",
+      "slug": "inicio-50-in-1-precision-aluminum-alloy-screwdriver-multi",
+      "name": "INICIO 50 in 1 Precision Aluminum Alloy Screwdriver Multi...",
+      "brand": "Inicio",
+      "category": "Other",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71Mh6ZKDGgL.jpg | https://m.media-amazon.com/images/I/413-VNTDrcL.jpg | https://m.media-amazon.com/images/I/41yAmOZY+IL.jpg | https://m.media-amazon.com/images/I/41z9SubysNL.jpg | https://m.media-amazon.com/images/I/51fzQi2l6NL.jpg | https://m.media-amazon.com/images/I/51z2odCQYpL.jpg | https://m.media-amazon.com/images/I/41cPVc8DcSL.jpg | https://m.media-amazon.com/images/I/41Xkdt0mLYL.jpg",
+      "productUrl": "https://www.amazon.in/INICIO-JM-8168-Precision-Aluminum-Screwdriver/dp/B07WGFK449/ref=sr_1_280"
+    }
+  ]
+}

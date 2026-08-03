@@ -1,10 +1,10 @@
 {
   "asin": "JKE-SKU-IIYDSVCYHA3DQTKD",
-  "title": "Ingco Impact Wrench, 2300rpm | 550N.M | 1/2\"\" Square Drive Electric Impact Wrench, Aluminum Gear Box with Rubber, Impact Wrench Tool Kit with 6pcs Sockets, 1pcs 125mm Adaptor",
+  "title": "Ingco Impact Wrench, 2300rpm | 550N.M | 1/2\"\" Square Drive...",
   "brand": "Ingco",
-  "current_price": "₹7,249.00",
-  "mrp": "₹9,276",
-  "product_url": "https://www.amazon.in/2300rpm-Electric-Aluminum-Sockets-Adaptor/dp/B09TX868MC/ref=sr_1_17",
+  "current_price": 0,
+  "mrp": 7599,
+  "product_url": "https://www.amazon.in/2300rpm-Electric-Aluminum-Sockets-Adaptor/dp/B09TX868MC/ref=sr_1_28_mod_primary_new",
   "description": "【PRO PERFORMANCE】– Our lightweight, heavy duty Impact Wrench delivers up to 550N.M torque, 1050W Power Motor, which is excellent for car tire rotation / removal, change lawnmower blade, etc. 【HIGH PERFORMANCE】– Unlike other brands that offer tools with limited features, our impact wrench features 1/2\" Square drive, aluminum gear box with rubber, which is powerful for various need 【VALUE KIT 】– Our Impact Wrench Tool Kit comes with a heavy duty corded impact wrench, 6pcs sockets(17,18,19,21,23,24mm) , 1pcs 125mm adaptor, 2.1M line provides you unlimited running. 【USER-FRIENDLY 】– with ergonomic soft grip handle exhaust design provides comfort for long working hours and a secure grip for maximum control and steadiness. Slim body design molded to securely fit and balance hand torque to help reduce vibration and fatigue with less wear on your hands. 【Buy With Confidence】– Strict quality inspection, 7*24h online service, all your question will be reply with 12h, try it, totally risk free!",
   "image_urls": [
     "https://m.media-amazon.com/images/I/712G-NSjdXL.jpg | https://m.media-amazon.com/images/I/41NJ6NXaWQL.jpg | https://m.media-amazon.com/images/I/41QFiF+XQEL.jpg | https://m.media-amazon.com/images/I/41Zpc3mQ4XL.jpg | https://m.media-amazon.com/images/I/41AXYoS7u1L.jpg | https://m.media-amazon.com/images/I/41H0cgtPsSL.jpg | https://m.media-amazon.com/images/I/41G-uJxTEZL.jpg | https://m.media-amazon.com/images/I/614bhesoYVL.jpg",
@@ -26,15 +26,14 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41H0cgtPsSL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41G-uJxTEZL.jpg",
   "specifications": {
-    "Country of Origin": "‎China",
     "Manufacturer": "‎INGCO",
     "ASIN": "‎B09TX868MC",
-    "Product Dimensions": "‎20 x 20 x 5 cm; 2 kg",
-    "Item model number": "‎IW10508-NEW"
+    "Item model number": "‎IW10508-NEW",
+    "Product Dimensions": "‎20 x 20 x 5 cm; 2 kg"
   },
   "SKU": "JKE-SKU-IIYDSVCYHA3DQTKD",
-  "Name": "Ingco Impact Wrench, 2300rpm | 550N.M | 1/2\"\" Square Drive Electric Impact Wrench, Aluminum Gear Box with Rubber, Impact Wrench Tool Kit with 6pcs Sockets, 1pcs 125mm Adaptor",
-  "Slug": "ingco-impact-wrench-2300rpm-550nm-12-square-drive-electric-impact-wrench-aluminum-gear-box-with-rubber-impact-wrench-tool-kit-with-6pcs-sockets-1pcs-125mm-adaptor",
+  "Name": "Ingco Impact Wrench, 2300rpm | 550N.M | 1/2\"\" Square Drive...",
+  "Slug": "ingco-impact-wrench-2300rpm-550nm-12-square-drive",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -49,9 +48,8 @@
     "https://m.media-amazon.com/images/I/614bhesoYVL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/712G-NSjdXL.jpg | https://m.media-amazon.com/images/I/41NJ6NXaWQL.jpg | https://m.media-amazon.com/images/I/41QFiF+XQEL.jpg | https://m.media-amazon.com/images/I/41Zpc3mQ4XL.jpg | https://m.media-amazon.com/images/I/41AXYoS7u1L.jpg | https://m.media-amazon.com/images/I/41H0cgtPsSL.jpg | https://m.media-amazon.com/images/I/41G-uJxTEZL.jpg | https://m.media-amazon.com/images/I/614bhesoYVL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "21.85%",
-  "SalePrice": "₹7,249.00",
-  "Country": "‎China"
+  "Discount": "5.26%",
+  "SalePrice": 0
 }

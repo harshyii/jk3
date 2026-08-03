@@ -2,9 +2,9 @@
   "asin": "JKE-SKU-IIYEIS2KKFIFEQZU",
   "title": "FREEMANS Box Section Aluminum Spirit Level with Magnet 30cm",
   "brand": "Freemans",
-  "current_price": "₹484.00",
-  "mrp": "₹790",
-  "product_url": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Magnet/dp/B0DKJQPRC4/ref=sr_1_146",
+  "current_price": 0,
+  "mrp": 790,
+  "product_url": "https://www.amazon.in/FREEMANS-Section-Aluminum-Spirit-Magnet/dp/B0DKJQPRC4/ref=sr_1_65",
   "description": "180*, 90* and 45* High Visibility, Shock Resistant, Block Vials facilitate easy reading of measurements. Heavy Duty aluminium body stands up to the toughest jobsite demands. Shock Absorbent End Caps for added durability. Equipped with a Magnetic Base for hands free use on metal surfaces. FIBERGLASS TAPE RIBBON is non-conductive, non-creasing, weather resistant and durable against wear and tear. The FREEMANS Grey Magic fibreglass tape blade is manufactured with cm graduations. HEAT SEALED MARKINGS on tape ribbon for prolonged life. UNBREAKABLE ABS CASE to meet the toughest jobsite demands.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/41PQbuNU+vL.jpg | https://m.media-amazon.com/images/I/21ifP1FfQyL.jpg",
@@ -15,11 +15,12 @@
   "image_url_2": "https://m.media-amazon.com/images/I/41PQbuNU+vL.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/21ifP1FfQyL.jpg",
   "specifications": {
-    "Brand Name": "FREEMANS",
-    "ASIN": "B0DKJQPRC4",
     "Colour": "gray",
-    "Style Name": "Magnetic",
+    "Brand Name": "FREEMANS",
+    "Best Sellers Rank": "#138,019 in Home Improvement (See Top 100 in Home Improvement)#89 inMarking Tools#149 inLevels",
+    "ASIN": "B0DKJQPRC4",
     "Material Type": "Acrylonitrile Butadiene Styrene, Aluminium",
+    "Style Name": "Magnetic",
     "Operation Mode": "Manual"
   },
   "SKU": "JKE-SKU-IIYEIS2KKFIFEQZU",
@@ -33,8 +34,8 @@
     "https://m.media-amazon.com/images/I/21ifP1FfQyL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/41PQbuNU+vL.jpg | https://m.media-amazon.com/images/I/21ifP1FfQyL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
   "Discount": "38.73%",
-  "SalePrice": "₹484.00"
+  "SalePrice": 0
 }

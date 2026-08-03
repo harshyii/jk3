@@ -6,5 +6,1106 @@
   "description": "Shop INGCO power tools, hand tools, garden tools, safety equipment and accessories at Haryana.Tools.",
   "seoTitle": "INGCO Tools Online India | Haryana.Tools",
   "metaDescription": "Browse INGCO power tools, hand tools, garden equipment and accessories with product details and specifications.",
-  "products": []
+  "products": [
+    {
+      "sku": "JKE-SKU-IIYDQNCNJU2EWRSW",
+      "slug": "arna-ingco-mini-die-grinder-rotary-130w-tool-kit-with-52pcs",
+      "name": "ARNA INGCO Mini Die Grinder Rotary 130W Tool Kit with 52pcs...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 3575,
+      "image": "https://m.media-amazon.com/images/I/61hXLhdSmlL.jpg | https://m.media-amazon.com/images/I/41-3TmWhsbL.jpg | https://m.media-amazon.com/images/I/61FAQ9RkiQL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-accessories-Variable-Polishing-Engraving/dp/B084MM4KFV/ref=sr_1_32"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTCGIRLUINCH",
+      "slug": "ingco-files-hktfs0508",
+      "name": "Ingco - Files Hktfs0508",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 1562,
+      "image": "https://m.media-amazon.com/images/I/81DusOqrVRL.jpg | https://m.media-amazon.com/images/I/41jjEVB3liL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-HKTFS0508-Files-Hktfs0508/dp/B01LFDWD4G/ref=sr_1_101"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVCCGRIFMRCI",
+      "slug": "ingco-12-ratchet-wrench-heavy-duty-ratchet-wrench-260mm",
+      "name": "Ingco 1/2\" Ratchet Wrench, Heavy Duty Ratchet Wrench, 260mm...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71cKHoG+lrL.jpg | https://m.media-amazon.com/images/I/41YHUuubmVL.jpg | https://m.media-amazon.com/images/I/41lByOgkVOL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Ratchet-Wrench-Heavy-Release/dp/B09TB4PVDH/ref=sr_1_85"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVCCGNJDGQZV",
+      "slug": "ingco-14-ratchet-wrench-heavy-duty-ratchet-wrench-158mm",
+      "name": "Ingco 1/4\" Ratchet Wrench, Heavy Duty Ratchet Wrench, 158mm...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/71cKHoG+lrL.jpg | https://m.media-amazon.com/images/I/41YHUuubmVL.jpg | https://m.media-amazon.com/images/I/41CYYSETS1L.jpg | https://m.media-amazon.com/images/I/31RFY80Wt+L.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Ratchet-Wrench-Heavy-Release/dp/B09TB3R3C5/ref=sr_1_46"
+    },
+    {
+      "sku": "JKE-SKU-IIYEEUSLJRKFMMSQ",
+      "slug": "ingco-12-pcs-14-socket-set",
+      "name": "INGCO 12 Pcs 1/4\" socket set",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1699,
+      "image": "https://m.media-amazon.com/images/I/71Wf7LTyvAL.jpg | https://m.media-amazon.com/images/I/41CM4SSMwYL.jpg | https://m.media-amazon.com/images/I/41mApLcQ+JL.jpg | https://m.media-amazon.com/images/I/51FODvUJ-sL.jpg | https://m.media-amazon.com/images/I/514b0ZSXRUL.jpg | https://m.media-amazon.com/images/I/51d8r03bGwL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-12-Pcs-socket-set/dp/B0BRKLTV2P/ref=sr_1_60"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSURUJRGFAWJW",
+      "slug": "ingco-12pcs-12-socket-set-quick-release-ratchet-wrench",
+      "name": "Ingco 12Pcs 1/2\" Socket Set, Quick Release Ratchet Wrench...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 4550,
+      "image": "https://m.media-amazon.com/images/I/81RO0kqozxL.jpg | https://m.media-amazon.com/images/I/41-g-TyNwQL.jpg | https://m.media-amazon.com/images/I/51uAtsuAriL.jpg | https://m.media-amazon.com/images/I/51jehmRgxYL.jpg | https://m.media-amazon.com/images/I/517CGZTHkJL.jpg | https://m.media-amazon.com/images/I/41X0SyX3+jL.jpg | https://m.media-amazon.com/images/I/41FEG0cdbrL.jpg",
+      "productUrl": "https://www.amazon.in/Socket-Release-Ratchet-Finished-Chromed/dp/B09R4LLPY6/ref=sr_1_72"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGWSLLEZFCUZW",
+      "slug": "ingco-12v-cordless-drill-with-2-pcs-batteryies-charger",
+      "name": "Ingco 12V Cordless Drill With 2 Pcs Batteryies, Charger,...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 5898,
+      "image": "https://m.media-amazon.com/images/I/81d7ETRittL.jpg | https://m.media-amazon.com/images/I/51c73OEQ8sL.jpg | https://m.media-amazon.com/images/I/411+CEpnANL.jpg | https://m.media-amazon.com/images/I/41qTtzKT-RL.jpg | https://m.media-amazon.com/images/I/516r-RMjHJL.jpg | https://m.media-amazon.com/images/I/41XxuQ76TKL.jpg | https://m.media-amazon.com/images/I/51QPnHgfDYL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Batteryies-Charger-0-8-10mm-Variable/dp/B0CZKY2QS6/ref=sr_1_30"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGUKOLJLEYTC2",
+      "slug": "ingco-12v-cordless-drill-cordless-drilling-machine-with",
+      "name": "INGCO 12V Cordless Drill, Cordless Drilling Machine With...",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 2250,
+      "image": "https://m.media-amazon.com/images/I/61adw3jYqkL.jpg | https://m.media-amazon.com/images/I/41GiGh4-pdL.jpg | https://m.media-amazon.com/images/I/51KHibjgulL.jpg | https://m.media-amazon.com/images/I/41GyiCokfjL.jpg | https://m.media-amazon.com/images/I/41CI3qPMkiL.jpg | https://m.media-amazon.com/images/I/51EmP9jnE9L.jpg | https://m.media-amazon.com/images/I/51yzh3HXrfL.jpg | https://m.media-amazon.com/images/I/51pZOf2VOgL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Drilling-Machine-Battery-0-8-10Mm/dp/B0CQNZVLLZ/ref=sr_1_26"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSUCEJRNDIWKY",
+      "slug": "ingco-13-in-1-ratchet-screwdriver-set-ingco-style-ratchet",
+      "name": "INGCO 13 IN 1 Ratchet Screwdriver Set, INGCO Style Ratchet...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 444,
+      "image": "https://m.media-amazon.com/images/I/51Cb2L4QAbL.jpg | https://m.media-amazon.com/images/I/31VbzcfhHML.jpg | https://m.media-amazon.com/images/I/41vW8TLhDWL.jpg | https://m.media-amazon.com/images/I/41RwoCiPdAL.jpg | https://m.media-amazon.com/images/I/41WliNYodSL.jpg | https://m.media-amazon.com/images/I/41bULyC94PL.jpg | https://m.media-amazon.com/images/I/412anay+HAL.jpg | https://m.media-amazon.com/images/I/413DnGpnT3L.jpg",
+      "productUrl": "https://www.amazon.in/Ratchet-Screwdriver-Handle-Folding-Auality/dp/B09PDLZ4YX/ref=sr_1_22"
+    },
+    {
+      "sku": "JKE-SKU-IIYEESZRKA4UQQ2D",
+      "slug": "ingco-13-inch-tool-bag-tool-storage-bag-with-wide-mouth",
+      "name": "Ingco 13 Inch Tool Bag, Tool Storage Bag with Wide Mouth...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1200,
+      "image": "https://m.media-amazon.com/images/I/71u+BlSA-+L.jpg | https://m.media-amazon.com/images/I/31EDizgqSXL.jpg | https://m.media-amazon.com/images/I/41ASQb5NVAL.jpg | https://m.media-amazon.com/images/I/510JHkQYNxL.jpg | https://m.media-amazon.com/images/I/41mFIzq10TL.jpg | https://m.media-amazon.com/images/I/41fQFsWelQL.jpg | https://m.media-amazon.com/images/I/51EI2HEBj5L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Multi-use-Waterproof-Construction-Carpentry/dp/B0BK1P9HCC/ref=sr_1_35"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGM2CGIYVATKE",
+      "slug": "ingco-1500w-corded-hammer-drill-machine-850rpm-32mm-in",
+      "name": "INGCO 1500W Corded Hammer Drill Machine 850RPM, 32mm In...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 16899,
+      "image": "https://m.media-amazon.com/images/I/81byxNsGksL.jpg | https://m.media-amazon.com/images/I/417-e1wdaVL.jpg | https://m.media-amazon.com/images/I/51uX1EYRK2L.jpg | https://m.media-amazon.com/images/I/514-lyAq0TL.jpg | https://m.media-amazon.com/images/I/41a8biRMlZL.jpg | https://m.media-amazon.com/images/I/41jUOnN6f+L.jpg | https://m.media-amazon.com/images/I/41DmMrUOrkL.jpg",
+      "productUrl": "https://www.amazon.in/Rotary-Functions-Concrete-Woodworking-Industrial/dp/B0C3B21PMD/ref=sr_1_8"
+    },
+    {
+      "sku": "JKE-SKU-IIYEESZRJZEEORCD",
+      "slug": "ingco-16-inch-tool-bag-15kg-max-load-tool-storage-bag",
+      "name": "INGCO 16 Inch Tool Bag, 15kg Max Load, Tool Storage Bag...",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 1700,
+      "image": "https://m.media-amazon.com/images/I/71JoXmyR93L.jpg | https://m.media-amazon.com/images/I/313IEr7kAEL.jpg | https://m.media-amazon.com/images/I/510JHkQYNxL.jpg | https://m.media-amazon.com/images/I/41mFIzq10TL.jpg | https://m.media-amazon.com/images/I/41fQFsWelQL.jpg | https://m.media-amazon.com/images/I/51EI2HEBj5L.jpg | https://m.media-amazon.com/images/I/31JjBH9qMcL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Multi-use-Waterproof-Construction-Carpentry/dp/B0BK1NHGDC/ref=sr_1_92"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQQ2LG42TCNCG",
+      "slug": "ingco-16pcs-drill-bits-set-screwdriver-bits-set",
+      "name": "Ingco 16PCS Drill Bits Set & Screwdriver Bits Set...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/71El9kjwF7L.jpg | https://m.media-amazon.com/images/I/419E+cF67dL.jpg | https://m.media-amazon.com/images/I/51uKufxX26L.jpg | https://m.media-amazon.com/images/I/41XMukfHMJL.jpg | https://m.media-amazon.com/images/I/51oNBt391jL.jpg | https://m.media-amazon.com/images/I/511SFNQzm3L.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-16PCS-Drill-Screwdriver-AKSDB9165/dp/B08CK7514F/ref=sr_1_75"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGNSKG5MFANBY",
+      "slug": "ingco-19-pcs-drill-bits-screwdriver-bits-set-aksdb1901",
+      "name": "INGCO 19 PCS DRILL BITS & SCREWDRIVER BITS SET AKSDB1901",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61KFDHF-EdL.jpg | https://m.media-amazon.com/images/I/41zrYi6xchL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-DRILL-BITS-SCREWDRIVER-AKSDB1901/dp/B0C6J7XP48/ref=sr_1_97"
+    },
+    {
+      "sku": "JKE-SKU-IIYDORRSI5JTOQ2C",
+      "slug": "ingco-200g-professionalhome-usage-drop-forged-fiber-glass",
+      "name": "INGCO 200G Professional/Home Usage Drop Forged Fiber Glass...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/41dGwF+AXxL.jpg | https://m.media-amazon.com/images/I/218jFoZ0VCL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Professional-Forged-Handle-Machinist/dp/B07F2GS7CB/ref=sr_1_89"
+    },
+    {
+      "sku": "JKE-SKU-IIYDASCOGZHVCTBY",
+      "slug": "ingco-200mm-8-inch-carpenter-pliers-hcpp02200",
+      "name": "INGCO 200mm 8 inch Carpenter Pliers, HCPP02200",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/51t166TJ6xL.jpg | https://m.media-amazon.com/images/I/31ycFnAumEL.jpg | https://m.media-amazon.com/images/I/31ADOJfydgL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-200mm-Carpenter-Pliers-HCPP02200/dp/B00HN6OQL8/ref=sr_1_108"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMMZYHFDTMNCG",
+      "slug": "ingco-20v-brushless-cordless-drill-with-2-batteries-66nm",
+      "name": "Ingco 20V Brushless Cordless Drill with 2 Batteries, 66Nm...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 12840,
+      "image": "https://m.media-amazon.com/images/I/813mKYBof7L.jpg | https://m.media-amazon.com/images/I/511ingXAf6L.jpg | https://m.media-amazon.com/images/I/51+jkOwm4ML.jpg | https://m.media-amazon.com/images/I/51aqdYV5OFL.jpg | https://m.media-amazon.com/images/I/51CfJUn5s4L.jpg | https://m.media-amazon.com/images/I/518uTOAPmGL.jpg | https://m.media-amazon.com/images/I/5187nYYamRL.jpg | https://m.media-amazon.com/images/I/518pBQ8KWpL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Brushless-Batteries-Accessory-Multicolour/dp/B0F389G64F/ref=sr_1_64"
+    },
+    {
+      "sku": "JKE-SKU-IIYEMM2DKZBE4WSM",
+      "slug": "ingco-20v-brushless-cordless-impact-wrench-driver-with-2",
+      "name": "Ingco 20V Brushless Cordless Impact Wrench & Driver with 2...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 15610,
+      "image": "https://m.media-amazon.com/images/I/81+Kc0roFiL.jpg | https://m.media-amazon.com/images/I/51YtnLMo+ZL.jpg | https://m.media-amazon.com/images/I/51Di2B6rGkL.jpg | https://m.media-amazon.com/images/I/51py6ge4AVL.jpg | https://m.media-amazon.com/images/I/51ahfbDGs4L.jpg | https://m.media-amazon.com/images/I/51JrJGahTYL.jpg | https://m.media-amazon.com/images/I/51vqucbC6VL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Brushless-Cordless-Impact-Batteries/dp/B0F3CVBNZL/ref=sr_1_63"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIQ22GQ3VGRZW",
+      "slug": "ingco-20v-cordless-14-sheet-sander-12000rpm-electic",
+      "name": "INGCO 20V Cordless 1/4 Sheet Sander 12000RPM Electic...",
+      "brand": "Ingco",
+      "category": "Abrasives & Finishing",
+      "price": 9000,
+      "image": "https://m.media-amazon.com/images/I/81mNkMOW5yL.jpg | https://m.media-amazon.com/images/I/51BKzd40C2L.jpg | https://m.media-amazon.com/images/I/51Y6nGfg-xL.jpg | https://m.media-amazon.com/images/I/51TN-1wH7TL.jpg | https://m.media-amazon.com/images/I/51Wh121QrGL.jpg | https://m.media-amazon.com/images/I/51r-JCKSdAL.jpg | https://m.media-amazon.com/images/I/51wJJWcjvKL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Cordless-Sander-Battery-Charger/dp/B0DCZ47SG6/ref=sr_1_73"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOSCQGNKFANSO",
+      "slug": "ingco-20v-cordless-brushless-angle-grinder-100mm-900w",
+      "name": "INGCO 20V Cordless Brushless Angle Grinder 100mm, 900W,...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 10500,
+      "image": "https://m.media-amazon.com/images/I/71F2PJubHPL.jpg | https://m.media-amazon.com/images/I/51Y3Og21BfL.jpg | https://m.media-amazon.com/images/I/51okDzsErnL.jpg | https://m.media-amazon.com/images/I/51ePWIgIFLL.jpg | https://m.media-amazon.com/images/I/51gSQ7Wbq-L.jpg | https://m.media-amazon.com/images/I/51qP98DeCSL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Brushless-Grinder-Adjustment-CAGLI261021/dp/B0GHP3TP6N/ref=sr_1_5"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIOBTKFEFQS2Q",
+      "slug": "ingco-20v-cordless-brushless-circular-saw-140mm5-12",
+      "name": "INGCO 20V Cordless Brushless Circular Saw 140mm(5-1/2''),...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/81-AzmR08bL.jpg | https://m.media-amazon.com/images/I/41Zg1kvqqTL.jpg | https://m.media-amazon.com/images/I/51UVrj1NuYL.jpg | https://m.media-amazon.com/images/I/41hCmPExplL.jpg | https://m.media-amazon.com/images/I/51kLoOXBy-L.jpg | https://m.media-amazon.com/images/I/51kL9Mg08-L.jpg | https://m.media-amazon.com/images/I/51M0MsiNi0L.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Circular-Brushless-Adjustable-Cutting/dp/B0D83QHXKP/ref=sr_1_36"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIV2YHAZUQUKO",
+      "slug": "ingco-20v-cordless-brushless-drill-55nm-2-speed-adjstment",
+      "name": "INGCO 20V Cordless Brushless Drill 55NM, 2-Speed Adjstment...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 9988,
+      "image": "https://m.media-amazon.com/images/I/718wQH5Ji1L.jpg | https://m.media-amazon.com/images/I/51jbxwFLjKL.jpg | https://m.media-amazon.com/images/I/51G7iWfyAzL.jpg | https://m.media-amazon.com/images/I/510IivOBhSL.jpg | https://m.media-amazon.com/images/I/51xvOpylfFL.jpg | https://m.media-amazon.com/images/I/51c6uB85a5L.jpg | https://m.media-amazon.com/images/I/51V8mHu37iL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Brushless-Batteries-Carrying/dp/B0DWX83HQN/ref=sr_1_9"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOSCRGZGUIVCE",
+      "slug": "ingco-20v-cordless-brushless-impact-drill-96nm-variable",
+      "name": "INGCO 20V Cordless Brushless Impact Drill 96NM, Variable...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 25000,
+      "image": "https://m.media-amazon.com/images/I/71sDDKGPYTL.jpg | https://m.media-amazon.com/images/I/51rXDQf2C-L.jpg | https://m.media-amazon.com/images/I/51-JHn9Z0fL.jpg | https://m.media-amazon.com/images/I/51FElBG25mL.jpg | https://m.media-amazon.com/images/I/51XHtnvzlsL.jpg | https://m.media-amazon.com/images/I/51RT6pJlyRL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Brushless-Variable-Auxiliary-CIDLI209686/dp/B0GHQ6MDTD/ref=sr_1_54"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTSOJNBVCMSC",
+      "slug": "ingco-20v-cordless-brushless-impact-wrench-300nm-12-led",
+      "name": "Ingco 20V Cordless Brushless Impact Wrench 300NM, 1/2\", LED...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 15000,
+      "image": "https://m.media-amazon.com/images/I/71xlCWRcSML.jpg | https://m.media-amazon.com/images/I/51yBO+pilpL.jpg | https://m.media-amazon.com/images/I/51nDv51vFuL.jpg | https://m.media-amazon.com/images/I/41zC0yJrXbL.jpg | https://m.media-amazon.com/images/I/51ZxnOlO+NL.jpg | https://m.media-amazon.com/images/I/51IAQkIVNBL.jpg | https://m.media-amazon.com/images/I/51igTiwr8iL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-power-impact-wrench-version/dp/B09NNKCQ2B/ref=sr_1_74"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGWCYJRBTOWKT",
+      "slug": "ingco-20v-cordless-hammer-drill-850rpm-16-in-concrete",
+      "name": "INGCO 20V Cordless Hammer Drill, 850RPM, Φ16 in Concrete,...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71JwbEgItEL.jpg | https://m.media-amazon.com/images/I/51NhkVvQIpL.jpg | https://m.media-amazon.com/images/I/51IKoqziZvL.jpg | https://m.media-amazon.com/images/I/41ydvQgPbWL.jpg | https://m.media-amazon.com/images/I/51FdekCepSL.jpg | https://m.media-amazon.com/images/I/515n5HLoyOL.jpg | https://m.media-amazon.com/images/I/41CabJ02JzL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Machine-Function-Multicolour/dp/B0CXXLC7YS/ref=sr_1_23_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOS2GKM3FMWCC",
+      "slug": "ingco-20v-cordless-heat-gun-hot-air-gun-max-1022f",
+      "name": "INGCO 20V Cordless Heat Gun, Hot Air Gun Max 1022°F...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/71Bzk5vlGIL.jpg | https://m.media-amazon.com/images/I/51tgLRqrt9L.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Adjustable-Temperature-Battery-Carrying/dp/B0GKFS6VXB/ref=sr_1_41"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIRSUI5DU2URZ",
+      "slug": "ingco-20v-cordless-impact-drill-66nm-brushless-motor",
+      "name": "INGCO 20V Cordless Impact Drill 66NM, Brushless Motor,...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/81HluC39I2L.jpg | https://m.media-amazon.com/images/I/51+J+4ifEUL.jpg | https://m.media-amazon.com/images/I/51-WIRrMX7L.jpg | https://m.media-amazon.com/images/I/51v9SHlqLQL.jpg | https://m.media-amazon.com/images/I/513xPJjVLtL.jpg | https://m.media-amazon.com/images/I/51TBGYHS23L.jpg | https://m.media-amazon.com/images/I/51lk4pcb40L.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Machine-Brushless-Battery-Charger/dp/B0DFTGGMR9/ref=sr_1_6"
+    },
+    {
+      "sku": "JKE-SKU-IIYEISCXKMZDGSSG",
+      "slug": "ingco-20v-cordless-impact-wrench-12-inch-400nm-brushless",
+      "name": "Ingco 20V Cordless Impact Wrench 1/2 Inch 400NM, Brushless...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 15000,
+      "image": "https://m.media-amazon.com/images/I/715mGG3D-dL.jpg | https://m.media-amazon.com/images/I/41GygFnylZL.jpg | https://m.media-amazon.com/images/I/51JHpDCSkaL.jpg | https://m.media-amazon.com/images/I/51nc-BUOdbL.jpg | https://m.media-amazon.com/images/I/51zeBlCTKkL.jpg | https://m.media-amazon.com/images/I/519JExtgH9L.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Nut-Busting-Torque550-Brushless/dp/B0DHWS23JF/ref=sr_1_40"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOM2QHFCDIUKL",
+      "slug": "ingco-20v-cordless-impact-wrench-405nm-variable-speed",
+      "name": "Ingco 20V Cordless Impact Wrench 405NM, Variable Speed...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/81AJjS9NluL.jpg | https://m.media-amazon.com/images/I/51nIhc4GUrL.jpg | https://m.media-amazon.com/images/I/410TrTZzulL.jpg | https://m.media-amazon.com/images/I/41QJms3XC3L.jpg | https://m.media-amazon.com/images/I/51F5Cn5m5DL.jpg | https://m.media-amazon.com/images/I/51oY765mfPL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Variable-Screwdriver-Carrying/dp/B0G3P9D4QK/ref=sr_1_1"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGUKMK5DVOVSW",
+      "slug": "ingco-20v-cordless-impact-wrench-450nm-electric-impact",
+      "name": "INGCO 20V Cordless Impact Wrench, 450NM, Electric Impact...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 15999,
+      "image": "https://m.media-amazon.com/images/I/81hx1rtfaCL.jpg | https://m.media-amazon.com/images/I/51eaIszwAiL.jpg | https://m.media-amazon.com/images/I/51dzYSwVQbL.jpg | https://m.media-amazon.com/images/I/51heOTUij1L.jpg | https://m.media-amazon.com/images/I/51ylX3aFO+L.jpg | https://m.media-amazon.com/images/I/51GpRCGrIgL.jpg | https://m.media-amazon.com/images/I/51+xQ5SNezL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Brushless-Sockets-Batteries/dp/B0CQLWGWVV/ref=sr_1_39"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIQ22GQYU4USM",
+      "slug": "ingco-20v-cordless-mini-angle-grinder-76mm-m6-19500rpm",
+      "name": "INGCO 20V Cordless Mini Angle Grinder 76mm, M6, 19500RPM,...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71El6K+JHdL.jpg | https://m.media-amazon.com/images/I/51ukYfcT3OL.jpg | https://m.media-amazon.com/images/I/51NbC92F8bL.jpg | https://m.media-amazon.com/images/I/51y7RVxWIuL.jpg | https://m.media-amazon.com/images/I/51yvC8D61oL.jpg | https://m.media-amazon.com/images/I/41GUj9AujGL.jpg | https://m.media-amazon.com/images/I/518QxVCg5fL.jpg | https://m.media-amazon.com/images/I/41eU-ST5F-L.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Grinder-Diameter-Battery-Charger/dp/B0DCZ41NRL/ref=sr_1_42"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOSS2KJLVGWRU",
+      "slug": "ingco-20v-cordless-random-orbit-sander-125mm-brushless",
+      "name": "INGCO 20V Cordless Random Orbit Sander 125mm, Brushless...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/815IOHajGTL.jpg | https://m.media-amazon.com/images/I/51K2XMc7+iL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Brushless-Variable-Polishing-Improvements/dp/B0GJZRWSZ4/ref=sr_1_77"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOSSTII2VONBU",
+      "slug": "ingco-20v-lithium-ion-compact-drill-body-only-55nm",
+      "name": "INGCO 20V Lithium-Ion Compact Drill (Body Only) 55NM,...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/71IZrLJvyzL.jpg | https://m.media-amazon.com/images/I/41vtmYHzhbL.jpg",
+      "productUrl": "https://www.amazon.in/Lithium-Ion-Compact-Brushless-Torque-Settings/dp/B0GJSB5W44/ref=sr_1_44"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSSRYIY3TCM22",
+      "slug": "ingco-3-in-1-staple-gun-hsg1405",
+      "name": "INGCO 3 in 1 Staple Gun, HSG1405",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 2099,
+      "image": "https://m.media-amazon.com/images/I/71ffR9Cpn3L.jpg | https://m.media-amazon.com/images/I/41inFMUjX7L.jpg | https://m.media-amazon.com/images/I/51DvlceCsaL.jpg | https://m.media-amazon.com/images/I/41vNNANYGPL.jpg | https://m.media-amazon.com/images/I/41FX27bHtPL.jpg | https://m.media-amazon.com/images/I/417Fre73FfL.jpg | https://m.media-amazon.com/images/I/61gNqAajocL.jpg | https://m.media-amazon.com/images/I/51-dOSXdaGL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-HSG1405-INGCO-Staple-Gun/dp/B09J8F713Z/ref=sr_1_34"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWSWGJCDQRSS",
+      "slug": "ingco-3-in-1-staple-nail-steel-gun-kit-with-600-staples",
+      "name": "INGCO 3 in 1 Staple Nail Steel Gun Kit with 600 Staples,...",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 1499,
+      "image": "https://m.media-amazon.com/images/I/71zDBgqjcJL.jpg | https://m.media-amazon.com/images/I/412sQ4LytgL.jpg | https://m.media-amazon.com/images/I/51uej0xaPdL.SS40_BG85,85,85_BR-120_PKdp-play-icon-overlay__.jpg | https://m.media-amazon.com/images/I/41eVFtHuuYL.jpg | https://m.media-amazon.com/images/I/51Ylv4Qi7DL.jpg | https://m.media-amazon.com/images/I/51IldI20RCL.jpg | https://m.media-amazon.com/images/I/511ycyYs3-L.jpg | https://m.media-amazon.com/images/I/41MDg9waGSL.jpg",
+      "productUrl": "https://www.amazon.in/Upholstery-Material-Decoration-Carpentry-Furniture/dp/B09ZV2D8FR/ref=sr_1_33"
+    },
+    {
+      "sku": "JKE-SKU-IIYEQNSKG5MUUNKE",
+      "slug": "ingco-360-degree-medium-bristle-brush-shank-14-hex",
+      "name": "INGCO 360-Degree Medium Bristle Brush Shank: 1/4\" Hex...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/81nLGdQd4RL.jpg | https://m.media-amazon.com/images/I/41B01+yUJdL.jpg | https://m.media-amazon.com/images/I/51CSrFW1eCL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-360-Degree-Medium-Bristle-Brush/dp/B0H6J7YJ5D/ref=sr_1_111"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWCYJVNFCOCM",
+      "slug": "ingco-450w-corded-paint-sprayer-800ml-capacity-50din-s",
+      "name": "INGCO 450W Corded Paint Sprayer, 800ml Capacity, 50Din-s,...",
+      "brand": "Ingco",
+      "category": "Agricultural Equipment",
+      "price": 2199,
+      "image": "https://m.media-amazon.com/images/I/712nydzeG7L.jpg | https://m.media-amazon.com/images/I/416w4o5QcaL.jpg | https://m.media-amazon.com/images/I/41ZZzuwv8hL.jpg | https://m.media-amazon.com/images/I/41FbfCtQgUL.jpg | https://m.media-amazon.com/images/I/41vLMnVJZlL.jpg | https://m.media-amazon.com/images/I/41Ps75cCSlL.jpg | https://m.media-amazon.com/images/I/51KBwtZqm3L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Sprayer%EF%BC%8C800-Capacity-Copper-50Din-S/dp/B09XXMZQ8L/ref=sr_1_3"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOTSGKE2VMWCH",
+      "slug": "ingco-4v-cordless-screwdriver-5nm-led-work-light-260rpm",
+      "name": "INGCO 4V Cordless Screwdriver 5N.m, LED Work Light, 260RPM,...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 5700,
+      "image": "https://m.media-amazon.com/images/I/71IvBZShgQL.jpg | https://m.media-amazon.com/images/I/4172K97m0aL.jpg | https://m.media-amazon.com/images/I/51IqcveZbuL.jpg | https://m.media-amazon.com/images/I/51dJHhQU6sL.jpg | https://m.media-amazon.com/images/I/51tqH0UZDBL.jpg | https://m.media-amazon.com/images/I/41HqrjUwiCL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Screwdriver-260RPM-Holder-Connector/dp/B0GNFQ5VXG/ref=sr_1_52"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGTKIJJJUWVS2",
+      "slug": "ingco-4v-electric-cordless-screwdriver-rechargeable-power",
+      "name": "INGCO 4V Electric Cordless Screwdriver, Rechargeable Power...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 3000,
+      "image": "https://m.media-amazon.com/images/I/81hw0+bD7TL.jpg | https://m.media-amazon.com/images/I/51zjA3MTBWL.jpg | https://m.media-amazon.com/images/I/41srxilCJzL.jpg | https://m.media-amazon.com/images/I/416kJ4RfnFL.jpg | https://m.media-amazon.com/images/I/41WmudV-jVL.jpg | https://m.media-amazon.com/images/I/41DsH2LNUtL.jpg | https://m.media-amazon.com/images/I/51BfOQutEKL.jpg",
+      "productUrl": "https://www.amazon.in/Electric-Cordless-Screwdriver-Rechargeable-Driver/dp/B0CMHJSKVZ/ref=sr_1_2"
+    },
+    {
+      "sku": "JKE-SKU-IIYEESZRKFDFUSBS",
+      "slug": "ingco-5-pcs-air-tools-set-includes-4m-recoil-hose-air",
+      "name": "INGCO 5 Pcs air Tools Set, Includes 4m Recoil Hose, Air...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 2942,
+      "image": "https://m.media-amazon.com/images/I/71KVK8wERIL.jpg | https://m.media-amazon.com/images/I/41xd1lewyDL.jpg | https://m.media-amazon.com/images/I/41I+u2In8nL.jpg | https://m.media-amazon.com/images/I/41+XtKz97jL.jpg | https://m.media-amazon.com/images/I/411s1bAQFZL.jpg | https://m.media-amazon.com/images/I/41zHwm8hxVL.jpg | https://m.media-amazon.com/images/I/41qMDt7whvL.jpg | https://m.media-amazon.com/images/I/51kMe7gUhSL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Inflating-Connector-Maintenance-Handicrafts/dp/B0BK1QFZH2/ref=sr_1_11"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQQSTGFGUGVSO",
+      "slug": "ingco-5pcs-masonry-drill-bits-set-akdb3055",
+      "name": "Ingco 5pcs Masonry Drill Bits Set – AKDB3055",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/414rTThszAL.jpg | https://m.media-amazon.com/images/I/414rTThszAL.jpg | https://m.media-amazon.com/images/I/112X1vQixGL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Heavy-Duty-Masonry-Drill/dp/B08BS1MCVN/ref=sr_1_107"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIOBWKMZFGV2G",
+      "slug": "ingco-7-pcs-pliers-set-cr-v-labor-saving-structural",
+      "name": "INGCO 7 Pcs Pliers Set, CR-V, Labor-saving Structural...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 6319,
+      "image": "https://m.media-amazon.com/images/I/81nIzCfhkwL.jpg | https://m.media-amazon.com/images/I/51HjtMT4-tL.jpg | https://m.media-amazon.com/images/I/418cchsnNaL.jpg | https://m.media-amazon.com/images/I/4185f1hKqtL.jpg | https://m.media-amazon.com/images/I/41nW7cID+lL.jpg | https://m.media-amazon.com/images/I/512UW6A9ekL.jpg | https://m.media-amazon.com/images/I/514sTmWk5lL.jpg",
+      "productUrl": "https://www.amazon.in/Pliers-Labor-saving-Structural-Design-improvement/dp/B0D86S2SWF/ref=sr_1_25"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIMZYGZFVIWRS",
+      "slug": "ingco-8-pcs-metal-drill-bits-set-akdb1088",
+      "name": "INGCO 8 Pcs Metal Drill Bits Set, AKDB1088",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 785,
+      "image": "https://m.media-amazon.com/images/I/71dmJOX+xHL.jpg | https://m.media-amazon.com/images/I/41a+4MYMshL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Metal-Drill-Bits-AKDB1088/dp/B0D386KTZ2/ref=sr_1_106"
+    },
+    {
+      "sku": "JKE-SKU-IIYDONK2G42FAM2I",
+      "slug": "ingco-8oz220g-fiber-glass-handle-heavy-duty-hammer",
+      "name": "Ingco 8oz/220g Fiber Glass Handle Heavy Duty Hammer",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 899,
+      "image": "https://m.media-amazon.com/images/I/51Kz77jsaOL.jpg | https://m.media-amazon.com/images/I/313hd0nxD3L.jpg | https://m.media-amazon.com/images/I/31EuYpgWGyL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Fiber-Glass-Handle-Hammer/dp/B075Z74P3H/ref=sr_1_100"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOUZZJI2VIU2D",
+      "slug": "ingco-9-pcs-sds-plus-hammer-drill-bits-set-akdl30906",
+      "name": "INGCO 9 Pcs SDS Plus Hammer Drill Bits Set AKDL30906",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1659,
+      "image": "https://m.media-amazon.com/images/I/81TBKVSvVxL.jpg | https://m.media-amazon.com/images/I/514oF+CMOaL.jpg | https://m.media-amazon.com/images/I/51OSz0tTPPL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Plus-Hammer-Drill-AKDL30906/dp/B0GS9J5TSC/ref=sr_1_86"
+    },
+    {
+      "sku": "JKE-SKU-IIYEQNCRKBCEQWJT",
+      "slug": "ingco-accessories-combo-set-drill-bit-set-cos26068",
+      "name": "INGCO Accessories Combo Set Drill Bit Set COS26068",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/81liKu+omqL.jpg | https://m.media-amazon.com/images/I/51quZmHyJdL.jpg | https://m.media-amazon.com/images/I/51e8U7pPtLL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Accessories-Combo-Drill-COS26068/dp/B0H4QPDHY3/ref=sr_1_68"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIWKULE4FQUBS",
+      "slug": "ingco-accessories-for-mini-grinder",
+      "name": "INGCO Accessories for mini grinder",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 998,
+      "image": "https://m.media-amazon.com/images/I/71Z4m-bgbML.jpg | https://m.media-amazon.com/images/I/31dVEMh-HcL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Accessories-for-mini-grinder/dp/B0DYTY8XP2/ref=sr_1_59"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSU2QGJEEEUCL",
+      "slug": "ingco-adjustable-wrench-0-192mm-with-metric-scale-",
+      "name": "Ingco Adjustable Wrench, 0-19.2mm with Metric Scale |...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/61SOUJeMsXL.jpg | https://m.media-amazon.com/images/I/31Mb3ClwjiL.jpg | https://m.media-amazon.com/images/I/51krMTjuVQL.jpg | https://m.media-amazon.com/images/I/41dZDj+W0CL.jpg | https://m.media-amazon.com/images/I/41n5UZ7REjL.jpg | https://m.media-amazon.com/images/I/31xdiXmg63L.jpg | https://m.media-amazon.com/images/I/412dHnp5hpL.jpg | https://m.media-amazon.com/images/I/41PXHIuY7bL.jpg",
+      "productUrl": "https://www.amazon.in/Adjustable-Drop-forged-Chrome-Plated-Professional-Maintenance/dp/B09SP2HBPK/ref=sr_1_90"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTBVGRNFGWCL",
+      "slug": "ingco-ag150018-industrial-angle-grinder-1500-watt-corded",
+      "name": "INGCO AG150018 Industrial Angle Grinder 1500 Watt Corded...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 14999,
+      "image": "https://m.media-amazon.com/images/I/31+tECycKML.jpg | https://m.media-amazon.com/images/I/31+tECycKML.jpg | https://m.media-amazon.com/images/I/41VT11oCvbL.jpg | https://m.media-amazon.com/images/I/41eNodZUZDL.jpg | https://m.media-amazon.com/images/I/41Z+MT-1PWL.jpg | https://m.media-amazon.com/images/I/31333UyaMeL.jpg",
+      "productUrl": "https://www.amazon.in/AG150018-Industrial-Grinder-Grinding-Polishing/dp/B09L54ZSXK/ref=sr_1_19"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSOK2GQ3TOTRT",
+      "slug": "ingco-ag90028-angle-grinder-900w-100-mm-4-heavy-duty",
+      "name": "INGCO AG90028 Angle Grinder 900W 100 mm/ 4\" (Heavy duty)...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 4189,
+      "image": "https://m.media-amazon.com/images/I/51-mYZaU47S.jpg | https://m.media-amazon.com/images/I/41ek8P4+qxS.jpg | https://m.media-amazon.com/images/I/41+2spA92NL.jpg | https://m.media-amazon.com/images/I/31K4ETolZ2L.jpg | https://m.media-amazon.com/images/I/41O05Cu4GuL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Grinder-No-Load-12000rpm-spindle/dp/B099Z477N3/ref=sr_1_29"
+    },
+    {
+      "sku": "JKE-SKU-IIYEEUKRLE2DOVRV",
+      "slug": "ingco-akd1075-ingco-ing-hss-7pcs-hss-drill-bit-set-size",
+      "name": "INGCO AKD1075 INGCO Ing HSS 7PCS HSS DRILL BIT SET SIZE...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 3190,
+      "image": "https://m.media-amazon.com/images/I/51olbLuTsoL.jpg | https://m.media-amazon.com/images/I/51olbLuTsoL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-AKD1075-7PCS-DRILL-2233456-0MM/dp/B0BQQY47V5/ref=sr_1_109"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOQ2THE4FMV2R",
+      "slug": "ingco-aksdfl1208-flexible-shaft-aksdfl1208-1-set",
+      "name": "iNGCO AKSDFL1208 FLEXIBLE SHAFT AKSDFL1208 (1 Set)",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 1000,
+      "image": "https://m.media-amazon.com/images/I/31TcvV9TWdL.jpg | https://m.media-amazon.com/images/I/31TcvV9TWdL.jpg | https://m.media-amazon.com/images/I/419YnV8EVdL.jpg | https://m.media-amazon.com/images/I/4128hOFE4aL.jpg | https://m.media-amazon.com/images/I/41FD9UPXkyL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-AKSDFL1208-iNGCO-FLEXIBLE-SHAFT/dp/B07CS98VWQ/ref=sr_1_105"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQRZYK42DGVCH",
+      "slug": "ingco-auto-air-compressor-12v-10a-140-psi-35l-min",
+      "name": "INGCO AUTO AIR Compressor 12V 10A 140 PSI 35L / MIN",
+      "brand": "Ingco",
+      "category": "Pneumatics & Hydraulics",
+      "price": 5100,
+      "image": "https://m.media-amazon.com/images/I/71CTzothkRL.jpg | https://m.media-amazon.com/images/I/41CH3u6eJRL.jpg | https://m.media-amazon.com/images/I/21VUwoiyf5L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-AUTO-AIR-Compressor-12V/dp/B08G8W43TG/ref=sr_1_37"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIQ22II3EMVCX",
+      "slug": "ingco-brushless-impact-wrench-nut-busting-torque-650nm",
+      "name": "Ingco Brushless Impact Wrench, Nut-Busting Torque 650Nm,...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/81apJKFBGBL.jpg | https://m.media-amazon.com/images/I/51PS4YQZ1DL.jpg | https://m.media-amazon.com/images/I/517J7k7i8SL.jpg | https://m.media-amazon.com/images/I/51nqAYRlsbL.jpg | https://m.media-amazon.com/images/I/41Q+qlYlYWL.jpg | https://m.media-amazon.com/images/I/611Bv2OoyML.jpg | https://m.media-amazon.com/images/I/51Tl7Z2RDfL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Brushless-Nut-Busting-Cordless-Battery/dp/B0DCZB6FTW/ref=sr_1_4"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVSNKNCEWNCR",
+      "slug": "ingco-carpenter-pliers-8200mm-cr-v-steel-black-finish",
+      "name": "INGCO Carpenter Pliers 8\"(200mm), Cr-V Steel, Black Finish...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 599,
+      "image": "https://m.media-amazon.com/images/I/61RxjJv-WtL.jpg | https://m.media-amazon.com/images/I/31+vF8H84pL.jpg | https://m.media-amazon.com/images/I/31toFnhY6rL.jpg | https://m.media-amazon.com/images/I/313T7ioWfeL.jpg | https://m.media-amazon.com/images/I/41ulIS8WO2L.jpg | https://m.media-amazon.com/images/I/41iUhoMDUfL.jpg",
+      "productUrl": "https://www.amazon.in/Carpenter-Pliers-200mm-Finish-Polish/dp/B09VMSDK4Q/ref=sr_1_102"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTBUKRGEYR2H",
+      "slug": "ingco-cidli-2002-lithium-ion-impact-drill-cordless-1811",
+      "name": "INGCO CIDLI 2002 Lithium-ion Impact Drill Cordless 18+1+1...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/71iXtSdW1bL.jpg | https://m.media-amazon.com/images/I/51gD6EuSL0L.jpg | https://m.media-amazon.com/images/I/51tZgM+icsL.jpg | https://m.media-amazon.com/images/I/51KP26DLLlL.jpg | https://m.media-amazon.com/images/I/51lzhRS6LsL.jpg | https://m.media-amazon.com/images/I/41OkFWAPBYL.jpg | https://m.media-amazon.com/images/I/41QQtSlBQZL.jpg | https://m.media-amazon.com/images/I/511FMZ7JYKL.jpg",
+      "productUrl": "https://www.amazon.in/CIDLI2002-Lithium-Ion-Cordless-battery-Electric/dp/B09L4TLLGG/ref=sr_1_71"
+    },
+    {
+      "sku": "JKE-SKU-IIYEERCHGJLEMVCL",
+      "slug": "ingco-cidli1232-lithium-ion-impact-drill-20-nm-cordless",
+      "name": "INGCO CIDLI1232 Lithium-ion Impact Drill 20 NM Cordless...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 8607.130000000001,
+      "image": "https://m.media-amazon.com/images/I/71zqYGItbLL.jpg | https://m.media-amazon.com/images/I/41G57tf9xcL.jpg | https://m.media-amazon.com/images/I/41PzNhX+NBL.jpg | https://m.media-amazon.com/images/I/51TjXoDB-tL.jpg | https://m.media-amazon.com/images/I/51SK6u4TrWL.jpg | https://m.media-amazon.com/images/I/413Bz+0IqxL.jpg | https://m.media-amazon.com/images/I/513A0Z-TSlL.jpg",
+      "productUrl": "https://www.amazon.in/CIDLI1232-Lithium-ion-Cordless-Improvement-Industrial/dp/B0BDG2VFTK/ref=sr_1_57"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINCSGRFEEVRX",
+      "slug": "ingco-cidli12328-12v-impact-drill-with-usb-type-c-charging",
+      "name": "INGCO CIDLI12328 12V Impact Drill with USB Type-C Charging,...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 3500,
+      "image": "https://m.media-amazon.com/images/I/61pkCBWYx8L.jpg | https://m.media-amazon.com/images/I/41aYZCPJ9FL.jpg | https://m.media-amazon.com/images/I/51WFI-AgK8L.jpg | https://m.media-amazon.com/images/I/41N4CeZ89kL.jpg | https://m.media-amazon.com/images/I/41lGBcL-noL.jpg | https://m.media-amazon.com/images/I/51O8eiT8d8L.jpg",
+      "productUrl": "https://www.amazon.in/CIDLI12328-Charging-0-8-10mm-batteries-Professional/dp/B0D4R4JBV7/ref=sr_1_50"
+    },
+    {
+      "sku": "JKE-SKU-IIYEERCHGJFU2WJS",
+      "slug": "ingco-cirli1201-lithium-ion-impact-driver-cordless-high",
+      "name": "INGCO CIRLI1201 Lithium-ion Impact Driver Cordless High...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 11100,
+      "image": "https://m.media-amazon.com/images/I/61Y1M7zhO1L.jpg | https://m.media-amazon.com/images/I/41K0-I5ALEL.jpg | https://m.media-amazon.com/images/I/51zYmRPvHVL.jpg | https://m.media-amazon.com/images/I/41XOzA8kdbL.jpg | https://m.media-amazon.com/images/I/51c8M2edJCL.jpg | https://m.media-amazon.com/images/I/51nTPRLyL1L.jpg | https://m.media-amazon.com/images/I/41LT+BQwqwL.jpg",
+      "productUrl": "https://www.amazon.in/CIRLI1201-Lithium-ion-Cordless-Improvement-Industrial/dp/B0BDG2KMY2/ref=sr_1_69"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSUCOGJKEEOJU",
+      "slug": "ingco-claw-hammer-professional-claw-hammer-8oz220g-45",
+      "name": "INGCO Claw Hammer, Professional Claw Hammer, 8oz/220g | 45#...",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61I1x7VY00L.jpg | https://m.media-amazon.com/images/I/31x9c7uehJL.jpg | https://m.media-amazon.com/images/I/51a2zvL9JSL.jpg | https://m.media-amazon.com/images/I/41uKq8X8sXL.jpg | https://m.media-amazon.com/images/I/51etRNbxHML.jpg | https://m.media-amazon.com/images/I/51wITHlzfSL.jpg | https://m.media-amazon.com/images/I/51BoiDn-PwL.jpg",
+      "productUrl": "https://www.amazon.in/Professional-Treatment-Drop-Forged-Hammerhead-Demolition/dp/B09PN2TB94/ref=sr_1_99"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIVBUGNLVQS2S",
+      "slug": "ingco-cordless-circular-saw",
+      "name": "INGCO Cordless circular saw",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 12999,
+      "image": "https://m.media-amazon.com/images/I/81tzXMe7CqL.jpg | https://m.media-amazon.com/images/I/41olqmmfLdL.jpg | https://m.media-amazon.com/images/I/51tcLhn8wVL.jpg | https://m.media-amazon.com/images/I/51Sg8a+Q2FL.jpg | https://m.media-amazon.com/images/I/510ggIYwVmL.jpg | https://m.media-amazon.com/images/I/51keVoPeIpL.jpg | https://m.media-amazon.com/images/I/516FN0c0RaL.jpg | https://m.media-amazon.com/images/I/51wUucZehJL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-CSLI1652-INGCO-Cordless-circular/dp/B0DT43WXKR/ref=sr_1_80"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIMSNIZNEYRC2",
+      "slug": "ingco-cordless-drill-machine-for-home-use-with-1-pcs",
+      "name": "INGCO Cordless Drill Machine for home use, with 1 pcs...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 2381,
+      "image": "https://m.media-amazon.com/images/I/81-LNYTZqhL.jpg | https://m.media-amazon.com/images/I/41EhKl9smxL.jpg | https://m.media-amazon.com/images/I/41qxzJZsgFL.jpg | https://m.media-amazon.com/images/I/41Y51Ldz+QL.jpg | https://m.media-amazon.com/images/I/51zVmHa7zFL.jpg | https://m.media-amazon.com/images/I/417BBus79zL.jpg | https://m.media-amazon.com/images/I/4116AjS-7AL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Machine-Batteries-Chargeing/dp/B0D2MFZLDZ/ref=sr_1_18"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGUCMKFNFQNCT",
+      "slug": "ingco-cordless-hammer-drill-machine-with-larger-battery-and",
+      "name": "Ingco Cordless Hammer Drill Machine With Larger Battery And...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 24000,
+      "image": "https://m.media-amazon.com/images/I/81beV8z9HEL.jpg | https://m.media-amazon.com/images/I/514+8YLg2EL.jpg | https://m.media-amazon.com/images/I/415HKoQ4Y+L.jpg | https://m.media-amazon.com/images/I/51fuAYayIML.jpg | https://m.media-amazon.com/images/I/51f6O3As1gL.jpg | https://m.media-amazon.com/images/I/51es0Bk2BYL.jpg | https://m.media-amazon.com/images/I/51pthnGCWVL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Machine-Demolition-Multicolor/dp/B0CPLQZX4S/ref=sr_1_20"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGWCKHA4UETC2",
+      "slug": "ingco-cordless-imopact-drill-machine-battery-drill-machine",
+      "name": "Ingco Cordless Imopact Drill Machine, Battery Drill Machine...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 5022,
+      "image": "https://m.media-amazon.com/images/I/81fBZd+vS1L.jpg | https://m.media-amazon.com/images/I/51MT7QXnUhL.jpg | https://m.media-amazon.com/images/I/41nsnEix6sL.jpg | https://m.media-amazon.com/images/I/417Py9cJlKL.jpg | https://m.media-amazon.com/images/I/516J2-rvCRL.jpg | https://m.media-amazon.com/images/I/41+U9zX3o9L.jpg | https://m.media-amazon.com/images/I/41nCc4H7yqL.jpg | https://m.media-amazon.com/images/I/41G0Mfe-swL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Batteries-Function-Multicolour/dp/B0CXJ89BLZ/ref=sr_1_38"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGUZZGZFDSQSK",
+      "slug": "ingco-cordless-impact-drill-20v-brushless-motor-60-nm",
+      "name": "INGCO Cordless Impact Drill 20V, Brushless Motor, 60 Nm,...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 20000,
+      "image": "https://m.media-amazon.com/images/I/81UPHgN9f-L.jpg | https://m.media-amazon.com/images/I/51TZsyibFfL.jpg | https://m.media-amazon.com/images/I/51uL7e7dcFL.jpg | https://m.media-amazon.com/images/I/51xfF8rz7kL.jpg | https://m.media-amazon.com/images/I/51NQiROce+L.jpg | https://m.media-amazon.com/images/I/41mWoo9io8L.jpg | https://m.media-amazon.com/images/I/41oedUhAaKL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Brushless-Battery-Charger/dp/B0CS96J9BJ/ref=sr_1_78"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIWRRKRDU2QZT",
+      "slug": "ingco-cordless-impact-fixed-square-wrench-brushless-motor",
+      "name": "Ingco Cordless Impact Fixed Square Wrench, Brushless Motor,...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 35441.63,
+      "image": "https://m.media-amazon.com/images/I/81Z2PxjVVmL.jpg | https://m.media-amazon.com/images/I/51IWYA32HFL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cordless-Impact-Brushless-Integrated/dp/B0DZ1TGMC3/ref=sr_1_48"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGNZXI5DTGTKS",
+      "slug": "ingco-cordless-leaf-blower-27mmin-2-variable-speed",
+      "name": "INGCO Cordless Leaf Blower, 2.7m³/min, 2 Variable Speed,...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/61A7rywSYPL.jpg | https://m.media-amazon.com/images/I/41k-Ho5hjHL.jpg | https://m.media-amazon.com/images/I/41m8PWpRH-L.jpg | https://m.media-amazon.com/images/I/61DWueomz1L.jpg | https://m.media-amazon.com/images/I/61Uic1saw+L.jpg | https://m.media-amazon.com/images/I/41rWJTPE-tL.jpg | https://m.media-amazon.com/images/I/51FvEYEUXKL.jpg | https://m.media-amazon.com/images/I/618mDJgXndL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Lithium-Ion-Blower-Cordless-Cleaning/dp/B0C77GG3MR/ref=sr_1_66"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIQ22IREEMSZY",
+      "slug": "ingco-cordless-screwdriver-rechargeable-power-drill-driver",
+      "name": "INGCO Cordless Screwdriver, Rechargeable Power Drill Driver...",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 2700,
+      "image": "https://m.media-amazon.com/images/I/81h2fuJK4HL.jpg | https://m.media-amazon.com/images/I/51LYfScJ76L.jpg | https://m.media-amazon.com/images/I/41ibTfBaRqL.jpg | https://m.media-amazon.com/images/I/41io49T+AUL.jpg | https://m.media-amazon.com/images/I/51vTd3j+ePL.jpg | https://m.media-amazon.com/images/I/51beYVhSIJL.jpg | https://m.media-amazon.com/images/I/41LPwm0wgjL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Screwdriver-Rechargeable-Driver-Torque/dp/B0DCZDHFK8/ref=sr_1_24"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIUSKIRBFEWSO",
+      "slug": "ingco-cordless-screwdriver-rechargeable-screwdriver",
+      "name": "INGCO Cordless Screwdriver, Rechargeable Screwdriver,...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 5400,
+      "image": "https://m.media-amazon.com/images/I/81qP-MDYAiL.jpg | https://m.media-amazon.com/images/I/518XnRiZVUL.jpg",
+      "productUrl": "https://www.amazon.in/Cordless-Screwdriver-Rechargeable-5-speed-Adjustment/dp/B0DRJDBRZN/ref=sr_1_83"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVSOJNLFSRCZ",
+      "slug": "ingco-curved-jaw-locking-pliers-10-curved-jaw-pliers-",
+      "name": "INGCO Curved Jaw Locking Pliers, 10\" Curved Jaw Pliers-...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1231.23,
+      "image": "https://m.media-amazon.com/images/I/71x9fIUtS1L.jpg | https://m.media-amazon.com/images/I/31ROS1O4fFL.jpg | https://m.media-amazon.com/images/I/41C+BYwmlYL.jpg | https://m.media-amazon.com/images/I/41rxvgnyb7L.jpg | https://m.media-amazon.com/images/I/51v8ysC4gML.jpg | https://m.media-amazon.com/images/I/51b7RLZzR7L.jpg | https://m.media-amazon.com/images/I/518TBuzFlYL.jpg | https://m.media-amazon.com/images/I/51Zri+aN5LL.jpg",
+      "productUrl": "https://www.amazon.in/Curved-Locking-Pliers-Pliers-Carbon/dp/B09VNKVYDY/ref=sr_1_47"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVBTJM2EYQST",
+      "slug": "ingco-electric-drill-500w-and-3300rpm-power-drill-corded",
+      "name": "INGCO Electric Drill, 500W and 3300RPM Power Drill, Corded,...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 2978,
+      "image": "https://m.media-amazon.com/images/I/71orkCOZALL.jpg | https://m.media-amazon.com/images/I/41toQ3pROEL.jpg | https://m.media-amazon.com/images/I/51geCaKKo8L.jpg | https://m.media-amazon.com/images/I/51bsqB8NLbL.jpg | https://m.media-amazon.com/images/I/4134Hs7876L.jpg | https://m.media-amazon.com/images/I/41ubSv4op1L.jpg | https://m.media-amazon.com/images/I/511bacQkk+L.jpg",
+      "productUrl": "https://www.amazon.in/Electric-3300RMP-1-0-10mm-Capacity-Variable/dp/B09T3K4LBS/ref=sr_1_21"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWKSJBDU4S2X",
+      "slug": "ingco-electric-soldering-iron-60w-soldering-gun-portable",
+      "name": "INGCO Electric Soldering Iron, 60W Soldering Gun, Portable...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 997,
+      "image": "https://m.media-amazon.com/images/I/61lrWa196XL.jpg | https://m.media-amazon.com/images/I/31RurSbdHfL.jpg | https://m.media-amazon.com/images/I/51LxMkKIr-L.jpg | https://m.media-amazon.com/images/I/41twsKeEb2L.jpg | https://m.media-amazon.com/images/I/41CSpQTC-TL.jpg | https://m.media-amazon.com/images/I/41FEJV+kQXL.jpg | https://m.media-amazon.com/images/I/419cPMDgY1L.jpg | https://m.media-amazon.com/images/I/41CS23nOhhL.jpg",
+      "productUrl": "https://www.amazon.in/Electric-Soldering-Portable-Replaceble-Two-color/dp/B09YRHGNKW/ref=sr_1_61"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIUSZGVGEYMZT",
+      "slug": "ingco-electrode-holder-rated-current300a-unique-design",
+      "name": "INGCO Electrode Holder, Rated Current:300A, Unique Design...",
+      "brand": "Ingco",
+      "category": "Building & Construction",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61tgs4CxLqL.jpg | https://m.media-amazon.com/images/I/31ETRvRAXGL.jpg | https://m.media-amazon.com/images/I/51wjkiIYJWL.jpg | https://m.media-amazon.com/images/I/51s1aOrw67L.jpg | https://m.media-amazon.com/images/I/31zXhilSrHL.jpg | https://m.media-amazon.com/images/I/51y692UM0jL.jpg | https://m.media-amazon.com/images/I/41QBDEEH9bL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Electrode-Holder-Rated-Current/dp/B0DRY5LL33/ref=sr_1_91"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIUSZG42DIS2Y",
+      "slug": "ingco-electrode-holder-rated-current500a-unique-design",
+      "name": "INGCO Electrode Holder, Rated Current:500A, Unique Design...",
+      "brand": "Ingco",
+      "category": "Building & Construction",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/61raPkKPvrL.jpg | https://m.media-amazon.com/images/I/31Mk-+666wL.jpg | https://m.media-amazon.com/images/I/51mEMSrhqKL.jpg | https://m.media-amazon.com/images/I/51dej-qdpTL.jpg | https://m.media-amazon.com/images/I/31OTBIZz9dL.jpg | https://m.media-amazon.com/images/I/51JSSTvC6CL.jpg | https://m.media-amazon.com/images/I/41u2qBitvkL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Electrode-Holder-Rated-Current/dp/B0DRY744KX/ref=sr_1_87"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINKWINBUOM2G",
+      "slug": "ingco-end-cutting-plier-cr-v-7180mm-for-removing",
+      "name": "Ingco End Cutting Plier, Cr-V, 7\"(180Mm), For Removing...",
+      "brand": "Ingco",
+      "category": "Fasteners",
+      "price": 1199,
+      "image": "https://m.media-amazon.com/images/I/617PH1GKQRL.jpg | https://m.media-amazon.com/images/I/31AjDLKWW1L.jpg | https://m.media-amazon.com/images/I/41yfFMjDgdL.jpg | https://m.media-amazon.com/images/I/31OM+SE6VtL.jpg | https://m.media-amazon.com/images/I/41eFo6AB0dL.jpg | https://m.media-amazon.com/images/I/51Ozsj8QyiL.jpg | https://m.media-amazon.com/images/I/51lMfbcsf1L.jpg | https://m.media-amazon.com/images/I/519R6MTqrSL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Cutting-Removing-Screws-Multicolor/dp/B0D5VCCG3F/ref=sr_1_56"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWCII44DEUBV",
+      "slug": "ingco-heat-gun-2000w-heavy-duty-hot-air-gun-heat-gun-with",
+      "name": "INGCO Heat Gun, 2000W Heavy Duty Hot Air Gun Heat Gun with...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 2399,
+      "image": "https://m.media-amazon.com/images/I/71PwCe+TH+L.jpg | https://m.media-amazon.com/images/I/41t6MIMVHTL.jpg | https://m.media-amazon.com/images/I/41hl1IBH7iL.jpg | https://m.media-amazon.com/images/I/416U6tc60KL.jpg | https://m.media-amazon.com/images/I/51rjnpM8E9L.jpg | https://m.media-amazon.com/images/I/41KjF75LhPL.jpg | https://m.media-amazon.com/images/I/41X4eU4WVVL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Heat-Gun-Protection-Shrinking/dp/B09XHG82P5/ref=sr_1_10"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTCDKY2FMSZU",
+      "slug": "ingco-high-pressure-washer-hpwr150281500w100-pure-copper",
+      "name": "INGCO High Pressure Washer HPWR15028,1500W|100% Pure Copper...",
+      "brand": "Ingco",
+      "category": "Adhesives & Chemicals",
+      "price": 24300,
+      "image": "https://m.media-amazon.com/images/I/41o67gxJA1L.jpg | https://m.media-amazon.com/images/I/41o67gxJA1L.jpg | https://m.media-amazon.com/images/I/51swi8viRoL.jpg | https://m.media-amazon.com/images/I/31TZP0Hps9L.jpg | https://m.media-amazon.com/images/I/41k2rf8assL.jpg | https://m.media-amazon.com/images/I/41eTA3ZU9KL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Pressure-HPWR15028-Pressure-135-Flow-420/dp/B09LCV4VK4/ref=sr_1_14"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQQ2LHFDDKOJT",
+      "slug": "ingco-hisd81ph2100-insulated-screwdriver-14-inch-repair",
+      "name": "INGCO HISD81PH2100 Insulated Screwdriver 1/4 Inch Repair...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 800,
+      "image": "https://m.media-amazon.com/images/I/61PnZTaEdFL.jpg | https://m.media-amazon.com/images/I/413HRFfUk0L.jpg | https://m.media-amazon.com/images/I/41NZQHM+zkL.jpg | https://m.media-amazon.com/images/I/41lxC4hd2qL.jpg | https://m.media-amazon.com/images/I/418035P-sfL.jpg | https://m.media-amazon.com/images/I/61AlU8lVctL.jpg | https://m.media-amazon.com/images/I/41V+UBR8MhL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-HISD814100-Insulated-Screwdriver/dp/B08CK9F593/ref=sr_1_96"
+    },
+    {
+      "sku": "JKE-SKU-IIYDOOKGLBIE4VZY",
+      "slug": "ingco-hksdb0188-18pcs-t-handle-mini-screwdriver-bit-socket",
+      "name": "INGCO HKSDB0188 18Pcs T-Handle Mini Screwdriver Bit Socket...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 2063.53,
+      "image": "https://m.media-amazon.com/images/I/61Ff-C3ZWoL.jpg | https://m.media-amazon.com/images/I/51sYbuMjWbL.jpg",
+      "productUrl": "https://www.amazon.in/T-Handle-Screwdriver-Socket-Phillips-Slotted/dp/B079FXPNW8/ref=sr_1_115"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIU22KEZDGUKE",
+      "slug": "ingco-impact-drill",
+      "name": "INGCO Impact drill",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 4799,
+      "image": "https://m.media-amazon.com/images/I/7129XlVezcL.jpg | https://m.media-amazon.com/images/I/412Naekx4SL.jpg | https://m.media-amazon.com/images/I/41xRWTOsqAL.jpg | https://m.media-amazon.com/images/I/41ZgorWuwCL.jpg | https://m.media-amazon.com/images/I/515JJDegWQL.jpg | https://m.media-amazon.com/images/I/41fKLLj7GBL.jpg | https://m.media-amazon.com/images/I/51XL5iYDjdL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-ID7118-INGCO-Impact-drill/dp/B0DSZQ23QD/ref=sr_1_16"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVSYJVGDETSM",
+      "slug": "ingco-impact-drill-680w-0-3000rpm-13mm-power-hammer",
+      "name": "INGCO Impact Drill, 680W | 0-3000rpm | 13mm Power Hammer...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 2806,
+      "image": "https://m.media-amazon.com/images/I/61OhZpEVQrL.jpg | https://m.media-amazon.com/images/I/41-zYgV69lL.jpg | https://m.media-amazon.com/images/I/51hT+ETz54L.jpg | https://m.media-amazon.com/images/I/51hQhicjVGL.jpg | https://m.media-amazon.com/images/I/41otUnT+m+L.jpg | https://m.media-amazon.com/images/I/41YebAGWroL.jpg | https://m.media-amazon.com/images/I/517-xfuEpIL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Drill-Power-Improvement-Construction/dp/B09VXML2NL/ref=sr_1_15"
+    },
+    {
+      "sku": "JKE-SKU-IIYEQQSXJA2DGSSU",
+      "slug": "ingco-impact-screwdriver-bits-set-51-pcs-akdl25106",
+      "name": "INGCO Impact Screwdriver Bits Set 51 Pcs AKDL25106",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 2181,
+      "image": "https://m.media-amazon.com/images/I/81wg6JTAlqL.jpg | https://m.media-amazon.com/images/I/51xfEejN9lL.jpg | https://m.media-amazon.com/images/I/51ekmb74YQL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Impact-Screwdriver-Bits-AKDL25106/dp/B0HBWH43JT/ref=sr_1_103"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVCYHA3DQTKD",
+      "slug": "ingco-impact-wrench-2300rpm-550nm-12-square-drive",
+      "name": "Ingco Impact Wrench, 2300rpm | 550N.M | 1/2\"\" Square Drive...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 7599,
+      "image": "https://m.media-amazon.com/images/I/712G-NSjdXL.jpg | https://m.media-amazon.com/images/I/41NJ6NXaWQL.jpg | https://m.media-amazon.com/images/I/41QFiF+XQEL.jpg | https://m.media-amazon.com/images/I/41Zpc3mQ4XL.jpg | https://m.media-amazon.com/images/I/41AXYoS7u1L.jpg | https://m.media-amazon.com/images/I/41H0cgtPsSL.jpg | https://m.media-amazon.com/images/I/41G-uJxTEZL.jpg | https://m.media-amazon.com/images/I/614bhesoYVL.jpg",
+      "productUrl": "https://www.amazon.in/2300rpm-Electric-Aluminum-Sockets-Adaptor/dp/B09TX868MC/ref=sr_1_28_mod_primary_new"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINJTGRBFCTCK",
+      "slug": "ingco-impact-wrench-550nm-electric-wrench-fixed-square",
+      "name": "Ingco Impact Wrench, 550NM Electric Wrench, ?Fixed Square...",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 18000,
+      "image": "https://m.media-amazon.com/images/I/71o+gS5-lVL.jpg | https://m.media-amazon.com/images/I/412tWFJSwjL.jpg | https://m.media-amazon.com/images/I/41HVeNEGH6L.jpg | https://m.media-amazon.com/images/I/41iPiuijOkL.jpg | https://m.media-amazon.com/images/I/41J+fKGEwmL.jpg | https://m.media-amazon.com/images/I/41TiFAdZTPL.jpg | https://m.media-amazon.com/images/I/61MmES3npkL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-Electric-Aluminum-Machine-Sockets/dp/B0D534BQLJ/ref=sr_1_70"
+    },
+    {
+      "sku": "JKE-SKU-IIYEOSRWJZJVGNC2",
+      "slug": "ingco-inspection-lamp-car-torch-300-lumens-usb",
+      "name": "INGCO Inspection Lamp Car Torch, 300 Lumens, USB...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 4500,
+      "image": "https://m.media-amazon.com/images/I/61t49HFD6JL.jpg | https://m.media-amazon.com/images/I/31Rz7We73TL.jpg | https://m.media-amazon.com/images/I/41oqzFFsIiL.jpg",
+      "productUrl": "https://www.amazon.in/Inspection-Rechargeable-Magnetic-Household-Emergency/dp/B0GJ6NSS4Z/ref=sr_1_49"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGM2RIY2DOWKG",
+      "slug": "ingco-insulated-screwdriver-1000v-vde-certification-for",
+      "name": "INGCO Insulated Screwdriver, 1000V, VDE Certification, for...",
+      "brand": "Ingco",
+      "category": "Home & Kitchen",
+      "price": 699,
+      "image": "https://m.media-amazon.com/images/I/51gKv-YHgSL.jpg | https://m.media-amazon.com/images/I/315hgq22LgL.jpg | https://m.media-amazon.com/images/I/31XEM+7erhL.jpg",
+      "productUrl": "https://www.amazon.in/Insulated-Screwdriver-Certification-Maintenance-Decoration/dp/B0C3QF47YF/ref=sr_1_81"
+    },
+    {
+      "sku": "JKE-SKU-IIYEEMSSJJMTOSRX",
+      "slug": "ingco-jig-saw-corded-saw-570w-800-3000rpm-4-step",
+      "name": "INGCO Jig Saw, Corded Saw, 570W | 800-3000rpm | 4 Step...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 4381,
+      "image": "https://m.media-amazon.com/images/I/712YvjvgALL.jpg | https://m.media-amazon.com/images/I/51-+bRVHbGL.jpg | https://m.media-amazon.com/images/I/41Xx3RyrQOL.jpg | https://m.media-amazon.com/images/I/418AUvHcMML.jpg | https://m.media-amazon.com/images/I/51Vb45D0D+L.jpg | https://m.media-amazon.com/images/I/518czDj5yrL.jpg | https://m.media-amazon.com/images/I/515ntBFq2zL.jpg | https://m.media-amazon.com/images/I/41+7Exx02yL.jpg",
+      "productUrl": "https://www.amazon.in/800-3000rpm-Pendulum-Function-Variable-Control/dp/B0B2RJY7J7/ref=sr_1_13"
+    },
+    {
+      "sku": "JKE-SKU-IIYDCTJWGNATSNSV",
+      "slug": "ingco-krost-flexible-f-clamp",
+      "name": "Ingco KROST Flexible F CLAMP",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 3999,
+      "image": "https://m.media-amazon.com/images/I/51w0QjJbhzL.jpg | https://m.media-amazon.com/images/I/31nb1tCt+ML.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Flexible-CLAMP-250-HFC020503/dp/B01M63A96U/ref=sr_1_110"
+    },
+    {
+      "sku": "JKE-SKU-IIYEERCGLFHEWUKI",
+      "slug": "ingco-li-ion-cordless-drill-yellowblack",
+      "name": "Ingco Li-Ion Cordless Drill, Yellow,Black",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 5999,
+      "image": "https://m.media-amazon.com/images/I/51x3eOP5+yL.jpg | https://m.media-amazon.com/images/I/41cTqjhaszL.jpg | https://m.media-amazon.com/images/I/51NnK2WT4YL.jpg | https://m.media-amazon.com/images/I/51wvV7J2FpL.jpg | https://m.media-amazon.com/images/I/41pA+nPRIWL.jpg | https://m.media-amazon.com/images/I/31+LTEk3-XL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-INGCO-Li-ion-cordless-drill/dp/B0BDFYNKQH/ref=sr_1_65"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTCDJQ4UMNRU",
+      "slug": "ingco-lithium-ion-cordless-screwdriver-powered-screwdriver",
+      "name": "INGCO Lithium-Ion Cordless Screwdriver, Powered Screwdriver...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1099,
+      "image": "https://m.media-amazon.com/images/I/61imM7R7j2L.jpg | https://m.media-amazon.com/images/I/4147A3OCo1L.jpg | https://m.media-amazon.com/images/I/51SmdJ8N5xL.jpg | https://m.media-amazon.com/images/I/31P8Y5x3pdL.jpg | https://m.media-amazon.com/images/I/41kb9vb6laL.jpg | https://m.media-amazon.com/images/I/419tnzH8LoL.jpg | https://m.media-amazon.com/images/I/41dCC4fmVrL.jpg",
+      "productUrl": "https://www.amazon.in/Lithium-Ion-Cordless-Screwdriver-Rechargeable-Accessories/dp/B09LCL9F64/ref=sr_1_43"
+    },
+    {
+      "sku": "JKE-SKU-IIYEESZRJAZVOTCZ",
+      "slug": "ingco-mini-grinder-kit-6-adjusting-speed-130w-32mm",
+      "name": "INGCO Mini Grinder Kit, 6 Adjusting Speed |130w | 3.2mm...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 3575,
+      "image": "https://m.media-amazon.com/images/I/81NAhBfuahL.jpg | https://m.media-amazon.com/images/I/51Fgc4HYfPL.jpg | https://m.media-amazon.com/images/I/51FaBaByzgL.jpg | https://m.media-amazon.com/images/I/41VfDu+8jhL.jpg | https://m.media-amazon.com/images/I/51E7-4ozfTL.jpg | https://m.media-amazon.com/images/I/51gCyckVFQL.jpg | https://m.media-amazon.com/images/I/41S0Sko1ERL.jpg | https://m.media-amazon.com/images/I/51rhgMTfmLL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Adjusting-Electric-Accessories-Polishing/dp/B0BK1H3WLY/ref=sr_1_12"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWCIIJMFCOCW",
+      "slug": "ingco-mini-grinder-kit-6-adjusting-speed-130w-min-size",
+      "name": "INGCO Mini Grinder Kit, 6 Adjusting Speed, 130w Min Size...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 2999,
+      "image": "https://m.media-amazon.com/images/I/71TMY7YSqOL.jpg | https://m.media-amazon.com/images/I/41LbhDCODML.jpg | https://m.media-amazon.com/images/I/41gexpP109L.jpg | https://m.media-amazon.com/images/I/51td3qHxT1L.jpg | https://m.media-amazon.com/images/I/41uaR-vQIqL.jpg | https://m.media-amazon.com/images/I/41FLy2tUMbL.jpg | https://m.media-amazon.com/images/I/51xKTo4vw-L.jpg | https://m.media-amazon.com/images/I/51A10dhGJKL.jpg",
+      "productUrl": "https://www.amazon.in/Adjusting-Electric-Grinding-Polishing-Accessories/dp/B09XHBXQ8V/ref=sr_1_58"
+    },
+    {
+      "sku": "JKE-SKU-IIYEER2QLFBVAQSE",
+      "slug": "ingco-mini-grinder-rotary-tool",
+      "name": "Ingco Mini Grinder Rotary Tool",
+      "brand": "Ingco",
+      "category": "Home & Kitchen",
+      "price": 4000,
+      "image": "https://m.media-amazon.com/images/I/71qXdzn4yYL.jpg | https://m.media-amazon.com/images/I/51SJUdigOaL.jpg | https://m.media-amazon.com/images/I/41vLcdbHHfL.jpg | https://m.media-amazon.com/images/I/411QYwwdooL.jpg | https://m.media-amazon.com/images/I/51gLEt19mQL.jpg | https://m.media-amazon.com/images/I/51ZGvppb2gL.jpg | https://m.media-amazon.com/images/I/51T5EKv6WLL.jpg | https://m.media-amazon.com/images/I/51bHENTe7KL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-MG13328-1-Mini-grinder/dp/B0BGPYCPBD/ref=sr_1_62"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIRSUJNJUUUJU",
+      "slug": "ingco-multi-tool-blade-set-23-pcs-suitable-for-ingco",
+      "name": "INGCO Multi tool blade set, 23 PCS, Suitable for INGCO...",
+      "brand": "Ingco",
+      "category": "Abrasives & Finishing",
+      "price": 6499,
+      "image": "https://m.media-amazon.com/images/I/81GHBUEULVL.jpg | https://m.media-amazon.com/images/I/51X0qFyYz4L.jpg | https://m.media-amazon.com/images/I/51GhWfClOqL.jpg | https://m.media-amazon.com/images/I/41f2KNp2k1L.jpg | https://m.media-amazon.com/images/I/41GmEfzP-IL.jpg | https://m.media-amazon.com/images/I/41xpyA03jwL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Multi-Suitable-multi-function-oscillating/dp/B0DFTKSJQ4/ref=sr_1_53"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGUZZGFFUYWSY",
+      "slug": "ingco-oscillating-multi-tool-kit-cordless-diy-with",
+      "name": "INGCO Oscillating Multi-Tool Kit - Cordless DIY With...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 8600,
+      "image": "https://m.media-amazon.com/images/I/7121ZEj+BiL.jpg | https://m.media-amazon.com/images/I/41IfSTHpUNL.jpg | https://m.media-amazon.com/images/I/51RXQ9l-xQL.jpg | https://m.media-amazon.com/images/I/511F5WkfvbL.jpg | https://m.media-amazon.com/images/I/41TGSt9qMkL.jpg | https://m.media-amazon.com/images/I/41+4mznwOeL.jpg | https://m.media-amazon.com/images/I/51V6V9q4V4L.jpg",
+      "productUrl": "https://www.amazon.in/Oscillating-Multi-Tool-Accessories-Scratching-Polishing/dp/B0CS91KLZX/ref=sr_1_45"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSSSRHE4UYSZW",
+      "slug": "ingco-perfect-power-tools-angle-grinder-ag900285-900-watts",
+      "name": "INGCO PERFECT POWER TOOLS Angle Grinder AG900285 900 Watts...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 9999,
+      "image": "https://m.media-amazon.com/images/I/517agFo1ZcL.jpg | https://m.media-amazon.com/images/I/41OEOTydDTL.jpg | https://m.media-amazon.com/images/I/410IiNNBdpL.jpg | https://m.media-amazon.com/images/I/31gKKTWmAXL.jpg",
+      "productUrl": "https://www.amazon.in/PERFECT-POWER-TOOLS-Constructions-Mechanical/dp/B09JQ99LK6/ref=sr_1_88"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINJSLJKE2UK2",
+      "slug": "ingco-plier-set-3-pcs-include-8-combination-pliers-6",
+      "name": "INGCO Plier Set, 3 pcs, Include 8\" Combination Pliers, 6\"...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 1200,
+      "image": "https://m.media-amazon.com/images/I/71-LXhf5gtS.jpg | https://m.media-amazon.com/images/I/41YfcGjVZ0S.jpg | https://m.media-amazon.com/images/I/51xFafg13-S.jpg | https://m.media-amazon.com/images/I/51P-0l9Z30S.jpg | https://m.media-amazon.com/images/I/51tUlTJAtPS.jpg | https://m.media-amazon.com/images/I/61ztJEtKfCS.jpg",
+      "productUrl": "https://www.amazon.in/Include-Combination-Pliers-Diagonal-Cutting/dp/B0D52ZTMQZ/ref=sr_1_67"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSTBUKAZVMNCU",
+      "slug": "ingco-ps2408-240w-palm-sander-ps2408-1-set",
+      "name": "INGCO PS2408 240W Palm sander PS2408 (1 Set)",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 6000,
+      "image": "https://m.media-amazon.com/images/I/51WudVvDqpL.jpg | https://m.media-amazon.com/images/I/31HBOx3uQ2L.jpg | https://m.media-amazon.com/images/I/31Tm-i-N59L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-240W-Palm-sander-PS2408/dp/B09L4P3V4T/ref=sr_1_76"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWJRGE2UOSST",
+      "slug": "ingco-rubber-hammer-rubber-mallet-for-masonry-woodwork",
+      "name": "INGCO Rubber Hammer, Rubber Mallet for Masonry, Woodwork,...",
+      "brand": "Ingco",
+      "category": "Pneumatics & Hydraulics",
+      "price": 800,
+      "image": "https://m.media-amazon.com/images/I/51HkMBvAN-L.jpg | https://m.media-amazon.com/images/I/31YYLXGkv2L.jpg | https://m.media-amazon.com/images/I/41uvvES9LZL.jpg | https://m.media-amazon.com/images/I/51VfxEfYPcL.jpg | https://m.media-amazon.com/images/I/41pcVy-85RL.jpg | https://m.media-amazon.com/images/I/51BXYVKpcbL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Masonry-Woodwork-Fittings-Mechanic/dp/B09Y115GJS/ref=sr_1_114"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQWKKJBFFANSR",
+      "slug": "ingco-safety-goggle-high-performance-poly-carbonatedaily",
+      "name": "INGCO Safety Goggle High-performance poly carbonate|Daily...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/41pAO5sA-EL.jpg | https://m.media-amazon.com/images/I/31rAKibmjIL.jpg | https://m.media-amazon.com/images/I/51Dm1njTrCL.jpg | https://m.media-amazon.com/images/I/5140+l0NoVL.jpg",
+      "productUrl": "https://www.amazon.in/Safety-Goggle-High-performance-polycarbonate-Comfortable/dp/B08YJHJP6Q/ref=sr_1_93"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSWCHJRJTQVCX",
+      "slug": "ingco-screwdriver-bit",
+      "name": "INGCO Screwdriver bit",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 329,
+      "image": "https://m.media-amazon.com/images/I/71lIjGmnCkL.jpg | https://m.media-amazon.com/images/I/41KGHmNWj9L.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-INGCO-Screwdriver-bit/dp/B09XGLS8TW/ref=sr_1_94"
+    },
+    {
+      "sku": "JKE-SKU-IIYEERCGLFNEYNSQ",
+      "slug": "ingco-socket-adaptor",
+      "name": "INGCO Socket adaptor",
+      "brand": "Ingco",
+      "category": "Electronics",
+      "price": 799,
+      "image": "https://m.media-amazon.com/images/I/41z2OlG8UjL.jpg | https://m.media-amazon.com/images/I/41z2OlG8UjL.jpg | https://m.media-amazon.com/images/I/418vpGJ5XgL.jpg | https://m.media-amazon.com/images/I/51OaiRY2c-L.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-INGCO-Socket-adaptor/dp/B0BDFYZL6P/ref=sr_1_112"
+    },
+    {
+      "sku": "JKE-SKU-IIYEINJTJIZVGU2S",
+      "slug": "ingco-soldering-iron-60w-soldering-machine-portable",
+      "name": "INGCO Soldering Iron, 60W Soldering Machine, Portable...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 999,
+      "image": "https://m.media-amazon.com/images/I/51ZX3-x-aLL.jpg | https://m.media-amazon.com/images/I/31ElLy6xkKL.jpg | https://m.media-amazon.com/images/I/41386YBD3SL.jpg | https://m.media-amazon.com/images/I/4169+PXQRqL.jpg | https://m.media-amazon.com/images/I/51ozfAB9PaL.jpg | https://m.media-amazon.com/images/I/415uIznkKdL.jpg | https://m.media-amazon.com/images/I/41c8DJkGDEL.jpg",
+      "productUrl": "https://www.amazon.in/Soldering-Machine-Portable-Replaceble-Electric/dp/B0D53J3SSR/ref=sr_1_82"
+    },
+    {
+      "sku": "JKE-SKU-IIYEQNSKI5BDMUBZ",
+      "slug": "ingco-square-to-hex-adapter-shank-size-12-square-abh60501",
+      "name": "INGCO Square to Hex Adapter Shank Size: 1/2\" Square ABH60501",
+      "brand": "Ingco",
+      "category": "Lighting & Bulbs",
+      "price": 499,
+      "image": "https://m.media-amazon.com/images/I/71tq9GsGGUL.jpg | https://m.media-amazon.com/images/I/41nydMHW57L.jpg | https://m.media-amazon.com/images/I/41vm6HhyF8L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Square-Adapter-Shank-Size/dp/B0H6JGB6P9/ref=sr_1_31"
+    },
+    {
+      "sku": "JKE-SKU-IIYEGVCRGVMU4WJT",
+      "slug": "ingco-stapler-3-in-1-nail-gun-with-600-staples-for-wood",
+      "name": "INGCO Stapler, 3 in 1 Nail Gun with 600 Staples, for Wood,...",
+      "brand": "Ingco",
+      "category": "Tools & Machinery",
+      "price": 850,
+      "image": "https://m.media-amazon.com/images/I/71c8Sr-lPQL.jpg | https://m.media-amazon.com/images/I/41u4CTqYosL.jpg | https://m.media-amazon.com/images/I/A1gWoJwdF4L.png | https://m.media-amazon.com/images/I/418vBrMqdwL.jpg | https://m.media-amazon.com/images/I/51nuQcgANUL.jpg | https://m.media-amazon.com/images/I/51JWgu1MVgL.jpg | https://m.media-amazon.com/images/I/51JtEFr5IVL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Stapler-Nail-Staples-Furniture/dp/B0CTQ5YNY3/ref=sr_1_7"
+    },
+    {
+      "sku": "JKE-SKU-IIYEERCHGJMUEWKS",
+      "slug": "ingco-test-pencil",
+      "name": "INGCO Test pencil",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 450,
+      "image": "https://m.media-amazon.com/images/I/61sMphlnEpL.jpg | https://m.media-amazon.com/images/I/315Pn-5c1hL.jpg",
+      "productUrl": "https://www.amazon.in/Ingco-INGCO-Test-pencil/dp/B0BDG2YBYR/ref=sr_1_55"
+    },
+    {
+      "sku": "JKE-SKU-IIYDQRBZINMFUNKG",
+      "slug": "ingco-test-pencil-test-voltage-ac-100-500-v-top-copper",
+      "name": "INGCO Test pencil, Test Voltage: AC 100-500 V, Top Copper...",
+      "brand": "Ingco",
+      "category": "Electrical & Solar",
+      "price": 205,
+      "image": "https://m.media-amazon.com/images/I/514RCgSQJlL.jpg | https://m.media-amazon.com/images/I/21mby1sLgLL.jpg | https://m.media-amazon.com/images/I/41qCIVLeIVL.jpg | https://m.media-amazon.com/images/I/31tf-muN1YL.jpg | https://m.media-amazon.com/images/I/41MUM-1P6+L.jpg | https://m.media-amazon.com/images/I/41J1sA82yYL.jpg | https://m.media-amazon.com/images/I/51mnvupwvIL.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Test-pencil-Voltage-conductivity/dp/B08D9CXZ5F/ref=sr_1_84"
+    },
+    {
+      "sku": "JKE-SKU-IIYEIUSKJVJVUNKU",
+      "slug": "ingco-tungsten-carbide-rotary-burrs-set",
+      "name": "INGCO Tungsten carbide rotary burrs set",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 4999,
+      "image": "https://m.media-amazon.com/images/I/71EyVK20RJL.jpg | https://m.media-amazon.com/images/I/41BU8gQ-k0L.jpg",
+      "productUrl": "https://www.amazon.in/INGCO-Tungsten-carbide-rotary-burrs/dp/B0DRJMSZ5T/ref=sr_1_98"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVSTKI3DQRZV",
+      "slug": "ingco-wire-stripper-2-in-1-cable-wire-stripper-with",
+      "name": "INGCO Wire Stripper, 2 in 1 Cable Wire Stripper with...",
+      "brand": "Ingco",
+      "category": "Electronics",
+      "price": 1999,
+      "image": "https://m.media-amazon.com/images/I/61EQlvuibnL.jpg | https://m.media-amazon.com/images/I/41iTX1V5rDL.jpg | https://m.media-amazon.com/images/I/41FxevJK-EL.jpg | https://m.media-amazon.com/images/I/416lmOutIvL.jpg | https://m.media-amazon.com/images/I/419gfsmMgtL.jpg | https://m.media-amazon.com/images/I/41LZaHcG97L.jpg | https://m.media-amazon.com/images/I/41NyoZzlvML.jpg | https://m.media-amazon.com/images/I/41OjplKkIPL.jpg",
+      "productUrl": "https://www.amazon.in/Stripper-0-5mm-6mm-Stripping-Electrical-Automotive/dp/B09VSR68G5/ref=sr_1_17"
+    },
+    {
+      "sku": "JKE-SKU-IIYDSVCYJRJFOUBR",
+      "slug": "machinist-hammer-300g-45-carbon-steel-drop-forged",
+      "name": "Machinist Hammer, 300g | 45# Carbon Steel, Drop-forged...",
+      "brand": "Ingco",
+      "category": "Other",
+      "price": 670,
+      "image": "https://m.media-amazon.com/images/I/61PUTSkdK-L.jpg | https://m.media-amazon.com/images/I/31dHPjmxqoL.jpg",
+      "productUrl": "https://www.amazon.in/Drop-Forged-Hammerhead-Fiberglass-Construction-Woodworking/dp/B09TXLRWP1/ref=sr_1_79"
+    }
+  ]
 }

@@ -1,10 +1,10 @@
 {
   "asin": "JKE-SKU-IIYEIS2KKE2UIWRX",
-  "title": "FREEMANS IKON 10m:25mm Steel Inchi Measuring Tape (Yellow & Black) with Auto-lock and Belt Clip",
+  "title": "FREEMANS IKON 10m:25mm Steel Inchi Measuring Tape (Yellow &...",
   "brand": "Freemans",
-  "current_price": "₹494.00",
-  "mrp": "₹718",
-  "product_url": "https://www.amazon.in/FREEMANS-IKON-10m-Measuring-Auto-lock/dp/B0DKJQ5DZ7/ref=sr_1_123",
+  "current_price": 0,
+  "mrp": 718,
+  "product_url": "https://www.amazon.in/FREEMANS-IKON-10m-Measuring-Auto-lock/dp/B0DKJQ5DZ7/ref=sr_1_76",
   "description": "Unbreakable ABS case stands up to the toughest jobsite demands. Bi-material case overmoulded with non-slip rubber for a better and more comfortable grip The tape blade is coated with our Dura Coat Technology, making it highly resistant to abrasion and repeated use, with a 4X longer life. The tape blade has a matt Glare-Free finish, making it easier to read measurements in bright outdoor conditions. 180*, 90* and 45* High Visibility, Shock Resistant, Block Vials facilitate easy reading of measurements. Heavy Duty aluminium body stands up to the toughest jobsite demands. Shock Absorbent End Caps for added durability. Equipped with a Magnetic Base for hands free use on metal surfaces.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/411AngrrG8L.jpg | https://m.media-amazon.com/images/I/31R+dX14OzL.jpg",
@@ -15,19 +15,20 @@
   "image_url_2": "https://m.media-amazon.com/images/I/411AngrrG8L.jpg",
   "image_url_3": "https://m.media-amazon.com/images/I/31R+dX14OzL.jpg",
   "specifications": {
+    "Blade Material": "Alloy Steel",
+    "Colour": "Yellow & Black",
     "Brand Name": "FREEMANS",
     "Model Number": "B0DKJQ5DZ7",
+    "Best Sellers Rank": "#132,874 in Home Improvement (See Top 100 in Home Improvement)#405 inTape Measures",
     "ASIN": "B0DKJQ5DZ7",
-    "Colour": "Yellow & Black",
-    "Blade Material": "Alloy Steel",
-    "Case Material Type": "Plastic",
     "Measurement Accuracy": "±1/16 inch per 10 feet (±0.16%)",
-    "Blade Width": "25 Millimetres",
-    "Lock Type": "Auto-lock"
+    "Lock Type": "Auto-lock",
+    "Case Material Type": "Plastic",
+    "Blade Width": "25 Millimetres"
   },
   "SKU": "JKE-SKU-IIYEIS2KKE2UIWRX",
-  "Name": "FREEMANS IKON 10m:25mm Steel Inchi Measuring Tape (Yellow & Black) with Auto-lock and Belt Clip",
-  "Slug": "freemans-ikon-10m25mm-steel-inchi-measuring-tape-yellow-black-with-auto-lock-and-belt-clip",
+  "Name": "FREEMANS IKON 10m:25mm Steel Inchi Measuring Tape (Yellow &...",
+  "Slug": "freemans-ikon-10m25mm-steel-inchi-measuring-tape-yellow-",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -36,9 +37,9 @@
     "https://m.media-amazon.com/images/I/31R+dX14OzL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/411AngrrG8L.jpg | https://m.media-amazon.com/images/I/31R+dX14OzL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
   "Discount": "31.2%",
-  "SalePrice": "₹494.00",
+  "SalePrice": 0,
   "Model": "B0DKJQ5DZ7"
 }

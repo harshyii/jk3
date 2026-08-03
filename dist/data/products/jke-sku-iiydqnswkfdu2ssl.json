@@ -1,10 +1,10 @@
 {
   "asin": "JKE-SKU-IIYDQNSWKFDU2SSL",
-  "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use (154-Piece) - Includes Screwdriver, Wrench, Ra",
+  "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
   "brand": "Black+Decker",
-  "current_price": "₹5,292.00",
-  "mrp": 0,
-  "product_url": "https://www.amazon.in/BLACK-DECKER-Professional-154-Pieces-Reversible/dp/B086VQGMJK/ref=sr_1_166",
+  "current_price": 0,
+  "mrp": 15595.58,
+  "product_url": "https://www.amazon.in/BLACK-DECKER-Professional-154-Pieces-Reversible/dp/B086VQGMJK/ref=sr_1_68",
   "rating": "4.54.5 out of 5 stars(8)4.5 out of 5 stars",
   "description": "A compact, lightweight and perfect hand tool kit for household DIY tasks & emergency maintenance Water Pump Pliers Torpedo Level Assortment Bits with CRV Bit Driver, Two Tone Handle Screwdriver Ratchet - 1/4 Sockets(5mm to 13mm). This ratchet helps in fast tightening & nut driving This screw driver set is very useful to fasten or un-fasten the screw in electronic gadget Power: 550 Watts, Chuck Capacity: 13mm, Impact Rate: 0 - 47600 BPM, Speed: 0 - 2800 RPM. Drilling or Hammering mode provides the power and speed to drill into masonry, steel and wood Variable speed for fingertip control. Reverse brush system for forward and reverse. Ergonomic reversible hammer drill design with optimal grip positions, light weight and insulated.",
   "image_urls": [
@@ -27,16 +27,17 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41dIGoqSckL.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41NZskSbsfL.jpg",
   "specifications": {
+    "Power Source": "Corded Electric",
     "Brand Name": "BLACK+DECKER",
+    "Best Sellers Rank": "#204,517 in Home Improvement (See Top 100 in Home Improvement)#3,403 inScrewdriver Sets",
     "ASIN": "B086VQGMJK",
     "Customer Reviews": "4.54.5 out of 5 stars(8)4.5 out of 5 stars",
-    "Power Source": "Corded Electric",
-    "Set Name": "154-Piece",
-    "Maximum Rotational Speed": "2800 RPM"
+    "Maximum Rotational Speed": "2800 RPM",
+    "Set Name": "154-Piece"
   },
   "SKU": "JKE-SKU-IIYDQNSWKFDU2SSL",
-  "Name": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use (154-Piece) - Includes Screwdriver, Wrench, Ra",
-  "Slug": "blackdecker-bmt154c-hand-tool-kit-for-home-diy-use-154-piece-includes-screwdriver-wrench-ra",
+  "Name": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
+  "Slug": "blackdecker-bmt154c-hand-tool-kit-for-home-diy-use",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -51,8 +52,8 @@
     "https://m.media-amazon.com/images/I/41qcydCYE+L.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/51Y2SqI4DSL.jpg | https://m.media-amazon.com/images/I/31gwABB9uuL.jpg | https://m.media-amazon.com/images/I/511xB5r0plL.jpg | https://m.media-amazon.com/images/I/41MH4uS7ftL.jpg | https://m.media-amazon.com/images/I/41WGtabfpGL.jpg | https://m.media-amazon.com/images/I/41dIGoqSckL.jpg | https://m.media-amazon.com/images/I/41NZskSbsfL.jpg | https://m.media-amazon.com/images/I/41qcydCYE+L.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": 0,
-  "SalePrice": "₹5,292.00"
+  "Discount": "65.16%",
+  "SalePrice": 0
 }

@@ -1,10 +1,10 @@
 {
   "asin": "JKE-SKU-IIYDORCTGFDVSR2K",
   "title": "Freeman P13INLC 13\" Laminate Flooring Cutter",
-  "brand": "Freeman",
-  "current_price": "₹48,143.00",
-  "mrp": "₹64,290",
-  "product_url": "https://www.amazon.in/Freeman-P13INLC-Laminate-Flooring-Cutter/dp/B07DS1GYGJ/ref=sr_1_279",
+  "brand": "Freemans",
+  "current_price": 0,
+  "mrp": 64290,
+  "product_url": "https://www.amazon.in/Freeman-P13INLC-Laminate-Flooring-Cutter/dp/B07DS1GYGJ/ref=sr_1_80",
   "description": "The Freeman P13INLC 13 Inch Laminate Flooring Cutter cleanly and easily cuts materials up to 13 inches wide and 12 millimeters thick without splintering or chipping. This must-have, highly efficient construction tool eliminates the need for a noisy power saw and works great on laminate, thin engineered wood, cork, rubber, resilient, vinyl, VCT, and more. The spring-loaded cutting mechanism provides smooth consistent pressure to assist with precise cuts. It comes with a razor-sharp blade right out of the box, which can be re-sharpened as well as replaced to prolong the life of this durable tool. There is also a safety lock to prevent the blade from moving when not in use. The extended handle creates extra leverage and increases cutting power with minimal effort. The base is also extended to reduce plank movement, increasing cutting accuracy. These outstanding features combined with an angled miter gauge to customize cuts from 0° to 45° make this the perfect laminate flooring cutter for DIY home improvement and repair projects as well as professional flooring installation jobs. The 13 Inch Laminate Flooring Cutter is covered by Freeman's 1 Year Limited Warranty.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/61NCLTuzL+L.jpg | https://m.media-amazon.com/images/I/41VjlGzA5+L.jpg | https://m.media-amazon.com/images/I/41KU0brwmDL.jpg | https://m.media-amazon.com/images/I/512D8lNxpvL.jpg | https://m.media-amazon.com/images/I/51bI-iOvw+L.jpg | https://m.media-amazon.com/images/I/31fykvfMxwL.jpg",
@@ -23,11 +23,11 @@
   "image_url_6": "https://m.media-amazon.com/images/I/51bI-iOvw+L.jpg",
   "image_url_7": "https://m.media-amazon.com/images/I/31fykvfMxwL.jpg",
   "specifications": {
-    "Country of Origin": "‎USA",
     "Manufacturer": "‎PGP",
     "ASIN": "‎B07DS1GYGJ",
-    "Product Dimensions": "‎61.6 x 46.05 x 20.32 cm; 6.58 kg",
-    "Item model number": "‎P13INLCB"
+    "Country of Origin": "‎USA",
+    "Item model number": "‎P13INLCB",
+    "Product Dimensions": "‎61.6 x 46.05 x 20.32 cm; 6.58 kg"
   },
   "SKU": "JKE-SKU-IIYDORCTGFDVSR2K",
   "Name": "Freeman P13INLC 13\" Laminate Flooring Cutter",
@@ -44,9 +44,9 @@
     "https://m.media-amazon.com/images/I/31fykvfMxwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/61NCLTuzL+L.jpg | https://m.media-amazon.com/images/I/41VjlGzA5+L.jpg | https://m.media-amazon.com/images/I/41KU0brwmDL.jpg | https://m.media-amazon.com/images/I/512D8lNxpvL.jpg | https://m.media-amazon.com/images/I/51bI-iOvw+L.jpg | https://m.media-amazon.com/images/I/31fykvfMxwL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
   "Discount": "25.12%",
-  "SalePrice": "₹48,143.00",
+  "SalePrice": 0,
   "Country": "‎USA"
 }

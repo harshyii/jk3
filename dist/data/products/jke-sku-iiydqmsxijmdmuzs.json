@@ -2,9 +2,9 @@
   "asin": "JKE-SKU-IIYDQMSXIJMDMUZS",
   "title": "TAPARIA PVC Plastic Cutters PC42",
   "brand": "Taparia",
-  "current_price": "₹485.00",
-  "mrp": "₹560",
-  "product_url": "https://www.amazon.in/TAPARIA-PVC-Plastic-Cutters-PC42/dp/B082WBX6S2/ref=sr_1_43",
+  "current_price": 0,
+  "mrp": 560,
+  "product_url": "https://www.amazon.in/TAPARIA-PVC-Plastic-Cutters-PC42/dp/B082WBX6S2/ref=sr_1_60",
   "description": "Aluminum Body PVC Pipe Cutter + Manganese Blade + Ratchet Handle Plumbing Tube Cutter Scissor Knife Plastic Hose Pliers High Quality Upto 42mm Cutter For PVC, Plastic, PPR, Vinyl & Rubber Tube, PVC Pipe Cutter Features: This plumbing tool can cut PVC pipes and tubes up to 42mm in diameter, easy to use, with special design cutter blade and ratchet handle, heavy-duty aluminum body, light in weight and easy to carry. Locks in closed position for extra safety. When cutting pace flexible pipe you should revolve the pipe whilst compressing. Cutting Capacity: 42mm (1-5/8'') Material: 65# Manganese (Blade) +Aluminum (Body) Cutting Range: 1-5/8\", up to 42mm Total Length: Approx. 18.5cm/ 7.28\" Package included: 1 x 42mm PVC Pipe Cutter Tool",
   "image_urls": [
     "https://m.media-amazon.com/images/I/71wh4GTG32L.jpg | https://m.media-amazon.com/images/I/31r12rw8v7L.jpg | https://m.media-amazon.com/images/I/31t-Gft42YL.jpg | https://m.media-amazon.com/images/I/31mwIzBOwmL.jpg | https://m.media-amazon.com/images/I/315h0TI4UbL.jpg | https://m.media-amazon.com/images/I/31rKXZS+KfL.jpg | https://m.media-amazon.com/images/I/31lCyGxS7AL.jpg | https://m.media-amazon.com/images/I/31vuWn2jFwL.jpg",
@@ -28,8 +28,8 @@
   "specifications": {
     "Manufacturer": "‎Taparia",
     "ASIN": "‎B082WBX6S2",
-    "Product Dimensions": "‎5 x 4 x 1 cm; 100 g",
-    "Item model number": "‎PC42"
+    "Item model number": "‎PC42",
+    "Product Dimensions": "‎5 x 4 x 1 cm; 100 g"
   },
   "SKU": "JKE-SKU-IIYDQMSXIJMDMUZS",
   "Name": "TAPARIA PVC Plastic Cutters PC42",
@@ -48,8 +48,8 @@
     "https://m.media-amazon.com/images/I/31vuWn2jFwL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/71wh4GTG32L.jpg | https://m.media-amazon.com/images/I/31r12rw8v7L.jpg | https://m.media-amazon.com/images/I/31t-Gft42YL.jpg | https://m.media-amazon.com/images/I/31mwIzBOwmL.jpg | https://m.media-amazon.com/images/I/315h0TI4UbL.jpg | https://m.media-amazon.com/images/I/31rKXZS+KfL.jpg | https://m.media-amazon.com/images/I/31lCyGxS7AL.jpg | https://m.media-amazon.com/images/I/31vuWn2jFwL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
   "Discount": "13.39%",
-  "SalePrice": "₹485.00"
+  "SalePrice": 0
 }

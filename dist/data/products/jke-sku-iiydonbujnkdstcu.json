@@ -1,10 +1,11 @@
 {
   "asin": "JKE-SKU-IIYDONBUJNKDSTCU",
-  "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use (154-Piece) - Includes Screwdriver, Wrench, Ratchet, Utility Knife, Saw, Claw Hammer, Measuring Tape and Plier, ORANGE & BLACK",
+  "title": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
   "brand": "Black+Decker",
-  "current_price": "₹2,693.00",
-  "mrp": "₹4,123",
-  "product_url": "https://www.amazon.in/BLACK-DECKER-BMT154C-Professional-154-Pieces/dp/B0744KT9LT/ref=sr_1_50",
+  "current_price": 0,
+  "mrp": 4123,
+  "product_url": "https://www.amazon.in/BLACK-DECKER-BMT154C-Professional-154-Pieces/dp/B0744KT9LT/ref=sr_1_14",
+  "description": "DIY tool kit from BLACK+DECKER BMT154C is a complete hand tool kit for all your household and office maintenance needs. It is stylish, compact and provides a good assortment of tools with no compromise on the quality. 154Piece Tool Kit Includes: 1 - 250mm Waterpump Pliers 1 - 225mm Torpedo Level 82 - Hardware Assortment 30 - 25mm Bits 1 - Bit Driver,Two Tone Handle 4 - Screwdriver,SL5x75,SL6x100mm,PH 1x75,PH2x100mm 9 - Hex Key,1.5-10mm 1 - 5m x 19mm Measuring Tape 1 - 1/4\"Dr. Ratchet 9 - 1/4\"Dr. Socket,5-13mm 1 - 160mm Diagonal Pliers 1 - 160mm Combination Pliers 1 - 12oz Claw Hammer 1 - 18mm Snap-off Utility Knife 10 - 18mm Snap-off Utility Blades 1 - 150mm Steel Ruler Packed in BMC 39x28.5x8.5cm The product is a compact, lightweight and perfect hand tool kit for household DIY tasks & emergency maintenance. The product is manufactured by Stanley Black & Decker with registered trademarks",
   "image_urls": [
     "https://m.media-amazon.com/images/I/81sBGg6RUrL.jpg | https://m.media-amazon.com/images/I/417opaR07wL.jpg | https://m.media-amazon.com/images/I/61J3w1hqueL.jpg | https://m.media-amazon.com/images/I/61gk7kKu02L.jpg | https://m.media-amazon.com/images/I/51MC7kAL8LL.jpg | https://m.media-amazon.com/images/I/41lWGNBaf2L.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
     "https://m.media-amazon.com/images/I/81sBGg6RUrL.jpg",
@@ -24,17 +25,17 @@
   "image_url_7": "https://m.media-amazon.com/images/I/41lWGNBaf2L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
   "specifications": {
-    "Country of Origin": "‎China",
     "Manufacturer": "‎Stanley",
     "ASIN": "‎B0744KT9LT",
-    "Product Dimensions": "‎39 x 28.5 x 8.5 cm; 4 kg",
-    "Item model number": "‎BMT154C"
+    "Country of Origin": "‎China",
+    "Item model number": "‎BMT154C",
+    "Product Dimensions": "‎39 x 28.5 x 8.5 cm; 4 kg"
   },
   "SKU": "JKE-SKU-IIYDONBUJNKDSTCU",
-  "Name": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use (154-Piece) - Includes Screwdriver, Wrench, Ratchet, Utility Knife, Saw, Claw Hammer, Measuring Tape and Plier, ORANGE & BLACK",
-  "Slug": "blackdecker-bmt154c-hand-tool-kit-for-home-diy-use-154-piece-includes-screwdriver-wrench-ratchet-utility-knife-saw-claw-hammer-measuring-tape-and-plier-orange-black",
+  "Name": "BLACK+DECKER BMT154C Hand Tool Kit for Home & DIY Use...",
+  "Slug": "blackdecker-bmt154c-hand-tool-kit-for-home-diy-use",
   "Category": "Other",
-  "Subcategory1": "Other",
+  "Subcategory1": "Hardware Kits",
   "Images": [
     "https://m.media-amazon.com/images/I/81sBGg6RUrL.jpg | https://m.media-amazon.com/images/I/417opaR07wL.jpg | https://m.media-amazon.com/images/I/61J3w1hqueL.jpg | https://m.media-amazon.com/images/I/61gk7kKu02L.jpg | https://m.media-amazon.com/images/I/51MC7kAL8LL.jpg | https://m.media-amazon.com/images/I/41lWGNBaf2L.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
     "https://m.media-amazon.com/images/I/81sBGg6RUrL.jpg",
@@ -46,9 +47,9 @@
     "https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/81sBGg6RUrL.jpg | https://m.media-amazon.com/images/I/417opaR07wL.jpg | https://m.media-amazon.com/images/I/61J3w1hqueL.jpg | https://m.media-amazon.com/images/I/61gk7kKu02L.jpg | https://m.media-amazon.com/images/I/51MC7kAL8LL.jpg | https://m.media-amazon.com/images/I/41lWGNBaf2L.jpg | https://m.media-amazon.com/images/I/41EhCEJQLbL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "34.68%",
-  "SalePrice": "₹2,693.00",
+  "Discount": "31.24%",
+  "SalePrice": 0,
   "Country": "‎China"
 }

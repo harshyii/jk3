@@ -1,10 +1,11 @@
 {
   "asin": "JKE-SKU-IIYDSRRZIQ4EQWS2",
-  "title": "Eastman Tyre Lever Set of 1 Pcs, 24 Inch, Alloy Steel Chrome Plated, Corrosion Resistance, Tyre Removal Lever Ideal for Cycle, Car,Truck Tyre Change (E-3021)",
+  "title": "Eastman Tyre Lever Set of 1 Pcs, 24 Inch, Alloy Steel...",
   "brand": "Eastman",
-  "current_price": "₹291.00",
-  "mrp": "₹518",
-  "product_url": "https://www.amazon.in/Eastman-Efficient-Strength-Corrosion-Resistance/dp/B09F9D8HZZ/ref=sr_1_58",
+  "current_price": 0,
+  "mrp": 518,
+  "product_url": "https://www.amazon.in/Eastman-Efficient-Strength-Corrosion-Resistance/dp/B09F9D8HZZ/ref=sr_1_49_mod_primary_new",
+  "description": "EFFICIENT TYRE LEVER: The Eastman Tyre Lever is a highly efficient tool designed for tire removal and installation. It offers exceptional performance when dealing with various types of tires. DURABLE ALLOY STEEL: Crafted from high-quality Alloy Steel and chrome plated for added protection, this tyre lever is built to withstand the rigors of tire-changing tasks. It's exceptionally strong and resistant to corrosion. OPTIMAL LENGTH: With a length of 24 inches, this tyre lever provides the leverage needed for effective tire removal and installation. It minimizes the effort required and ensures efficient results. VERSATILE USAGE: Whether you're a professional mechanic or a DIY enthusiast, this tyre lever is suitable for various applications, including tire changes on bicycles, motorcycles, and even automotive vehicles. SILVER FINISH: The tyre lever boasts a sleek silver finish that not only enhances its appearance but also adds an extra layer of protection against corrosion, ensuring its longevity.",
   "image_urls": [
     "https://m.media-amazon.com/images/I/416cwlzE6nL.jpg | https://m.media-amazon.com/images/I/21xawhlJ5ML.jpg | https://m.media-amazon.com/images/I/31WQrkj8gwL.jpg | https://m.media-amazon.com/images/I/315uF3tCvwL.jpg | https://m.media-amazon.com/images/I/51e+g-0aNFL.jpg | https://m.media-amazon.com/images/I/21DKPTPxz1L.jpg | https://m.media-amazon.com/images/I/21WZ4C1D1dL.jpg | https://m.media-amazon.com/images/I/21TGULf08UL.jpg",
     "https://m.media-amazon.com/images/I/416cwlzE6nL.jpg",
@@ -25,14 +26,13 @@
   "image_url_7": "https://m.media-amazon.com/images/I/21DKPTPxz1L.jpg",
   "image_url_8": "https://m.media-amazon.com/images/I/21WZ4C1D1dL.jpg",
   "specifications": {
-    "Country of Origin": "‎India",
     "Manufacturer": "‎Eastman",
     "ASIN": "‎B09F9D8HZZ",
     "Item model number": "‎E-3021_TyreLever-24\""
   },
   "SKU": "JKE-SKU-IIYDSRRZIQ4EQWS2",
-  "Name": "Eastman Tyre Lever Set of 1 Pcs, 24 Inch, Alloy Steel Chrome Plated, Corrosion Resistance, Tyre Removal Lever Ideal for Cycle, Car,Truck Tyre Change (E-3021)",
-  "Slug": "eastman-tyre-lever-set-of-1-pcs-24-inch-alloy-steel-chrome-plated-corrosion-resistance-tyre-removal-lever-ideal-for-cycle-cartruck-tyre-change-e-3021",
+  "Name": "Eastman Tyre Lever Set of 1 Pcs, 24 Inch, Alloy Steel...",
+  "Slug": "eastman-tyre-lever-set-of-1-pcs-24-inch-alloy-steel",
   "Category": "Other",
   "Subcategory1": "Other",
   "Images": [
@@ -47,9 +47,8 @@
     "https://m.media-amazon.com/images/I/21TGULf08UL.jpg"
   ],
   "Image": "https://m.media-amazon.com/images/I/416cwlzE6nL.jpg | https://m.media-amazon.com/images/I/21xawhlJ5ML.jpg | https://m.media-amazon.com/images/I/31WQrkj8gwL.jpg | https://m.media-amazon.com/images/I/315uF3tCvwL.jpg | https://m.media-amazon.com/images/I/51e+g-0aNFL.jpg | https://m.media-amazon.com/images/I/21DKPTPxz1L.jpg | https://m.media-amazon.com/images/I/21WZ4C1D1dL.jpg | https://m.media-amazon.com/images/I/21TGULf08UL.jpg",
-  "StockQuantity": 2,
+  "StockQuantity": 0,
   "Unit": "PC",
-  "Discount": "43.82%",
-  "SalePrice": "₹291.00",
-  "Country": "‎India"
+  "Discount": "44.98%",
+  "SalePrice": 0
 }

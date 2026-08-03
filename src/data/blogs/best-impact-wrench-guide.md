@@ -393,7 +393,7 @@ Air-powered impact wrenches remain the industry standard in professional garages
 
 ---
 
-# Choosing the Correct Drive Size
+## Choosing the Correct Drive Size
 
 <div class="table-responsive">
 
@@ -480,7 +480,7 @@ If you are buying only one impact wrench for general workshop use, choose a <str
 </div>
 ---
 
-# <i class="bi bi-lightning-charge-fill text-warning"></i> Understanding Torque Ratings
+## <i class="bi bi-lightning-charge-fill text-warning"></i> Understanding Torque Ratings
 
 <p>
 
@@ -572,7 +572,7 @@ Torque is the twisting force produced by an impact wrench. Higher torque means t
 
 ---
 
-# <i class="bi bi-cpu-fill text-primary"></i> Brushless vs Brushed Motor
+## <i class="bi bi-cpu-fill text-primary"></i> Brushless vs Brushed Motor
 
 <div class="row g-4">
 
@@ -648,7 +648,7 @@ Brushed Motor
 
 ---
 
-# Battery Voltage Guide
+## Battery Voltage Guide
 
 <div class="table-responsive">
 
@@ -718,7 +718,7 @@ Brushed Motor
 
 ---
 
-# Features Worth Paying For
+## Features Worth Paying For
 
 <div class="row row-cols-1 row-cols-md-2 g-3">
 
@@ -810,7 +810,7 @@ Brushed Motor
 
 ---
 
-# Safety Tips
+## Safety Tips
 
 <div class="alert alert-danger">
 
@@ -844,7 +844,7 @@ Always Follow These Safety Rules
 
 ---
 
-# Maintenance Checklist
+## Maintenance Checklist
 
 <div class="card shadow-sm">
 
@@ -896,7 +896,7 @@ Always Follow These Safety Rules
 
 ---
 
-# Common Buying Mistakes
+## Common Buying Mistakes
 
 <div class="accordion" id="mistakesAccordion">
 
@@ -976,7 +976,7 @@ Always use impact-rated sockets to avoid cracking and serious injuries.
 
 ---
 
-# Frequently Asked Questions
+## Frequently Asked Questions
 
 <h5>Can an impact wrench remove wheel nuts?</h5>
 
@@ -1012,7 +1012,7 @@ No. Always use impact sockets designed to handle repeated hammering forces.
 
 ---
 
-# Final Recommendation
+## Final Recommendation
 
 <div class="alert alert-success shadow-sm">
 

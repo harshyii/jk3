@@ -3,6 +3,7 @@ node_modules/
 
 # Build Output (Ignore root level data/ and build/ folders)
 build/
+src/data/
 
 # Environment / Local variables
 .env

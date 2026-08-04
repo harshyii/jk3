@@ -220,7 +220,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                                 <div class="card-body d-flex flex-column p-4">
                                     <div class="text-muted small mb-2"><i class="bi bi-calendar3 me-1"></i>${escapeHtml(displayDate)}</div>
                                     <h5 class="card-title fw-bold text-dark mb-2">
-                                        <a href="blog.html?slug=${escapeHtml(blogSlug)}" class="text-dark text-decoration-none stretched-link">${escapeHtml(blogTitle)}</a>
+                                        <a href="blogs/${escapeHtml(blogSlug)}.html" class="text-dark text-decoration-none stretched-link">${escapeHtml(blogTitle)}</a>
                                     </h5>
                                     <p class="card-text text-muted small flex-grow-1 mb-4">${escapeHtml(blogExcerpt)}</p>
                                     <div class="d-flex align-items-center justify-content-between pt-3 border-top mt-auto">

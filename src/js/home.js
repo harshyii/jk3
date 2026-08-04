@@ -211,11 +211,11 @@ function renderBlogs(blogs) {
                     <div class="card-body d-flex flex-column p-3">
                         <small class="text-muted mb-1">${escapeHtml(displayDate)} &bull; ${escapeHtml(blog.category || blog.Category || 'General')}</small>
                         <h5 class="card-title fs-6 fw-bold mb-2">
-                            <a href="blog.html?slug=${blog.slug || blog.Slug}" class="text-dark text-decoration-none stretched-link">${escapeHtml(blog.title || blog.Title)}</a>
-                        </h5>
+                            <a href="blogs/${blog.slug || blog.Slug}.html" class="text-dark text-decoration-none stretched-link">${escapeHtml(blog.title || blog.Title)}</a>
+                      </h5>
                         <p class="card-text text-muted small mb-3">${escapeHtml(blog.excerpt || blog.MetaDescription || '')}</p>
                         <div class="mt-auto">
-                            <a href="blog.html?slug=${blog.slug || blog.Slug}" class="text-decoration-none fw-semibold small position-relative z-1">Read More <i class="bi bi-arrow-right"></i></a>
+                            <a href="blogs/${blog.slug || blog.Slug}.html" class="text-decoration-none fw-semibold small position-relative z-1">Read More <i class="bi bi-arrow-right"></i></a>
                         </div>
                     </div>
                 </div>

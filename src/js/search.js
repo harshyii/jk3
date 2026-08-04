@@ -104,7 +104,7 @@ export const SearchModule = {
         const lowerQ = query.toLowerCase();
         return this.blogs.filter(b => {
             const title = (b.title || b.Title || '').toLowerCase();
-            const summary = (b.summary || b.Summary || '').toLowerCase();
+            const summary = (b.summary || b.Summary || b.excerpt || '').toLowerCase();
             const content = (b.content || b.Content || '').toLowerCase();
             return title.includes(lowerQ) || summary.includes(lowerQ) || content.includes(lowerQ);
         });
@@ -157,7 +157,7 @@ export const SearchModule = {
             html += `<h6 class="dropdown-header text-uppercase text-muted fs-7">Guides & Blogs</h6>`;
             matchedBlogs.forEach(b => {
                 const blogImg = b.image || b.Image || b.thumbnail || b.Thumbnail || '404.webp';
-                html += `<a class="dropdown-item d-flex align-items-center gap-2 py-2" href="blog.html?slug=${b.slug || b.Slug}">
+                html += `<a class="dropdown-item d-flex align-items-center gap-2 py-2" href="blogs/${b.slug || b.Slug}.html">
                     <img src="${blogImg}" style="width: 30px; height: 30px; object-fit: cover;" alt="">
                     <div class="fw-medium text-dark text-truncate fs-7">${b.title || b.Title}</div>
                 </a>`;
@@ -244,16 +244,20 @@ export const SearchModule = {
             outputHtml += `<div class="col-12 mt-4 mb-3"><h3 class="h5 border-bottom pb-2">Industry Guides & Blogs (${filteredBlogs.length})</h3></div>`;
             outputHtml += filteredBlogs.map(b => {
                 const blogImg = b.image || b.Image || b.thumbnail || b.Thumbnail || '404.webp';
+                const blogSlug = b.slug || b.Slug || '';
+                const blogTitle = b.title || b.Title || '';
+                const blogExcerpt = b.summary || b.Summary || b.excerpt || '';
+
                 return `
                     <div class="col">
                         <div class="card h-100 shadow-sm border-0" style="width: 100%;">
                             <div class="card-img-top-wrapper bg-light" style="height: 160px; overflow: hidden; display: flex; align-items: center; justify-content: center;">
-                                <img src="${blogImg}" class="w-100 h-100" alt="${b.title || b.Title}" style="object-fit: cover;" onerror="this.src='404.webp'">
+                                <img src="${blogImg}" class="w-100 h-100" alt="${blogTitle}" style="object-fit: cover;" onerror="this.src='404.webp'">
                             </div>
                             <div class="card-body d-flex flex-column">
-                                <h5 class="card-title text-dark fs-6">${b.title || b.Title}</h5>
-                                <p class="card-text text-muted small flex-grow-1">${b.summary || b.Summary || ''}</p>
-                                <a href="blog.html?slug=${b.slug || b.Slug}" class="btn btn-sm btn-dark w-100 mt-auto">Read Guide</a>
+                                <h5 class="card-title text-dark fs-6">${blogTitle}</h5>
+                                <p class="card-text text-muted small flex-grow-1">${blogExcerpt}</p>
+                                <a href="blogs/${blogSlug}.html" class="btn btn-sm btn-dark w-100 mt-auto">Read Guide</a>
                             </div>
                         </div>
                     </div>

@@ -3,16 +3,16 @@ export const Layout = {
         console.log("🚀 Layout script initialized!");
         
         const partials = [
-            { id: 'head-placeholder', file: 'src/partials/head.html' },
-            { id: 'header-placeholder', file: 'src/partials/header.html' },
-            { id: 'navbar-placeholder', file: 'src/partials/navbar.html' },
-            { id: 'mega-menu-placeholder', file: 'src/partials/mega-menu.html' },
-            { id: 'breadcrumb-placeholder', file: 'src/partials/breadcrumb.html' },
-            { id: 'filters-placeholder', file: 'src/partials/filters.html' },
-            { id: 'footer-placeholder', file: 'src/partials/footer.html' },
-            { id: 'toast-placeholder', file: 'src/partials/toast.html' },
-            { id: 'modal-placeholder', file: 'src/partials/modal.html' },
-            { id: 'product-card-placeholder', file: 'src/partials/product-card.html' },
+            { id: 'head-placeholder', file: '../src/partials/head.html' },
+            { id: 'header-placeholder', file: '../src/partials/header.html' },
+            { id: 'navbar-placeholder', file: '../src/partials/navbar.html' },
+            { id: 'mega-menu-placeholder', file: '../src/partials/mega-menu.html' },
+            { id: 'breadcrumb-placeholder', file: '../src/partials/breadcrumb.html' },
+            { id: 'filters-placeholder', file: '../src/partials/filters.html' },
+            { id: 'footer-placeholder', file: '../src/partials/footer.html' },
+            { id: 'toast-placeholder', file: '../src/partials/toast.html' },
+            { id: 'modal-placeholder', file: '../src/partials/modal.html' },
+            { id: 'product-card-placeholder', file: '../src/partials/product-card.html' },
             { id: 'offcanvas-placeholder', file: 'src/partials/offcanvas.html' }
         ];
 

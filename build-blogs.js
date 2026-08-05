@@ -1,5 +1,6 @@
 import fs from 'fs';
 import path from 'path';
+import * as cheerio from 'cheerio';
 
 // Enforce absolute paths mapped to the current working directory
 const ROOT_DIR = process.cwd();
@@ -46,11 +47,53 @@ if (!Array.isArray(blogs)) {
     process.exit(1);
 }
 
+/**
+ * Sanitizes and cleans the HTML document:
+ * 1. Removes #head-placeholder to stop layout.js from injecting duplicate metadata in the browser.
+ * 2. Removes duplicate <meta name="description"> tags.
+ * 3. Ensures only one <h1> tag exists per page (converts extra <h1> tags to <h2>).
+ */
+function sanitizeBlogHtml(htmlContent) {
+    const $ = cheerio.load(htmlContent, { decodeEntities: false });
+
+    // 1. Remove #head-placeholder so layout.js doesn't dynamically fetch and inject
+    // head.html into <body> at browser runtime (causes duplicate meta/title tags)
+    $('#head-placeholder').remove();
+
+    // 2. Keep only the first <meta name="description"> and remove duplicates
+    const $metaDescriptions = $('meta[name="description"]');
+    if ($metaDescriptions.length > 1) {
+        $metaDescriptions.slice(1).remove();
+    }
+
+    // 3. Keep the primary article <h1> and convert all subsequent <h1> tags to <h2>
+    const $h1s = $('h1');
+    if ($h1s.length > 1) {
+        $h1s.each((index, el) => {
+            if (index === 0) return; // Skip primary article title
+
+            const $el = $(el);
+            const $h2 = $('<h2>').html($el.html());
+
+            // Preserve existing attributes (class, style, id, etc.)
+            if (el.attribs) {
+                Object.keys(el.attribs).forEach((attrName) => {
+                    $h2.attr(attrName, el.attribs[attrName]);
+                });
+            }
+
+            $el.replaceWith($h2);
+        });
+    }
+
+    return $.html();
+}
+
 console.log(`🚀 Building ${blogs.length} static pages from Markdown files...`);
 
 let successCount = 0;
 
-blogs.forEach((blog, index) => {
+blogs.forEach((blog) => {
     const rawSlug = blog.slug || blog.Slug;
     if (!rawSlug) return;
 
@@ -61,10 +104,14 @@ blogs.forEach((blog, index) => {
     let content = '<p>No content available.</p>';
 
     if (fs.existsSync(mdFilePath)) {
-        const rawMarkdown = fs.readFileSync(mdFilePath, 'utf-8');
-        // Note: If you want markdown parsed into HTML, you can pipe rawMarkdown 
-        // through a library like 'marked', or keep it as text if it's already HTML/text.
-        // For standard text/markdown rendering wrapper:
+        let rawMarkdown = fs.readFileSync(mdFilePath, 'utf-8');
+
+        // Pre-clean Markdown: Demote any top-level `# Heading` or `<h1>` tags in markdown content to `##` / `<h2>`
+        rawMarkdown = rawMarkdown
+            .replace(/^#\s+(.+)$/gm, '## $1')
+            .replace(/<h1([^>]*)>/gi, '<h2$1>')
+            .replace(/<\/h1>/gi, '</h2>');
+
         content = `<div class="markdown-body">${rawMarkdown}</div>`;
     } else {
         console.warn(`⚠️ Markdown file missing for slug: ${slug} (looked in ${mdFilePath})`);
@@ -101,10 +148,11 @@ blogs.forEach((blog, index) => {
         .replace(/href="(?!(?:http|\/|\.\.))/g, 'href="../')
         .replace(/src="(?!(?:http|\/|\.\.))/g, 'src="../');
 
+    // Inject layout placeholders (EXCLUDING head-placeholder to avoid runtime meta duplication)
     if (!pageHtml.includes('id="header-placeholder"')) {
         pageHtml = pageHtml.replace(
             /<body([^>]*)>/i,
-            '<body$1>\n    <div id="head-placeholder"></div>\n    <div id="mega-menu-placeholder"></div>\n    <div id="breadcrumb-placeholder"></div>'
+            '<body$1>\n    <div id="header-placeholder"></div>\n    <div id="mega-menu-placeholder"></div>\n    <div id="breadcrumb-placeholder"></div>'
         );
     }
 
@@ -121,6 +169,9 @@ blogs.forEach((blog, index) => {
             '    <script src="../src/js/bootstrap.bundle.min.js"></script>\n    <script src="../src/js/layout.js" type="module"></script>\n</body>'
         );
     }
+
+    // Run Cheerio DOM cleanup before writing to file
+    pageHtml = sanitizeBlogHtml(pageHtml);
 
     const filePath = path.join(OUTPUT_DIR, `${slug}.html`);
     fs.writeFileSync(filePath, pageHtml, 'utf-8');

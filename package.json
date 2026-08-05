@@ -15,8 +15,9 @@
   "author": "JK Enterprises",
   "license": "MIT",
   "dependencies": {
-    "fs-extra": "^11.3.6",
-    "marked": "^18.0.7",
+    "front-matter": "^4.0.2",
+    "fs-extra": "^11.4.0",
+    "marked": "^18.0.9",
     "xlsx": "^0.18.5"
   },
   "devDependencies": {

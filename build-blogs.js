@@ -88,7 +88,7 @@ blogs.forEach((blog, index) => {
 
     let pageHtml = template
         .replace(/{{SEO_TITLE}}/g, seoTitle)
-        .replace(/{{META_DESCRIPTION}}/g, metaDescription)
+        
         .replace(/{{CANONICAL_URL}}/g, canonicalUrl)
         .replace(/{{TITLE}}/g, title)
         .replace(/{{AUTHOR}}/g, author)

@@ -4,11 +4,11 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <div id="head-placeholder"></div>
-    <!-- SEO: Title tag (Fixed missing title error) -->
-    <title>Home - Haryana Tools</title>
     
-    <!-- SEO: Meta Description tag (Fixed missing description error) -->
-    <meta name="description" content="Discover top-rated industrial tools, expert guides, and equipment catalogs at Haryana Tools.">
+    <!-- SEO Meta Tags -->
+    <title>Haryana Tools | Premier Industrial Tools & Equipment Supplier in India</title>
+    <meta name="description" content="Haryana Tools is India's leading tool supplier offering genuine power tools, hand tools, solar equipment, workshop equipment, and safety gear with GST billing and fast nationwide delivery.">
+    <meta name="keywords" content="industrial tools, power tools, hand tools, workshop equipment, industrial equipment, power tool supplier, tool supplier in India, online tool store, wholesale tools, professional tools">
 
     <!-- Bootstrap 5 CSS -->
     <link href="../src/css/bootstrap.min.css" rel="stylesheet">
@@ -23,11 +23,35 @@
     <div id="breadcrumb-placeholder"></div>
 
     <main class="container my-4 flex-grow-1">
-        <!-- Product Grid Section -->
+
+        <!-- 1. HERO INTRODUCTION SECTION -->
+        <section id="hero-intro" class="bg-white p-4 p-lg-5 rounded-3 shadow-sm mb-5 border">
+            <div class="row align-items-center g-4">
+                <div class="col-lg-8">
+                    <span class="badge bg-primary-subtle text-primary border border-primary-subtle mb-2 px-3 py-2 fw-semibold">India's Trusted Tool Supplier</span>
+                    <h1 class="display-6 fw-bold text-dark mb-3">Industrial Equipment, Power & Hand Tools Supplier</h1>
+                    <p class="lead text-secondary mb-4 fs-6">
+                        Welcome to <strong>Haryana Tools</strong>, your authorized online tool store for high-performance <strong>industrial equipment</strong>, <strong>power tools</strong>, and <strong>hand tools</strong>. We serve manufacturing plants, solar installers, automobile workshops, tradesmen, and DIY users across India with certified products, bulk pricing, and full manufacturer warranty support.
+                    </p>
+                    <div class="d-flex flex-wrap gap-2">
+                        <a href="catalog.html" class="btn btn-primary btn-lg px-4 fs-6 fw-semibold">Browse Product Catalog</a>
+                        <a href="contact.html" class="btn btn-outline-secondary btn-lg px-4 fs-6 fw-semibold">Request Bulk Quote</a>
+                    </div>
+                </div>
+                <div class="col-lg-4 d-none d-lg-block text-center">
+                    <div class="p-3 bg-light rounded-3 border">
+                        <i class="bi bi-tools display-1 text-primary mb-2 d-block"></i>
+                        <span class="fw-bold text-dark d-block">10,000+ Industrial Products</span>
+                        <small class="text-muted">100% Genuine Brands with GST Billing</small>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- EXISTING FEATURED PRODUCTS SECTION (PRESERVED) -->
         <section id="featured-products" class="mb-5">
-            <div class="d-flex align-items-center justify-content-between mb-4">
-                <!-- SEO: H1 tag integrated cleanly into the section header (Fixed missing H1 error) -->
-                <h1 class="h3 fw-bold mb-0">Featured Products & Industrial Tools</h1>
+            <div class="d-flex align-items-center justify-content-between mb-4 border-bottom pb-2">
+                <h2 class="h3 fw-bold mb-0">Featured Products & Industrial Tools</h2>
                 <a href="catalog.html" class="text-decoration-none fw-semibold">Browse Catalog <i class="bi bi-arrow-right"></i></a>
             </div>
             <div id="product-grid" class="row">
@@ -38,7 +62,356 @@
             </div>
         </section>
 
-        <!-- Blogs Section -->
+        <!-- 2. POPULAR CATEGORIES SECTION -->
+        <section id="popular-categories" class="mb-5">
+            <div class="mb-4">
+                <h2 class="h3 fw-bold mb-1">Popular Product Categories</h2>
+                <p class="text-muted mb-0">Explore our comprehensive range of professional tools and machinery.</p>
+            </div>
+            <div class="d-flex flex-wrap gap-2">
+                <a href="catalog.html?category=power-tools" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-lightning-charge text-primary"></i> Power Tools
+                </a>
+                <a href="catalog.html?category=hand-tools" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-wrench text-primary"></i> Hand Tools
+                </a>
+                <a href="catalog.html?category=welding" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-fire text-primary"></i> Welding Machines
+                </a>
+                <a href="catalog.html?category=pressure-washers" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-droplet-half text-primary"></i> Pressure Washers
+                </a>
+                <a href="catalog.html?category=vacuum-cleaners" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-wind text-primary"></i> Vacuum Cleaners
+                </a>
+                <a href="catalog.html?category=solar-equipment" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-sun text-primary"></i> Solar Equipment
+                </a>
+                <a href="catalog.html?category=measuring-tools" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-ruler text-primary"></i> Measuring Tools
+                </a>
+                <a href="catalog.html?category=safety-equipment" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-shield-check text-primary"></i> Safety Equipment
+                </a>
+                <a href="catalog.html?category=automotive-tools" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-car-front text-primary"></i> Automotive Tools
+                </a>
+                <a href="catalog.html?category=cleaning-equipment" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-trash text-primary"></i> Cleaning Equipment
+                </a>
+                <a href="catalog.html?category=hardware" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-nut text-primary"></i> Hardware
+                </a>
+                <a href="catalog.html?category=electrical-tools" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-plug text-primary"></i> Electrical Tools
+                </a>
+                <a href="catalog.html?category=industrial-equipment" class="badge bg-white text-dark border p-3 text-decoration-none shadow-sm fs-6 d-flex align-items-center gap-2">
+                    <i class="bi bi-gear text-primary"></i> Industrial Equipment
+                </a>
+            </div>
+        </section>
+
+        <!-- 3. FEATURED BRANDS SECTION -->
+        <section id="featured-brands" class="mb-5">
+            <div class="mb-4">
+                <h2 class="h3 fw-bold mb-1">Authorized Brand Partners</h2>
+                <p class="text-muted mb-0">We supply 100% genuine products directly from world-class manufacturers.</p>
+            </div>
+            <div class="row row-cols-2 row-cols-md-3 row-cols-lg-5 g-3">
+                <div class="col">
+                    <a href="brand.html?slug=bosch" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/bosch.svg" alt="Bosch Industrial Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Bosch</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=makita" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/makita.svg" alt="Makita Power Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Makita</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=dewalt" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/dewalt.svg" alt="DeWALT Professional Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">DeWALT</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=stanley" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/stanley.svg" alt="Stanley Hand Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Stanley</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=eastman" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/eastman.svg" alt="Eastman Hand Tools and Equipment" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Eastman</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=ingco" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/ingco.svg" alt="Ingco Machinery Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Ingco</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=total" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/total.svg" alt="Total Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Total</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=kpt" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/kpt.svg" alt="KPT Power Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">KPT</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=black-decker" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/black-decker.svg" alt="Black+Decker Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Black+Decker</span>
+                    </a>
+                </div>
+                <div class="col">
+                    <a href="brand.html?slug=hitachi" class="card h-100 text-decoration-none text-center p-3 border shadow-sm justify-content-center">
+                        <img src="../src/images/brands/hitachi.svg" alt="Hitachi Hikoki Tools" class="img-fluid mb-2 mx-auto" style="max-height: 28px;" loading="lazy" onerror="this.style.display='none'">
+                        <span class="fw-bold text-dark">Hitachi</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+
+        <!-- 4. WHY CHOOSE HARYANA TOOLS SECTION -->
+        <section id="why-choose-us" class="mb-5">
+            <div class="mb-4">
+                <h2 class="h3 fw-bold mb-1">Why Choose Haryana Tools</h2>
+                <p class="text-muted mb-0">Your trusted partner for professional-grade industrial equipment and tools.</p>
+            </div>
+            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 g-3">
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-patch-check-fill text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Genuine Products</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">100% original tools sourced straight from OEM manufacturers with official warranties.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-award-fill text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Trusted Brands</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Authorized dealer for global heavyweights including Bosch, Stanley, Makita, and Eastman.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-receipt-cutoff text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">GST Billing</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Comply easily with formal tax invoices and claim full input tax credits on business purchases.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-box-seam-fill text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Bulk Orders</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Exclusive wholesale discounts and customized procurement packages for commercial projects.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-tags-fill text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Competitive Prices</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Direct distributor pricing guarantees unbeatable value across all industrial categories.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-truck text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Fast Shipping</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Rapid dispatch and reliable doorstep courier delivery services across all regions of India.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-headset text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Technical Support</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Get expert advice from seasoned technicians for product selection and maintenance.</p>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="card h-100 border p-3 shadow-sm">
+                        <div class="d-flex align-items-center mb-2">
+                            <i class="bi bi-cart-check-fill text-primary fs-3 me-2"></i>
+                            <h3 class="h6 fw-bold mb-0">Easy Ordering</h3>
+                        </div>
+                        <p class="small text-secondary mb-0">Hassle-free digital ordering platform backed by secure payments and clear tracking.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <!-- 5. INDUSTRIES WE SERVE SECTION -->
+        <section id="industries-served" class="mb-5">
+            <div class="mb-4">
+                <h2 class="h3 fw-bold mb-1">Industries We Serve</h2>
+                <p class="text-muted mb-0">Empowering diverse sectors with heavy-duty equipment and specialized tool solutions.</p>
+            </div>
+            <div class="d-flex flex-wrap gap-2">
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-building me-1 text-primary"></i> Manufacturing</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-cone-striped me-1 text-primary"></i> Construction</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-lightning-charge me-1 text-primary"></i> Electrical</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-water me-1 text-primary"></i> Plumbing</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-tools me-1 text-primary"></i> Fabrication</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-tree me-1 text-primary"></i> Agriculture</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-sun me-1 text-primary"></i> Solar Installers</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-car-front me-1 text-primary"></i> Automobile Workshops</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-gear-wide-connected me-1 text-primary"></i> Maintenance Teams</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-bank me-1 text-primary"></i> Government Departments</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-journal-bookmark me-1 text-primary"></i> Educational Institutes</span>
+                <span class="badge bg-light text-dark border px-3 py-2 fs-6"><i class="bi bi-diagram-3 me-1 text-primary"></i> MSMEs</span>
+            </div>
+        </section>
+
+        <!-- 6. ABOUT HARYANA TOOLS SECTION -->
+        <section id="about-us" class="bg-white p-4 rounded-3 border shadow-sm mb-5">
+            <h2 class="h3 fw-bold mb-3">About Haryana Tools</h2>
+            <div class="row g-3 text-secondary">
+                <div class="col-md-6">
+                    <p class="mb-2">
+                        <strong>Haryana Tools</strong> is a premier <strong>industrial tools supplier</strong> and wholesale distributor based in India. We specialize in supplying high-precision <strong>power tools</strong>, durable <strong>hand tools</strong>, advanced <strong>solar equipment</strong>, and high-performance <strong>workshop equipment</strong> built to meet demanding engineering standards.
+                    </p>
+                    <p class="mb-0">
+                        Our store bridges the gap between top manufacturers and end-users by providing certified products with quick fulfillment. Whether equipping an industrial plant or upgrading a local shop, we deliver reliability in every package.
+                    </p>
+                </div>
+                <div class="col-md-6">
+                    <p class="mb-2">
+                        We stock comprehensive solutions ranging from specialized <strong>automotive tools</strong> and cleaning machines to heavy-duty <strong>industrial equipment</strong>. Every item in our inventory is thoroughly vetted to guarantee continuous uptime and maximal job-site productivity.
+                    </p>
+                    <p class="mb-0">
+                        Serving both institutional <strong>business customers</strong> requiring GST-compliant bulk orders and <strong>individual customers</strong> seeking professional tools, Haryana Tools stands as India's premier online tool store destination.
+                    </p>
+                </div>
+            </div>
+        </section>
+
+        <!-- 7. DELIVERY LOCATIONS SECTION -->
+        <section id="delivery-locations" class="bg-primary-subtle border border-primary-subtle p-4 rounded-3 mb-5">
+            <h2 class="h4 fw-bold text-primary-emphasis mb-2"><i class="bi bi-geo-alt-fill me-1"></i> Pan-India Shipping & Delivery Network</h2>
+            <p class="mb-0 text-dark">
+                As a prominent regional and national <strong>tool supplier in India</strong>, Haryana Tools operates a swift fulfillment network shipping across all major industrial belts. We provide rapid dispatch to <strong>Haryana</strong>, <strong>Punjab</strong>, <strong>Delhi NCR</strong>, <strong>Rajasthan</strong>, <strong>Uttar Pradesh</strong>, <strong>Himachal Pradesh</strong>, and <strong>Uttarakhand</strong>, alongside express logistics coverage across all Indian states and Union Territories. Learn more about transit times on our <a href="shipping.html" class="fw-semibold text-primary">shipping policy page</a>.
+            </p>
+        </section>
+
+        <!-- 8. FREQUENTLY ASKED QUESTIONS SECTION -->
+        <section id="faq-section" class="mb-5">
+            <div class="mb-4">
+                <h2 class="h3 fw-bold mb-1">Frequently Asked Questions</h2>
+                <p class="text-muted mb-0">Find quick answers regarding orders, shipping, GST invoices, and warranties.</p>
+            </div>
+            <div class="accordion shadow-sm" id="seoFaqAccordion">
+                
+                <!-- FAQ 1 -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="faqHeadingOne">
+                        <button class="accordion-button fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseOne" aria-expanded="true" aria-controls="faqCollapseOne">
+                            How fast is shipping and delivery across India?
+                        </button>
+                    </h3>
+                    <div id="faqCollapseOne" class="accordion-collapse collapse show" aria-labelledby="faqHeadingOne" data-bs-parent="#seoFaqAccordion">
+                        <div class="accordion-body text-secondary">
+                            We dispatch orders within 24 to 48 hours. Express shipping to major hubs in Haryana, Punjab, Delhi NCR, and neighboring states takes 2–4 business days, while nationwide delivery typically arrives within 4–7 business days depending on logistics routes. Visit our <a href="shipping.html">shipping page</a> for details.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 2 -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="faqHeadingTwo">
+                        <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseTwo" aria-expanded="false" aria-controls="faqCollapseTwo">
+                            Are all power tools and hand tools genuine?
+                        </button>
+                    </h3>
+                    <div id="faqCollapseTwo" class="accordion-collapse collapse" aria-labelledby="faqHeadingTwo" data-bs-parent="#seoFaqAccordion">
+                        <div class="accordion-body text-secondary">
+                            Yes, 100% of our products are brand new, original, and sourced directly from verified manufacturers including Bosch, Makita, DeWALT, Stanley, and Eastman. Every product comes with brand serial verification and complete manufacturer warranty support.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 3 -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="faqHeadingThree">
+                        <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseThree" aria-expanded="false" aria-controls="faqCollapseThree">
+                            Can I get a GST Tax Invoice for my business purchase?
+                        </button>
+                    </h3>
+                    <div id="faqCollapseThree" class="accordion-collapse collapse" aria-labelledby="faqHeadingThree" data-bs-parent="#seoFaqAccordion">
+                        <div class="accordion-body text-secondary">
+                            Absolutely. During checkout, simply enter your company name and GSTIN number. We generate a formal GST tax invoice for every order so your business can seamlessly claim Input Tax Credit (ITC) under Indian tax laws.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 4 -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="faqHeadingFour">
+                        <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFour" aria-expanded="false" aria-controls="faqCollapseFour">
+                            How do bulk orders and wholesale discounts work?
+                        </button>
+                    </h3>
+                    <div id="faqCollapseFour" class="accordion-collapse collapse" aria-labelledby="faqHeadingFour" data-bs-parent="#seoFaqAccordion">
+                        <div class="accordion-body text-secondary">
+                            We offer tier-based wholesale pricing for contractors, MSMEs, workshops, and educational institutions. Contact our commercial sales team via our <a href="contact.html">contact form</a> with your requirements to receive a customized bulk quotation within 24 hours.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 5 -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="faqHeadingFive">
+                        <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseFive" aria-expanded="false" aria-controls="faqCollapseFive">
+                            What warranty coverage applies to purchased machinery?
+                        </button>
+                    </h3>
+                    <div id="faqCollapseFive" class="accordion-collapse collapse" aria-labelledby="faqHeadingFive" data-bs-parent="#seoFaqAccordion">
+                        <div class="accordion-body text-secondary">
+                            All power tools and equipment carry standard manufacturer warranties ranging from 6 to 12 months. In the rare case of a defect, customers can visit any brand-authorized service center across India with our original GST invoice.
+                        </div>
+                    </div>
+                </div>
+
+                <!-- FAQ 6 -->
+                <div class="accordion-item">
+                    <h3 class="accordion-header" id="faqHeadingSix">
+                        <button class="accordion-button collapsed fw-semibold" type="button" data-bs-toggle="collapse" data-bs-target="#faqCollapseSix" aria-expanded="false" aria-controls="faqCollapseSix">
+                            What is the policy regarding returns and replacements?
+                        </button>
+                    </h3>
+                    <div id="faqCollapseSix" class="accordion-collapse collapse" aria-labelledby="faqHeadingSix" data-bs-parent="#seoFaqAccordion">
+                        <div class="accordion-body text-secondary">
+                            We maintain a hassle-free replacement policy for items damaged during transit or defective upon arrival. Simply notify our customer support team within 7 days of delivery with unboxing photos or video evidence. Read full details on our <a href="returns.html">return policy page</a>.
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </section>
+
+        <!-- EXISTING BLOGS SECTION (PRESERVED) -->
         <section class="my-5">
             <div class="row mb-4">
                 <div class="col-12 text-center">
@@ -53,16 +426,17 @@
                 </div>
             </div>
         </section>
+
     </main>
 
     <!-- Footer Placeholder -->
     <div id="footer-placeholder"></div>
 
     <!-- Bootstrap 5 JS Bundle -->
-    <script src="src/js/bootstrap.bundle.min.js"></script>
+    <script src="../1/"></script>
     
     <!-- Scripts -->
-    <script src="src/js/layout.js" type="module"></script>
+    <script src="../src/js/layout.js" type="module"></script>
     <script src="src/js/home.js" type="module"></script>
    
 </body>

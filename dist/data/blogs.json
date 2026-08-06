@@ -1086,5 +1086,77 @@
     "category": "Income Tax",
     "image": "https://images.unsplash.com/photo-1554224154-26032ffc0d07?w=1200",
     "excerpt": "Discover how Haryana.Tools helps individuals and businesses file Income Tax Returns online quickly and accurately."
+  },
+  {
+    "slug": "Slug",
+    "title": "Title",
+    "date": "PublishDate",
+    "category": "Category",
+    "image": "Featured Image",
+    "excerpt": "Excerpt"
+  },
+  {
+    "slug": "how-to-choose-adjustable-wrench",
+    "title": "How to Choose the Right Adjustable Wrench",
+    "date": "2026-05-03",
+    "category": "Buying Guide",
+    "image": "https://images.unsplash.com/photo-1581147036324-c1c0d5b4f2f0?w=900",
+    "excerpt": "Learn how to choose the best adjustable wrench based on jaw size, build quality, and intended applications."
+  },
+  {
+    "slug": "best-screwdriver-set-buying-guide",
+    "title": "Best Screwdriver Set Buying Guide",
+    "date": "2026-05-04",
+    "category": "Buying Guide",
+    "image": "https://images.unsplash.com/photo-1581092919535-7146ff1a5907?w=900",
+    "excerpt": "Compare screwdriver types and learn how to buy the best screwdriver set for professionals and DIY users."
+  },
+  {
+    "slug": "combination-spanner-vs-ring-spanner",
+    "title": "Combination Spanner vs Ring Spanner",
+    "date": "2026-05-05",
+    "category": "Comparison",
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=900",
+    "excerpt": "Compare combination spanners and ring spanners to understand which is best for different fastening jobs."
+  },
+  {
+    "slug": "types-of-hammers-and-their-uses",
+    "title": "Types of Hammers and Their Uses",
+    "date": "2026-05-06",
+    "category": "Educational",
+    "image": "https://images.unsplash.com/photo-1504307651254-35680f356dfd?w=900",
+    "excerpt": "Learn about claw hammers, ball pein hammers, rubber mallets, sledgehammers, and their applications."
+  },
+  {
+    "slug": "hand-tool-maintenance-guide",
+    "title": "Hand Tool Maintenance Guide",
+    "date": "2026-05-07",
+    "category": "Maintenance",
+    "image": "https://images.unsplash.com/photo-1504148455328-c376907d081c?w=900",
+    "excerpt": "Learn how to clean, lubricate, sharpen, and store hand tools for maximum lifespan."
+  },
+  {
+    "slug": "pliers-buying-guide",
+    "title": "Pliers Buying Guide: Types and Uses",
+    "date": "2026-05-08",
+    "category": "Buying Guide",
+    "image": "https://images.unsplash.com/photo-1509395176047-4a66953fd231?w=900",
+    "excerpt": "Learn about different types of pliers and how to choose the right one for electrical and mechanical work."
+  },
+  {
+    "slug": "measuring-tools-guide",
+    "title": "Measuring Tools Every Workshop Should Have",
+    "date": "2026-05-09",
+    "category": "Educational",
+    "image": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=900",
+    "excerpt": "Discover essential measuring tools required for fabrication, maintenance, woodworking, and engineering workshops."
+  },
+  {
+    "slug": "essential-hand-tools-for-home",
+    "title": "15 Essential Hand Tools Every Home Should Have",
+    "date": "2026-05-10",
+    "category": "Educational",
+    "image": "https://images.unsplash.com/photo-1581092160607-ee22621dd758?w=900",
+    "excerpt": "Discover the essential hand tools every home should have for maintenance, repairs, and emergencies."
   }
 ]

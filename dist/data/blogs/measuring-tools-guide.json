@@ -1,20 +1,19 @@
 {
-  "Title": "Measuring Tools Guide",
+  "Title": "Measuring Tools Every Workshop Should Have",
   "Slug": "measuring-tools-guide",
   "Author": "JK Enterprises",
-  "Date": "2026-07-22",
-  "Category": "Hand Tools",
+  "Date": "2026-05-09",
+  "Category": "Educational",
   "Subcategory": "Measuring Tools",
   "Tags": [
-    "measuring tools",
-    "power tools",
-    "industrial tools",
-    "buying guide"
+    "measuring tape",
+    "vernier caliper",
+    "steel rule"
   ],
   "MarkdownFile": "measuring-tools-guide.md",
-  "FeaturedImage": "https://images.unsplash.com/photo-1703756291638-b1774ae3c186?w=900&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVhc3VyaW5nJTIwdGFwZXxlbnwwfHwwfHx8MA%3D%3D",
+  "FeaturedImage": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?w=900",
   "RelatedProducts": [],
-  "SEOTitle": "Measuring Tools Guide",
-  "MetaDescription": "Complete guide about measuring tools including features, applications, buying tips and maintenance.",
+  "SEOTitle": "Measuring Tools Every Workshop Should Have",
+  "MetaDescription": "Discover essential measuring tools required for fabrication, maintenance, woodworking, and engineering workshops.",
   "CanonicalURL": "https://www.haryana.tools/blogs/measuring-tools-guide.html"
 }

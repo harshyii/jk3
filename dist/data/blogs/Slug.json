@@ -1,0 +1,17 @@
+{
+  "Title": "Title",
+  "Slug": "Slug",
+  "Author": "Author",
+  "Date": "PublishDate",
+  "Category": "Category",
+  "Subcategory": "Subcategory",
+  "Tags": [
+    "Tags"
+  ],
+  "MarkdownFile": "ContentFile",
+  "FeaturedImage": "Featured Image",
+  "RelatedProducts": [],
+  "SEOTitle": "Title",
+  "MetaDescription": "Excerpt",
+  "CanonicalURL": "https://www.haryana.tools/blogs/Slug.html"
+}

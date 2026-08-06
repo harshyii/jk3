@@ -32359,6 +32359,177 @@
     }
   },
   {
+    "type": "blog",
+    "slug": "Slug",
+    "title": "Title | JK Enterprises | Haryana Tools",
+    "description": "Excerpt",
+    "canonical": "https://www.haryanatools.com/blogs/Slug.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Title",
+      "author": {
+        "@type": "Person",
+        "name": "Author"
+      },
+      "datePublished": "PublishDate",
+      "description": "Excerpt",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/Slug.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "how-to-choose-adjustable-wrench",
+    "title": "How to Choose the Right Adjustable Wrench | JK Enterprises | Haryana Tools",
+    "description": "Learn how to choose the best adjustable wrench based on jaw size, build quality, and intended applications.",
+    "canonical": "https://www.haryanatools.com/blogs/how-to-choose-adjustable-wrench.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "How to Choose the Right Adjustable Wrench",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46145,
+      "description": "Learn how to choose the best adjustable wrench based on jaw size, build quality, and intended applications.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/how-to-choose-adjustable-wrench.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "best-screwdriver-set-buying-guide",
+    "title": "Best Screwdriver Set Buying Guide | JK Enterprises | Haryana Tools",
+    "description": "Compare screwdriver types and learn how to buy the best screwdriver set for professionals and DIY users.",
+    "canonical": "https://www.haryanatools.com/blogs/best-screwdriver-set-buying-guide.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Best Screwdriver Set Buying Guide",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46146,
+      "description": "Compare screwdriver types and learn how to buy the best screwdriver set for professionals and DIY users.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/best-screwdriver-set-buying-guide.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "combination-spanner-vs-ring-spanner",
+    "title": "Combination Spanner vs Ring Spanner | JK Enterprises | Haryana Tools",
+    "description": "Compare combination spanners and ring spanners to understand which is best for different fastening jobs.",
+    "canonical": "https://www.haryanatools.com/blogs/combination-spanner-vs-ring-spanner.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Combination Spanner vs Ring Spanner",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46147,
+      "description": "Compare combination spanners and ring spanners to understand which is best for different fastening jobs.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/combination-spanner-vs-ring-spanner.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "types-of-hammers-and-their-uses",
+    "title": "Types of Hammers and Their Uses | JK Enterprises | Haryana Tools",
+    "description": "Learn about claw hammers, ball pein hammers, rubber mallets, sledgehammers, and their applications.",
+    "canonical": "https://www.haryanatools.com/blogs/types-of-hammers-and-their-uses.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Types of Hammers and Their Uses",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46148,
+      "description": "Learn about claw hammers, ball pein hammers, rubber mallets, sledgehammers, and their applications.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/types-of-hammers-and-their-uses.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "hand-tool-maintenance-guide",
+    "title": "Hand Tool Maintenance Guide | JK Enterprises | Haryana Tools",
+    "description": "Learn how to clean, lubricate, sharpen, and store hand tools for maximum lifespan.",
+    "canonical": "https://www.haryanatools.com/blogs/hand-tool-maintenance-guide.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Hand Tool Maintenance Guide",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46149,
+      "description": "Learn how to clean, lubricate, sharpen, and store hand tools for maximum lifespan.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/hand-tool-maintenance-guide.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "pliers-buying-guide",
+    "title": "Pliers Buying Guide: Types and Uses | JK Enterprises | Haryana Tools",
+    "description": "Learn about different types of pliers and how to choose the right one for electrical and mechanical work.",
+    "canonical": "https://www.haryanatools.com/blogs/pliers-buying-guide.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Pliers Buying Guide: Types and Uses",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46150,
+      "description": "Learn about different types of pliers and how to choose the right one for electrical and mechanical work.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/pliers-buying-guide.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "measuring-tools-guide",
+    "title": "Measuring Tools Every Workshop Should Have | JK Enterprises | Haryana Tools",
+    "description": "Discover essential measuring tools required for fabrication, maintenance, woodworking, and engineering workshops.",
+    "canonical": "https://www.haryanatools.com/blogs/measuring-tools-guide.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "Measuring Tools Every Workshop Should Have",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46151,
+      "description": "Discover essential measuring tools required for fabrication, maintenance, woodworking, and engineering workshops.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/measuring-tools-guide.html"
+    }
+  },
+  {
+    "type": "blog",
+    "slug": "essential-hand-tools-for-home",
+    "title": "15 Essential Hand Tools Every Home Should Have | JK Enterprises | Haryana Tools",
+    "description": "Discover the essential hand tools every home should have for maintenance, repairs, and emergencies.",
+    "canonical": "https://www.haryanatools.com/blogs/essential-hand-tools-for-home.html",
+    "schema": {
+      "@context": "https://schema.org/",
+      "@type": "BlogPosting",
+      "headline": "15 Essential Hand Tools Every Home Should Have",
+      "author": {
+        "@type": "Person",
+        "name": "JK Enterprises"
+      },
+      "datePublished": 46152,
+      "description": "Discover the essential hand tools every home should have for maintenance, repairs, and emergencies.",
+      "mainEntityOfPage": "https://www.haryanatools.com/blogs/essential-hand-tools-for-home.html"
+    }
+  },
+  {
     "type": "category",
     "slug": "power-tools",
     "title": "Power Tools Online | Haryana.Tools",

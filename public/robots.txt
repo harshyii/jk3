@@ -8,3 +8,13 @@ Sitemap: https://www.yourdomain.com/sitemap.xml
 Disallow: /checkout
 Disallow: /cart
 Disallow: /api/
+
+User-agent: *
+Allow: /
+
+Sitemap: https://haryana.tools/sitemap.xml
+Sitemap: https://haryana.tools/sitemap-products.xml
+Sitemap: https://haryana.tools/sitemap-blogs.xml
+
+# RSS
+Sitemap: https://haryana.tools/rss.xml

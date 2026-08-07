@@ -61,6 +61,11 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://www.haryana.tools/privacy.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://www.haryana.tools/product.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>

@@ -1,14 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-
+    <title>Industrial Power Tools & Hardware Catalog | Haryana Tools</title>
+    <meta name="description" content="Browse our complete catalog of industrial power tools, heavy machinery, precision hand tools, and solar equipment with verified GST invoices.">
+    
+    
     <div id="head-placeholder"></div>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industrial Power Tools & Hardware Catalog | Haryana Tools</title>
+    
     <link rel="stylesheet" href="../src/css/bootstrap.min.css">
     <link rel="stylesheet" href="../src/css/app.css">
-    <meta name="description" content="Browse our complete catalog of industrial power tools, heavy machinery, precision hand tools, and solar equipment with verified GST invoices.">
 </head>
 <body class="bg-light">
     
@@ -156,5 +158,58 @@
     <script src="../src/js/layout.js" type="module"></script>
     <script src="../src/js/bootstrap.bundle.min.js"></script>
     <script src="../src/js/product.js" type="module"></script>
+
+    <!-- ALT-FIX-SCRIPT -->
+    <script>
+    document.addEventListener("DOMContentLoaded", function() {
+        const productImages = document.querySelectorAll("img");
+        productImages.forEach(img => {
+            if (!img.alt || img.alt.trim() === "" || img.alt.includes("{{")) {
+                const titleText = document.querySelector("h1") ? document.querySelector("h1").innerText : "Industrial Product";
+                img.alt = titleText + " - Haryana Tools Pehowa";
+            }
+        });
+    });
+    </script>
+    
+   
+<script>
+(function() {
+    function fixMissingAlts() {
+        // Get current product name from H1 or fallback to page heading
+        const productNameEl = document.querySelector('h1') || document.querySelector('.product-title');
+        const productName = productNameEl ? productNameEl.innerText.strip() : 'Industrial Tool Equipment';
+        
+        document.querySelectorAll('img').forEach((img, index) => {
+            if (!img.getAttribute('alt') || img.getAttribute('alt').trim() === '' || img.getAttribute('alt').includes('{{')) {
+                // Determine context from image ID, class, or position
+                if (img.id === 'main-product-img' || img.classList.contains('main-image')) {
+                    img.alt = `${productName} - Main View | Haryana Tools`;
+                } else if (img.classList.contains('thumbnail') || img.closest('.gallery')) {
+                    img.alt = `${productName} - Detail View ${index + 1} | Haryana Tools`;
+                } else if (img.closest('.related-products') || img.classList.contains('related-img')) {
+                    img.alt = `Related Industrial Tool - Haryana Tools`;
+                } else {
+                    img.alt = `${productName} - Industrial Equipment | Haryana Tools`;
+                }
+            }
+        });
+    }
+
+    // Run on initial page load
+    document.addEventListener('DOMContentLoaded', fixMissingAlts);
+
+    // Observe dynamic JS insertions (Product details loaded via API/SKU fetch)
+    const observer = new MutationObserver(function(mutations) {
+        fixMissingAlts();
+    });
+
+    observer.observe(document.body, {
+        childList: true,
+        subtree: true
+    });
+})();
+</script>
+
 </body>
 </html>

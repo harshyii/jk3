@@ -155,63 +155,58 @@ function renderProductDetails(product) {
     renderImageGallery(imagesList, productName);
     initActionButtons(product);
 
-
-
     function updatePageMetaTags(product) {
-    const productName = product.title || product.Name || product.name || 'Haryana Tools Product';
-    const rawPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.salePrice ?? product.price ?? product.MRP ?? 0;
-    const salePrice = parseNumericPrice(rawPrice);
-    const productDesc = product.description || product.Description || product.DetailedInfo || `Buy ${productName} at the best price on Haryana Tools.`;
-    
-    // Clean description text from HTML tags for meta description
-    const tempDiv = document.createElement('div');
-    tempDiv.innerHTML = productDesc;
-    const cleanDesc = (tempDiv.textContent || tempDiv.innerText || '').substring(0, 160);
-
-    const imagesList = product.image_urls || product.Images || product.images || [product.image_url_1 || product.Image || product.image];
-    const productImage = imagesList && imagesList.length > 0 ? imagesList[0] : '404.webp';
-    
-    // Make image URL absolute if it's relative (recommended for social sharing crawlers)
-    const absoluteImageUrl = productImage.startsWith('http') ? productImage : new URL(productImage, window.location.origin).href;
-    const currentUrl = window.location.href;
-
-    // Update standard title
-    document.title = `${productName} - ₹${salePrice.toLocaleString('en-IN')} | Haryana Tools`;
-
-    // Helper to safely set or create meta tags
-    const setMetaTag = (propertyAttr, attrName, value) => {
-        if (!value) return;
-        let selector = propertyAttr ? `meta[property="${propertyAttr}"]` : `meta[name="${attrName}"]`;
-        let tag = document.querySelector(selector);
+        const productName = product.title || product.Name || product.name || 'Haryana Tools Product';
+        const rawPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.salePrice ?? product.price ?? product.MRP ?? 0;
+        const salePrice = parseNumericPrice(rawPrice);
+        const productDesc = product.description || product.Description || product.DetailedInfo || `Buy ${productName} at the best price on Haryana Tools.`;
         
-        if (!tag) {
-            tag = document.createElement('meta');
-            if (propertyAttr) tag.setAttribute('property', propertyAttr);
-            if (attrName) tag.setAttribute('name', attrName);
-            document.head.appendChild(tag);
-        }
-        tag.setAttribute('content', value);
-    };
+        // Clean description text from HTML tags for meta description
+        const tempDiv = document.createElement('div');
+        tempDiv.innerHTML = productDesc;
+        const cleanDesc = (tempDiv.textContent || tempDiv.innerText || '').substring(0, 160);
 
-    // Standard SEO Meta
-    setMetaTag(null, 'description', cleanDesc);
+        const imagesList = product.image_urls || product.Images || product.images || [product.image_url_1 || product.Image || product.image];
+        const productImage = imagesList && imagesList.length > 0 ? imagesList[0] : '404.webp';
+        
+        // Make image URL absolute if it's relative
+        const absoluteImageUrl = productImage.startsWith('http') ? productImage : new URL(productImage, window.location.origin).href;
+        const currentUrl = window.location.href;
 
-    // Open Graph / Facebook / WhatsApp Meta Tags
-    setMetaTag('og:title', null, `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
-    setMetaTag('og:description', null, cleanDesc);
-    setMetaTag('og:image', null, absoluteImageUrl);
-    setMetaTag('og:url', null, currentUrl);
-    setMetaTag('og:type', null, 'product');
+        // Update standard title
+        document.title = `${productName} - ₹${salePrice.toLocaleString('en-IN')} | Haryana Tools`;
 
-    // Twitter Card Meta Tags
-    setMetaTag(null, 'twitter:card', 'summary_large_image');
-    setMetaTag(null, 'twitter:title', `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
-    setMetaTag(null, 'twitter:description', cleanDesc);
-    setMetaTag(null, 'twitter:image', absoluteImageUrl);
-}
+        // Helper to safely set or create meta tags
+        const setMetaTag = (propertyAttr, attrName, value) => {
+            if (!value) return;
+            let selector = propertyAttr ? `meta[property="${propertyAttr}"]` : `meta[name="${attrName}"]`;
+            let tag = document.querySelector(selector);
+            
+            if (!tag) {
+                tag = document.createElement('meta');
+                if (propertyAttr) tag.setAttribute('property', propertyAttr);
+                if (attrName) tag.setAttribute('name', attrName);
+                document.head.appendChild(tag);
+            }
+            tag.setAttribute('content', value);
+        };
 
+        // Standard SEO Meta
+        setMetaTag(null, 'description', cleanDesc);
 
+        // Open Graph / Facebook / WhatsApp Meta Tags
+        setMetaTag('og:title', null, `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
+        setMetaTag('og:description', null, cleanDesc);
+        setMetaTag('og:image', null, absoluteImageUrl);
+        setMetaTag('og:url', null, currentUrl);
+        setMetaTag('og:type', null, 'product');
 
+        // Twitter Card Meta Tags
+        setMetaTag(null, 'twitter:card', 'summary_large_image');
+        setMetaTag(null, 'twitter:title', `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
+        setMetaTag(null, 'twitter:description', cleanDesc);
+        setMetaTag(null, 'twitter:image', absoluteImageUrl);
+    }
 }
 
 function renderImageGallery(images, productName) {
@@ -222,15 +217,19 @@ function renderImageGallery(images, productName) {
 
     if (mainImageEl) {
         mainImageEl.src = primaryImg;
-        mainImageEl.alt = productName;
-        mainImageEl.onerror = function() { this.src = '404.webp'; };
+        // Updated: Descriptive primary image alt tag
+        mainImageEl.alt = `${escapeHtml(productName)} - Main View | Haryana Tools`;
+        mainImageEl.onerror = function() { 
+            this.src = '404.webp'; 
+            this.alt = 'Product image placeholder';
+        };
     }
 
     if (thumbnailContainer) {
         if (validImages.length > 1) {
             thumbnailContainer.innerHTML = validImages.map((img, idx) => `
                 <div class="p-1 border rounded cursor-pointer thumb-item ${idx === 0 ? 'border-primary' : ''}" style="width: 70px; height: 70px;" onclick="changeMainImage('${img}', this)">
-                    <img src="${img}" alt="" class="w-100 h-100 object-fit-contain" onerror="this.src='404.webp'">
+                    <img src="${img}" alt="${escapeHtml(productName)} - Alternate View ${idx + 1}" class="w-100 h-100 object-fit-contain" onerror="this.src='404.webp'">
                 </div>
             `).join('');
             thumbnailContainer.style.display = 'flex';
@@ -333,7 +332,7 @@ function renderRelatedProducts(currentProduct, catalog) {
                 <div class="card h-100 product-card shadow-sm border-0">
                     <a href="product.html?sku=${productSku}" class="text-decoration-none">
                         <div class="product-img-wrapper position-relative overflow-hidden" style="height: 160px; background-color: #f8f9fa;">
-                            <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='404.webp'">
+                            <img src="${productImg}" alt="${escapeHtml(productName)} - Industrial Tool" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='404.webp'">
                         </div>
                     </a>
                     <div class="card-body d-flex flex-column p-3">
@@ -370,8 +369,6 @@ function initActionButtons(product) {
             const qty = qtyInput ? parseInt(qtyInput.value) || 1 : 1;
             addToCartAction(product, qty);
             const productName = product.title || product.Name || product.name || 'Product';
-            
-            // Limit active toast notifications to a maximum of 2-3 at a time
             showCappedButtonToast(`${productName} added to cart!`);
         });
     }
@@ -387,7 +384,6 @@ function showCappedButtonToast(message) {
         document.body.appendChild(container);
     }
 
-    // Cap existing toasts to a maximum of 2, removing the oldest one if exceeded
     const existingToasts = container.querySelectorAll('.toast');
     if (existingToasts.length >= 2) {
         existingToasts[0].remove();
@@ -513,11 +509,9 @@ async function loadAndRenderComments(sku) {
         console.warn('Could not fetch remote reviews, falling back to local cache.', err);
     }
 
-    // Always merge local reviews with server reviews to ensure instant visibility after posting
     const storageKey = `ht_comments_${sku}`;
     const localComments = JSON.parse(localStorage.getItem(storageKey) || '[]');
     
-    // Combine and deduplicate based on text, author, and rating
     const combinedMap = new Map();
     [...comments, ...localComments].forEach(c => {
         const key = `${c.author}_${c.rating}_${c.text}`;

@@ -11,7 +11,16 @@ function escapeHtml(str) {
 }
 
 function updateBlogMetaTags(metaInfo) {
-    const title = metaInfo.title ? `${metaInfo.title} - Haryana Tools Blog` : 'Blog - Haryana Tools';
+    const brandSuffix = ' - Haryana Tools';
+    let rawTitle = metaInfo.title || 'Blog';
+    
+    // FIX 1: Enforce strict 60-character limit on document title for SEO
+    let title = `${rawTitle}${brandSuffix}`;
+    if (title.length > 60) {
+        const availableLen = 60 - brandSuffix.length - 3;
+        title = `${rawTitle.substring(0, availableLen).trim()}...${brandSuffix}`;
+    }
+
     const description = metaInfo.description || 'Explore expert guides, industrial tool tips, and industry insights from Haryana Tools.';
     const currentUrl = window.location.href;
     
@@ -153,6 +162,11 @@ document.addEventListener('DOMContentLoaded', async () => {
                 renderedHtml = markdownContent.replace(/\n\n/g, '<br><br>');
             }
 
+            // FIX 2: Demote any duplicate <h1> tags inside parsed markdown body down to <h2>
+            renderedHtml = renderedHtml
+                .replace(/<h1(\s*[^>]*)>/gi, '<h2$1>')
+                .replace(/<\/h1>/gi, '</h2>');
+
             if (singleImage) {
                 const tempDiv = document.createElement('div');
                 tempDiv.innerHTML = renderedHtml;
@@ -175,7 +189,7 @@ document.addEventListener('DOMContentLoaded', async () => {
         } else {
             // 👉 Set default metadata for main blog listing page feed
             updateBlogMetaTags({
-                title: 'Industrial Tools & Equipment Blog Feed',
+                title: 'Industrial Tools Feed',
                 description: 'Explore expert guides, industrial tool usage tips, and industry updates from Haryana Tools.',
                 isArticle: false
             });

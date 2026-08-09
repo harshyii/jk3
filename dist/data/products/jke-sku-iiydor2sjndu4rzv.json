@@ -2,8 +2,8 @@
   "asin": "JKE-SKU-IIYDOR2SJNDU4RZV",
   "title": "Bosch BTD40MS 40 Pc. Metric Tap & Die Set",
   "brand": "Bosch",
-  "current_price": 32778.23,
-  "mrp": 52445.17,
+  "current_price": 32779,
+  "mrp": 52446,
   "product_url": "https://www.amazon.in/Bosch-BTD40MS-Pc-Metric-Tap/dp/B07GRKGNG5/ref=sr_1_149",
   "description": "Great for overhead drilling or hard-to-reach applications. Rigid shaft construction ensures straight, precise drilling. Black oxide coating resists corrosion.",
   "image_urls": [
@@ -47,6 +47,6 @@
   "StockQuantity": 0,
   "Unit": "PC",
   "Discount": 37.5,
-  "SalePrice": 32778.23,
+  "SalePrice": 32779,
   "Country": "‎USA"
 }

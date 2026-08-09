@@ -91,11 +91,6 @@
         <priority>0.7</priority>
     </url>
     <url>
-        <loc>https://haryana.tools/blogs/Slug.html</loc>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    <url>
         <loc>https://haryana.tools/blogs/air-compressor-buying-guide.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
@@ -587,6 +582,11 @@
     </url>
     <url>
         <loc>https://haryana.tools/blogs/school-holiday-diy-projects-kids.html</loc>
+        <changefreq>weekly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://haryana.tools/blogs/slug.html</loc>
         <changefreq>weekly</changefreq>
         <priority>0.7</priority>
     </url>

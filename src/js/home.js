@@ -23,7 +23,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     }
 });
 
-// Helper function to safely parse prices like '₹340.00' or '₹1,139' into clean numbers
+// Helper function to safely parse prices into clean numbers
 function parseNumericPrice(value) {
     if (value === undefined || value === null) return 0;
     if (typeof value === 'number') return isNaN(value) ? 0 : value;
@@ -32,76 +32,176 @@ function parseNumericPrice(value) {
     return isNaN(parsed) ? 0 : parsed;
 }
 
+// Helper function to extract a valid single image URL from pipe-separated strings ('url1 | url2') or arrays
+function getPrimaryImage(product) {
+    let rawImg = product.image_url_2 || product.image_url_1 || product.Image || product.image || '';
+
+    if (Array.isArray(rawImg)) {
+        rawImg = rawImg[0] || '';
+    }
+
+    if (typeof rawImg === 'string' && rawImg.includes('|')) {
+        rawImg = rawImg.split('|')[0].trim();
+    }
+
+    return (typeof rawImg === 'string' && rawImg.startsWith('http')) ? rawImg : '404.webp';
+}
+
+// Helper function to extract spec label and value (e.g., { label: "Length", value: "160mm" })
+function extractProductSpec(product, title) {
+    const specs = product.specifications || {};
+
+    // 1. Check direct JSON specifications first
+    if (specs['Item Length'] || specs['Length']) {
+        return { label: 'Length', value: specs['Item Length'] || specs['Length'] };
+    }
+    if (specs['Item Width'] || specs['Width']) {
+        return { label: 'Width', value: specs['Item Width'] || specs['Width'] };
+    }
+    if (specs['Outside Diameter']) {
+        return { label: 'OD', value: specs['Outside Diameter'] };
+    }
+    if (specs['Diameter']) {
+        return { label: 'Dia', value: specs['Diameter'] };
+    }
+    if (specs['Size'] || product.size || product.Size) {
+        return { label: 'Size', value: specs['Size'] || product.size || product.Size };
+    }
+    if (specs['Item Dimensions L x W']) {
+        return { label: 'Dim', value: specs['Item Dimensions L x W'] };
+    }
+
+    // 2. Fallback regex analysis from title context
+    const titleStr = String(title);
+
+    // Detect specific dimension keywords in title
+    if (/length/i.test(titleStr)) {
+        const match = titleStr.match(/(\d+(\.\d+)?\s*(mm|cm|m|ft|feet|inch|"|in))/i);
+        if (match) return { label: 'Length', value: match[0] };
+    }
+    if (/width/i.test(titleStr)) {
+        const match = titleStr.match(/(\d+(\.\d+)?\s*(mm|cm|m|ft|feet|inch|"|in))/i);
+        if (match) return { label: 'Width', value: match[0] };
+    }
+
+    // Catch general dimensions in product titles (e.g., 160mm, 6 Feet, 3/4", 1")
+    const genericMatch = titleStr.match(/(\d+(\.\d+)?\s*(feet|ft|meter|m|cm|mm|inch|"|in)|(\d+\/\d+\s*(inch|")))/i);
+    if (genericMatch) {
+        let label = 'Size';
+        // Infer 'Length' for tools like pliers, blades, saws, wrenches when given in mm/cm
+        if (/(plier|wrench|blade|saw|cutter|spanner|driver|file)/i.test(titleStr) && /(mm|cm|m|ft|feet)/i.test(genericMatch[0])) {
+            label = 'Length';
+        }
+        return { label: label, value: genericMatch[0] };
+    }
+
+    return null;
+}
+
 function renderFeaturedProducts(products) {
     const container = document.getElementById('product-grid');
     if (!container) return;
 
-    // Filter out items that lack images or have broken 404 images to ensure "better looking" items
+    // Filter out items that lack images or have broken 404 images
     const validProducts = products.filter(p => {
-        const img = p.image_url_1 || p.image || p.Image || '';
+        const img = getPrimaryImage(p);
         return img && img !== '404.webp' && !img.includes('placeholder');
     });
 
     const pool = validProducts.length > 0 ? validProducts : products;
 
-    // Shuffle pool using Fisher-Yates algorithm for true random display on every reload
+    // Shuffle pool using Fisher-Yates algorithm for random display on reload
     const shuffled = [...pool];
     for (let i = shuffled.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
         [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
     }
 
-    // Select top 8 random products with nice visual presentation criteria
     let featured = shuffled.slice(0, 12);
 
     if (featured.length === 0) {
-        container.innerHTML = '<p class="text-center text-muted">No products available at the moment.</p>';
+        container.innerHTML = '<p class="text-center text-muted col-12 py-4">No products available at the moment.</p>';
         return;
     }
 
     container.innerHTML = featured.map(product => {
-        const productSku = product.sku || product.SKU || product.asin || product.ASIN || '';
-        const productName = product.title || product.Name || product.name || '';
-        const productImg = product.image_url_1 || product.image || product.Image || '404.webp';
+        const productSku = product.SKU || product.sku || product.asin || product.ASIN || '';
+        const productName = product.Name || product.title || product.name || 'Product';
+        const productBrand = product.brand || product.Brand || (product.specifications && product.specifications['Brand Name']) || 'Eastman';
+        const productImg = getPrimaryImage(product);
         
-        const rawPrice = product.current_price ?? product["Sale Price"] ?? product.SalePrice ?? product.price ?? product.MRP ?? 0;
-        const productPrice = parseNumericPrice(rawPrice);
+        // Extract labeled specification object (e.g., { label: "Length", value: "160mm" })
+        const spec = extractProductSpec(product, productName);
 
-        // Fetch discount percentage if calculated by our pipeline script earlier
-        const discountPercentage = product.discount_percentage ? parseFloat(product.discount_percentage) : 0;
+        // Pricing & Discount calculation
+        const currentPrice = parseNumericPrice(product.current_price ?? product.SalePrice ?? product.price ?? 0);
+        const mrpPrice = parseNumericPrice(product.mrp ?? product.MRP ?? 0);
+        const discountPct = product.Discount || product.discount_percentage || (mrpPrice > currentPrice && mrpPrice > 0 ? Math.round(((mrpPrice - currentPrice) / mrpPrice) * 100) : 0);
 
-        const productUnit = product.unit || product.Unit || 'PC';
-        const productBrand = product.brand || product.Brand || 'General';
+        const productUnit = product.Unit || product.unit || '1 Count';
 
         return `
             <div class="col-6 col-md-4 col-lg-3 mb-4">
-                <div class="card h-100 product-card shadow-sm border-0 d-flex flex-column position-relative overflow-hidden hover-shadow transition">
-                    ${discountPercentage > 0 ? `<span class="badge bg-danger position-absolute top-0 start-0 m-2 z-2 px-2 py-1 shadow-sm">${Math.round(discountPercentage)}% OFF</span>` : ''}
-                    <a href="product.html?sku=${productSku}" class="text-decoration-none">
-                        <div class="product-img-wrapper position-relative overflow-hidden bg-white d-flex align-items-center justify-content-center" style="height: 210px;">
-                            <img src="${productImg}" alt="${escapeHtml(productName)}" class="w-100 h-100 object-fit-contain p-3 transition-transform" onerror="this.src='404.webp'">
-                        </div>
-                    </a>
-                    <div class="card-body d-flex flex-column p-3 bg-light bg-opacity-25">
-                        <span class="text-uppercase text-muted small fw-bold mb-1" style="font-size: 0.75rem; letter-spacing: 0.5px;">${escapeHtml(productBrand)}</span>
-                        <h5 class="card-title fs-6 mb-2 text-truncate-2" style="display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; height: 2.6em;">
-                            <a href="product.html?sku=${productSku}" class="text-dark text-decoration-none stretched-link">${escapeHtml(productName)}</a>
+                <div class="card h-100 product-card shadow-sm border-0 rounded-3 overflow-hidden d-flex flex-column">
+                    
+                    <!-- Image Wrapper with Top-Right Brand Badge & Top-Left Discount Badge -->
+                    <div class="product-img-wrapper position-relative overflow-hidden bg-white text-center p-3 d-flex align-items-center justify-content-center" style="height: 190px;">
+                        
+                        <!-- Top-Right Brand Badge -->
+                        <span class="position-absolute top-0 end-0 m-2 badge bg-dark bg-opacity-75 text-white text-uppercase fw-semibold px-2 py-1" style="font-size: 0.65rem; letter-spacing: 0.5px; z-index: 2;">
+                            ${escapeHtml(productBrand)}
+                        </span>
+
+                        <!-- Top-Left Discount Badge -->
+                        ${discountPct > 0 ? `
+                            <span class="position-absolute top-0 start-0 m-2 badge bg-danger text-white fw-bold px-2 py-1" style="font-size: 0.65rem; z-index: 2;">
+                                -${Math.round(discountPct)}% OFF
+                            </span>
+                        ` : ''}
+
+                        <a href="product.html?sku=${encodeURIComponent(productSku)}" class="w-100 h-100 d-flex align-items-center justify-content-center">
+                            <img src="${productImg}" alt="${escapeHtml(productName)}" class="mw-100 mh-100 object-fit-contain transition-transform" onerror="this.src='404.webp'">
+                        </a>
+                    </div>
+
+                    <!-- Card Body -->
+                    <div class="card-body d-flex flex-column p-3 bg-light">
+                        
+                        <!-- 2-Line Clamped Title -->
+                        <h5 class="card-title text-dark mb-2" 
+                            title="${escapeHtml(productName)}" 
+                            style="font-size: 0.85rem; line-height: 1.35; font-weight: 600; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; height: 2.3em;">
+                            <a href="product.html?sku=${encodeURIComponent(productSku)}" class="text-dark text-decoration-none">${escapeHtml(productName)}</a>
                         </h5>
-                        <div class="mt-auto pt-2">
+
+                        <!-- Labeled Spec Badge (e.g., Size: 1" or Length: 160mm) -->
+                        <div class="mb-2" style="min-height: 22px;">
+                            ${spec ? `
+                                <span class="badge bg-white text-primary border border-primary-subtle fw-bold px-2 py-1" style="font-size: 0.72rem;">
+                                    <i class="bi bi-ruler me-1"></i>${escapeHtml(spec.label)}: ${escapeHtml(spec.value)}
+                                </span>
+                            ` : ''}
+                        </div>
+
+                        <!-- Price & MRP Display -->
+                        <div class="mt-auto pt-2 border-top border-secondary-subtle">
                             <div class="d-flex align-items-baseline mb-2">
-                                <span class="fw-bold text-primary fs-5 me-2">₹${productPrice.toLocaleString('en-IN')}</span>
+                                <span class="fw-bold text-primary fs-6 me-2">₹${currentPrice.toLocaleString('en-IN')}</span>
+                                ${mrpPrice > currentPrice ? `<span class="text-muted text-decoration-line-through" style="font-size: 0.75rem;">₹${mrpPrice.toLocaleString('en-IN')}</span>` : ''}
                             </div>
+
                             <div class="d-flex gap-2 position-relative z-1">
-                                <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-secondary w-50 fw-semibold">View</a>
+                                <a href="product.html?sku=${encodeURIComponent(productSku)}" class="btn btn-sm btn-outline-secondary w-50 fw-semibold">View</a>
                                 <button class="btn btn-sm btn-primary w-50 home-add-to-cart-btn fw-semibold shadow-sm"
-                                    data-sku="${productSku}"
+                                    data-sku="${encodeURIComponent(productSku)}"
                                     data-name="${escapeHtml(productName)}"
-                                    data-price="${productPrice}"
+                                    data-price="${currentPrice}"
                                     data-image="${productImg}"
-                                    data-unit="${productUnit}"
+                                    data-unit="${escapeHtml(productUnit)}"
                                     type="button"><i class="bi bi-cart-plus me-1"></i> Add</button>
                             </div>
                         </div>
+
                     </div>
                 </div>
             </div>
@@ -117,14 +217,14 @@ function initHomeAddToCart(products) {
         const addBtn = e.target.closest('.home-add-to-cart-btn');
         if (!addBtn) return;
 
-        const sku = addBtn.dataset.sku;
+        const sku = decodeURIComponent(addBtn.dataset.sku);
         const name = addBtn.dataset.name;
         const price = parseNumericPrice(addBtn.dataset.price);
         const image = addBtn.dataset.image;
-        const unit = addBtn.dataset.unit || 'PC';
+        const unit = addBtn.dataset.unit || '1 Count';
 
         let cart = JSON.parse(localStorage.getItem('ht_cart') || '[]');
-        const existingIndex = cart.findIndex(item => item.sku === sku);
+        const existingIndex = cart.findIndex(item => String(item.sku) === String(sku));
 
         if (existingIndex > -1) {
             cart[existingIndex].quantity = (cart[existingIndex].quantity || cart[existingIndex].qty || 1) + 1;
@@ -195,7 +295,7 @@ function renderBlogs(blogs) {
 
     const latestBlogs = sortedBlogs.slice(0, 3);
     if (latestBlogs.length === 0) {
-        container.innerHTML = '<p class="text-center text-muted">No blog posts available.</p>';
+        container.innerHTML = '<p class="text-center text-muted col-12 py-4">No blog posts available.</p>';
         return;
     }
 
@@ -204,7 +304,7 @@ function renderBlogs(blogs) {
         let displayDate = (rawDate && isNaN(rawDate)) ? rawDate : 'Recent Guide';
         return `
             <div class="col-md-4 mb-4">
-                <div class="card h-100 shadow-sm border-0">
+                <div class="card h-100 shadow-sm border-0 rounded-3 overflow-hidden">
                     <div style="height: 160px; background-color: #f8f9fa; overflow: hidden;">
                         <img src="${blog.image || blog.FeaturedImage || '404.webp'}" alt="${escapeHtml(blog.title || blog.Title)}" class="w-100 h-100 object-fit-cover" onerror="this.src='404.webp'">
                     </div>
@@ -212,7 +312,7 @@ function renderBlogs(blogs) {
                         <small class="text-muted mb-1">${escapeHtml(displayDate)} &bull; ${escapeHtml(blog.category || blog.Category || 'General')}</small>
                         <h5 class="card-title fs-6 fw-bold mb-2">
                             <a href="blogs/${blog.slug || blog.Slug}.html" class="text-dark text-decoration-none stretched-link">${escapeHtml(blog.title || blog.Title)}</a>
-                      </h5>
+                        </h5>
                         <p class="card-text text-muted small mb-3">${escapeHtml(blog.excerpt || blog.MetaDescription || '')}</p>
                         <div class="mt-auto">
                             <a href="blogs/${blog.slug || blog.Slug}.html" class="text-decoration-none fw-semibold small position-relative z-1">Read More <i class="bi bi-arrow-right"></i></a>
@@ -240,10 +340,11 @@ function initializeSearch(products) {
         }
 
         const matches = products.filter(p => {
-            const pName = p.title || p.name || p.Name || '';
-            const pBrand = p.brand || p.Brand || '';
-            const pCat = p.category || p.Category || '';
-            return pName.toLowerCase().includes(query) || pBrand.toLowerCase().includes(query) || pCat.toLowerCase().includes(query);
+            const pName = p.Name || p.title || p.name || '';
+            const pBrand = p.brand || p.Brand || (p.specifications && p.specifications['Brand Name']) || '';
+            const pCat = p.Category || p.category || '';
+            const pSku = p.SKU || p.sku || p.asin || p.ASIN || '';
+            return pName.toLowerCase().includes(query) || pBrand.toLowerCase().includes(query) || pCat.toLowerCase().includes(query) || pSku.toLowerCase().includes(query);
         }).slice(0, 5);
 
         if (matches.length === 0) {
@@ -253,19 +354,19 @@ function initializeSearch(products) {
         }
 
         searchResults.innerHTML = matches.map(p => {
-            const productSku = p.sku || p.SKU || p.asin || p.ASIN || '';
-            const productName = p.title || p.name || p.Name || '';
-            const productImg = p.image_url_1 || p.image || p.Image || '404.webp';
+            const productSku = p.SKU || p.sku || p.asin || p.ASIN || '';
+            const productName = p.Name || p.title || p.name || '';
+            const productImg = getPrimaryImage(p);
             
-            const rawPrice = p.current_price ?? p["Sale Price"] ?? p.SalePrice ?? p.price ?? p.MRP ?? 0;
+            const rawPrice = p.current_price ?? p.SalePrice ?? p.price ?? 0;
             const productPrice = parseNumericPrice(rawPrice);
 
             return `
-                <a href="product.html?sku=${productSku}" class="dropdown-item d-flex align-items-center py-2 border-bottom">
-                    <img src="${productImg}" alt="" style="width: 40px; height: 40px; object-fit: contain;" class="me-2 bg-light rounded" onerror="this.src='404.webp'">
+                <a href="product.html?sku=${encodeURIComponent(productSku)}" class="dropdown-item d-flex align-items-center py-2 border-bottom">
+                    <img src="${productImg}" alt="" style="width: 40px; height: 40px; object-fit: contain;" class="me-2 bg-light rounded p-1" onerror="this.src='404.webp'">
                     <div class="text-truncate">
                         <div class="fw-semibold text-dark text-truncate" style="max-width: 250px;">${escapeHtml(productName)}</div>
-                        <small class="text-muted">₹${productPrice.toLocaleString('en-IN')}</small>
+                        <small class="text-primary fw-bold">₹${productPrice.toLocaleString('en-IN')}</small>
                     </div>
                 </a>
             `;

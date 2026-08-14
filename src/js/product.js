@@ -27,13 +27,13 @@ document.addEventListener('DOMContentLoaded', async () => {
         loadAndRenderComments(sku);
 
         // Path fallback logic for dynamic fetching
-        let response = await fetch(`data/products/${sku}.json`);
-        if (!response.ok) {
-            response = await fetch(`dist/data/products/${sku}.json`);
+        let response = await fetch(`data/products/${sku}.json`).catch(() => null);
+        if (!response || !response.ok) {
+            response = await fetch(`dist/data/products/${sku}.json`).catch(() => null);
         }
 
         // Secondary lookup in catalog.json if direct file fetch fails
-        if (!response.ok) {
+        if (!response || !response.ok) {
             const catalogRes = await fetch('data/catalog.json').catch(() => fetch('dist/data/catalog.json'));
             if (catalogRes && catalogRes.ok) {
                 const catalog = await catalogRes.json();
@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', async () => {
                 );
                 
                 if (matchedProduct) {
-                    const targetFile = matchedProduct.sku || matchedProduct.SKU || matchedProduct.slug;
+                    const targetFile = matchedProduct.sku || matchedProduct.SKU || matchedProduct.asin || matchedProduct.ASIN || matchedProduct.slug;
                     response = await fetch(`data/products/${targetFile}.json`)
                         .catch(() => fetch(`dist/data/products/${targetFile}.json`));
                 }
@@ -83,16 +83,6 @@ function renderProductDetails(product) {
     const productName = product.title || product.Name || product.name || 'Product';
     document.title = `${productName} - Haryana Tools`;
     updatePageMetaTags(product);
-    
-    const breadcrumbContainer = document.getElementById('product-breadcrumb');
-    if (breadcrumbContainer) {
-        const categoryName = product.Category || product.category || '';
-        breadcrumbContainer.innerHTML = `
-            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-            ${categoryName ? `<li class="breadcrumb-item"><a href="category.html?slug=${slugify(categoryName)}">${escapeHtml(categoryName)}</a></li>` : ''}
-            <li class="breadcrumb-item active" aria-current="page">${escapeHtml(productName)}</li>
-        `;
-    }
 
     const pSku = product.SKU || product.sku || product.asin || product.ASIN || '';
     const pBrand = product.brand || product.Brand || 'General';
@@ -100,6 +90,15 @@ function renderProductDetails(product) {
 
     const pCategory = product.Category || product.category || 'Uncategorized';
     const categorySlug = slugify(pCategory);
+
+    const breadcrumbContainer = document.getElementById('product-breadcrumb');
+    if (breadcrumbContainer) {
+        breadcrumbContainer.innerHTML = `
+            <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+            ${pCategory ? `<li class="breadcrumb-item"><a href="category.html?slug=${categorySlug}">${escapeHtml(pCategory)}</a></li>` : ''}
+            <li class="breadcrumb-item active" aria-current="page">${escapeHtml(productName)}</li>
+        `;
+    }
 
     const stockQty = product.StockQuantity !== undefined ? product.StockQuantity : (product.stockQuantity !== undefined ? product.stockQuantity : 10);
     const pUnit = product.Unit || product.unit || 'PC';
@@ -479,18 +478,21 @@ async function loadAndRenderComments(sku) {
         return;
     }
 
-    container.innerHTML = comments.map(c => `
-        <div class="card border-0 shadow-sm p-3 mb-3 rounded-3 bg-white">
-            <div class="d-flex justify-content-between align-items-center mb-1">
-                <h6 class="fw-bold mb-0 text-dark">👤 ${escapeHtml(c.author)}</h6>
-                <span class="text-muted small">${escapeHtml(c.date)}</span>
+    container.innerHTML = comments.map(c => {
+        const validRating = Math.max(1, Math.min(5, parseInt(c.rating, 10) || 5));
+        return `
+            <div class="card border-0 shadow-sm p-3 mb-3 rounded-3 bg-white">
+                <div class="d-flex justify-content-between align-items-center mb-1">
+                    <h6 class="fw-bold mb-0 text-dark">👤 ${escapeHtml(c.author)}</h6>
+                    <span class="text-muted small">${escapeHtml(c.date)}</span>
+                </div>
+                <div class="mb-2 text-warning fs-6">
+                    ${'★'.repeat(validRating)}${'☆'.repeat(5 - validRating)}
+                </div>
+                <p class="mb-0 text-secondary" style="font-size: 0.95rem;">${escapeHtml(c.text)}</p>
             </div>
-            <div class="mb-2 text-warning fs-6">
-                ${'★'.repeat(c.rating)}${'☆'.repeat(5 - c.rating)}
-            </div>
-            <p class="mb-0 text-secondary" style="font-size: 0.95rem;">${escapeHtml(c.text)}</p>
-        </div>
-    `).join('');
+        `;
+    }).join('');
 }
 
 function setTextContent(elementId, text) {
@@ -534,9 +536,10 @@ document.addEventListener('submit', async (e) => {
         const urlParams = new URLSearchParams(window.location.search);
         const sku = (urlParams.get('sku') || urlParams.get('id') || urlParams.get('asin') || 'default_product').toLowerCase().trim();
         
-        const authorInput = document.getElementById('comment-author').value.trim();
-        const ratingInput = document.getElementById('comment-rating').value;
-        const textInput = document.getElementById('comment-text').value.trim();
+        const authorInput = document.getElementById('comment-author')?.value?.trim();
+        const rawRating = document.getElementById('comment-rating')?.value;
+        const ratingInput = Math.max(1, Math.min(5, parseInt(rawRating, 10) || 5));
+        const textInput = document.getElementById('comment-text')?.value?.trim();
         const trapField = document.getElementById('website_trap');
         const trapInput = trapField ? trapField.value : '';
 
@@ -563,7 +566,7 @@ document.addEventListener('submit', async (e) => {
 
             const newComment = {
                 author: payload.author,
-                rating: parseInt(payload.rating),
+                rating: payload.rating,
                 text: payload.text,
                 date: new Date().toLocaleDateString('en-IN', { year: 'numeric', month: 'short', day: 'numeric' })
             };

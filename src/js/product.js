@@ -7,9 +7,10 @@ document.addEventListener('DOMContentLoaded', async () => {
     const slug = urlParams.get('slug');
 
     try {
+        // Resolve slug from catalog if SKU is missing
         if (!sku && slug) {
-            const catalogRes = await fetch('dist/data/catalog.json');
-            if (catalogRes.ok) {
+            const catalogRes = await fetch('data/catalog.json').catch(() => fetch('dist/data/catalog.json'));
+            if (catalogRes && catalogRes.ok) {
                 const catalog = await catalogRes.json();
                 const matchedProduct = catalog.find(p => (p.slug || '').toLowerCase() === slug.toLowerCase());
                 if (matchedProduct) {
@@ -23,19 +24,27 @@ document.addEventListener('DOMContentLoaded', async () => {
         }
 
         sku = sku.toLowerCase().trim();
-        
         loadAndRenderComments(sku);
 
-        let response = await fetch(`dist/data/products/${sku}.json`);
-
+        // Path fallback logic for dynamic fetching
+        let response = await fetch(`data/products/${sku}.json`);
         if (!response.ok) {
-            const catalogRes = await fetch('dist/data/catalog.json');
-            if (catalogRes.ok) {
+            response = await fetch(`dist/data/products/${sku}.json`);
+        }
+
+        // Secondary lookup in catalog.json if direct file fetch fails
+        if (!response.ok) {
+            const catalogRes = await fetch('data/catalog.json').catch(() => fetch('dist/data/catalog.json'));
+            if (catalogRes && catalogRes.ok) {
                 const catalog = await catalogRes.json();
-                const matchedProduct = catalog.find(p => (p.sku || p.SKU || p.asin || p.ASIN || '').toLowerCase().trim() === sku);
+                const matchedProduct = catalog.find(p => 
+                    (p.sku || p.SKU || p.asin || p.ASIN || p.slug || '').toLowerCase().trim() === sku
+                );
+                
                 if (matchedProduct) {
-                    const catalogSku = matchedProduct.sku || matchedProduct.SKU || matchedProduct.asin || matchedProduct.ASIN;
-                    response = await fetch(`dist/data/products/${slugify(catalogSku)}.json`);
+                    const targetFile = matchedProduct.sku || matchedProduct.SKU || matchedProduct.slug;
+                    response = await fetch(`data/products/${targetFile}.json`)
+                        .catch(() => fetch(`dist/data/products/${targetFile}.json`));
                 }
             }
         }
@@ -45,9 +54,10 @@ document.addEventListener('DOMContentLoaded', async () => {
         const product = await response.json();
         renderProductDetails(product);
         
+        // Fetch related products
         try {
-            const catalogRes = await fetch('dist/data/catalog.json');
-            if (catalogRes.ok) {
+            const catalogRes = await fetch('data/catalog.json').catch(() => fetch('dist/data/catalog.json'));
+            if (catalogRes && catalogRes.ok) {
                 const catalog = await catalogRes.json();
                 renderRelatedProducts(product, catalog);
             }
@@ -73,6 +83,7 @@ function renderProductDetails(product) {
     const productName = product.title || product.Name || product.name || 'Product';
     document.title = `${productName} - Haryana Tools`;
     updatePageMetaTags(product);
+    
     const breadcrumbContainer = document.getElementById('product-breadcrumb');
     if (breadcrumbContainer) {
         const categoryName = product.Category || product.category || '';
@@ -96,13 +107,11 @@ function renderProductDetails(product) {
     setTextContent('product-title', productName);
     setTextContent('product-sku', pSku);
     
-    // Make Brand clickable right next to title
     const brandEl = document.getElementById('product-brand');
     if (brandEl) {
         brandEl.innerHTML = `<a href="category.html?brand=${brandSlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(pBrand)}</a>`;
     }
 
-    // Make Category clickable or viewable
     const categoryEl = document.getElementById('product-category');
     if (categoryEl) {
         categoryEl.innerHTML = `<a href="category.html?slug=${categorySlug}" class="text-primary text-decoration-none fw-semibold">${escapeHtml(pCategory)}</a>`;
@@ -161,7 +170,6 @@ function renderProductDetails(product) {
         const salePrice = parseNumericPrice(rawPrice);
         const productDesc = product.description || product.Description || product.DetailedInfo || `Buy ${productName} at the best price on Haryana Tools.`;
         
-        // Clean description text from HTML tags for meta description
         const tempDiv = document.createElement('div');
         tempDiv.innerHTML = productDesc;
         const cleanDesc = (tempDiv.textContent || tempDiv.innerText || '').substring(0, 160);
@@ -169,14 +177,11 @@ function renderProductDetails(product) {
         const imagesList = product.image_urls || product.Images || product.images || [product.image_url_1 || product.Image || product.image];
         const productImage = imagesList && imagesList.length > 0 ? imagesList[0] : '404.webp';
         
-        // Make image URL absolute if it's relative
         const absoluteImageUrl = productImage.startsWith('http') ? productImage : new URL(productImage, window.location.origin).href;
         const currentUrl = window.location.href;
 
-        // Update standard title
         document.title = `${productName} - ₹${salePrice.toLocaleString('en-IN')} | Haryana Tools`;
 
-        // Helper to safely set or create meta tags
         const setMetaTag = (propertyAttr, attrName, value) => {
             if (!value) return;
             let selector = propertyAttr ? `meta[property="${propertyAttr}"]` : `meta[name="${attrName}"]`;
@@ -191,17 +196,12 @@ function renderProductDetails(product) {
             tag.setAttribute('content', value);
         };
 
-        // Standard SEO Meta
         setMetaTag(null, 'description', cleanDesc);
-
-        // Open Graph / Facebook / WhatsApp Meta Tags
         setMetaTag('og:title', null, `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
         setMetaTag('og:description', null, cleanDesc);
         setMetaTag('og:image', null, absoluteImageUrl);
         setMetaTag('og:url', null, currentUrl);
         setMetaTag('og:type', null, 'product');
-
-        // Twitter Card Meta Tags
         setMetaTag(null, 'twitter:card', 'summary_large_image');
         setMetaTag(null, 'twitter:title', `${productName} - ₹${salePrice.toLocaleString('en-IN')}`);
         setMetaTag(null, 'twitter:description', cleanDesc);
@@ -217,7 +217,6 @@ function renderImageGallery(images, productName) {
 
     if (mainImageEl) {
         mainImageEl.src = primaryImg;
-        // Updated: Descriptive primary image alt tag
         mainImageEl.alt = `${escapeHtml(productName)} - Main View | Haryana Tools`;
         mainImageEl.onerror = function() { 
             this.src = '404.webp'; 
@@ -330,7 +329,7 @@ function renderRelatedProducts(currentProduct, catalog) {
         return `
             <div class="col-6 col-md-3 mb-4">
                 <div class="card h-100 product-card shadow-sm border-0">
-                    <a href="product.html?sku=${productSku}" class="text-decoration-none">
+                    <a href="product.html?id=${productSku}" class="text-decoration-none">
                         <div class="product-img-wrapper position-relative overflow-hidden" style="height: 160px; background-color: #f8f9fa;">
                             <img src="${productImg}" alt="${escapeHtml(productName)} - Industrial Tool" class="w-100 h-100 object-fit-contain p-2" onerror="this.src='404.webp'">
                         </div>
@@ -338,11 +337,11 @@ function renderRelatedProducts(currentProduct, catalog) {
                     <div class="card-body d-flex flex-column p-3">
                         <span class="text-uppercase text-muted small mb-1">${escapeHtml(productBrand)}</span>
                         <h5 class="card-title fs-6 mb-2">
-                            <a href="product.html?sku=${productSku}" class="text-dark text-decoration-none stretched-link">${escapeHtml(productName)}</a>
+                            <a href="product.html?id=${productSku}" class="text-dark text-decoration-none stretched-link">${escapeHtml(productName)}</a>
                         </h5>
                         <div class="mt-auto d-flex align-items-center justify-content-between pt-2">
                             <span class="fw-bold text-primary">₹${productPrice.toLocaleString('en-IN')}</span>
-                            <a href="product.html?sku=${productSku}" class="btn btn-sm btn-outline-primary position-relative z-1">View</a>
+                            <a href="product.html?id=${productSku}" class="btn btn-sm btn-outline-primary position-relative z-1">View</a>
                         </div>
                     </div>
                 </div>
@@ -408,52 +407,6 @@ function showCappedButtonToast(message) {
     setTimeout(() => {
         if (toast.parentElement) toast.remove();
     }, 4000);
-}
-
-function showButtonToast(message) {
-    let container = document.getElementById('global-toast-container');
-    if (!container) {
-        container = document.createElement('div');
-        container.id = 'global-toast-container';
-        container.className = 'position-fixed bottom-0 end-0 p-3';
-        container.style.zIndex = '9999';
-        document.body.appendChild(container);
-    }
-
-    const toast = document.createElement('div');
-    toast.className = 'toast show align-items-center text-white bg-success border-0 shadow-lg p-3';
-    toast.style.cursor = 'pointer';
-    toast.innerHTML = `
-        <div class="d-flex align-items-center justify-content-between">
-            <div class="fw-semibold me-3">✓ ${escapeHtml(message)}</div>
-            <button class="btn btn-sm btn-light text-success fw-bold px-3 py-1 shadow-sm" type="button">View Cart &rarr;</button>
-        </div>
-    `;
-
-    toast.addEventListener('click', () => {
-        window.location.href = 'cart.html';
-    });
-
-    container.appendChild(toast);
-    setTimeout(() => {
-        if (toast.parentElement) toast.remove();
-    }, 4000);
-}
-
-function showFallbackToast(message) {
-    let toastContainer = document.getElementById('fallback-toast-container');
-    if (!toastContainer) {
-        toastContainer = document.createElement('div');
-        toastContainer.id = 'fallback-toast-container';
-        toastContainer.style.cssText = 'position: fixed; bottom: 20px; right: 20px; z-index: 9999;';
-        document.body.appendChild(toastContainer);
-    }
-
-    const toast = document.createElement('div');
-    toast.className = 'alert alert-success shadow-sm py-2 px-3 mb-2 animate-fade';
-    toast.innerHTML = `🌿 ${escapeHtml(message)}`;
-    toastContainer.appendChild(toast);
-    setTimeout(() => { toast.remove(); }, 3000);
 }
 
 function addToCartAction(product, quantity) {

@@ -4,7 +4,6 @@
     <title>Industrial Power Tools & Hardware Catalog | Haryana Tools</title>
     <meta name="description" content="Browse our complete catalog of industrial power tools, heavy machinery, precision hand tools, and solar equipment with verified GST invoices.">
     
-    
     <div id="head-placeholder"></div>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -95,7 +94,7 @@
             </div>
         </section>
 
-        <!-- Anonymous Customer Review Section -->
+        <!-- Customer Review Section -->
         <section class="mt-5 pt-4 border-top">
             <div class="row">
                 <div class="col-lg-8">
@@ -104,34 +103,33 @@
                     <div class="card border-0 shadow-sm p-4 mb-4 rounded-4 bg-white">
                         <h5 class="fw-semibold mb-3">Leave an Anonymous Review</h5>
                         <form id="anonymous-comment-form">
-    <!-- Hidden Anti-Spam Honeypot Field (Invisible to real users, bots fill it out) -->
-    <div style="display:none;">
-        <input type="text" id="website_trap" name="website_trap" autocomplete="off">
-    </div>
+                            <div style="display:none;">
+                                <input type="text" id="website_trap" name="website_trap" autocomplete="off">
+                            </div>
 
-    <div class="mb-3">
-        <label for="comment-author" class="form-label small fw-semibold text-muted">Your Nickname (Optional)</label>
-        <input type="text" class="form-control" id="comment-author" placeholder="e.g., Verified Tool User">
-    </div>
-    
-    <div class="mb-3">
-        <label for="comment-rating" class="form-label small fw-semibold text-muted">Rating</label>
-        <select class="form-select" id="comment-rating">
-            <option value="5">⭐⭐⭐⭐⭐ - Excellent</option>
-            <option value="4">⭐⭐⭐⭐ - Good</option>
-            <option value="3">⭐⭐⭐ - Average</option>
-            <option value="2">⭐⭐ - Poor</option>
-            <option value="1">⭐ - Terrible</option>
-        </select>
-    </div>
-    
-    <div class="mb-3">
-        <label for="comment-text" class="form-label small fw-semibold text-muted">Your Experience</label>
-        <textarea class="form-control" id="comment-text" rows="3" placeholder="Share how this product performed..." required></textarea>
-    </div>
-    
-    <button type="submit" id="submit-review-btn" class="btn btn-dark px-4">Post Review</button>
-</form>
+                            <div class="mb-3">
+                                <label for="comment-author" class="form-label small fw-semibold text-muted">Your Nickname (Optional)</label>
+                                <input type="text" class="form-control" id="comment-author" placeholder="e.g., Verified Tool User">
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="comment-rating" class="form-label small fw-semibold text-muted">Rating</label>
+                                <select class="form-select" id="comment-rating">
+                                    <option value="5">⭐⭐⭐⭐⭐ - Excellent</option>
+                                    <option value="4">⭐⭐⭐⭐ - Good</option>
+                                    <option value="3">⭐⭐⭐ - Average</option>
+                                    <option value="2">⭐⭐ - Poor</option>
+                                    <option value="1">⭐ - Terrible</option>
+                                </select>
+                            </div>
+                            
+                            <div class="mb-3">
+                                <label for="comment-text" class="form-label small fw-semibold text-muted">Your Experience</label>
+                                <textarea class="form-control" id="comment-text" rows="3" placeholder="Share how this product performed..." required></textarea>
+                            </div>
+                            
+                            <button type="submit" id="submit-review-btn" class="btn btn-dark px-4">Post Review</button>
+                        </form>
                     </div>
 
                     <div id="comments-list-container">
@@ -159,57 +157,40 @@
     <script src="../src/js/bootstrap.bundle.min.js"></script>
     <script src="../src/js/product.js" type="module"></script>
 
-    <!-- ALT-FIX-SCRIPT -->
+    <!-- ALT TEXT FIX SCRIPT -->
     <script>
-    document.addEventListener("DOMContentLoaded", function() {
-        const productImages = document.querySelectorAll("img");
-        productImages.forEach(img => {
-            if (!img.alt || img.alt.trim() === "" || img.alt.includes("{{")) {
-                const titleText = document.querySelector("h1") ? document.querySelector("h1").innerText : "Industrial Product";
-                img.alt = titleText + " - Haryana Tools Pehowa";
-            }
-        });
-    });
-    </script>
-    
-   
-<script>
-(function() {
-    function fixMissingAlts() {
-        // Get current product name from H1 or fallback to page heading
-        const productNameEl = document.querySelector('h1') || document.querySelector('.product-title');
-        const productName = productNameEl ? productNameEl.innerText.strip() : 'Industrial Tool Equipment';
-        
-        document.querySelectorAll('img').forEach((img, index) => {
-            if (!img.getAttribute('alt') || img.getAttribute('alt').trim() === '' || img.getAttribute('alt').includes('{{')) {
-                // Determine context from image ID, class, or position
-                if (img.id === 'main-product-img' || img.classList.contains('main-image')) {
-                    img.alt = `${productName} - Main View | Haryana Tools`;
-                } else if (img.classList.contains('thumbnail') || img.closest('.gallery')) {
-                    img.alt = `${productName} - Detail View ${index + 1} | Haryana Tools`;
-                } else if (img.closest('.related-products') || img.classList.contains('related-img')) {
-                    img.alt = `Related Industrial Tool - Haryana Tools`;
-                } else {
-                    img.alt = `${productName} - Industrial Equipment | Haryana Tools`;
+    (function() {
+        function fixMissingAlts() {
+            const productNameEl = document.querySelector('h1') || document.querySelector('.product-title');
+            // Fixed .strip() to JS standard .trim()
+            const productName = productNameEl ? productNameEl.innerText.trim() : 'Industrial Tool Equipment';
+            
+            document.querySelectorAll('img').forEach((img, index) => {
+                if (!img.getAttribute('alt') || img.getAttribute('alt').trim() === '' || img.getAttribute('alt').includes('{{')) {
+                    if (img.id === 'main-product-image' || img.classList.contains('main-img')) {
+                        img.alt = `${productName} - Main View | Haryana Tools`;
+                    } else if (img.classList.contains('thumbnail') || img.closest('.product-gallery')) {
+                        img.alt = `${productName} - Detail View ${index + 1} | Haryana Tools`;
+                    } else if (img.closest('#related-products-grid') || img.classList.contains('related-img')) {
+                        img.alt = `Related Industrial Tool - Haryana Tools`;
+                    } else {
+                        img.alt = `${productName} - Industrial Equipment | Haryana Tools`;
+                    }
                 }
-            }
+            });
+        }
+
+        document.addEventListener('DOMContentLoaded', fixMissingAlts);
+
+        const observer = new MutationObserver(function() {
+            fixMissingAlts();
         });
-    }
 
-    // Run on initial page load
-    document.addEventListener('DOMContentLoaded', fixMissingAlts);
-
-    // Observe dynamic JS insertions (Product details loaded via API/SKU fetch)
-    const observer = new MutationObserver(function(mutations) {
-        fixMissingAlts();
-    });
-
-    observer.observe(document.body, {
-        childList: true,
-        subtree: true
-    });
-})();
-</script>
-
+        observer.observe(document.body, {
+            childList: true,
+            subtree: true
+        });
+    })();
+    </script>
 </body>
 </html>

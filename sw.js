@@ -29,11 +29,47 @@ self.addEventListener('activate', (event) => {
   self.clients.claim();
 });
 
-// Fetch Event (Serves from cache, falls back to network)
+// Fetch Event
 self.addEventListener('fetch', (event) => {
+  // Only handle GET requests
+  if (event.request.method !== 'GET') return;
+
+  const requestUrl = new URL(event.request.url);
+
+  // Strategy for JSON files & API endpoints: Network-first (fallback to cache)
+  if (requestUrl.pathname.endsWith('.json') || requestUrl.pathname.includes('/api/')) {
+    event.respondWith(
+      fetch(event.request)
+        .then((networkResponse) => {
+          if (networkResponse && networkResponse.status === 200) {
+            const responseClone = networkResponse.clone();
+            caches.open(CACHE_NAME).then((cache) => cache.put(event.request, responseClone));
+          }
+          return networkResponse;
+        })
+        .catch(() => {
+          // Fallback to cache if offline or network fails
+          return caches.match(event.request);
+        })
+    );
+    return;
+  }
+
+  // Strategy for static assets: Cache-first (fallback to network with error catch)
   event.respondWith(
     caches.match(event.request).then((cachedResponse) => {
-      return cachedResponse || fetch(event.request);
+      if (cachedResponse) {
+        return cachedResponse;
+      }
+
+      return fetch(event.request).catch((err) => {
+        console.warn('Service Worker fetch failed for:', event.request.url, err);
+        // Returning a generic Response object prevents unhandled promise rejections
+        return new Response('Network error occurred', {
+          status: 408,
+          headers: { 'Content-Type': 'text/plain' }
+        });
+      });
     })
   );
 });
